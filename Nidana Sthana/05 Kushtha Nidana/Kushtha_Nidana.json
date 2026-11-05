@@ -1,0 +1,2163 @@
+{
+    "source": "Charaka Samhita",
+    "chapter": "Kushtha Nidana",
+    "url": "https://www.carakasamhitaonline.com/index.php?title=Kushtha_Nidana",
+    "xpath": "//*[@id=\"content\"]",
+    "total_blocks": 160,
+    "total_tables": 5,
+    "total_headings": 28,
+    "content": [
+        {
+            "type": "h1",
+            "text": "Kushtha Nidana",
+            "html": "<h1 class=\"firstHeading mw-first-heading\" id=\"firstHeading\"><span class=\"mw-page-title-main\">Kushtha Nidana</span></h1>",
+            "level": 1
+        },
+        {
+            "type": "figure",
+            "text": "",
+            "html": "<figure class=\"mw-default-size mw-halign-right\" typeof=\"mw:File\"><a href=\"https://www.carakasamhitaonline.com/index.php?title=Special:CiteThisPage&amp;page=Kushtha_Nidana&amp;id=44501&amp;wpFormIdentifier=titleform\" rel=\"nofollow\"><img class=\"mw-file-element\" decoding=\"async\" height=\"47\" src=\"/images/5/58/Cite.png\" width=\"180\"/></a><figcaption></figcaption></figure>"
+        },
+        {
+            "type": "p",
+            "text": "Nidana Sthana Chapter 5. Diagnosis and etiopathogenesis of Skin diseases",
+            "html": "<p><big><b>Nidana Sthana Chapter 5. Diagnosis and etiopathogenesis of Skin diseases </b></big>\n</p>"
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "Section/Chapter",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Nidana Sthana Chapter 5",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Preceding Chapter",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Prameha Nidana",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Succeeding Chapter",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Shosha Nidana",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Other Sections",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Sutra Sthana , Vimana Sthana , Sharira Sthana , Indriya Sthana , Chikitsa Sthana , Kalpa Sthana , Siddhi Sthana",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Translator and commentator",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Baghel M.S., Mandal S.K.",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Reviewer",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Nimbalkar R.",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Editors",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Khandel S.K, Godatwar P., Deole Y.S. , Basisht G.",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Year of publication",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "2020",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Publisher",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Charak Samhita Research, Training and Skill Development Centre",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "DOI",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "10.47468/CSNE.2020.e01.s02.006",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ]
+            ],
+            "html": "<table class=\"infobox\" style=\"width:22em\"><caption>Kushtha Nidana</caption><tbody><tr><th scope=\"row\">Section/Chapter</th><td>\n<a href=\"/index.php?title=Nidana_Sthana\" title=\"Nidana Sthana\">Nidana Sthana</a> Chapter 5</td></tr><tr><th scope=\"row\">Preceding Chapter</th><td>\n<a href=\"/index.php?title=Prameha_Nidana\" title=\"Prameha Nidana\">Prameha Nidana</a></td></tr><tr><th scope=\"row\">Succeeding Chapter</th><td>\n<a href=\"/index.php?title=Shosha_Nidana\" title=\"Shosha Nidana\">Shosha Nidana</a></td></tr><tr><th scope=\"row\">Other Sections</th><td>\n<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a>, <a href=\"/index.php?title=Vimana_Sthana\" title=\"Vimana Sthana\">Vimana Sthana</a>,  <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a>,  <a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a>, <a href=\"/index.php?title=Chikitsa_Sthana\" title=\"Chikitsa Sthana\">Chikitsa Sthana</a>, <a href=\"/index.php?title=Kalpa_Sthana\" title=\"Kalpa Sthana\">Kalpa Sthana</a>, <a href=\"/index.php?title=Siddhi_Sthana\" title=\"Siddhi Sthana\">Siddhi Sthana</a></td></tr><tr><th scope=\"row\">Translator and commentator</th><td>\nBaghel M.S., Mandal S.K.</td></tr><tr><th scope=\"row\">Reviewer</th><td>\nNimbalkar R.</td></tr><tr><th scope=\"row\">Editors</th><td>\nKhandel S.K, Godatwar P., <a href=\"/index.php?title=Yogesh_Deole\" title=\"Yogesh Deole\">Deole Y.S.</a>, <a href=\"/index.php?title=Gopal_Basisht\" title=\"Gopal Basisht\">Basisht G.</a></td></tr><tr><th scope=\"row\">Year of publication</th><td>\n2020</td></tr><tr><th scope=\"row\">Publisher</th><td>\n<a href=\"/index.php?title=Charak_Samhita_Research,_Training_and_Skill_Development_Centre\" title=\"Charak Samhita Research, Training and Skill Development Centre\">Charak Samhita Research, Training and Skill Development Centre</a></td></tr><tr><th scope=\"row\">DOI</th><td>\n<a class=\"external text\" href=\"https://doi.org/10.47468/CSNE.2020.e01.s02.006\" rel=\"nofollow\">10.47468/CSNE.2020.e01.s02.006</a></td></tr></tbody></table>"
+        },
+        {
+            "type": "p",
+            "text": "Abstract",
+            "html": "<p><big><b>Abstract</b></big>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "This chapter deals with diagnosis of skin disease termed as Kushtha. The disease has variable manifestations on skin depending upon degree of involvement of three vitiated dosha and their effect on four vitiated factors i.e. rasa , rakta , mamsa and lasika (lymphatic system). On the basis of clinical manifestations and severity, kushtha is classified into seven major types, eleven minor types or innumerable types due to the permutation and combination of dosha predominance and involvement of particular quality of a dhatu and accretion of dosha at different sites. The etiopathology, prodromal symptoms (purvarupa), symptomatology of seven major types of kushtha (maha-kushtha), their dosha predominance, prognosis, complications and significance of early treatment are described in this chapter. Keywords : Kushtha, Mandal, Kapala, Kakanak, Audambar, Rishyajihva, Pundareeka, Sidhma , causes of skin diseases, discoloration of skin.",
+            "html": "<p style=\"text-align:justify;\">This chapter deals with diagnosis of skin disease termed as Kushtha. The disease has variable manifestations on skin depending upon degree of involvement of three vitiated <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> and their effect on four vitiated factors i.e. <a href=\"/index.php?title=Rasa\" title=\"Rasa\">rasa</a>, <a class=\"mw-redirect\" href=\"/index.php?title=Rakta\" title=\"Rakta\">rakta</a>, <a class=\"mw-redirect\" href=\"/index.php?title=Mamsa\" title=\"Mamsa\">mamsa</a> and lasika (lymphatic system). On the basis of clinical manifestations and severity, kushtha is classified into seven major types, eleven minor types or innumerable types due to the permutation and combination of <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> predominance and involvement of particular quality of a <a href=\"/index.php?title=Dhatu\" title=\"Dhatu\">dhatu</a> and accretion of <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> at different sites. The etiopathology, prodromal symptoms (purvarupa), symptomatology of seven major types of kushtha (maha-kushtha), their <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> predominance, prognosis, complications and significance of early treatment are described in this chapter. <br/>\n<b>Keywords</b>: <i>Kushtha, Mandal, Kapala, Kakanak, Audambar, Rishyajihva, Pundareeka, Sidhma</i>, causes of skin diseases, discoloration of skin. \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "",
+            "html": "<p><br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "",
+            "html": "<p><br/>\n</p>"
+        },
+        {
+            "type": "h2",
+            "text": "Contents",
+            "html": "<h2 id=\"mw-toc-heading\">Contents</h2>",
+            "level": 2
+        },
+        {
+            "type": "ul",
+            "text": "1 Introduction 2 Sanskrit Text, Transliteration and English Translation 2.1 Pathogenic factors in kushtha 2.2 Possible types of kushtha 2.3 Seven types of kushtha 2.4 Common etiological factors of kushtha 2.5 Premonitory signs of kushtha 2.6 Specific features of kapala kushtha 2.7 Audumbara kushtha 2.8 Mandala kushtha 2.9 Rishyajihva kushtha 2.10 Pundarika kushtha 2.11 Sidhma kushtha 2.12 Kakanaka kushtha 2.13 Prognosis 2.14 Complications of kushtha 2.15 Summary 3 Tattva Vimarsha (Fundamental Principles) 4 Vidhi Vimarsha (Applied Inferences) 4.1 Causes of kushtha 4.2 Classification of kushtha 4.3 Layers of skin 4.4 Dosha specific variation in kushtha 4.5 Prognosis of kushtha 4.6 Research works on kushtha 5 Related Chapters",
+            "html": "<ul>\n<li class=\"toclevel-1 tocsection-1\"><a href=\"#Introduction\"><span class=\"tocnumber\">1</span> <span class=\"toctext\">Introduction</span></a></li>\n<li class=\"toclevel-1 tocsection-2\"><a href=\"#Sanskrit_Text,_Transliteration_and_English_Translation\"><span class=\"tocnumber\">2</span> <span class=\"toctext\">Sanskrit Text, Transliteration and English Translation</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-3\"><a href=\"#Pathogenic_factors_in_kushtha\"><span class=\"tocnumber\">2.1</span> <span class=\"toctext\">Pathogenic factors in kushtha</span></a></li>\n<li class=\"toclevel-2 tocsection-4\"><a href=\"#Possible_types_of_kushtha\"><span class=\"tocnumber\">2.2</span> <span class=\"toctext\">Possible types of kushtha</span></a></li>\n<li class=\"toclevel-2 tocsection-5\"><a href=\"#Seven_types_of_kushtha\"><span class=\"tocnumber\">2.3</span> <span class=\"toctext\">Seven types of kushtha</span></a></li>\n<li class=\"toclevel-2 tocsection-6\"><a href=\"#Common_etiological_factors_of_kushtha\"><span class=\"tocnumber\">2.4</span> <span class=\"toctext\">Common etiological factors of kushtha</span></a></li>\n<li class=\"toclevel-2 tocsection-7\"><a href=\"#Premonitory_signs_of_kushtha\"><span class=\"tocnumber\">2.5</span> <span class=\"toctext\">Premonitory signs of kushtha</span></a></li>\n<li class=\"toclevel-2 tocsection-8\"><a href=\"#Specific_features_of_kapala_kushtha\"><span class=\"tocnumber\">2.6</span> <span class=\"toctext\">Specific features of <i>kapala kushtha</i></span></a></li>\n<li class=\"toclevel-2 tocsection-9\"><a href=\"#Audumbara_kushtha\"><span class=\"tocnumber\">2.7</span> <span class=\"toctext\"><i>Audumbara kushtha</i></span></a></li>\n<li class=\"toclevel-2 tocsection-10\"><a href=\"#Mandala_kushtha\"><span class=\"tocnumber\">2.8</span> <span class=\"toctext\"><i>Mandala kushtha</i></span></a></li>\n<li class=\"toclevel-2 tocsection-11\"><a href=\"#Rishyajihva_kushtha\"><span class=\"tocnumber\">2.9</span> <span class=\"toctext\"><i>Rishyajihva kushtha</i></span></a></li>\n<li class=\"toclevel-2 tocsection-12\"><a href=\"#Pundarika_kushtha\"><span class=\"tocnumber\">2.10</span> <span class=\"toctext\"><i>Pundarika kushtha</i></span></a></li>\n<li class=\"toclevel-2 tocsection-13\"><a href=\"#Sidhma_kushtha\"><span class=\"tocnumber\">2.11</span> <span class=\"toctext\"><i>Sidhma kushtha</i></span></a></li>\n<li class=\"toclevel-2 tocsection-14\"><a href=\"#Kakanaka_kushtha\"><span class=\"tocnumber\">2.12</span> <span class=\"toctext\"><i>Kakanaka kushtha</i></span></a></li>\n<li class=\"toclevel-2 tocsection-15\"><a href=\"#Prognosis\"><span class=\"tocnumber\">2.13</span> <span class=\"toctext\">Prognosis</span></a></li>\n<li class=\"toclevel-2 tocsection-16\"><a href=\"#Complications_of_kushtha\"><span class=\"tocnumber\">2.14</span> <span class=\"toctext\">Complications of kushtha</span></a></li>\n<li class=\"toclevel-2 tocsection-17\"><a href=\"#Summary\"><span class=\"tocnumber\">2.15</span> <span class=\"toctext\">Summary</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-18\"><a href=\"#Tattva_Vimarsha_(Fundamental_Principles)\"><span class=\"tocnumber\">3</span> <span class=\"toctext\">Tattva Vimarsha (Fundamental Principles)</span></a></li>\n<li class=\"toclevel-1 tocsection-19\"><a href=\"#Vidhi_Vimarsha_(Applied_Inferences)\"><span class=\"tocnumber\">4</span> <span class=\"toctext\">Vidhi Vimarsha (Applied Inferences)</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-20\"><a href=\"#Causes_of_kushtha\"><span class=\"tocnumber\">4.1</span> <span class=\"toctext\">Causes of kushtha</span></a></li>\n<li class=\"toclevel-2 tocsection-21\"><a href=\"#Classification_of_kushtha\"><span class=\"tocnumber\">4.2</span> <span class=\"toctext\">Classification of kushtha</span></a></li>\n<li class=\"toclevel-2 tocsection-22\"><a href=\"#Layers_of_skin\"><span class=\"tocnumber\">4.3</span> <span class=\"toctext\">Layers of skin</span></a></li>\n<li class=\"toclevel-2 tocsection-23\"><a href=\"#Dosha_specific_variation_in_kushtha\"><span class=\"tocnumber\">4.4</span> <span class=\"toctext\">Dosha specific variation in kushtha</span></a></li>\n<li class=\"toclevel-2 tocsection-24\"><a href=\"#Prognosis_of_kushtha\"><span class=\"tocnumber\">4.5</span> <span class=\"toctext\">Prognosis of kushtha</span></a></li>\n<li class=\"toclevel-2 tocsection-25\"><a href=\"#Research_works_on_kushtha\"><span class=\"tocnumber\">4.6</span> <span class=\"toctext\">Research works on kushtha</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-26\"><a href=\"#Related_Chapters\"><span class=\"tocnumber\">5</span> <span class=\"toctext\">Related Chapters</span></a></li>\n</ul>",
+            "items": [
+                "1 Introduction",
+                "2 Sanskrit Text, Transliteration and English Translation 2.1 Pathogenic factors in kushtha 2.2 Possible types of kushtha 2.3 Seven types of kushtha 2.4 Common etiological factors of kushtha 2.5 Premonitory signs of kushtha 2.6 Specific features of kapala kushtha 2.7 Audumbara kushtha 2.8 Mandala kushtha 2.9 Rishyajihva kushtha 2.10 Pundarika kushtha 2.11 Sidhma kushtha 2.12 Kakanaka kushtha 2.13 Prognosis 2.14 Complications of kushtha 2.15 Summary",
+                "3 Tattva Vimarsha (Fundamental Principles)",
+                "4 Vidhi Vimarsha (Applied Inferences) 4.1 Causes of kushtha 4.2 Classification of kushtha 4.3 Layers of skin 4.4 Dosha specific variation in kushtha 4.5 Prognosis of kushtha 4.6 Research works on kushtha",
+                "5 Related Chapters"
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Introduction",
+            "html": "<h2><span class=\"mw-headline\" id=\"Introduction\">Introduction</span></h2>",
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "The term 'kushtha' literally means disfigurement of skin. Thus all the dermatological manifestations have been clubbed under the term kushtha. For which Charak has devoted two full chapters, the fifth chapter in Nidana Sthana dealing with the etiopathogenesis and the seventh chapter in the Chikitsa Sthana deals with etiopathogenesis and treatment. Dermatological diseases have been classified into four groups, which include seven types of kushtha (dermatosis), seven types of visarpa (a form of acute dermatitis like erysipelas), seven types of pidaka (papular presentations) and three types of kilasa (vitiligo) ( Sutra Sthana 19/3). However, looking to the clinical importance, acuteness and progression, one full chapter has been devoted to visarpa , one of the major dermatological conditions. [Cha.Sa. Chikitsa Sthana 21] Some other clinical presentations like Urticaria ( udarda, kotha ), nilika (bluish discoloration of the skin), tilalklaka (mole), piplu (port wine mark on skin), vyanga etc. have also been explained briefly at other places. Detailed description and classification of pidaka (papules) is given in the seventeenth chapter of Sutra Sthana .",
+            "html": "<p>The term 'kushtha' literally means disfigurement of skin. Thus all the dermatological manifestations have been clubbed under the term kushtha. For which Charak has devoted two full chapters, the fifth chapter in <a href=\"/index.php?title=Nidana_Sthana\" title=\"Nidana Sthana\">Nidana Sthana</a> dealing with the etiopathogenesis and the seventh chapter in the <a href=\"/index.php?title=Chikitsa_Sthana\" title=\"Chikitsa Sthana\">Chikitsa Sthana</a> deals with etiopathogenesis and treatment. Dermatological diseases have been classified into four groups, which include seven types of kushtha (dermatosis), seven types of <i>visarpa</i> (a form of acute dermatitis like erysipelas), seven types of <i>pidaka</i> (papular presentations) and three types of <i>kilasa</i> (vitiligo) (<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 19/3). However, looking to the clinical importance, acuteness and progression, one full chapter has been devoted to <i>visarpa</i>, one of the major dermatological conditions. [Cha.Sa.<a href=\"/index.php?title=Chikitsa_Sthana\" title=\"Chikitsa Sthana\">Chikitsa Sthana</a> 21] Some other clinical presentations like Urticaria (<i>udarda, kotha</i>), <i>nilika</i> (bluish discoloration of the skin), <i>tilalklaka</i> (mole), <i>piplu</i>(port wine mark on skin), <i>vyanga</i> etc. have also been explained briefly at other places. Detailed description and classification of <i>pidaka</i> (papules) is given in the seventeenth chapter of <a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a>. \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Some scholars like William Monier and others have translated the word kushtha as leprosy which is incorrect, because skin manifestations of advanced kushtha resemble leprosy, but there is absence of Mycobacterium leprea. In advanced stages of kushtha, secondary infection with bacteria occurs ( jantudagdha or eaten by microorganism). Skin disorders are innumerable, and accordingly a broad pathogenesis and management has been described. Among the two broad groups, Mahakushtha (major dermatosis) has seven types which include the conditions where all the seven pathological components are involved. The disease progresses beyond the skin and may lead to destruction of limbs. Whereas kshudra-kushtha (minor dermatosis) has eleven types which includes the conditions where some of the seven pathological components are involved, have few symptoms, disease runs a chronic course and is usually curable. kushtha is described in such a fashion that it may explain any of the dermatological conditions of present era. Their pathological features can be ascertained and treatment protocol can be established.",
+            "html": "<p>Some scholars like William Monier and others have translated the word kushtha as leprosy which is incorrect, because skin manifestations of advanced kushtha resemble leprosy, but there is absence of Mycobacterium leprea. In advanced stages of kushtha, secondary infection with bacteria occurs (<i>jantudagdha</i> or eaten by microorganism). Skin disorders are innumerable, and accordingly a broad pathogenesis and management has been described. Among the two broad groups, <i>Mahakushtha</i> (major dermatosis) has seven types which include the conditions where all the seven pathological components are involved. The disease progresses beyond the skin and may lead to destruction of limbs. Whereas <i>kshudra-kushtha</i> (minor dermatosis) has eleven types which includes the conditions where some of the seven pathological components are involved, have few symptoms, disease runs a chronic course and is usually curable. kushtha is described in such a fashion that it may explain any of the dermatological conditions of present era. Their pathological features can be ascertained and treatment protocol can be established.\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "The concept of micro-organism and parasitology was established by Charak and he had the knowledge that micro-organisms are responsible for the causation of dermatological manifestations [Cha.Sa. Vimana Sthana 7/11]. Their treatment is to be followed like the treatment of kushtha. In the symptomatology of kushtha presence of krimi is described as one of the symptoms, which denotes visible worms usually maggots ( samsvedaja krimi ).",
+            "html": "<p>The concept of micro-organism and parasitology was established by Charak and he had the knowledge that micro-organisms are responsible for the causation of dermatological manifestations [Cha.Sa. <a href=\"/index.php?title=Vimana_Sthana\" title=\"Vimana Sthana\">Vimana Sthana</a> 7/11]. Their treatment is to be followed like the treatment of kushtha. In the symptomatology of kushtha presence of <i>krimi</i> is described as one of the symptoms, which denotes visible worms usually maggots (<i>samsvedaja krimi</i>).\n</p>"
+        },
+        {
+            "type": "h2",
+            "text": "Sanskrit Text, Transliteration and English Translation",
+            "html": "<h2><span id=\"Sanskrit_Text.2C_Transliteration_and_English_Translation\"></span><span class=\"mw-headline\" id=\"Sanskrit_Text,_Transliteration_and_English_Translation\">Sanskrit Text, Transliteration and English Translation</span></h2>",
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "अथातः कुष्ठनिदानं व्याख्यास्यामः||१||",
+            "html": "<p>अथातः कुष्ठनिदानं व्याख्यास्यामः||१|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "इति ह स्माह भगवानात्रेयः||२||",
+            "html": "<p>इति ह स्माह भगवानात्रेयः||२|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "athātaḥ kuṣṭhanidānaṁ vyākhyāsyāmaḥ||1||",
+            "html": "<p>athātaḥ kuṣṭhanidānaṁ vyākhyāsyāmaḥ||1|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "iti ha smāha bhagavānātrēyaḥ||2||",
+            "html": "<p>iti ha smāha bhagavānātrēyaḥ||2|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "athAtaHkuShThanidAnaMvyAkhyAsyAmaH||1||",
+            "html": "<p>athAtaHkuShThanidAnaMvyAkhyAsyAmaH||1|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "iti ha smAhabhagavAnAtreyaH||2||",
+            "html": "<p>iti ha smAhabhagavAnAtreyaH||2||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Now we shall expound the chapter \"Kushtha Nidana\" (Diagnosis and etiopathogenesis of Skin diseases). Thus said Lord Atreya.[1-2]",
+            "html": "<p>Now we shall expound the chapter \"Kushtha Nidana\" (Diagnosis and etiopathogenesis of Skin diseases). Thus said Lord Atreya.[1-2]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Pathogenic factors in kushtha",
+            "html": "<h3><span class=\"mw-headline\" id=\"Pathogenic_factors_in_kushtha\">Pathogenic factors in kushtha</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "सप्त द्रव्याणि कुष्ठानां प्रकृतिर्विकृतिमापन्नानि भवन्ति|\nतद्यथा- त्रयो दोषा वातपित्तश्लेष्माणः प्रकोपणविकृताः, दूष्याश्च शरीरधातवस्त्वङ्मांसशोणितलसीकाश्चतुर्धा दोषोपघातविकृता इति|\nएतत् सप्तानां सप्तधातुकमेवङ्गतमाजननं कुष्ठानाम्, अतःप्रभवाण्यभिनिर्वर्तमानानि केवलं\nशरीरमुपतपन्ति||३||",
+            "html": "<p>सप्त द्रव्याणि कुष्ठानां प्रकृतिर्विकृतिमापन्नानि  भवन्ति| \nतद्यथा- त्रयो दोषा वातपित्तश्लेष्माणः प्रकोपणविकृताः, दूष्याश्च शरीरधातवस्त्वङ्मांसशोणितलसीकाश्चतुर्धा  दोषोपघातविकृता इति| \nएतत् सप्तानां सप्तधातुकमेवङ्गतमाजननं कुष्ठानाम्, अतःप्रभवाण्यभिनिर्वर्तमानानि केवलं \nशरीरमुपतपन्ति||३|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "sapta dravyāṇi kuṣṭhānāṁ prakr̥tirvikr̥timāpannāni [1] bhavanti|\ntadyathā- trayō dōṣā vātapittaślēṣmāṇaḥ prakōpaṇavikr̥tāḥ, dūṣyāścaśarīradhātavastvaṅmāṁsaśōṇitalasīkāścaturdhā [2] dōṣōpaghātavikr̥tā iti|\nētat saptānāṁ saptadhātukamēvaṅgatamājananaṁ kuṣṭhānām, ataḥprabhavāṇyabhinirvartamānānikēvalaṁ śarīramupatapanti||3||",
+            "html": "<p>sapta dravyāṇi kuṣṭhānāṁ prakr̥tirvikr̥timāpannāni [1] bhavanti| \ntadyathā- trayō dōṣā vātapittaślēṣmāṇaḥ prakōpaṇavikr̥tāḥ, dūṣyāścaśarīradhātavastvaṅmāṁsaśōṇitalasīkāścaturdhā [2] dōṣōpaghātavikr̥tā iti| \nētat saptānāṁ saptadhātukamēvaṅgatamājananaṁ kuṣṭhānām, ataḥprabhavāṇyabhinirvartamānānikēvalaṁ śarīramupatapanti||3||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "saptadravyANikuShThanAMprakRutirvikRutimApannAnibhavanti| tadyathA- trayodoShAvAtapittashleShmANaHprakopaNavikRutAH, dUShyAshcasharIradhAtavastva~gmAMsashoNitalasIkAshcaturdhAdoShopaghAtavikRutAiti| etatsaptadhAtukameva~ggatamAjananaMkuShThanAm, ataHprabhavANyabhinirvartamAnAnikevalaMsharIramupatapanti||3||",
+            "html": "<p>saptadravyANikuShThanAMprakRutirvikRutimApannAnibhavanti| tadyathA- trayodoShAvAtapittashleShmANaHprakopaNavikRutAH, dUShyAshcasharIradhAtavastva~gmAMsashoNitalasIkAshcaturdhAdoShopaghAtavikRutAiti| etatsaptadhAtukameva~ggatamAjananaMkuShThanAm, ataHprabhavANyabhinirvartamAnAnikevalaMsharIramupatapanti||3||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "The pathology of skin diseases origin from the deranged physiology of seven factors connected to skin. They are vata , pitta and kapha doshas in aggravated state and dhatus , namely, tvak (the word tvak represents skin. Since the skin is organ in which rasa dhatu is present, tvak word is used instead of rasa dhatu ), mamsa , shonita and lasika that get deranged due to aggravated dosha . So seven type of kushtha are manifested by these seven morbid factors. Thus preliminary and manifested kushtha gradually afflicts the whole body. [3]",
+            "html": "<p>The pathology of skin diseases origin from the deranged physiology of seven factors connected to skin. They are <i><a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a>, <a href=\"/index.php?title=Pitta\" title=\"Pitta\">pitta</a></i> and <i><a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a></i> <i><a href=\"/index.php?title=Dosha\" title=\"Dosha\">doshas</a></i> in aggravated state and <i><a href=\"/index.php?title=Dhatu\" title=\"Dhatu\">dhatus</a></i>, namely, <i>tvak</i> (the word <i>tvak</i> represents skin. Since the skin is organ in which <i><a href=\"/index.php?title=Rasa_dhatu\" title=\"Rasa dhatu\">rasa dhatu</a></i> is present, <i>tvak</i> word is used instead of <i><a href=\"/index.php?title=Rasa_dhatu\" title=\"Rasa dhatu\">rasa dhatu</a></i> ), <i><a class=\"mw-redirect\" href=\"/index.php?title=Mamsa\" title=\"Mamsa\">mamsa</a>, shonita</i> and <i>lasika</i> that get deranged due to aggravated <i><a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a></i>. So seven type of kushtha are manifested by these seven morbid factors. Thus preliminary and manifested kushtha gradually afflicts the whole body. [3]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Possible types of kushtha",
+            "html": "<h3><span class=\"mw-headline\" id=\"Possible_types_of_kushtha\">Possible types of kushtha</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "न च किञ्चिदस्ति कुष्ठमेकदोषप्रकोपनिमित्तम्, अस्ति तु खलु समानप्रकृतीनामपि कुष्ठानां दोषांशांशविकल्पानुबन्धस्थानविभागेन वेदनावर्णसंस्थानप्रभावनामचिकित्सितविशेषः|\nस सप्तविधोऽष्टादशविधोऽपरिसङ्ख्येयविधो वा भवति|\nदोषा हि विकल्पनैर्विकल्प्यमाना विकल्पयन्ति विकारान्, अन्यत्रासाध्यभावात्|\nतेषां विकल्पविकारसङ्ख्यानेऽतिप्रसङ्गमभिसमीक्ष्य सप्तविधमेव कुष्ठविशेषमुपदेक्ष्यामः||४||",
+            "html": "<p>न च किञ्चिदस्ति कुष्ठमेकदोषप्रकोपनिमित्तम्, अस्ति तु खलु समानप्रकृतीनामपि कुष्ठानां दोषांशांशविकल्पानुबन्धस्थानविभागेन वेदनावर्णसंस्थानप्रभावनामचिकित्सितविशेषः| \nस सप्तविधोऽष्टादशविधोऽपरिसङ्ख्येयविधो वा भवति| \nदोषा हि विकल्पनैर्विकल्प्यमाना विकल्पयन्ति विकारान्, अन्यत्रासाध्यभावात्| \nतेषां विकल्पविकारसङ्ख्यानेऽतिप्रसङ्गमभिसमीक्ष्य सप्तविधमेव कुष्ठविशेषमुपदेक्ष्यामः||४|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "na ca kiñcidasti kuṣṭhamēkadōṣaprakōpanimittam, asti tu khalu samānaprakr̥tīnāmapi kuṣṭhānāṁdōṣāṁśāṁśavikalpānubandhasthānavibhāgēna vēdanāvarṇasaṁsthānaprabhāvanāmacikitsitaviśēṣaḥ|\nsa saptavidhō'ṣṭādaśavidhō'parisaṅkhyēyavidhō vā bhavati|\ndōṣā hi vikalpanairvikalpyamānā vikalpayanti vikārān, anyatrāsādhyabhāvāt|\ntēṣāṁ vikalpavikārasaṅkhyānē'tiprasaṅgamabhisamīkṣya saptavidhamēvakuṣṭhaviśēṣamupadēkṣyāmaḥ||4||",
+            "html": "<p>na ca kiñcidasti kuṣṭhamēkadōṣaprakōpanimittam, asti tu khalu samānaprakr̥tīnāmapi kuṣṭhānāṁdōṣāṁśāṁśavikalpānubandhasthānavibhāgēna vēdanāvarṇasaṁsthānaprabhāvanāmacikitsitaviśēṣaḥ| \nsa saptavidhō'ṣṭādaśavidhō'parisaṅkhyēyavidhō vā bhavati| \ndōṣā hi vikalpanairvikalpyamānā vikalpayanti vikārān, anyatrāsādhyabhāvāt| \ntēṣāṁ vikalpavikārasaṅkhyānē'tiprasaṅgamabhisamīkṣya saptavidhamēvakuṣṭhaviśēṣamupadēkṣyāmaḥ||4||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "na caki~jcidastikuShThamekadoShaprakopanimittam, astitukhalusamAnaprakRutInAmapi\nkuShThanAMdoShAMshAMshavikalpAnubandhasthAnavibhAgenavedanAvarNasaMsthAnaprabhAvanAmacikitsitavisheShaH| sasaptavidho~aShTAdashavidho~aparisa~gkhyeyavidhovAbhavati| doShA hi vikalpanairvikalpyamAnAvikalpayantivikArAn, anyatrAsAdhyabhAvAt| teShAMvikalpavikArasa~gkhyAne~atiprasa~ggamabhisamIkShyasaptavidhamevakuShThavisheShamupadekShyAmaH||4||",
+            "html": "<p>na caki~jcidastikuShThamekadoShaprakopanimittam, astitukhalusamAnaprakRutInAmapi\nkuShThanAMdoShAMshAMshavikalpAnubandhasthAnavibhAgenavedanAvarNasaMsthAnaprabhAvanAmacikitsitavisheShaH| sasaptavidho~aShTAdashavidho~aparisa~gkhyeyavidhovAbhavati| doShA hi vikalpanairvikalpyamAnAvikalpayantivikArAn, anyatrAsAdhyabhAvAt| teShAMvikalpavikArasa~gkhyAne~atiprasa~ggamabhisamIkShyasaptavidhamevakuShThavisheShamupadekShyAmaH||4|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Variation in single dosha cannot cause kushtha. Even in kushtha with similar presentations, the clinical features in terms of sensation in skin, colour, site of skin lesion, other symptoms, and treatment may vary depending on the variation in vitiation of (qualities of) dosha . Therefore there are seven or eighteen or innumerable types of kushtha. The variations in qualities of vitiated dosha lead to further differentiation in types of diseases, except in incurable conditions. As there might be innumerable types of kushtha leading to expansion of text, only seven types of kushtha are described here. [4]",
+            "html": "<p>Variation in single <i><a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a></i> cannot cause kushtha. Even in kushtha with similar presentations, the clinical features in terms of sensation in skin, colour, site of skin lesion, other symptoms, and treatment may vary depending on the variation in vitiation of (qualities of) <i><a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a></i>. Therefore there are seven or eighteen or innumerable types of kushtha. The variations in qualities of vitiated <i><a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a></i> lead to further differentiation in types of diseases, except in incurable conditions. As there might be innumerable types of kushtha leading to expansion of text, only seven types of kushtha are described here. [4]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Seven types of kushtha",
+            "html": "<h3><span class=\"mw-headline\" id=\"Seven_types_of_kushtha\">Seven types of kushtha</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "इह वातादिषु त्रिषु प्रकुपितेषु त्वगादींश्चतुरः प्रदूषयत्सु वातेऽधिकतरे कपालकुष्ठमभिनिर्वर्तते, पित्ते त्वौदुम्बरं, श्लेष्मणि मण्डलकुष्ठं, वातपित्तयोरृष्यजिह्वं, पित्तश्लेष्मणोः पुण्डरीकं, श्लेष्ममारुतयोःसिध्मकुष्ठं, सर्वदोषाभिवृद्धौ काकणकमभिनिर्वर्तते; एवमेष सप्तविधः कुष्ठविशेषो भवति|\nस चैष भूयस्तरतमतः प्रकृतौ विकल्प्यमानायां भूयसीं विकारविकल्पसङ्ख्यामापद्यते||५||",
+            "html": "<p>इह वातादिषु त्रिषु प्रकुपितेषु त्वगादींश्चतुरः प्रदूषयत्सु वातेऽधिकतरे कपालकुष्ठमभिनिर्वर्तते, पित्ते त्वौदुम्बरं, श्लेष्मणि मण्डलकुष्ठं, वातपित्तयोरृष्यजिह्वं, पित्तश्लेष्मणोः पुण्डरीकं, श्लेष्ममारुतयोःसिध्मकुष्ठं, सर्वदोषाभिवृद्धौ काकणकमभिनिर्वर्तते; एवमेष सप्तविधः कुष्ठविशेषो भवति| \nस  चैष भूयस्तरतमतः प्रकृतौ विकल्प्यमानायां भूयसीं विकारविकल्पसङ्ख्यामापद्यते||५||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "iha vātādiṣu triṣu prakupitēṣu tvagādīṁścaturaḥ pradūṣayatsu vātē'dhikatarēkapālakuṣṭhamabhinirvartatē, pittē tvaudumbaraṁ, ślēṣmaṇi maṇḍalakuṣṭhaṁ, vātapittayōṟuṣyajihvaṁ,pittaślēṣmaṇōḥ puṇḍarīkaṁ, ślēṣmamārutayōḥ sidhmakuṣṭhaṁ, sarvadōṣābhivr̥ddhaukākaṇakamabhinirvartatē; ēvamēṣa saptavidhaḥ kuṣṭhaviśēṣō bhavati|\nsa [1] caiṣa bhūyastaratamataḥ prakr̥tau vikalpyamānāyāṁ bhūyasīṁ vikāravikalpasaṅkhyāmāpadyatē||5||",
+            "html": "<p>iha vātādiṣu triṣu prakupitēṣu tvagādīṁścaturaḥ pradūṣayatsu vātē'dhikatarēkapālakuṣṭhamabhinirvartatē, pittē tvaudumbaraṁ, ślēṣmaṇi maṇḍalakuṣṭhaṁ, vātapittayōṟuṣyajihvaṁ,pittaślēṣmaṇōḥ puṇḍarīkaṁ, ślēṣmamārutayōḥ sidhmakuṣṭhaṁ, sarvadōṣābhivr̥ddhaukākaṇakamabhinirvartatē; ēvamēṣa saptavidhaḥ kuṣṭhaviśēṣō bhavati| \nsa [1] caiṣa bhūyastaratamataḥ prakr̥tau vikalpyamānāyāṁ bhūyasīṁ vikāravikalpasaṅkhyāmāpadyatē||5||  \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "ihavAtAdiShutriShuprakupiteShutvagAdIMshcaturaHpradUShayatsuvAte~adhikatarekapAlakuShThamabhinirvartate, pittetvaudumbaraM, shleShmaNimaNDalakuShThaM, vAtapittayorRuShyajihvaM, pittashleShmaNoHpuNDarIkaM, shleShmamArutayoHsidhmakuShThaM, sarvadoShAbhivRuddhaukAkaNakamabhinirvartate; evameShasaptavidhaHkuShThavisheShobhavati| sacaiShabhUyastaratamataHprakRutauvikalpyamAnAyAMbhUyasIMvikAravikalpasa~gkhyAmApadyate||5||",
+            "html": "<p>ihavAtAdiShutriShuprakupiteShutvagAdIMshcaturaHpradUShayatsuvAte~adhikatarekapAlakuShThamabhinirvartate, pittetvaudumbaraM, shleShmaNimaNDalakuShThaM, vAtapittayorRuShyajihvaM, pittashleShmaNoHpuNDarIkaM, shleShmamArutayoHsidhmakuShThaM, sarvadoShAbhivRuddhaukAkaNakamabhinirvartate; evameShasaptavidhaHkuShThavisheShobhavati| sacaiShabhUyastaratamataHprakRutauvikalpyamAnAyAMbhUyasIMvikAravikalpasa~gkhyAmApadyate||5|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "When vata and other doshas are aggravated and affect four vitiated dhatus such as twak , and there is dominance of vata dosha , then the disease is known as kapala kushtha . Similarly dosha dominance with other six diseases are explained in the table below:",
+            "html": "<p>When <i><a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a></i> and other <i><a href=\"/index.php?title=Dosha\" title=\"Dosha\">doshas</a></i> are aggravated and affect four vitiated <i><a href=\"/index.php?title=Dhatu\" title=\"Dhatu\">dhatus</a></i> such as <i>twak</i>, and there is dominance of <i><a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a></i> <i><a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a></i>, then the disease is known as <i>kapala kushtha</i>. Similarly <i><a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a></i> dominance with other six diseases are explained in the table below:\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Table 1: The major skin diseases and its dosha dominance.",
+            "html": "<p>Table 1: The major skin diseases and its <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> dominance.\n</p>"
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "Skin diseases",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "th",
+                        "text": "Dosha dominance",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Kapala",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "th",
+                        "text": "Vata",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Udumbara",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Pitta",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Mandala",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Kapha",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Rushyajihva",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Vata - pitta",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Pundarika",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Pitta - kapha",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Sidhma",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Kapha - vata",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Kakanaka",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "all doshas",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ]
+            ],
+            "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th rowspan=\"1\">Skin diseases\n</th>\n<th rowspan=\"1\"><a href=\"/index.php?title=Dosha\" title=\"Dosha\">Dosha</a> dominance\n</th></tr>\n<tr>\n<th rowspan=\"1\">Kapala\n</th>\n<th rowspan=\"1\"><a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">Vata</a>\n</th></tr>\n<tr>\n<td>Udumbara</td>\n<td><a href=\"/index.php?title=Pitta\" title=\"Pitta\">Pitta</a>\n</td></tr>\n<tr>\n<td>Mandala</td>\n<td><a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">Kapha</a>\n</td></tr>\n<tr>\n<td>Rushyajihva</td>\n<td><a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">Vata</a>-<a href=\"/index.php?title=Pitta\" title=\"Pitta\">pitta</a>\n</td></tr>\n<tr>\n<td>Pundarika</td>\n<td><a href=\"/index.php?title=Pitta\" title=\"Pitta\">Pitta</a>-<a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a>\n</td></tr>\n<tr>\n<td>Sidhma</td>\n<td><a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">Kapha</a>-<a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a>\n</td></tr>\n<tr>\n<td>Kakanaka</td>\n<td>all <a href=\"/index.php?title=Dosha\" title=\"Dosha\">doshas</a>\n</td></tr>\n</tbody></table>"
+        },
+        {
+            "type": "p",
+            "text": "Thus, there are seven types of specific kushtha, however depending on degree of superior and inferior involvement of etiology, permutation and combinations kushtha may be innumerable. [5]",
+            "html": "<p><br/>\nThus, there are seven types of specific kushtha, however depending on degree of superior and inferior involvement of etiology, permutation and combinations kushtha may be innumerable. [5]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Common etiological factors of kushtha",
+            "html": "<h3><span class=\"mw-headline\" id=\"Common_etiological_factors_of_kushtha\">Common etiological factors of kushtha</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "तत्रेदं सर्वकुष्ठनिदानं समासेनोपदेक्ष्यामः- शीतोष्णव्यत्यासमनानुपूर्व्योपसेवमानस्य तथा सन्तर्पणापतर्पणाभ्यवहार्यव्यत्यासं, मधुफाणितमत्स्यलकुचमूलककाकमाचीः सततमतिमात्रमजीर्णे च समश्नतः,चिलिचिमं च पयसा, हायनकयवकचीनकोद्दालककोरदूषप्रायाणि चान्नानि क्षीरदधितक्रकोलकुलत्थमाषातसीकुसुम्भस्नेहवन्ति, एतैरेवातिमात्रं सुहितस्य च व्यवायव्यायामसन्तापानत्युपसेवमानस्य,भयश्रमसन्तापोपहतस्य च सहसा शीतोदकमवतरतः, विदग्धं चाहारजातमनुल्लिख्य विदाहीन्यभ्यवहरतः, छर्दिं च प्रतिघ्नतः, स्नेहांश्चातिचरतः, त्रयो दोषाः युगपत् प्रकोपमापद्यन्ते; त्वगादयश्चत्वारःशैथिल्यमापद्यन्ते; तेषु शिथिलेषु दोषाः प्रकुपिताः स्थानमधिगम्य सन्तिष्ठमानास्तानेव त्वगादीन् दूषयन्तः कुष्ठान्यभिनिर्वर्तयन्ति||६||",
+            "html": "<p>तत्रेदं सर्वकुष्ठनिदानं समासेनोपदेक्ष्यामः- शीतोष्णव्यत्यासमनानुपूर्व्योपसेवमानस्य तथा सन्तर्पणापतर्पणाभ्यवहार्यव्यत्यासं, मधुफाणितमत्स्यलकुचमूलककाकमाचीः सततमतिमात्रमजीर्णे च समश्नतः,चिलिचिमं च पयसा, हायनकयवकचीनकोद्दालककोरदूषप्रायाणि चान्नानि क्षीरदधितक्रकोलकुलत्थमाषातसीकुसुम्भस्नेहवन्ति, एतैरेवातिमात्रं सुहितस्य च व्यवायव्यायामसन्तापानत्युपसेवमानस्य,भयश्रमसन्तापोपहतस्य च सहसा शीतोदकमवतरतः, विदग्धं चाहारजातमनुल्लिख्य विदाहीन्यभ्यवहरतः, छर्दिं च प्रतिघ्नतः, स्नेहांश्चातिचरतः, त्रयो दोषाः युगपत् प्रकोपमापद्यन्ते; त्वगादयश्चत्वारःशैथिल्यमापद्यन्ते; तेषु शिथिलेषु दोषाः प्रकुपिताः स्थानमधिगम्य सन्तिष्ठमानास्तानेव त्वगादीन् दूषयन्तः कुष्ठान्यभिनिर्वर्तयन्ति||६|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "tatrēdaṁ sarvakuṣṭhanidānaṁ samāsēnōpadēkṣyāmaḥ- śītōṣṇavyatyāsamanānupūrvyōpasēvamānasyatathā santarpaṇāpatarpaṇābhyavahāryavyatyāsaṁ, madhuphāṇitamatsyalakucamūlakakākamācīḥsatatamatimātramajīrṇē ca samaśnataḥ, cilicimaṁ ca payasā,hāyanakayavakacīnakōddālakakōradūṣaprāyāṇi cānnānikṣīradadhitakrakōlakulatthamāṣātasīkusumbhasnēhavanti, ētairēvātimātraṁ suhitasya cavyavāyavyāyāmasantāpānatyupasēvamānasya, bhayaśramasantāpōpahatasya ca sahasāśītōdakamavatarataḥ, vidagdhaṁ cāhārajātamanullikhya vidāhīnyabhyavaharataḥ, chardiṁ capratighnataḥ, snēhāṁścāticarataḥ, trayō dōṣāḥ yugapat prakōpamāpadyantē; tvagādayaścatvāraḥśaithilyamāpadyantē; tēṣu śithilēṣu dōṣāḥ prakupitāḥ sthānamadhigamya santiṣṭhamānāstānēva tvagādīndūṣayantaḥ kuṣṭhānyabhinirvartayanti||6||",
+            "html": "<p>tatrēdaṁ sarvakuṣṭhanidānaṁ samāsēnōpadēkṣyāmaḥ- śītōṣṇavyatyāsamanānupūrvyōpasēvamānasyatathā santarpaṇāpatarpaṇābhyavahāryavyatyāsaṁ, madhuphāṇitamatsyalakucamūlakakākamācīḥsatatamatimātramajīrṇē ca samaśnataḥ, cilicimaṁ ca payasā,hāyanakayavakacīnakōddālakakōradūṣaprāyāṇi cānnānikṣīradadhitakrakōlakulatthamāṣātasīkusumbhasnēhavanti, ētairēvātimātraṁ suhitasya cavyavāyavyāyāmasantāpānatyupasēvamānasya, bhayaśramasantāpōpahatasya ca sahasāśītōdakamavatarataḥ, vidagdhaṁ cāhārajātamanullikhya vidāhīnyabhyavaharataḥ, chardiṁ capratighnataḥ, snēhāṁścāticarataḥ, trayō dōṣāḥ yugapat prakōpamāpadyantē; tvagādayaścatvāraḥśaithilyamāpadyantē; tēṣu śithilēṣu dōṣāḥ prakupitāḥ sthānamadhigamya santiṣṭhamānāstānēva tvagādīndūṣayantaḥ kuṣṭhānyabhinirvartayanti||6|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "tatredaMsarvakuShThanidAnaMsamAsenopadekShyAmaH- shItoShNavyatyAsamanAnupUrvyopasevamAnasyatathA santarpaNApatarpaNAbhyavahAryavyatyAsaM,madhuphANitamatsyalakucamUlakakAkamAcIH satatamatimAtramajIrNecasamashnataH, cilicimaMcapayasA, hAyanakayavakacInakoddAlakakoradUShaprAyANicAnnAnikShIradadhitakrakolakulatthamAShAtasIkusumbhasnehavanti, etairevAtimAtraMsuhitasyacavyavAyavyAyAmasantApAnatyupasevamAnasya, bhayashramasantApopahatasyacasahasAshItodakamavatarataH, vidagdhaMcAhArajAtamanullikhyavidAhInyabhyavaharataH, chardiMcapratighnataH, snehAMshcAticarataH, trayodoShAHyugapatprakopamApadyante; tvagAdayashcatvAraHshaithilyamApadyante; teShushithileShudoShAHprakupitAHsthAnamadhigamyasantiShThamAnAstAnevatvagAdIndUShayantaHkuShThanyabhinirvartayanti||6||",
+            "html": "<p>tatredaMsarvakuShThanidAnaMsamAsenopadekShyAmaH- shItoShNavyatyAsamanAnupUrvyopasevamAnasyatathA santarpaNApatarpaNAbhyavahAryavyatyAsaM,madhuphANitamatsyalakucamUlakakAkamAcIH satatamatimAtramajIrNecasamashnataH, cilicimaMcapayasA, hAyanakayavakacInakoddAlakakoradUShaprAyANicAnnAnikShIradadhitakrakolakulatthamAShAtasIkusumbhasnehavanti, etairevAtimAtraMsuhitasyacavyavAyavyAyAmasantApAnatyupasevamAnasya, bhayashramasantApopahatasyacasahasAshItodakamavatarataH, vidagdhaMcAhArajAtamanullikhyavidAhInyabhyavaharataH, chardiMcapratighnataH, snehAMshcAticarataH, trayodoShAHyugapatprakopamApadyante; tvagAdayashcatvAraHshaithilyamApadyante; teShushithileShudoShAHprakupitAHsthAnamadhigamyasantiShThamAnAstAnevatvagAdIndUShayantaHkuShThanyabhinirvartayanti||6|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "The common etiological factors for all types of kushtha are briefly described below:",
+            "html": "<p>The common etiological factors for all types of kushtha are briefly described below: \n</p>"
+        },
+        {
+            "type": "ul",
+            "text": "Continuous exposure to sudden interchange use of cold and hot without following gradual change rule (exposure to sudden change in temperature), Sudden interchange/ alternate consumption of nourishing and depleting diets (change is diet qualities); Continuous and excessive intake of following articles Madhu (honey ), phanita (pendium), matsya (fish), lakucha (Artocarpus lakooch Roxb), mulaka (radish) and kakamach (Solanum nigrum Linn); Continuous over-eating Eating while in state of indigestion Eating Chilichima (a type of fish) along with milk; Intake of foods mostly consisting of cereals like hayanaka, yavaka (barley), chinaka, uddalaka, koradusha (Paspalums corbiculatum Linn.) along with kshira (milk), dadhi (curd), takra ( butter milk), kola (Indian jujube, zyziphus jujube Lam), kulattha (Dulicus biflorus Linn), masha (Black gram,Phaseolus radiates Linn), atasi (linseed, Linunusit atissimum Linn), kusumbha (Carthamustinctorius Linn ) and unctuous articles. Excessive indulgence in sexual intercourse, physical exercise and exposure to heat after consuming the above mentioned food to one’s over-satisfaction. A person suffering from fear, exhaustion or grief suddenly enters into the cold water (cold water bath). Without vomiting (expelling) out undigested food, if a person consumes food which causes burning sensation( vidahi ), suppression of vomiting urge, indulges in excessive oleation,",
+            "html": "<ul><li>Continuous exposure to sudden interchange use of cold and hot without following gradual change rule (exposure to sudden change in temperature),</li>\n<li>Sudden interchange/ alternate consumption of nourishing and depleting diets (change is diet qualities);</li>\n<li>Continuous and excessive intake of following articles\n<ul><li><i>Madhu</i>  (honey ), <i>phanita</i> (pendium), <i>matsya</i> (fish), <i>lakucha</i> (Artocarpus lakooch Roxb), <i>mulaka</i> (radish) and <i>kakamach</i> (Solanum nigrum Linn);</li></ul></li>\n<li>Continuous over-eating</li>\n<li>Eating while in state of indigestion</li>\n<li>Eating <i>Chilichima</i> (a type of fish) along with milk;</li>\n<li>Intake of foods mostly consisting of cereals like <i>hayanaka, yavaka</i>(barley), <i>chinaka, uddalaka, koradusha</i> (Paspalums corbiculatum Linn.) along with <i>kshira</i> (milk), <i>dadhi</i>(curd), <i>takra</i>( butter milk), <i>kola</i> (Indian jujube, zyziphus jujube Lam), <i>kulattha</i> (Dulicus biflorus Linn), <i>masha</i> (Black gram,Phaseolus radiates Linn), <i>atasi</i> (linseed, Linunusit atissimum Linn), <i>kusumbha</i>(Carthamustinctorius Linn ) and unctuous  articles.</li>\n<li>Excessive indulgence in sexual intercourse, physical exercise and exposure to heat after consuming the above mentioned food to one’s over-satisfaction.</li>\n<li>A person suffering from fear, exhaustion or grief suddenly enters into the cold water (cold water bath).</li>\n<li>Without vomiting (expelling) out undigested food, if a person consumes food which causes burning sensation(<i>vidahi</i>),</li>\n<li>suppression of vomiting urge,</li>\n<li>indulges in excessive oleation,</li></ul>",
+            "items": [
+                "Continuous exposure to sudden interchange use of cold and hot without following gradual change rule (exposure to sudden change in temperature),",
+                "Sudden interchange/ alternate consumption of nourishing and depleting diets (change is diet qualities);",
+                "Continuous and excessive intake of following articles Madhu (honey ), phanita (pendium), matsya (fish), lakucha (Artocarpus lakooch Roxb), mulaka (radish) and kakamach (Solanum nigrum Linn);",
+                "Continuous over-eating",
+                "Eating while in state of indigestion",
+                "Eating Chilichima (a type of fish) along with milk;",
+                "Intake of foods mostly consisting of cereals like hayanaka, yavaka (barley), chinaka, uddalaka, koradusha (Paspalums corbiculatum Linn.) along with kshira (milk), dadhi (curd), takra ( butter milk), kola (Indian jujube, zyziphus jujube Lam), kulattha (Dulicus biflorus Linn), masha (Black gram,Phaseolus radiates Linn), atasi (linseed, Linunusit atissimum Linn), kusumbha (Carthamustinctorius Linn ) and unctuous articles.",
+                "Excessive indulgence in sexual intercourse, physical exercise and exposure to heat after consuming the above mentioned food to one’s over-satisfaction.",
+                "A person suffering from fear, exhaustion or grief suddenly enters into the cold water (cold water bath).",
+                "Without vomiting (expelling) out undigested food, if a person consumes food which causes burning sensation( vidahi ),",
+                "suppression of vomiting urge,",
+                "indulges in excessive oleation,"
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Above causative factors lead to simultaneous aggravation of all the tri dosha , weakness in the skin etc. four dushyas . Aggravated doshas lodge themselves in these weakened factors and after localization, further vitiate them and manifest kushtha. [6]",
+            "html": "<p>Above causative factors lead to simultaneous aggravation of all the <i>tri<a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a></i>, weakness in the skin etc. four <i><a href=\"/index.php?title=Dushya\" title=\"Dushya\">dushyas</a></i>. Aggravated <i><a href=\"/index.php?title=Dosha\" title=\"Dosha\">doshas</a></i> lodge themselves in these weakened factors and after localization, further vitiate them and manifest kushtha. [6]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Premonitory signs of kushtha",
+            "html": "<h3><span class=\"mw-headline\" id=\"Premonitory_signs_of_kushtha\">Premonitory signs of kushtha</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "तेषामिमानि पूर्वरूपाणि भवन्ति; तद्यथा- अस्वेदनमतिस्वेदनं पारुष्यमतिश्लक्ष्णता वैवर्ण्यं कण्डूर्निस्तोदः सुप्तता परिदाहः परिहर्षो लोमहर्षः खरत्वमूष्मायणं गौरवं श्वयथुर्वीसर्पागमनमभीक्ष्णं च कायेकायच्छिद्रेषूपदेहः पक्वदग्धदष्टभग्नक्षतोपस्खलितेष्वतिमात्रं वेदना स्वल्पानामपि च व्रणानां दुष्टिरसंरोहणं चेति||७||",
+            "html": "<p>तेषामिमानि पूर्वरूपाणि भवन्ति; तद्यथा- अस्वेदनमतिस्वेदनं पारुष्यमतिश्लक्ष्णता वैवर्ण्यं कण्डूर्निस्तोदः सुप्तता परिदाहः परिहर्षो लोमहर्षः खरत्वमूष्मायणं गौरवं श्वयथुर्वीसर्पागमनमभीक्ष्णं च कायेकायच्छिद्रेषूपदेहः पक्वदग्धदष्टभग्नक्षतोपस्खलितेष्वतिमात्रं वेदना स्वल्पानामपि च व्रणानां दुष्टिरसंरोहणं चेति||७|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "tēṣāmimāni pūrvarūpāṇi bhavanti; tadyathā- asvēdanamatisvēdanaṁ pāruṣyamatiślakṣṇatā vaivarṇyaṁkaṇḍūrnistōdaḥ suptatā paridāhaḥ pariharṣō lōmaharṣaḥ kharatvamūṣmāyaṇaṁ gauravaṁśvayathurvīsarpāgamanamabhīkṣṇaṁ ca kāyē kāyacchidrēṣūpadēhaḥpakvadagdhadaṣṭabhagnakṣatōpaskhalitēṣvatimātraṁ vēdanā svalpānāmapi ca vraṇānāṁduṣṭirasaṁrōhaṇaṁ cēti||7||",
+            "html": "<p>tēṣāmimāni pūrvarūpāṇi bhavanti; tadyathā- asvēdanamatisvēdanaṁ pāruṣyamatiślakṣṇatā vaivarṇyaṁkaṇḍūrnistōdaḥ suptatā paridāhaḥ pariharṣō lōmaharṣaḥ kharatvamūṣmāyaṇaṁ gauravaṁśvayathurvīsarpāgamanamabhīkṣṇaṁ ca kāyē kāyacchidrēṣūpadēhaḥpakvadagdhadaṣṭabhagnakṣatōpaskhalitēṣvatimātraṁ vēdanā svalpānāmapi ca vraṇānāṁduṣṭirasaṁrōhaṇaṁ cēti||7||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "teShAmimAnipUrvarUpANibhavanti; tadyathA- asvedanamatisvedanaMpAruShyamatishlakShNatAvaivarNyaMkaNDUrnistodaHsuptatAparidAhaHpariharSholomaharShaHkharatvamUShmAyaNaMgauravaMshvay athurvIsarpAgamanamabhIkShNaMcakAyekAyacchidreShUpadehaHpakvadagdhadaShTabhagnakShatopaskhaliteShvatimAtraMvedanAsvalpAnAmapicavraNAnAMduShT irasaMrohaNaMceti||7||",
+            "html": "<p>teShAmimAnipUrvarUpANibhavanti; tadyathA- asvedanamatisvedanaMpAruShyamatishlakShNatAvaivarNyaMkaNDUrnistodaHsuptatAparidAhaHpariharSholomaharShaHkharatvamUShmAyaNaMgauravaMshvay<br/>athurvIsarpAgamanamabhIkShNaMcakAyekAyacchidreShUpadehaHpakvadagdhadaShTabhagnakShatopaskhaliteShvatimAtraMvedanAsvalpAnAmapicavraNAnAMduShT<br/>irasaMrohaNaMceti||7|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "The clinical manifestations of skin diseases are preceded by or associated with loss or excessive sweating (at the site of localization of vitiates doshas ), excess rough or excess smooth skin, discoloration, itching, pricking sensation, numbness, severe burning sensation, tingling sensation, goose bumps, xerosis on palpation, hot flashes, heaviness, swelling, if there is tenderness it indicates the possibility of suppurated, burnt, bitten, broken, injured and dislocated parts and even smaller ulcers become chronic, non healing.[7]",
+            "html": "<p>The clinical manifestations of skin diseases are preceded by or associated with loss or excessive sweating (at the site of localization of vitiates <i><a href=\"/index.php?title=Dosha\" title=\"Dosha\">doshas</a></i>), excess rough or excess smooth skin, discoloration, itching, pricking sensation, numbness, severe burning sensation, tingling sensation, goose bumps, xerosis on palpation, hot flashes, heaviness, swelling, if there is tenderness it indicates the possibility of suppurated, burnt, bitten, broken, injured and dislocated parts and even smaller ulcers become chronic, non healing.[7]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Specific features of kapala kushtha",
+            "html": "<h3><span class=\"mw-headline\" id=\"Specific_features_of_kapala_kushtha\">Specific features of <i>kapala kushtha</i></span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "ततोऽनन्तरं कुष्ठान्यभिनिर्वर्तन्ते, तेषामिदं वेदनावर्णसंस्थानप्रभावनामविशेषविज्ञानं भवति; तद्यथा- रूक्षारुणपरुषाणि विषमविसृतानि खरपर्यन्तानि तनून्युद्वृत्तबहिस्तनूनि सुप्तवत्सुप्तानि हृषितलोमाचितानि निस्तोदबहुलान्यल्पकण्डूदाहपूयलसीकान्याशुगतिसमुत्थानान्याशुभेदीनि जन्तुमन्ति कृष्णारुणकपालवर्णानि च कपालकुष्ठानीति विद्यात्(१);",
+            "html": "<p>ततोऽनन्तरं कुष्ठान्यभिनिर्वर्तन्ते, तेषामिदं वेदनावर्णसंस्थानप्रभावनामविशेषविज्ञानं भवति; तद्यथा- रूक्षारुणपरुषाणि विषमविसृतानि खरपर्यन्तानि तनून्युद्वृत्तबहिस्तनूनि  सुप्तवत्सुप्तानि हृषितलोमाचितानि निस्तोदबहुलान्यल्पकण्डूदाहपूयलसीकान्याशुगतिसमुत्थानान्याशुभेदीनि जन्तुमन्ति कृष्णारुणकपालवर्णानि च कपालकुष्ठानीति विद्यात्(१);\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "tatō'nantaraṁ kuṣṭhānyabhinirvartantē, tēṣāmidaṁ vēdanāvarṇasaṁsthānaprabhāvanāmaviśēṣavijñānaṁbhavati; tadyathā- rūkṣāruṇaparuṣāṇi viṣamavisr̥tāni kharaparyantāni tanūnyudvr̥ttabahistanūni [1]suptavatsuptāni [2] hr̥ṣitalōmācitāninistōdabahulānyalpakaṇḍūdāhapūyalasīkānyāśugatisamutthānānyāśubhēdīni jantumantikr̥ṣṇāruṇakapālavarṇāni ca kapālakuṣṭhānīti vidyāt(1);",
+            "html": "<p>tatō'nantaraṁ kuṣṭhānyabhinirvartantē, tēṣāmidaṁ vēdanāvarṇasaṁsthānaprabhāvanāmaviśēṣavijñānaṁbhavati; tadyathā- rūkṣāruṇaparuṣāṇi viṣamavisr̥tāni kharaparyantāni tanūnyudvr̥ttabahistanūni [1]suptavatsuptāni [2] hr̥ṣitalōmācitāninistōdabahulānyalpakaṇḍūdāhapūyalasīkānyāśugatisamutthānānyāśubhēdīni jantumantikr̥ṣṇāruṇakapālavarṇāni ca kapālakuṣṭhānīti vidyāt(1); \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "tato~anantaraMkuShThanyabhinirvartante, teShAmidaMvedanAvarNasaMsthAnaprabhAvanAmavisheShavij~jAnaM\nbhavati; tadyathA- rUkShAruNaparuShANiviShamavisRutAnikharaparyantAnitanUnyudvRuttabahistanUnisuptavatsuptAnihRuShitalomAcitAni nistodabahulAnyalpakaNDUdAhapUyalasIkAnyAshugatisamutthAnAnyAshubhedIni jantumantikRuShNAruNakapAlavarNAnicakapAlakuShThanItividyAt(1);",
+            "html": "<p>tato~anantaraMkuShThanyabhinirvartante, teShAmidaMvedanAvarNasaMsthAnaprabhAvanAmavisheShavij~jAnaM\nbhavati; tadyathA- rUkShAruNaparuShANiviShamavisRutAnikharaparyantAnitanUnyudvRuttabahistanUnisuptavatsuptAnihRuShitalomAcitAni nistodabahulAnyalpakaNDUdAhapUyalasIkAnyAshugatisamutthAnAnyAshubhedIni jantumantikRuShNAruNakapAlavarNAnicakapAlakuShThanItividyAt(1);\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Thereafter (above pathogenesis), kushtha is manifested. The specific diagnosis (of types) for nomenclature is based upon sensation, discoloration, site of lesion, effect of lesion.",
+            "html": "<p>Thereafter (above pathogenesis), kushtha is manifested. The specific diagnosis (of types) for nomenclature is based upon sensation, discoloration, site of lesion, effect of lesion. \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Kapala kushtha has the following specific manifestations:",
+            "html": "<p><i>Kapala kushtha</i> has the following specific manifestations:\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Dry, crimson red in color, coarse, unevenly spread, having rough edges, thin and slightly elevated periphery, severe numbness, covered with bristling hair, afflicted with extreme piercing pain, having mild itching, burning sensation, less serous and pus discharge, having acute manifestation and quick progression, are infested with maggots and appear like a black or blackish red piece of broken earthen pot.(1)",
+            "html": "<p>Dry, crimson red in color, coarse, unevenly spread, having rough edges, thin and slightly elevated periphery, severe numbness, covered with bristling hair, afflicted with extreme piercing pain, having mild itching, burning sensation, less serous and pus discharge, having acute manifestation and quick progression, are infested with maggots  and appear like a black or blackish red piece of broken earthen pot.(1)\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Audumbara kushtha",
+            "html": "<h3><span class=\"mw-headline\" id=\"Audumbara_kushtha\"><i>Audumbara kushtha</i></span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "ताम्राणि ताम्रखररोमराजीभिरवनद्धानिबहलानि बहुबहलपूयरक्तलसीकानि कण्डूक्लेदकोथदाहपाकवन्त्याशुगतिसमुत्थानभेदीनि ससन्तापक्रिमीणि पक्वोदुम्बरफलवर्णान्यौदुम्बरकुष्ठानीति विद्यात् (२);",
+            "html": "<p>ताम्राणि ताम्रखररोमराजीभिरवनद्धानिबहलानि बहुबहलपूयरक्तलसीकानि कण्डूक्लेदकोथदाहपाकवन्त्याशुगतिसमुत्थानभेदीनि ससन्तापक्रिमीणि पक्वोदुम्बरफलवर्णान्यौदुम्बरकुष्ठानीति विद्यात् (२);\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "tāmrāṇi tāmrakhararōmarājībhiravanaddhānibahalāni bahubahalapūyaraktalasīkāni kaṇḍūklēdakōthadāhapākavantyāśugatisamutthānabhēdīnisasantāpakrimīṇi pakvōdumbaraphalavarṇānyaudumbarakuṣṭhānīti vidyāt(2);",
+            "html": "<p>tāmrāṇi tāmrakhararōmarājībhiravanaddhānibahalāni bahubahalapūyaraktalasīkāni kaṇḍūklēdakōthadāhapākavantyāśugatisamutthānabhēdīnisasantāpakrimīṇi pakvōdumbaraphalavarṇānyaudumbarakuṣṭhānīti vidyāt(2);\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "tAmrANitAmrakhararomarAjIbhiravanaddhAnibahalAnibahubahalapUyaraktalasIkAnikaNDUkledakothadAhapAkavantyAshugatisamutthAnabhedInisasantApaKrimi NipakvodumbaraphalavarNAnyaudumbarakuShThanItividyAt(2);",
+            "html": "<p>tAmrANitAmrakhararomarAjIbhiravanaddhAnibahalAnibahubahalapUyaraktalasIkAnikaNDUkledakothadAhapAkavantyAshugatisamutthAnabhedInisasantApaKrimi<br/>NipakvodumbaraphalavarNAnyaudumbarakuShThanItividyAt(2);\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Audumbara kushtha has the following features:",
+            "html": "<p><i>Audumbara kushtha</i> has the following features:\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "The color of affected part of skin is coppery, covered with coppery-rough (thick) hair, have plenty of thick discharge of pus, blood and lymph accompanied with itching, moistened, sloughing, burning sensation and suppuration, having acute manifestation and quick progression, associated with rise in temperature and infested with maggots, appear like the ripe fruit of Udumbara (Ficus racemosa Linn) in color.(2)",
+            "html": "<p>The color of affected part of skin is coppery, covered with coppery-rough (thick) hair, have plenty of thick discharge of pus, blood and lymph accompanied with itching, moistened, sloughing, burning sensation and suppuration, having acute manifestation and quick progression, associated with rise in temperature and infested with maggots, appear like the ripe fruit of <i>Udumbara</i> (Ficus racemosa Linn) in color.(2)\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Mandala kushtha",
+            "html": "<h3><span class=\"mw-headline\" id=\"Mandala_kushtha\"><i>Mandala kushtha</i></span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "स्निग्धानि गुरूण्युत्सेधवन्तिश्लक्ष्णस्थिरपीतपर्यन्तानि शुक्लरक्तावभासानि शुक्लरोमराजीसन्तानानि बहुबहलशुक्लपिच्छिलस्रावीणि बहुक्लेदकण्डूक्रिमीणि सक्तगतिसमुत्थानभेदीनि परिमण्डलानि मण्डलकुष्ठानिविद्यात्(३);",
+            "html": "<p>स्निग्धानि गुरूण्युत्सेधवन्तिश्लक्ष्णस्थिरपीतपर्यन्तानि  शुक्लरक्तावभासानि शुक्लरोमराजीसन्तानानि बहुबहलशुक्लपिच्छिलस्रावीणि  बहुक्लेदकण्डूक्रिमीणि सक्तगतिसमुत्थानभेदीनि परिमण्डलानि मण्डलकुष्ठानिविद्यात्(३);\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "snigdhānigurūṇyutsēdhavanti ślakṣṇasthirapītaparyantāni [3] śuklaraktāvabhāsāni śuklarōmarājīsantānānibahubahalaśuklapicchilasrāvīṇi [4] bahuklēdakaṇḍūkrimīṇi saktagatisamutthānabhēdīni parimaṇḍalānimaṇḍalakuṣṭhāni vidyāt(3);",
+            "html": "<p>snigdhānigurūṇyutsēdhavanti ślakṣṇasthirapītaparyantāni [3] śuklaraktāvabhāsāni śuklarōmarājīsantānānibahubahalaśuklapicchilasrāvīṇi [4] bahuklēdakaṇḍūkrimīṇi saktagatisamutthānabhēdīni parimaṇḍalānimaṇḍalakuṣṭhāni vidyāt(3);\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "snigdhAnigurUNyutsedhavantishlakShNasthirapItaparyantAnishuklaraktAvabhAsAnishuklaromarAjIsantAnAnibahubahalashuklapicchilasrAvINibahukledakaNDUKrimiNisak tagatisamutthAnabhedIniparimaNDalAnimaNDalakuShThanividyAt(3);",
+            "html": "<p>snigdhAnigurUNyutsedhavantishlakShNasthirapItaparyantAnishuklaraktAvabhAsAnishuklaromarAjIsantAnAnibahubahalashuklapicchilasrAvINibahukledakaNDUKrimiNisak<br/>tagatisamutthAnabhedIniparimaNDalAnimaNDalakuShThanividyAt(3);\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Mandala kushtha has following features:",
+            "html": "<p><i>Mandala kushtha</i> has following features:\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Skin is unctuous, heavy, elevated with smooth, fixed and yellowish margins, white and reddish in appearance, filled with white hairlines associated with copious, thick, white and slimy discharge, excessive oozing and itching, infested with numerous maggots, lesions are slow to spread & progression, round in shape.(3)",
+            "html": "<p>Skin is unctuous, heavy, elevated with smooth, fixed and yellowish margins, white and reddish in appearance, filled with white hairlines associated with copious, thick, white  and slimy discharge, excessive oozing and itching,  infested with numerous maggots, lesions are slow to spread &amp; progression, round in shape.(3)\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Rishyajihva kushtha",
+            "html": "<h3><span class=\"mw-headline\" id=\"Rishyajihva_kushtha\"><i>Rishyajihva kushtha</i></span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "परुषाण्यरुणवर्णानि बहिरन्तःश्यावानि नीलपीतताम्रावभासान्याशुगतिसमुत्थानान्यल्पकण्डूक्लेदक्रिमीणि दाहभेदनिस्तोद(पाक)बहुलानि शूकोपहतोपमवेदनान्युत्सन्नमध्यानि तनुपर्यन्तानिकर्कशपिडकाचितानि दीर्घपरिमण्डलान्यृष्यजिह्वाकृतीनि ऋष्यजिह्वानीति विद्यात् (४);",
+            "html": "<p>परुषाण्यरुणवर्णानि बहिरन्तःश्यावानि नीलपीतताम्रावभासान्याशुगतिसमुत्थानान्यल्पकण्डूक्लेदक्रिमीणि दाहभेदनिस्तोद(पाक)बहुलानि शूकोपहतोपमवेदनान्युत्सन्नमध्यानि तनुपर्यन्तानिकर्कशपिडकाचितानि दीर्घपरिमण्डलान्यृष्यजिह्वाकृतीनि ऋष्यजिह्वानीति विद्यात् (४); \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "paruṣāṇyaruṇavarṇāni bahirantaḥśyāvāninīlapītatāmrāvabhāsānyāśugatisamutthānānyalpakaṇḍūklēdakrimīṇi dāhabhēdanistōda(pāka)bahulāniśūkōpahatōpamavēdanānyutsannamadhyāni tanuparyantāni karkaśapiḍakācitānidīrghaparimaṇḍalānyr̥ṣyajihvākr̥tīni r̥ṣyajihvānīti vidyāt (4);",
+            "html": "<p>paruṣāṇyaruṇavarṇāni bahirantaḥśyāvāninīlapītatāmrāvabhāsānyāśugatisamutthānānyalpakaṇḍūklēdakrimīṇi dāhabhēdanistōda(pāka)bahulāniśūkōpahatōpamavēdanānyutsannamadhyāni tanuparyantāni karkaśapiḍakācitānidīrghaparimaṇḍalānyr̥ṣyajihvākr̥tīni r̥ṣyajihvānīti vidyāt (4);\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "paruShANyaruNavarNAnibahirantaHshyAvAninIlapItatAmrAvabhAsAnyAshugatisamutthAnAnyalpakaNDUkledaKrimiNidAhabhedanistoda(pAka)bahulAnishUkopahatopam avedanAnyutsannamadhyAnitanuparyantAnikarkashapiDakAcitAnidIrghaparimaNDalAnyRuShyajihvAkRutIniRuShyajihvAnItividyAt(4);",
+            "html": "<p>paruShANyaruNavarNAnibahirantaHshyAvAninIlapItatAmrAvabhAsAnyAshugatisamutthAnAnyalpakaNDUkledaKrimiNidAhabhedanistoda(pAka)bahulAnishUkopahatopam<br/>avedanAnyutsannamadhyAnitanuparyantAnikarkashapiDakAcitAnidIrghaparimaNDalAnyRuShyajihvAkRutIniRuShyajihvAnItividyAt(4);\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Rishyajivha kushtha has following features:",
+            "html": "<p><i>Rishyajivha kushtha</i> has following features:\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "In this skin is rough, downy red, blackish in the center as well as in the periphery, have the appearance of shades of blue, yellow and coppery tinge associated with acute onset and spreading, with less itching, oozing and maggot infestation, having excessive burning sensation, ulceration, piercing pain (suppuration) as if pierced with bristles, with elevated center and thin margins; surrounded with rough papules and having large circumference and shape like that of the antelope ( rishyajihva ) tongue. (4);",
+            "html": "<p>In this skin is rough, downy red, blackish in the center as well as in the periphery, have the appearance of shades of blue, yellow and coppery tinge associated with acute onset and spreading, with less itching, oozing and maggot infestation, having excessive burning sensation, ulceration, piercing pain (suppuration) as if pierced with bristles, with elevated center and thin margins; surrounded with rough papules and  having large circumference  and shape like that of the antelope (<i>rishyajihva</i>) tongue. (4);\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Pundarika kushtha",
+            "html": "<h3><span class=\"mw-headline\" id=\"Pundarika_kushtha\"><i>Pundarika kushtha</i></span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "शुक्लरक्तावभासानि रक्तपर्यन्तानि रक्तराजीसिरासन्ततान्युत्सेधवन्ति बहुबहलरक्तपूयलसीकानिकण्डूक्रिमिदाहपाकवन्त्याशुगतिसमुत्थानभेदीनि पुण्डरीकपलाशसङ्काशानि पुण्डरीकाणीति विद्यात् (५);",
+            "html": "<p>शुक्लरक्तावभासानि रक्तपर्यन्तानि रक्तराजीसिरासन्ततान्युत्सेधवन्ति बहुबहलरक्तपूयलसीकानिकण्डूक्रिमिदाहपाकवन्त्याशुगतिसमुत्थानभेदीनि पुण्डरीकपलाशसङ्काशानि पुण्डरीकाणीति विद्यात् (५);\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "śuklaraktāvabhāsāni raktaparyantāniraktarājīsirāsantatānyutsēdhavanti bahubahalaraktapūyalasīkānikaṇḍūkrimidāhapākavantyāśugatisamutthānabhēdīni puṇḍarīkapalāśasaṅkāśāni puṇḍarīkāṇīti vidyāt (5);",
+            "html": "<p>śuklaraktāvabhāsāni raktaparyantāniraktarājīsirāsantatānyutsēdhavanti bahubahalaraktapūyalasīkānikaṇḍūkrimidāhapākavantyāśugatisamutthānabhēdīni puṇḍarīkapalāśasaṅkāśāni puṇḍarīkāṇīti vidyāt (5);\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "shuklaraktAvabhAsAniraktaparyantAniraktarAjIsirAsantatAnyutsedhavantibahubahalaraktapUyalasIkAnikaNDUKrimidAhapAkavantyAshugatisamutthAnabhedInipuNDarIkap alAshasa~gkAshAnipuNDarIkANItividyAt(5);",
+            "html": "<p>shuklaraktAvabhAsAniraktaparyantAniraktarAjIsirAsantatAnyutsedhavantibahubahalaraktapUyalasIkAnikaNDUKrimidAhapAkavantyAshugatisamutthAnabhedInipuNDarIkap<br/>alAshasa~gkAshAnipuNDarIkANItividyAt(5); \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Pundarika kushtha has following features: In this type, the skin is white with reddish shade, with red margins covered with red lines and blood vessels, elevated, with copious thick blood, pus and serous discharge, associated with itching, maggots infestation, burning sensation and suppuration, and having acute manifestation and quick progression, appears like the petals of lotus(or Butea monospemum flower). (5);",
+            "html": "<p><i>Pundarika kushtha</i> has following features: In this type, the skin is white with reddish shade, with red margins covered with red lines and blood vessels, elevated, with copious thick blood, pus and serous discharge, associated with itching, maggots infestation, burning sensation and suppuration, and having acute manifestation and quick progression, appears like the petals of lotus(or Butea monospemum flower). (5);\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Sidhma kushtha",
+            "html": "<h3><span class=\"mw-headline\" id=\"Sidhma_kushtha\"><i>Sidhma kushtha</i></span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "परुषारुणानि विशीर्णबहिस्तनून्यन्तःस्निग्धानि शुक्लरक्तावभासानिबहून्यल्पवेदनान्यल्पकण्डूदाहपूयलसीकानि लघुसमुत्थानान्यल्पभेदक्रिमीण्यलाबुपुष्पसङ्काशानि सिध्मकुष्ठानीति विद्यात् (६);",
+            "html": "<p>परुषारुणानि  विशीर्णबहिस्तनून्यन्तःस्निग्धानि शुक्लरक्तावभासानिबहून्यल्पवेदनान्यल्पकण्डूदाहपूयलसीकानि लघुसमुत्थानान्यल्पभेदक्रिमीण्यलाबुपुष्पसङ्काशानि सिध्मकुष्ठानीति विद्यात् (६);\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "paruṣāruṇāni [5] viśīrṇabahistanūnyantaḥsnigdhāni śuklaraktāvabhāsānibahūnyalpavēdanānyalpakaṇḍūdāhapūyalasīkānilaghusamutthānānyalpabhēdakrimīṇyalābupuṣpasaṅkāśāni sidhmakuṣṭhānīti vidyāt (6);",
+            "html": "<p>paruṣāruṇāni [5] viśīrṇabahistanūnyantaḥsnigdhāni śuklaraktāvabhāsānibahūnyalpavēdanānyalpakaṇḍūdāhapūyalasīkānilaghusamutthānānyalpabhēdakrimīṇyalābupuṣpasaṅkāśāni sidhmakuṣṭhānīti vidyāt (6);\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "paruShAruNAnivishIrNabahistanUnyantaHsnigdhAnishuklaraktAvabhAsAnibahUnyalpavedanAnyalpakaNDUdAhapUyalasIkAnilaghusamutthAnAnyalpabhedaKrimiNyalAbup uShpasa~gkAshAnisidhmakuShThanItividyAt (6);",
+            "html": "<p>paruShAruNAnivishIrNabahistanUnyantaHsnigdhAnishuklaraktAvabhAsAnibahUnyalpavedanAnyalpakaNDUdAhapUyalasIkAnilaghusamutthAnAnyalpabhedaKrimiNyalAbup<br/>uShpasa~gkAshAnisidhmakuShThanItividyAt (6);\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Sidhma kushtha has following features:",
+            "html": "<p><i>Sidhma kushtha</i> has following features:\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "In this type, skin is rough and downy red in color, with external margins fissured and thin, unctuous at the center, having white and red shades, numerous lesions, associated with mild pain, itching, burning sensation, purulent and serous discharge, having mild initiation and progression, and less maggots infestation, appear like flower of alabu (Lagenaria siceraria Standi (bottle gourd)) – are to be known as sidhma kushtha (6);",
+            "html": "<p>In this type, skin is rough and downy red in color, with external margins fissured and thin, unctuous at the center, having white and red shades, numerous lesions, associated with mild pain, itching, burning sensation, purulent and serous discharge, having mild initiation and progression, and less maggots infestation, appear like flower of <i>alabu</i> (Lagenaria siceraria Standi (bottle gourd)) – are to be known as <i>sidhma kushtha</i>(6);\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Kakanaka kushtha",
+            "html": "<h3><span class=\"mw-headline\" id=\"Kakanaka_kushtha\"><i>Kakanaka kushtha</i></span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "काकणन्तिकावर्णान्यादौ पश्चात्तु सर्वकुष्ठलिङ्गसमन्वितानि पापीयसा सर्वकुष्ठलिङ्गसम्भवेनानेकवर्णानि काकणानीति विद्यात्| तान्यसाध्यानि, साध्यानि पुनरितराणि||८||",
+            "html": "<p>काकणन्तिकावर्णान्यादौ पश्चात्तु सर्वकुष्ठलिङ्गसमन्वितानि पापीयसा सर्वकुष्ठलिङ्गसम्भवेनानेकवर्णानि काकणानीति विद्यात्| तान्यसाध्यानि, साध्यानि पुनरितराणि||८|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "kākaṇantikāvarṇānyādau paścāttu sarvakuṣṭhaliṅgasamanvitāni pāpīyasā [6]sarvakuṣṭhaliṅgasambhavēnānēkavarṇāni kākaṇānīti vidyāt|\ntānyasādhyāni, sādhyāni punaritarāṇi||8||",
+            "html": "<p>kākaṇantikāvarṇānyādau paścāttu sarvakuṣṭhaliṅgasamanvitāni pāpīyasā [6]sarvakuṣṭhaliṅgasambhavēnānēkavarṇāni kākaṇānīti vidyāt| \ntānyasādhyāni, sādhyāni punaritarāṇi||8||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "kAkaNantikAvarNAnyAdaupashcAttusarvakuShThali~ggasamanvitAnipApIyasA [6] sarvakuShThali~ggasambhavenAnekavarNAnikAkaNAnItividyAt| tAnyasAdhyAni, sAdhyAnipunaritarANi||8||",
+            "html": "<p>kAkaNantikAvarNAnyAdaupashcAttusarvakuShThali~ggasamanvitAnipApIyasA [6] sarvakuShThali~ggasambhavenAnekavarNAnikAkaNAnItividyAt| tAnyasAdhyAni, sAdhyAnipunaritarANi||8|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Kakanaka kushtha has following features:",
+            "html": "<p><i>Kakanaka kushtha</i> has following features:\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "In this type, the skin is having color of Gunja (Abrus precatorius) seed in the beginning but later on associated with symptoms of all sinful kushtha subsequently having many colors. This is incurable, while others are curable. [8]",
+            "html": "<p>In this type, the skin is having color of <i>Gunja</i> (Abrus precatorius) seed in the beginning but later on associated with symptoms of all sinful kushtha subsequently having many colors. This is incurable, while others are curable. [8]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Prognosis",
+            "html": "<h3><span class=\"mw-headline\" id=\"Prognosis\">Prognosis</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "तत्र यदसाध्यं तदसाध्यतां नातिवर्तते, साध्यं पुनः किञ्चित् साध्यतामतिवर्तते कदाचिदपचारात्| साध्यानि हि षट् काकणकवर्ज्यान्यचिकित्स्यमानान्यपचारतो वा दोषैरभिष्यन्दमानान्यसाध्यतामुपयान्ति||९||",
+            "html": "<p>तत्र यदसाध्यं तदसाध्यतां नातिवर्तते, साध्यं पुनः किञ्चित् साध्यतामतिवर्तते कदाचिदपचारात्| साध्यानि हि षट् काकणकवर्ज्यान्यचिकित्स्यमानान्यपचारतो वा दोषैरभिष्यन्दमानान्यसाध्यतामुपयान्ति||९|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "tatra yadasādhyaṁ tadasādhyatāṁ nātivartatē, sādhyaṁ punaḥ kiñcit sādhyatāmativartatēkadācidapacārāt|\nsādhyāni hi ṣaṭ kākaṇakavarjyānyacikitsyamānānyapacāratō vādōṣairabhiṣyandamānānyasādhyatāmupayānti||9||",
+            "html": "<p>tatra yadasādhyaṁ tadasādhyatāṁ nātivartatē, sādhyaṁ punaḥ kiñcit sādhyatāmativartatēkadācidapacārāt| \nsādhyāni hi ṣaṭ kākaṇakavarjyānyacikitsyamānānyapacāratō vādōṣairabhiṣyandamānānyasādhyatāmupayānti||9|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "tatrayadasAdhyaMtadasAdhyatAMnAtivartate, sAdhyaMpunaHki~jcitsAdhyatAmativartatekadAcidapacArAt| sAdhyAni hi ShaTkAkaNakavarjyAnyacikitsyamAnAnyapacAratovAdoShairabhiShyandamAnAnyasAdhyatAmupayAnti||9||",
+            "html": "<p>tatrayadasAdhyaMtadasAdhyatAMnAtivartate, sAdhyaMpunaHki~jcitsAdhyatAmativartatekadAcidapacArAt| sAdhyAni hi ShaTkAkaNakavarjyAnyacikitsyamAnAnyapacAratovAdoShairabhiShyandamAnAnyasAdhyatAmupayAnti||9|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "The incurable disease never give up its incurability (never become curable). The curable disease may sometimes become incurable due to misconduct (not following the diet and lifestyle regulations properly). The six (types of) kushtha are curable except kakanaka . However if not treated properly, they may become incurable due to lack of timely management, improper management and constantly excess aggravation of doshas . [9]",
+            "html": "<p>The incurable disease never give up its incurability (never become curable). The curable disease may sometimes become incurable due to misconduct (not following the diet and lifestyle regulations properly). The six (types of) kushtha are curable except <i>kakanaka</i>. However if not treated properly, they may become incurable due to lack of timely management, improper management and constantly excess aggravation of <i><a href=\"/index.php?title=Dosha\" title=\"Dosha\">doshas</a></i>. [9]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Complications of kushtha",
+            "html": "<h3><span class=\"mw-headline\" id=\"Complications_of_kushtha\">Complications of kushtha</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "साध्यानामपि ह्युपेक्ष्यमाणानां त्वङ्मांसशोणितलसीकाकोथक्लेदसंस्वेदजाः क्रिमयोऽभिमूर्च्छन्ति; ते भक्षयन्तस्त्वगादीन् दोषाः पुनर्दूषयन्त इमानुपद्रवान् पृथक् पृथगुत्पादयन्ति- तत्र वातः श्यावारुणवर्णंपरुषतामपि च रौक्ष्यशूलशोषतोदवेपथुहर्षसङ्कोचायासस्तम्भसुप्तिभेदभङ्गान्, पित्तं दाहस्वेदक्लेदकोथस्रावपाकरागान्, श्लेष्मा त्वस्य श्वैत्यशैत्यकण्डूस्थैर्यगौरवोत्सेधोपस्नेहोपलेपान्, क्रिमयस्तु त्वगादींश्चतुरःसिराः स्नायूश्चास्थीन्यपि च तरुणान्याददते ||१०||",
+            "html": "<p>साध्यानामपि ह्युपेक्ष्यमाणानां त्वङ्मांसशोणितलसीकाकोथक्लेदसंस्वेदजाः क्रिमयोऽभिमूर्च्छन्ति; ते भक्षयन्तस्त्वगादीन् दोषाः  पुनर्दूषयन्त इमानुपद्रवान् पृथक् पृथगुत्पादयन्ति- तत्र वातः श्यावारुणवर्णंपरुषतामपि च रौक्ष्यशूलशोषतोदवेपथुहर्षसङ्कोचायासस्तम्भसुप्तिभेदभङ्गान्, पित्तं दाहस्वेदक्लेदकोथस्रावपाकरागान्, श्लेष्मा त्वस्य श्वैत्यशैत्यकण्डूस्थैर्यगौरवोत्सेधोपस्नेहोपलेपान्, क्रिमयस्तु त्वगादींश्चतुरःसिराः स्नायूश्चास्थीन्यपि च तरुणान्याददते  ||१०||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "sādhyānāmapi hyupēkṣyamāṇānāṁ tvaṅmāṁsaśōṇitalasīkākōthaklēdasaṁsvēdajāḥkrimayō'bhimūrcchanti; tē bhakṣayantastvagādīn dōṣāḥ [1] punardūṣayanta imānupadravān pr̥thakpr̥thagutpādayanti- tatra vātaḥ śyāvāruṇavarṇaṁ paruṣatāmapi caraukṣyaśūlaśōṣatōdavēpathuharṣasaṅkōcāyāsastambhasuptibhēdabhaṅgān, pittaṁdāhasvēdaklēdakōthasrāvapākarāgān, ślēṣmā tvasyaśvaityaśaityakaṇḍūsthairyagauravōtsēdhōpasnēhōpalēpān, krimayastu tvagādīṁścaturaḥ sirāḥsnāyūścāsthīnyapi ca taruṇānyādadatē [2] ||10||",
+            "html": "<p>sādhyānāmapi hyupēkṣyamāṇānāṁ tvaṅmāṁsaśōṇitalasīkākōthaklēdasaṁsvēdajāḥkrimayō'bhimūrcchanti; tē bhakṣayantastvagādīn dōṣāḥ [1] punardūṣayanta imānupadravān pr̥thakpr̥thagutpādayanti- tatra vātaḥ śyāvāruṇavarṇaṁ paruṣatāmapi caraukṣyaśūlaśōṣatōdavēpathuharṣasaṅkōcāyāsastambhasuptibhēdabhaṅgān, pittaṁdāhasvēdaklēdakōthasrāvapākarāgān, ślēṣmā tvasyaśvaityaśaityakaṇḍūsthairyagauravōtsēdhōpasnēhōpalēpān, krimayastu tvagādīṁścaturaḥ sirāḥsnāyūścāsthīnyapi ca taruṇānyādadatē [2] ||10|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "sAdhyAnAmapihyupekShyamANAnAMtva~gmAMsashoNitalasIkAkothakledasaMsvedajAHkrimayo~abhimUrcchanti; tebhakShayantastvagAdIndoShAHpunardUShayantaimAnupadravAnpRuthakpRuthagutpAdayanti- tatravAtaHshyAvAruNavarNaMparuShatAmapica raukShyashUlashoShatodavepathuharShasa~gkocAyAsastambhasuptibhedabha~ggAn, pittaMdAhasvedakledakothasrAvapAkarAgAn, shleShmAtvasyashvaityashaityakaNDUsthairyagauravotsedhopasnehopalepAn, krimayastutvagAdIMshcaturaHsirAHsnAyUshcAsthInyapicataruNAnyAdadate ||10||",
+            "html": "<p>sAdhyAnAmapihyupekShyamANAnAMtva~gmAMsashoNitalasIkAkothakledasaMsvedajAHkrimayo~abhimUrcchanti; tebhakShayantastvagAdIndoShAHpunardUShayantaimAnupadravAnpRuthakpRuthagutpAdayanti- tatravAtaHshyAvAruNavarNaMparuShatAmapica raukShyashUlashoShatodavepathuharShasa~gkocAyAsastambhasuptibhedabha~ggAn, pittaMdAhasvedakledakothasrAvapAkarAgAn, shleShmAtvasyashvaityashaityakaNDUsthairyagauravotsedhopasnehopalepAn, krimayastutvagAdIMshcaturaHsirAHsnAyUshcAsthInyapicataruNAnyAdadate ||10|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "If the curable diseases are neglected (not treated), then they are also afflicted with putrefaction of skin, muscle tissue, blood, lymph and swedaja krimi (maggots or micro-organisms). The krimi get nourishment from the decayed skin etc. and further vitiate doshas leading to variety of complications corresponding to individual doshas as follows:",
+            "html": "<p>If the curable diseases are neglected (not treated), then they are also afflicted with putrefaction of skin, muscle tissue, blood, lymph and <i>swedaja krimi</i> (maggots or micro-organisms). The <i>krimi</i> get nourishment from the decayed skin etc. and further vitiate <i><a href=\"/index.php?title=Dosha\" title=\"Dosha\">doshas</a></i> leading to variety of complications corresponding to individual <i><a href=\"/index.php?title=Dosha\" title=\"Dosha\">doshas</a></i> as follows: \n</p>"
+        },
+        {
+            "type": "ul",
+            "text": "Due to vata , blackish and downy red discoloration appears, roughness, dryness, piercing pain, emaciation (atrophy), pricking pain, tremors, horripilation, constriction, exhaustion, stiffness, numbness, ulceration and fissures; Pitta causes burning sensation, sweating, moistening, putrefaction, discharge, suppuration and redness; Kapha causes whiteness, coldness, itching, immobility, heaviness, protuberance, unctuousness and coating, maggots eat up the skin etc. (skin, flesh, blood, lymph) vessels, ligaments and cartilages. [10]",
+            "html": "<ul><li>Due to <i><a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a></i>, blackish and downy red discoloration appears, roughness, dryness, piercing  pain, emaciation (atrophy), pricking  pain, tremors, horripilation, constriction, exhaustion, stiffness, numbness, ulceration and fissures;</li>\n<li><i><a href=\"/index.php?title=Pitta\" title=\"Pitta\">Pitta</a></i> causes burning sensation, sweating, moistening, putrefaction, discharge, suppuration and redness;</li>\n<li><i><a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">Kapha</a></i> causes whiteness, coldness, itching, immobility, heaviness, protuberance, unctuousness and coating, maggots eat up the skin etc. (skin, flesh, blood, lymph) vessels, ligaments  and cartilages. [10]</li></ul>",
+            "items": [
+                "Due to vata , blackish and downy red discoloration appears, roughness, dryness, piercing pain, emaciation (atrophy), pricking pain, tremors, horripilation, constriction, exhaustion, stiffness, numbness, ulceration and fissures;",
+                "Pitta causes burning sensation, sweating, moistening, putrefaction, discharge, suppuration and redness;",
+                "Kapha causes whiteness, coldness, itching, immobility, heaviness, protuberance, unctuousness and coating, maggots eat up the skin etc. (skin, flesh, blood, lymph) vessels, ligaments and cartilages. [10]"
+            ]
+        },
+        {
+            "type": "p",
+            "text": "अस्यां चैवावस्थायामुपद्रवाः कुष्ठिनं स्पृशन्ति; तद्यथा- प्रस्रवणमङ्गभेदः पतनान्यङ्गावयवानां तृष्णाज्वरातीसारदाहदौर्बल्यारोचकाविपाकाश्च, तथाविधमसाध्यं विद्यादिति||११||",
+            "html": "<p>अस्यां चैवावस्थायामुपद्रवाः कुष्ठिनं स्पृशन्ति; तद्यथा- प्रस्रवणमङ्गभेदः पतनान्यङ्गावयवानां तृष्णाज्वरातीसारदाहदौर्बल्यारोचकाविपाकाश्च, तथाविधमसाध्यं विद्यादिति||११|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "asyāṁ caivāvasthāyāmupadravāḥ kuṣṭhinaṁ spr̥śanti; tadyathā- prasravaṇamaṅgabhēdaḥpatanānyaṅgāvayavānāṁ tr̥ṣṇājvarātīsāradāhadaurbalyārōcakāvipākāśca, tathāvidhamasādhyaṁvidyāditi||11||",
+            "html": "<p>asyāṁ caivāvasthāyāmupadravāḥ kuṣṭhinaṁ spr̥śanti; tadyathā- prasravaṇamaṅgabhēdaḥpatanānyaṅgāvayavānāṁ tr̥ṣṇājvarātīsāradāhadaurbalyārōcakāvipākāśca, tathāvidhamasādhyaṁvidyāditi||11||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "asyAMcaivAvasthAyAmupadravAHkuShThinaMspRushanti; tadyathA- prasravaNama~ggabhedaHpatanAnya~ggAvayavAnAMtRuShNAjvarAtIsAradAhadaurbalyArocakAvipAkAshca, tathAvidhamasAdhyaMvidyAditi||11||",
+            "html": "<p>asyAMcaivAvasthAyAmupadravAHkuShThinaMspRushanti; tadyathA- prasravaNama~ggabhedaHpatanAnya~ggAvayavAnAMtRuShNAjvarAtIsAradAhadaurbalyArocakAvipAkAshca, tathAvidhamasAdhyaMvidyAditi||11|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "During this stage, a patient of kushtha afflicts with complications such as- excessive discharge, ulceration of body parts, sequestration of body parts (necrosis of phallenges), thirst, fever, diarrhea, burning sensation, debility, anorexia, indigestion. Such types of kushtha should be known as incurable. [11]",
+            "html": "<p>During this stage, a patient of kushtha afflicts with complications such as- excessive discharge, ulceration of body parts, sequestration of body  parts (necrosis of phallenges), thirst, fever, diarrhea, burning sensation, debility, anorexia, indigestion. Such types of kushtha should be known as incurable. [11]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Summary",
+            "html": "<h3><span class=\"mw-headline\" id=\"Summary\">Summary</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "भवन्ति चात्र-\nसाध्योऽयमिति यः पूर्वं नरो रोगमुपेक्षते|\nस किञ्चित्कालमासाद्य मृत एवावबुध्यते||१२||",
+            "html": "<p>भवन्ति चात्र- \nसाध्योऽयमिति यः पूर्वं नरो रोगमुपेक्षते| \nस किञ्चित्कालमासाद्य मृत एवावबुध्यते||१२|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "यस्तु प्रागेव रोगेभ्यो रोगेषु तरुणेषु वा|\nभेषजं कुरुते सम्यक् स चिरं सुखमश्नुते||१३||",
+            "html": "<p>यस्तु प्रागेव रोगेभ्यो रोगेषु तरुणेषु वा| \nभेषजं कुरुते सम्यक् स चिरं सुखमश्नुते||१३|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "यथा ह्यल्पेन यत्नेन छिद्यते तरुणस्तरुः|\nस एवातिप्रवृद्धस्तु छिद्यतेऽतिप्रयत्नतः||१४||",
+            "html": "<p>यथा ह्यल्पेन यत्नेन छिद्यते तरुणस्तरुः| \nस एवातिप्रवृद्धस्तु छिद्यतेऽतिप्रयत्नतः||१४|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "एवमेव विकारोऽपि तरुणः साध्यते सुखम्|\nविवृद्धः साध्यते कृच्छ्रादसाध्यो वाऽपि जायते||१५||",
+            "html": "<p>एवमेव विकारोऽपि तरुणः साध्यते सुखम्| \nविवृद्धः साध्यते कृच्छ्रादसाध्यो वाऽपि जायते||१५|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "तत्र श्लोकः-\nसङ्ख्या द्रव्याणि दोषाश्च हेतवः पूर्वलक्षणम्|\nरूपाण्युपद्रवाश्चोक्ताः कुष्ठानां कौष्ठिके पृथक्||१६||",
+            "html": "<p>तत्र श्लोकः- \nसङ्ख्या द्रव्याणि दोषाश्च हेतवः पूर्वलक्षणम्| \nरूपाण्युपद्रवाश्चोक्ताः कुष्ठानां कौष्ठिके पृथक्||१६|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "bhavanti cātra- sādhyō'yamiti yaḥ pūrvaṁ narō rōgamupēkṣatē|\nsa kiñcitkālamāsādya mr̥ta ēvāvabudhyatē||12||",
+            "html": "<p>bhavanti cātra- sādhyō'yamiti yaḥ pūrvaṁ narō rōgamupēkṣatē| \nsa kiñcitkālamāsādya mr̥ta ēvāvabudhyatē||12|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "yastu prāgēva rōgēbhyō rōgēṣu taruṇēṣu vā|\nbhēṣajaṁ kurutē samyak sa ciraṁ sukhamaśnutē||13||",
+            "html": "<p>yastu prāgēva rōgēbhyō rōgēṣu taruṇēṣu vā| \nbhēṣajaṁ kurutē samyak sa ciraṁ sukhamaśnutē||13|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "yathā hyalpēna yatnēna chidyatē taruṇastaruḥ|\nsa ēvātipravr̥ddhastu chidyatē'tiprayatnataḥ||14||",
+            "html": "<p>yathā hyalpēna yatnēna chidyatē taruṇastaruḥ| \nsa ēvātipravr̥ddhastu chidyatē'tiprayatnataḥ||14|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "ēvamēva vikārō'pi taruṇaḥ sādhyatē sukham|\nvivr̥ddhaḥ sādhyatē kr̥cchrādasādhyō vā'pi jāyatē||15||",
+            "html": "<p>ēvamēva vikārō'pi taruṇaḥ sādhyatē sukham| \nvivr̥ddhaḥ sādhyatē kr̥cchrādasādhyō vā'pi jāyatē||15|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "tatra ślōkaḥ- saṅkhyā dravyāṇi dōṣāśca hētavaḥ pūrvalakṣaṇam|\nrūpāṇyupadravāścōktāḥ kuṣṭhānāṁ kauṣṭhikē pr̥thak||16||",
+            "html": "<p>tatra ślōkaḥ- saṅkhyā dravyāṇi dōṣāśca hētavaḥ pūrvalakṣaṇam| \nrūpāṇyupadravāścōktāḥ kuṣṭhānāṁ kauṣṭhikē pr̥thak||16|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "bhavanticAtra-\nsAdhyo~ayamitiyaHpUrvaMnarorogamupekShate| saki~jcitkAlamAsAdyamRutaevAvabudhyate||12||",
+            "html": "<p>bhavanticAtra- \nsAdhyo~ayamitiyaHpUrvaMnarorogamupekShate| saki~jcitkAlamAsAdyamRutaevAvabudhyate||12|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "yastuprAgevarogebhyorogeShutaruNeShuvA| bheShajaMkurutesamyaksaciraMsukhamashnute||13||",
+            "html": "<p>yastuprAgevarogebhyorogeShutaruNeShuvA| bheShajaMkurutesamyaksaciraMsukhamashnute||13|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "yathAhyalpenayatnenachidyatetaruNastaruH| saevAtipravRuddhastuchidyate~atiprayatnataH||14||",
+            "html": "<p>yathAhyalpenayatnenachidyatetaruNastaruH| saevAtipravRuddhastuchidyate~atiprayatnataH||14||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "evamevavikAro~apitaruNaHsAdhyatesukham| vivRuddhaHsAdhyatekRucchrAdasAdhyovA~apijAyate||15||",
+            "html": "<p>evamevavikAro~apitaruNaHsAdhyatesukham| vivRuddhaHsAdhyatekRucchrAdasAdhyovA~apijAyate||15|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "tatrashlokaH-\nsa~gkhyAdravyANidoShAshcahetavaHpUrvalakShaNam| rUpANyupadravAshcoktAHkuShThanAMkauShThikepRuthak||16||",
+            "html": "<p>tatrashlokaH- \nsa~gkhyAdravyANidoShAshcahetavaHpUrvalakShaNam| rUpANyupadravAshcoktAHkuShThanAMkauShThikepRuthak||16||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "The individual, who neglects the disease in early stage by assuming it as curable,( does not take treatment at early stage) can be regarded as dead after a lapse of time(due to complications). The individual who took treatment properly prior to full manifestation of disease or in its early stage attains happiness for long time. Just as a tender plant is easy to cut down with a little effort, but the same require great effort when fully grown.",
+            "html": "<p>The individual, who neglects the disease in early stage by assuming it as curable,( does not take treatment at early stage) can be regarded as dead after a lapse of time(due to complications). The individual who took treatment properly prior to full manifestation of disease or in its early stage attains happiness for long time. Just as a tender plant is easy to cut down with a little effort, but the same require great effort when fully grown.\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Likewise, a disease is easily curable in the early stage; it becomes incurable or difficulty to cure as it reaches the advanced stage.[12-15]",
+            "html": "<p>Likewise, a disease is easily curable in the early stage; it becomes incurable or difficulty to cure as it reaches the advanced stage.[12-15]\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "इत्यग्निवेशकृते तन्त्रे चरकप्रतिसंस्कृते निदानस्थाने कुष्ठनिदानं नाम पञ्चमोऽध्यायः||५||",
+            "html": "<p>इत्यग्निवेशकृते तन्त्रे चरकप्रतिसंस्कृते निदानस्थाने कुष्ठनिदानं नाम पञ्चमोऽध्यायः||५|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "ityagniveshakRutetantrecarakapratisaMskRutenidAnasthAnekuShThanidAnaMnAmapa~jcamo~adhyAyaH||5||",
+            "html": "<p>ityagniveshakRutetantrecarakapratisaMskRutenidAnasthAnekuShThanidAnaMnAmapa~jcamo~adhyAyaH||5||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Thus ends the fifth chapter on Kushtha Nidana in Nidana Sthana in the treatise composed by Agnivesha and as redacted by Charak.",
+            "html": "<p>Thus ends the fifth chapter on <a class=\"mw-selflink selflink\">Kushtha Nidana</a> in <a href=\"/index.php?title=Nidana_Sthana\" title=\"Nidana Sthana\">Nidana Sthana</a> in the treatise composed by Agnivesha and as redacted by Charak.\n</p>"
+        },
+        {
+            "type": "h2",
+            "text": "Tattva Vimarsha (Fundamental Principles)",
+            "html": "<h2><span id=\"Tattva_Vimarsha_.28Fundamental_Principles.29\"></span><span class=\"mw-headline\" id=\"Tattva_Vimarsha_(Fundamental_Principles)\">Tattva Vimarsha (Fundamental Principles)</span></h2>",
+            "level": 2
+        },
+        {
+            "type": "ul",
+            "text": "kushtha is the result of combined and simultaneous involvement of all the three dosha and subsequently vitiation of the four body constituents i.e. rasa ( twak , or skin), mamsa (muscle tissue), rakta (blood), and lasika (lymph). There can be infinite clinical presentations of kushtha (skin diseases) depending upon severity of combination of above mentioned vitiating factors. While diagnosing the severity of kushtha, the depth of lesion can be assessed according to involvement of skin, muscle, blood and lymph respectively. The treatment should be planned accordingly, targeting these constituents and should be based upon predominantly vitiated dosha . The varieties in vitiated qualities of doshas (like ruksha etc.) depend upon dietary and lifestyle causative factors. kushtha can be classified based upon the criteria like specific sensation in skin, change in color of skin (pigmentation), site of lesion, spread of lesion, clinical features. Continuous exposure to change in temperature (thermal sensitivity), change in fluid volume and muscle mass inside body, incompatible dietary and lifestyle factors are main causative factors of kushtha. Similarly sudden changes in above factors may lead to acute condition of skin disease. If the curable kushtha are not timely treated, it leads to favorable environment to growth of micro-organisms. The micro-organisms grow on the vitiated twak, rakta , mamsa , and lasika leading to various severe skin lesions. The curable disease can become incurable due to improper management, exposure to causative factors and aggravation of dosha .",
+            "html": "<ul><li>kushtha is the result of combined and simultaneous involvement of all the three <i><a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a></i> and subsequently vitiation of the four body constituents i.e. <i><a href=\"/index.php?title=Rasa\" title=\"Rasa\">rasa</a></i> (<i>twak</i>, or skin), <i><a class=\"mw-redirect\" href=\"/index.php?title=Mamsa\" title=\"Mamsa\">mamsa</a></i>(muscle tissue), <i><a class=\"mw-redirect\" href=\"/index.php?title=Rakta\" title=\"Rakta\">rakta</a></i>(blood), and <i>lasika</i>(lymph).</li>\n<li>There can be infinite clinical presentations of kushtha (skin diseases) depending upon severity of combination of above mentioned vitiating factors.</li>\n<li>While diagnosing the severity of kushtha, the depth of lesion can be assessed according to involvement of skin, muscle, blood and lymph respectively. The treatment should be planned accordingly, targeting these constituents and should be based upon predominantly vitiated <i><a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a></i>.</li>\n<li>The varieties in vitiated qualities of <i><a href=\"/index.php?title=Dosha\" title=\"Dosha\">doshas</a></i> (like <i>ruksha</i> etc.) depend upon dietary and lifestyle causative factors. kushtha can be classified based upon the criteria like specific sensation in skin, change in color of skin (pigmentation), site of lesion, spread of lesion, clinical features.</li>\n<li>Continuous exposure to change in temperature (thermal sensitivity), change in fluid volume and muscle mass inside body, incompatible dietary and lifestyle factors are main causative factors of kushtha. Similarly sudden changes in above factors may lead to acute condition of skin disease.</li>\n<li>If the curable kushtha are not timely treated, it leads to favorable environment to growth of micro-organisms. The micro-organisms grow on the vitiated <i>twak, <a class=\"mw-redirect\" href=\"/index.php?title=Rakta\" title=\"Rakta\">rakta</a>, <a class=\"mw-redirect\" href=\"/index.php?title=Mamsa\" title=\"Mamsa\">mamsa</a>,</i> and <i>lasika</i> leading to various severe skin lesions.</li>\n<li>The curable disease can become incurable due to improper management, exposure to causative factors and aggravation of <i><a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a></i>.</li></ul>",
+            "items": [
+                "kushtha is the result of combined and simultaneous involvement of all the three dosha and subsequently vitiation of the four body constituents i.e. rasa ( twak , or skin), mamsa (muscle tissue), rakta (blood), and lasika (lymph).",
+                "There can be infinite clinical presentations of kushtha (skin diseases) depending upon severity of combination of above mentioned vitiating factors.",
+                "While diagnosing the severity of kushtha, the depth of lesion can be assessed according to involvement of skin, muscle, blood and lymph respectively. The treatment should be planned accordingly, targeting these constituents and should be based upon predominantly vitiated dosha .",
+                "The varieties in vitiated qualities of doshas (like ruksha etc.) depend upon dietary and lifestyle causative factors. kushtha can be classified based upon the criteria like specific sensation in skin, change in color of skin (pigmentation), site of lesion, spread of lesion, clinical features.",
+                "Continuous exposure to change in temperature (thermal sensitivity), change in fluid volume and muscle mass inside body, incompatible dietary and lifestyle factors are main causative factors of kushtha. Similarly sudden changes in above factors may lead to acute condition of skin disease.",
+                "If the curable kushtha are not timely treated, it leads to favorable environment to growth of micro-organisms. The micro-organisms grow on the vitiated twak, rakta , mamsa , and lasika leading to various severe skin lesions.",
+                "The curable disease can become incurable due to improper management, exposure to causative factors and aggravation of dosha ."
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Vidhi Vimarsha (Applied Inferences)",
+            "html": "<h2><span id=\"Vidhi_Vimarsha_.28Applied_Inferences.29\"></span><span class=\"mw-headline\" id=\"Vidhi_Vimarsha_(Applied_Inferences)\">Vidhi Vimarsha (Applied Inferences)</span></h2>",
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "Three chapters are devoted to dermatological disorders, present chapter and Chikitsa Sthana chapter 7 ( Kushtha Chikitsa ) and 21( Visarpa Chikitsa ). The present chapter deals with seven types of kushtha, while in Kushtha Chikitsa , all eighteen types have been described and have been given the name of Mahakushtha (major) and Kshudra kushtha (Minor). After reviewing the symptoms of seven major types it is clear that it covers a progressive disorder of skin leading to loss of organs and impaired sensation (sensory neuropathy). According to some commentators Kshudra kushtha is a group of mild and localized skin diseases, which runs a chronic course.",
+            "html": "<p>Three chapters are devoted to dermatological disorders, present chapter and <a href=\"/index.php?title=Chikitsa_Sthana\" title=\"Chikitsa Sthana\">Chikitsa Sthana</a> chapter 7 (<a href=\"/index.php?title=Kushtha_Chikitsa\" title=\"Kushtha Chikitsa\">Kushtha Chikitsa</a>) and 21(<a href=\"/index.php?title=Visarpa_Chikitsa\" title=\"Visarpa Chikitsa\">Visarpa Chikitsa</a>). The present chapter deals with seven types of kushtha, while in <a href=\"/index.php?title=Kushtha_Chikitsa\" title=\"Kushtha Chikitsa\">Kushtha Chikitsa</a>, all eighteen types have been described and have been given the name of <i>Mahakushtha</i> (major) and <i>Kshudra kushtha</i> (Minor). After reviewing the symptoms of seven major types it is clear that it covers a progressive disorder of skin leading to loss of organs and impaired sensation (sensory neuropathy). According to some commentators <i>Kshudra kushtha</i> is a  group of mild and localized skin diseases, which runs a chronic course.\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Most of the diseases are classified on the basis of dosha predominance. There is variable interplay of three dosha and four dushya in kushtha, which can present as seven types, eighteen types and innumerable types on the basis of symptoms, color, location, prognosis and treatment. (see chart).",
+            "html": "<p>Most of the diseases are classified on the basis of <i><a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a></i> predominance. There is variable interplay of three <i><a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a></i> and four <i><a href=\"/index.php?title=Dushya\" title=\"Dushya\">dushya</a></i> in kushtha, which can present as seven types, eighteen types and innumerable types on the basis of symptoms, color, location, prognosis and treatment. (see chart).\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "kushtha and visarpa - both the diseases have the same seven causative factors (three dosha and four dhatu type disorders), where kushtha is chronic and visarpa is acute and may be life threatening, In visarpa , rakta is dominant which makes it spread rapidly, treatment is bloodletting. In case of kushtha all seven factors are involved with little bit variation.",
+            "html": "<p>kushtha and <i>visarpa</i> - both the diseases have the same seven causative factors (three <i><a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a></i> and four <i><a href=\"/index.php?title=Dhatu\" title=\"Dhatu\">dhatu</a></i> type disorders), where kushtha is chronic and <i>visarpa</i> is acute and may be life threatening,  In <i>visarpa</i>, <i><a class=\"mw-redirect\" href=\"/index.php?title=Rakta\" title=\"Rakta\">rakta</a></i> is dominant which makes it spread rapidly, treatment is bloodletting. In case of kushtha all seven factors are involved with little bit variation.\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Causes of kushtha",
+            "html": "<h3><span class=\"mw-headline\" id=\"Causes_of_kushtha\">Causes of kushtha</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Diet and lifestyle play a significant role in health and disease. What, how and when diet should be taken is important. In kushtha, alternating opposite character of food like hot/cold, nourishing/ non nourishing foods if taken one after the other is an etiological factor. Many other such etiological factors have been listed. All the etiological factors mentioned, also help in the growth of parasites like maggots at the involved skin.",
+            "html": "<p>Diet and lifestyle play a significant role in health and disease. What, how and when diet should be taken is important. In kushtha, alternating opposite character of food like hot/cold, nourishing/ non nourishing foods if taken one after the other is an etiological factor. Many other such etiological factors have been listed. All the etiological factors mentioned, also help in the growth of parasites like maggots at the involved skin. \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Environmental factors like diet and lifestyle, in the presence of genetic predisposition impair the immune system with increased susceptibility to secondary infection. Viruddhahara (incompatible foods) has similar effect through epigenetic mechanism.\nEarly diagnosis is important and stages have been described for disease manifestation. Poorvarupa (prodromal symptoms) occur in the fourth stage of disease manifestation and if the disease is diagnosed at this level, early control and better treatment may be possible. Though in the stage of poorvarupa it may not be possible to diagnose the type/subtype of disease, however type of dosha can be decided and accordingly treatment can be started. (7)",
+            "html": "<p>Environmental factors like diet and lifestyle, in the presence of genetic predisposition impair the immune system with increased susceptibility to secondary infection. <i>Viruddhahara</i> (incompatible foods) has similar effect through epigenetic mechanism.\nEarly diagnosis is important and stages have been described for disease manifestation. <i>Poorvarupa</i> (prodromal symptoms) occur in the fourth stage of disease manifestation and if the disease is diagnosed at this level, early control and better treatment may be possible. Though in the stage of <i>poorvarupa</i> it may not be possible to diagnose the type/subtype of disease, however type of <i><a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a></i> can be decided and accordingly treatment can be started. (7)\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Classification of kushtha",
+            "html": "<h3><span class=\"mw-headline\" id=\"Classification_of_kushtha\">Classification of kushtha</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "The mahakushtha has been classified under seven types as per their dosha predominance accordingly symptomatology of these has been described. All the body physiology and pathology is designated to a particular dosha thus the diseases are basically diagnosed on the basis of three dosha and their combinations. The color, texture, secretions, margins, and types of pain associated with these lesions, as well as their progression have been classified on the basis of three dosha .",
+            "html": "<p>The <i>mahakushtha</i> has been classified under seven types as per their <i><a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a></i> predominance accordingly symptomatology of these has been described. All the body physiology and pathology is designated to a particular <i><a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a></i> thus the diseases are basically diagnosed on the basis of three <i><a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a></i> and their combinations. The color, texture, secretions, margins, and types of pain associated with these lesions, as well as their progression have been classified on the basis of three <i><a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a></i>.\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Layers of skin",
+            "html": "<h3><span class=\"mw-headline\" id=\"Layers_of_skin\">Layers of skin</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Charak and Sushruta both have enumerated the layers of skin and the thickness of layers and diseases occurring in these layers have also been narrated. Their possible modern equivalence as given by some scholars in Ayurvedic texts is as follows:",
+            "html": "<p>Charak and Sushruta both have enumerated the layers of skin and the thickness of layers and diseases occurring in these layers have also been narrated. Their possible modern equivalence as given by some scholars in Ayurvedic texts is as follows:\n</p>"
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "Sl. No",
+                        "rowspan": 2,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "th",
+                        "text": "Layers",
+                        "rowspan": 2,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "th",
+                        "text": "Thickness",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "th",
+                        "text": "Modern comparable equivalence**",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "th",
+                        "text": "Skin",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "th",
+                        "text": "Reflection of disease",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "in vrihi* – size of rice/ barley Seed",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "th",
+                        "text": "Probable equivalence",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "th",
+                        "text": "Layer",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "th",
+                        "text": "",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "1",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Avabhasini",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "1/18",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "stratum corneum",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Epidermis",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "sidhma, padmini, kantaka",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "2",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Lohita",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "1/16",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Stratum lucidum",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "tilakalaka, vyanga, nyachha",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "3",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Shweta",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "1/12",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Stratum granulosum",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "charmadala, ajagallika, mashaka",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "4",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Tamra",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "1/8",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "squamous cell layer and basal cell layer",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "kilasa, kushtha",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "5",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Vedini",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "1/5",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "upper dermis",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Dermis",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "kushtha, visarpa",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "6",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Rohini",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "01",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "lower dermis",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "granthi, apachi, arbuda, sleepada, galaganda.",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "7",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Mamsadhara",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "02",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Subcutaneous tissue including fat",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "bhagandara, vidradhi, arsha",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ]
+            ],
+            "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th rowspan=\"2\">Sl. No\n</th>\n<th rowspan=\"2\">Layers\n</th>\n<th rowspan=\"1\">Thickness\n</th>\n<th rowspan=\"1\">Modern comparable equivalence**\n</th>\n<th rowspan=\"1\">Skin\n</th>\n<th rowspan=\"1\">Reflection of disease\n</th></tr>\n<tr>\n<th>in vrihi* – size of rice/ barley Seed</th>\n<th>Probable equivalence</th>\n<th>Layer</th>\n<th>\n</th></tr>\n<tr>\n<td>1</td>\n<td>Avabhasini</td>\n<td>1/18</td>\n<td>stratum corneum</td>\n<td>Epidermis</td>\n<td>sidhma, padmini, kantaka\n</td></tr>\n<tr>\n<td>2</td>\n<td>Lohita</td>\n<td>1/16</td>\n<td>Stratum lucidum</td>\n<td></td>\n<td>tilakalaka, vyanga, nyachha\n</td></tr>\n<tr>\n<td>3</td>\n<td>Shweta</td>\n<td>1/12</td>\n<td>Stratum granulosum</td>\n<td></td>\n<td>charmadala, ajagallika, mashaka\n</td></tr>\n<tr>\n<td>4</td>\n<td>Tamra</td>\n<td>1/8</td>\n<td>squamous cell layer and basal cell layer</td>\n<td></td>\n<td>kilasa, kushtha\n</td></tr>\n<tr>\n<td>5</td>\n<td>Vedini</td>\n<td>1/5</td>\n<td>upper dermis</td>\n<td>Dermis</td>\n<td>kushtha, visarpa\n</td></tr>\n<tr>\n<td>6</td>\n<td>Rohini</td>\n<td>01</td>\n<td>lower dermis</td>\n<td></td>\n<td>granthi, apachi, arbuda, sleepada, galaganda.\n</td></tr>\n<tr>\n<td>7</td>\n<td>Mamsadhara</td>\n<td>02</td>\n<td>Subcutaneous tissue including fat</td>\n<td></td>\n<td>bhagandara, vidradhi, arsha\n</td></tr>\n</tbody></table>"
+        },
+        {
+            "type": "p",
+            "text": "Note: *1 vrihi measurement = 0.5 to 1.5 mm **we have correlated the relative terms in modern dermatology that are selected by considering the origin of the disease and thickness of layer explained in Ayurveda .",
+            "html": "<p>Note: *1 vrihi measurement = 0.5 to 1.5 mm **we have correlated the relative terms in modern dermatology that are selected by considering the origin of the disease and thickness of layer explained in <a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a>.\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Dosha specific variation in kushtha",
+            "html": "<h3><span class=\"mw-headline\" id=\"Dosha_specific_variation_in_kushtha\">Dosha specific variation in kushtha</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Various Vedic texts on the subject have tried to classify all signs and symptoms on the basis of tridosha thus this serves a good tool to diagnose the lesions as per three doshas seen in the following table:",
+            "html": "<p>Various Vedic texts on the subject have tried to classify all signs and symptoms on the basis of <i>tridosha</i> thus this serves a good tool to diagnose the lesions as per three <i><a href=\"/index.php?title=Dosha\" title=\"Dosha\">doshas</a></i> seen in the following table:\n</p>"
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "Sr",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "th",
+                        "text": "Parikshya bhava( assessment parameter)",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "th",
+                        "text": "vata",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "th",
+                        "text": "pitta",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "th",
+                        "text": "kapha",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "1",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "th",
+                        "text": "Observation (darshan parikshya bhava)",
+                        "rowspan": 1,
+                        "colspan": 4
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Color",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Black, Dusky or Downy red, Blackness",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Red, Yellowish-ness",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "White",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Texture",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Dry, constriction",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Smooth",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Oily or soft",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Presence of hairs",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Covered with bristling hair",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Coppery-rough hairs",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "White hairlines in",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Margins of lesion",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Unevenly spread, rough margins",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Thin",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Elevated with smooth and fixed margins",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Secretions",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Less serous & pus discharge, absence of sweating",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Plenty of thick discharge of pus, blood and lymph, profuse sweating onlesions",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Copious, thick, white and slimy discharge",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Presence of maggots (Krimi, jantu)",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Jantu",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Krimi",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Krimi",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "2",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "th",
+                        "text": "Palpation(sparshana parikshya bhava)",
+                        "rowspan": 1,
+                        "colspan": 4
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Type of lesion",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Macular",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Macular, blisters",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Macular, Papular lesion",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Consistency of lesions",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Rough, Hard, emaciation",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Smooth,",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Soft, thickness, oedema,",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Sensitivity –",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "numbness, hypersensitivity",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "-",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "-",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Temperature-",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "cold to touch,",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "hot to touch",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "cold to touch,",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "3",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "th",
+                        "text": "Interrogation (prashna pariksha)",
+                        "rowspan": 1,
+                        "colspan": 4
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "vedana (pain),",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Pain, Breaking pain, pricking pain, horripilation, loss of sensation or excessive sensitivity",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Itching, burning sensation, feeling of burning, foul smell",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Itching, heaviness,",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Onset",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Acute",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Acute",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Chronic",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Progression",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Quick",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Quick",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Slow",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ]
+            ],
+            "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th rowspan=\"1\">Sr\n</th>\n<th rowspan=\"1\">Parikshya bhava( assessment parameter)\n</th>\n<th rowspan=\"1\"><a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a>\n</th>\n<th rowspan=\"1\"><a href=\"/index.php?title=Pitta\" title=\"Pitta\">pitta</a>\n</th>\n<th rowspan=\"1\"><a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a>\n</th></tr>\n<tr>\n<th rowspan=\"1\">1\n</th>\n<th colspan=\"4\" style=\"text-align: left;\">Observation (darshan parikshya bhava)\n</th></tr>\n<tr>\n<td></td>\n<td>Color</td>\n<td>Black, Dusky or Downy red, Blackness</td>\n<td>Red, Yellowish-ness</td>\n<td>White\n</td></tr>\n<tr>\n<td></td>\n<td>Texture</td>\n<td>Dry, constriction</td>\n<td>Smooth</td>\n<td>Oily or soft\n</td></tr>\n<tr>\n<td></td>\n<td>Presence of hairs</td>\n<td>Covered with bristling hair</td>\n<td>Coppery-rough hairs</td>\n<td>White hairlines in\n</td></tr>\n<tr>\n<td></td>\n<td>Margins of lesion</td>\n<td>Unevenly spread, rough margins</td>\n<td>Thin</td>\n<td>Elevated with smooth and fixed  margins\n</td></tr>\n<tr>\n<td></td>\n<td>Secretions</td>\n<td>Less serous &amp; pus discharge, absence of sweating</td>\n<td>Plenty of thick discharge of pus, blood and lymph, profuse sweating onlesions</td>\n<td>Copious, thick, white  and slimy discharge\n</td></tr>\n<tr>\n<td></td>\n<td>Presence of maggots (Krimi, jantu)</td>\n<td>Jantu</td>\n<td>Krimi</td>\n<td>Krimi\n</td></tr>\n<tr>\n<th rowspan=\"1\">2\n</th>\n<th colspan=\"4\" style=\"text-align: left;\">Palpation(sparshana parikshya bhava)\n</th></tr>\n<tr>\n<td></td>\n<td>Type of lesion</td>\n<td>Macular</td>\n<td>Macular, blisters</td>\n<td>Macular, Papular lesion\n</td></tr>\n<tr>\n<td></td>\n<td>Consistency of lesions</td>\n<td>Rough, Hard, emaciation</td>\n<td>Smooth,</td>\n<td>Soft, thickness, oedema,\n</td></tr>\n<tr>\n<td></td>\n<td>Sensitivity –</td>\n<td>numbness, hypersensitivity</td>\n<td>-</td>\n<td>-\n</td></tr>\n<tr>\n<td></td>\n<td>Temperature-</td>\n<td>cold to touch,</td>\n<td>hot to touch</td>\n<td>cold to touch,\n</td></tr>\n<tr>\n<th rowspan=\"1\">3\n</th>\n<th colspan=\"4\" style=\"text-align: left;\">Interrogation (prashna pariksha)\n</th></tr>\n<tr>\n<td></td>\n<td>vedana (pain),</td>\n<td>Pain, Breaking pain, pricking pain, horripilation, loss of sensation or excessive sensitivity</td>\n<td>Itching, burning sensation, feeling of burning, foul smell</td>\n<td>Itching, heaviness,\n</td></tr>\n<tr>\n<td></td>\n<td>Onset</td>\n<td>Acute</td>\n<td>Acute</td>\n<td>Chronic\n</td></tr>\n<tr>\n<td></td>\n<td>Progression</td>\n<td>Quick</td>\n<td>Quick</td>\n<td>Slow\n</td></tr>\n</tbody></table>"
+        },
+        {
+            "type": "p",
+            "text": "Thus on the basis of symptomatology of it can be inferred that maha-kushtha is a group of skin diseases that includes Leprosy. However, there is ample scope to include, diagnose and treat any other syndromes available today or occurring in future on the basis of this description of kushtha.(verse 8)",
+            "html": "<p>Thus on the basis of symptomatology of it can be inferred that maha-kushtha is a group of skin diseases that includes Leprosy. However, there is ample scope to include, diagnose and treat any other syndromes available today or occurring in future on the basis of this description of kushtha.(verse 8)\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Prognosis of kushtha",
+            "html": "<h3><span class=\"mw-headline\" id=\"Prognosis_of_kushtha\">Prognosis of kushtha</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Prognostic criteria for curability or incurability has been given much importance. Text cautions that incurable will not leave its nature, however curable conditions can become incurable due improper treatment. With the availability of newer treatments and better diagnostic tools many syndromes which, were listed as incurable have become palliable. The management of leprosy is one example of change in the approach to management with the help of antibiotics, but, with limitations. The outcome of treatment can be significantly changed if the current antibiotic treatment is supplemented with Ayurvedic management.",
+            "html": "<p>Prognostic criteria for curability or incurability has been given much importance. Text cautions that incurable will not leave its nature, however curable conditions can become incurable due improper treatment. With the availability of newer treatments and better diagnostic tools many syndromes which, were listed as incurable have become palliable. The management of leprosy is one example of change in the approach to management with the help of antibiotics, but, with limitations. The outcome of treatment can be significantly changed if the current antibiotic treatment is supplemented with Ayurvedic management. \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "After the fifth stage of the therapeutic intervention i.e. rupa (proper manifestation) if the disease is not managed properly or the intervention is ineffective the disease progresses further and produces symptoms of upadrava (complications). These symptoms and signs have again been classified on the basis of tri- dosha . As the rasa (twak), rakta , mamsa and lasika ( lymphatic tissue) are involved in the manifestation of kushtha, its progression to the deeper tissues like meda , asthi , majja and shukra will lead to complications. This includes permanent disfiguration of organs, loss of phalanges and infection of wounds by maggots causing severe damage to the tissues like bones. (verse 10-16)",
+            "html": "<p>After the fifth stage of the therapeutic intervention i.e. rupa (proper manifestation) if the disease is not managed properly or the intervention is ineffective the disease progresses further and produces symptoms of upadrava (complications). These symptoms and signs have again been classified on the basis of tri-<a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a>. As the <a href=\"/index.php?title=Rasa\" title=\"Rasa\">rasa</a>(twak), <a class=\"mw-redirect\" href=\"/index.php?title=Rakta\" title=\"Rakta\">rakta</a>, <a class=\"mw-redirect\" href=\"/index.php?title=Mamsa\" title=\"Mamsa\">mamsa</a> and lasika ( lymphatic tissue) are involved in the manifestation of kushtha, its progression to the deeper tissues like <a href=\"/index.php?title=Meda\" title=\"Meda\">meda</a>, <a href=\"/index.php?title=Asthi\" title=\"Asthi\">asthi</a>, <a href=\"/index.php?title=Majja\" title=\"Majja\">majja</a> and <a class=\"mw-redirect\" href=\"/index.php?title=Shukra\" title=\"Shukra\">shukra</a> will lead to complications. This includes permanent disfiguration of organs, loss of phalanges and infection of wounds by maggots causing severe damage to the tissues like bones. (verse 10-16)\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "If the symptomatology described by Charak and Dhatugata symptoms of Sushruta are compared, it is evident that the symptoms described for rasa dhatu represent poorvarupa. Rakta and mamsagata symptoms are listed as rupa of kushtha. The symptoms listed as medagata are the disfigurement of the organs, falling of limbs and flaring of skin lesions. The symptoms listed as asthigata kushtha are saddle nose, kerato- conjunctivitis, growth of maggots in lesions and loss of speech. This list of dhatugata kushtha described by Sushruta covers almost all the complications of leprosy. Thus taking into the consideration of Dhatugata stage of the disease further insight in the management of the disease as Sushruta has advised to increase the intensity of the treatment taking into the consideration of the dhatu involved.",
+            "html": "<p>If the symptomatology described by Charak and Dhatugata symptoms of Sushruta are compared, it is evident that the symptoms described for <a href=\"/index.php?title=Rasa_dhatu\" title=\"Rasa dhatu\">rasa dhatu</a> represent poorvarupa. <a class=\"mw-redirect\" href=\"/index.php?title=Rakta\" title=\"Rakta\">Rakta</a> and mamsagata symptoms are listed as rupa of kushtha. The symptoms listed as medagata are the disfigurement of the organs, falling of limbs and flaring of skin lesions. The symptoms listed as asthigata kushtha are saddle nose, kerato- conjunctivitis, growth of maggots in lesions and loss of speech. This list of dhatugata kushtha described by Sushruta covers almost all the complications of leprosy. Thus taking into the consideration of Dhatugata stage of the disease further insight in the management of the disease as Sushruta has advised to increase the intensity of the treatment taking into the consideration of the <a href=\"/index.php?title=Dhatu\" title=\"Dhatu\">dhatu</a> involved.\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Sushruta has explained the symptomatology on the basis of dhatugata stage of the dosha .[Sushruta Samhita Nidana Sthana 7/21-26] Rasa , lasika, rakta and mamsa are dushya , in this disease hence complications arise when the dosha proceed to the deeper dhatu , meda and majja .",
+            "html": "<p>Sushruta has explained the symptomatology on the basis of dhatugata stage of the <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a>.[Sushruta Samhita Nidana Sthana 7/21-26] <a href=\"/index.php?title=Rasa\" title=\"Rasa\">Rasa</a>, lasika, <a class=\"mw-redirect\" href=\"/index.php?title=Rakta\" title=\"Rakta\">rakta</a> and <a class=\"mw-redirect\" href=\"/index.php?title=Mamsa\" title=\"Mamsa\">mamsa</a> are <a href=\"/index.php?title=Dushya\" title=\"Dushya\">dushya</a>, in this disease hence complications arise when the dosha proceed to the deeper <a href=\"/index.php?title=Dhatu\" title=\"Dhatu\">dhatu</a>, <a href=\"/index.php?title=Meda\" title=\"Meda\">meda</a> and <a href=\"/index.php?title=Majja\" title=\"Majja\">majja</a>.\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Samswedaja Krimi (Maggot/micro-organisms infestation with sweating) is a complication is to be kept in mind for treatment purpose.\nThis has been stressed that treatment should be done at the earliest stage otherwise even the most curable disease becomes incurable.\nLeprosy can be referred in seven types of Kushtha. Vivid description of the disease is available in the texts and almost all the aspects of pathogenesis is detailed including its contagiousness. The serious complications like disfigurement of limbs and loss of phalanges has also been described.",
+            "html": "<p>Samswedaja Krimi (Maggot/micro-organisms infestation with sweating) is a complication is to be kept in mind for treatment purpose.\nThis has been stressed that treatment should be done at the earliest stage otherwise even the most curable disease becomes incurable.\nLeprosy can be referred in seven types of Kushtha. Vivid description of the disease is available in the texts and almost all the aspects of pathogenesis is detailed including its contagiousness. The serious complications like disfigurement of limbs and loss of phalanges has also been described.\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Research works on kushtha",
+            "html": "<h3><span class=\"mw-headline\" id=\"Research_works_on_kushtha\">Research works on kushtha</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "Name of author and title of thesis",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "th",
+                        "text": "Year",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "th",
+                        "text": "Subject",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "th",
+                        "text": "Institute",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Sharma R. K. - A study of Leprosy according to Ayurveda and its management with M. G. Capsule. L-1118",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "1982",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Kayachikitsa",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "I.P.G.T.& R.A., Jamnagar",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Singh B P - A conceptual, clinical and experimental study of leprosy with its treatment by some indigenous drugs.",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "1973",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Kayachikitsa",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Faculty of Ayurveda BHU, Vaaranasi",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Awadhwal V K - Studies on treatment of leprosy with some indigenous compounds",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "1986",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Kayachikitsa",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Faculty of Ayurveda BHU, Varanasi",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Rane S B – To prepare Gandhaka Druti and study of the effect of an Ayurvedic preparation Gandhaka Druti on leprosy and lepromatous leprosy patients.",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "1997",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Ph.D. theses",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "University of Pune, Pune",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Chavan Santosh – To study the Dhatu-Gatavastha of Maha-Kushtha (leprosy) w.s.r. to skin biopsy.",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "2004",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Roga Vigyana & Vikriti Vijnana",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Tiak Ayurved Mahavidyalaya, Pune",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Eswar Reddy M - Effect of Pancha Karma Chikitsa and Gandhaka Rasayana in the management of leprosy.",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "1988",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Kayachikitsa",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Mysore",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Bora Dilip - To study Vedini-Tvacha in Sushruta w.s.r. to leprosy.",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "ShareeraRachana",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Ashtanga Ayurved Mahavidyalaya, Pune",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ]
+            ],
+            "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th rowspan=\"1\">Name of author and title of thesis\n</th>\n<th rowspan=\"1\">Year\n</th>\n<th rowspan=\"1\">Subject\n</th>\n<th rowspan=\"1\">Institute\n</th></tr>\n<tr>\n<td>Sharma R. K. - A study of Leprosy according to <a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a> and its management with M. G. Capsule. L-1118</td>\n<td>1982</td>\n<td>Kayachikitsa</td>\n<td>I.P.G.T.&amp; R.A., Jamnagar\n</td></tr>\n<tr>\n<td>Singh B P - A conceptual, clinical and experimental study of leprosy with its treatment by some indigenous drugs.</td>\n<td>1973</td>\n<td>Kayachikitsa</td>\n<td>Faculty of <a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a> BHU, Vaaranasi\n</td></tr>\n<tr>\n<td>Awadhwal V K - Studies on treatment of leprosy with some indigenous compounds</td>\n<td>1986</td>\n<td>Kayachikitsa</td>\n<td>Faculty of <a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a> BHU, Varanasi\n</td></tr>\n<tr>\n<td>Rane S B – To prepare Gandhaka Druti and study of the effect of an Ayurvedic preparation Gandhaka Druti on leprosy and lepromatous leprosy patients.</td>\n<td>1997</td>\n<td>Ph.D. theses</td>\n<td>University of Pune, Pune\n</td></tr>\n<tr>\n<td>Chavan Santosh – To study the Dhatu-Gatavastha of Maha-Kushtha (leprosy) w.s.r. to skin biopsy.</td>\n<td>2004</td>\n<td>Roga Vigyana &amp; Vikriti Vijnana</td>\n<td>Tiak Ayurved Mahavidyalaya, Pune\n</td></tr>\n<tr>\n<td>Eswar Reddy M - Effect of Pancha Karma Chikitsa and Gandhaka Rasayana in the management of leprosy.</td>\n<td>1988</td>\n<td>Kayachikitsa</td>\n<td>Mysore\n</td></tr>\n<tr>\n<td>Bora Dilip - To study Vedini-Tvacha in Sushruta w.s.r.  to leprosy.</td>\n<td></td>\n<td>ShareeraRachana</td>\n<td>Ashtanga Ayurved Mahavidyalaya, Pune\n</td></tr>\n</tbody></table>"
+        },
+        {
+            "type": "h2",
+            "text": "Related Chapters",
+            "html": "<h2><span class=\"mw-headline\" id=\"Related_Chapters\">Related Chapters</span></h2>",
+            "level": 2
+        },
+        {
+            "type": "ul",
+            "text": "Kushtha Chikitsa , Skin diseases in Integrative Medicine",
+            "html": "<ul><li><a href=\"/index.php?title=Kushtha_Chikitsa\" title=\"Kushtha Chikitsa\">Kushtha Chikitsa</a>, <a href=\"/index.php?title=Skin_diseases_in_Integrative_Medicine\" title=\"Skin diseases in Integrative Medicine\">Skin diseases in Integrative Medicine</a></li></ul>",
+            "items": [
+                "Kushtha Chikitsa , Skin diseases in Integrative Medicine"
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Send us your suggestions and feedback on this page.",
+            "html": "<p><big><b><a href=\"/index.php?title=Special:ContactMe\" title=\"Special:ContactMe\">Send us your suggestions and feedback on this page.</a></b></big>\n</p>"
+        }
+    ],
+    "html_sha256": "4162de16bc6b9781202b879b84871468c54a793c554903460fad61def9cbe84f"
+}

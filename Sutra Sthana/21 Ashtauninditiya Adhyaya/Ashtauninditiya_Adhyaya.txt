@@ -1,0 +1,2344 @@
+==========================================================================================
+CHARAKA SAMHITA
+ASHTAUNINDITIYA ADHYAYA
+==========================================================================================
+
+Source URL: https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya
+Extraction Date: 2026-11-03T12:04:29
+Total Blocks: 299
+
+==========================================================================================
+
+
+[BLOCK 1: H1]
+----------------------------------------------------------------------
+Ashtauninditiya Adhyaya
+
+
+[BLOCK 2: TEXT]
+----------------------------------------------------------------------
+From Charak Samhita
+
+
+[BLOCK 3: TEXT]
+----------------------------------------------------------------------
+Jump to navigation
+
+
+[BLOCK 4: TEXT]
+----------------------------------------------------------------------
+Jump to search
+
+
+[BLOCK 5: FIGURE]
+----------------------------------------------------------------------
+
+
+[REFERENCES / LINKS]
+ : https://www.carakasamhitaonline.com/index.php?title=Special:CiteThisPage&page=Ashtauninditiya_Adhyaya&id=44487&wpFormIdentifier=titleform
+
+[IMAGES]
+ : https://www.carakasamhitaonline.com/images/5/58/Cite.png
+
+
+[BLOCK 6: P]
+----------------------------------------------------------------------
+Sutra Sthana Chapter 21. Eight Undesirable Physical Constitutions
+
+
+[BLOCK 7: TABLE]
+----------------------------------------------------------------------
+[COMPLETE TABLE]
+
+Row 1:
+Column 1: Section/Chapter
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Sutra Sthana Chapter 21
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 2:
+Column 1: Tetrad/Sub-section
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Yojana Chatushka
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 3:
+Column 1: Preceding Chapter
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Maharoga Adhyaya
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 4:
+Column 1: Succeeding Chapter
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Langhanabrimhaniya Adhyaya
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 5:
+Column 1: Other Sections
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Nidana Sthana , Vimana Sthana , Sharira Sthana , Indriya Sthana , Chikitsa Sthana , Kalpa Sthana , Siddhi Sthana
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 6:
+Column 1: Translator and commentator
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Pandey A.
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 7:
+Column 1: Reviewer
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Byadgi P.S.
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 8:
+Column 1: Editors
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Dwivedi R.B., Deole Y.S. , Basisht G.
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 9:
+Column 1: Year of publication
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: 2020
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 10:
+Column 1: Publisher
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Charak Samhita Research, Training and Skill Development Centre
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 11:
+Column 1: DOI
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: 10.47468/CSNE.2020.e01.s01.023
+  Type: td, Rowspan: 1, Colspan: 1
+
+[REFERENCES / LINKS]
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+Maharoga Adhyaya : https://www.carakasamhitaonline.com/index.php?title=Maharoga_Adhyaya
+Langhanabrimhaniya Adhyaya : https://www.carakasamhitaonline.com/index.php?title=Langhanabrimhaniya_Adhyaya
+Nidana Sthana : https://www.carakasamhitaonline.com/index.php?title=Nidana_Sthana
+Vimana Sthana : https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana
+Sharira Sthana : https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana
+Indriya Sthana : https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana
+Chikitsa Sthana : https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana
+Kalpa Sthana : https://www.carakasamhitaonline.com/index.php?title=Kalpa_Sthana
+Siddhi Sthana : https://www.carakasamhitaonline.com/index.php?title=Siddhi_Sthana
+Deole Y.S. : https://www.carakasamhitaonline.com/index.php?title=Yogesh_Deole
+Basisht G. : https://www.carakasamhitaonline.com/index.php?title=Gopal_Basisht
+Charak Samhita Research, Training and Skill Development Centre : https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Skill_Development_Centre
+10.47468/CSNE.2020.e01.s01.023 : https://doi.org/10.47468/CSNE.2020.e01.s01.023
+
+
+[BLOCK 8: P]
+----------------------------------------------------------------------
+Abstract
+
+
+[BLOCK 9: P]
+----------------------------------------------------------------------
+This is the first chapter of tetrad on guidelines on management of diseases. After enlisting eight undesirable physical appearances based on the criteria like body height, body mass, complexion and presence of hair. The extreme presence or absence of these parameters leads to undesirable physical appearances. The most commonly observed conditions in the society like morbid obesity and extreme emaciation are described in details with their causative factors, signs and symptoms, and ways of effective management. In etio-pathogenesis of these disorders, sleep is the second most important cause after diet. Therefore a special emphasis is given on the merits of sleep, qualities or characteristics that define a “good sleep” and the demerits of sleep related disorders.
+
+
+[BLOCK 10: P]
+----------------------------------------------------------------------
+Keywords : Atisthaulya, Atikarshya, Morbid obesity, Hereditary and genetic Disorders, Endocrine Disorders, Sleep( Nidra ), Insomnia( Anidra )
+
+[REFERENCES / LINKS]
+Nidra : https://www.carakasamhitaonline.com/index.php?title=Nidra
+
+
+[BLOCK 11: P]
+----------------------------------------------------------------------
+
+
+
+[BLOCK 12: H2]
+----------------------------------------------------------------------
+Contents
+
+
+[BLOCK 13: UL]
+----------------------------------------------------------------------
+1. 1 Introduction
+2. 2 Sanskrit text, transliteration and english translation 2.1 Eight undesirable physical appearances 2.2 Obesity and leanness 2.2.1 Eight inherent sequelae of obesity 2.2.2 Pathophysiology of Obesity 2.2.3 Features of an excessively lean person 2.2.4 The importance of ideal body proportion 2.2.5 The best diet for obese and lean persons 2.2.6 Management of obesity 2.2.7 Management of leanness 2.3 Concept of Nidra (sleep) 2.3.1 Physiological mechanism of sleep 2.3.2 Benefits of sleep 2.3.3 Indications of daytime sleep 2.3.4 Consequences of improper daytime sleep 2.3.5 Qualities of day and night sleep 2.3.6 The importance of diet and sleep among the obese and the (excessively) lean 2.3.7 Sleep-promoting measures 2.3.8 Causes of insomnia 2.3.9 Origins and types of sleep 2.4 Summary
+3. 3 Tattva Vimarsha (Fundamental Principles)
+4. 4 Vidhi Vimarsha(Applied Inferences) 4.1 Morbid obesity 4.2 Increased desire to eat among the obese 4.3 Consequences of obesity 4.4 Etiology, features, and consequences of atikrisha (emaciation) 4.5 Management of the Morbidly Obese 4.6 Management of the emaciated/too lean 4.7 Concept of Sleep 4.7.1 Sleep regulation 4.7.2 Effects of sleep 4.7.3 Sleep about atisthula and atikrisha 4.7.4 Insomnia or sleeplessness 4.8 Conclusion
+5. 5 References
+
+[REFERENCES / LINKS]
+1 Introduction : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#Introduction
+2 Sanskrit text, transliteration and english translation : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#Sanskrit_text,_transliteration_and_english_translation
+2.1 Eight undesirable physical appearances : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#Eight_undesirable_physical_appearances
+2.2 Obesity and leanness : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#Obesity_and_leanness
+2.2.1 Eight inherent sequelae of obesity : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#Eight_inherent_sequelae_of_obesity
+2.2.2 Pathophysiology of Obesity : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#Pathophysiology_of_Obesity
+2.2.3 Features of an excessively lean person : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#Features_of_an_excessively_lean_person
+2.2.4 The importance of ideal body proportion : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#The_importance_of_ideal_body_proportion
+2.2.5 The best diet for obese and lean persons : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#The_best_diet_for_obese_and_lean_persons
+2.2.6 Management of obesity : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#Management_of_obesity
+2.2.7 Management of leanness : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#Management_of_leanness
+2.3 Concept of Nidra (sleep) : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#Concept_of_Nidra_(sleep)
+2.3.1 Physiological mechanism of sleep : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#Physiological_mechanism_of_sleep
+2.3.2 Benefits of sleep : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#Benefits_of_sleep
+2.3.3 Indications of daytime sleep : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#Indications_of_daytime_sleep
+2.3.4 Consequences of improper daytime sleep : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#Consequences_of_improper_daytime_sleep
+2.3.5 Qualities of day and night sleep : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#Qualities_of_day_and_night_sleep
+2.3.6 The importance of diet and sleep among the obese and the (excessively) lean : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#The_importance_of_diet_and_sleep_among_the_obese_and_the_(excessively)_lean
+2.3.7 Sleep-promoting measures : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#Sleep-promoting_measures
+2.3.8 Causes of insomnia : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#Causes_of_insomnia
+2.3.9 Origins and types of sleep : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#Origins_and_types_of_sleep
+2.4 Summary : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#Summary
+3 Tattva Vimarsha (Fundamental Principles) : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#Tattva_Vimarsha_(Fundamental_Principles)
+4 Vidhi Vimarsha(Applied Inferences) : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#Vidhi_Vimarsha(Applied_Inferences)
+4.1 Morbid obesity : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#Morbid_obesity
+4.2 Increased desire to eat among the obese : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#Increased_desire_to_eat_among_the_obese
+4.3 Consequences of obesity : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#Consequences_of_obesity
+4.4 Etiology, features, and consequences of atikrisha (emaciation) : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#Etiology,_features,_and_consequences_of_atikrisha_(emaciation)
+4.5 Management of the Morbidly Obese : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#Management_of_the_Morbidly_Obese
+4.6 Management of the emaciated/too lean : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#Management_of_the_emaciated/too_lean
+4.7 Concept of Sleep : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#Concept_of_Sleep
+4.7.1 Sleep regulation : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#Sleep_regulation
+4.7.2 Effects of sleep : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#Effects_of_sleep
+4.7.3 Sleep about atisthula and atikrisha : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#Sleep_about_atisthula_and_atikrisha
+4.7.4 Insomnia or sleeplessness : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#Insomnia_or_sleeplessness
+4.8 Conclusion : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#Conclusion
+5 References : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#References
+
+
+[BLOCK 14: H2]
+----------------------------------------------------------------------
+Introduction
+
+
+[BLOCK 15: P]
+----------------------------------------------------------------------
+Charak has laid down the foundation of genetic/hereditary and endocrinal disorders in relation to four pairs of opposing (and undesirable) physical characteristics- height (too tall, too short), body hair (too hairy, hairless), complexion (too dark, too light), and body mass (too obese, too lean). Among these, atisthula (morbid obesity) is the most undesirable characteristic because it is associated with several life-threatening complications including diabetes, hypertension, coronary artery diseases, joint disorders, skin disorders, anorectal problems, etc. This chapter focuses on the features of a healthy physical constitution of a person, definitions of sleep, as well as key concepts associated with disease management such as etiopathogenesis, clinical presentation, prognosis, and management of atisthula . Some key etiological factors of atisthula include dietary and lifestyle indicators (e.g., sedentary habit and high-calorie diet), and genetic and hereditary factors. This chapter also describes the pathogenesis of atisthula in detail, involving rasa dhatu (plasma) and meda dhatu (adipose tissue) as important dushyas (affected tissues). Modern medicine has acknowledged the role of meda dhatu (adipose tissue) as a principal dushya , with obesity and dyslipidemia regarded as the main components of the basic matrix of this disease and its related disorders. [ 1 ] [ 2 ] [ 3 ] The recent concept of “metabolic syndrome” was already recognized in Ayurveda . Biomedical science points that overweight individuals experience greatly elevated morbidity and mortality from various ailments including cardiovascular diseases. [ 4 ] [ 5 ]
+
+[REFERENCES / LINKS]
+atisthula : https://www.carakasamhitaonline.com/index.php?title=Atisthula
+atisthula : https://www.carakasamhitaonline.com/index.php?title=Atisthula
+atisthula : https://www.carakasamhitaonline.com/index.php?title=Atisthula
+atisthula : https://www.carakasamhitaonline.com/index.php?title=Atisthula
+rasa dhatu : https://www.carakasamhitaonline.com/index.php?title=Rasa_dhatu
+meda dhatu : https://www.carakasamhitaonline.com/index.php?title=Meda_dhatu
+meda dhatu : https://www.carakasamhitaonline.com/index.php?title=Meda_dhatu
+[ 1 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-ref1-1
+[ 2 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-ref2-2
+[ 3 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-ref3-3
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+[ 4 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-4
+[ 5 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-5
+
+
+[BLOCK 16: P]
+----------------------------------------------------------------------
+Obesity research is focused on preventive measures and management of complications like prediabetes, diabetes, metabolic syndrome, hypertension, stroke, coronary artery disease, congestive heart failure, cardiomyopathy, and arrhythmia/sudden death. [ 6 ] . In the modern world, obesity has emerged as a serious health issue in both developed and developing nations and is recognized as one of the most serious public health problems of the 21st century. In 2008 the WHO estimated that globally, at least 500 million adults (or approximately 1 in 10 adults) are obese, with higher rates among women than men. Obesity is the reason for about 80% of type 2 diabetes, about 70% of cardiovascular diseases, and 42% of breast and colon cancers today. In the past two decades, the number of overweight children and adolescents has doubled. [ 7 ] The rate of obesity also increases with age at least up to 50 or 60 years old. Once considered a problem specific to only high-income countries, obesity has acquired pandemic proportions and is affecting people globally. [ 8 ] [ 9 ]
+
+[REFERENCES / LINKS]
+[ 6 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-6
+[ 7 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-7
+[ 8 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-8
+[ 9 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-9
+
+
+[BLOCK 17: P]
+----------------------------------------------------------------------
+Any course of treatment for obesity suggested by modern medical practitioners primarily includes dietary changes and physical exercise followed by anti-obesity drugs that help reduce appetite or inhibit fat absorption. In severe cases, various invasive and non-invasive surgical procedures could be prescribed - such as partial gastrectomy, gastric bypass, banding, gastric balloons, etc. [ 10 ] However, Ayurveda ’s approach to weight management is very different. Instead, Ayurveda advocates dietary restrictions according to the prakriti (basic constitution), moderate exercise, practice of yoga postures (yogasanas) and breathing exercises( pranayama), besides certain ayurvedic medications and bio-purificatory measures for its management. [ 11 ]
+
+[REFERENCES / LINKS]
+[ 10 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-10
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+prakriti : https://www.carakasamhitaonline.com/index.php?title=Prakriti
+[ 11 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-11
+
+
+[BLOCK 18: P]
+----------------------------------------------------------------------
+The etiology, pathogenesis, clinical features and consequences of extreme leanness ( atikrisha ), as an outcome of decrease of rasa dhatu ), meda dhatu , and mamsa dhatu have also been described in this chapter. The two basic approaches for management of atikrisha and atisthula are augmentation ( brimhana ) and depletion ( karshana ) of body tissues respectively. Various drug and non-drug modalities have been suggested for the replenishment of dhatu and their nourishment to attain good health. In this regard, Rasayana drugs help balance hormones, promote essential nutrition and enhance immunity to atisthula and atikrisha respectively. As mentioned earlier, this chapter also emphasizes the role of good nidra (sleep) in maintaining a healthy life. In fact, as per Ayurveda , after ahara (diet), nidra is one of the three sub-pillars of life ( trayopastambha ) and has a significant place in preventive medicine because normal sleep helps prevent diseases and unwholesome sleep may lead to fatal diseases. In Ayurveda , nidra is considered a brimhana (nourishing) agent that promotes physical and mental health and enhances immunity. [Cha.Sa. Sutra Sthana 11/35]
+
+[REFERENCES / LINKS]
+atikrisha : https://www.carakasamhitaonline.com/index.php?title=Atikrisha
+rasa dhatu : https://www.carakasamhitaonline.com/index.php?title=Rasa_dhatu
+meda dhatu : https://www.carakasamhitaonline.com/index.php?title=Meda_dhatu
+mamsa dhatu : https://www.carakasamhitaonline.com/index.php?title=Mamsa_dhatu
+atikrisha : https://www.carakasamhitaonline.com/index.php?title=Atikrisha
+atisthula : https://www.carakasamhitaonline.com/index.php?title=Atisthula
+brimhana : https://www.carakasamhitaonline.com/index.php?title=Brimhana
+karshana : https://www.carakasamhitaonline.com/index.php?title=Karshana&action=edit&redlink=1
+dhatu : https://www.carakasamhitaonline.com/index.php?title=Dhatu
+Rasayana : https://www.carakasamhitaonline.com/index.php?title=Rasayana
+atisthula : https://www.carakasamhitaonline.com/index.php?title=Atisthula
+atikrisha : https://www.carakasamhitaonline.com/index.php?title=Atikrisha
+nidra : https://www.carakasamhitaonline.com/index.php?title=Nidra
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+ahara : https://www.carakasamhitaonline.com/index.php?title=Ahara
+nidra : https://www.carakasamhitaonline.com/index.php?title=Nidra
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+nidra : https://www.carakasamhitaonline.com/index.php?title=Nidra
+brimhana : https://www.carakasamhitaonline.com/index.php?title=Brimhana
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+
+
+[BLOCK 19: H2]
+----------------------------------------------------------------------
+Sanskrit text, transliteration and english translation
+
+
+[BLOCK 20: P]
+----------------------------------------------------------------------
+अथातोऽष्टौनिन्दितीयमध्यायं व्याख्यास्यामः||१||
+
+
+[BLOCK 21: P]
+----------------------------------------------------------------------
+इति ह स्माह भगवानात्रेयः||२||
+
+
+[BLOCK 22: P]
+----------------------------------------------------------------------
+athātō'ṣṭauninditīyamadhyāyaṁ vyākhyāsyāmaḥ||1||
+iti ha smāha bhagavānātrēyaḥ||2||
+
+
+[BLOCK 23: P]
+----------------------------------------------------------------------
+athAto~aShTauninditIyamadhyAyaM vyAkhyAsyAmaH||1||
+iti ha smAha bhagavAnAtreyaH||2||
+
+
+[BLOCK 24: P]
+----------------------------------------------------------------------
+Now we shall expound the chapter "Ashtauninditiya" (Eight undesirable physical appearances). Thus said Lord Atreya [1-2]
+
+
+[BLOCK 25: H3]
+----------------------------------------------------------------------
+Eight undesirable physical appearances
+
+
+[BLOCK 26: P]
+----------------------------------------------------------------------
+इह खलु शरीरमधिकृत्याष्टौ पुरुषा निन्दिता भवन्ति; तद्यथा- अतिदीर्घश्च, अतिह्रस्वश्च, अतिलोमा च, अलोमा च, अतिकृष्णश्च, अतिगौरश्च, अतिस्थूलश्च, अतिकृशश्चेति||३||
+
+
+[BLOCK 27: P]
+----------------------------------------------------------------------
+iha khalu śarīramadhikr̥tyāṣṭau puruṣā ninditā bhavanti; tadyathā- atidīrghaśca, atihrasvaśca, atilōmā ca,alōmā ca, atikr̥ṣṇaśca, atigauraśca, atisthūlaśca, atikr̥śaścēti||3||
+
+
+[BLOCK 28: P]
+----------------------------------------------------------------------
+iha khalu sharIramadhikRutyAShTau puruShA ninditA bhavanti; tadyathA- atidIrghashca, atihrasvashca, atilomA ca, alomA ca [1] , atikRuShNashca, atigaurashca,atisthUlashca, atikRushashceti||3||
+
+
+[BLOCK 29: P]
+----------------------------------------------------------------------
+In the context of the body (structure and appearance), the following eight types of persons are considered undesirable - too tall, too short, too hairy, hairless, too dark, too light (complexioned), too obese and too lean [3]
+
+
+[BLOCK 30: H3]
+----------------------------------------------------------------------
+Obesity and leanness
+
+
+[BLOCK 31: H4]
+----------------------------------------------------------------------
+Eight inherent sequelae of obesity
+
+
+[BLOCK 32: P]
+----------------------------------------------------------------------
+तत्रातिस्थूलकृशयोर्भूय एवापरे निन्दितविशेषा भवन्ति |
+अतिस्थूलस्य तावदायुषो ह्रासो जवोपरोधः कृच्छ्रव्यवायता दौर्बल्यं दौर्गन्ध्यं स्वेदाबाधः क्षुदतिमात्रं पिपासातियोगश्चेति भवन्त्यष्टौ दोषाः|
+तदतिस्थौल्यमतिसम्पूरणाद्गुरुमधुरशीतस्निग्धोपयोगादव्यायामादव्यवायाद्दिवास्वप्नाद्धर्षनित्यत्वाद-चिन्तनाद्बीजस्वभावाच्चोपजायते|
+तस्य ह्यतिमात्रमेदस्विनो मेद एवोपचीयते न तथेतरे धातवः, तस्मादस्यायुषो ह्रासः; शैथिल्यात् सौकुमार्याद्गुरुत्वाच्चमेदसो जवोपरोधः, शुक्राबहुत्वान्मेदसाऽऽवृतमार्गत्वाच्च कृच्छ्रव्यवायता, दौर्बल्यमसमत्वाद्धातूनां, दौर्गन्ध्यं मेदोदोषान्मेदसः स्वभावात् स्वेदनत्वाच्च, मेदसः श्लेष्मसंसर्गाद्विष्यन्दित्वाद्बहुत्वाद्गुरुत्वाद्व्यायामासहत्वाच्च स्वेदाबाधः, तीक्ष्णाग्नित्वात् प्रभूतकोष्ठवायुत्वाच्च क्षुदतिमात्रं पिपासातियोगश्चेति ||४||
+
+
+[BLOCK 33: P]
+----------------------------------------------------------------------
+tatrātisthūlakr̥śayōrbhūya ēvāparē ninditaviśēṣā bhavanti|
+atisthūlasya tāvadāyuṣō hrāsō javōparōdhaḥ kr̥cchravyavāyatā daurbalyaṁ daurgandhyaṁ svēdābādhaḥkṣudatimātraṁ pipāsātiyōgaścēti bhavantyaṣṭau dōṣāḥ|
+tadatisthaulyamatisampūraṇādgurumadhuraśītasnigdhōpayōgādavyāyāmādavyavāyāddivāsvapnāddharṣanityatvāda-cintanādbījasvabhāvāccōpajāyatē| tasya hyatimātramēdasvinō mēda ēvōpacīyatē na tathētarē dhātavaḥ, tasmādasyāyuṣō hrāsaḥ; śaithilyātsaukumāryādgurutvācca mēdasō javōparōdhaḥ, Śukrābahutvānmēdasā vr̥tamārgatvācca kr̥cchravyavāyatā,daurbalyamasamatvāddhātūnāṁ, daurgandhyaṁ mēdōdōṣānmēdasaḥ svabhāvāt svēdanatvācca, Mēdasaḥślēṣmasaṁsargādviṣyanditvādbahutvādgurutvādvyāyāmāsahatvācca svēdābādhaḥ, tīkṣṇāgnitvātprabhūtakōṣṭhavāyutvācca kṣudatimātraṁ pipāsātiyōgaścēti||4||
+
+
+[BLOCK 34: P]
+----------------------------------------------------------------------
+tatrAtisthUlakRushayorbhUya evApare ninditavisheShA bhavanti|
+atisthUlasya tAvadAyuSho hrAso javoparodhaH kRucchravyavAyatA daurbalyaM daurgandhyaM svedAbAdhaH kShudatimAtraM pipAsAtiyogashcetibhavantyaShTau doShAH|
+tadatisthaulyamatisampUraNAdgurumadhurashItasnigdhopayogAdavyAyAmAdavyavAyAddivAsvapnAddharShanityatvAda- cintanAdbIjasvabhAvAccopajAyate|
+tasya hyatimAtramedasvino meda evopacIyate na tathetare dhAtavaH, tasmAdasyAyuSho hrAsaH; shaithilyAt saukumAryAdgurutvAcca medaso javoparodhaH ,shukrAbahutvAnmedasA~a~avRutamArgatvAcca kRucchravyavAyatA, daurbalyamasamatvAddhAtUnAM, daurgandhyaM medodoShAnmedasaH svabhAvAtsvedanatvAcca, medasaH shleShmasaMsargAdviShyanditvAdbahutvAdgurutvAdvyAyAmAsahatvAcca svedAbAdhaH, tIkShNAgnitvAt prabhUtakoShThavAyutvAccakShudatimAtraM pipAsAtiyogashceti||4||
+
+
+[BLOCK 35: P]
+----------------------------------------------------------------------
+Amongst these, the too obese and too lean physical appearances are considered the most undesirable ones. The excessively obese have eight inherent defects in them: reduced lifespan, constricted or limited movement (hampered due to loose, tender and heavy fats), reduced sexual activities or impotence (due to small quantity of semen produced and obstruction of the channel of semen by meda dhatu ), debility (due to dhatu imbalance), emit bad smell (due to the inherent nature of fatty tissues as well as excessive sweating), profuse sweating (since meda dhatu and kapha are vitiated), and excessive hunger and thirst (due to excessive digestive agni and vayu in the body). Excessive obesity is caused due to over-nourishment as a consequence of the intake of a heavy, sweet, cold and fatty diet, lack of physical exercise, abstinence from sexual intercourse, sleeping during the day, uninterrupted cheerfulness, lack of mental activities, and hereditary/genetic defects. These consequences may lead to an excess of fat (with further accumulation of only fat) and consequent depletion of dhatu . [4]
+
+[REFERENCES / LINKS]
+meda dhatu : https://www.carakasamhitaonline.com/index.php?title=Meda_dhatu
+dhatu : https://www.carakasamhitaonline.com/index.php?title=Dhatu
+meda dhatu : https://www.carakasamhitaonline.com/index.php?title=Meda_dhatu
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+vayu : https://www.carakasamhitaonline.com/index.php?title=Vayu
+dhatu : https://www.carakasamhitaonline.com/index.php?title=Dhatu
+
+
+[BLOCK 36: H4]
+----------------------------------------------------------------------
+Pathophysiology of Obesity
+
+
+[BLOCK 37: P]
+----------------------------------------------------------------------
+भवन्ति चात्र-
+मेदसाऽऽवृतमार्गत्वाद्वायुः कोष्ठे विशेषतः|
+चरन् सन्धुक्षयत्यग्निमाहारं शोषयत्यपि||५||
+
+
+[BLOCK 38: P]
+----------------------------------------------------------------------
+तस्मात् स शीघ्रं जरयत्याहारं चातिकाङ्क्षति|
+विकारांश्चाश्नुते घोरान् कांश्चित्कालव्यतिक्रमात्||६||
+
+
+[BLOCK 39: P]
+----------------------------------------------------------------------
+एतावुपद्रवकरौ विशेषादग्निमारुतौ|
+एतौ हि दहतः स्थूलं वनदावो वनं यथा||७||
+
+
+[BLOCK 40: P]
+----------------------------------------------------------------------
+मेदस्यतीव संवृद्धे सहसैवानिलादयः|
+विकारान् दारुणान् कृत्वा नाशयन्त्याशु जीवितम्||८||
+
+
+[BLOCK 41: P]
+----------------------------------------------------------------------
+मेदोमांसातिवृद्धत्वाच्चलस्फिगुदरस्तनः|
+अयथोपचयोत्साहो नरोऽतिस्थूल उच्यते||९||
+
+
+[BLOCK 42: P]
+----------------------------------------------------------------------
+इति मेदस्विनो दोषा हेतवो रूपमेव च|
+निर्दिष्टं, ....|१०|
+
+
+[BLOCK 43: P]
+----------------------------------------------------------------------
+bhavanti cātra-
+mēdasā vr̥tamārgatvādvāyuḥ kōṣṭhē viśēṣataḥ| caran sandhukṣayatyagnimāhāraṁ śōṣayatyapi||5||
+
+
+[BLOCK 44: P]
+----------------------------------------------------------------------
+tasmāt sa śīghraṁ jarayatyāhāraṁ cātikāṅkṣati|
+vikārāṁścāśnutē ghōrān kāṁścitkālavyatikramāt||6||
+
+
+[BLOCK 45: P]
+----------------------------------------------------------------------
+ētāvupadravakarau viśēṣādagnimārutau|
+ētau hi dahataḥ sthūlaṁ vanadāvō vanaṁ yathā||7||
+
+
+[BLOCK 46: P]
+----------------------------------------------------------------------
+mēdasyatīva saṁvr̥ddhē sahasaivānilādayaḥ|
+vikārān dāruṇān kr̥tvā nāśayantyāśu jīvitam||8||
+
+
+[BLOCK 47: P]
+----------------------------------------------------------------------
+mēdōmāṁsātivr̥ddhatvāccalasphigudarastanaḥ|
+ayathōpacayōtsāhō narō'tisthūla ucyatē||9||
+
+
+[BLOCK 48: P]
+----------------------------------------------------------------------
+iti mēdasvinō dōṣā hētavō rūpamēva ca|
+nirdiṣṭaṁ, ....|10|
+
+
+[BLOCK 49: P]
+----------------------------------------------------------------------
+bhavanti cAtra-
+medasA~a~avRutamArgatvAdvAyuH koShThe visheShataH|
+caran sandhukShayatyagnimAhAraM shoShayatyapi||5||
+
+
+[BLOCK 50: P]
+----------------------------------------------------------------------
+tasmAt sa shIghraM jarayatyAhAraM cAtikA~gkShati|
+vikArAMshcAshnute ghorAn kAMshcitkAlavyatikramAt||6||
+
+
+[BLOCK 51: P]
+----------------------------------------------------------------------
+etAvupadravakarau visheShAdagnimArutau|
+etau hi dahataH sthUlaM vanadAvo vanaM yathA||7||
+
+
+[BLOCK 52: P]
+----------------------------------------------------------------------
+medasyatIva saMvRuddhe sahasaivAnilAdayaH|
+vikArAn dAruNAn [1] kRutvA nAshayantyAshu jIvitam||8||
+
+
+[BLOCK 53: P]
+----------------------------------------------------------------------
+medomAMsAtivRuddhatvAccalasphigudarastanaH|
+ayathopacayotsAho [2] naro~atisthUla ucyate||9||
+
+
+[BLOCK 54: P]
+----------------------------------------------------------------------
+iti medasvino doShA hetavo rUpameva ca|
+nirdiShTaM, ....|10|
+
+
+[BLOCK 55: P]
+----------------------------------------------------------------------
+Due to the obstruction of body channels by meda dhatu , the movement of vata is specially confined to koshtha (abdominal viscera) resulting in the stimulation of digestive power and absorption of food. Hence,the person digests food quickly and becomes a voracious eater. By not following rules of taking meals at specific times during the day, he is afflicted by dreadful diseases. Agni ( pitta component responsible for digestion) and vata are the two most troublesome factors from the standpoint of obesity. These factors blight an obese person as wildfire destroys a forest. As the body gains excessive fat, vitiated dosha suddenly cause severe diseases resulting in rapid deterioration of life. The person is considered too obese when there is an excessive increase in fat and muscle tissue in the regions of buttocks, abdomen, and breasts, which become pendulous and suffer from deficient metabolism and energy. These are the causes, signs, and symptoms of an obese person [5-10]
+
+[REFERENCES / LINKS]
+meda dhatu : https://www.carakasamhitaonline.com/index.php?title=Meda_dhatu
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 56: H4]
+----------------------------------------------------------------------
+Features of an excessively lean person
+
+
+[BLOCK 57: P]
+----------------------------------------------------------------------
+... वक्ष्यते वाच्यमतिकार्श्ये त्वतः परम्||१०||
+
+
+[BLOCK 58: P]
+----------------------------------------------------------------------
+सेवा रूक्षान्नपानानां लङ्घनं प्रमिताशनम्|
+क्रियातियोगः शोकश्च वेगनिद्राविनिग्रहः||११||
+
+
+[BLOCK 59: P]
+----------------------------------------------------------------------
+रूक्षस्योद्वर्तनं स्नानस्याभ्यासः प्रकृतिर्जरा|
+विकारानुशयः क्रोधः कुर्वन्त्यतिकृशं नरम्||१२||
+
+
+[BLOCK 60: P]
+----------------------------------------------------------------------
+व्यायाममतिसौहित्यं क्षुत्पिपासामयौषधम् |
+कृशो न सहते तद्वदतिशीतोष्णमैथुनम्||१३||
+
+
+[BLOCK 61: P]
+----------------------------------------------------------------------
+प्लीहा कासः क्षयः श्वासो गुल्मोऽर्शांस्युदराणि च|
+कृशं प्रायोऽभिधावन्ति रोगाश्च ग्रहणीगताः||१४||
+
+
+[BLOCK 62: P]
+----------------------------------------------------------------------
+शुष्कस्फिगुदरग्रीवो धमनीजालसन्ततः|
+त्वगस्थिशेषोऽतिकृशः स्थूलपर्वा नरो मतः||१५||
+
+
+[BLOCK 63: P]
+----------------------------------------------------------------------
+... vakṣyatē vācyamatikārśyē tvataḥ param||10||
+
+
+[BLOCK 64: P]
+----------------------------------------------------------------------
+sēvā rūkṣānnapānānāṁ laṅghanaṁ pramitāśanam|
+kriyātiyōgaḥ śōkaśca vēganidrāvinigrahaḥ||11||
+
+
+[BLOCK 65: P]
+----------------------------------------------------------------------
+rūkṣasyōdvartanaṁ snānasyābhyāsaḥ prakr̥tirjarā|
+vikārānuśayaḥ krōdhaḥ kurvantyatikr̥śaṁ naram||12||
+
+
+[BLOCK 66: P]
+----------------------------------------------------------------------
+vyāyāmamatisauhityaṁ kṣutpipāsāmayauṣadham |
+kr̥śō na sahatē tadvadatiśītōṣṇamaithunam||13||
+
+
+[BLOCK 67: P]
+----------------------------------------------------------------------
+plīhā kāsaḥ kṣayaḥ śvāsō gulmō'rśāṁsyudarāṇi ca|
+kr̥śaṁ prāyō'bhidhāvanti rōgāśca grahaṇīgatāḥ||14||
+
+
+[BLOCK 68: P]
+----------------------------------------------------------------------
+śuṣkasphigudaragrīvō dhamanījālasantataḥ|
+tvagasthiśēṣō'tikr̥śaḥ sthūlaparvā narō mataḥ||15||
+
+
+[BLOCK 69: P]
+----------------------------------------------------------------------
+... vakShyate vAcyamatikArshye tvataH param||10||
+
+
+[BLOCK 70: P]
+----------------------------------------------------------------------
+sevA rUkShAnnapAnAnAM la~gghanaM pramitAshanam|
+kriyAtiyogaH shokashca veganidrAvinigrahaH||11||
+
+
+[BLOCK 71: P]
+----------------------------------------------------------------------
+rUkShasyodvartanaM snAnasyAbhyAsaH prakRutirjarA|
+vikArAnushayaH krodhaH kurvantyatikRushaM naram||12||
+
+
+[BLOCK 72: P]
+----------------------------------------------------------------------
+vyAyAmamatisauhityaM kShutpipAsAmayauShadham [1] |
+kRusho na sahate tadvadatishItoShNamaithunam||13||
+
+
+[BLOCK 73: P]
+----------------------------------------------------------------------
+plIhA kAsaH kShayaH shvAso gulmo~arshAMsyudarANi ca|
+kRushaM prAyo~abhidhAvanti [2] rogAshca grahaNIgatAH||14||
+
+
+[BLOCK 74: P]
+----------------------------------------------------------------------
+shuShkasphigudaragrIvo dhamanIjAlasantataH|
+tvagasthisheSho~atikRushaH sthUlaparvA naro mataH||15||
+
+
+[BLOCK 75: P]
+----------------------------------------------------------------------
+Hereafter, the features of an excessively lean person will be explained by etiology, signs, symptoms and defects. Indulgence in the intake of dry (non-unctuous) diets and drinks, fasting, intake of food in inadequate quantity, overuse of therapeutic purificatory measures, grief, suppression of natural urges, inadequate sleep or sleep deprivation, dry powder massage, indulgence in baths, heredity, old age, continued illness and anger make a person too lean.
+
+
+[BLOCK 76: P]
+----------------------------------------------------------------------
+The excessively lean person does not tolerate physical exercise, intake of food in large quantities, hunger, thirst, diseases, and drugs. They also cannot tolerate too much cold, heat and sexual intercourse. Such a person is often associated with splenic diseases, cough, wasting, dyspnoea, gulma (abdominal tumor), piles, abdominal disorders and disorders of grahanі. The excessively lean person has dried up buttocks, abdomen and neck, the prominent vascular network is mostly “skin and bones” with thickened nodes [10-15]
+
+
+[BLOCK 77: P]
+----------------------------------------------------------------------
+सततं व्याधितावेतावतिस्थूलकृशौ नरौ|
+सततं चोपचर्यौ हि कर्शनैर्बृंहणैरपि||१६||
+
+
+[BLOCK 78: P]
+----------------------------------------------------------------------
+स्थौल्यकार्श्ये वरं कार्श्यं समोपकरणौ हि तौ|
+यद्युभौ व्याधिरागच्छेत् स्थूलमेवातिपीडयेत्||१७||
+
+
+[BLOCK 79: P]
+----------------------------------------------------------------------
+satataṁ vyādhitāvētāvatisthūlakr̥śau narau|
+satataṁ cōpacaryau hi karśanairbr̥ṁhaṇairapi||16||
+
+
+[BLOCK 80: P]
+----------------------------------------------------------------------
+sthaulyakārśyē varaṁ kārśyaṁ samōpakaraṇau hi tau|
+yadyubhau vyādhirāgacchēt sthūlamēvātipīḍayēt||17||
+
+
+[BLOCK 81: P]
+----------------------------------------------------------------------
+satataM vyAdhitAvetAvatisthUlakRushau narau|
+satataM copacaryau hi karshanairbRuMhaNairapi||16||
+
+
+[BLOCK 82: P]
+----------------------------------------------------------------------
+sthaulyakArshye varaM kArshyaM samopakaraNau hi tau|
+yadyubhau vyAdhirAgacchet sthUlamevAtipIDayet||17||
+
+
+[BLOCK 83: P]
+----------------------------------------------------------------------
+Both these undesirable types of people (too obese and too lean) always suffer from some disease or the other and need to be constantly managed by bulk-reducing and bulk-promoting therapies respectively. Of the two, lean is less harmful than obese, and the physical and mental sufferings in the case of an obese person are far greater in comparison to a lean person [16-17]
+
+
+[BLOCK 84: H4]
+----------------------------------------------------------------------
+The importance of ideal body proportion
+
+
+[BLOCK 85: P]
+----------------------------------------------------------------------
+सममांसप्रमाणस्तु समसंहननो नरः|
+दृढेन्द्रियो विकाराणां न बलेनाभिभूयते||१८||
+
+
+[BLOCK 86: P]
+----------------------------------------------------------------------
+क्षुत्पिपासातपसहः शीतव्यायामसंसहः|
+समपक्ता समजरः सममांसचयो मतः||१९||
+
+
+[BLOCK 87: P]
+----------------------------------------------------------------------
+samamāṁsapramāṇastu samasaṁhananō naraḥ|
+dr̥ḍhēndriyō vikārāṇāṁ na balēnābhibhūyatē||18||
+
+
+[BLOCK 88: P]
+----------------------------------------------------------------------
+kṣutpipāsātapasahaḥ śītavyāyāmasaṁsahaḥ|
+samapaktā samajaraḥ samamāṁsacayō mataḥ||19||
+
+
+[BLOCK 89: P]
+----------------------------------------------------------------------
+samamAMsapramANastu samasaMhanano naraH|
+dRuDhendriyo vikArANAM na balenAbhibhUyate||18||
+
+
+[BLOCK 90: P]
+----------------------------------------------------------------------
+kShutpipAsAtapasahaH shItavyAyAmasaMsahaH|
+samapaktA samajaraH samamAMsacayo mataH||19||
+
+
+[BLOCK 91: P]
+----------------------------------------------------------------------
+A person with a balanced proportion of muscles and compactness of the body and firmness in sense organs is not overcome by the onslaught of disorders. Such people can tolerate hunger, thirst, the heat of the sun, cold and physical exercise. Their digestion, assimilation of food and muscle metabolism is in a state of equilibrium. [18-19]
+
+
+[BLOCK 92: H4]
+----------------------------------------------------------------------
+The best diet for obese and lean persons
+
+
+[BLOCK 93: P]
+----------------------------------------------------------------------
+गुरु चातर्पणं चेष्टं स्थूलानां कर्शनं प्रति|
+कृशानां बृंहणार्थं च लघु सन्तर्पणं च यत्||२०||
+
+
+[BLOCK 94: P]
+----------------------------------------------------------------------
+guru cātarpaṇaṁ cēṣṭaṁ sthūlānāṁ karśanaṁ prati|
+kr̥śānāṁ br̥ṁhaṇārthaṁ ca laghu santarpaṇaṁ ca yat||20||
+
+
+[BLOCK 95: P]
+----------------------------------------------------------------------
+guru cAtarpaNaM ceShTaM sthUlAnAM karshanaM prati|
+kRushAnAM bRuMhaNArthaM ca laghu santarpaNaM ca yat||20||
+
+
+[BLOCK 96: P]
+----------------------------------------------------------------------
+Heavy and non-nourishing (diet) therapy are prescribed for slimming in the case of the too obese, while for promoting the bulk of the too lean light and nourishing therapy is prescribed [20]
+
+
+[BLOCK 97: H4]
+----------------------------------------------------------------------
+Management of obesity
+
+
+[BLOCK 98: P]
+----------------------------------------------------------------------
+वातघ्नान्यन्नपानानि श्लेष्ममेदोहराणि च|
+रूक्षोष्णा बस्तयस्तीक्ष्णा रूक्षाण्युद्वर्तनानि च||२१||
+
+
+[BLOCK 99: P]
+----------------------------------------------------------------------
+गुडूचीभद्रमुस्तानां प्रयोगस्त्रैफलस्तथा|
+तक्रारिष्टप्रयोगश्च प्रयोगो माक्षिकस्य च||२२||
+
+
+[BLOCK 100: P]
+----------------------------------------------------------------------
+विडङ्गं नागरं क्षारः काललोहरजो मधु|
+यवामलकचूर्णं च प्रयोगः श्रेष्ठ उच्यते||२३||
+
+
+[BLOCK 101: P]
+----------------------------------------------------------------------
+बिल्वादिपञ्चमूलस्य प्रयोगः क्षौद्रसंयुतः|
+शिलाजतुप्रयोगश्च साग्निमन्थरसः परः||२४||
+
+
+[BLOCK 102: P]
+----------------------------------------------------------------------
+प्रशातिका प्रियङ्गुश्च श्यामाका यवका यवाः|
+जूर्णाह्वाः कोद्रवा मुद्गाः कुलत्थाश्चक्रमुद्गकाः ||२५||
+
+
+[BLOCK 103: P]
+----------------------------------------------------------------------
+आढकीनां च बीजानि पटोलामलकैः सह|
+भोजनार्थं प्रयोज्यानि पानं चानु मधूदकम्||२६||
+
+
+[BLOCK 104: P]
+----------------------------------------------------------------------
+अरिष्टांश्चानुपानार्थे मेदोमांसकफापहान्|
+अतिस्थौल्यविनाशाय संविभज्य प्रयोजयेत्||२७||
+
+
+[BLOCK 105: P]
+----------------------------------------------------------------------
+प्रजागरं व्यवायं च व्यायामं चिन्तनानि च|
+स्थौल्यमिच्छन् परित्यक्तुं क्रमेणाभिप्रवर्धयेत्||२८||
+
+
+[BLOCK 106: P]
+----------------------------------------------------------------------
+vātaghnānyannapānāni ślēṣmamēdōharāṇi ca|
+rūkṣōṣṇā bastayastīkṣṇā rūkṣāṇyudvartanāni ca||21||
+
+
+[BLOCK 107: P]
+----------------------------------------------------------------------
+guḍūcībhadramustānāṁ prayōgastraiphalastathā|
+takrāriṣṭaprayōgaśca prayōgō mākṣikasya ca||22||
+
+
+[BLOCK 108: P]
+----------------------------------------------------------------------
+viḍaṅgaṁ nāgaraṁ kṣāraḥ kālalōharajō madhu|
+yavāmalakacūrṇaṁ ca prayōgaḥ śrēṣṭha ucyatē||23||
+
+
+[BLOCK 109: P]
+----------------------------------------------------------------------
+bilvādipañcamūlasya prayōgaḥ kṣaudrasaṁyutaḥ|
+śilājatuprayōgaśca sāgnimantharasaḥ paraḥ||24||
+
+
+[BLOCK 110: P]
+----------------------------------------------------------------------
+praśātikā priyaṅguśca śyāmākā yavakā yavāḥ|
+jūrṇāhvāḥ kōdravā mudgāḥ kulatthāścakramudgakāḥ ||25||
+
+
+[BLOCK 111: P]
+----------------------------------------------------------------------
+āḍhakīnāṁ ca bījāni paṭōlāmalakaiḥ saha|
+bhōjanārthaṁ prayōjyāni pānaṁ cānu madhūdakam||26||
+
+
+[BLOCK 112: P]
+----------------------------------------------------------------------
+ariṣṭāṁścānupānārthē mēdōmāṁsakaphāpahān|
+atisthaulyavināśāya saṁvibhajya prayōjayēt||27||
+
+
+[BLOCK 113: P]
+----------------------------------------------------------------------
+prajāgaraṁ vyavāyaṁ ca vyāyāmaṁ cintanāni ca|
+sthaulyamicchan parityaktuṁ kramēṇābhipravardhayēt||28||
+
+
+[BLOCK 114: P]
+----------------------------------------------------------------------
+vAtaghnAnyannapAnAni shleShmamedoharANi ca|
+rUkShoShNA bastayastIkShNA rUkShANyudvartanAni ca||21||
+
+
+[BLOCK 115: P]
+----------------------------------------------------------------------
+guDUcIbhadramustAnAM prayogastraiphalastathA|
+takrAriShTaprayogashca prayogo mAkShikasya ca||22||
+
+
+[BLOCK 116: P]
+----------------------------------------------------------------------
+viDa~ggaM nAgaraM kShAraH kAlaloharajo madhu|
+yavAmalakacUrNaM ca prayogaH shreShTha ucyate||23||
+
+
+[BLOCK 117: P]
+----------------------------------------------------------------------
+bilvAdipa~jcamUlasya prayogaH kShaudrasaMyutaH|
+shilAjatuprayogashca sAgnimantharasaH paraH||24||
+
+
+[BLOCK 118: P]
+----------------------------------------------------------------------
+prashAtikA priya~ggushca shyAmAkA yavakA yavAH|
+jUrNAhvAH kodravA mudgAH kulatthAshcakramudgakAH [1] ||25||
+
+
+[BLOCK 119: P]
+----------------------------------------------------------------------
+ADhakInAM ca bIjAni paTolAmalakaiH saha|
+bhojanArthaM prayojyAni pAnaM cAnu madhUdakam||26||
+
+
+[BLOCK 120: P]
+----------------------------------------------------------------------
+ariShTAMshcAnupAnArthe medomAMsakaphApahAn|
+atisthaulyavinAshAya saMvibhajya prayojayet||27||
+
+
+[BLOCK 121: P]
+----------------------------------------------------------------------
+prajAgaraM [2] vyavAyaM ca vyAyAmaM cintanAni ca|
+sthaulyamicchan parityaktuM krameNAbhipravardhayet||28||
+
+
+[BLOCK 122: P]
+----------------------------------------------------------------------
+Food and drinks that alleviate vata and reduce kapha and meda dhatu (fat), enema with sharp, ununctuous and hot drugs, therapeutic powder massage, use of guduchi (Tinospora cordifolia Miers), musta (Cyperus rotundus Linn), triphala (haritaki-Terminalia chebula Linn, bibhitaka (Terminalia belerica Roxb) and amalaka (Emblica officinalis Gaertn), takrarishta (a fermented medicinal preparation of buttermilk) and honey are recommended for the management of obesity. A formulation prepared from vidanga (Embelia ribes Burm f.), nagara (Zingiber officinale Rose), yavakshara (alkali preparation of barley), ash powder of black iron along with honey, powder of yava (Hordeum vulgarae Linn) and amalaka (Emblica officinalis Gaertn) is also an excellent weight-loss drug. Similarly, Bilvadi panchamula (five major roots) mixed with honey and shilajatu along with the juice of agnimantha (Clerodendrum phlomidis Linn.f.) are also very effective preparations for weight-loss.
+
+[REFERENCES / LINKS]
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+meda dhatu : https://www.carakasamhitaonline.com/index.php?title=Meda_dhatu
+
+
+[BLOCK 123: P]
+----------------------------------------------------------------------
+A diet consisting of prashatika (Setaria italic Beauv.), priyangu (Aglaia roxburghiana Mig.), shyamaka (Echinochloa frumentaea Linn.), yavaka (small variety of Hordeum vulgarae Linn), yava (Hordeum vulgarae Linn), jurnahva (Sorghum vulgare Linn), kodrava (papalum scrobiculatum Linn.), mudga (Phaseolus mungo Linn.), kulattha (Dolichos biflorus Linn.), chakramudgaka , adhaki (Cajanus cajan Millsp.) along with patola (Trichosanthes cucumerina Linn) and amalaka (Emblica officinalis Gaertn) is very effective in tackling obesity and maintaining good health. Honey water and alcoholic preparations may be taken as postprandial drinks that help in reducing excessive fat and muscle tissues, while also alleviating kapha dosha .
+
+[REFERENCES / LINKS]
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 124: P]
+----------------------------------------------------------------------
+One desirous of reducing obesity should indulge more and more in vigil, sexual activities, as well as physical and mental exercises [21-28]
+
+
+[BLOCK 125: H4]
+----------------------------------------------------------------------
+Management of leanness
+
+
+[BLOCK 126: P]
+----------------------------------------------------------------------
+स्वप्नो हर्षः सुखा शय्या मनसो निर्वृतिः शमः|
+चिन्ताव्यवायव्यायामविरामः प्रियदर्शनम्||२९||
+
+
+[BLOCK 127: P]
+----------------------------------------------------------------------
+नवान्नानि नवं मद्यं ग्राम्यानूपौदका रसाः|
+संस्कृतानि च मांसानि दधि सर्पिः पयांसि च||३०||
+
+
+[BLOCK 128: P]
+----------------------------------------------------------------------
+इक्षवः शालयो माषा गोधूमा गुडवैकृतम्|
+बस्तयः स्निग्धमधुरास्तैलाभ्यङ्गश्च सर्वदा||३१||
+
+
+[BLOCK 129: P]
+----------------------------------------------------------------------
+स्निग्धमुद्वर्तनं स्नानं गन्धमाल्यनिषेवणम्|
+शुक्लं वासो यथाकालं दोषाणामवसेचनम्||३२||
+
+
+[BLOCK 130: P]
+----------------------------------------------------------------------
+रसायनानां वृष्याणां योगानामुपसेवनम्|
+हत्वाऽतिकार्श्यमाधत्ते नृणामुपचयं परम्||३३||
+
+
+[BLOCK 131: P]
+----------------------------------------------------------------------
+अचिन्तनाच्च कार्याणां ध्रुवं सन्तर्पणेन च|
+स्वप्नप्रसङ्गाच्च नरो वराह इव पुष्यति||३४||
+
+
+[BLOCK 132: P]
+----------------------------------------------------------------------
+svapnō harṣaḥ sukhā śayyā manasō nirvr̥tiḥ śamaḥ|
+cintāvyavāyavyāyāmavirāmaḥ priyadarśanam||29||
+
+
+[BLOCK 133: P]
+----------------------------------------------------------------------
+navānnāni navaṁ madyaṁ grāmyānūpaudakā rasāḥ|
+saṁskr̥tāni ca māṁsāni dadhi sarpiḥ payāṁsi ca||30||
+
+
+[BLOCK 134: P]
+----------------------------------------------------------------------
+ikṣavaḥ śālayō māṣā gōdhūmā guḍavaikr̥tam|
+bastayaḥ snigdhamadhurāstailābhyaṅgaśca sarvadā||31||
+
+
+[BLOCK 135: P]
+----------------------------------------------------------------------
+snigdhamudvartanaṁ snānaṁ gandhamālyaniṣēvaṇam|
+śuklaṁ vāsō yathākālaṁ dōṣāṇāmavasēcanam||32||
+
+
+[BLOCK 136: P]
+----------------------------------------------------------------------
+rasāyanānāṁ vr̥ṣyāṇāṁ yōgānāmupasēvanam|
+hatvā'tikārśyamādhattē nr̥ṇāmupacayaṁ param||33||
+
+
+[BLOCK 137: P]
+----------------------------------------------------------------------
+acintanācca kāryāṇāṁ dhruvaṁ santarpaṇēna ca|
+svapnaprasaṅgācca narō varāha iva puṣyati||34||
+
+
+[BLOCK 138: P]
+----------------------------------------------------------------------
+svapno harShaH sukhA shayyA manaso nirvRutiH shamaH|
+cintAvyavAyavyAyAmavirAmaH priyadarshanam||29||
+
+
+[BLOCK 139: P]
+----------------------------------------------------------------------
+navAnnAni navaM madyaM grAmyAnUpaudakA rasAH|
+saMskRutAni ca mAMsAni dadhi sarpiH payAMsi ca||30||
+
+
+[BLOCK 140: P]
+----------------------------------------------------------------------
+ikShavaH shAlayo mAShA godhUmA guDavaikRutam|
+bastayaH snigdhamadhurAstailAbhya~ggashca sarvadA||31||
+
+
+[BLOCK 141: P]
+----------------------------------------------------------------------
+snigdhamudvartanaM snAnaM gandhamAlyaniShevaNam|
+shuklaM vAso yathAkAlaM doShANAmavasecanam||32||
+
+
+[BLOCK 142: P]
+----------------------------------------------------------------------
+rasAyanAnAM vRuShyANAM yogAnAmupasevanam|
+hatvA~atikArshyamAdhatte nRuNAmupacayaM param||33||
+
+
+[BLOCK 143: P]
+----------------------------------------------------------------------
+acintanAcca kAryANAM dhruvaM santarpaNena ca|
+svapnaprasa~ggAcca naro varAha iva puShyati||34||
+
+
+[BLOCK 144: P]
+----------------------------------------------------------------------
+Sleep, exhilaration, comfortable bed, contentment, relaxed mind, abstinence from anxiety, sexual act and physical exercise, cheerfulness, newly harvested cereals, fresh wine, meat soup of animals residing in domestic, marshy and aquatic areas, well-cooked and prepared meat, curd, ghee, milk, sugarcane, shali rice, masha (Phaseolus radiates Linn.), wheat and its products, jaggery and its products, enema consisting of unctuous and sweet drugs, regular oil massage, unctuous bath, use of fragrance and garlands, use of white dress, elimination of doshas in due time and regular use of rejuvenating and aphrodisiac formulations to reduce excessive leanness and nourish the body.
+Besides, freedom from anxiety about any work, intake of nourishing diet and adequate sleep makes the man too obese like a pig [29-34]
+
+
+[BLOCK 145: H3]
+----------------------------------------------------------------------
+Concept of Nidra (sleep)
+
+
+[BLOCK 146: H4]
+----------------------------------------------------------------------
+Physiological mechanism of sleep
+
+
+[BLOCK 147: P]
+----------------------------------------------------------------------
+यदा तु मनसि क्लान्ते कर्मात्मानः क्लमान्विताः |
+विषयेभ्यो निवर्तन्ते तदा स्वपिति मानवः||३५||
+
+
+[BLOCK 148: P]
+----------------------------------------------------------------------
+yadā tu manasi klāntē karmātmānaḥ klamānvitāḥ |
+viṣayēbhyō nivartantē tadā svapiti mānavaḥ||35||
+
+
+[BLOCK 149: P]
+----------------------------------------------------------------------
+yadA tu manasi klAnte karmAtmAnaH klamAnvitAH |
+viShayebhyo nivartante tadA svapiti mAnavaH||35||
+
+
+[BLOCK 150: P]
+----------------------------------------------------------------------
+An individual falls asleep when his mind including the sensory and motor organs get exhausted, and they dissociate themselves from their objects. [35]
+
+
+[BLOCK 151: H4]
+----------------------------------------------------------------------
+Benefits of sleep
+
+
+[BLOCK 152: P]
+----------------------------------------------------------------------
+निद्रायत्तं सुखं दुःखं पुष्टिः कार्श्यं बलाबलम्|
+वृषता क्लीबता ज्ञानमज्ञानं जीवितं न च||३६||
+
+
+[BLOCK 153: P]
+----------------------------------------------------------------------
+अकालेऽतिप्रसङ्गाच्च न च निद्रा निषेविता|
+सुखायुषी पराकुर्यात् कालरात्रिरिवापरा||३७||
+
+
+[BLOCK 154: P]
+----------------------------------------------------------------------
+सैव युक्ता पुनर्युङ्क्ते निद्रा देहं सुखायुषा|
+पुरुषं योगिनं सिद्ध्या सत्या बुद्धिरिवागता||३८||
+
+
+[BLOCK 155: P]
+----------------------------------------------------------------------
+nidrāyattaṁ sukhaṁ duḥkhaṁ puṣṭiḥ kārśyaṁ balābalam|
+vr̥ṣatā klībatā jñānamajñānaṁ jīvitaṁ na ca||36||
+
+
+[BLOCK 156: P]
+----------------------------------------------------------------------
+akālē'tiprasaṅgācca na ca nidrā niṣēvitā|
+sukhāyuṣī parākuryāt kālarātririvāparā||37||
+
+
+[BLOCK 157: P]
+----------------------------------------------------------------------
+saiva yuktā punaryuṅktē nidrā dēhaṁ sukhāyuṣā|
+puruṣaṁ yōginaṁ siddhyā satyā buddhirivāgatā||38||
+
+
+[BLOCK 158: P]
+----------------------------------------------------------------------
+nidrAyattaM sukhaM duHkhaM puShTiH kArshyaM balAbalam|
+vRuShatA klIbatA j~jAnamaj~jAnaM jIvitaM na ca||36||
+
+
+[BLOCK 159: P]
+----------------------------------------------------------------------
+akAle~atiprasa~ggAcca na ca nidrA niShevitA|
+sukhAyuShI parAkuryAt [1] kAlarAtririvAparA||37||
+
+
+[BLOCK 160: P]
+----------------------------------------------------------------------
+saiva yuktA punaryu~gkte nidrA dehaM sukhAyuShA|
+puruShaM yoginaM siddhyA satyA buddhirivAgatA||38||
+
+
+[BLOCK 161: P]
+----------------------------------------------------------------------
+In human beings, happiness and misery, nourishment and emaciation, strength and weakness, fertility and infertility, knowledge and ignorance, and longevity and death depend upon proper (and improper sleep). Untimely, excessive sleep and sleep deprivation take away both happiness and longevity from a person. Similarly, proper sleep brings about happiness and longevity in human beings just as real knowledge brings about spiritual power in yogis [36-38]
+
+
+[BLOCK 162: H4]
+----------------------------------------------------------------------
+Indications of daytime sleep
+
+
+[BLOCK 163: P]
+----------------------------------------------------------------------
+गीताध्ययनमद्यस्त्रीकर्मभाराध्वकर्शिताः|
+अजीर्णिनः क्षताः क्षीणा वृद्धा बालास्तथाऽबलाः||३९||
+
+
+[BLOCK 164: P]
+----------------------------------------------------------------------
+तृष्णातीसारशूलार्ताः श्वासिनो हिक्किनः कृशाः|
+पतिताभिहतोन्मत्ताः क्लान्ता यानप्रजागरैः||४०||
+
+
+[BLOCK 165: P]
+----------------------------------------------------------------------
+क्रोधशोकभयक्लान्ता दिवास्वप्नोचिताश्च ये|
+सर्व एते दिवास्वप्नं सेवेरन् सार्वकालिकम्||४१||
+
+
+[BLOCK 166: P]
+----------------------------------------------------------------------
+धातुसाम्यं तथा ह्येषां बलं चाप्युपजायते|
+श्लेष्मा पुष्णाति चाङ्गानि स्थैर्यं भवति चायुषः||४२||
+
+
+[BLOCK 167: P]
+----------------------------------------------------------------------
+ग्रीष्मे त्वादानरूक्षाणां वर्धमाने च मारुते|
+रात्रीणां चातिसङ्क्षेपाद्दिवास्वप्नः प्रशस्यते||४३||
+
+
+[BLOCK 168: P]
+----------------------------------------------------------------------
+gītādhyayanamadyastrīkarmabhārādhvakarśitāḥ|
+ajīrṇinaḥ kṣatāḥ kṣīṇā vr̥ddhā bālāstathā'balāḥ||39||
+
+
+[BLOCK 169: P]
+----------------------------------------------------------------------
+tr̥ṣṇātīsāraśūlārtāḥ śvāsinō hikkinaḥ kr̥śāḥ|
+patitābhihatōnmattāḥ klāntā yānaprajāgaraiḥ||40||
+
+
+[BLOCK 170: P]
+----------------------------------------------------------------------
+krōdhaśōkabhayaklāntā divāsvapnōcitāśca yē|
+sarva ētē divāsvapnaṁ sēvēran sārvakālikam||41||
+
+
+[BLOCK 171: P]
+----------------------------------------------------------------------
+dhātusāmyaṁ tathā hyēṣāṁ balaṁ cāpyupajāyatē|
+ślēṣmā puṣṇāti cāṅgāni sthairyaṁ bhavati cāyuṣaḥ||42||
+
+
+[BLOCK 172: P]
+----------------------------------------------------------------------
+grīṣmē tvādānarūkṣāṇāṁ vardhamānē ca mārutē|
+rātrīṇāṁ cātisaṅkṣēpāddivāsvapnaḥ praśasyatē||43||
+
+
+[BLOCK 173: P]
+----------------------------------------------------------------------
+gItAdhyayanamadyastrIkarmabhArAdhvakarshitAH|
+ajIrNinaH kShatAH kShINA vRuddhA bAlAstathA~abalAH||39||
+
+
+[BLOCK 174: P]
+----------------------------------------------------------------------
+tRuShNAtIsArashUlArtAH shvAsino hikkinaH kRushAH|
+patitAbhihatonmattAH klAntA yAnaprajAgaraiH||40||
+
+
+[BLOCK 175: P]
+----------------------------------------------------------------------
+krodhashokabhayaklAntA divAsvapnocitAshca ye|
+sarva ete divAsvapnaM severan sArvakAlikam||41||
+
+
+[BLOCK 176: P]
+----------------------------------------------------------------------
+dhAtusAmyaM tathA hyeShAM balaM cApyupajAyate|
+shleShmA puShNAti cA~ggAni sthairyaM bhavati cAyuShaH||42||
+
+
+[BLOCK 177: P]
+----------------------------------------------------------------------
+grIShme tvAdAnarUkShANAM vardhamAne ca mArute|
+rAtrINAM cAtisa~gkShepAddivAsvapnaH prashasyate||43||
+
+
+[BLOCK 178: P]
+----------------------------------------------------------------------
+Sleeping during the day is advocated for those who are exhausted on account of singing, reading, alcoholic drinking, sexual intercourse, elimination therapy, carrying heavy weight, walking long distances, suffering from phthisis, wasting, thirst, diarrhea, colic pain, dyspnea, hiccup, insanity, or are too old, too young, weak and emaciated. It is also recommended for those who are injured by fall and assault or exhausted by travel-related stress, vigil, anger, grief, and fear. By this, equilibrium of dhatu and strength is maintained, and kapha nourishes the body parts and ensures longevity. In the summer season, nights become shorter, and vata gets provoked in the body in adana kala (seasons of low body strength, such as summer and rains) due to absorption of fluid. Therefore, during this period daytime sleeping is advocated for all. [39-43]
+
+[REFERENCES / LINKS]
+dhatu : https://www.carakasamhitaonline.com/index.php?title=Dhatu
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+adana kala : https://www.carakasamhitaonline.com/index.php?title=Adana_kala
+
+
+[BLOCK 179: H4]
+----------------------------------------------------------------------
+Consequences of improper daytime sleep
+
+
+[BLOCK 180: P]
+----------------------------------------------------------------------
+ग्रीष्मवर्ज्येषु कालेषु दिवास्वप्नात् प्रकुप्यतः|
+श्लेष्मपित्ते दिवास्वप्नस्तस्मात्तेषु न शस्यते||४४||
+
+
+[BLOCK 181: P]
+----------------------------------------------------------------------
+मेदस्विनः स्नेहनित्याः श्लेष्मलाः श्लेष्मरोगिणः|
+दूषीविषार्ताश्च दिवा न शयीरन् कदाचन||४५||
+
+
+[BLOCK 182: P]
+----------------------------------------------------------------------
+हलीमकः शिरःशूलं स्तैमित्यं गुरुगात्रता|
+अङ्गमर्दोऽग्निनाशश्च प्रलेपो हृदयस्य च||४६||
+
+
+[BLOCK 183: P]
+----------------------------------------------------------------------
+शोफारोचकहृल्लासपीनसार्धावभेदकाः|
+कोठारुःपिडकाः कण्डूस्तन्द्रा कासो गलामयाः||४७||
+
+
+[BLOCK 184: P]
+----------------------------------------------------------------------
+स्मृतिबुद्धिप्रमोहश्च संरोधः स्रोतसां ज्वरः|
+इन्द्रियाणामसामर्थ्यं विषवेगप्रवर्त(र्ध)नम्||४८||
+
+
+[BLOCK 185: P]
+----------------------------------------------------------------------
+भवेन्नृणां दिवास्वप्नस्याहितस्य निषेवणात्|
+तस्माद्धिताहितं स्वप्नं बुद्ध्वा स्वप्यात् सुखं बुधः||४९||
+
+
+[BLOCK 186: P]
+----------------------------------------------------------------------
+grīṣmavarjyēṣu kālēṣu divāsvapnāt prakupyataḥ|
+ślēṣmapittē divāsvapnastasmāttēṣu na śasyatē||44||
+
+
+[BLOCK 187: P]
+----------------------------------------------------------------------
+mēdasvinaḥ snēhanityāḥ ślēṣmalāḥ ślēṣmarōgiṇaḥ|
+dūṣīviṣārtāśca divā na śayīran kadācana||45||
+
+
+[BLOCK 188: P]
+----------------------------------------------------------------------
+halīmakaḥ śiraḥśūlaṁ staimityaṁ gurugātratā|
+aṅgamardō'gnināśaśca pralēpō hr̥dayasya ca||46||
+
+
+[BLOCK 189: P]
+----------------------------------------------------------------------
+śōphārōcakahr̥llāsapīnasārdhāvabhēdakāḥ|
+kōṭhāruḥpiḍakāḥ kaṇḍūstandrā kāsō galāmayāḥ||47||
+
+
+[BLOCK 190: P]
+----------------------------------------------------------------------
+smr̥tibuddhipramōhaśca saṁrōdhaḥ srōtasāṁ jvaraḥ|
+indriyāṇāmasāmarthyaṁ viṣavēgapravarta(rdha)nam||48||
+
+
+[BLOCK 191: P]
+----------------------------------------------------------------------
+bhavēnnr̥ṇāṁ divāsvapnasyāhitasya niṣēvaṇāt|
+tasmāddhitāhitaṁ svapnaṁ buddhvā svapyāt sukhaṁ budhaḥ||49||
+
+
+[BLOCK 192: P]
+----------------------------------------------------------------------
+grIShmavarjyeShu kAleShu divAsvapnAt prakupyataH|
+shleShmapitte divAsvapnastasmAtteShu na shasyate||44||
+
+
+[BLOCK 193: P]
+----------------------------------------------------------------------
+medasvinaH snehanityAH shleShmalAH shleShmarogiNaH|
+dUShIviShArtAshca divA na shayIran kadAcana||45||
+
+
+[BLOCK 194: P]
+----------------------------------------------------------------------
+halImakaH shiraHshUlaM staimityaM gurugAtratA|
+a~ggamardo~agninAshashca pralepo hRudayasya ca||46||
+
+
+[BLOCK 195: P]
+----------------------------------------------------------------------
+shophArocakahRullAsapInasArdhAvabhedakAH|
+koThAruHpiDakAH kaNDUstandrA kAso galAmayAH||47||
+
+
+[BLOCK 196: P]
+----------------------------------------------------------------------
+smRutibuddhipramohashca saMrodhaH srotasAM jvaraH|
+indriyANAmasAmarthyaM viShavegapravarta(rdha)nam||48||
+
+
+[BLOCK 197: P]
+----------------------------------------------------------------------
+bhavennRuNAM divAsvapnasyAhitasya niShevaNAt|
+tasmAddhitAhitaM svapnaM buddhvA svapyAt sukhaM budhaH||49||
+
+
+[BLOCK 198: P]
+----------------------------------------------------------------------
+Sleeping during daytime is contraindicated in the seasons other than summer because it causes vitiation of kapha and pitta . Persons having excessive fat, those who are addicted to fatty substances, having plenty of kapha , suffering from vitiated kapha related disorders, and those afflicted by latent poisons should never sleep during daytime. If one violated the given advice of sleeping during the day, he would subject himself to halimaka (advance stage of jaundice), headache, cold, heaviness of body parts, malaise, loss of digestive power, hridyopalepa (a feeling as if phlegm adhered to the heart), edema, anorexia, nausea, rhinitis, hemicranias, urticarial patches, pustules, boils, itching, drowsiness, coughing, disorders of the throat, impairment of memory and intelligence, obstruction of the body channels, fever, incapability of sensory and motor systems and enhancement of the toxic effects of poisons. So, one should keep in view the merits and demerits of sleep in various seasons and situations to stay happy and live long [44-49]
+
+[REFERENCES / LINKS]
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+
+
+[BLOCK 199: H4]
+----------------------------------------------------------------------
+Qualities of day and night sleep
+
+
+[BLOCK 200: P]
+----------------------------------------------------------------------
+रात्रौ जागरणं रूक्षं स्निग्धं प्रस्वपनं दिवा|
+अरूक्षमनभिष्यन्दि त्वासीनप्रचलायितम्||५०||
+
+
+[BLOCK 201: P]
+----------------------------------------------------------------------
+rātrau jāgaraṇaṁ rūkṣaṁ snigdhaṁ prasvapanaṁ divā|
+arūkṣamanabhiṣyandi tvāsīnapracalāyitam||50||
+
+
+[BLOCK 202: P]
+----------------------------------------------------------------------
+rAtrau jAgaraNaM rUkShaM snigdhaM prasvapanaM divA|
+arUkShamanabhiShyandi tvAsInapracalAyitam||50||
+
+
+[BLOCK 203: P]
+----------------------------------------------------------------------
+Insomnia or staying up late at night causes roughness in the body and sleeping during the day causes snigdhata (unctuousness). However, napping in sitting posture does not cause either roughness nor unctuousness [50]
+
+
+[BLOCK 204: H4]
+----------------------------------------------------------------------
+The importance of diet and sleep among the obese and the (excessively) lean
+
+
+[BLOCK 205: P]
+----------------------------------------------------------------------
+देहवृत्तौ यथाऽऽहारस्तथा स्वप्नः सुखो मतः|
+स्वप्नाहारसमुत्थे च स्थौल्यकार्श्ये विशेषतः||५१||
+
+
+[BLOCK 206: P]
+----------------------------------------------------------------------
+dēhavr̥ttau yathā hārastathā svapnaḥ sukhō mataḥ| svapnāhārasamutthē ca sthaulyakārśyē viśēṣataḥ||51||
+
+
+[BLOCK 207: P]
+----------------------------------------------------------------------
+dehavRuttau yathA~a~ahArastathA svapnaH sukho mataH|
+svapnAhArasamutthe ca sthaulyakArshye visheShataH||51||
+
+
+[BLOCK 208: P]
+----------------------------------------------------------------------
+As wholesome diet is essential for the maintenance of the body, sleep is essential for happiness. Therefore, obesity and leanness are specifically caused by improper sleep and diet. [51]
+
+
+[BLOCK 209: H4]
+----------------------------------------------------------------------
+Sleep-promoting measures
+
+
+[BLOCK 210: P]
+----------------------------------------------------------------------
+अभ्यङ्गोत्सादनं स्नानं ग्राम्यानूपौदका रसाः|
+शाल्यन्नं सदधि क्षीरं स्नेहो मद्यं मनःसुखम्||५२||
+
+
+[BLOCK 211: P]
+----------------------------------------------------------------------
+मनसोऽनुगुणा गन्धाः शब्दाः संवाहनानि च|
+चक्षुषोस्तर्पणं लेपः शिरसो वदनस्य च||५३||
+
+
+[BLOCK 212: P]
+----------------------------------------------------------------------
+स्वास्तीर्णं शयनं वेश्म सुखं कालस्तथोचितः|
+आनयन्त्यचिरान्निद्रां प्रनष्टा या निमित्ततः||५४||
+
+
+[BLOCK 213: P]
+----------------------------------------------------------------------
+abhyaṅgōtsādanaṁ snānaṁ grāmyānūpaudakā rasāḥ|
+śālyannaṁ sadadhi kṣīraṁ snēhō madyaṁ manaḥsukham||52||
+
+
+[BLOCK 214: P]
+----------------------------------------------------------------------
+manasō'nuguṇā gandhāḥ śabdāḥ saṁvāhanāni ca|
+cakṣuṣōstarpaṇaṁ lēpaḥ śirasō vadanasya ca||53||
+
+
+[BLOCK 215: P]
+----------------------------------------------------------------------
+svāstīrṇaṁ śayanaṁ vēśma sukhaṁ kālastathōcitaḥ|
+ānayantyacirānnidrāṁ pranaṣṭā yā nimittataḥ||54||
+
+
+[BLOCK 216: P]
+----------------------------------------------------------------------
+abhya~ggotsAdanaM snAnaM grAmyAnUpaudakA rasAH|
+shAlyannaM sadadhi kShIraM sneho madyaM manaHsukham||52||
+
+
+[BLOCK 217: P]
+----------------------------------------------------------------------
+manaso~anuguNA gandhAH shabdAH saMvAhanAni ca|
+cakShuShostarpaNaM lepaH shiraso vadanasya ca||53||
+
+
+[BLOCK 218: P]
+----------------------------------------------------------------------
+svAstIrNaM shayanaM veshma sukhaM kAlastathocitaH|
+AnayantyacirAnnidrAM pranaShTA yA nimittataH||54||
+
+
+[BLOCK 219: P]
+----------------------------------------------------------------------
+If for some reason one suffers from sleeplessness, he can be cured by applying measures such as- body massages, unction, bath, (intake of) soup made up of meat of domestic, marshy and/or aquatic animals, shali rice with curd, milk, fat, wine, mental pleasure, pleasant smell and sound, application of soothing ointment to eyes, head and face, comfortable bed and home, and getting habituated to sleeping at a particular time. [52-54]
+
+
+[BLOCK 220: H4]
+----------------------------------------------------------------------
+Causes of insomnia
+
+
+[BLOCK 221: P]
+----------------------------------------------------------------------
+कायस्य शिरसश्चैव विरेकश्छर्दनं भयम्|
+चिन्ता क्रोधस्तथा धूमो व्यायामो रक्तमोक्षणम्||५५||
+
+
+[BLOCK 222: P]
+----------------------------------------------------------------------
+उपवासोऽसुखा शय्या सत्त्वौदार्यं तमोजयः|
+निद्राप्रसङ्गमहितं वारयन्ति समुत्थितम्||५६||
+
+
+[BLOCK 223: P]
+----------------------------------------------------------------------
+एत एव च विज्ञेया निद्रानाशस्य हेतवः|
+कार्यं कालो विकारश्च प्रकृतिर्वायुरेव च||५७||
+
+
+[BLOCK 224: P]
+----------------------------------------------------------------------
+kāyasya śirasaścaiva virēkaśchardanaṁ bhayam|
+cintā krōdhastathā dhūmō vyāyāmō raktamōkṣaṇam||55||
+
+
+[BLOCK 225: P]
+----------------------------------------------------------------------
+upavāsō'sukhā śayyā sattvaudāryaṁ tamōjayaḥ|
+nidrāprasaṅgamahitaṁ vārayanti samutthitam||56||
+
+
+[BLOCK 226: P]
+----------------------------------------------------------------------
+ēta ēva ca vijñēyā nidrānāśasya hētavaḥ|
+kāryaṁ kālō vikāraśca prakr̥tirvāyurēva ca||57||
+
+
+[BLOCK 227: P]
+----------------------------------------------------------------------
+kAyasya shirasashcaiva virekashchardanaM bhayam|
+cintA krodhastathA dhUmo vyAyAmo [1] raktamokShaNam||55||
+
+
+[BLOCK 228: P]
+----------------------------------------------------------------------
+upavAso~asukhA shayyA sattvaudAryaM tamojayaH|
+nidrAprasa~ggamahitaM vArayanti samutthitam||56||
+
+
+[BLOCK 229: P]
+----------------------------------------------------------------------
+eta eva ca vij~jeyA nidrAnAshasya [2] hetavaH|
+kAryaM kAlo vikArashca prakRutirvAyureva ca||57||
+
+
+[BLOCK 230: P]
+----------------------------------------------------------------------
+Elimination of dosha from the body and the head through purgation and emesis, predominance of sattva and suppression of tamas , emotions such as fear, anxiety, and anger, habits and activities such as smoking, physical exercise, bloodletting, fasting, and environmental settings such as uncomfortable bed go a long way in overcoming excessive sleepiness/hypersomnolence.
+The above-mentioned factors, along with overwork, old age, vatika diseases, vatika constitution and aggravation of vata itself, are known to cause sleeplessness even in a normal individual. Some are insomniac even by nature. [55-57]
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+
+
+[BLOCK 231: H4]
+----------------------------------------------------------------------
+Origins and types of sleep
+
+
+[BLOCK 232: P]
+----------------------------------------------------------------------
+तमोभवा श्लेष्मसमुद्भवा च मनःशरीरश्रमसम्भवा च|
+आगन्तुकी व्याध्यनुवर्तिनी च रात्रिस्वभावप्रभवा च निद्रा||५८||
+
+
+[BLOCK 233: P]
+----------------------------------------------------------------------
+tamōbhavā ślēṣmasamudbhavā ca manaḥśarīraśramasambhavā ca|
+āgantukī vyādhyanuvartinī ca rātrisvabhāvaprabhavā ca nidrā||58||
+
+
+[BLOCK 234: P]
+----------------------------------------------------------------------
+tamobhavA shleShmasamudbhavA ca manaHsharIrashramasambhavA ca|
+AgantukI vyAdhyanuvartinI ca rAtrisvabhAvaprabhavA ca nidrA||58||
+
+
+[BLOCK 235: P]
+----------------------------------------------------------------------
+Sleep is of seven types, categorized by its cause: Tamas , vitiated kapha , mental exertion, physical exertion, exogenous factors, diseases, and normal (nighttime). [58]
+
+[REFERENCES / LINKS]
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+
+
+[BLOCK 236: P]
+----------------------------------------------------------------------
+रात्रिस्वभावप्रभवा मता या तां भूतधात्रीं प्रवदन्ति तज्ज्ञाः|
+तमोभवामाहुरघस्य मूलं शेषाः पुनर्व्याधिषु निर्दिशन्ति||५९||
+
+
+[BLOCK 237: P]
+----------------------------------------------------------------------
+rātrisvabhāvaprabhavā matā yā tāṁ bhūtadhātrīṁ pravadanti tajjñāḥ|
+tamōbhavāmāhuraghasya mūlaṁ śēṣāḥ punarvyādhiṣu nirdiśanti||59||
+
+
+[BLOCK 238: P]
+----------------------------------------------------------------------
+rAtrisvabhAvaprabhavA matA yA tAM bhUtadhAtrIM pravadanti tajj~jAH|
+tamobhavAmAhuraghasya mUlaM sheShAH punarvyAdhiShu nirdishanti||59||
+
+
+[BLOCK 239: P]
+----------------------------------------------------------------------
+Natural sleep (sleeping at night) is the best form of sleep. This is also known as Bhutadhatri , or “that which nurses all the living beings." The form of sleep that is caused by tamas is the cause of all sinful acts while the remaining types are observed in specific situations and ailments [59]
+
+
+[BLOCK 240: H3]
+----------------------------------------------------------------------
+Summary
+
+
+[BLOCK 241: P]
+----------------------------------------------------------------------
+तत्र श्लोकाः-
+
+
+[BLOCK 242: P]
+----------------------------------------------------------------------
+निन्दिताः पुरुषास्तेषां यौ विशेषेण निन्दितौ|
+निन्दिते कारणं दोषास्तयोर्निन्दितभेषजम्||६०||
+
+
+[BLOCK 243: P]
+----------------------------------------------------------------------
+येभ्यो यदा हिता निद्रा येभ्यश्चाप्यहिता यदा|
+अतिनिद्रायानिद्राय भेषजं यद्भवा च सा||६१||
+
+
+[BLOCK 244: P]
+----------------------------------------------------------------------
+या या यथाप्रभावा च निद्रा तत् सर्वमत्रिजः|
+अष्टौनिन्दितसङ्ख्याते व्याजहार पुनर्वसुः||६२||
+
+
+[BLOCK 245: P]
+----------------------------------------------------------------------
+tatra ślōkāḥ-
+ninditāḥ puruṣāstēṣāṁ yau viśēṣēṇa ninditau|
+ninditē kāraṇaṁ dōṣāstayōrninditabhēṣajam||60||
+
+
+[BLOCK 246: P]
+----------------------------------------------------------------------
+yēbhyō yadā hitā nidrā yēbhyaścāpyahitā yadā|
+atinidrāyānidrāya bhēṣajaṁ yadbhavā ca sā||61||
+
+
+[BLOCK 247: P]
+----------------------------------------------------------------------
+yā yā yathāprabhāvā ca nidrā tat sarvamatrijaḥ|
+aṣṭauninditasaṅkhyātē vyājahāra punarvasuḥ||62||
+
+
+[BLOCK 248: P]
+----------------------------------------------------------------------
+tatra shlokAH-
+ninditAH puruShAsteShAM yau visheSheNa ninditau|
+nindite kAraNaM doShAstayorninditabheShajam||60||
+
+
+[BLOCK 249: P]
+----------------------------------------------------------------------
+yebhyo yadA hitA nidrA yebhyashcApyahitA yadA|
+atinidrAyAnidrAya [1] bheShajaM yadbhavA ca sA||61||
+
+
+[BLOCK 250: P]
+----------------------------------------------------------------------
+yA yA yathAprabhAvA ca nidrA tat sarvamatrijaH|
+aShTauninditasa~gkhyAte vyAjahAra punarvasuH||62||
+
+
+[BLOCK 251: P]
+----------------------------------------------------------------------
+Now, the summing up verses – Acharya Punarvasu (Lord Atreya), the son of Atri, has explained the contents in the chapter on “eight types of undesirable constitutions” as given below:
+
+
+[BLOCK 252: UL]
+----------------------------------------------------------------------
+1. Enumeration of undesirable constitutions.
+2. Two most undesirable types of persons.
+3. The causes of undesirability.
+4. Demerits of undesirable persons.
+5. Treatment of undesirable persons.
+6. Indications and contra-indications of sleep depend upon the nature of the individual and time.
+7. Causes and treatment of over-sleep and sleeplessness.
+8. Factors those are responsible for inducing good sleep.
+9. Types and effects of sleep [60-62]
+
+
+[BLOCK 253: H2]
+----------------------------------------------------------------------
+Tattva Vimarsha (Fundamental Principles)
+
+
+[BLOCK 254: UL]
+----------------------------------------------------------------------
+1. Eight types of the undesirable appearance of humans are: too tall, too short, too hairy, hairless, too dark, too light (complexioned), too obese and too lean. Too obese and too lean are the most undesirable of human appearances that are also more prone to various diseases. [3]
+2. Excessive obesity has eight inherent defects viz. decrease in longevity, hampered mobility, difficulty in sexual intercourse, debility, bad body odor, profuse sweating, excessive hunger, and excessive thirst. [4]
+3. Excessive obesity is caused by over-nourishment due to the intake of heavy, sweet, cold and fatty diet, lack of physical exercise, abstinence from sexual intercourse, indulgence in the day sleeping, uninterrupted cheerfulness, lack of mental activities and hereditary/genetic defects. [4]
+4. Obesity is a result of obstruction of channels by excess accumulated meda dhatu (fat). This deranges the movement of vata is specially confined to koshtha (abdominal viscera) resulting in the stimulation and hastening of the digestive process through abnormally increased agni ( pitta ). This leads to excessive hunger and thirst and the person eats more food to gain weight. An excessive increase in adipose tissue and vitiation of tri dosha causes severe diseases in obese people. [5-8]
+5. Disproportionate increase of fat occurs mainly around buttocks, abdomen, and breasts, which become pendulous and the person suffers from improper metabolism and energy. [9]
+6. Indulgence in dry (non-unctuous) diets and drinks, fasting, inadequate diet, overuse of therapeutic purificatory measures, grief, suppression of natural urges, sleep deprivation, dry powder massage, indulgence in baths, heredity, old age, continued illness and anger make a person too lean. [11-12]
+7. Too lean and too obese persons are prone to suffering from various diseases and need constant treatment. [16]
+8. Being lean is better than being obese because the lean person responds well to nourishing treatment and balancing of the causative dosha ( vata and pitta ). On the contrary, reducing therapy and drugs used in the treatment of obesity can cause an increase in agni , which may cause increased appetite and thirst.Hence, the obese suffer more than the lean. [17]
+9. A person possessing a balanced constitution of muscles and compactness of the body, and stable sense organs does not fall prey to diseases. He can tolerate hunger, thirst, heat and cold, and physical strain better. His digestion, assimilation of food and muscle metabolism are in a state of equilibrium. [18-19]
+10. The food that is heavy to digest but not having any fattening (such as high fiber diet) is prescribed for the obese. In lean persons, food that is light to digest and has high nourishing value is prescribed. [20]
+11. Food and drinks that alleviate vata and reduce kapha and meda dhatu , as well as therapies such as enema (administered with drugs of sharply acting, dry and hot properties) and therapeutic powder massages are important treatments for obesity. [21-22]
+12. To enhance body mass of the excessively lean, an easy-to-digest and nourishing diet therapy, proper sleep, mind relaxing activities, rasayanas and aphrodisiacs, a diet with unctuous food and newly harvested food, and measures that eliminate vitiated dosha are prescribed. [29-34]
+13. Tiredness, inactivity of mind, and detachment from sense organs are certain situations and conditions that help in falling asleep. [35]
+14. Normal sleep is necessary for the normal functioning of human body and excessive or inadequate sleep results in many diseases. Happiness and misery, nourishment and emaciation, strength and weakness, fertility and infertility, knowledge and ignorance and life and death depend on proper and improper sleep. [36]
+15. Sleeping during the day is indicated for restoring any damage to the physical constitution or depletion of body tissues. In a normal person, sleeping during the day is contraindicated in seasons other than summer because it causes vitiation of kapha and pitta . Daytime sleep causes serious health problems. While insomnia causes roughness in the body, daytime sleep causes snigdhata (unctuousness) in the body. [39-50]
+16. Obesity and leanness are caused by improper diet and sleep. [51]
+
+[REFERENCES / LINKS]
+meda dhatu : https://www.carakasamhitaonline.com/index.php?title=Meda_dhatu
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+meda dhatu : https://www.carakasamhitaonline.com/index.php?title=Meda_dhatu
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+
+
+[BLOCK 255: H2]
+----------------------------------------------------------------------
+Vidhi Vimarsha(Applied Inferences)
+
+
+[BLOCK 256: P]
+----------------------------------------------------------------------
+In biomedical science, the above-described eight types of undesirable persons are comparable to a variety of genetic and neuroendocrine disorders. Out of these eight types, the last two ( atisthula and atikrisha ) need therapeutic interventions and deserve special attention. According to Chakrapanі, physical deformities such as kubja (hunchback) and pangu (limp gait) may also be taken as undesirable.
+
+
+[BLOCK 257: H3]
+----------------------------------------------------------------------
+Morbid obesity
+
+
+[BLOCK 258: P]
+----------------------------------------------------------------------
+In the context of atisthula and atikrisha , Charak has explored these conditions from the standpoint of their diathesis, clinical presentation, and management, which is comparable to approaches taken today to the study of obesity and leanness. Suśruta has considered rasa dhatu as the main culprit for both obesity and emaciation ( rasa nimittameva sthaulyam karshyam ca ) [ 12 ] .
+
+[REFERENCES / LINKS]
+rasa dhatu : https://www.carakasamhitaonline.com/index.php?title=Rasa_dhatu
+[ 12 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-12
+
+
+[BLOCK 259: P]
+----------------------------------------------------------------------
+Lipid precursors are acted upon by fat-specific energy ( medhodhatvagni ) for their conversion into adipose tissue ( meda dhatu ) [ 13 ] . Vitiation of kapha dosha and excessive accumulation of fat-specific energy and waste products of adipose tissues ( kleda ) lead to dysfunction of adipose tissues. Adipose channels have two origins - kidney, adrenal and fat around them and other are visceral and omental fat ( vapavahana ) [ 14 ] . These channels draw nutrition, including lipid from the antecedent flesh and transient lipid and then convert them into a stored form of lipid. As per biomedical science, obesity is associated with increased adipose stores in the subcutaneous tissues, skeletal muscles and internal organs such as kidney, heart, liver and omentum. Adipose tissues ( meda dhatu ) form a crucial link to the concept of tissue metabolism. Low levels of fat-specific energy ( medodhatvagni ), despite a normal food intake, can lead to a steady accumulation of fat and the outcome is obesity [ 15 ] [ 16 ] . The conventional system of medicine has given due consideration to certain factors such as insufficient sleep, genetic predisposition, later age pregnancy, certain medications and other epigenetic factors in the etiopathogenesis of obesity and its related disorders [ 17 ] .(Verse 3-4)
+
+[REFERENCES / LINKS]
+meda dhatu : https://www.carakasamhitaonline.com/index.php?title=Meda_dhatu
+[ 13 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-13
+kapha dosha : https://www.carakasamhitaonline.com/index.php?title=Kapha_dosha
+[ 14 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-14
+meda dhatu : https://www.carakasamhitaonline.com/index.php?title=Meda_dhatu
+[ 15 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-15
+[ 16 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-16
+[ 17 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-17
+
+
+[BLOCK 260: H3]
+----------------------------------------------------------------------
+Increased desire to eat among the obese
+
+
+[BLOCK 261: P]
+----------------------------------------------------------------------
+Charak correlated an increased desire to eat with increased agni in the morbidly obese. Recent evidence suggests that leptin and ghrelin had shown their influence on appetite. In this context, ghrelin is produced from the stomach, and leptin is produced by the adipose tissue of fat storage reserves in the body, which is responsible for short-term and long-term appetite control respectively in the body. [ 18 ] In the brain melanocortin pathway has drawn the attention of research scholars that this pathway has a specific role in stimulating appetite, which is located in the area of the lateral and ventromedial hypothalamus and arcuate nucleus. These areas are directly related to the feeding and satiety centers. [ 19 ]
+
+[REFERENCES / LINKS]
+agni : https://www.carakasamhitaonline.com/index.php?title=Agni
+[ 18 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-18
+[ 19 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-ref30-19
+
+
+[BLOCK 262: P]
+----------------------------------------------------------------------
+There are two distinct groups of neurons in the arcuate nucleus viz- The first group contains neuropeptide Y (NPY) and agouti-related peptide (AgRP) and the second group contains Pro-opiomelanocortin (POMC) and cocaine and amphetamine regulated transcript (CART). The first group of neuron i.e. NPY/AgRP exerts stimulatory inputs to the LH while inhibitory inputs to the VMH, which stimulate feeding and inhibit satiety respectively. Both groups of arcuate nucleus neurons are the under the regulation of leptin, which inhibits the NPY/AgRP group of neurons and stimulating the POMC/CART group of neurons. Hence, the leptin deficiency or leptin resistance leads to develop overfeeding tendency, which is caused by some genetic and acquired forms of obesity. [ 19 ] , [ 20 ] These findings suggest the genetic inputs in overweight and obesity, which is quite comparable to the Ayurvedic lexicons.[verse 4]
+
+[REFERENCES / LINKS]
+[ 19 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-ref30-19
+[ 20 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-20
+
+
+[BLOCK 263: H3]
+----------------------------------------------------------------------
+Consequences of obesity
+
+
+[BLOCK 264: P]
+----------------------------------------------------------------------
+Serious diseases are the outcome of excessive obesity due obstruction of body channels by the meda dhatu . This indicates ancient wisdom of Ayurveda scientists, which is comparable to the impact of obesity on health perspectives of biomedical science [ 21 ] . We have yet to understand what they had foreseen in reference to fat accumulation around the kidneys. Decreased life span is stated to be an important consequence of obesity in Ayurveda . According to contemporary science, metabolic and psychological pathologies are often present together and are associated with dysregulation of the hypothalamic-pituitary-adrenal axis [ 22 ] . Affect disorders are also reported among obese binge eaters. The National Institute of Health, USA has issued an alert labeling obesity a "Killer disease" due to its health-related consequences such as coronary disease, diabetes mellitus, hypertension, hyperlipidemia, kidney disorders, gallbladder disorders, cancer of colon, pancreas, breast, uterus, kidney and gallbladder, osteoarthritis, menstrual irregularities in females, cryptogenic cirrhosis of the liver and hepatocellular carcinoma, insulin resistance, and physiological hyperinsulinemia. Some of the social consequences of obesity could include divorces, due in part to reduce sexual activities between partners. Besides there, transitional physiological phases such as weight gain during adolescence in boys and girls, post-natal weight gain in women, and peri-post menopausal obesity are frequently noted in clinical settings that warrant special care and management [ 23 ] [ 24 ] [ 25 ] [ 26 ] [ 27 ] [ 28 ] [ 29 ] .[verse 5-8]
+
+[REFERENCES / LINKS]
+meda dhatu : https://www.carakasamhitaonline.com/index.php?title=Meda_dhatu
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+[ 21 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-21
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+[ 22 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-22
+[ 23 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-23
+[ 24 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-24
+[ 25 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-25
+[ 26 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-26
+[ 27 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-27
+[ 28 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-28
+[ 29 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-29
+
+
+[BLOCK 265: H3]
+----------------------------------------------------------------------
+Etiology, features, and consequences of atikrisha (emaciation)
+
+[REFERENCES / LINKS]
+atikrisha : https://www.carakasamhitaonline.com/index.php?title=Atikrisha
+
+
+[BLOCK 266: P]
+----------------------------------------------------------------------
+The etiological factors for atikrisha may be divided into two groups - excessive expenditure of calories and fewer intakes of calories. Either of these conditions leads to under-nutrition which ultimately results in atikrisha . In the pathogenesis of emaciation (karshya) , vata dosha plays an important role. Most of the etiological factors observed in the case provoke vata dosha vitiation.
+
+[REFERENCES / LINKS]
+atikrisha : https://www.carakasamhitaonline.com/index.php?title=Atikrisha
+atikrisha : https://www.carakasamhitaonline.com/index.php?title=Atikrisha
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 267: P]
+----------------------------------------------------------------------
+In sthaulya there is excessive formation and under-utilization (due to sedentary habit) of the rasa dhatu . On the other hand, in krishata there is less formation of rasa dhatu due to diseases or due to undernourishment. Further, Charak and Sushruta both have categorized krishata as a rasa pradoshaja vyadhi . [Cha.Sa. Sutra Sthana 28/10], [Su.Sa.Sutra Sthana 15/37] [ 30 ] ,[Su.Sa.Sutra Sthana 24/8] [ 30 ] In this way, rasa dhatu dushti mainly in the form of kshaya is found in extremely lean or emaciated people. The other dhatu involved in the pathogenesis of obesity as well as atikrisha is meda dhatu since it is mentioned that medokshaya (or the deficiency of meda dhatu ) cause krisanga . [A.H.Sutra Sthana 11/18] [ 31 ]
+
+[REFERENCES / LINKS]
+sthaulya : https://www.carakasamhitaonline.com/index.php?title=Sthaulya&action=edit&redlink=1
+rasa dhatu : https://www.carakasamhitaonline.com/index.php?title=Rasa_dhatu
+krishata : https://www.carakasamhitaonline.com/index.php?title=Krishata&action=edit&redlink=1
+rasa dhatu : https://www.carakasamhitaonline.com/index.php?title=Rasa_dhatu
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+[ 30 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-Susruta-30
+[ 30 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-Susruta-30
+dhatu : https://www.carakasamhitaonline.com/index.php?title=Dhatu
+atikrisha : https://www.carakasamhitaonline.com/index.php?title=Atikrisha
+meda dhatu : https://www.carakasamhitaonline.com/index.php?title=Meda_dhatu
+meda dhatu : https://www.carakasamhitaonline.com/index.php?title=Meda_dhatu
+[ 31 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-31
+
+
+[BLOCK 268: P]
+----------------------------------------------------------------------
+In biomedical terms, emaciation is the outcome of loss of the fatty contents or loss of adipose tissue component of subcutaneous fat, which is lying beneath the outer covering of the body [ 32 ] . It is also known as extreme weight loss, leanness, or thinness. In general term, it is also known as wasting, which is caused by hampered nutritional requirement at the tissue level and excessive starvation. Wasting or leanness is an important symptom of improper nourishment, which is commonly seen in various clinical conditions such as poverty, a variety of gastrointestinal disorders, various eating disorders, prolonged fever, malignant diseases, endocrine disorders, chronic infections, autoimmune disorders as well as parasitic infections. The malnourished person faced a lot of problems related to cardiovascular, integumentary and urogenital systems. Disturbances in blood circulation, serum electrolyte, and serum protein are commonly observed in emaciated person. Such type individuals are more to suffer from infections due to deranged immune power and swelling in general [ 33 ] .
+Obesity and leanness can manifest themselves in very severe and excessive forms than discussed here and those cases could make the management of such disorders - and any disease it could lead to – very challenging. While the principles of treatment remain unchanged, the therapeutic measures should be suitably intensified to counter the numerous disorders that arise because of excessive obesity and leanness [Cha.Sa. Sutra Sthana 23/3-34]. The patients of atikrisha and sthaulya perpetually suffer from diseases but the standpoint of treatment, the former is significantly more manageable because sthula (or the obese) suffers more in comparison to atikrisha (the emaciated) [Su. Sa. Sutra Sthana 15/42]. [ 30 ] Further, it is mentioned that atikṛisha is a grave disease, but is considered better than atisthula from treatment aspect because there is no treatment for sthaulya . For proper treatment of sthaulya the drugs must have medohara, agnihara and vatahara action at the same time, which is neither possible from karshaṇa nor brimhana . Recent evidence also suggests that Charak had associated extreme weight-loss/undernourishment with high rates of morbidity and mortality, although to a lesser extent than obesity. [ 34 ] [ 35 ] [ 36 ] [ 37 ] [ 38 ]
+
+[REFERENCES / LINKS]
+[ 32 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-32
+[ 33 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-33
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+atikrisha : https://www.carakasamhitaonline.com/index.php?title=Atikrisha
+sthaulya : https://www.carakasamhitaonline.com/index.php?title=Sthaulya&action=edit&redlink=1
+sthula : https://www.carakasamhitaonline.com/index.php?title=Sthula&action=edit&redlink=1
+atikrisha : https://www.carakasamhitaonline.com/index.php?title=Atikrisha
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+[ 30 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-Susruta-30
+atikṛisha : https://www.carakasamhitaonline.com/index.php?title=Atik%E1%B9%9Bisha&action=edit&redlink=1
+atisthula : https://www.carakasamhitaonline.com/index.php?title=Atisthula
+sthaulya : https://www.carakasamhitaonline.com/index.php?title=Sthaulya&action=edit&redlink=1
+sthaulya : https://www.carakasamhitaonline.com/index.php?title=Sthaulya&action=edit&redlink=1
+karshaṇa : https://www.carakasamhitaonline.com/index.php?title=Karsha%E1%B9%87a&action=edit&redlink=1
+brimhana : https://www.carakasamhitaonline.com/index.php?title=Brimhana
+[ 34 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-34
+[ 35 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-35
+[ 36 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-36
+[ 37 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-37
+[ 38 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-38
+
+
+[BLOCK 269: H3]
+----------------------------------------------------------------------
+Management of the Morbidly Obese
+
+
+[BLOCK 270: P]
+----------------------------------------------------------------------
+In the conventional system of medicine, the main treatment for obesity consists of diet and physical exercise for short-term weight control. Maintaining the weight by short-term dietary control is very difficult to an obese person, and it required guided exercise and low calorie diet in their daily regimens. Because lack of physical exercise is the key factor and imparts a role in the diathesis of obesity. The lack of physical activities also plays an important role in obesity-associated with the involvement of brain and abdominal. Regarding physical exercise, it not only reduces body weight but also counteract metabolic adaptation but regulating nutritional balance set point.64 It is presumed that physical inactivity contributes to both visceral adiposity and cerebellar brain changes because in the area of cerebellar cortex and hippocampal dentate gyrus of brain show enhanced synaptogenesis and neurogenesis in response to physical exercise training. [ 39 ] [ 40 ] [ 41 ]
+
+[REFERENCES / LINKS]
+[ 39 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-39
+[ 40 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-40
+[ 41 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-41
+
+
+[BLOCK 271: P]
+----------------------------------------------------------------------
+In this context, Ayurveda has laid down a strong emphasis on drugs, dietary and lifestyle interventions for the management of atisthaulya. Therefore, factors such as madhura, sheeta, snigdha, guru, picchila and lifestyle errors are to be avoided in such cases. Ruksha udvartanas are advocated obese patients as an external purificatory measure, while vamana , virechana , and asthapana basti as internal bio-purificatory measures. If an atisthula person possesses good stamina and strength, they should be treated with vamana and virechana therapies. Non-unctuous, warm and strong enema are advocated such type of patients. [ 42 ] [ 43 ] [ 44 ] [ 45 ] Yogic practices have a significant impact on the physical, mental, emotional and spiritual health of the individual. It is reported that a significant improvement in the levels of BP, LDL cholesterol, and BMI can be noted after three months of residential therapy consisting of vegetarian diet and kriya yoga . A randomized controlled study reveals that practicing yoga for a year brought about significant improvement in body weight and body density. Regular practice of yoga has shown to improve the serum lipid profile in patients (with known IHD) as well as in healthy subjects. A regular regimen of praṇayama reduces stress hormone and levels of endorphin and enkephalin, consequently increasing the level of HDL while decreasing the level of LDL, VLDL and TGs. [ 46 ] [ 47 ] [ 48 ] [ 49 ]
+
+[REFERENCES / LINKS]
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+asthapana basti : https://www.carakasamhitaonline.com/index.php?title=Asthapana_basti
+vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+[ 42 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-42
+[ 43 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-43
+[ 44 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-44
+[ 45 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-45
+[ 46 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-46
+[ 47 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-47
+[ 48 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-48
+[ 49 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-49
+
+
+[BLOCK 272: P]
+----------------------------------------------------------------------
+Recent evidence suggests that some ayurvedic herbal drugs are found to be very effective in normalizing deranged lipid profiles, reducing BMI and slowing down the risk heart diseases. Ayurvedic drugs such as rasona (Allium cepa), guggulu (Commiphora mukul), puṣhkaramula (Inula racemosa), arjuna (Terminalia Arjuna), dhānyaka (Coriandrum sativum), nishamalaki churṇa (powder of Emblica officinalis and Curcuma longa), haritaki (Terminalia chebula), haridra (Curcuma longa), bilva (Aegle marmelos), tejapatra (Cinnamomum tamala), vrikshamla (Garcinia cambogia) and Ayurvedic formulations such as- triphala guggulu , medohara guggulu , amṛitadi guggulu , arogyavardhani vaṭi etc. are also found to be effective in weight reduction as well as relief in other signs and symptoms. [ 1 ] [ 2 ] [ 3 ] [ 50 ] [ 51 ] [ 52 ] [ 53 ] [ 54 ] [ 55 ] [ 56 ] [ 57 ] [ 58 ] [ 59 ] [ 60 ] The herbs listed in the treatment of obesity have multifarious pharmacological properties. Some research studies confirmed both hypolipidemic and hypoglycemic activities. The herbs that possess properties like pungent (katu), bitter (tikta), astringent (kashaya) tastes, hot potency (ushna virya), light to digest (laghu) and producing dryness (ruksha) are responsible for depletion of meda (medohara) and removing toxins (lekhaneeya)activities. [ 61 ] [verse 20-28]
+
+[REFERENCES / LINKS]
+[ 1 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-ref1-1
+[ 2 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-ref2-2
+[ 3 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-ref3-3
+[ 50 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-50
+[ 51 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-51
+[ 52 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-52
+[ 53 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-53
+[ 54 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-54
+[ 55 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-55
+[ 56 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-56
+[ 57 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-57
+[ 58 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-58
+[ 59 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-59
+[ 60 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-60
+[ 61 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-61
+
+
+[BLOCK 273: H3]
+----------------------------------------------------------------------
+Management of the emaciated/too lean
+
+
+[BLOCK 274: P]
+----------------------------------------------------------------------
+Too lean patients are brought to good health through renourishment or reintroducing nourishing liquids and food to the body and check the process of catabolism. It starts with a glass of water followed by mixed with lemon and table salt and finally reach to juices, which is made up of vegetable, pulses, rice mixed with pepper, lemon juice and table salt. Later on, it is replaced with cow milk, soups of pulses and vegetable mixed with butter and salt. If the emaciated status is improved, try to introduced small amount of solid food in meals at the frequent interval and try to avoid a large amount of solid food at a time. The dietary regimen is to be focused on proteins, fats, carbohydrates, multi-vitamin and mineral for the management of the emaciated person. It is always kept in mind at the time of management of the too lean person, excessive fatty foods items and excess fiber dominated grains and vegetable are to be avoided because they are deficient in energy and consume too much time for digestion. Treatment of emaciation also includes prescribing a lot of sleep, rest, relaxation, and counseling. In the present context, rasa dhatu means body fluid which is responsible for the nourishment of entire body and mind. Impairment of circulation of body fluid results in diseases and decay. Rasa should be available in adequate quantity and quality for it to circulate through the cells of the body, providing the requisite nourishment they need for proper functioning.[verse 29-34]
+
+[REFERENCES / LINKS]
+rasa dhatu : https://www.carakasamhitaonline.com/index.php?title=Rasa_dhatu
+
+
+[BLOCK 275: H3]
+----------------------------------------------------------------------
+Concept of Sleep
+
+
+[BLOCK 276: P]
+----------------------------------------------------------------------
+The age-old concepts of sleep ( nidra ) and its different stages such as jagrata , swapana and sushupti are comparable to the current concept of sleep and its stages. The problems and pattern of sleep are assessed by observing the activity of brain through Electroencephalogram (EEG) pattern. [ 62 ] It is pointed out that wakefulness and stages of sleep have a specific EEG pattern. The wakefulness is associated with Beta and Gama waves frequencies in EEG pattern, which depends on pleasurable or painful stressors of surrounding environment. Stage 1 non-rapid eye movement (NREM) sleep is characterized by slowing down of Beta and Gama wave frequencies, reached to slow down the Alpha wave, and finally reached to Theta wave frequencies in EEG pattern. At a higher stage of NREM and REM, these brain wave frequencies in EEG pattern gradually decreases, and the person falls into sleep. By observing overall brain activity in EEG pattern, we can say that frequencies of sleep waves are low in wakefulness and it is gradual increases in different stages of sleep. Sleep spindles and K-complexes appeared in EEG pattern in Stage 2 of sleep, while more sleep spindles are observed in Stage 3 of sleep. The slow wave sleep is also known as high amplitude Delta wave, which is commonly observed in Stages 3 and 4 of sleep in EEG pattern. Low amplitude, mixed frequency waves- a sawtooth wave in EEG pattern observed at REM stage of sleep. [ 63 ] [ 64 ] [ 65 ] [verse 35]
+
+[REFERENCES / LINKS]
+nidra : https://www.carakasamhitaonline.com/index.php?title=Nidra
+[ 62 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-62
+[ 63 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-63
+[ 64 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-64
+[ 65 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-65
+
+
+[BLOCK 277: H4]
+----------------------------------------------------------------------
+Sleep regulation
+
+
+[BLOCK 278: P]
+----------------------------------------------------------------------
+It is presumed that the sleep physiology is controlled by the hypothalamus and the suprachiasmatic nucleus (SCN) in the brain, which regulates mechanism of homeostatic and circadian rhythm respectively of the body. The actual mechanism of the physiology of sleep is still evolving in biomedical sciences. The sleep is initiated and begins by projections from the SCN to the brain stem. Borbely called projections as Process S (homeostatic) and Process C (Circadian) respectively, who first proposed these two process models in 1982. He pointed out that maximum sleep is the outcome of significant differences between homeostatic and circadian rhythm. [ 66 ] [verse 39-43]
+
+[REFERENCES / LINKS]
+[ 66 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-ref74-66
+
+
+[BLOCK 279: H4]
+----------------------------------------------------------------------
+Effects of sleep
+
+
+[BLOCK 280: P]
+----------------------------------------------------------------------
+Recent conventional evidence suggests that seasonal variation can have an impact on sleep/wake cycle, which is quite interesting and proven the age-old concept of Ayurveda . Recent evidence shows that core temperature of body and secretion of melatonin hormone levels are slightly greater in the month of summer due to prolong the length of light exposure, which imparts significant role in daytime sleep in summer. This is the reason people go to bed early at night and wake up early in the morning in the month of summer. Sunlight exposure in the morning hours may affect internal biological clock, shifting the timing of the sleep window. The need and function of sleep are the most lacking areas of sleep research in biomedical sciences. Some of the important ones are- restoration and recovery of body systems, energy conservation, memory consolidation, protection from predation, brain development, and discharge of emotions. [ 66 ] [ 67 ] [ 68 ] [ 69 ] [verse 36-38 and 44-49]
+
+[REFERENCES / LINKS]
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+[ 66 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-ref74-66
+[ 67 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-67
+[ 68 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-68
+[ 69 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-69
+
+
+[BLOCK 281: H4]
+----------------------------------------------------------------------
+Sleep about atisthula and atikrisha
+
+[REFERENCES / LINKS]
+atisthula : https://www.carakasamhitaonline.com/index.php?title=Atisthula
+atikrisha : https://www.carakasamhitaonline.com/index.php?title=Atikrisha
+
+
+[BLOCK 282: P]
+----------------------------------------------------------------------
+Recent evidence suggests that a good sleep plays an important role in the regulation of neuroendocrine, hormonal and metabolic function in the body. Since last few decades, the timing and quality of sleep is gradually hampered due to the affliction of modernization in many ways. At present, the adult and children progressively reduce bedtimes and increases times for other activities, which affect the metabolic functions in many ways. The atisthula and atikrisha are also the outcome of excessive sleep and lack of sleep and vice-versa. Evidence shows that sleep loss for prolong period may provoke the risk of weight gain and morbid obesity. Further, sleep reduction in young adults affects metabolic and endocrine functions in various ways such as- insulin resistance, hyperglycemia, elevated sympathovagal activity, an elevated level of serum glucocorticoid hormone, increased levels of ghrelin, and decreased the level of leptin. Due to improper and lack of good quality of sleep in adolescents may be important factors to consider in the prevention of childhood obesity. [ 70 ] Probably this is the reason that sleep is mentioned in the present chapter by Charak about atisthula and atikrisha like other dietary and lifestyle intervention.[verse 51]
+
+[REFERENCES / LINKS]
+atisthula : https://www.carakasamhitaonline.com/index.php?title=Atisthula
+atikrisha : https://www.carakasamhitaonline.com/index.php?title=Atikrisha
+[ 70 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-70
+atisthula : https://www.carakasamhitaonline.com/index.php?title=Atisthula
+atikrisha : https://www.carakasamhitaonline.com/index.php?title=Atikrisha
+
+
+[BLOCK 283: H4]
+----------------------------------------------------------------------
+Insomnia or sleeplessness
+
+
+[BLOCK 284: P]
+----------------------------------------------------------------------
+Anidra of Ayurveda is closely related to Insomnia, or sleeplessness of biomedical sciences. It is a disorder of sleep in which a person is unable to fall in sleep. Nowadays, insomnia is an important area of clinical practice to seek the attention of the physician because a large number of patients come to the hospital suffering from insomnia as secondary conditions. It is sometimes a functional impairment during awake, which may occur at any age, but it is particularly common in the elderly. Insomnia is either short-term lasting up to 3 hours, or it may be long term lasting for > 3 hours. It may lead to developing dementia, lack of concentration, depression, mental irritation and increases the risk of cardio-vascular accidents along with increases the chances of a roadside accident. [ 71 ] [ 72 ] Regarding its management some drug such as valerian extract has undergone multiple studies and appears to be moderately effective. Similarly, L-Arginine L-aspartate, S-adenosyl-L-homocysteine, and delta sleep inducing peptide (DSIP) appear to be significantly effective in the cases of insomnias. [ 73 ] [ 74 ]
+
+[REFERENCES / LINKS]
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+[ 71 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-71
+[ 72 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-72
+[ 73 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-73
+[ 74 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-74
+
+
+[BLOCK 285: P]
+----------------------------------------------------------------------
+Improper sleep has a harmful impact on carbohydrate metabolism and endocrine function. Besides, it also reduces the metabolic activity in the brain with prolonging lack of sleep. The effects are similar to those seen in normal aging and, therefore, sleep debt may increase the severity of age-related chronic disorders. [ 75 ] Lack of sleep for prolonged period has been shown to affect cognitive functions of people involved in versatile activities along with interfering in mood and emotion. This is one of reason to increased tendency to fear, depression, and rage in the people having a deficiency in sleep. The mechanism and effects of sleep deficit are still evolving in the pathophysiology of sleep deficit. [ 76 ] [ 75 ] [ 77 ]
+
+[REFERENCES / LINKS]
+[ 75 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-ref85-75
+[ 76 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-76
+[ 75 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-ref85-75
+[ 77 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_note-77
+
+
+[BLOCK 286: P]
+----------------------------------------------------------------------
+The concept of nidra in Ayurveda is quite comparable to the sleep of biomedical sciences. The nidra is so important for the maintenance of health and sustaining the life. This is true in the light of contemporary scientific knowledge too. According to Ayurveda , kapha and tamas are responsible for nidra even as modern studies attribute the occurrence of sleep to many factors including stimulation of certain areas of the brain. Ayurveda classifies the nidra based on the mode of origin while modern classification of sleep based on physiological variations seen in association with the different types of sleep. Some factors like food, activities, external stimuli, etc. affect nidra or sleep. Any variation in the normal sleep pattern is not at all desirable, and they may cause serious health problems that demand proper medical attention.[verse 52-54]
+
+[REFERENCES / LINKS]
+nidra : https://www.carakasamhitaonline.com/index.php?title=Nidra
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+nidra : https://www.carakasamhitaonline.com/index.php?title=Nidra
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+tamas : https://www.carakasamhitaonline.com/index.php?title=Tamas
+nidra : https://www.carakasamhitaonline.com/index.php?title=Nidra
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+nidra : https://www.carakasamhitaonline.com/index.php?title=Nidra
+nidra : https://www.carakasamhitaonline.com/index.php?title=Nidra
+
+
+[BLOCK 287: H3]
+----------------------------------------------------------------------
+Conclusion
+
+
+[BLOCK 288: P]
+----------------------------------------------------------------------
+The present chapter reveals that the clinical entity, consequences, and management of too obese, too lean, insomnia, along with categorization of good built, information and mechanism of sleep and measures to induce good sleep was fairly well known even in the classical period of Ayurveda , which is comparable to the latest development in this field. The Ayurvedic classics vividly describe the etiological factors, pathogenesis, clinical presentation, complications and its categories and treatment modalities of too obese, which has a striking resemblance to the latest development in this field. The samprapti (pathogenesis) of this disease is based on the specific dosha -dushya pattern. Besides, the special emphasis placed on vitiation of meda dhatu . The age-old ideas are now getting strong scientific support for the emerging concept of prediabetes, insulin resistance, and metabolic syndrome, signifying the role of lipid disorders in the pathogenesis, hypometabolic state ( ama state) and immunodeficiency in these disorders. Numbers of complications have been described in this context including prameha , GI problems, skin disorders, etc. It is presumed that in the diathesis of complications, impaired status of agni, ojas and meda dhatu play an important role6.
+
+[REFERENCES / LINKS]
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+meda dhatu : https://www.carakasamhitaonline.com/index.php?title=Meda_dhatu
+ojas : https://www.carakasamhitaonline.com/index.php?title=Ojas
+meda dhatu : https://www.carakasamhitaonline.com/index.php?title=Meda_dhatu
+
+
+[BLOCK 289: P]
+----------------------------------------------------------------------
+On The overall assessment, the concept of overweight and obesity, emaciation, sleep and its type, indications, and contraindications of day sleep, the role of sleep in obesity, causes of insomnia and features of good and bad sleep along with features of good body built was a well-known entity since antiquity. The available descriptions appear very contemporary and scientific. Certain therapeutic modalities have close resemblance with several non-drug approaches of modern medicine. These modalities can be combined judiciously for individualized prevention and cure of too obese, too lean and insomnia. The current approaches and management of too obese and too lean along with insomnia are still not satisfactory in the conventional system of medicine; this chapter provides a new outlook to scholars and researchers of Ayurveda , which is based on current publications and reports.
+
+[REFERENCES / LINKS]
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+
+
+[BLOCK 290: P]
+----------------------------------------------------------------------
+Send us your suggestions and feedback on this page.
+
+[REFERENCES / LINKS]
+Send us your suggestions and feedback on this page. : https://www.carakasamhitaonline.com/index.php?title=Special:ContactMe
+
+
+[BLOCK 291: H2]
+----------------------------------------------------------------------
+References
+
+
+[BLOCK 292: OL]
+----------------------------------------------------------------------
+1. ↑ 1.0 1.1 Pandey A. K and Singh R. H.: “A Study of the Immune status in patients of diabetes mellitus and their Management with certain NaimittikaRasayana drugs”, JRAS. Vol. XXIV. No. 3-4, 2003; 48-61.
+2. ↑ 2.0 2.1 Pandey A.K and Singh R.H. (2012): A Clinical Study on Certain Diabetic Complications under the Influence of Naimittika Rasayana Therapy w.s.r. to Nishamalaki and Shilajatu), PhD. Thesis, Department of Kayachikitsa,, IMS, BHU, Varanasi.
+3. ↑ 3.0 3.1 Jaspreet Singh & A. K. Pandey: Clinical Evaluation of Pushkaramula (Inula racemosa) Capsule in the patients of Metabolic syndrome”, International Journal of Medicine and Pharmaceutical Sciences (IJMPS), ISSN(P): 2250-0049; ISSN(E): 2321-0095, Vol. 4, Issue 2, Apr 2014, 9-20.
+4. ↑ National Institutes of Health. Clinical guidelines on the identification, evaluation, and treatment of overweight and obesity in adults: the evidence report. Bethesda, Md: National Heart, Lung, and Blood Institute and National Institute of Diabetes and Digestive and Kidney Diseases; 1998.
+5. ↑ Alpert MA. Obesity cardiomyopathy: pathophysiology and evolution of the clinical syndrome. Am J Med Sci. 2001;321: 225–236.
+6. ↑ Singh Jaspreet & Pandey A.K. (2012): Clinical Evaluation of Pushkarmula churna in the patients of metabolic syndrome w.s.r, to Ojas and Agni MD (Ay) Department of Kayachikitsa, IMS, BHU, Varanasi.
+7. ↑ Lau D.C. et al (April 2007). "2006 Canadian clinical practice guidelines on the management and prevention of obesity in adults and children [summary]", CMAJ , 176 (8): S1–13.
+8. ↑ World Health Organization (WHO) (2000). Obesity: Preventing and Managing the Global Epidemic. Report on a WHO Consultation. Geneva. (WHO technical report series 894).
+9. ↑ P.J.English, M.A.Ghatei, I.A.Malik, S. R. Bloom and J. P. H. Wilding ( June-1, 2002): Food fails to suppress ghrelin levels in obese humans, The Journal of Clinical Endocrinology & Metabolism, 87(6):2984–2987.
+10. ↑ Puhl R, Brownell KD (December 2001): "Bias, discrimination, and obesity". Obes. Res.9 (12): 788–805. doi:10.1038/oby.2001.108. PMID 11743063.
+11. ↑ Pandey A.K. (2013-2014): Conceptual background on obesity ( sthaulya / medoroga ) & an approach for its management through ayurveda , chapter published in a book ‘Integrative approach to metabolic syndrome’ published by Mahima research foundation and social welfare, Varanasi, UP, India, 2013-2014, p.no.-47-59.
+12. ↑ Sushruta. Sutra Sthana, Cha.15 Doshadatumalkshayavriddivinjaniya Adhyaya verse 32. In: Jadavaji Trikamji Aacharya, Editors. Sushruta Samhita. 8th ed. Varanasi: Chaukhambha Orientalia;2005.
+13. ↑ Mishra, L.C. (2003). Scientific Basis of Ayurvedic therapy, Chapter 9 Obesity (Medoroga) in Ayurveda ; eBook, published by CRC press, Taylor & Francis Group.
+14. ↑ Shastri, P.K (1983), (translater), Caraka samhita, Part I, 2nd ed., Chaukhambha Sanskrit Sansthan, Varanasi, India, p. 595.
+15. ↑ Bleich S, Cutler D, Murray C, Adams A (2008). "Why is the developed world obese?". Annu Rev Public Health29: 273–95. doi:10.1146/annurev.publhealth.29.020907.090954. PMID 18173389.
+16. ↑ Drewnowski A, Specter SE (January 2004). "Poverty and obesity: the role of energy density and energy costs". Am. J. Clin. Nutr.79 (1): 6–16.
+17. ↑ Keith SW, Redden DT, Katzmarzyk PT et al. (2006). "Putative contributors to the secular increase in obesity: Exploring the roads less traveled". Int J Obes (Lond)30 (11): 1585–94. doi:10.1038/sj.ijo.0803326. PMID 16801930.
+18. ↑ Hamann A, Matthaei S (1996). "Regulation of energy balance by leptin". Exp. Clin. Endocrinol. Diabetes104 (4): 293–300. doi:10.1055/s-0029-1211457. PMID 8886745.
+19. ↑ 19.0 19.1 Rao CR, Sen PK, Flier JS (2012). Handbook of Statistics: Bioinformatics in Human Health and Heredity; Published by North Holland; 1 edition, Kindle Edition, 1 edition.
+20. ↑ Raina GS (2011).Obesity being the major health burden needed to be chased: A systemic review. J Appl Pharm Sci. 2011;1:238–45.
+21. ↑ Mishra, L.C. (2003). Scientific Basis of Ayurvedic therapy, Chapter 9 Obesity (Medoroga) in Ayurveda ; eBook, published by CRC press, Taylor & Francis Group.
+22. ↑ Boulpaep, Emile L.; Boron, Walter F. (2003). Medical physiology: A cellular and molecular approach. Philadelphia: Saunders. p. 1227. ISBN 0-7216-3256-4
+23. ↑ Kuniko Takagi, Romain Legrand, Akihiro Asakawa, Haruka Amitani, Marie François, Naouel Tennoune, Moïse Coëffier, Sophie Claeyssens, Jean-Claude do Rego, Pierre Déchelotte, Akio Inui, Sergueï O. Fetissov. Anti-ghrelin immunoglobulins modulate ghrelin stability and its orexigenic effect in obese mice and humans. Nature Communications, 2013; 4 DOI: 10.1038/ncomms3685, site on 08/02/2014.
+24. ↑ Grundy SM (2004). "Obesity, metabolic syndrome, and cardiovascular disease". J. Clin. Endocrinol. Metab.89 (6): 2595–600. doi:10.1210/jc.2004-0372. PMID 15181029.
+25. ↑ Foster, W.R. and Burton, B.T.(1985). Health implication of obesity, Ann. Intern.Med., 103, 1024.
+26. ↑ Grunstein, R.R. and Widcox, I. (1994). Sleep-disordered breathing and obesity, Clin.Endocrinol.Metab. Baillier’s, 8, 601.
+27. ↑ Daugero, K.D. (2001). A new perspective on glucorticoid feedback: relation to stress, carbohydrate feeding and feeding behavior, J. Neuroendocrinol., 13, 1088.
+28. ↑ Larsson, B. et al (1984), Abdominal adipose distribution, obesity and risk of cardiovascular disease and death: 13 year follow up of participants in the study of men born in 1913, Br. Med. J., 288, 1401.
+29. ↑ Esposito K. et al (2004). "Effect of lifestyle changes on erectile dysfunction in obese men: A randomized controlled trial". JAMA, 291 (24): 2978–84.
+30. ↑ 30.0 30.1 30.2 Sushruta. Sushruta Samhita. Edited by Jadavaji Trikamji Aacharya. 8th ed. Varanasi: Chaukhambha Orientalia;2005.
+31. ↑ Munshi, V.D. (translator) (1952). Ashtang Hridaya,Sastum Sahityavardhak Mudranalaya, Ahmedabad, India, p. 135, Sutrasthana-24/5, 11/18.
+32. ↑ Gray D.S., Fujioka K. (1991). "Use of relative weight and Body Mass Index for the determination of adiposity". J Clin Epidemiol, 44 (6): 545–50.
+33. ↑ "Emaciation". Medical-Dictionary.TheFreeDictionary.com. Retrieved February 19, 2014.
+34. ↑ Bose, Bholanoth (1877, 2009). A new system of medicine, entitled recognizant medicine; or, The state of the sick. London: J. & A. Churchill. pp. 192–199. Retrieved February 19, 2014.
+35. ↑ Lusky A, Barell V, Lubin F, Kaplan G, Layani V, Shohat Z, et al. Relationship between morbidity and extreme values of body mass index in adolescents. Int J Epidemiol 1996;25(4):829-834.
+36. ↑ Lake JK, Power C, Cole TJ. Women's reproductive health: the role of body mass index in early and adult life. Int J Obes Relat Metab Disord 1997;21(6):432-438.
+37. ↑ Kopp W, Blum WF, von Prittwitz S, Ziegler A, Lubbert H, Emons G, et al. Low leptin levels predict amenorrhea in underweight and eating disordered females. Mol Psychiatry 1997;2(4):335-340.
+38. ↑ He Q, Karlberg J. BMI in childhood and its association with height gain, timing of puberty, and final height. Pediatr Res 2001;49(2):244-251.
+39. ↑ Matthias Raschpichler et al (2013). Abdominal fat distribution and its relationship to brain changes: the differential effects of age on cerebellar structure and function: a cross-sectional, exploratory study. BMJ Open. 2013; 3(1): e001915.Published online 2013 Jan 24. doi: 10.1136/bmjopen-2012-001915
+40. ↑ McCarthyHD, EllisSM, ColeTJ. (2003): Central overweight and obesity in British youth aged 11–16 years: cross sectional surveys of waist circumference. BMJ, 326:624.
+41. ↑ GollischKS, BrandauerJ, JessenN, et al. (2009):Effects of exercise training on subcutaneous and visceral adipose tissue in normal- and high-fat diet-fed rats, Am J Physiol Endocrinol Metab; 297:E495–504.
+42. ↑ Singh R.H.(1998). The holistic principles of Ayurvedic Medicine. Chaukhambha Publications, Varanasi.
+43. ↑ Singh R.H. (2002) . Panchakarma therapy (2nd Ed). Chaukhambha Sanskrit Sereis office, Varanasi.
+44. ↑ Paranjpe, P., Patki, P., and Patwardhan, P., (1990). Ayurvedic treatment of obesity: a randomized double blind, placebo-controlled clinical trial, J. Ethnopharmacol., 29, 1–11.
+45. ↑ Kasture, H.S. (translator) (1985). Ayurvediya Panchakarma Vignyana (3rd ed.). Shri Baidyanath Ayurved Bhavan Pvt. Ltd., Kolkata, India, p. 247.
+46. ↑ Schmidt, T et al (1997): Changes in cardiovascular risk factors and hormones during a comprehensive residential three month kriyayoga training and vegetarian nutrition, Acta Physiol.Scand Suppl. 640:158:160.
+47. ↑ Bera, T.K., Rajapurkar, M.V. (1993): Body composition, cardiovascular edurance and anaerobic power of yogic practitioner, Indian J. Physiol. Pharmacol, 37:225-228.
+48. ↑ Mahajan, A.S., Reddy, K.S., Sachdeva, U. (1999): Lipid profiles of coronary risk subjects following yogic lifestyle intervention, Indian Heart J, 51:37040.
+49. ↑ Manachanda, S.C. et al.(2000): Retardation of coronary atherosclerosis with yoga lifestyle intervention, J Assoc.Physicians India, 48 (7): 687-694.
+50. ↑ Banerjee, S.K., Maulik, S.K. (2002): Effect of garlic on cardiovascular disorders: a review, Nutr.J, 1:4.
+51. ↑ Satyavati, G.V., Dwarakanath, C., and Tripathi, S.N. (1950 & 1969). Experimental studies on the hypocholesterolemic effect of Commiphora mukul (Guggulu), Indian J. Med. Res., 57, 1950, 1969.
+52. ↑ Karthikeyan, K. et al. (2003): Cardioprotective effect of the alcoholic extract of Terminalia arjuna bark in an invitro model of myocardial ischemic reperfusion injury, Iife Scince, 10, 73 (21):2727:39.
+53. ↑ Verghese, J. (2001): Coriander, Indian Spices, 38 (1):8.
+54. ↑ Kannan, V et al. (2012): Anti-diabetic activity on ethanolic extracts of fruits of terminalia chebula in Alloxan induced diabetic rats, American J. of Drug Discovery and Development, 2:135-142.
+55. ↑ Despande, U.R. (1966): Effect of Turmeric extract on lipid profile (1-22), Int.Seminar on free radicals medicated disease, 2-4.
+56. ↑ Kesari, A.N. et al. (2006): Hypoglycemic and anti-hyperglycemic activity of Aegle mormelas seed extract in normal and diabetic rats, J. Ethnopharmacol, 103 (3): 374-79.
+57. ↑ Sharma, S.R., Dwivedi, S.K., Swarup, D (1996): Hypoglycemic and hypolipidaemic effects of Cinnamomum tamala Nees leaves, Indian J Exp Biol, 34 (2): 216-220.
+58. ↑ Kohsuke Hayamizu, MS, Yuri Ishii, et al.( SE P T EMB E R / O C T O B E R 2003):Effects of Garcinia cambogia (Hydroxycitric Acid) on Visceral Fat Accumulation: A Double-Blind, Randomized, Placebo-Controlled Trial, current therapeutic research,VO L UME 64, No. 8, 551-567.
+59. ↑ Bhagwat, B.K. (1995). Triphala-guggul in Sthoulya in Ayurveda Research Papers III, Kulkarni, P.H., Ed., Ayurved Rasashala, Pune, India, p. 215
+60. ↑ Vaidya, A.B. et al. (1980). A double-blind clinical trial of Arogyawardhini — an Ayurvedic drug- in acute viral hepatitis, Ind. J. Med. Res., 72, 588.
+61. ↑ Kumari H, Pushpan R, Nishteswar K. Medohara and Lekhaniya dravyas (anti-obesity and hypolipidemic drugs) in Ayurvedic classics: A critical review. Ayu. 2013;34(1):11-16. doi:10.4103/0974-8520.115437
+62. ↑ Dement, William; Kleitman, Nathaniel (1 November 1957). "Cyclic variations in EEG during sleep and their relation to eye movements, body motility, and dreaming". Electroencephalography and Clinical Neurophysiology9 (4): 673–690. doi:10.1016/0013-4694(57)90088-3. PMID 13480240.
+63. ↑ BARKER, W; BURGWIN, S (1948 Nov-Dec). "Brain wave patterns accompanying changes in sleep and wakefulness during hypnosis." Psychosomatic Medicine10 (6): 317–26. PMID 18106841.
+64. ↑ Jankel, WR; Niedermeyer, E (January 1985). "Sleep spindles.". Journal of clinical neurophysiology: official publication of the American Electroencephalographic Society2 (1): 1–35. PMID 3932462.
+65. ↑ Loomis, A. L.; Harvey, E. N.; Hobart, G. A (1938). "Distribution of disturbance-patterns in the human electroencephalogram with special reference to sleep". Journal of Neurophysiology1: 413–430.
+66. ↑ 66.0 66.1 Saper, Clifford B.; Scammell, Thomas E.; Lu, (Jun (27 October 2005)): "Hypothalamic regulation of sleep and circadian rhythms". Nature437 (7063): 1257–1263. doi:10.1038/nature04284. PMID 16251950.
+67. ↑ Krueger, James M.; Obál, Ferenc; Fang, Jidong. "Why we sleep: a theoretical view of sleep function". Sleep Medicine Reviews3 (2): 119–129. doi:10.1016/S1087-0792(99)90019-9.
+68. ↑ KRUEGER, JAMES M.; OBÄL, FERENC (1 June 1993). "A neuronal group theory of sleep function". Journal of Sleep Research2 (2): 63–69. doi:10.1111/j.1365-2869.1993.tb00064.x.
+69. ↑ Friborg, O., Bjorvatn, B., Amponsah, B., Pallesen, S. (2012). Associations between seasonal variations in day length (photoperiod), sleep timing, sleep quality and mood: a comparison between Ghana (5°) and Norway (69°). Journal of Sleep Research, 21(2), 176-184.)
+70. ↑ Neeraj K. Gupta,William H. Mueller,Wenyaw Chan, Janet C. Meininger (2002).: Is obesity associated with poor sleep quality in adolescents?. Am. J. Hum. Biol.; 14:762–768, 2002.
+71. ↑ Roth, T. (2007). "Insomnia: Definition, prevalence, etiology, and consequences". Journal of clinical sleep medicine : JCSM : official publication of the American Academy of Sleep Medicine3 (5 Suppl): S7–10.
+72. ↑ Wilson, Jennifer F. (2008). "Insomnia". Annals of Internal Medicine148: ITC1. doi:10.7326/0003-4819-148-1-200801010-01001
+73. ↑ Morin, C. M.; Koetter, U.; Bastien, C.; Ware, J. C.; Wooten, V. (2005). "Valerian-hops combination and diphenhydramine for treating insomnia: A randomized placebo-controlled clinical trial". Sleep28 (11): 1465–1471.
+74. ↑ Meolie, A. L.; Rosen, C. et al.: Clinical Practice Review Committee; American Academy of Sleep Medicine (2005). "Oral nonprescription treatment for insomnia: An evaluation of products with limited evidence". Journal of clinical sleep medicine: JCSM: official publication of the American Academy of Sleep Medicine1 (2): 173–187. PMID 17561634.
+75. ↑ 75.0 75.1 Van Dongen, HP; Maislin, G; Mullington, JM; Dinges, DF (2003-03-15). "The cumulative cost of additional wakefulness: dose-response effects on neurobehavioral functions and sleep physiology from chronic sleep restriction and total sleep deprivation.". Sleep26 (2): 117–26.
+76. ↑ Karine Spiegel, Rachel Leproult, BS, Eve Van Cauter.: Impact of sleep debt on metabolic and endocrine function. The lancet, Volume 354, Issue 9188, 23 October 1999, Pages 1435–1439.
+77. ↑ Chee, MW; Chuah, LY (August 2008). "Functional neuroimaging insights into how sleep and sleep deprivation affect memory and cognition.". Current Opinion in Neurology21 (4): 417–23.
+
+[REFERENCES / LINKS]
+1.0 : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-ref1_1-0
+1.1 : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-ref1_1-1
+2.0 : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-ref2_2-0
+2.1 : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-ref2_2-1
+3.0 : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-ref3_3-0
+3.1 : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-ref3_3-1
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-4
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-5
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-6
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-7
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-8
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-9
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-10
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-11
+sthaulya : https://www.carakasamhitaonline.com/index.php?title=Sthaulya&action=edit&redlink=1
+medoroga : https://www.carakasamhitaonline.com/index.php?title=Medoroga&action=edit&redlink=1
+ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-12
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-13
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-14
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-15
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-16
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-17
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-18
+19.0 : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-ref30_19-0
+19.1 : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-ref30_19-1
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-20
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-21
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-22
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-23
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-24
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-25
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-26
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-27
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-28
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-29
+30.0 : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-Susruta_30-0
+30.1 : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-Susruta_30-1
+30.2 : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-Susruta_30-2
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-31
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-32
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-33
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-34
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-35
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-36
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-37
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-38
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-39
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-40
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-41
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-42
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-43
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-44
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-45
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-46
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-47
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-48
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-49
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-50
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-51
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-52
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-53
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-54
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-55
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-56
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-57
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-58
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-59
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-60
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-61
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-62
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-63
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-64
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-65
+66.0 : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-ref74_66-0
+66.1 : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-ref74_66-1
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-67
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-68
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-69
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-70
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-71
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-72
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-73
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-74
+75.0 : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-ref85_75-0
+75.1 : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-ref85_75-1
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-76
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya#cite_ref-77
+
+
+[BLOCK 293: TEXT]
+----------------------------------------------------------------------
+Back to the Top
+
+
+[BLOCK 294: TEXT]
+----------------------------------------------------------------------
+NewPP limit report
+Cached time: 20261102071652
+Cache expiry: 86400
+Reduced expiry: false
+Complications: [vary‐revision‐id, show‐toc]
+CPU time usage: 0.144 seconds
+Real time usage: 0.373 seconds
+Preprocessor visited node count: 1385/1000000
+Post‐expand include size: 2567/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 3/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 39023/5000000 bytes
+Lua time usage: 0.140/7 seconds
+Lua virtual size: 20488192/209715200 bytes
+Lua estimated memory usage: 0 bytes
+
+
+[BLOCK 295: TEXT]
+----------------------------------------------------------------------
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 278.233 1 -total
+93.47% 260.051 1 Template:Infobox
+2.52% 7.005 1 Template:CiteButton
+
+
+[BLOCK 296: TEXT]
+----------------------------------------------------------------------
+Saved in parser cache with key carakas1_carakasa:pcache:idhash:75-0!canonical and timestamp 20261102071652 and revision id 44487. Rendering was triggered because: page-view
+
+
+[BLOCK 297: TEXT]
+----------------------------------------------------------------------
+Retrieved from "
+
+
+[BLOCK 298: TEXT]
+----------------------------------------------------------------------
+https://www.carakasamhitaonline.com/index.php?title=Ashtauninditiya_Adhyaya&oldid=44487
+
+
+[BLOCK 299: TEXT]
+----------------------------------------------------------------------
+"
+
+
+==========================================================================================
+END OF CHAPTER
+==========================================================================================

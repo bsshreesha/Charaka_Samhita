@@ -1,0 +1,1099 @@
+{
+    "source": "Charaka Samhita",
+    "chapter": "Shosha Nidana",
+    "url": "https://www.carakasamhitaonline.com/index.php?title=Shosha_Nidana",
+    "xpath": "//*[@id=\"content\"]",
+    "total_blocks": 176,
+    "total_tables": 1,
+    "total_headings": 21,
+    "content": [
+        {
+            "type": "h1",
+            "text": "Shosha Nidana",
+            "html": "<h1 class=\"firstHeading mw-first-heading\" id=\"firstHeading\"><span class=\"mw-page-title-main\">Shosha Nidana</span></h1>",
+            "level": 1
+        },
+        {
+            "type": "figure",
+            "text": "",
+            "html": "<figure class=\"mw-default-size mw-halign-right\" typeof=\"mw:File\"><a href=\"https://www.charakasamhitauptodate.com/index.php?title=Special:CiteThisPage&amp;page=Shosha_Nidana&amp;id=44502&amp;wpFormIdentifier=titleform\" rel=\"nofollow\"><img class=\"mw-file-element\" decoding=\"async\" height=\"47\" src=\"/images/5/58/Cite.png\" width=\"180\"/></a><figcaption></figcaption></figure>"
+        },
+        {
+            "type": "p",
+            "text": "Nidana Sthana Chapter 6. Diagnosis and etiopathogenesis of Progressive wasting disease",
+            "html": "<p><big><b>Nidana Sthana Chapter 6. Diagnosis and etiopathogenesis of Progressive wasting disease</b></big>\n</p>"
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "Section/Chapter",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Nidana Sthana Chapter 6",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Preceding Chapter",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Kushtha Nidana",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Succeeding Chapter",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Unmada Nidana",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Other Sections",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Sutra Sthana , Vimana Sthana , Sharira Sthana , Indriya Sthana , Chikitsa Sthana , Kalpa Sthana , Siddhi Sthana",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Translator and commentator",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Singh R.H., Sodhi J.S",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Reviewer",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Nimbalkar R., Ghadi R.",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Editors",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Khandel S.K, Godatwar P., Deole Y.S. , Basisht G.",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Year of publication",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "2020",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Publisher",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Charak Samhita Research, Training and Skill Development Centre",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "DOI",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "10.47468/CSNE.2020.e01.s02.007",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ]
+            ],
+            "html": "<table class=\"infobox\" style=\"width:22em\"><caption>Shosha Nidana</caption><tbody><tr><th scope=\"row\">Section/Chapter</th><td>\n<a href=\"/index.php?title=Nidana_Sthana\" title=\"Nidana Sthana\">Nidana Sthana</a> Chapter 6</td></tr><tr><th scope=\"row\">Preceding Chapter</th><td>\n<a href=\"/index.php?title=Kushtha_Nidana\" title=\"Kushtha Nidana\">Kushtha Nidana</a></td></tr><tr><th scope=\"row\">Succeeding Chapter</th><td>\n<a href=\"/index.php?title=Unmada_Nidana\" title=\"Unmada Nidana\">Unmada Nidana</a></td></tr><tr><th scope=\"row\">Other Sections</th><td>\n<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a>, <a href=\"/index.php?title=Vimana_Sthana\" title=\"Vimana Sthana\">Vimana Sthana</a>,  <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a>,  <a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a>, <a href=\"/index.php?title=Chikitsa_Sthana\" title=\"Chikitsa Sthana\">Chikitsa Sthana</a>, <a href=\"/index.php?title=Kalpa_Sthana\" title=\"Kalpa Sthana\">Kalpa Sthana</a>, <a href=\"/index.php?title=Siddhi_Sthana\" title=\"Siddhi Sthana\">Siddhi Sthana</a></td></tr><tr><th scope=\"row\">Translator and commentator</th><td>\nSingh R.H., Sodhi J.S</td></tr><tr><th scope=\"row\">Reviewer</th><td>\nNimbalkar R., Ghadi R.</td></tr><tr><th scope=\"row\">Editors</th><td>\nKhandel S.K, Godatwar P., <a href=\"/index.php?title=Yogesh_Deole\" title=\"Yogesh Deole\">Deole Y.S.</a>, <a href=\"/index.php?title=Gopal_Basisht\" title=\"Gopal Basisht\">Basisht G.</a></td></tr><tr><th scope=\"row\">Year of publication</th><td>\n2020</td></tr><tr><th scope=\"row\">Publisher</th><td>\n<a href=\"/index.php?title=Charak_Samhita_Research,_Training_and_Skill_Development_Centre\" title=\"Charak Samhita Research, Training and Skill Development Centre\">Charak Samhita Research, Training and Skill Development Centre</a></td></tr><tr><th scope=\"row\">DOI</th><td>\n<a class=\"external text\" href=\"https://doi.org/10.47468/CSNE.2020.e01.s02.007\" rel=\"nofollow\">10.47468/CSNE.2020.e01.s02.007</a></td></tr></tbody></table>"
+        },
+        {
+            "type": "p",
+            "text": "Abstract",
+            "html": "<p><big><b>Abstract</b></big>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "This chapter describes the basics of etiopathogenesis of progressive wasting disease termed as shosha roga and its culmination in rajayakshma vis-à-vis pulmonary tuberculosis. Shosha is characterized by severe depletion of tissues (also called phthisis) which could be a precursor of tuberculosis as known today which occurs due to tubercular infection, phthisis and immune-compromised state. Over exertion (sahasa), suppression of natural urges (vegavidharana), pre-existing emaciation (kshaya), and wrong dietary habits (vishamashana) are the four primary causes of shosha. These four basic factors lead to progressive loss of strength (including immunity), vitiating the three doshas and culminating in rajayakshma, a major organic disease that seems to be similar to various similar progressively wasting diseases presenting characteristically with signs and symptoms of Pulmonary Tuberculosis as seen today and has been described in great clinical and therapeutic detail in Rajayakshma Chikitsa . Keywords : kshaya , shosha , yakshma , sahasa , visamashana , Nidanarthakara Roga Vyadhiksamatva , Ojakshaya , chronic wasting diseases, Immune defense, Rasayana , exertion, improper dietary habits, suppression of natural urges, depletion of tissue.",
+            "html": "<p style=\"text-align:justify;\">This chapter describes the basics of etiopathogenesis of progressive wasting disease termed as shosha roga and its culmination in rajayakshma vis-à-vis pulmonary tuberculosis. Shosha is characterized by severe depletion of tissues (also called phthisis) which could be a precursor of tuberculosis as known today which occurs due to tubercular infection, phthisis and immune-compromised state. Over exertion (sahasa), suppression of natural urges (vegavidharana), pre-existing emaciation (kshaya), and wrong dietary habits (vishamashana) are the four primary causes of shosha.  These four basic factors lead to progressive loss of strength (including immunity), vitiating the three <a href=\"/index.php?title=Dosha\" title=\"Dosha\">doshas</a> and culminating in rajayakshma, a major organic disease that seems to be similar to various similar progressively wasting diseases presenting characteristically with signs and symptoms of Pulmonary Tuberculosis as seen today and has been described in great clinical and therapeutic detail in <a href=\"/index.php?title=Rajayakshma_Chikitsa\" title=\"Rajayakshma Chikitsa\">Rajayakshma Chikitsa </a>. <br/>\n<b>Keywords</b>: <i>kshaya</i>, <i>shosha</i>, <i>yakshma</i>, <i>sahasa</i>, <i>visamashana</i>, <i>Nidanarthakara Roga Vyadhiksamatva</i>, <i>Ojakshaya</i>, chronic wasting diseases, Immune defense, <i><a href=\"/index.php?title=Rasayana\" title=\"Rasayana\">Rasayana</a></i>, exertion, improper dietary habits, suppression of natural urges, depletion of tissue.\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "",
+            "html": "<p><br/>\n</p>"
+        },
+        {
+            "type": "h2",
+            "text": "Contents",
+            "html": "<h2 id=\"mw-toc-heading\">Contents</h2>",
+            "level": 2
+        },
+        {
+            "type": "ul",
+            "text": "1 Introduction 2 Sanskrit text, Transliteration and English Translation 2.1 Four Causes of shosha 2.1.1 1. Overexertion 2.1.2 2. Suppression of natural urges 2.1.3 3. Depletion of tissues 2.1.4 3a.Excessive sexual indulgence* 2.1.5 4. Irregular meals/Improper meals 2.2 Prodromal symptoms 2.3 Eleven symptoms 2.4 Prognosis of disease 2.5 Summary 3 Tattva Vimarsha (Fundamental Principles) 4 Vidhi Vimarsha (Applied Inferences) 4.1 Ojas (vital essence of the body) 4.2 Ancient Ayurvedic leads in Microbiology 4.3 Research Topics on this Subject 5 Further reading 5.1 Related Chapters",
+            "html": "<ul>\n<li class=\"toclevel-1 tocsection-1\"><a href=\"#Introduction\"><span class=\"tocnumber\">1</span> <span class=\"toctext\">Introduction</span></a></li>\n<li class=\"toclevel-1 tocsection-2\"><a href=\"#Sanskrit_text,_Transliteration_and_English_Translation\"><span class=\"tocnumber\">2</span> <span class=\"toctext\">Sanskrit text, Transliteration and English Translation</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-3\"><a href=\"#Four_Causes_of_shosha\"><span class=\"tocnumber\">2.1</span> <span class=\"toctext\">Four Causes of shosha</span></a>\n<ul>\n<li class=\"toclevel-3 tocsection-4\"><a href=\"#1._Overexertion\"><span class=\"tocnumber\">2.1.1</span> <span class=\"toctext\">1. Overexertion</span></a></li>\n<li class=\"toclevel-3 tocsection-5\"><a href=\"#2._Suppression_of_natural_urges\"><span class=\"tocnumber\">2.1.2</span> <span class=\"toctext\">2. Suppression of natural urges</span></a></li>\n<li class=\"toclevel-3 tocsection-6\"><a href=\"#3._Depletion_of_tissues\"><span class=\"tocnumber\">2.1.3</span> <span class=\"toctext\">3. Depletion of tissues</span></a></li>\n<li class=\"toclevel-3 tocsection-7\"><a href=\"#3a.Excessive_sexual_indulgence*\"><span class=\"tocnumber\">2.1.4</span> <span class=\"toctext\">3a.Excessive sexual indulgence*</span></a></li>\n<li class=\"toclevel-3 tocsection-8\"><a href=\"#4._Irregular_meals/Improper_meals\"><span class=\"tocnumber\">2.1.5</span> <span class=\"toctext\">4. Irregular meals/Improper meals</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-2 tocsection-9\"><a href=\"#Prodromal_symptoms\"><span class=\"tocnumber\">2.2</span> <span class=\"toctext\">Prodromal symptoms</span></a></li>\n<li class=\"toclevel-2 tocsection-10\"><a href=\"#Eleven_symptoms\"><span class=\"tocnumber\">2.3</span> <span class=\"toctext\">Eleven symptoms</span></a></li>\n<li class=\"toclevel-2 tocsection-11\"><a href=\"#Prognosis_of_disease\"><span class=\"tocnumber\">2.4</span> <span class=\"toctext\">Prognosis of disease</span></a></li>\n<li class=\"toclevel-2 tocsection-12\"><a href=\"#Summary\"><span class=\"tocnumber\">2.5</span> <span class=\"toctext\">Summary</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-13\"><a href=\"#Tattva_Vimarsha_(Fundamental_Principles)\"><span class=\"tocnumber\">3</span> <span class=\"toctext\">Tattva Vimarsha (Fundamental Principles)</span></a></li>\n<li class=\"toclevel-1 tocsection-14\"><a href=\"#Vidhi_Vimarsha_(Applied_Inferences)\"><span class=\"tocnumber\">4</span> <span class=\"toctext\">Vidhi Vimarsha (Applied Inferences)</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-15\"><a href=\"#Ojas_(vital_essence_of_the_body)\"><span class=\"tocnumber\">4.1</span> <span class=\"toctext\"><i>Ojas</i> (vital essence of the body)</span></a></li>\n<li class=\"toclevel-2 tocsection-16\"><a href=\"#Ancient_Ayurvedic_leads_in_Microbiology\"><span class=\"tocnumber\">4.2</span> <span class=\"toctext\">Ancient Ayurvedic leads in Microbiology</span></a></li>\n<li class=\"toclevel-2 tocsection-17\"><a href=\"#Research_Topics_on_this_Subject\"><span class=\"tocnumber\">4.3</span> <span class=\"toctext\">Research Topics on this Subject</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-18\"><a href=\"#Further_reading\"><span class=\"tocnumber\">5</span> <span class=\"toctext\">Further reading</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-19\"><a href=\"#Related_Chapters\"><span class=\"tocnumber\">5.1</span> <span class=\"toctext\">Related Chapters</span></a></li>\n</ul>\n</li>\n</ul>",
+            "items": [
+                "1 Introduction",
+                "2 Sanskrit text, Transliteration and English Translation 2.1 Four Causes of shosha 2.1.1 1. Overexertion 2.1.2 2. Suppression of natural urges 2.1.3 3. Depletion of tissues 2.1.4 3a.Excessive sexual indulgence* 2.1.5 4. Irregular meals/Improper meals 2.2 Prodromal symptoms 2.3 Eleven symptoms 2.4 Prognosis of disease 2.5 Summary",
+                "3 Tattva Vimarsha (Fundamental Principles)",
+                "4 Vidhi Vimarsha (Applied Inferences) 4.1 Ojas (vital essence of the body) 4.2 Ancient Ayurvedic leads in Microbiology 4.3 Research Topics on this Subject",
+                "5 Further reading 5.1 Related Chapters"
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Introduction",
+            "html": "<h2><span class=\"mw-headline\" id=\"Introduction\">Introduction</span></h2>",
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "There are three interrelated entities mentioned by Charak in three distinct chapters within Charak Samhita : Shosha Nidana [Cha.Sa. Nidana Sthana .6], rajayakshma [Cha.Sa. Chikitsa Sthana 8) and kshataksheena [Cha.Sa. Chikitsa Sthana 11).",
+            "html": "<p>There are three interrelated entities mentioned by Charak in three distinct chapters within <a class=\"mw-redirect\" href=\"/index.php?title=Charak_Samhita\" title=\"Charak Samhita\">Charak Samhita</a>: <a class=\"mw-selflink selflink\">Shosha Nidana</a> [Cha.Sa.<a href=\"/index.php?title=Nidana_Sthana\" title=\"Nidana Sthana\">Nidana Sthana</a>.6], <i>rajayakshma</i> [Cha.Sa.<a href=\"/index.php?title=Chikitsa_Sthana\" title=\"Chikitsa Sthana\">Chikitsa Sthana</a> 8) and <i>kshataksheena</i> [Cha.Sa.<a href=\"/index.php?title=Chikitsa_Sthana\" title=\"Chikitsa Sthana\">Chikitsa Sthana</a> 11). \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Shosha is the preparatory stage of gradual, generalized emaciation due to four distinct causative factors mentioned earlier which, if untreated or ignored, may lead to rajayakshma . One of the contributing factors of shosha is indicative of systemic depletion of dhatu occurring due to divergent causes. An important point to note here is that shosha is different from kshataksheena , a post-treatment stage of localized or generalized emaciation needing further intensive treatment.",
+            "html": "<p><i>Shosha</i> is the preparatory stage of gradual, generalized emaciation due to four distinct causative factors mentioned earlier which, if untreated or ignored, may lead to <i>rajayakshma</i>. One of the contributing factors of <i>shosha</i> is indicative of systemic depletion of <i><a href=\"/index.php?title=Dhatu\" title=\"Dhatu\">dhatu</a></i> occurring due to divergent causes. An important point to note here is that <i>shosha</i> is different from <i>kshataksheena</i>, a post-treatment stage of localized or generalized emaciation needing further intensive treatment.\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Another commonly used term for shosha is kshaya (emaciation). However, it is imperative to clarify here that while shosha and kshaya are contextually similar and synonymous to yakshma , the specific meaning in Charak Samhita is different for all the three stages of the disease. Ayurveda is not very stringent when it comes to discerning cause-effect. Cause and effect are largely considered a continuum. While discussing the issue of cause-effect relationship between kshaya-shosha-yakshma , the concept of nidanarthakara roga has also to be kept in mind where one known disease or a morbid state can play as the nidana of another disease. That is why, kshaya is sometimes mentioned as cause of shosha too. The word kshaya in this particular context refers to pre-existing kshaya . Kshaya is of two distinct types - anuloma kshaya and pratiloma kshaya . Anulomakshaya is caused by the initial depletion of the ojas rasa situated in the heart, while pratiloma kshaya occurs due to an excessive indulgence in sexual activities leading to the depletion of shukra dhatu which in turn leads to generalized vata vriddhi and vata induces shoshana of dhatus . Both these variants contribute to shoshana (qualitative and quantitative depletion of sharira dhatus or body tissues).",
+            "html": "<p>Another commonly used term for <i>shosha</i> is <i>kshaya</i> (emaciation). However, it is imperative to clarify here that while <i>shosha</i> and <i>kshaya</i> are contextually similar and synonymous to <i>yakshma</i> ,  the specific meaning in <a class=\"mw-redirect\" href=\"/index.php?title=Charak_Samhita\" title=\"Charak Samhita\">Charak Samhita</a> is different for all the three stages of the disease. <a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a> is not very stringent when it comes to discerning cause-effect. Cause and effect are largely considered a continuum. While discussing the issue of cause-effect relationship between <i>kshaya-shosha-yakshma</i>, the concept of <i>nidanarthakara roga</i> has also to be kept in mind where one known disease or a morbid state can play as the <i>nidana</i> of another disease. That is why, <i>kshaya</i> is sometimes mentioned as cause of <i>shosha</i> too. The word <i>kshaya</i> in this particular context refers to pre-existing <i>kshaya</i>. <i>Kshaya</i> is of two distinct types - <i>anuloma kshaya</i> and <i>pratiloma kshaya</i>. <i>Anulomakshaya</i> is caused by the initial depletion of the <i><a href=\"/index.php?title=Ojas\" title=\"Ojas\">ojas</a> rasa</i> situated in the heart, while <i>pratiloma kshaya</i> occurs due to an excessive indulgence in sexual activities leading to the depletion of <i><a href=\"/index.php?title=Shukra_dhatu\" title=\"Shukra dhatu\">shukra dhatu</a></i> which in turn leads to generalized <i><a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a> vriddhi</i> and <i><a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a></i> induces <i>shoshana</i> of <i><a href=\"/index.php?title=Dhatu\" title=\"Dhatu\">dhatus</a></i>. Both these variants contribute to <i>shoshana</i> (qualitative and quantitative depletion of <i>sharira <a href=\"/index.php?title=Dhatu\" title=\"Dhatu\">dhatus</a></i> or body tissues).\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Shosha and kshaya can be considered as independent clinical entities warranting independent strategies for diagnosis and treatment. Either of these may prove to be a nidanarthakara factor for the occurrence of rajayakshma (i.e., if shosha or kshaya are left untreated, could lead to rajayakshma ). Shosha is essentially a state of intractable emaciation, cachexia or consumption that could be equated to phthisis. It could be considered to be an intermediate state that may not necessarily exhibit any evidence of tubercular infection but because of persistent dhatu kshaya (depletion of tissues) it could be logically associated with an immunocompromised state. Some patients may catch infections that may manifest into a febrile state with probable bacteriological invasion warranting appropriate treatment on the lines of rajayakshma . Because shosha and kshaya are intermediary states that are more of diagnostic significance than of significance from a core treatment perspective. Charak wrote the chapter on shosha in Nidana Sthana , while on rajayakshma in Chikitsa Sthana with the same motive.",
+            "html": "<p><i>Shosha</i> and <i>kshaya</i> can be considered as independent clinical entities warranting independent strategies for diagnosis and treatment. Either of these may prove to be a <i>nidanarthakara</i> factor for the occurrence of <i>rajayakshma</i> (i.e., if <i>shosha</i> or <i>kshaya</i> are left untreated, could lead to <i>rajayakshma</i>). <i>Shosha</i> is essentially a state of intractable emaciation, cachexia or consumption that could be equated to phthisis. It could be considered to be an intermediate state that may not necessarily exhibit any evidence of tubercular infection but because of persistent <i><a href=\"/index.php?title=Dhatu\" title=\"Dhatu\">dhatu</a> kshaya</i>(depletion of tissues) it could be logically associated with an immunocompromised state. Some patients may catch infections that may manifest into a febrile state with probable bacteriological invasion warranting appropriate treatment on the lines of <i>rajayakshma</i>. Because <i>shosha</i> and <i>kshaya</i> are intermediary states that are more of diagnostic significance than of significance from a core treatment perspective. Charak wrote the chapter on <i>shosha</i> in <a href=\"/index.php?title=Nidana_Sthana\" title=\"Nidana Sthana\">Nidana Sthana</a> , while on <i>rajayakshma</i> in <a href=\"/index.php?title=Chikitsa_Sthana\" title=\"Chikitsa Sthana\">Chikitsa Sthana</a> with the same motive.\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "It may appear that shosha and rajayakshma are synonymous because in this chapter there are brief descriptions of poorvarupa (preliminary signs) and ekadasha rupa (advanced stage) of yakshma . However, the manifestation of rajayakshma has been described in detail only in the Chikitsa Sthana .",
+            "html": "<p>It may appear that <i>shosha</i> and <i>rajayakshma</i> are synonymous because in this chapter there are brief descriptions of <i>poorvarupa</i> (preliminary signs) and <i>ekadasha rupa</i> (advanced stage) of <i>yakshma</i>. However, the manifestation of <i>rajayakshma</i> has been described in detail only in the <a href=\"/index.php?title=Chikitsa_Sthana\" title=\"Chikitsa Sthana\">Chikitsa Sthana</a>.\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "While the focus of this chapter is to delineate the views of Charak, Sushruta in his text differs in his views on the relationship between shosha and yakshma . While Charak considers them as dependent entities as mentioned above, Susruta considers shosha distinctly different disease that could manifest itself in any of seven different variants caused by seven different causative factors ( vyavaya or excessive sexual indulgence, shoka or sorrow, jara or rapid aging process, vyayama or excessive exercise, adhwagaman or excessive travelling, vrana or wound/trauma, and urakshata or chest injury.",
+            "html": "<p>While the focus of this chapter is to delineate the views of Charak, Sushruta in his text differs in his views on the relationship between <i>shosha</i> and <i>yakshma</i>. While Charak considers them as dependent entities as mentioned above, Susruta considers <i>shosha</i> distinctly different disease that could manifest itself in any of seven different variants caused by seven different causative factors (<i>vyavaya</i> or excessive sexual indulgence, <i>shoka</i> or sorrow, <i>jara</i> or rapid aging process, <i><a href=\"/index.php?title=Vyayama\" title=\"Vyayama\">vyayama</a></i> or excessive exercise, <i>adhwagaman</i> or excessive travelling, <i>vrana</i> or wound/trauma, and <i>urakshata</i> or chest injury.\n</p>"
+        },
+        {
+            "type": "h2",
+            "text": "Sanskrit text, Transliteration and English Translation",
+            "html": "<h2><span id=\"Sanskrit_text.2C_Transliteration_and_English_Translation\"></span><span class=\"mw-headline\" id=\"Sanskrit_text,_Transliteration_and_English_Translation\">Sanskrit text, Transliteration and English Translation</span></h2>",
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "अथातःशोषनिदानंव्याख्यास्यामः||१||",
+            "html": "<p>अथातःशोषनिदानंव्याख्यास्यामः||१|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "इतिहस्माहभगवानात्रेयः||२||",
+            "html": "<p>इतिहस्माहभगवानात्रेयः||२||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "AthÁtah ÐoÒanidÁnam vyÁkhyÁsyÁmah ||1||",
+            "html": "<p>AthÁtah ÐoÒanidÁnam vyÁkhyÁsyÁmah ||1|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "iti ha smÁha bhagavÁnÁtreyah ||2||",
+            "html": "<p>iti ha smÁha bhagavÁnÁtreyah ||2||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Now we shall expound the chapter \"Shosha Nidana\" (Diagnosis and etiopathogenesis of Progressive wasting disease). Thus said Lord Atreya. [1-2]",
+            "html": "<p>Now we shall expound the chapter \"Shosha Nidana\" (Diagnosis and etiopathogenesis of Progressive wasting disease). Thus said Lord Atreya. [1-2]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Four Causes of shosha",
+            "html": "<h3><span class=\"mw-headline\" id=\"Four_Causes_of_shosha\">Four Causes of shosha</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "इहखलुचत्वारिशोषस्यायतनानिभवन्ति|",
+            "html": "<p>इहखलुचत्वारिशोषस्यायतनानिभवन्ति|\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "तद्यथा- साहसंसन्धारणंक्षयोविषमाशनमिति||३||",
+            "html": "<p>तद्यथा- साहसंसन्धारणंक्षयोविषमाशनमिति||३||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Ih khalu catvÁri ÐoÒasyÁyatanÁni bhavanti",
+            "html": "<p>Ih khalu catvÁri ÐoÒasyÁyatanÁni bhavanti\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "tadyathÁ- sÁhasam sa¿dhÁranam kÒayo viÒamÁÐanamiti ||3||",
+            "html": "<p>tadyathÁ- sÁhasam sa¿dhÁranam kÒayo viÒamÁÐanamiti ||3||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "There are four causes of shosha : overexertion, suppression of urges, wasting, and irregular consumption of improper food articles [3].",
+            "html": "<p>There are four causes of <i>shosha</i>: overexertion, suppression of urges, wasting, and irregular consumption of improper food articles [3]. \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Each of these causes will be explained here in detail:",
+            "html": "<p>Each of these causes will be explained here in detail:\n</p>"
+        },
+        {
+            "type": "h4",
+            "text": "1. Overexertion",
+            "html": "<h4><span class=\"mw-headline\" id=\"1._Overexertion\">1. Overexertion</span></h4>",
+            "level": 4
+        },
+        {
+            "type": "p",
+            "text": "तत्रसाहसंशोषस्यायतनमितियदुक्तंतदनुव्याख्यास्यामः-",
+            "html": "<p>तत्रसाहसंशोषस्यायतनमितियदुक्तंतदनुव्याख्यास्यामः- \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "यदापुरुषोदुर्बलोहिसन्बलवतासहविगृह्णाति, अतिमहतावाधनुषाव्यायच्छति, जल्पतिवाऽप्यतिमात्रम्, अतिमात्रंवाभारमुद्वहति,\nअप्सुवाप्लवतेचातिदूरम्, उत्सादनपदाघातनेवाऽतिप्रगाढमासेवते, अतिप्रकृष्टंवाऽध्वानंद्रुतमभिपतति, अभिहन्यतेवा, अन्यद्वाकिञ्चिदेवंविधंविषममतिमात्रंवाव्यायामजातमारभते,\nतस्यातिमात्रेणकर्मणोरःक्षण्यते|",
+            "html": "<p>यदापुरुषोदुर्बलोहिसन्बलवतासहविगृह्णाति, अतिमहतावाधनुषाव्यायच्छति, जल्पतिवाऽप्यतिमात्रम्, अतिमात्रंवाभारमुद्वहति, \nअप्सुवाप्लवतेचातिदूरम्, उत्सादनपदाघातनेवाऽतिप्रगाढमासेवते, अतिप्रकृष्टंवाऽध्वानंद्रुतमभिपतति, अभिहन्यतेवा, अन्यद्वाकिञ्चिदेवंविधंविषममतिमात्रंवाव्यायामजातमारभते, \nतस्यातिमात्रेणकर्मणोरःक्षण्यते| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "तस्योरःक्षतमुपप्लवतेवायुः|",
+            "html": "<p>तस्योरःक्षतमुपप्लवतेवायुः| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "सतत्रावस्थितःश्लेष्माणमुरःस्थमुपसङ्गृह्यपित्तंचदूषयन्विहरत्यूर्ध्वमधस्तिर्यक्च|",
+            "html": "<p>सतत्रावस्थितःश्लेष्माणमुरःस्थमुपसङ्गृह्यपित्तंचदूषयन्विहरत्यूर्ध्वमधस्तिर्यक्च| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "तस्ययोंऽशःशरीरसन्धीनाविशतितेनास्यजृम्भाऽङ्गमर्दोज्वरश्चोपजायते, यस्त्वामाशयमभ्युपैतितेनरोगाभवन्तिउरस्याअरोचकश्चयःकण्ठमभिप्रपद्यतेकण्ठस्तेनोद्ध्वंस्यतेस्वरश्चावसीदति, यः\nप्राणवहानिस्रोतांस्यन्वेतितेनश्वासःप्रतिश्यायश्चजायते, यःशिरस्यवतिष्ठतेशिरस्तेनोपहन्यते|",
+            "html": "<p>तस्ययोंऽशःशरीरसन्धीनाविशतितेनास्यजृम्भाऽङ्गमर्दोज्वरश्चोपजायते, यस्त्वामाशयमभ्युपैतितेनरोगाभवन्तिउरस्याअरोचकश्चयःकण्ठमभिप्रपद्यतेकण्ठस्तेनोद्ध्वंस्यतेस्वरश्चावसीदति, यः\nप्राणवहानिस्रोतांस्यन्वेतितेनश्वासःप्रतिश्यायश्चजायते, यःशिरस्यवतिष्ठतेशिरस्तेनोपहन्यते|\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "ततःक्षणनाच्चैवोरसोविषमगतित्वाच्चवायोःकण्ठस्यचोद्ध्वंसनात्कासःसततमस्यसञ्जायते,\nसकासप्रसङ्गादुरसिक्षतेशोणितंष्ठीवति, शोणितागमनाच्चास्यदौर्बल्यमुपजायते; एवमेतेसाहसप्रभवाःसाहसिकमुपद्रवाःस्पृशन्ति|",
+            "html": "<p>ततःक्षणनाच्चैवोरसोविषमगतित्वाच्चवायोःकण्ठस्यचोद्ध्वंसनात्कासःसततमस्यसञ्जायते, \nसकासप्रसङ्गादुरसिक्षतेशोणितंष्ठीवति, शोणितागमनाच्चास्यदौर्बल्यमुपजायते; एवमेतेसाहसप्रभवाःसाहसिकमुपद्रवाःस्पृशन्ति| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "ततःसउपशोषणैरेतैरुपद्रवैरुपद्रुतःशनैःशनैरुपशुष्यति|",
+            "html": "<p>ततःसउपशोषणैरेतैरुपद्रवैरुपद्रुतःशनैःशनैरुपशुष्यति| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "तस्मात्पुरुषोमतिमान्बलमात्मनःसमीक्ष्यतदनुरूपाणिकर्माण्यारभेतकर्तुं|",
+            "html": "<p>तस्मात्पुरुषोमतिमान्बलमात्मनःसमीक्ष्यतदनुरूपाणिकर्माण्यारभेतकर्तुं|\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "बलसमाधानंहिशरीरं, शरीरमूलश्चपुरुषइति||४||",
+            "html": "<p>बलसमाधानंहिशरीरं, शरीरमूलश्चपुरुषइति||४|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "भवतिचात्र-",
+            "html": "<p>भवतिचात्र- \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "साहसंवर्जयेत्कर्मरक्षञ्जीवितमात्मनः|",
+            "html": "<p>साहसंवर्जयेत्कर्मरक्षञ्जीवितमात्मनः|\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "जीवन्हिपुरुषस्त्विष्टंकर्मणःफलमश्नुते||५||",
+            "html": "<p>जीवन्हिपुरुषस्त्विष्टंकर्मणःफलमश्नुते||५||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Tatra sÁhasam ÐoÒasyÁyatanamiti yaduktam tadanu vyÁkhyÁsyÁmah -",
+            "html": "<p>Tatra sÁhasam ÐoÒasyÁyatanamiti yaduktam tadanu vyÁkhyÁsyÁmah - \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "yadÁ puruÒo durbalo hi san balavatÁ saha vigruhnÁti, atimahatÁ vÁ dhanuÒÁ vyÁyacachati,jalpativÁ~apyatimÁtram, atimÁtramvÁ bhÁramudvahati, apsuvÁ plavateca atidÚram, utsÁdanapadÁghÁtane vÁ~atipragÁ±hamÁsevate, atiprakruÒÔamvÁ~adhvÁnamdrutamabhipatati,abhihanyatevÁ, anyadvÁ kijcidevamvidhamviÒamam atimÁtramvÁ vyÁyÁmajÁtamÁrabhate, tasyÁtimÁtreÆakarmaÆorahkÒanyate|tasyorahkÒatamupaplavatevÁyuh |",
+            "html": "<p>yadÁ puruÒo durbalo hi san balavatÁ saha vigruhnÁti, atimahatÁ  vÁ dhanuÒÁ  vyÁyacachati,jalpativÁ~apyatimÁtram, atimÁtramvÁ bhÁramudvahati, apsuvÁ plavateca atidÚram, utsÁdanapadÁghÁtane vÁ~atipragÁ±hamÁsevate, atiprakruÒÔamvÁ~adhvÁnamdrutamabhipatati,abhihanyatevÁ, anyadvÁ kijcidevamvidhamviÒamam atimÁtramvÁ vyÁyÁmajÁtamÁrabhate, tasyÁtimÁtreÆakarmaÆorahkÒanyate|tasyorahkÒatamupaplavatevÁyuh |\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Sa tatravasthitah ÐleÒmÁÆam urahsthamupasagruhya pittam ca dÚÒayan viharaty Úrdhvamadhastiryak Ca |",
+            "html": "<p>Sa tatravasthitah ÐleÒmÁÆam urahsthamupasagruhya pittam ca  dÚÒayan viharaty Úrdhvamadhastiryak Ca | \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "tasya yomaÐah ÐarÍrasandhÍnÁviÐati tenÁsya jªambhÁ angamardo jvaraÐcopajÁyate, yastvÁmÁÐayamabhyupaiti tena rogÁ bhavanti urasyÁ arocakaÐca yah kaÆÔhamabhiprapadyate kaÆÔhastenoddhvamsyate svaraÐcavasÍdati, yah prÁÆavahÁni srotÁmsyanveti tena ÐvÁsah pratiÐyÁyashca jÁyate, yah ÐirasyavatiÒÔhate Ðirastenopahanyate|",
+            "html": "<p>tasya yomaÐah ÐarÍrasandhÍnÁviÐati tenÁsya jªambhÁ angamardo jvaraÐcopajÁyate, yastvÁmÁÐayamabhyupaiti tena rogÁ bhavanti urasyÁ arocakaÐca yah kaÆÔhamabhiprapadyate kaÆÔhastenoddhvamsyate svaraÐcavasÍdati, yah prÁÆavahÁni srotÁmsyanveti tena  ÐvÁsah pratiÐyÁyashca jÁyate, yah ÐirasyavatiÒÔhate Ðirastenopahanyate|\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "tatah kÒaÆana ca caiv uraso viÒamagatitvÁcca vÁyoh kaÆÔhasya coddhvamsanÁt kÁsah satatamasya sa¿jÁyate, sakÁsaprasa¿gÁdurasi kÒhate ÐoÆitam ÒaÔhÍvati, ÐoÆitatÁgamanÁt ca asya dauªbalyamupajÁyate|",
+            "html": "<p>tatah kÒaÆana ca caiv uraso viÒamagatitvÁcca vÁyoh kaÆÔhasya coddhvamsanÁt kÁsah satatamasya sa¿jÁyate, sakÁsaprasa¿gÁdurasi kÒhate ÐoÆitam ÒaÔhÍvati, ÐoÆitatÁgamanÁt ca asya dauªbalyamupajÁyate|\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "evamete sÁhasaprabhavÁh sÁhasikamupadravÁh spªuÐanti |",
+            "html": "<p>evamete sÁhasaprabhavÁh sÁhasikamupadravÁh spªuÐanti | \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "tatah sa upaÐoÒaÆairetairÚpadravairÚpadrutah Ðanaih ÐanairupaÐuÒyati |",
+            "html": "<p>tatah sa  upaÐoÒaÆairetairÚpadravairÚpadrutah Ðanaih ÐanairupaÐuÒyati | \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "tasmÁt purÚÒo matimÁn balamÁtmanah samÍkÒya tadanurÚpÁÆi karmÁÆyÁrabheta kartu¿|",
+            "html": "<p>tasmÁt purÚÒo matimÁn balamÁtmanah samÍkÒya tadanurÚpÁÆi karmÁÆyÁrabheta kartu¿|\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "balasamÁdhÁnam hi ÐarÍram, ÐarÍramÚlaÐca purÚÒa iti ||4||",
+            "html": "<p>balasamÁdhÁnam hi ÐarÍram, ÐarÍramÚlaÐca purÚÒa iti ||4|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Bhavati cÁtra-",
+            "html": "<p>Bhavati cÁtra-\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "sÁhasam varjayet karma rakÒatjÍvitamÁtmanah|",
+            "html": "<p>sÁhasam varjayet karma rakÒatjÍvitamÁtmanah| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "jÍvan hi purÚÒastviÒÔam karmaÆah phalamaÐnute ||5||",
+            "html": "<p>jÍvan hi purÚÒastviÒÔam karmaÆah phalamaÐnute ||5||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "When a weak person fights against a strong one, or exercises with an excessively large (or weighty) bow (weapon), or speaks too much, or physically carries a lot of weight, or swims across a long distance in water, or is habitually subjected to forceful massage including kneading with feet, or sprints over a long distance, or is assaulted, or practices various complicated or excessive physical exercises, his lungs are “traumatized” due to excessive exertion. This aggravates vayu in the lung region, taking along kapha residing in the lungs while also affecting pitta , causing the vitiated doshas to spread upwards, downwards and obliquely. A portion of this afflicted dosha system that gets into body joints causes yawning, body ache, and fever. That which gets into the amashaya causes diseases of lungs and anorexia. That which gets into the throat causes irritation of the throat and hoarseness of voice. That which gets into the channels carrying vital breath (bronchial channels) causes dyspnea and coryza. And that which gets into the head produces distress in the head. Thus, due to wound in lungs, irregular movement of vayu causes a variety of diseases depending upon the organs it gets into. The lungs get damaged further, triggering conditions such as hemoptysis and consequently weakening the patient. This verse, therefore, advises the reader to engage in laborious activities appropriate to his strength and not overexert himself. [4-5]",
+            "html": "<p>When a weak person fights against a strong one, or exercises with an excessively large (or weighty) bow (weapon), or speaks too much, or physically carries a lot of weight, or swims across a long distance in water, or is habitually subjected to forceful massage including kneading with feet, or sprints over a long distance, or is assaulted, or practices various complicated or excessive physical exercises, his lungs are “traumatized” due to excessive exertion. This aggravates <i>vayu</i> in the lung region, taking along <i><a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a></i> residing in the lungs while also affecting <i><a href=\"/index.php?title=Pitta\" title=\"Pitta\">pitta</a></i>, causing the vitiated <i><a href=\"/index.php?title=Dosha\" title=\"Dosha\">doshas</a></i> to spread upwards, downwards and obliquely. A portion of this afflicted <i><a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a></i> system that gets into body joints causes yawning, body ache, and fever. That which gets into the <i>amashaya</i> causes diseases of lungs and anorexia. That which gets into the throat causes irritation of the throat and hoarseness of voice. That which gets into the channels carrying vital breath (bronchial channels) causes dyspnea and coryza. And that which gets into the head produces distress in the head. Thus, due to wound in lungs, irregular movement of <i>vayu</i> causes a variety of diseases depending upon the organs it gets into. The lungs get damaged further, triggering conditions such as hemoptysis and consequently weakening the patient. This verse, therefore, advises the reader to engage in laborious activities appropriate to his strength and not overexert himself. [4-5]\n</p>"
+        },
+        {
+            "type": "h4",
+            "text": "2. Suppression of natural urges",
+            "html": "<h4><span class=\"mw-headline\" id=\"2._Suppression_of_natural_urges\">2. Suppression of natural urges</span></h4>",
+            "level": 4
+        },
+        {
+            "type": "p",
+            "text": "सन्धारणंशोषस्यायतनमितियदुक्तंतदनुव्याख्यास्यामः-",
+            "html": "<p>सन्धारणंशोषस्यायतनमितियदुक्तंतदनुव्याख्यास्यामः- \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "यदापुरुषोराजसमीपेभर्तुःसमीपेवागुरोर्वापादमूलेद्यूतसभमन्यंवासतांसमाजंस्त्रीमध्यंवासमनुप्रविश्ययानैर्वाऽ\nप्युच्चावचैरभियान्भयात्प्रसङ्गाद्ध्रीमत्त्वाद्धृणित्वाद्वानिरुणद्ध्यागतान्वातमूत्रपुरीषवेगान्तदातस्यसन्धारणाद्वायुःप्रकोपमापद्यते, सप्रकुपितःपित्तश्लेष्माणौसमुदीर्योर्ध्वमधस्तिर्यक्चविहरति;\nततश्चांशविशेषेणपूर्ववच्छरीरावयवविशेषंप्रविश्यशूलमुपजनयति, भिनत्तिपुरीषमुच्छोषयतिवा, पार्श्वेचातिरुजति, अंसाववमृद्गाति, कण्ठमुरश्चावधमति, शिरश्चोपहन्ति,\nकासंश्वासंज्वरंस्वरभेदंप्रतिश्यायंचोपजनयति|",
+            "html": "<p>यदापुरुषोराजसमीपेभर्तुःसमीपेवागुरोर्वापादमूलेद्यूतसभमन्यंवासतांसमाजंस्त्रीमध्यंवासमनुप्रविश्ययानैर्वाऽ\nप्युच्चावचैरभियान्भयात्प्रसङ्गाद्ध्रीमत्त्वाद्धृणित्वाद्वानिरुणद्ध्यागतान्वातमूत्रपुरीषवेगान्तदातस्यसन्धारणाद्वायुःप्रकोपमापद्यते, सप्रकुपितःपित्तश्लेष्माणौसमुदीर्योर्ध्वमधस्तिर्यक्चविहरति; \nततश्चांशविशेषेणपूर्ववच्छरीरावयवविशेषंप्रविश्यशूलमुपजनयति, भिनत्तिपुरीषमुच्छोषयतिवा, पार्श्वेचातिरुजति, अंसाववमृद्गाति, कण्ठमुरश्चावधमति, शिरश्चोपहन्ति, \nकासंश्वासंज्वरंस्वरभेदंप्रतिश्यायंचोपजनयति|\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "ततःसउपशोषणैरेतैरुपद्रवैरुपद्रुतःशनैःशनैरुपशुष्यति|",
+            "html": "<p>ततःसउपशोषणैरेतैरुपद्रवैरुपद्रुतःशनैःशनैरुपशुष्यति| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "तस्मात्पुरुषोमतिमानात्मनःशारीरेष्वेवयोगक्षेमकरेषुप्रयतेतविशेषेण; शरीरंह्यस्यमूलं, शरीरमूलश्चपुरुषोभवति||६||",
+            "html": "<p>तस्मात्पुरुषोमतिमानात्मनःशारीरेष्वेवयोगक्षेमकरेषुप्रयतेतविशेषेण; शरीरंह्यस्यमूलं, शरीरमूलश्चपुरुषोभवति||६|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "भवतिचात्र-",
+            "html": "<p>भवतिचात्र- \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "सर्वमन्यत्परित्यज्यशरीरमनुपालयेत्|",
+            "html": "<p>सर्वमन्यत्परित्यज्यशरीरमनुपालयेत्| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "तदभावेहिभावानांसर्वाभावःशरीरिणाम्||७||",
+            "html": "<p>तदभावेहिभावानांसर्वाभावःशरीरिणाम्||७||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "sa¿dhÁranam ÐoÒasyÁyatanamiti yaduktam tadanuvyÁkhyÁsyÁmah -",
+            "html": "<p>sa¿dhÁranam ÐoÒasyÁyatanamiti yaduktam tadanuvyÁkhyÁsyÁmah - \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "yadÁ purÚÒo rÁjasamÍpe bhartuh samÍpe vÁ gurorvÁ pÁdamÚle dyÚtasabhamanyam vÁ satÁm samÁjam strÍmadhyam vÁ samanupraviÐya yÁnairvÁ apyuccÁvacairabhiyÁn bhayÁt prasa¿gÁddhrÍmattvÁddhªuÆitvÁdvÁ nirÚÆaddhyÁgatÁn vÁtamÚtrapurÍÒavegÁn tadÁ tasya sa¿dhÁranÁdvÁyuh prakopamÁpadyate, sa prakupitah pittaÐleÒmÁÆau samudÍryordhvamadhastiryaka ca viharati|",
+            "html": "<p>yadÁ purÚÒo rÁjasamÍpe bhartuh samÍpe vÁ gurorvÁ pÁdamÚle dyÚtasabhamanyam vÁ satÁm samÁjam strÍmadhyam vÁ samanupraviÐya  yÁnairvÁ apyuccÁvacairabhiyÁn bhayÁt prasa¿gÁddhrÍmattvÁddhªuÆitvÁdvÁ nirÚÆaddhyÁgatÁn vÁtamÚtrapurÍÒavegÁn tadÁ tasya sa¿dhÁranÁdvÁyuh prakopamÁpadyate,  sa prakupitah pittaÐleÒmÁÆau samudÍryordhvamadhastiryaka ca viharati|\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "tataÐcÁ¿ÐaviÐeÒeÆa pÚrvavaccharÍrÁvayavaviÐeÒeÆam praviÐya ÐÚlamupajanayati, bhinatti purÍÒamucchoÒayati vÁ, pÁrÐve cÁtirujati, a¿sÁvavamªudgÁti, kaÆÔhamuraÐcÁvadhamati, shiraÐcopahanti, kÁsam ÐvÁsam jvaram svarabhedam pratiÐyÁyam copajanayati; tatah sa upaÐoÒaÆairetairÚpadravairÚpadrutah Ðanaih ÐanairÚpaÐuÒyati |",
+            "html": "<p>tataÐcÁ¿ÐaviÐeÒeÆa pÚrvavaccharÍrÁvayavaviÐeÒeÆam praviÐya ÐÚlamupajanayati, bhinatti purÍÒamucchoÒayati vÁ, pÁrÐve cÁtirujati, a¿sÁvavamªudgÁti, kaÆÔhamuraÐcÁvadhamati, shiraÐcopahanti, kÁsam ÐvÁsam jvaram svarabhedam pratiÐyÁyam copajanayati; tatah sa upaÐoÒaÆairetairÚpadravairÚpadrutah Ðanaih ÐanairÚpaÐuÒyati | \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "tasmÁt purÚÒo matimÁnÁtmanah ÐÁrÍreÒveva yogakÒemakareÒu prayateta viÐeÒeÆa; ÐÁrÍram hyasya mÚlam, ÐÁrÍramÚlaÐca purÚÒo bhavati ||6||",
+            "html": "<p>tasmÁt purÚÒo matimÁnÁtmanah ÐÁrÍreÒveva yogakÒemakareÒu prayateta viÐeÒeÆa; ÐÁrÍram hyasya mÚlam, ÐÁrÍramÚlaÐca purÚÒo bhavati ||6||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "bhavati cÁtra-",
+            "html": "<p>bhavati cÁtra-\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "sarvamanyat parityajya ÐÁrÍramanupÁlayet |",
+            "html": "<p>sarvamanyat parityajya ÐÁrÍramanupÁlayet |\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "tadabhÁve hi bhÁvÁnÁm sarvÁbhÁvah ÐÁrÍriÆÁm ||7||",
+            "html": "<p>tadabhÁve hi bhÁvÁnÁm sarvÁbhÁvah ÐÁrÍriÆÁm ||7||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "When a person suppresses the urge to pass flatulence, urination, and bowel movement due to various reasons such as attending a royalty, being in a formal setting (in the company of sages, teachers, nobles, etc), being in the midst of women, society of gambling, or while traveling on uneven vehicle, or due to fear, environment, bashfulness or disgust, vayu gets vitiated due to suppression of urges. This vitiated vayu aggravates pitta and/or kapha , spreading upwards, downwards or obliquely depending upon the combination of afflicted doshas . As said earlier, when a portion gets into specific body parts, it causes pain, diarrhea or drying up of feces, excessive pain in sides of the chest, pain in the shoulders, irritation in throat and lungs, headache, cough, dyspnea, fever, hoarseness of voice and coryza. Thereafter, having been afflicted with these wasting complications, the patient gradually gets afflicted with shosha . Hence the wise should carefully observe the ways that promote and protect the body.",
+            "html": "<p>When a person suppresses the urge to pass flatulence, urination, and bowel movement due to various reasons such as attending a royalty, being in a formal setting (in the company of sages, teachers, nobles, etc), being in the midst of women, society of gambling, or while traveling on uneven vehicle, or due to fear, environment, bashfulness or disgust, <i>vayu</i> gets vitiated due to suppression of urges. This vitiated <i>vayu</i> aggravates <i><a href=\"/index.php?title=Pitta\" title=\"Pitta\">pitta</a></i> and/or <i><a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a></i>, spreading upwards, downwards or obliquely depending upon the combination of afflicted <i><a href=\"/index.php?title=Dosha\" title=\"Dosha\">doshas</a></i>. As said earlier, when a portion gets into specific body parts, it causes pain, diarrhea or drying up of feces, excessive pain in sides of the chest, pain in the shoulders, irritation in throat and lungs, headache, cough, dyspnea, fever, hoarseness of voice and coryza. Thereafter, having been afflicted with these wasting complications, the patient gradually gets afflicted with <i>shosha</i>. Hence the wise should carefully observe the ways that promote and protect the body.\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Here is the verse: Setting all other things aside, one should protect the body, because in its absence there will be complete absence of all the bodily entities. [6-7]",
+            "html": "<p>Here is the verse: Setting all other things aside, one should protect the body, because in its absence there will be complete absence of all the bodily entities. [6-7]\n</p>"
+        },
+        {
+            "type": "h4",
+            "text": "3. Depletion of tissues",
+            "html": "<h4><span class=\"mw-headline\" id=\"3._Depletion_of_tissues\">3. Depletion of tissues</span></h4>",
+            "level": 4
+        },
+        {
+            "type": "p",
+            "text": "क्षयःशोषस्यायतनमितियदुक्तंतदनुव्याख्यास्यामः-",
+            "html": "<p>क्षयःशोषस्यायतनमितियदुक्तंतदनुव्याख्यास्यामः- \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "यदापुरुषोऽतिमात्रंशोकचिन्तापरिगतहृदयोभवति, ईर्ष्योत्कण्ठाभयक्रोधादिभिर्वासमाविश्यते, कृशोवासन्रूक्षान्नपानसेवीभवति, दुर्बलप्रकृतिरनाहारोऽल्पाहारोवाभवति, तदातस्यहृदयस्थायीरसःक्षयमुपैति; सतस्योपक्षयाच्छोषंप्राप्नोति, अप्रतीकाराच्चानुबध्यतेयक्ष्मणा |",
+            "html": "<p>यदापुरुषोऽतिमात्रंशोकचिन्तापरिगतहृदयोभवति, ईर्ष्योत्कण्ठाभयक्रोधादिभिर्वासमाविश्यते, कृशोवासन्रूक्षान्नपानसेवीभवति, दुर्बलप्रकृतिरनाहारोऽल्पाहारोवाभवति, तदातस्यहृदयस्थायीरसःक्षयमुपैति; सतस्योपक्षयाच्छोषंप्राप्नोति, अप्रतीकाराच्चानुबध्यतेयक्ष्मणा |\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "यथोपदेक्ष्यमाणरूपेण|८|",
+            "html": "<p>यथोपदेक्ष्यमाणरूपेण|८|\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "kÒayah ÐoÒasyÁyatanamiti yaduktam tadanuvyÁkhyÁsyÁmah –",
+            "html": "<p>kÒayah ÐoÒasyÁyatanamiti yaduktam tadanuvyÁkhyÁsyÁmah – \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "yadÁpurÚÒoatimÁtram ÐokacintÁparigatahªidayo bhavati, ÍrÒyotkaÆÔhÁbhayakrodhÁdibhirvÁ samÁviÐyate, kªuÐo vÁ\nsan rÚkÒÁnnapÁnasevÍ bhavati, durbalaprakªutiranÁhÁroalpÁhÁro vÁ bhavati, tadÁ tasya hªidayasthÁyÍ rasah kÒayamupaiti; sa tasyopakÒayÁcchoÒam prÁpnoti, apratÍkÁrÁccÁnubadhyate yakÒmaÆÁ |",
+            "html": "<p>yadÁpurÚÒoatimÁtram ÐokacintÁparigatahªidayo bhavati, ÍrÒyotkaÆÔhÁbhayakrodhÁdibhirvÁ samÁviÐyate, kªuÐo vÁ\nsan rÚkÒÁnnapÁnasevÍ bhavati, durbalaprakªutiranÁhÁroalpÁhÁro vÁ bhavati, tadÁ tasya hªidayasthÁyÍ rasah kÒayamupaiti; sa tasyopakÒayÁcchoÒam prÁpnoti, apratÍkÁrÁccÁnubadhyate yakÒmaÆÁ |\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "yathopadekÒyamÁÆarÚpeÆa |8|",
+            "html": "<p>yathopadekÒyamÁÆarÚpeÆa |8|\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Now explained is depletion of tissues as the cause of shosha . When a person is suffering excessively from anxiety and grief, or from emotions like envy, fear, anger, etc., and if the person is also afflicted with a wasting disorder and/or using rough food and drinks, or if a congenitally weak person is subjected to fasting or malnutrition, his ojas gets diminished leading to shosha . Due to want of proper management and care, he could get afflicted with the disease having symptoms to be described later. [8]",
+            "html": "<p>Now explained is depletion of tissues as the cause of <i>shosha</i>. When a person is suffering excessively from anxiety and grief, or from emotions like envy, fear, anger, etc., and if the person is also afflicted with a wasting disorder and/or using rough food and drinks, or if a congenitally weak person is subjected to fasting or malnutrition, his <i><a href=\"/index.php?title=Ojas\" title=\"Ojas\">ojas</a></i> gets diminished leading to <i>shosha</i>. Due to want of proper management and care, he could get afflicted with the disease having symptoms to be described later. [8]\n</p>"
+        },
+        {
+            "type": "h4",
+            "text": "3a.Excessive sexual indulgence*",
+            "html": "<h4><span id=\"3a.Excessive_sexual_indulgence.2A\"></span><span class=\"mw-headline\" id=\"3a.Excessive_sexual_indulgence*\">3a.Excessive sexual indulgence*</span></h4>",
+            "level": 4
+        },
+        {
+            "type": "p",
+            "text": "यदावापुरुषोऽतिहर्षादतिप्रसक्तभावःस्त्रीष्वतिप्रसङ्गमारभते, तस्यातिमात्रप्रसङ्गाद्रेतःक्षयमेति|",
+            "html": "<p>यदावापुरुषोऽतिहर्षादतिप्रसक्तभावःस्त्रीष्वतिप्रसङ्गमारभते, तस्यातिमात्रप्रसङ्गाद्रेतःक्षयमेति| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "क्षयमपिचोपगच्छतिरेतसियदिमनःस्त्रीभ्योनैवास्यनिवर्तते, तस्यचातिप्रणीतसङ्कल्पस्यमैथुनमापद्यमानस्यनशुक्रंप्रवर्ततेऽतिमात्रोपक्षीणरेतस्त्वात्, तथाऽस्यवायुर्व्यायच्छमानशरीरस्यैवधमनीरनुप्रविश्यशोणितवाहिनीस्ताभ्यःशोणितंप्रच्यावयति, तच्छुक्रक्षयादस्यपुनःशुक्रमार्गेणशोणितंप्रवर्ततेवातानुसृतलिङ्गम्|",
+            "html": "<p>क्षयमपिचोपगच्छतिरेतसियदिमनःस्त्रीभ्योनैवास्यनिवर्तते, तस्यचातिप्रणीतसङ्कल्पस्यमैथुनमापद्यमानस्यनशुक्रंप्रवर्ततेऽतिमात्रोपक्षीणरेतस्त्वात्, तथाऽस्यवायुर्व्यायच्छमानशरीरस्यैवधमनीरनुप्रविश्यशोणितवाहिनीस्ताभ्यःशोणितंप्रच्यावयति, तच्छुक्रक्षयादस्यपुनःशुक्रमार्गेणशोणितंप्रवर्ततेवातानुसृतलिङ्गम्| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "अथास्यशुक्रक्षयाच्छोणितप्रवर्तनाच्चसन्धयःशिथिलीभवन्ति, रौक्ष्यमुपजायते, भूयःशरीरंदौर्बल्यमाविशतिवायुःप्रकोपमापद्यते; सप्रकुपितोवशिकंशरीरमनुसर्पन्नुदीर्यश्लेष्मपित्तेपरिशोषयतिमांसशोणिते, प्रच्यावयतिश्लेष्मपित्तेसंरुजतिपार्श्वे,\nअवमृद्गात्यंसौकण्ठमुद्ध्वंसति, शिरःश्लेष्माणमुपत्क्लेश्यप्रतिपूरयतिश्लेष्मणा, सन्धींश्चप्रपीडयन्करोत्यङ्गमर्दमरोचकाविपाकौच, पित्तश्लेष्मोत्क्लेशात्प्रतिलोमगत्वाच्चवायुर्ज्वरंकासंश्वासंस्वरभेदंप्रतिश्यायंचोपजनयति;सकासप्रसङ्गादुरसिक्षतेशोणितंष्ठीवति,शोणितगमनाच्चास्यदौर्बल्यमुपजायते, ततःसउपशोषणैरेतैरुपद्रवैरुपद्रुतःशनैःशनैरुपशुष्यति| तस्मात्पुरुषोमतिमानात्मनः|",
+            "html": "<p>अथास्यशुक्रक्षयाच्छोणितप्रवर्तनाच्चसन्धयःशिथिलीभवन्ति, रौक्ष्यमुपजायते, भूयःशरीरंदौर्बल्यमाविशतिवायुःप्रकोपमापद्यते; सप्रकुपितोवशिकंशरीरमनुसर्पन्नुदीर्यश्लेष्मपित्तेपरिशोषयतिमांसशोणिते, प्रच्यावयतिश्लेष्मपित्तेसंरुजतिपार्श्वे, \nअवमृद्गात्यंसौकण्ठमुद्ध्वंसति, शिरःश्लेष्माणमुपत्क्लेश्यप्रतिपूरयतिश्लेष्मणा, सन्धींश्चप्रपीडयन्करोत्यङ्गमर्दमरोचकाविपाकौच, पित्तश्लेष्मोत्क्लेशात्प्रतिलोमगत्वाच्चवायुर्ज्वरंकासंश्वासंस्वरभेदंप्रतिश्यायंचोपजनयति;सकासप्रसङ्गादुरसिक्षतेशोणितंष्ठीवति,शोणितगमनाच्चास्यदौर्बल्यमुपजायते, ततःसउपशोषणैरेतैरुपद्रवैरुपद्रुतःशनैःशनैरुपशुष्यति| तस्मात्पुरुषोमतिमानात्मनः| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "शरीरमनुरक्षञ्छुक्रमनुरक्षेत्| पराह्येषाफलनिर्वृत्तिराहारस्येति||८||",
+            "html": "<p>शरीरमनुरक्षञ्छुक्रमनुरक्षेत्| पराह्येषाफलनिर्वृत्तिराहारस्येति||८||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "भवतिचात्र-",
+            "html": "<p>भवतिचात्र- \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "आहारस्यपरंधामशुक्रंतद्रक्ष्यमात्मनः|",
+            "html": "<p>आहारस्यपरंधामशुक्रंतद्रक्ष्यमात्मनः| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "क्षयोह्यस्यबहून्रोगान्मरणंवानियच्छति||९||",
+            "html": "<p>क्षयोह्यस्यबहून्रोगान्मरणंवानियच्छति||९||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "yadÁ vÁ purÚÒoatiharÒÁdatiprasaktabhÁvah strÍÒvatiprasa¿gamÁrabhate, tasyÁtimÁtraprasa¿gÁdretah kÒayameti |",
+            "html": "<p>yadÁ vÁ purÚÒoatiharÒÁdatiprasaktabhÁvah strÍÒvatiprasa¿gamÁrabhate, tasyÁtimÁtraprasa¿gÁdretah kÒayameti | \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "kÒayamapi copagacchati retasi yadi manah strÍbhyo naivÁsya nivartate, tasya cÁtipraÆÍtasa¿kalpasya maithunamÁpadyamÁnasya na Ðukram pravartateatimÁtropakÒÍÆaretastvÁt, tathÁ asya vÁyurvyÁyacchamÁnaÐÁrÍrasyaiva dhamanÍranupraviÐya ÐoÆitavÁhinÍstÁbhyah ÐoÆitam pracayÁvayati, tacchukrakÒayÁdasya punah ÐukramÁrgeÆa ÐoÆitam pravartate vÁtÁnusªutali¿gam |",
+            "html": "<p>kÒayamapi copagacchati retasi yadi manah strÍbhyo naivÁsya nivartate, tasya cÁtipraÆÍtasa¿kalpasya maithunamÁpadyamÁnasya na Ðukram pravartateatimÁtropakÒÍÆaretastvÁt, tathÁ asya vÁyurvyÁyacchamÁnaÐÁrÍrasyaiva dhamanÍranupraviÐya ÐoÆitavÁhinÍstÁbhyah ÐoÆitam pracayÁvayati, tacchukrakÒayÁdasya punah ÐukramÁrgeÆa ÐoÆitam pravartate vÁtÁnusªutali¿gam | \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "athÁsya ÐukrakÒayÁcchoÆitapravartanÁcca sandhayah ÐithilÍbhavanti, raukÒyamupajÁyate, bhÚyah ÐarÍram daurbalyamÁviÐati vÁyuh prakopamÁpadyate; saprakupito vaÐikam ÐarÍramanusarpannudÍrya ÐleÒmapitte pariÐoÒayati mÁ¿saÐoÆite, pracayÁvayati ÐleÒmapitte sa¿rujati pÁrÐve, avamªudgÁtya¿sau kaÆÔhamuddhva¿sati, Ðirah ÐleÒmÁÆamupatkleÐya pratipÚrayati ÐleÒmÁÆa, sandhÍ¿Ðca prapÍ±ayan karotya¿gamardamarocakÁvipÁkau ca, pittaÐleÒmotkleÐÁt pratilomagatvÁcca vÁyurjvaram kÁsam ÐvÁsam svarabhedam pratiÐyÁyam copajanayati; sa kÁsaprasa¿gÁdurasi kÒate ÐoÆitam ÒÔhÍvati, ÐoÆitagamanÁccÁsya daurbalyamupajÁyate, tatah sa upaÐoÒaÆairetairupadravairupadrutah Ðanaih ÐanairupaÐuÒyati |tasmÁt purÚÒo matimÁnÁtmanah ÐarÍramanurakÒat ÐukramanurakÒet |",
+            "html": "<p>athÁsya ÐukrakÒayÁcchoÆitapravartanÁcca sandhayah ÐithilÍbhavanti, raukÒyamupajÁyate, bhÚyah ÐarÍram daurbalyamÁviÐati vÁyuh prakopamÁpadyate; saprakupito vaÐikam ÐarÍramanusarpannudÍrya ÐleÒmapitte pariÐoÒayati mÁ¿saÐoÆite, pracayÁvayati ÐleÒmapitte sa¿rujati pÁrÐve, avamªudgÁtya¿sau kaÆÔhamuddhva¿sati, Ðirah ÐleÒmÁÆamupatkleÐya pratipÚrayati ÐleÒmÁÆa, sandhÍ¿Ðca prapÍ±ayan karotya¿gamardamarocakÁvipÁkau ca, pittaÐleÒmotkleÐÁt pratilomagatvÁcca vÁyurjvaram kÁsam ÐvÁsam svarabhedam pratiÐyÁyam copajanayati; sa  kÁsaprasa¿gÁdurasi kÒate ÐoÆitam ÒÔhÍvati, ÐoÆitagamanÁccÁsya daurbalyamupajÁyate, tatah sa upaÐoÒaÆairetairupadravairupadrutah Ðanaih ÐanairupaÐuÒyati |tasmÁt purÚÒo matimÁnÁtmanah ÐarÍramanurakÒat ÐukramanurakÒet | \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "parÁ hyeÐÁ phalanirvªuttirÁhÁrasyeti ||8||",
+            "html": "<p>parÁ hyeÐÁ phalanirvªuttirÁhÁrasyeti ||8||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "bhavati cÁtra-",
+            "html": "<p>bhavati cÁtra-\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "ÁhÁrasya param dhÁma Ðukram tadrakÒyamÁtmanah |",
+            "html": "<p>ÁhÁrasya param dhÁma Ðukram tadrakÒyamÁtmanah |\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "kÒayo hyasya bahÚn rogÁnmaraÆam vÁ niyacchati ||9||",
+            "html": "<p>kÒayo hyasya  bahÚn rogÁnmaraÆam vÁ niyacchati ||9||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "When a person indulges in excessive sexual intercourse habitually, his semen gets diminished. In spite of diminished semen, if he obsesses about sex mentally as well as physically and continues to engage in sexual acts with excessively determined passion, his semen is not discharged because of its already diminished state causing vayu to enter his blood vessels and blood getting discharged from the seminal passage. Now, due to loss of semen and hemorrhage, his joints loosen, the skin loses its suppleness and becomes rough or scaly, body weakens further and vayu gets vitiated. The vitiated vayu spreads in the body deficient of semen and blood, aggravating kapha and pitta and drying up the muscles and blood. Further, the vitiated vayu expels kapha and pitta , causing pain in the sides of the chest and shoulders, irritation of throat, aggravating kapha of the head and replacing it with the vitiated kapha expelled from their natural locations, causing pain in joints, body ache, anorexia and indigestion. Due to frequent cough the lungs get damaged and hemoptysis ensues, debilitating the patient further and afflicting him with wasting complications. If untreated, the patient gradually is afflicted with phthisis.",
+            "html": "<p>When a person indulges in excessive sexual intercourse habitually, his semen gets diminished. In spite of diminished semen, if he obsesses about sex mentally as well as physically and continues to engage in sexual acts with excessively determined passion, his semen is not discharged because of its already diminished state causing <i>vayu</i> to enter his blood vessels and blood getting discharged from the seminal passage. Now, due to loss of semen and hemorrhage, his joints loosen, the skin loses its suppleness and becomes rough or scaly, body weakens further and <i>vayu</i> gets vitiated. The vitiated <i>vayu</i>spreads in the body deficient of semen and blood, aggravating <i><a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a></i> and <i><a href=\"/index.php?title=Pitta\" title=\"Pitta\">pitta</a></i> and drying up the muscles and blood. Further, the vitiated vayu expels <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a> and <a href=\"/index.php?title=Pitta\" title=\"Pitta\">pitta</a>, causing pain in the sides of the chest and shoulders, irritation of throat, aggravating <i><a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a></i> of the head and replacing it with the vitiated <i><a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a></i> expelled from their natural locations, causing pain in joints, body ache, anorexia and indigestion. Due to frequent cough the lungs get damaged and hemoptysis ensues, debilitating the patient further and afflicting him with wasting complications. If untreated, the patient gradually is afflicted with phthisis. \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Here is the verse: Semen is the final essence of one’s food hence it should be protected because its depletion leads to many diseases or even death. [8-9]",
+            "html": "<p>Here is the verse: Semen is the final essence of one’s food hence it should be protected because its depletion leads to many diseases or even death. [8-9]\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "- * This is not mentioned as a main cause of shosha in verse 3, but is a derivation of verses 8-9.",
+            "html": "<p>- * This is not mentioned as a main cause of <i>shosha</i> in verse 3, but is a derivation of verses 8-9.\n</p>"
+        },
+        {
+            "type": "h4",
+            "text": "4. Irregular meals/Improper meals",
+            "html": "<h4><span id=\"4._Irregular_meals.2FImproper_meals\"></span><span class=\"mw-headline\" id=\"4._Irregular_meals/Improper_meals\">4. Irregular meals/Improper meals</span></h4>",
+            "level": 4
+        },
+        {
+            "type": "p",
+            "text": "विषमाशनंशोषस्यायतनमितियदुक्तं,तदनुव्याख्यास्यामः-",
+            "html": "<p>विषमाशनंशोषस्यायतनमितियदुक्तं,तदनुव्याख्यास्यामः- \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "यदापुरुषःपानाशनभक्ष्यलेह्योपयोगान्प्रकृतिकरणसंयोगराशिदेशकालोपयोगसंस्थोपशयविषमानासेवते, तदातस्यतेभ्योवातपित्तश्लेष्माणोवैषम्यमापद्यन्ते; तेविषमाःशरीरमनुसृत्ययदास्रोतसामयनमुखानिप्रतिवार्यावतिष्ठन्तेतदाजन्तुर्यद्यदाहारजातमाहरतितत्तदस्यमूत्रपुरीषमेवोपजायतेभूयिष्ठंनान्यस्तथाशरीरधातुः; सपुरीषोपष्टम्भाद्वर्तयति, तस्माच्छुष्यतोविशेषेणपुरीषमनुरक्ष्यंतथाऽन्येषामतिकृशदुर्बलानां; तस्यानाप्यायमानस्यविषमाशनोपचितादोषाःपृथक्पृथगुपद्रवैर्युञ्जन्तोभूयःशरीरमुपशोषयन्ति|",
+            "html": "<p>यदापुरुषःपानाशनभक्ष्यलेह्योपयोगान्प्रकृतिकरणसंयोगराशिदेशकालोपयोगसंस्थोपशयविषमानासेवते, तदातस्यतेभ्योवातपित्तश्लेष्माणोवैषम्यमापद्यन्ते; तेविषमाःशरीरमनुसृत्ययदास्रोतसामयनमुखानिप्रतिवार्यावतिष्ठन्तेतदाजन्तुर्यद्यदाहारजातमाहरतितत्तदस्यमूत्रपुरीषमेवोपजायतेभूयिष्ठंनान्यस्तथाशरीरधातुः; सपुरीषोपष्टम्भाद्वर्तयति, तस्माच्छुष्यतोविशेषेणपुरीषमनुरक्ष्यंतथाऽन्येषामतिकृशदुर्बलानां; तस्यानाप्यायमानस्यविषमाशनोपचितादोषाःपृथक्पृथगुपद्रवैर्युञ्जन्तोभूयःशरीरमुपशोषयन्ति| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "तत्रवातःशूलमङ्गमर्दंकण्ठोद्ध्वंसनंपार्श्वसंरुजनमंसावमर्दंस्वरभेदंप्रतिश्यायंचोपजनयति; पित्तंज्वरमतीसारमन्तर्दाहंच; श्लेष्मातुप्रतिश्यायंशिरसोगुरुत्वमरोचकंकासंच, सकासप्रसङ्गादुरसिक्षतेशोणितंनिष्ठीवति,शोणितगमनाच्चास्यदौर्बल्यमुपजायते|",
+            "html": "<p>तत्रवातःशूलमङ्गमर्दंकण्ठोद्ध्वंसनंपार्श्वसंरुजनमंसावमर्दंस्वरभेदंप्रतिश्यायंचोपजनयति; पित्तंज्वरमतीसारमन्तर्दाहंच; श्लेष्मातुप्रतिश्यायंशिरसोगुरुत्वमरोचकंकासंच, सकासप्रसङ्गादुरसिक्षतेशोणितंनिष्ठीवति,शोणितगमनाच्चास्यदौर्बल्यमुपजायते| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "एवमेतेविषमाशनोपचितास्त्रयोदोषाराजयक्ष्याणमभिनिर्वर्तयन्ति|",
+            "html": "<p>एवमेतेविषमाशनोपचितास्त्रयोदोषाराजयक्ष्याणमभिनिर्वर्तयन्ति| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "सतैरुपशोषणैरुपद्रवैरुपद्रुतःशनैःशनैःशुष्यति|",
+            "html": "<p>सतैरुपशोषणैरुपद्रवैरुपद्रुतःशनैःशनैःशुष्यति| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "तस्मात्पुरुषोमतिमान्प्रकृतिकरणसंयोगराशिदेशकालोपयोगसंस्थोपशयादविषममाहारमाहरेत्||१०||",
+            "html": "<p>तस्मात्पुरुषोमतिमान्प्रकृतिकरणसंयोगराशिदेशकालोपयोगसंस्थोपशयादविषममाहारमाहरेत्||१०|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "भवतिचात्र-",
+            "html": "<p>भवतिचात्र- \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "हिताशीस्यान्मिताशीस्यात्कालभोजीजितेन्द्रियः|",
+            "html": "<p>हिताशीस्यान्मिताशीस्यात्कालभोजीजितेन्द्रियः| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "पश्यन्रोगान्बहून्कष्टान्बुद्धिमान्विषमाशनात्||११||",
+            "html": "<p>पश्यन्रोगान्बहून्कष्टान्बुद्धिमान्विषमाशनात्||११||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "viÒamÁÐanam ÐoÒasyÁyatanamiti yaduktam tadanuvyÁkhyÁsyÁmah –",
+            "html": "<p>viÒamÁÐanam ÐoÒasyÁyatanamiti yaduktam tadanuvyÁkhyÁsyÁmah – \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "yadÁ purÚÒah pÁnÁÐanabhakÒalehyopayogÁn,prakªtikaraÆasa¿yogarÁÐideÐakÁlopayogasa¿sthopaÐayaviÒamÁnÁsevate, tadÁ tasya tebhyo vÁtapittaÐleÒmaÆo vaiÒamyamÁpadyante; te viÒamÁh ÐarÍramanusªutya yadÁ srotasÁmayanamukhÁni prativÁryÁvatiÒÔhante tadÁ janturyadyadÁhÁrajÁtamÁharati tattadasya mÚtrapurÍÒamevopajÁyate bhÚyiÒÔham nÁnyastathÁ ÐarÍraadhÁtuh; sa purÍÒopaÒtambhÁdvartayati, tasmÁcchuÒyato viÐeÒeÆa purÍÒamanurakÒyam tathÁ anyeÒÁmatikªuÐadurbalÁnÁm; tasyÁnÁpyÁyamÁnasya viÒamÁÐanopacitÁ doÒÁh pªuthak pªuthagupadravairyu¿janto bhÚyah ÐarÍramupaÐoÒayanti|",
+            "html": "<p>yadÁ purÚÒah pÁnÁÐanabhakÒalehyopayogÁn,prakªtikaraÆasa¿yogarÁÐideÐakÁlopayogasa¿sthopaÐayaviÒamÁnÁsevate, tadÁ tasya tebhyo vÁtapittaÐleÒmaÆo vaiÒamyamÁpadyante; te viÒamÁh ÐarÍramanusªutya yadÁ srotasÁmayanamukhÁni prativÁryÁvatiÒÔhante tadÁ janturyadyadÁhÁrajÁtamÁharati tattadasya mÚtrapurÍÒamevopajÁyate bhÚyiÒÔham nÁnyastathÁ ÐarÍraadhÁtuh; sa purÍÒopaÒtambhÁdvartayati, tasmÁcchuÒyato viÐeÒeÆa purÍÒamanurakÒyam tathÁ anyeÒÁmatikªuÐadurbalÁnÁm;  tasyÁnÁpyÁyamÁnasya viÒamÁÐanopacitÁ doÒÁh pªuthak pªuthagupadravairyu¿janto bhÚyah ÐarÍramupaÐoÒayanti| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "tatra vÁtah ÐÚlama¿gamardam kaÆÔhoddhva¿sanam pÁrÐvasa¿rujanama¿sÁvamardam svarabhedam pratiÐyÁyam copajanayati; pittam jvaramatÍsÁramantardÁham ca; ÐleÒmmÁ tu pratiÐyÁyam Ðiraso gurutvamarocakam kÁsam ca, sa kÁsaprasa¿gÁdurasi kÒate ÐoÆitam niÒÔhÍvati, ÐoÆitagamanÁccÁsya daurbalyamupajÁyate|",
+            "html": "<p>tatra vÁtah ÐÚlama¿gamardam kaÆÔhoddhva¿sanam pÁrÐvasa¿rujanama¿sÁvamardam svarabhedam pratiÐyÁyam copajanayati; pittam jvaramatÍsÁramantardÁham ca; ÐleÒmmÁ tu  pratiÐyÁyam Ðiraso gurutvamarocakam kÁsam ca,  sa  kÁsaprasa¿gÁdurasi kÒate ÐoÆitam niÒÔhÍvati, ÐoÆitagamanÁccÁsya daurbalyamupajÁyate|  \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "evamete viÒamÁÐanopacitÁstrayo doÒÁ rÁjayakÒyÁÆamabhinirvartayanti |",
+            "html": "<p>evamete viÒamÁÐanopacitÁstrayo doÒÁ rÁjayakÒyÁÆamabhinirvartayanti | \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "sa tairupaÐoÒaÆairupadravairupadrutah Ðanaih Ðanaih ÐuÒyati|",
+            "html": "<p>sa tairupaÐoÒaÆairupadravairupadrutah Ðanaih Ðanaih ÐuÒyati| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "tasmÁt purÚÒo matimÁn prakªtikaraÆasa¿yogarÁÐideÐakÁlopayogasa¿sthopaÐayaviÒamamÁhÁramÁharet ||10||",
+            "html": "<p>tasmÁt purÚÒo matimÁn prakªtikaraÆasa¿yogarÁÐideÐakÁlopayogasa¿sthopaÐayaviÒamamÁhÁramÁharet ||10||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "bhavati cÁtra-",
+            "html": "<p>bhavati cÁtra-\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "hitÁÐÍ syÁnmitÁÐÍ syÁtkÁlabhojÍ jitendriyah |",
+            "html": "<p>hitÁÐÍ syÁnmitÁÐÍ syÁtkÁlabhojÍ jitendriyah |\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "paÐyan rogÁn bahÚn kaÒtÁn buddhimÁn viÒamÁÐanÁt ||11||",
+            "html": "<p>paÐyan rogÁn bahÚn kaÒtÁn buddhimÁn viÒamÁÐanÁt ||11||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "This verse talks of irregular diet as a cause of shosha . When a person takes food – drinkable, eatable, chewable and lickable – irregularly in terms of nature, preparation, combination, quantity, place, time, and various dietary rules (do’s and don’ts) appropriate for his constitution, his doshas get imbalanced. These imbalanced doshas spread in the body, obstructing the openings of various channels and the flow of dhatus . In such cases, the body survives on the support of malas . Hence mala should be protected, particularly in case where the patient has already been afflicted with phthisis and in cases where the individual is emaciated or very weak. The vitiated ' vata causes pain, body ache, irritation of throat, chest pain, pain in shoulders, hoarseness of voice and coryza. Vitiated pitta causes fever, diarrhea, internal heat and vitiated kapha causes coryza, heaviness of head, anorexia and cough. Due to frequent bouts of cough, lungs get damaged and hemoptysis ensues, consequently debilitating the patient further and causing shosha . Having been afflicted with these wasting complications, the patient gradually becomes very weak and gaunt.",
+            "html": "<p>This verse talks of irregular diet as a cause of <i>shosha</i>. When a person takes food – drinkable, eatable, chewable and lickable – irregularly in terms of nature, preparation, combination, quantity, place, time, and various dietary rules (do’s and don’ts) appropriate for his constitution, his <i><a href=\"/index.php?title=Dosha\" title=\"Dosha\">doshas</a></i> get imbalanced. These imbalanced <i><a href=\"/index.php?title=Dosha\" title=\"Dosha\">doshas</a></i> spread in the body, obstructing the openings of various channels and the flow of <i><a href=\"/index.php?title=Dhatu\" title=\"Dhatu\">dhatus</a></i>. In such cases, the body survives on the support of <i><a href=\"/index.php?title=Mala\" title=\"Mala\">malas</a></i>. Hence <i><a href=\"/index.php?title=Mala\" title=\"Mala\">mala</a></i> should be protected, particularly in case where the patient has already been afflicted with phthisis and in cases where the individual is emaciated or very weak. The vitiated '<a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a><i> causes pain, body ache, irritation of throat, chest pain, pain in shoulders, hoarseness of voice and coryza. Vitiated </i><a href=\"/index.php?title=Pitta\" title=\"Pitta\">pitta</a><i> causes fever, diarrhea, internal heat and vitiated </i><a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a><i> causes coryza, heaviness of head, anorexia and cough. Due to frequent bouts of cough, lungs get damaged and hemoptysis ensues, consequently debilitating the patient further and causing </i>shosha<i>. Having been afflicted with these wasting complications, the patient gradually becomes very weak and gaunt. </i>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "The final verse advises thus: Observing many troublesome diseases caused by irregular dieting, the wise should eat wholesome, measured and timely food with self-restraint. [10-11]",
+            "html": "<p>The final verse advises thus: Observing many troublesome diseases caused by irregular dieting, the wise should eat wholesome, measured and timely food with self-restraint. [10-11]\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "एतैश्चतुर्भिःशोषस्यायतनैरुपसेवितैर्वातपित्तश्लेष्माणःप्रकोपमापद्यन्ते|",
+            "html": "<p>एतैश्चतुर्भिःशोषस्यायतनैरुपसेवितैर्वातपित्तश्लेष्माणःप्रकोपमापद्यन्ते| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "तेप्रकुपितानानाविधैरुपद्रवैःशरीरमुपशोषयन्ति|",
+            "html": "<p>तेप्रकुपितानानाविधैरुपद्रवैःशरीरमुपशोषयन्ति| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "तंसर्वरोगाणांकष्टतमत्वाद्राजयक्ष्माणमाचक्षतेभिषजः;",
+            "html": "<p>तंसर्वरोगाणांकष्टतमत्वाद्राजयक्ष्माणमाचक्षतेभिषजः; \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "यस्माद्वापूर्वमासीद्भगवतःसोमस्योडुराजस्यतस्माद्राजयक्ष्मेति||१२||",
+            "html": "<p>यस्माद्वापूर्वमासीद्भगवतःसोमस्योडुराजस्यतस्माद्राजयक्ष्मेति||१२||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "EtaiÐca caturbhi ÐoÒasyÁyatanairÚpasevitairvÁtapittaÐleÒmÁÆah prakopamÁpadyante|",
+            "html": "<p>EtaiÐca caturbhi ÐoÒasyÁyatanairÚpasevitairvÁtapittaÐleÒmÁÆah prakopamÁpadyante| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Te prakupitÁ nÁnÁvidhairÚpadravaih ÐarÍramupaÐoÒayanti |",
+            "html": "<p>Te prakupitÁ nÁnÁvidhairÚpadravaih ÐarÍramupaÐoÒayanti | \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "tam sarvarogÁÆÁm kaÒtatamatvÁdrÁjayakÒmÁÆamÁcakÒate bhiÒajah; yasmÁdvÁ pÚrvamÁsÍdbhagavatahsomasyo±urÁjasya tasmÁdrÁjayakÒmeti ||12||",
+            "html": "<p>tam sarvarogÁÆÁm kaÒtatamatvÁdrÁjayakÒmÁÆamÁcakÒate bhiÒajah; yasmÁdvÁ pÚrvamÁsÍdbhagavatahsomasyo±urÁjasya tasmÁdrÁjayakÒmeti ||12||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Regular use of the four etiological factors of shosha vitiates the doshas . These vitiated doshas dry up the body while afflicting it with various complications. Physicians call it rajayakshma because it is most troublesome among all the diseases ( rajayakshma would literally translate to the “king of yakshmas ”) or because in vedic mythologies, it afflicted Lord Moon, the king of stars. [12]",
+            "html": "<p>Regular use of the four etiological factors of <i>shosha</i> vitiates the <i><a href=\"/index.php?title=Dosha\" title=\"Dosha\">doshas</a></i>. These vitiated <i><a href=\"/index.php?title=Dosha\" title=\"Dosha\">doshas</a></i> dry up the body while afflicting it with various complications. Physicians call it <i>rajayakshma</i> because it is most troublesome among all the diseases (<i>rajayakshma</i> would literally translate to the “king of <i>yakshmas</i>”) or because in <i>vedic</i> mythologies, it afflicted Lord Moon, the king of stars. [12]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Prodromal symptoms",
+            "html": "<h3><span class=\"mw-headline\" id=\"Prodromal_symptoms\">Prodromal symptoms</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "तस्येमानिपूर्वरूपाणिभवन्ति; तद्यथा- प्रतिश्यायः, क्षवथुरभीक्ष्णं, श्लेष्मप्रसेकः, मुखमाधुर्यम्, अनन्नाभिलाषः, अन्नकालेचायासः, दोषदर्शनमदोषेष्वल्पदोषेषुवाभावेषुपात्रोदकान्नसूपापूपोपदंशपरिवेशकेषु, भुक्तवतश्चास्यहृल्लासः, तथोल्लेखनमप्याहारस्यान्तरान्तरा, मुखस्यपादयोश्चशोफःपाण्योश्चावेक्षणमत्यर्थम्, अक्ष्णोःश्वेतावभासताचातिमात्रं, बाह्वोश्चप्रमाणजिज्ञासा, स्त्रीकामता,निर्घृणित्वं, बीभत्सदर्शनताचास्यकाये,\nस्वप्नेचाभीक्ष्णंदर्शनमनुदकानामुदकस्थानानांशून्यानांचग्रामनगरनिगमजनपदानांशुष्कदग्धभग्नानांचवनानांकृकलासमयूरवानरशुकसर्पकाकोलूकादिभिः\nसंस्पर्शनमधिरोहणंयानंवाश्वोष्ट्रखरवराहैःकेशास्थिभस्मतुषाङ्गारराशीनांचाधिरोहणमिति (शोषपूर्वरूपाणिभवन्ति)||१३||",
+            "html": "<p>तस्येमानिपूर्वरूपाणिभवन्ति; तद्यथा- प्रतिश्यायः, क्षवथुरभीक्ष्णं, श्लेष्मप्रसेकः, मुखमाधुर्यम्, अनन्नाभिलाषः, अन्नकालेचायासः, दोषदर्शनमदोषेष्वल्पदोषेषुवाभावेषुपात्रोदकान्नसूपापूपोपदंशपरिवेशकेषु, भुक्तवतश्चास्यहृल्लासः, तथोल्लेखनमप्याहारस्यान्तरान्तरा, मुखस्यपादयोश्चशोफःपाण्योश्चावेक्षणमत्यर्थम्, अक्ष्णोःश्वेतावभासताचातिमात्रं, बाह्वोश्चप्रमाणजिज्ञासा, स्त्रीकामता,निर्घृणित्वं, बीभत्सदर्शनताचास्यकाये, \nस्वप्नेचाभीक्ष्णंदर्शनमनुदकानामुदकस्थानानांशून्यानांचग्रामनगरनिगमजनपदानांशुष्कदग्धभग्नानांचवनानांकृकलासमयूरवानरशुकसर्पकाकोलूकादिभिः\nसंस्पर्शनमधिरोहणंयानंवाश्वोष्ट्रखरवराहैःकेशास्थिभस्मतुषाङ्गारराशीनांचाधिरोहणमिति (शोषपूर्वरूपाणिभवन्ति)||१३||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "tasyemÁni pÚrvarÚpÁÆi bhavanti; tadyathÁ- pratiÐyÁyah, kÒavathurabhIkÒÆam, ÐleÒmaprasekah, mukhamÁdhuryam, anannÁbhilÁÒah, annakÁle cÁyÁsah, doÒadarÐanamadoÒeÒvalpadoÒeÒu vÁ bhÁveÒu pÁtrodakÁnnasÚpÁpÚpopada¿ÐapariveÐakeÒu, bhuktavataÐcÁsya hªullÁsah, tathollekhanamapyÁhÁrasyÁntarÁntarÁ, mukhasya pÁdayoÐca Ðophah pÁÆyoÐcÁvekÒaÆamatyartham, akÒÆoh ÐvetÁvabhÁsatÁ cÁtimÁtram, bÁhvoÐca pramÁÆajijúÁsÁ, strÍkÁmatÁ, nirghªuÆitvam, bIbhatsadarÐanatÁ cÁsya kÁye, svapne cÁbhIkÒÆam darÐanamanudakÁnÁmudakasthÁnÁnÁm ÐÚnyÁnÁm ca grÁmanagaranigamajanapadÁnÁm ÐuÒkadagdhabhagnÁnÁm ca vanÁnÁm kªukalÁsamayÚravÁnaraÐukasarpakÁkolÚkÁdibhih sa¿sparÐanamadhirohaÆam yÁnam vÁ ÐvoÒtrakharavarÁhaih keÐÁsthibhasmatuÒÁa¿gÁrarÁshÍnÁm cÁdhirohaÆamiti (ÐoÒapÚrvarÚpÁÆi bhavanti) ||13||",
+            "html": "<p>tasyemÁni pÚrvarÚpÁÆi bhavanti; tadyathÁ- pratiÐyÁyah, kÒavathurabhIkÒÆam, ÐleÒmaprasekah, mukhamÁdhuryam, anannÁbhilÁÒah, annakÁle cÁyÁsah, doÒadarÐanamadoÒeÒvalpadoÒeÒu vÁ bhÁveÒu pÁtrodakÁnnasÚpÁpÚpopada¿ÐapariveÐakeÒu, bhuktavataÐcÁsya hªullÁsah, tathollekhanamapyÁhÁrasyÁntarÁntarÁ, mukhasya pÁdayoÐca Ðophah pÁÆyoÐcÁvekÒaÆamatyartham, akÒÆoh ÐvetÁvabhÁsatÁ cÁtimÁtram, bÁhvoÐca pramÁÆajijúÁsÁ, strÍkÁmatÁ, nirghªuÆitvam, bIbhatsadarÐanatÁ cÁsya kÁye, svapne cÁbhIkÒÆam darÐanamanudakÁnÁmudakasthÁnÁnÁm ÐÚnyÁnÁm ca grÁmanagaranigamajanapadÁnÁm ÐuÒkadagdhabhagnÁnÁm ca vanÁnÁm kªukalÁsamayÚravÁnaraÐukasarpakÁkolÚkÁdibhih sa¿sparÐanamadhirohaÆam yÁnam vÁ ÐvoÒtrakharavarÁhaih  keÐÁsthibhasmatuÒÁa¿gÁrarÁshÍnÁm cÁdhirohaÆamiti (ÐoÒapÚrvarÚpÁÆi bhavanti) ||13||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Shosha ’s prodromal symptoms include coryza, frequent sneezing, excessive secretion of mucus, a sweet aftertaste in the mouth, aversion to food, exhaustion during meal time, finding fault with utensils, water, cereals, pulses flour preparations, spicy preparation and caterers who are free from fault or have a little fault. A person afflicted with shosha will experience nausea after meals, intermittent vomiting during meals, swellings in the face and feet, tendency of frequently looking at the hands, excessive whitishness in the eyes, curiosity about measurement of arms, longing for women, disgust, loathsome view of his body, frequent dreams of waterless/arid places as well as places such as deserted villages, cities, districts and regions, of forests dried, burnt and destroyed. Such a person would often be using vehicles drawn by, or coming in contact with, or riding animals like chameleon, peacock, monkey, parrot, serpent, crow, owl, dog, camel, ass and boar, and riding over heaps of hair, bones, ash, chaff and charcoal. [13]",
+            "html": "<p><i>Shosha</i>’s prodromal symptoms include coryza, frequent sneezing, excessive secretion of mucus, a sweet aftertaste in the mouth, aversion to food, exhaustion during meal time, finding fault with utensils, water, cereals, pulses flour preparations, spicy preparation and caterers who are free from fault or have a little fault. A person afflicted with <i>shosha</i> will experience nausea after meals, intermittent vomiting during meals, swellings in the face and feet, tendency of frequently looking at the hands, excessive whitishness in the eyes, curiosity about measurement of arms, longing for women, disgust, loathsome view of his body, frequent dreams of waterless/arid places as well as places such as deserted villages, cities, districts and regions, of forests dried, burnt and destroyed. Such a person would often be using vehicles drawn by, or coming in contact with, or riding animals like chameleon, peacock, monkey, parrot, serpent, crow, owl, dog, camel, ass and boar, and riding over heaps of hair, bones, ash, chaff and charcoal.  [13]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Eleven symptoms",
+            "html": "<h3><span class=\"mw-headline\" id=\"Eleven_symptoms\">Eleven symptoms</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "अतऊर्ध्वमेकादशरूपाणितस्यभवन्ति; तद्यथा- शिरसःपरिपूर्णत्वं, कासः, श्वासः, स्वरभेदः, श्लेष्मणश्छर्दनं, शोणितष्ठीवनं, पार्श्वसंरोजनम्, अंसावमर्दः, ज्वरः, अतीसारः, अरोचकश्चेति||१४||",
+            "html": "<p>अतऊर्ध्वमेकादशरूपाणितस्यभवन्ति; तद्यथा- शिरसःपरिपूर्णत्वं, कासः, श्वासः, स्वरभेदः, श्लेष्मणश्छर्दनं, शोणितष्ठीवनं, पार्श्वसंरोजनम्, अंसावमर्दः, ज्वरः, अतीसारः, अरोचकश्चेति||१४||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Ata ÚrdhvamekÁdaÐarÚpÁÆi tasya bhavanti; tadyathÁ- Ðirasah paripÚrÆatvam, kÁsah, ÐvÁsah, svarabhedah, ÐleÒmÁÆaÐchardanam, ÐoÆitaÒÔhÍvanam, pÁrÐvasa¿rojanam, a¿sÁvamardah, jvarah, atÍsÁrah, arocakaÐceti ||14||",
+            "html": "<p>Ata ÚrdhvamekÁdaÐarÚpÁÆi tasya bhavanti; tadyathÁ- Ðirasah paripÚrÆatvam, kÁsah, ÐvÁsah, svarabhedah, ÐleÒmÁÆaÐchardanam, ÐoÆitaÒÔhÍvanam, pÁrÐvasa¿rojanam, a¿sÁvamardah, jvarah, atÍsÁrah, arocakaÐceti ||14||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "There are eleven typical symptoms of shosha (mentioned in this verse) such as fullness of head, cough, dyspnea, hoarseness of voice, vomiting of sputum, hemoptysis, chest-pain, pain in shoulders, fever, diarrhea, and anorexia. [14]",
+            "html": "<p>There are eleven typical symptoms of <i>shosha</i> (mentioned in this verse) such as fullness of head, cough, dyspnea, hoarseness of voice, vomiting of sputum, hemoptysis, chest-pain, pain in shoulders, fever, diarrhea, and anorexia. [14]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Prognosis of disease",
+            "html": "<h3><span class=\"mw-headline\" id=\"Prognosis_of_disease\">Prognosis of disease</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "तत्रापरिक्षीणबलमांसशोणितोबलवानजातारिष्टःसर्वैरपिशोषलिङ्गैरुपद्रुतःसाध्योज्ञेयः| बलवानुपचितोहिसहत्वाद्व्याध्यौषधबलस्यकामंसुबहुलिङ्गोऽप्यल्पलिङ्गएवमन्तव्यः||१५||",
+            "html": "<p>तत्रापरिक्षीणबलमांसशोणितोबलवानजातारिष्टःसर्वैरपिशोषलिङ्गैरुपद्रुतःसाध्योज्ञेयः| बलवानुपचितोहिसहत्वाद्व्याध्यौषधबलस्यकामंसुबहुलिङ्गोऽप्यल्पलिङ्गएवमन्तव्यः||१५||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Tatra parikÒÍÆabalama¿saÐoÆito balavÁnajÁtÁriÒtah sarvairapi ÐoÒali¿gairÚpadrutah sÁdhyo jÆayah | balavÁnupacito hi sahatvÁdvyÁdhyauÒadhabalasya kÁmam subahuli¿goapyalpali¿ga eva mantavyah ||15||",
+            "html": "<p>Tatra parikÒÍÆabalama¿saÐoÆito balavÁnajÁtÁriÒtah sarvairapi ÐoÒali¿gairÚpadrutah sÁdhyo jÆayah | balavÁnupacito hi sahatvÁdvyÁdhyauÒadhabalasya kÁmam subahuli¿goapyalpali¿ga eva mantavyah ||15||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "One having all the above symptoms of shosha should be considered curable in case his strength, muscles and blood are not wasted, he is strong and the fatal signs have not appeared. The strong and well-nourished, because of tolerance to intensity of disease and drugs, should be assumed to have fewer symptoms even if they have many, and treated accordingly. [15]",
+            "html": "<p>One having all the above symptoms of <i>shosha</i> should be considered curable in case his strength, muscles and blood are not wasted, he is strong and the fatal signs have not appeared. The strong and well-nourished, because of tolerance to intensity of disease and drugs, should be assumed to have fewer symptoms even if they have many, and treated accordingly. [15]\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "दुर्बलंत्वतिक्षीणबलमांसशोणितमल्पलिङ्गमजातारिष्टमपिबहुलिङ्गंजातारिष्टंचविद्यात्, असहत्वाद्व्याध्यौषधबलस्य; तंपरिवर्जयेत्, क्षणेनैवहिप्रादुर्भवन्त्यरिष्टानि, अनिमित्तश्चारिष्टप्रादुर्भावइति||१६||",
+            "html": "<p>दुर्बलंत्वतिक्षीणबलमांसशोणितमल्पलिङ्गमजातारिष्टमपिबहुलिङ्गंजातारिष्टंचविद्यात्, असहत्वाद्व्याध्यौषधबलस्य; तंपरिवर्जयेत्, क्षणेनैवहिप्रादुर्भवन्त्यरिष्टानि, अनिमित्तश्चारिष्टप्रादुर्भावइति||१६|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Durbalam tvatikÒÍÆabalama¿saÐoÆitamalpali¿gamajÁtÁriÒtamapi bahuli¿gam jÁtÁriÒtam ca\nvidyÁt, asahatvÁdvyÁdhyauÒadhabalasya; tam parivarjayet, kÒaÆenaiva hi prÁdurbhavantyariÒtÁni, animittaÐcÁriÒtaprÁdurbhÁva iti ||16||",
+            "html": "<p>Durbalam tvatikÒÍÆabalama¿saÐoÆitamalpali¿gamajÁtÁriÒtamapi bahuli¿gam jÁtÁriÒtam ca\nvidyÁt, asahatvÁdvyÁdhyauÒadhabalasya; tam parivarjayet, kÒaÆenaiva hi prÁdurbhavantyariÒtÁni, animittaÐcÁriÒtaprÁdurbhÁva iti ||16||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "On the contrary, the patient who is weak and has excessively diminished strength, muscles and blood should be taken as having numerous symptoms including the fatal ones, even if he has few symptoms and no fatal signs because of his intolerance to the intensity of disease and drugs. Hence he should be discarded (for treatment) because the fatal signs appear in a moment and without any apparent cause.[16]",
+            "html": "<p>On the contrary, the patient who is weak and has excessively diminished strength, muscles and blood should be taken as having numerous symptoms including the fatal ones, even if he has few symptoms and no fatal signs because of his intolerance to the intensity of disease and drugs. Hence he should be discarded (for treatment) because the fatal signs appear in a moment and without any apparent cause.[16]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Summary",
+            "html": "<h3><span class=\"mw-headline\" id=\"Summary\">Summary</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "तत्रश्लोकः-\nसमुत्थानंचलिङ्गंचयःशोषस्यावबुध्यते|\nपूर्वरूपंचतत्त्वेनसराज्ञःकर्तुमर्हति||१७||",
+            "html": "<p>तत्रश्लोकः- \nसमुत्थानंचलिङ्गंचयःशोषस्यावबुध्यते| \nपूर्वरूपंचतत्त्वेनसराज्ञःकर्तुमर्हति||१७||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "tatra Ðlokah-\nsamutthÁnam ca li¿gam ca yah ÐoÒasyÁvabudhyate|\npÚrvarÚpam ca tattvena sa rÁjÆah kartumarhati ||17||",
+            "html": "<p>tatra Ðlokah-\nsamutthÁnam ca li¿gam ca yah ÐoÒasyÁvabudhyate|\npÚrvarÚpam ca tattvena sa rÁjÆah kartumarhati ||17||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Now the (summing up) verse –",
+            "html": "<p>Now the (summing up) verse – \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "He is capable of treating the king who knows, in essence, the etiology, symptoms and prodroma of shosha .",
+            "html": "<p>He is capable of treating the king who knows, in essence, the etiology, symptoms and prodroma of <i>shosha</i>.\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Thus, ends the sixth chapter on diagnosis of shosha in Nidana Sthana in the treatise composed by Agnivesha and redacted by Charak. [16-17]",
+            "html": "<p>Thus, ends the sixth chapter on diagnosis of <i>shosha</i> in <a href=\"/index.php?title=Nidana_Sthana\" title=\"Nidana Sthana\">Nidana Sthana</a> in the treatise composed by Agnivesha and redacted by Charak. [16-17]\n</p>"
+        },
+        {
+            "type": "h2",
+            "text": "Tattva Vimarsha (Fundamental Principles)",
+            "html": "<h2><span id=\"Tattva_Vimarsha_.28Fundamental_Principles.29\"></span><span class=\"mw-headline\" id=\"Tattva_Vimarsha_(Fundamental_Principles)\">Tattva Vimarsha (Fundamental Principles)</span></h2>",
+            "level": 2
+        },
+        {
+            "type": "ul",
+            "text": "Wasting or emaciating conditions like shosha occur because of four factors: Sahasa (overexertion), Sandhaarana (suppression of natural urges), Kshaya (emaciation), and Vishamasana (Dietary error).",
+            "html": "<ul><li>Wasting or emaciating conditions like <i>shosha</i> occur because of four factors: <i>Sahasa</i> (overexertion), <i>Sandhaarana</i> (suppression of natural urges), <i>Kshaya</i> (emaciation), and <i>Vishamasana</i> (Dietary error).</li></ul>",
+            "items": [
+                "Wasting or emaciating conditions like shosha occur because of four factors: Sahasa (overexertion), Sandhaarana (suppression of natural urges), Kshaya (emaciation), and Vishamasana (Dietary error)."
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "The common effect of the four factors is dhatu kshaya (loss of body tissue), especially rasa which is responsible for maintaining vyadhikshamatya (Immunity).",
+            "html": "<ul><li>The common effect of the four factors is <i><a href=\"/index.php?title=Dhatu\" title=\"Dhatu\">dhatu</a> kshaya</i> (loss of body tissue), especially rasa which is responsible for maintaining <i>vyadhikshamatya</i> (Immunity).</li></ul>",
+            "items": [
+                "The common effect of the four factors is dhatu kshaya (loss of body tissue), especially rasa which is responsible for maintaining vyadhikshamatya (Immunity)."
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Sahajabala (Innate immunity) is fundamental to prognosis of the disease. If sahajabala is intact, the outcome of treatment is favorable, even if the symptoms are full blown.",
+            "html": "<ul><li><i>Sahajabala</i> (Innate immunity) is fundamental to prognosis of the disease. If <i>sahajabala</i> is intact, the outcome of treatment is favorable, even if the symptoms are full blown.</li></ul>",
+            "items": [
+                "Sahajabala (Innate immunity) is fundamental to prognosis of the disease. If sahajabala is intact, the outcome of treatment is favorable, even if the symptoms are full blown."
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Etiological factors, dosha vitiation and clinical features help in understanding the pathophysiology of the disease.",
+            "html": "<ul><li>Etiological factors, <i><a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a></i> vitiation and clinical features help in understanding the pathophysiology of the disease.</li></ul>",
+            "items": [
+                "Etiological factors, dosha vitiation and clinical features help in understanding the pathophysiology of the disease."
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Vidhi Vimarsha (Applied Inferences)",
+            "html": "<h2><span id=\"Vidhi_Vimarsha_.28Applied_Inferences.29\"></span><span class=\"mw-headline\" id=\"Vidhi_Vimarsha_(Applied_Inferences)\">Vidhi Vimarsha (Applied Inferences)</span></h2>",
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "The point of significance in this chapter is the identification of the intermediary clinical state called shosha which is the precursor to rajayakshma , a pathological state warranting early diagnosis and treatment as a promotive health care strategy. Sushruta acknowledges the specific role of microbial infection through direct physical contacts as the real cause, while Charak emphasizes upon the role of pre-existing progressive weakness and emaciation accompanied with lowered vyadhikshamatva (poor immune strength) as some of the key causative factors responsible for the entire spectrum of the disease complex that includes shosha, kshaya, and rajayakshma . This fundamental idea for which Charak devotes one full chapter in Nidana Sthana is an original contribution of Charak, drawing specific attention to the fact that the host factor and host resistance against disease is more important than the causative microbial organism in case of contagious diseases like tuberculosis. It also endorses the Ayurvedic stand that the solution lies in enhancing or strengthening the immunity of the host and not merely in tackling the microorganisms afflicting the person. Use of antibiotics, as is prevalent in western medicine, is now dwindling because of their adverse side effects and rapidly emerging problems associated with drug resistance. In fact, there is now a growing consensus that an idea of an antibiotic war in medicine is anti-life and anti-health.",
+            "html": "<p>The point of significance in this chapter is the identification of the intermediary clinical state called <i>shosha</i> which is the precursor to <i>rajayakshma</i>, a pathological state warranting early diagnosis and treatment as a promotive health care strategy. Sushruta acknowledges the specific role of microbial infection through direct physical contacts as the real cause, while Charak emphasizes upon the role of pre-existing progressive weakness and emaciation accompanied with lowered <i>vyadhikshamatva</i> (poor immune strength) as some of the key causative factors responsible for the entire spectrum of the disease complex that includes <i>shosha, kshaya,</i> and <i>rajayakshma</i>. This fundamental idea for which Charak devotes one full chapter in <a href=\"/index.php?title=Nidana_Sthana\" title=\"Nidana Sthana\">Nidana Sthana</a> is an original contribution of Charak, drawing specific attention to the fact that the host factor and host resistance against disease is more important than the causative microbial organism in case of contagious diseases like tuberculosis. It also endorses the Ayurvedic stand that the solution lies in enhancing or strengthening the immunity of the host and not merely in tackling the microorganisms afflicting the person. Use of antibiotics, as is prevalent in western medicine, is now dwindling because of their adverse side effects and rapidly emerging problems associated with drug resistance. In fact, there is now a growing consensus that an idea of an antibiotic war in medicine is anti-life and anti-health.\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "The recent advances in biomedical sciences unfolding the shape and role of genome, epigenome and microbiome in human health have partly proven the generic fact that our genes, our environment and “friendly” microbes are our collective friends and are an integral part of our being. They are protective tool for the immune-enhancing through positive life style, healthy dietetics and regulated use of rasayana remedies. Rasayanas are described in Ayurveda for promotive and preventive health care as well as for promotion of longevity.",
+            "html": "<p>The recent advances in biomedical sciences unfolding the shape and role of genome, epigenome and microbiome in human health have partly proven the generic fact that our genes, our environment and “friendly” microbes are our collective friends and are an integral part of our being. They are protective tool for the immune-enhancing through positive life style, healthy dietetics and regulated use of <i><a href=\"/index.php?title=Rasayana\" title=\"Rasayana\">rasayana</a></i> remedies. <i><a href=\"/index.php?title=Rasayana\" title=\"Rasayana\">Rasayanas</a></i> are described in <a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a> for promotive and preventive health care as well as for promotion of longevity.\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Recent researches on rasayana drugs such as amalaki and ashwagandha have appeared in certain high impact journals. Lakhotia et al, in their 2012 study on drosophilia model, have recorded marked DNA repairing effects besides better maturation rate and healthier and longer life span in fruit flies treated with amalaki rasayana . Similarly, Kuboyama et al (2005) have reported that withanolide-A, isolated from the ashwagandha rasayana , has significant regenerative effect on neurons. Singh et al (2008) reported neuro-nutrient impact of Ayurvedic rasayana therapy while Jayprakash et al (2013) reported the neuroprotective role of ashwagandha in experimentally induced Parkinsonism. In view of the conceptual strength and the recent scientific studies now it could be suggested that rasayanas like amalaki, chyavanprasha and ashwagandha should be used in the management of shosha, kshaya and yakshma with great advantage, besides administration of other therapeutics described in Ayurvedic texts.",
+            "html": "<p>Recent researches on <i><a href=\"/index.php?title=Rasayana\" title=\"Rasayana\">rasayana</a></i> drugs such as <i>amalaki</i> and <i>ashwagandha</i> have appeared in certain high impact journals. Lakhotia et al, in their 2012 study on drosophilia model, have recorded marked DNA repairing effects besides better maturation rate and healthier and longer life span in fruit flies treated with <i>amalaki rasayana</i>. Similarly, Kuboyama et al (2005) have reported that withanolide-A, isolated from the <i>ashwagandha rasayana</i>, has significant regenerative effect on neurons. Singh et al (2008) reported neuro-nutrient impact of Ayurvedic <i>rasayana</i> therapy while Jayprakash et al (2013) reported the neuroprotective role of <i>ashwagandha</i> in experimentally induced Parkinsonism. In view of the conceptual strength and the recent scientific studies now it could be suggested that <i><a href=\"/index.php?title=Rasayana\" title=\"Rasayana\">rasayanas</a></i> like <i>amalaki, chyavanprasha</i> and <i>ashwagandha</i> should be used in the management of <i>shosha, kshaya</i> and <i>yakshma</i> with great advantage, besides administration of other therapeutics described in Ayurvedic texts.\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "As mentioned earlier, Ayurvedic texts propound the doctrine of an immunocompromised state as the precursor of chronic wasting diseases like shosha, kshaya and yakshma . Sushruta, while describing the samkramaka (contagious diseases) specially, observes that jwara , shosha, rajayakshma, abhisyanda or conjunctivitis, and kushtha (or dermatoses such as leprosy) spread from person to person by contact. The spread of such diseases may be prevented by avoiding personal contacts and by promoting vyadhiksamatva or immunity with the help of leading a healthy lifestyle, following good nutrition and through administration of rasayana therapy.",
+            "html": "<p>As mentioned earlier, Ayurvedic texts propound the doctrine of an immunocompromised state as the precursor of chronic wasting diseases like <i>shosha, kshaya</i> and <i>yakshma</i>. Sushruta, while describing the <i>samkramaka</i> (contagious diseases) specially, observes that <i><a href=\"/index.php?title=Jwara\" title=\"Jwara\">jwara</a></i>, <i>shosha, rajayakshma, abhisyanda</i> or conjunctivitis, and <i>kushtha</i> (or dermatoses such as leprosy) spread from person to person by contact. The spread of such diseases may be prevented by avoiding personal contacts and by promoting <i>vyadhiksamatva</i> or immunity with the help of leading a healthy lifestyle, following good nutrition and through administration of <i><a href=\"/index.php?title=Rasayana\" title=\"Rasayana\">rasayana</a></i> therapy.\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Ojas (vital essence of the body)",
+            "html": "<h3><span id=\"Ojas_.28vital_essence_of_the_body.29\"></span><span class=\"mw-headline\" id=\"Ojas_(vital_essence_of_the_body)\"><i><a href=\"/index.php?title=Ojas\" title=\"Ojas\">Ojas</a></i> (vital essence of the body)</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "The Ayurvedic classics describe a unique hitherto-less-known concept of ojas (vital essence of the body) that is responsible for biological strength (including immunity). Ojas is the final product of tissue nourishment and is quintessential to all the seven dhatus namely rasa , rakta , mamsa , meda , asthi , majja , and shukra . Sushruta describes ojas as the param teja of the sapta dhatus and as the bala or biological strength of an individual. Ojas is of two kinds, namely, para ojas and apara ojas . Para ojas is subtle and present in very minute quantities in the heart while apara ojas is gross and as much as half an anjali (handful) in quantity spread all over the body. Para ojas is vital to life and any damage or vitiation of it may lead to instant death. Apara ojas is responsible for gross immune strength.",
+            "html": "<p>The Ayurvedic classics describe a unique hitherto-less-known concept of <i><a href=\"/index.php?title=Ojas\" title=\"Ojas\">ojas</a></i> (vital essence of the body) that is responsible for biological strength (including immunity). <i><a href=\"/index.php?title=Ojas\" title=\"Ojas\">Ojas</a></i> is the final product of tissue nourishment and is quintessential to all the seven <i><a href=\"/index.php?title=Dhatu\" title=\"Dhatu\">dhatus</a></i> namely <i><a href=\"/index.php?title=Rasa\" title=\"Rasa\">rasa</a>, <a class=\"mw-redirect\" href=\"/index.php?title=Rakta\" title=\"Rakta\">rakta</a>, <a class=\"mw-redirect\" href=\"/index.php?title=Mamsa\" title=\"Mamsa\">mamsa</a>, <a href=\"/index.php?title=Meda\" title=\"Meda\">meda</a>, <a href=\"/index.php?title=Asthi\" title=\"Asthi\">asthi</a>, <a href=\"/index.php?title=Majja\" title=\"Majja\">majja</a>,</i> and <i><a class=\"mw-redirect\" href=\"/index.php?title=Shukra\" title=\"Shukra\">shukra</a></i>. Sushruta describes <i><a href=\"/index.php?title=Ojas\" title=\"Ojas\">ojas</a></i> as the <i>param teja</i> of the <i>sapta <a href=\"/index.php?title=Dhatu\" title=\"Dhatu\">dhatus</a></i> and as the <i>bala</i> or biological strength of an individual. <i><a href=\"/index.php?title=Ojas\" title=\"Ojas\">Ojas</a></i> is of two kinds, namely, <i>para ojas</i> and <i>apara ojas</i>. <i>Para ojas</i> is subtle and present in very minute quantities in the heart while <i>apara ojas</i> is gross and as much as half an <i>anjali</i> (handful) in quantity spread all over the body. <i>Para ojas</i> is vital to life and any damage or vitiation of it may lead to instant death. <i>Apara ojas</i> is responsible for gross immune strength. \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "The oja-bala ( ojas strength) derived from ojas has been categorized to be of three kinds: sahaja bala or primary natural immunity, kalaja bala or acquired immunity through environmental factors such as climate etc., and yuktikrit bala or artificially-induced acquired immunity. The classics prompt to utilize these three resources to enhance the bala/immunity in order to prevent all ailments especially chronic wasting diseases and contagious diseases, such as shosha, kshaya and yakshma .",
+            "html": "<p>The <i>oja-bala</i> (<i><a href=\"/index.php?title=Ojas\" title=\"Ojas\">ojas</a></i> strength) derived from <i><a href=\"/index.php?title=Ojas\" title=\"Ojas\">ojas</a></i> has been categorized to be of three kinds: <i>sahaja bala</i> or primary natural immunity, <i>kalaja bala</i> or acquired immunity through environmental factors such as climate etc., and <i>yuktikrit bala</i> or artificially-induced acquired immunity. The classics prompt to utilize these three resources to enhance the bala/immunity in order to prevent all ailments especially chronic wasting diseases and contagious diseases, such as <i>shosha, kshaya</i> and <i>yakshma</i>. \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "The texts describe three categories of bala-dosha or disorders of bala which are comparable to three categories of immune disorders such as :",
+            "html": "<p>The texts describe three categories of <i>bala-dosha</i> or disorders of <i>bala</i> which are comparable to three categories of immune disorders such as :\n</p>"
+        },
+        {
+            "type": "ol",
+            "text": "Oja-vyapat (immune-aberrations and allergies), Oja-visransa (dislodged immunity and autoimmune disorders), and Oja-kshaya (immunodeficiency).",
+            "html": "<ol><li><i>Oja-vyapat</i> (immune-aberrations and allergies),</li>\n<li><i>Oja-visransa</i> (dislodged immunity and autoimmune disorders), and</li>\n<li><i>Oja-kshaya</i> (immunodeficiency).</li></ol>",
+            "items": [
+                "Oja-vyapat (immune-aberrations and allergies),",
+                "Oja-visransa (dislodged immunity and autoimmune disorders), and",
+                "Oja-kshaya (immunodeficiency)."
+            ]
+        },
+        {
+            "type": "p",
+            "text": "There are specific methods and approaches to tackle the three categories of immune disorders.",
+            "html": "<p>There are specific methods and approaches to tackle the three categories of immune disorders.\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "It cannot be overemphasized that while looking at the above mentioned ancient classical descriptions on ojabala and bala-dosha it seems immunology was already highly advanced in the Samhita period of Ayurveda and the knowledge in this field was almost comparable with the latest basic knowledge of immunology as known today.",
+            "html": "<p>It cannot be overemphasized that while looking at the above mentioned ancient classical descriptions on <i>ojabala</i> and <i>bala-dosha</i> it seems immunology was already highly advanced in the <i>Samhita</i> period of <a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a> and the knowledge in this field was almost comparable with the latest basic knowledge of immunology as known today.\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Ancient Ayurvedic leads in Microbiology",
+            "html": "<h3><span class=\"mw-headline\" id=\"Ancient_Ayurvedic_leads_in_Microbiology\">Ancient Ayurvedic leads in Microbiology</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "It will be pertinent to review the concept of microbiology and parasitology in Ayurvedic classics in the context of immunity and body resistance. Ojas , bala and vyadhikshamatva need to be adequate within the body for it to possess immunity. Though the role of microbes in pathology was not known in modern medicine 200 years ago, Ayurveda had a good knowledge of their role, albeit of a primitive nature. Ayurveda describes two kinds of organisms, namely prakrita (non-pathogenic) and vaikrita (pathogenic). Also described are two categories of pathogens/parasites, namely, external and internal. The internal organisms are mainly of three categories in terms of their natural environments: those that thrive on mucus ( shleshma ), those thriving in fecal matter, and those thriving in blood. Some of these, particularly the ones thriving in fecal matter seem to be intestinal parasites while others simulate microbes. The texts repeatedly advocate protecting surgical wounds from these organisms. There is also a clear description of vector borne diseases and that diseases such as leprosy, tuberculosis, conjunctivitis and fever as contagious diseases spread by contact with other patients or vectors.",
+            "html": "<p>It will be pertinent to review the concept of microbiology and parasitology in Ayurvedic classics in the context of immunity and body resistance. <i><a href=\"/index.php?title=Ojas\" title=\"Ojas\">Ojas</a>, bala</i> and <i>vyadhikshamatva</i> need to be adequate within the body for it to possess immunity. Though the role of microbes in pathology was not known in modern medicine 200 years ago, <a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a> had a good knowledge of their role, albeit of a primitive nature. <a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a> describes two kinds of organisms, namely <i>prakrita</i> (non-pathogenic) and <i>vaikrita</i> (pathogenic). Also described are two categories of pathogens/parasites, namely, external and internal. The internal organisms are mainly of three categories in terms of their natural environments: those that thrive on mucus (<i>shleshma</i>), those thriving in fecal matter, and those thriving in blood. Some of these, particularly the ones thriving in fecal matter seem to be intestinal parasites while others simulate microbes. The texts repeatedly advocate protecting surgical wounds from these organisms. There is also a clear description of vector borne diseases and that diseases such as leprosy, tuberculosis, conjunctivitis and fever as contagious diseases spread by contact with other patients or vectors.\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "It is interesting to note that these ancient texts recognized the existence of “friendly” non-pathogenic organisms and their functions - something that is only now being considered the greatest discovery in microbiology .It is claimed by modern scientists that our living body is made up of 10 trillion somatic cells and is home to some 100 trillion friendly microbes. This “empire” of microbes is called Microbiome. Understanding the relationship between the microbiome and the human being, the animal and the environment - is as important as unravelling human genome. The microbiome is like a well structured organ with unique functions and hence needs to be protected in the same way as we protect our other vital organs like liver, heart or kidney. This recognition of the existence of these friendly prakrita (non-pathogenic organisms) by Ayurveda thousands of years ago is of great historical significance.",
+            "html": "<p>It is interesting to note that these ancient texts recognized the existence of “friendly” non-pathogenic organisms and their functions - something that is only now being considered the greatest discovery in microbiology .It is claimed by modern scientists that our living body is made up of 10 trillion somatic cells and is home to some 100 trillion friendly microbes. This “empire” of microbes is called Microbiome. Understanding the relationship between the microbiome and the human being, the animal and the environment - is as important as unravelling human genome. The microbiome is like a well structured organ with unique functions and hence needs to be protected in the same way as we protect our other vital organs like liver, heart or kidney. This recognition of the existence of these friendly <i>prakrita</i> (non-pathogenic organisms) by <a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a> thousands of years ago is of great historical significance.\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Research Topics on this Subject",
+            "html": "<h3><span class=\"mw-headline\" id=\"Research_Topics_on_this_Subject\">Research Topics on this Subject</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "ol",
+            "text": "A literary and conceptual study to identify the nature and strength of Bala or immune strength of human body and its scope in prevention and treatment of various diseases and to evaluate its contemporary application. Clinical and experimental studies on different rasayana remedies for their immunoenhancing effect in cases of kshaya,shosha and yakshma . To develop precise diagnostic criteria for the three disease states described by Charak namely kshaya, shosha and yakshma including attempts to identify biomarkers, indicators and clinical rating scales to develop good diagnostic methodology to be used by Ayurvedic practitioners.",
+            "html": "<ol><li>A literary and conceptual study to identify the nature and strength of Bala or immune strength of human body and its scope in prevention and treatment of various diseases and to evaluate its contemporary application.</li>\n<li>Clinical and experimental studies on different <i><a href=\"/index.php?title=Rasayana\" title=\"Rasayana\">rasayana</a></i> remedies for their immunoenhancing effect in cases of <i>kshaya,shosha</i> and <i>yakshma</i>.</li>\n<li>To develop precise diagnostic criteria for the three disease states described by Charak namely <i>kshaya, shosha</i> and <i>yakshma</i> including attempts to identify biomarkers, indicators and clinical rating scales to develop good diagnostic methodology to be used by Ayurvedic practitioners.</li></ol>",
+            "items": [
+                "A literary and conceptual study to identify the nature and strength of Bala or immune strength of human body and its scope in prevention and treatment of various diseases and to evaluate its contemporary application.",
+                "Clinical and experimental studies on different rasayana remedies for their immunoenhancing effect in cases of kshaya,shosha and yakshma .",
+                "To develop precise diagnostic criteria for the three disease states described by Charak namely kshaya, shosha and yakshma including attempts to identify biomarkers, indicators and clinical rating scales to develop good diagnostic methodology to be used by Ayurvedic practitioners."
+            ]
+        },
+        {
+            "type": "p",
+            "text": "",
+            "html": "<p><br/>\n</p>"
+        },
+        {
+            "type": "h2",
+            "text": "Further reading",
+            "html": "<h2><span class=\"mw-headline\" id=\"Further_reading\">Further reading</span></h2>",
+            "level": 2
+        },
+        {
+            "type": "ol",
+            "text": "Charak Samhita Vimana 7.9 on natural non-pathogenic organisms. Chakrapani on Charak Samhita Vimana 7.9. “ÏarÍra- sahajÁstvaikÁh” Charak Samhita Vimana 11.13 about the pathogenic organism that grow in blood, mucus and faeces. Charak Samhita Vimana 7.11, Sushruta Uttara Tantra 54.19-20 and Vagbhata Nidana 14.51 stating that pathogens grown on blood are minute and are invisible. Sushruta Samhita Nidana 5.33-34 on the mode of transmission of diseases from person to person. Charak Samhita Nidana 3.6. Description on epidemics. Lakhotia and associates Amalaki Rasayan in Drosophilia model Kuboyama,T. etal (2005) Neuritic regeneration and synoptic reconstruction induced by Withanolide-A.British Jour.Pharmacol. 144/7:961-971 Singh,RH ; Narasimhamurthy,K and Singh,Girish (2008) Neuronutrient Impact of Ayurvedic Rasayana therapy in brain aging. Biogerontology 09:369-374. Jay Prakash et al 2013 Neuroprotective role of Withania somnifera root extract in Moneb-paraquat induced mouse model of Parkinsonism. Neurochem Res. Feb. 2013",
+            "html": "<ol><li>Charak Samhita Vimana 7.9 on natural non-pathogenic organisms.</li>\n<li>Chakrapani on Charak Samhita Vimana 7.9. “ÏarÍra- sahajÁstvaikÁh”</li>\n<li>Charak Samhita Vimana 11.13 about the pathogenic organism that grow in blood, mucus and faeces.</li>\n<li>Charak Samhita Vimana 7.11, Sushruta Uttara Tantra 54.19-20 and Vagbhata Nidana 14.51 stating that pathogens grown on blood are minute and are invisible.</li>\n<li>Sushruta Samhita Nidana 5.33-34 on the mode of transmission of diseases from person to person.</li>\n<li>Charak Samhita Nidana 3.6. Description on epidemics.</li>\n<li>Lakhotia and associates    Amalaki Rasayan in Drosophilia model</li>\n<li>Kuboyama,T. etal (2005) Neuritic regeneration and synoptic reconstruction induced by Withanolide-A.British Jour.Pharmacol. 144/7:961-971</li>\n<li>Singh,RH ; Narasimhamurthy,K and Singh,Girish (2008) Neuronutrient Impact of Ayurvedic Rasayana therapy in brain aging. Biogerontology 09:369-374.</li>\n<li>Jay Prakash et al 2013 Neuroprotective role of Withania somnifera root extract in Moneb-paraquat induced mouse model of Parkinsonism. Neurochem Res. Feb. 2013</li></ol>",
+            "items": [
+                "Charak Samhita Vimana 7.9 on natural non-pathogenic organisms.",
+                "Chakrapani on Charak Samhita Vimana 7.9. “ÏarÍra- sahajÁstvaikÁh”",
+                "Charak Samhita Vimana 11.13 about the pathogenic organism that grow in blood, mucus and faeces.",
+                "Charak Samhita Vimana 7.11, Sushruta Uttara Tantra 54.19-20 and Vagbhata Nidana 14.51 stating that pathogens grown on blood are minute and are invisible.",
+                "Sushruta Samhita Nidana 5.33-34 on the mode of transmission of diseases from person to person.",
+                "Charak Samhita Nidana 3.6. Description on epidemics.",
+                "Lakhotia and associates Amalaki Rasayan in Drosophilia model",
+                "Kuboyama,T. etal (2005) Neuritic regeneration and synoptic reconstruction induced by Withanolide-A.British Jour.Pharmacol. 144/7:961-971",
+                "Singh,RH ; Narasimhamurthy,K and Singh,Girish (2008) Neuronutrient Impact of Ayurvedic Rasayana therapy in brain aging. Biogerontology 09:369-374.",
+                "Jay Prakash et al 2013 Neuroprotective role of Withania somnifera root extract in Moneb-paraquat induced mouse model of Parkinsonism. Neurochem Res. Feb. 2013"
+            ]
+        },
+        {
+            "type": "h3",
+            "text": "Related Chapters",
+            "html": "<h3><span class=\"mw-headline\" id=\"Related_Chapters\">Related Chapters</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "ul",
+            "text": "Rajayakshma Chikitsa Kshatakshina Chikitsa",
+            "html": "<ul><li><a href=\"/index.php?title=Rajayakshma_Chikitsa\" title=\"Rajayakshma Chikitsa\">Rajayakshma Chikitsa</a></li>\n<li><a href=\"/index.php?title=Kshatakshina_Chikitsa\" title=\"Kshatakshina Chikitsa\">Kshatakshina Chikitsa</a></li></ul>",
+            "items": [
+                "Rajayakshma Chikitsa",
+                "Kshatakshina Chikitsa"
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Send us your suggestions and feedback on this page.",
+            "html": "<p><big><b><a href=\"/index.php?title=Special:ContactMe\" title=\"Special:ContactMe\">Send us your suggestions and feedback on this page.</a></b></big>\n</p>"
+        }
+    ],
+    "html_sha256": "2d2000f8ef08b373712d7e762c0ee8507a74e54ab2203a987d0c419d62543e71"
+}

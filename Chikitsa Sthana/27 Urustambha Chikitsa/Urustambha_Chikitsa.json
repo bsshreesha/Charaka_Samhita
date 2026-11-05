@@ -1,0 +1,2116 @@
+{
+    "source": "Charaka Samhita",
+    "chapter": "Urustambha Chikitsa",
+    "url": "https://www.carakasamhitaonline.com/index.php?title=Urustambha_Chikitsa",
+    "xpath": "//*[@id=\"content\"]",
+    "total_blocks": 331,
+    "total_tables": 3,
+    "total_headings": 35,
+    "content": [
+        {
+            "type": "h1",
+            "text": "Urustambha Chikitsa",
+            "html": "<h1 class=\"firstHeading mw-first-heading\" id=\"firstHeading\"><span class=\"mw-page-title-main\">Urustambha Chikitsa</span></h1>",
+            "level": 1
+        },
+        {
+            "type": "figure",
+            "text": "",
+            "html": "<figure class=\"mw-default-size mw-halign-right\" typeof=\"mw:File\"><a href=\"https://www.carakasamhitaonline.com/index.php?title=Special:CiteThisPage&amp;page=Urustambha_Chikitsa&amp;id=44561&amp;wpFormIdentifier=titleform\" rel=\"nofollow\"><img class=\"mw-file-element\" decoding=\"async\" height=\"47\" src=\"/images/5/58/Cite.png\" width=\"180\"/></a><figcaption></figcaption></figure>"
+        },
+        {
+            "type": "p",
+            "text": "Chikitsa Sthana Chapter 27. Management of Urustambha (Diseases of thigh and hip)",
+            "html": "<p><big><b><a href=\"/index.php?title=Chikitsa_Sthana\" title=\"Chikitsa Sthana\">Chikitsa Sthana</a> Chapter 27. Management of Urustambha (Diseases of thigh and hip) </b></big>\n</p>"
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "Section/Chapter",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Chikitsa Sthana Chapter 27",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Preceding Chapter",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Trimarmiya Chikitsa",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Succeeding Chapter",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Vatavyadhi Chikitsa",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Other Sections",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Sutra Sthana , Nidana Sthana , Vimana Sthana , Sharira Sthana , Indriya Sthana , Kalpa Sthana , Siddhi Sthana",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Translator and commentator",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Rajkumar, Deole Y. S.",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Reviewer",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Rastogi S.",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Editors",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Ojha S.N., Deole Y.S. , Basisht G.",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Year of publication",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "2020",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Publisher",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Charak Samhita Research, Training and Skill Development Centre",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "DOI",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "10.47468/CSNE.2020.e01.s06.028",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ]
+            ],
+            "html": "<table class=\"infobox\" style=\"width:22em\"><caption>Urusthambha Chikitsa</caption><tbody><tr><th scope=\"row\">Section/Chapter</th><td>\n<a href=\"/index.php?title=Chikitsa_Sthana\" title=\"Chikitsa Sthana\">Chikitsa Sthana</a> Chapter 27</td></tr><tr><th scope=\"row\">Preceding Chapter</th><td>\n<a href=\"/index.php?title=Trimarmiya_Chikitsa\" title=\"Trimarmiya Chikitsa\">Trimarmiya Chikitsa</a></td></tr><tr><th scope=\"row\">Succeeding Chapter</th><td>\n<a href=\"/index.php?title=Vatavyadhi_Chikitsa\" title=\"Vatavyadhi Chikitsa\">Vatavyadhi Chikitsa </a></td></tr><tr><th scope=\"row\">Other Sections</th><td>\n<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a>, <a href=\"/index.php?title=Nidana_Sthana\" title=\"Nidana Sthana\">Nidana Sthana</a>, <a href=\"/index.php?title=Vimana_Sthana\" title=\"Vimana Sthana\">Vimana Sthana</a>, <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a>, <a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a>, <a href=\"/index.php?title=Kalpa_Sthana\" title=\"Kalpa Sthana\">Kalpa Sthana</a>, <a href=\"/index.php?title=Siddhi_Sthana\" title=\"Siddhi Sthana\">Siddhi Sthana</a></td></tr><tr><th scope=\"row\">Translator and commentator</th><td>\nRajkumar, <a href=\"/index.php?title=Yogesh_Deole\" title=\"Yogesh Deole\">Deole Y. S.</a></td></tr><tr><th scope=\"row\">Reviewer</th><td>\nRastogi S.</td></tr><tr><th scope=\"row\">Editors</th><td>\nOjha S.N., <a href=\"/index.php?title=Yogesh_Deole\" title=\"Yogesh Deole\">Deole Y.S.</a>, <a href=\"/index.php?title=Gopal_Basisht\" title=\"Gopal Basisht\">Basisht G.</a></td></tr><tr><th scope=\"row\">Year of publication</th><td>\n2020</td></tr><tr><th scope=\"row\">Publisher</th><td>\n<a href=\"/index.php?title=Charak_Samhita_Research,_Training_and_Skill_Development_Centre\" title=\"Charak Samhita Research, Training and Skill Development Centre\">Charak Samhita Research, Training and Skill Development Centre</a></td></tr><tr><th scope=\"row\">DOI</th><td>\n<a class=\"external text\" href=\"https://doi.org/10.47468/CSNE.2020.e01.s06.028\" rel=\"nofollow\">10.47468/CSNE.2020.e01.s06.028</a></td></tr></tbody></table>"
+        },
+        {
+            "type": "p",
+            "text": "Abstract",
+            "html": "<p><big><b>Abstract </b></big>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "The chapter deals with the management of urustambha which literally means stiffness of thighs. Patients present with pain and inability to move pelvis and lower extremities. This is the only disease in which Panchakarma are contraindicated. It can be misdiagnosed as vata dominant disorder due to its clinical presentation, however, kapha and meda dhatu are main culprits in the pathogenesis. Etiological factors, pathogenesis, clinical presentation, prognosis and treatment of urustambha are described in this chapter. Keywords : Viruddha, ama-visha, tridosha dushti, Saama-tridosha, Asthigata kapha , medahkaphaavrita- vata , Sneha-Shaitya-Sthairya in Uru, Rukshana , Kapha -meda- vatahara treatment.",
+            "html": "<p style=\"text-align:justify;\">The chapter deals with the management of <i>urustambha</i> which literally means stiffness of thighs. Patients present with pain and inability to move pelvis and lower extremities. This is the only disease in which <a href=\"/index.php?title=Panchakarma\" title=\"Panchakarma\">Panchakarma</a> are contraindicated. It can be misdiagnosed as <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a> dominant disorder due to its clinical presentation, however, <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a> and <a href=\"/index.php?title=Meda_dhatu\" title=\"Meda dhatu\">meda dhatu</a> are main culprits in the pathogenesis. Etiological factors, pathogenesis, clinical presentation, prognosis and treatment of <i>urustambha</i> are described in this chapter.\n<br/>\n<b>Keywords</b>: Viruddha, ama-visha, tridosha dushti, Saama-tridosha, Asthigata <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a>, medahkaphaavrita-<a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a>, Sneha-Shaitya-Sthairya in Uru, <a href=\"/index.php?title=Rukshana\" title=\"Rukshana\">Rukshana</a>, <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">Kapha</a>-meda-<a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vatahara</a> treatment.\n</p>"
+        },
+        {
+            "type": "h2",
+            "text": "Contents",
+            "html": "<h2 id=\"mw-toc-heading\">Contents</h2>",
+            "level": 2
+        },
+        {
+            "type": "ul",
+            "text": "1 Introduction 2 Sanskrit Text, Transliteration and English Translation 2.1 Agnivesha’s query 2.2 Atreya’s reply 2.3 Etiopathology 2.4 Prodromal symptoms 2.5 Contraindication of snehana (oleation therapy) 2.6 Clinical features 2.7 Prognosis 2.8 Contraindications of Panchakarma 2.9 Principles of management 2.10 Various formulations 2.11 Powder formulations 2.12 Treatment of consequence of apatarpana 2.13 Piluparnyadi taila 2.14 Kushthadi taila 2.15 Saindhavadi taila 2.16 External applications 2.17 Beneficial diet and lifestyle in kapha vitiation 2.18 Summary 3 Tattva Vimarsha (Fundamental Principles) 4 Vidhi Vimarsha (Applied Inferences ) 4.1 Etiological factors 4.2 Reason of limitation of panchakarma in management 4.3 Importance of rukshana 4.4 Beneficial diet 4.5 Medicines 4.6 Medicated oils 4.7 Management of ama dosha 4.8 Current clinical practices 4.8.1 Principles of management 4.8.2 Important medicines 5 References",
+            "html": "<ul>\n<li class=\"toclevel-1 tocsection-1\"><a href=\"#Introduction\"><span class=\"tocnumber\">1</span> <span class=\"toctext\">Introduction</span></a></li>\n<li class=\"toclevel-1 tocsection-2\"><a href=\"#Sanskrit_Text,_Transliteration_and_English_Translation\"><span class=\"tocnumber\">2</span> <span class=\"toctext\">Sanskrit Text, Transliteration and English Translation</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-3\"><a href=\"#Agnivesha’s_query\"><span class=\"tocnumber\">2.1</span> <span class=\"toctext\">Agnivesha’s query</span></a></li>\n<li class=\"toclevel-2 tocsection-4\"><a href=\"#Atreya’s_reply\"><span class=\"tocnumber\">2.2</span> <span class=\"toctext\">Atreya’s reply</span></a></li>\n<li class=\"toclevel-2 tocsection-5\"><a href=\"#Etiopathology\"><span class=\"tocnumber\">2.3</span> <span class=\"toctext\">Etiopathology</span></a></li>\n<li class=\"toclevel-2 tocsection-6\"><a href=\"#Prodromal_symptoms\"><span class=\"tocnumber\">2.4</span> <span class=\"toctext\">Prodromal symptoms</span></a></li>\n<li class=\"toclevel-2 tocsection-7\"><a href=\"#Contraindication_of_snehana_(oleation_therapy)\"><span class=\"tocnumber\">2.5</span> <span class=\"toctext\">Contraindication of snehana (oleation therapy)</span></a></li>\n<li class=\"toclevel-2 tocsection-8\"><a href=\"#Clinical_features\"><span class=\"tocnumber\">2.6</span> <span class=\"toctext\">Clinical features</span></a></li>\n<li class=\"toclevel-2 tocsection-9\"><a href=\"#Prognosis\"><span class=\"tocnumber\">2.7</span> <span class=\"toctext\">Prognosis</span></a></li>\n<li class=\"toclevel-2 tocsection-10\"><a href=\"#Contraindications_of_Panchakarma\"><span class=\"tocnumber\">2.8</span> <span class=\"toctext\">Contraindications of Panchakarma</span></a></li>\n<li class=\"toclevel-2 tocsection-11\"><a href=\"#Principles_of_management\"><span class=\"tocnumber\">2.9</span> <span class=\"toctext\">Principles of management</span></a></li>\n<li class=\"toclevel-2 tocsection-12\"><a href=\"#Various_formulations\"><span class=\"tocnumber\">2.10</span> <span class=\"toctext\">Various formulations</span></a></li>\n<li class=\"toclevel-2 tocsection-13\"><a href=\"#Powder_formulations\"><span class=\"tocnumber\">2.11</span> <span class=\"toctext\">Powder formulations</span></a></li>\n<li class=\"toclevel-2 tocsection-14\"><a href=\"#Treatment_of_consequence_of_apatarpana\"><span class=\"tocnumber\">2.12</span> <span class=\"toctext\">Treatment of consequence of <i>apatarpana</i></span></a></li>\n<li class=\"toclevel-2 tocsection-15\"><a href=\"#Piluparnyadi_taila\"><span class=\"tocnumber\">2.13</span> <span class=\"toctext\"><i>Piluparnyadi taila</i></span></a></li>\n<li class=\"toclevel-2 tocsection-16\"><a href=\"#Kushthadi_taila\"><span class=\"tocnumber\">2.14</span> <span class=\"toctext\"><i>Kushthadi taila</i></span></a></li>\n<li class=\"toclevel-2 tocsection-17\"><a href=\"#Saindhavadi_taila\"><span class=\"tocnumber\">2.15</span> <span class=\"toctext\"><i>Saindhavadi taila</i></span></a></li>\n<li class=\"toclevel-2 tocsection-18\"><a href=\"#External_applications\"><span class=\"tocnumber\">2.16</span> <span class=\"toctext\">External applications</span></a></li>\n<li class=\"toclevel-2 tocsection-19\"><a href=\"#Beneficial_diet_and_lifestyle_in_kapha_vitiation\"><span class=\"tocnumber\">2.17</span> <span class=\"toctext\">Beneficial diet and lifestyle in kapha vitiation</span></a></li>\n<li class=\"toclevel-2 tocsection-20\"><a href=\"#Summary\"><span class=\"tocnumber\">2.18</span> <span class=\"toctext\">Summary</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-21\"><a href=\"#Tattva_Vimarsha_(Fundamental_Principles)\"><span class=\"tocnumber\">3</span> <span class=\"toctext\">Tattva Vimarsha (Fundamental Principles)</span></a></li>\n<li class=\"toclevel-1 tocsection-22\"><a href=\"#Vidhi_Vimarsha_(Applied_Inferences_)\"><span class=\"tocnumber\">4</span> <span class=\"toctext\">Vidhi Vimarsha (Applied Inferences )</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-23\"><a href=\"#Etiological_factors\"><span class=\"tocnumber\">4.1</span> <span class=\"toctext\">Etiological factors</span></a></li>\n<li class=\"toclevel-2 tocsection-24\"><a href=\"#Reason_of_limitation_of_panchakarma_in_management\"><span class=\"tocnumber\">4.2</span> <span class=\"toctext\">Reason of limitation of panchakarma in management</span></a></li>\n<li class=\"toclevel-2 tocsection-25\"><a href=\"#Importance_of_rukshana\"><span class=\"tocnumber\">4.3</span> <span class=\"toctext\">Importance of rukshana</span></a></li>\n<li class=\"toclevel-2 tocsection-26\"><a href=\"#Beneficial_diet\"><span class=\"tocnumber\">4.4</span> <span class=\"toctext\">Beneficial diet</span></a></li>\n<li class=\"toclevel-2 tocsection-27\"><a href=\"#Medicines\"><span class=\"tocnumber\">4.5</span> <span class=\"toctext\">Medicines</span></a></li>\n<li class=\"toclevel-2 tocsection-28\"><a href=\"#Medicated_oils\"><span class=\"tocnumber\">4.6</span> <span class=\"toctext\">Medicated oils</span></a></li>\n<li class=\"toclevel-2 tocsection-29\"><a href=\"#Management_of_ama_dosha\"><span class=\"tocnumber\">4.7</span> <span class=\"toctext\">Management of ama dosha</span></a></li>\n<li class=\"toclevel-2 tocsection-30\"><a href=\"#Current_clinical_practices\"><span class=\"tocnumber\">4.8</span> <span class=\"toctext\">Current clinical practices</span></a>\n<ul>\n<li class=\"toclevel-3 tocsection-31\"><a href=\"#Principles_of_management_2\"><span class=\"tocnumber\">4.8.1</span> <span class=\"toctext\">Principles of management</span></a></li>\n<li class=\"toclevel-3 tocsection-32\"><a href=\"#Important_medicines\"><span class=\"tocnumber\">4.8.2</span> <span class=\"toctext\">Important medicines</span></a></li>\n</ul>\n</li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-33\"><a href=\"#References\"><span class=\"tocnumber\">5</span> <span class=\"toctext\">References</span></a></li>\n</ul>",
+            "items": [
+                "1 Introduction",
+                "2 Sanskrit Text, Transliteration and English Translation 2.1 Agnivesha’s query 2.2 Atreya’s reply 2.3 Etiopathology 2.4 Prodromal symptoms 2.5 Contraindication of snehana (oleation therapy) 2.6 Clinical features 2.7 Prognosis 2.8 Contraindications of Panchakarma 2.9 Principles of management 2.10 Various formulations 2.11 Powder formulations 2.12 Treatment of consequence of apatarpana 2.13 Piluparnyadi taila 2.14 Kushthadi taila 2.15 Saindhavadi taila 2.16 External applications 2.17 Beneficial diet and lifestyle in kapha vitiation 2.18 Summary",
+                "3 Tattva Vimarsha (Fundamental Principles)",
+                "4 Vidhi Vimarsha (Applied Inferences ) 4.1 Etiological factors 4.2 Reason of limitation of panchakarma in management 4.3 Importance of rukshana 4.4 Beneficial diet 4.5 Medicines 4.6 Medicated oils 4.7 Management of ama dosha 4.8 Current clinical practices 4.8.1 Principles of management 4.8.2 Important medicines",
+                "5 References"
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Introduction",
+            "html": "<h2><span class=\"mw-headline\" id=\"Introduction\">Introduction</span></h2>",
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "Urustambha is placed in a sequence after management of disorders of three marma and before management of vata disorders. The sequence indicates that it is as hazardous as trimarma disorder and resembles vata disorders. Though the clinical presentation of urustambha resembles vata dominant diseases, the management is focused on main culprits like kapha and meda dhatu '. The two obstruct the vessels flowing downwards in the thigh region causing stiffness and immobility of thighs.",
+            "html": "<p><i>Urustambha</i> is placed in a sequence after management of disorders of three <i>marma</i> and before management of <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a> disorders. The sequence indicates that it is as hazardous as <i>trimarma</i> disorder and resembles <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a> disorders. Though the clinical presentation of <i>urustambha</i> resembles <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a> dominant diseases, the management is focused on main culprits like <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a> and <a href=\"/index.php?title=Meda_dhatu\" title=\"Meda dhatu\">meda dhatu</a>'. The two obstruct the vessels flowing downwards in the thigh region causing stiffness and immobility of thighs.  \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Urustambha evokes tri dosha response which tries to metabolize rasa by directing it to digestive organs, where it is regarded as improperly transformed substance called ama rasa dhatu . Disproportionate fat causes susceptibility by directing the sama-tri dosha (united tri dosha and ama rasa dhatu ) to the lower limbs. Combined with fat, kapha dosha having similar qualities gets more strength and fills up the bones of lower limbs. Simultaneously vata gets obstructed by fat resulting in the development of cardinal feature like- excessive fatigue of calf muscles and thighs, constant pain with slight burning sensation. Pain in feet on stepping on the ground, cold to touch, loss of sensation, inability to stand because of lack of muscle strength, unable to move the upper and lower parts of the lower limbs due to the feeling as if they are fractured.\nIf the patient develops burning sensation, pricking pain and tremors, urusthambha is fatal. If such symptoms are absent and is of recent origin, then it is curable.",
+            "html": "<p><i>Urustambha</i> evokes tri<a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> response which tries to metabolize <i>rasa</i> by directing it to digestive organs, where it is regarded as improperly transformed substance called ama <a href=\"/index.php?title=Rasa_dhatu\" title=\"Rasa dhatu\">rasa dhatu</a>. Disproportionate fat causes susceptibility by directing the sama-tri<a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> (united tri<a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> and ama <a href=\"/index.php?title=Rasa_dhatu\" title=\"Rasa dhatu\">rasa dhatu</a>) to the lower limbs. Combined with fat, <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a> <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> having similar qualities gets more strength and fills up the bones of lower limbs. Simultaneously <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a> gets obstructed by fat resulting in the development of cardinal feature like- excessive fatigue of calf muscles and thighs, constant pain with slight burning sensation. Pain in feet on stepping on the ground, cold to touch, loss of sensation, inability to stand because of lack of muscle strength, unable to move the upper and lower parts of the lower limbs due to the feeling as if they are fractured.\nIf the patient develops burning sensation, pricking pain and tremors, <i>urusthambha</i> is fatal. If such symptoms are absent and is of recent origin, then it is curable.\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "The treatment principle of urusthambha is rukshana (facilitating consumption and absorption of liquid metabolites in circulation and tissues) and pachana (increasing metabolism) by neutralizing toxic metabolites along with alleviation of vata . Medicines should be alkaline medicines, medicated alcoholic preparations, cow’s urine, diaphoresis and massage with paste of herbs to remove fat and other liquid metabolites. After rukshana - pachana , oleation for restoring vata - could be done internally, which would subside kapha - meda dhatu - vata due to the peculiarity of medicated oils. Along with external rukshana the patient should be made to exercise according to his strength. This disease could be cured only with careful diligence as it is situated in deeper tissues like bones and all three dosha are involved simultaneously.",
+            "html": "<p>The treatment principle of <i>urusthambha</i> is <a href=\"/index.php?title=Rukshana\" title=\"Rukshana\">rukshana</a>(facilitating consumption and absorption of liquid metabolites in circulation and tissues) and <a href=\"/index.php?title=Pachana\" title=\"Pachana\">pachana</a> (increasing metabolism) by neutralizing toxic metabolites along with alleviation of <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a>. Medicines should be alkaline medicines, medicated alcoholic preparations, cow’s urine, diaphoresis and massage with paste of herbs to remove fat and other liquid metabolites. After <a href=\"/index.php?title=Rukshana\" title=\"Rukshana\">rukshana</a>-<a href=\"/index.php?title=Pachana\" title=\"Pachana\">pachana</a>, oleation for restoring <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a>- could be done internally, which would subside <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a>-<a href=\"/index.php?title=Meda_dhatu\" title=\"Meda dhatu\">meda dhatu</a>-<a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a> due to the peculiarity of medicated oils. Along with external <a href=\"/index.php?title=Rukshana\" title=\"Rukshana\">rukshana</a> the patient should be made to exercise according to his strength. This disease  could be cured only with careful diligence as it is situated in deeper tissues like bones and all three <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> are involved simultaneously. \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Urusthambha is a disease, not well understood and researched. It requires further study and scientific exploration.",
+            "html": "<p><i>Urusthambha</i> is a disease, not well understood and researched. It requires further study and scientific exploration. \n</p>"
+        },
+        {
+            "type": "h2",
+            "text": "Sanskrit Text, Transliteration and English Translation",
+            "html": "<h2><span id=\"Sanskrit_Text.2C_Transliteration_and_English_Translation\"></span><span class=\"mw-headline\" id=\"Sanskrit_Text,_Transliteration_and_English_Translation\">Sanskrit Text, Transliteration and English Translation</span></h2>",
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "अथात ऊरुस्तम्भचिकित्सितं व्याख्यास्यामः ||१||",
+            "html": "<p>अथात ऊरुस्तम्भचिकित्सितं व्याख्यास्यामः ||१|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "इति ह स्माह भगवानात्रेयः ||२||",
+            "html": "<p>इति ह स्माह भगवानात्रेयः ||२||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "athāta ūrustambhacikitsitaṁ vyākhyāsyāmaḥ||1||",
+            "html": "<p>athāta ūrustambhacikitsitaṁ vyākhyāsyāmaḥ||1|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "iti ha smāha bhagavānātrēyaḥ||2||",
+            "html": "<p>iti ha smāha bhagavānātrēyaḥ||2|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "athAta UrustambhacikitsitaM vyAkhyAsyAmaH ||1||",
+            "html": "<p>athAta UrustambhacikitsitaM vyAkhyAsyAmaH ||1||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "iti ha smAha bhagavAnAtreyaH ||2||",
+            "html": "<p>iti ha smAha bhagavAnAtreyaH ||2||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Now we shall expound the chapter \"Urustambha chiktsa (Management of diseases of thigh and hip). Thus said Lord Atreya.[1-2]",
+            "html": "<p>Now we shall expound the chapter \"Urustambha chiktsa (Management of diseases of thigh and hip). Thus said Lord Atreya.[1-2]\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Note: The word \"Urustambha\" literally means immobility of thigh.",
+            "html": "<p>Note: The word \"Urustambha\" literally means immobility of thigh. \n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Agnivesha’s query",
+            "html": "<h3><span id=\"Agnivesha.E2.80.99s_query\"></span><span class=\"mw-headline\" id=\"Agnivesha’s_query\">Agnivesha’s query</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "श्रिया परमया ब्राह्मया परया च तपःश्रिया |",
+            "html": "<p>श्रिया परमया ब्राह्मया परया च तपःश्रिया | \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "अहीनं चन्द्रसूर्याभ्यां सुमेरुमिव पर्वतम् ||३||",
+            "html": "<p>अहीनं  चन्द्रसूर्याभ्यां सुमेरुमिव पर्वतम् ||३|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "धीधृतिस्मृतिविज्ञानज्ञानकीर्तिक्षमालयम् |",
+            "html": "<p>धीधृतिस्मृतिविज्ञानज्ञानकीर्तिक्षमालयम् | \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "अग्निवेशो गुरुं काले संशयं परिपृष्टवान् ||४||",
+            "html": "<p>अग्निवेशो  गुरुं काले संशयं परिपृष्टवान् ||४|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "भगवन् पञ्च कर्माणि समस्तानि पृथक् तथा |",
+            "html": "<p>भगवन् पञ्च कर्माणि समस्तानि पृथक् तथा | \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "निर्दिष्टान्यामयनां हि सर्वेषामेव भेषजम् ||५||",
+            "html": "<p>निर्दिष्टान्यामयनां हि सर्वेषामेव भेषजम् ||५|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "दोषजोऽस्त्यामयः कश्चिद्यस्य तानि भिषग्वर! |",
+            "html": "<p>दोषजोऽस्त्यामयः कश्चिद्यस्य तानि भिषग्वर! | \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "न स्युः शक्तानि शमने साध्यस्य क्रियया सतः ||६||",
+            "html": "<p>न स्युः शक्तानि शमने साध्यस्य क्रियया सतः ||६||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "shriyA paramayA brAhmayA parayA ca tapaHshriyA |",
+            "html": "<p>shriyA paramayA brAhmayA parayA ca tapaHshriyA | \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "ahInaM candrasUryAbhyAM sumerumiva parvatam ||3||",
+            "html": "<p>ahInaM  candrasUryAbhyAM sumerumiva parvatam ||3|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "dhIdhRutismRutivij~jAnaj~jAnakIrtikShamAlayam |",
+            "html": "<p>dhIdhRutismRutivij~jAnaj~jAnakIrtikShamAlayam | \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "agnivesho guruM kAle saMshayaM paripRuShTavAn ||4||",
+            "html": "<p>agnivesho  guruM kAle saMshayaM paripRuShTavAn ||4|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "bhagavan pa~jca karmANi samastAni pRuthak tathA |",
+            "html": "<p>bhagavan pa~jca karmANi samastAni pRuthak tathA | \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "nirdiShTAnyAmayanAM hi sarveShAmeva bheShajam ||5||",
+            "html": "<p>nirdiShTAnyAmayanAM hi sarveShAmeva bheShajam ||5|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "doShajo~astyAmayaH kashcidyasya tAni bhiShagvara! |",
+            "html": "<p>doShajo~astyAmayaH kashcidyasya tAni bhiShagvara! | \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "na syuH shaktAni shamane sAdhyasya kriyayA sataH ||6||",
+            "html": "<p>na syuH shaktAni shamane sAdhyasya kriyayA sataH ||6|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "śriyā paramayā brāhmayā parayā ca tapaḥśriyā|",
+            "html": "<p>śriyā paramayā brāhmayā parayā ca tapaḥśriyā| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "ahīnaṁ candrasūryābhyāṁ sumērumiva parvatam||3||",
+            "html": "<p>ahīnaṁ candrasūryābhyāṁ sumērumiva parvatam||3|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "dhīdhr̥tismr̥tivijñānajñānakīrtikṣamālayam|",
+            "html": "<p>dhīdhr̥tismr̥tivijñānajñānakīrtikṣamālayam| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "agnivēśō guruṁ kālē saṁśayaṁ paripr̥ṣṭavān||4||",
+            "html": "<p>agnivēśō guruṁ kālē saṁśayaṁ paripr̥ṣṭavān||4|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "bhagavan pañca karmāṇi samastāni pr̥thak tathā|",
+            "html": "<p>bhagavan pañca karmāṇi samastāni pr̥thak tathā| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "nirdiṣṭānyāmayanāṁ hi sarvēṣāmēva bhēṣajam||5||",
+            "html": "<p>nirdiṣṭānyāmayanāṁ hi sarvēṣāmēva bhēṣajam||5|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "dōṣajō'styāmayaḥ kaścidyasya tāni bhiṣagvara!|",
+            "html": "<p>dōṣajō'styāmayaḥ kaścidyasya tāni bhiṣagvara!| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "na syuḥ śaktāni śamanē sādhyasya kriyayā sataḥ||6||",
+            "html": "<p>na syuḥ śaktāni śamanē sādhyasya kriyayā sataḥ||6|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Once Agnivesha asked about a doubt to the mentor Lord Punarvasu, who was having infallible intellect of true knowledge and penance, who was like the Sumeru mountain with unblemished like sun and moon and was abode of wisdom, self realization, memory, glory and patience.",
+            "html": "<p>Once Agnivesha asked about a doubt to the mentor Lord Punarvasu, who was having infallible intellect of true knowledge and penance, who was like the Sumeru mountain with unblemished like sun and moon and was abode of wisdom, self realization, memory, glory and patience.\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "“Oh Lord, all the five therapies ( Panchakarma ) are explained together as well as separately as therapeutic measure for all the diseases. Is there any curable disease caused by dosha for the cure of which these five therapies are contraindicated?” [3-6]",
+            "html": "<p>“Oh Lord, all the five therapies (<a href=\"/index.php?title=Panchakarma\" title=\"Panchakarma\">Panchakarma</a>) are explained together as well as separately as therapeutic measure for all the diseases. Is there any curable disease caused by <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> for the cure of which these five therapies are contraindicated?” [3-6]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Atreya’s reply",
+            "html": "<h3><span id=\"Atreya.E2.80.99s_reply\"></span><span class=\"mw-headline\" id=\"Atreya’s_reply\">Atreya’s reply</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "अस्त्यूरुस्तम्भ इत्युक्ते गुरुणा तस्य कारणम् |",
+            "html": "<p>अस्त्यूरुस्तम्भ इत्युक्ते गुरुणा तस्य कारणम् | \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "सलिङ्गभेषजं भूयः पृष्टस्तेनाब्रवीद्गुरुः ||७||",
+            "html": "<p>सलिङ्गभेषजं भूयः पृष्टस्तेनाब्रवीद्गुरुः ||७|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "astyūrustambha ityuktē guruṇā tasya kāraṇam|",
+            "html": "<p>astyūrustambha ityuktē guruṇā tasya kāraṇam| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "saliṅgabhēṣajaṁ bhūyaḥ pr̥ṣṭastēnābravīdguruḥ||7||",
+            "html": "<p>saliṅgabhēṣajaṁ bhūyaḥ pr̥ṣṭastēnābravīdguruḥ||7|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "astyUrustambha ityukte guruNA tasya kAraNam |\nsali~ggabheShajaM bhUyaH pRuShTastenAbravIdguruH ||7||",
+            "html": "<p>astyUrustambha ityukte guruNA tasya kAraNam | \nsali~ggabheShajaM bhUyaH pRuShTastenAbravIdguruH ||7||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "To the above mentioned doubt of Agnivesha, the preceptor replied “The disease named urusthambha is there for which Panchakarma is contraindicated. Agnivesha again enquired about the etiology, symptoms and treatment of this ailment. The Preceptor again replied. [7]",
+            "html": "<p>To the above mentioned doubt of Agnivesha, the preceptor replied “The disease named <i>urusthambha</i> is there for which <a href=\"/index.php?title=Panchakarma\" title=\"Panchakarma\">Panchakarma</a> is contraindicated. Agnivesha again enquired about the etiology, symptoms and treatment of this ailment. The Preceptor again replied. [7]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Etiopathology",
+            "html": "<h3><span class=\"mw-headline\" id=\"Etiopathology\">Etiopathology</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "स्निग्धोष्णलघुशीतानि जीर्णाजीर्णे समश्नतः | द्रवशुष्कदधिक्षीरग्राम्यानूपौदकामिषैः ||८||",
+            "html": "<p>स्निग्धोष्णलघुशीतानि  जीर्णाजीर्णे समश्नतः | <br/>\nद्रवशुष्कदधिक्षीरग्राम्यानूपौदकामिषैः ||८|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "पिष्टव्यापन्नमद्यातिदिवास्वप्नप्रजागरैः | लङ्घनाध्यशनायासभयवेगविधारणैः ||९||",
+            "html": "<p>पिष्टव्यापन्नमद्यातिदिवास्वप्नप्रजागरैः | <br/>\nलङ्घनाध्यशनायासभयवेगविधारणैः ||९|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "स्नेहाच्चामं चितं कोष्ठे वातादीन्मेदसा सह | रुद्ध्वाऽऽशु गौरवादूरू यात्यधोगैः सिरादिभिः ||१०||",
+            "html": "<p>स्नेहाच्चामं चितं कोष्ठे वातादीन्मेदसा सह | <br/>\nरुद्ध्वाऽऽशु गौरवादूरू यात्यधोगैः सिरादिभिः ||१०|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "पूरयन् सक्थिजङ्घोरु दोषो मेदोबलोत्कटः | अविधेयपरिस्पन्दं जनयत्यल्पविक्रमम् ||११||",
+            "html": "<p>पूरयन् सक्थिजङ्घोरु दोषो मेदोबलोत्कटः | <br/>\nअविधेयपरिस्पन्दं जनयत्यल्पविक्रमम् ||११|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "महासरसि गम्भीरे पूर्णेऽम्बु स्तिमितं यथा | तिष्ठति स्थिरमक्षोभ्यं तद्वदूरुगतः कफः ||१२||",
+            "html": "<p>महासरसि गम्भीरे पूर्णेऽम्बु स्तिमितं यथा | <br/>\nतिष्ठति स्थिरमक्षोभ्यं तद्वदूरुगतः कफः ||१२||<br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "गौरवायाससङ्कोचदाहरुक्सुप्तिकम्पनैः | भेदस्फुरणतोदैश्च युक्तो देहं निहन्त्यसून् ||१३||",
+            "html": "<p>गौरवायाससङ्कोचदाहरुक्सुप्तिकम्पनैः  | <br/>\nभेदस्फुरणतोदैश्च युक्तो देहं निहन्त्यसून् ||१३|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "ऊरू श्लेष्मा समेदस्को वातपित्तेऽभिभूय तु | स्तम्भयेत्स्थैर्यशैत्याभ्यामूरुस्तम्भस्ततस्तु सः ||१४||",
+            "html": "<p>ऊरू श्लेष्मा समेदस्को वातपित्तेऽभिभूय तु | <br/>\nस्तम्भयेत्स्थैर्यशैत्याभ्यामूरुस्तम्भस्ततस्तु सः ||१४|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "snigdhōṣṇalaghuśītāni jīrṇājīrṇē samaśnataḥ| dravaśuṣkadadhikṣīragrāmyānūpaudakāmiṣaiḥ||8||",
+            "html": "<p>snigdhōṣṇalaghuśītāni  jīrṇājīrṇē samaśnataḥ| <br/>\ndravaśuṣkadadhikṣīragrāmyānūpaudakāmiṣaiḥ||8|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "piṣṭavyāpannamadyātidivāsvapnaprajāgaraiḥ| laṅghanādhyaśanāyāsabhayavēgavidhāraṇaiḥ||9||",
+            "html": "<p>piṣṭavyāpannamadyātidivāsvapnaprajāgaraiḥ| <br/>\nlaṅghanādhyaśanāyāsabhayavēgavidhāraṇaiḥ||9|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "snēhāccāmaṁ citaṁ kōṣṭhē vātādīnmēdasā saha| ruddhvā śu gauravādūrū yātyadhōgaiḥ sirādibhiḥ||10||",
+            "html": "<p>snēhāccāmaṁ citaṁ kōṣṭhē vātādīnmēdasā saha| <br/>\nruddhvā<i>śu gauravādūrū yātyadhōgaiḥ sirādibhiḥ||10|| <br/></i>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "pūrayan sakthijaṅghōru dōṣō mēdōbalōtkaṭaḥ| avidhēyaparispandaṁ janayatyalpavikramam||11||",
+            "html": "<p>pūrayan sakthijaṅghōru dōṣō mēdōbalōtkaṭaḥ| <br/>\navidhēyaparispandaṁ janayatyalpavikramam||11|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "mahāsarasi gambhīrē pūrṇē'mbu stimitaṁ yathā| tiṣṭhati sthiramakṣōbhyaṁ tadvadūrugataḥ kaphaḥ||12||",
+            "html": "<p>mahāsarasi gambhīrē pūrṇē'mbu stimitaṁ yathā| <br/>\ntiṣṭhati sthiramakṣōbhyaṁ tadvadūrugataḥ kaphaḥ||12|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "gauravāyāsasaṅkōcadāharuksuptikampanaiḥ | bhēdasphuraṇatōdaiśca yuktō dēhaṁ nihantyasūn||13||",
+            "html": "<p>gauravāyāsasaṅkōcadāharuksuptikampanaiḥ  | <br/>\nbhēdasphuraṇatōdaiśca yuktō dēhaṁ nihantyasūn||13|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "ūrū ślēṣmā samēdaskō vātapittē'bhibhūya tu| stambhayētsthairyaśaityābhyāmūrustambhastatastu saḥ||14||",
+            "html": "<p>ūrū ślēṣmā samēdaskō vātapittē'bhibhūya tu| <br/>\nstambhayētsthairyaśaityābhyāmūrustambhastatastu saḥ||14|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "snigdhoShNalaghushItAni [3] jIrNAjIrNe samashnataH | dravashuShkadadhikShIragrAmyAnUpaudakAmiShaiH ||8||",
+            "html": "<p>snigdhoShNalaghushItAni [3] jIrNAjIrNe samashnataH | <br/>\ndravashuShkadadhikShIragrAmyAnUpaudakAmiShaiH ||8|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "piShTavyApannamadyAtidivAsvapnaprajAgaraiH | la~gghanAdhyashanAyAsabhayavegavidhAraNaiH ||9||",
+            "html": "<p>piShTavyApannamadyAtidivAsvapnaprajAgaraiH | <br/>\nla~gghanAdhyashanAyAsabhayavegavidhAraNaiH ||9|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "snehAccAmaM citaM koShThe vAtAdInmedasA saha | ruddhvA~a~ashu gauravAdUrU yAtyadhogaiH sirAdibhiH ||10||",
+            "html": "<p>snehAccAmaM citaM koShThe vAtAdInmedasA saha | <br/>\nruddhvA~a~ashu gauravAdUrU yAtyadhogaiH sirAdibhiH ||10|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "pUrayan sakthija~gghoru doSho medobalotkaTaH | avidheyaparispandaM janayatyalpavikramam ||11||",
+            "html": "<p>pUrayan sakthija~gghoru doSho medobalotkaTaH | <br/>\navidheyaparispandaM janayatyalpavikramam ||11|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "mahAsarasi gambhIre pUrNe~ambu stimitaM yathA | tiShThati sthiramakShobhyaM tadvadUrugataH kaphaH ||12||",
+            "html": "<p>mahAsarasi gambhIre pUrNe~ambu stimitaM yathA | <br/>\ntiShThati sthiramakShobhyaM tadvadUrugataH kaphaH ||12|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "gauravAyAsasa~gkocadAharuksuptikampanaiH | bhedasphuraNatodaishca yukto dehaM nihantyasUn ||13||",
+            "html": "<p>gauravAyAsasa~gkocadAharuksuptikampanaiH  | <br/>\nbhedasphuraNatodaishca yukto dehaM nihantyasUn ||13|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "UrU shleShmA samedasko vAtapitte~abhibhUya tu | stambhayetsthairyashaityAbhyAmUrustambhastatastu saH ||14||",
+            "html": "<p>UrU shleShmA samedasko vAtapitte~abhibhUya tu | <br/>\nstambhayetsthairyashaityAbhyAmUrustambhastatastu saH ||14|| <br/>\n</p>"
+        },
+        {
+            "type": "ul",
+            "text": "Intake of foods of contradictory properties like snigdha (unctuous), ushna (hot), laghu (light to digest), sheeta (cold), drava (liquid), shushka (dry) food (altogether or alternating) when the previous food is partially digested only or completely digested. Intake of food having opposite qualities like yogurt and milk, meat of animals which are gramya (from urban area), anupa (marshy places) and audaka (aquatic). Intake of pastries and denatured alcohol. Excessive daytime sleep and awakening during night. Excessive fasting or taking food while the previous meal has not been digested. Over exertion, continuous fear, suppression of urges Due to excess unctuousness, accumulation of ama in koshtha takes place. Due to above mentioned causes and due to ama , vitiation of tri dosha takes place. Ama with deranged medas obstructs prakupita tri dosha and due to heaviness, they move downward through siras to reach lower limbs. Dosha , get accentuated by the strength of the meda dhatu to fill calves and thighs of the lower limbs causing involuntary movements and immobility.",
+            "html": "<ul><li>Intake of foods of contradictory properties like <i>snigdha</i>(unctuous), <i>ushna</i>(hot), <i>laghu</i>(light to digest), <i>sheeta</i>(cold), <i>drava</i>(liquid), <i>shushka</i>(dry) food (altogether or alternating) when the previous food is partially digested only or completely digested.</li>\n<li>Intake of food having opposite qualities like yogurt and milk, meat of animals which are <i>gramya</i> (from urban area), <i>anupa</i> (marshy places) and <i>audaka</i> (aquatic).</li>\n<li>Intake of pastries and denatured alcohol.</li>\n<li>Excessive daytime sleep and awakening during night. Excessive fasting or taking food while the previous meal has not been digested.</li>\n<li>Over exertion, continuous fear, suppression of urges</li>\n<li>Due to excess unctuousness, accumulation of <i>ama</i> in <i>koshtha</i> takes place.</li>\n<li>Due to above mentioned causes and due to <i>ama</i>, vitiation of tri<a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> takes place.</li>\n<li><i>Ama</i> with deranged <i>medas</i> obstructs <i>prakupita tri<a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> and due to heaviness, they move downward through </i>siras<i> to reach lower limbs. <a href=\"/index.php?title=Dosha\" title=\"Dosha\">Dosha</a>, get accentuated by the strength of the<a href=\"/index.php?title=Meda_dhatu\" title=\"Meda dhatu\">meda dhatu</a> to fill calves and thighs of the lower limbs causing involuntary movements and immobility.</i></li></ul>",
+            "items": [
+                "Intake of foods of contradictory properties like snigdha (unctuous), ushna (hot), laghu (light to digest), sheeta (cold), drava (liquid), shushka (dry) food (altogether or alternating) when the previous food is partially digested only or completely digested.",
+                "Intake of food having opposite qualities like yogurt and milk, meat of animals which are gramya (from urban area), anupa (marshy places) and audaka (aquatic).",
+                "Intake of pastries and denatured alcohol.",
+                "Excessive daytime sleep and awakening during night. Excessive fasting or taking food while the previous meal has not been digested.",
+                "Over exertion, continuous fear, suppression of urges",
+                "Due to excess unctuousness, accumulation of ama in koshtha takes place.",
+                "Due to above mentioned causes and due to ama , vitiation of tri dosha takes place.",
+                "Ama with deranged medas obstructs prakupita tri dosha and due to heaviness, they move downward through siras to reach lower limbs. Dosha , get accentuated by the strength of the meda dhatu to fill calves and thighs of the lower limbs causing involuntary movements and immobility."
+            ]
+        },
+        {
+            "type": "p",
+            "text": "The kapha filled lower limbs become like a lake which is large, deep and fully filled with water which remains, still, stable and undisturbed.",
+            "html": "<p>The <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a> filled lower limbs become like a lake which is large, deep and fully filled with water which remains, still, stable and undisturbed.\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "This disease when gets associated with heaviness, strain, contracture, burning sensation, pain, numbness, tremor, splitting, twitching and pricking types of pain, then it becomes lethal.",
+            "html": "<p>This disease when gets associated with heaviness, strain, contracture, burning sensation, pain, numbness, tremor, splitting, twitching and pricking types of pain, then it becomes lethal. \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Kapha with its sthira (stable) and sheeta (cold) properties associated with meda dhatusubdues vata and pitta and causes immobility of uru (thighs). Hence the disease is termed as urusthambha . [8-14]",
+            "html": "<p><a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">Kapha</a> with its <i>sthira</i>(stable) and <i>sheeta</i> (cold) properties associated with <a href=\"/index.php?title=Meda_dhatu\" title=\"Meda dhatu\">meda dhatusubdues</a> <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a> and <a href=\"/index.php?title=Pitta\" title=\"Pitta\">pitta</a> and causes immobility of <i>uru</i> (thighs). Hence the disease is termed as <i>urusthambha</i>. [8-14]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Prodromal symptoms",
+            "html": "<h3><span class=\"mw-headline\" id=\"Prodromal_symptoms\">Prodromal symptoms</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "प्राग्रूपं ध्याननिद्रातिस्तैमित्यारोचकज्वराः | लोमहर्षश्च छर्दिश्च जङ्घोर्वोः सदनं तथा ||१५||",
+            "html": "<p>प्राग्रूपं ध्याननिद्रातिस्तैमित्यारोचकज्वराः | <br/>\nलोमहर्षश्च छर्दिश्च जङ्घोर्वोः सदनं तथा ||१५||<br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "prāgrūpaṁ dhyānanidrātistaimityārōcakajvarāḥ| lōmaharṣaśca chardiśca jaṅghōrvōḥ sadanaṁ tathā||15||",
+            "html": "<p>prāgrūpaṁ dhyānanidrātistaimityārōcakajvarāḥ| <br/>\nlōmaharṣaśca chardiśca jaṅghōrvōḥ sadanaṁ tathā||15||<br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "prAgrUpaM dhyAnanidrAtistaimityArocakajvarAH | lomaharShashca chardishca ja~gghorvoH sadanaM tathA ||15||",
+            "html": "<p>prAgrUpaM dhyAnanidrAtistaimityArocakajvarAH | <br/>\nlomaharShashca chardishca ja~gghorvoH sadanaM tathA ||15||<br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Thinking or concentrating on something, excessive sleep, indolence (decreased emotion), anorexia, fever, horripilation, vomiting and reduced movements of calves and thighs (due to loss of strength) are the prodromal symptoms of urusthambha .[15]",
+            "html": "<p>Thinking or concentrating on something, excessive sleep, indolence (decreased emotion), anorexia, fever, horripilation, vomiting and reduced movements of calves and thighs (due to loss of strength) are the prodromal symptoms of <i>urusthambha</i>.[15]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Contraindication of snehana (oleation therapy)",
+            "html": "<h3><span id=\"Contraindication_of_snehana_.28oleation_therapy.29\"></span><span class=\"mw-headline\" id=\"Contraindication_of_snehana_(oleation_therapy)\">Contraindication of <a class=\"mw-redirect\" href=\"/index.php?title=Snehana\" title=\"Snehana\">snehana</a> (oleation therapy)</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "वातशङ्किभिरज्ञानात्तस्य स्यात् स्नेहनात् पुनः | पादयोः सदनं सुप्तिः कृच्छ्रादुद्धरणं तथा ||१६||",
+            "html": "<p>वातशङ्किभिरज्ञानात्तस्य स्यात् स्नेहनात् पुनः | <br/>\nपादयोः सदनं सुप्तिः कृच्छ्रादुद्धरणं तथा ||१६||<br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "vātaśaṅkibhirajñānāttasya syāt snēhanāt punaḥ| pādayōḥ sadanaṁ suptiḥ kr̥cchrāduddharaṇaṁ tathā||16||",
+            "html": "<p>vātaśaṅkibhirajñānāttasya syāt snēhanāt punaḥ| <br/>\npādayōḥ sadanaṁ suptiḥ kr̥cchrāduddharaṇaṁ tathā||16|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "vAtasha~gkibhiraj~jAnAttasya syAt snehanAt punaH | pAdayoH sadanaM suptiH kRucchrAduddharaNaM tathA ||16||",
+            "html": "<p>vAtasha~gkibhiraj~jAnAttasya syAt snehanAt punaH | <br/>\npAdayoH sadanaM suptiH kRucchrAduddharaNaM tathA ||16||<br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "If oleation therapy is administered due to misunderstanding, that this disease as vata disorder or due to ignorance, it results in loss of strength in legs, loss of sensation in the legs and difficulty in raising the legs.[16]",
+            "html": "<p>If oleation therapy is administered due to misunderstanding, that this disease as <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a> disorder or due to ignorance, it results in loss of strength in legs, loss of sensation in the legs and difficulty in raising the legs.[16]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Clinical features",
+            "html": "<h3><span class=\"mw-headline\" id=\"Clinical_features\">Clinical features</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "जङ्घोरुग्लानिरत्यर्थं शश्वच्चादाहवेदना | पदं च व्यथते न्यस्तं शीतस्पर्शं न वेत्ति च ||१७||",
+            "html": "<p>जङ्घोरुग्लानिरत्यर्थं शश्वच्चादाहवेदना | <br/>\nपदं च व्यथते न्यस्तं शीतस्पर्शं न वेत्ति च ||१७|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "संस्थाने पीडने गत्यां चालने चाप्यनीश्वरः | अन्यनेयौ हि सम्भग्नावूरू पादौ च मन्यते ||१८||",
+            "html": "<p>संस्थाने पीडने गत्यां चालने चाप्यनीश्वरः | <br/>\nअन्यनेयौ हि सम्भग्नावूरू पादौ च मन्यते ||१८|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "jaṅghōruglāniratyarthaṁ śaśvaccādāhavēdanā| padaṁ ca vyathatē nyastaṁ śītasparśaṁ na vētti ca||17||",
+            "html": "<p>jaṅghōruglāniratyarthaṁ śaśvaccādāhavēdanā| <br/>\npadaṁ ca vyathatē nyastaṁ śītasparśaṁ na vētti ca||17|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "saṁsthānē pīḍanē gatyāṁ cālanē cāpyanīśvaraḥ| anyanēyau hi sambhagnāvūrū pādau ca manyatē||18||",
+            "html": "<p>saṁsthānē pīḍanē gatyāṁ cālanē cāpyanīśvaraḥ| <br/>\nanyanēyau hi sambhagnāvūrū pādau ca manyatē||18|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "ja~gghoruglAniratyarthaM shashvaccAdAhavedanA | padaM ca vyathate nyastaM shItasparshaM na vetti ca ||17||",
+            "html": "<p>ja~gghoruglAniratyarthaM shashvaccAdAhavedanA | <br/>\npadaM ca vyathate nyastaM shItasparshaM na vetti ca ||17|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "saMsthAne pIDane gatyAM cAlane cApyanIshvaraH | anyaneyau hi sambhagnAvUrU pAdau ca manyate ||18||",
+            "html": "<p>saMsthAne pIDane gatyAM cAlane cApyanIshvaraH | <br/>\nanyaneyau hi sambhagnAvUrU pAdau ca manyate ||18|| <br/>\n</p>"
+        },
+        {
+            "type": "ul",
+            "text": "Excessive fatigue of calf muscles and thighs, Constant pain with slight burning sensation, Pain in feet on stepping on the ground, Insensitivity to cold touch, Loss of muscle power on standing, resisting the movement, walking and on moving the lower limbs, Unable to move the upper and lower parts of the lower limbs due to the feeling that they are fractured.[17-18]",
+            "html": "<ul><li>Excessive fatigue of calf muscles and thighs,</li>\n<li>Constant pain with slight burning sensation,</li>\n<li>Pain in feet on stepping on the ground,</li>\n<li>Insensitivity to cold touch,</li>\n<li>Loss of muscle power on standing, resisting the movement, walking and on moving the lower limbs,</li>\n<li>Unable to move the upper and lower parts of the lower limbs due to the feeling that they are fractured.[17-18]</li></ul>",
+            "items": [
+                "Excessive fatigue of calf muscles and thighs,",
+                "Constant pain with slight burning sensation,",
+                "Pain in feet on stepping on the ground,",
+                "Insensitivity to cold touch,",
+                "Loss of muscle power on standing, resisting the movement, walking and on moving the lower limbs,",
+                "Unable to move the upper and lower parts of the lower limbs due to the feeling that they are fractured.[17-18]"
+            ]
+        },
+        {
+            "type": "h3",
+            "text": "Prognosis",
+            "html": "<h3><span class=\"mw-headline\" id=\"Prognosis\">Prognosis</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "यदा दाहार्तितोदार्तो वेपनः पुरुषो भवेत् | ऊरुस्तम्भस्तदा हन्यात् साधयेदन्यथा नवम् ||१९||",
+            "html": "<p>यदा दाहार्तितोदार्तो वेपनः पुरुषो भवेत् | <br/>\nऊरुस्तम्भस्तदा हन्यात् साधयेदन्यथा नवम् ||१९|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "yadā dāhārtitōdārtō vēpanaḥ puruṣō bhavēt| ūrustambhastadā hanyāt sādhayēdanyathā navam||19||",
+            "html": "<p>yadā dāhārtitōdārtō vēpanaḥ puruṣō bhavēt| <br/>\nūrustambhastadā hanyāt sādhayēdanyathā navam||19|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "yadA dAhArtitodArto vepanaH puruSho bhavet | UrustambhastadA hanyAt sAdhayedanyathA navam ||19||",
+            "html": "<p>yadA dAhArtitodArto vepanaH puruSho bhavet | <br/>\nUrustambhastadA hanyAt sAdhayedanyathA navam ||19||<br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "If the patient develops burning sensation, pricking pain and tremors, urusthambha is fatal. If such symptoms are absent and is of recent origin, then it is curable.[19]",
+            "html": "<p>If the patient develops burning sensation, pricking pain and tremors, <i>urusthambha</i> is fatal. If such symptoms are absent and is of recent origin, then it is curable.[19]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Contraindications of Panchakarma",
+            "html": "<h3><span class=\"mw-headline\" id=\"Contraindications_of_Panchakarma\">Contraindications of <a href=\"/index.php?title=Panchakarma\" title=\"Panchakarma\">Panchakarma</a></span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "तस्य न स्नेहनं कार्यं न बस्तिर्न विरेचनम् | न चैव वमनं यस्मात्तन्निबोधत कारणम् ||२०||",
+            "html": "<p>तस्य न स्नेहनं कार्यं न बस्तिर्न विरेचनम् | <br/>\nन चैव वमनं यस्मात्तन्निबोधत कारणम् ||२०|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "वृद्धये श्लेष्मणो नित्यं स्नेहनं बस्तिकर्म च | तत्स्थस्योद्धरणे चैव न समर्थं विरेचनम् ||२१||",
+            "html": "<p>वृद्धये श्लेष्मणो नित्यं स्नेहनं बस्तिकर्म च | <br/>\nतत्स्थस्योद्धरणे चैव न समर्थं विरेचनम् ||२१|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "कफं कफस्थानगतं पित्तं च वमनात् सुखम् | हर्तुमामाशयस्थौ च स्रंसनात्तावुभावपि ||२२||",
+            "html": "<p>कफं कफस्थानगतं पित्तं च वमनात् सुखम् | <br/>\nहर्तुमामाशयस्थौ च स्रंसनात्तावुभावपि ||२२|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "पक्वाशयस्थाः सर्वेऽपि बस्तिभिर्मूलनिर्जयात् | शक्या न त्वाममेदोभ्यां स्तब्धा जङ्घोरुसंस्थिता ||२३||",
+            "html": "<p>पक्वाशयस्थाः सर्वेऽपि बस्तिभिर्मूलनिर्जयात् | <br/>\nशक्या न त्वाममेदोभ्यां स्तब्धा जङ्घोरुसंस्थिता ||२३|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "वातस्थाने हि तच्छैत्याद्द्वयोः स्तम्भाच्च तद्गताः | न शक्याः सुखमुद्धर्तुं जलं निम्नादिव स्थलात् ||२४||",
+            "html": "<p>वातस्थाने हि तच्छैत्याद्द्वयोः  स्तम्भाच्च तद्गताः | <br/>\nन शक्याः सुखमुद्धर्तुं जलं निम्नादिव स्थलात् ||२४|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "tasya na snēhanaṁ kāryaṁ na bastirna virēcanam| na caiva vamanaṁ yasmāttannibōdhata kāraṇam||20||",
+            "html": "<p>tasya na snēhanaṁ kāryaṁ na bastirna virēcanam| <br/>\nna caiva vamanaṁ yasmāttannibōdhata kāraṇam||20|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "vr̥ddhayē ślēṣmaṇō nityaṁ snēhanaṁ bastikarma ca| tatsthasyōddharaṇē caiva na samarthaṁ virēcanam||21||",
+            "html": "<p>vr̥ddhayē ślēṣmaṇō nityaṁ snēhanaṁ bastikarma ca| <br/>\ntatsthasyōddharaṇē caiva na samarthaṁ virēcanam||21|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "kaphaṁ kaphasthānagataṁ pittaṁ ca vamanāt sukham| hartumāmāśayasthau ca sraṁsanāttāvubhāvapi||22||",
+            "html": "<p>kaphaṁ kaphasthānagataṁ pittaṁ ca vamanāt sukham| <br/>\nhartumāmāśayasthau ca sraṁsanāttāvubhāvapi||22|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "pakvāśayasthāḥ sarvē'pi bastibhirmūlanirjayāt| śakyā na tvāmamēdōbhyāṁ stabdhā jaṅghōrusaṁsthitāḥ||23||",
+            "html": "<p>pakvāśayasthāḥ sarvē'pi bastibhirmūlanirjayāt| <br/>\nśakyā na tvāmamēdōbhyāṁ stabdhā jaṅghōrusaṁsthitāḥ||23|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "vātasthānē hi tacchaityāddvayōḥ stambhācca tadgatāḥ| na śakyāḥ sukhamuddhartuṁ jalaṁ nimnādiva sthalāt||24||",
+            "html": "<p>vātasthānē hi tacchaityāddvayōḥ  stambhācca tadgatāḥ| <br/>\nna śakyāḥ sukhamuddhartuṁ jalaṁ nimnādiva sthalāt||24|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "tasya na snehanaM kAryaM na bastirna virecanam | na caiva vamanaM yasmAttannibodhata kAraNam ||20||",
+            "html": "<p>tasya na snehanaM kAryaM na bastirna virecanam | <br/>\nna caiva vamanaM yasmAttannibodhata kAraNam ||20|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "vRuddhaye shleShmaNo nityaM snehanaM bastikarma ca | tatsthasyoddharaNe caiva na samarthaM virecanam ||21||",
+            "html": "<p>vRuddhaye shleShmaNo nityaM snehanaM bastikarma ca | <br/>\ntatsthasyoddharaNe caiva na samarthaM virecanam ||21|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "kaphaM kaphasthAnagataM pittaM ca vamanAt sukham | hartumAmAshayasthau ca sraMsanAttAvubhAvapi ||22||",
+            "html": "<p>kaphaM kaphasthAnagataM pittaM ca vamanAt sukham | <br/>\nhartumAmAshayasthau ca sraMsanAttAvubhAvapi ||22|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "pakvAshayasthAH sarve~api bastibhirmUlanirjayAt | shakyA na tvAmamedobhyAM stabdhA ja~gghorusaMsthitA ||23||",
+            "html": "<p>pakvAshayasthAH sarve~api bastibhirmUlanirjayAt | <br/>\nshakyA na tvAmamedobhyAM stabdhA ja~gghorusaMsthitA ||23|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "vAtasthAne hi tacchaityAddvayoH stambhAcca tadgatAH | na shakyAH sukhamuddhartuM jalaM nimnAdiva sthalAt ||24||",
+            "html": "<p>vAtasthAne hi tacchaityAddvayoH  stambhAcca tadgatAH | <br/>\nna shakyAH sukhamuddhartuM jalaM nimnAdiva sthalAt ||24||<br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "The reason for which oleation, enema, purgation and emesis are contraindicated in urusthambha is being explained for your understanding.",
+            "html": "<p>The reason for which oleation, enema, purgation and emesis are contraindicated in <i>urusthambha</i> is being explained for your understanding. \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Oleation and enema therapies always aggravate kapha . Purgation is ineffective to remove kapha localized there (in the thighs). Kapha reaching its own place ( amashaya ) and pitta can be easily removed by emesis. Both these dosha lodged in amashaya can be eliminated by purgation. When lodged in pakvashaya , all the three dosha could be fully removed by enema therapy. But in urusthambha since pathognomonic doshas are stagnant due to amatva (metabolic defect) and obstructed by fat, since kapha is lodged in the abode of vata , which is of sheeta guna and since vata and kapha are immobile, it is not easy to remove them just as it is difficult to remove stagnant water from a ditch.[20-24]",
+            "html": "<p>Oleation and enema therapies always aggravate <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a>. Purgation is ineffective to remove <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a> localized there (in the thighs). <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">Kapha</a> reaching its own place (<i>amashaya</i>) and <a href=\"/index.php?title=Pitta\" title=\"Pitta\">pitta</a> can be easily removed by emesis. Both these <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> lodged in <i>amashaya</i> can be eliminated by purgation. When lodged in <i>pakvashaya</i>, all the three <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> could be fully removed by enema therapy. But in <i>urusthambha</i> since pathognomonic <a class=\"new\" href=\"/index.php?title=Doshas&amp;action=edit&amp;redlink=1\" title=\"Doshas (page does not exist)\">doshas</a> are stagnant due to <i>amatva</i> (metabolic defect) and obstructed by fat, since <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a> is lodged in the abode of <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a>, which is of <i>sheeta guna</i> and since <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a> and <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a> are immobile, it is not easy to remove them just as it is difficult to remove stagnant water from a ditch.[20-24]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Principles of management",
+            "html": "<h3><span class=\"mw-headline\" id=\"Principles_of_management\">Principles of management</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "तस्य संशमनं नित्यं क्षपणं शोषणं तथा | युक्त्यपेक्षी भिषक् कुर्यादधिकत्वात्कफामयोः ||२५||",
+            "html": "<p>तस्य संशमनं नित्यं क्षपणं शोषणं तथा | <br/>\nयुक्त्यपेक्षी  भिषक् कुर्यादधिकत्वात्कफामयोः ||२५|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "सदा रूक्षोपचाराय यवश्यामाककोद्रवान् | शाकैरलवणैर्दद्याज्जलतैलोपसाधितैः ||२६||",
+            "html": "<p>सदा रूक्षोपचाराय यवश्यामाककोद्रवान् | <br/>\nशाकैरलवणैर्दद्याज्जलतैलोपसाधितैः ||२६|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "सुनिषण्णकनिम्बार्कवेत्रारग्वधपल्लवैः | वायसीवास्तुकैरन्यैस्तिक्तैश्च कुलकादिभिः ||२७||",
+            "html": "<p>सुनिषण्णकनिम्बार्कवेत्रारग्वधपल्लवैः | <br/>\nवायसीवास्तुकैरन्यैस्तिक्तैश्च कुलकादिभिः ||२७|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "क्षारारिष्टप्रयोगाश्च हरीतक्यास्तथैव च | मधूदकस्य पिप्पल्या ऊरुस्तम्भविनाशनाः ||२८||",
+            "html": "<p>क्षारारिष्टप्रयोगाश्च हरीतक्यास्तथैव च | <br/>\nमधूदकस्य पिप्पल्या ऊरुस्तम्भविनाशनाः ||२८|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "tasya saṁśamanaṁ nityaṁ kṣapaṇaṁ śōṣaṇaṁ tathā| yuktyapēkṣī [1] bhiṣak kuryādadhikatvātkaphāmayōḥ||25||",
+            "html": "<p>tasya saṁśamanaṁ nityaṁ kṣapaṇaṁ śōṣaṇaṁ tathā| <br/>\nyuktyapēkṣī [1] bhiṣak kuryādadhikatvātkaphāmayōḥ||25|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "sadā rūkṣōpacārāya yavaśyāmākakōdravān| śākairalavaṇairdadyājjalatailōpasādhitaiḥ||26||",
+            "html": "<p>sadā rūkṣōpacārāya yavaśyāmākakōdravān| <br/>\nśākairalavaṇairdadyājjalatailōpasādhitaiḥ||26|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "suniṣaṇṇakanimbārkavētrāragvadhapallavaiḥ| vāyasīvāstukairanyaistiktaiśca kulakādibhiḥ||27||",
+            "html": "<p>suniṣaṇṇakanimbārkavētrāragvadhapallavaiḥ| <br/>\nvāyasīvāstukairanyaistiktaiśca kulakādibhiḥ||27|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "kṣārāriṣṭaprayōgāśca harītakyāstathaiva ca| madhūdakasya pippalyā ūrustambhavināśanāḥ||28||",
+            "html": "<p>kṣārāriṣṭaprayōgāśca harītakyāstathaiva ca| <br/>\nmadhūdakasya pippalyā ūrustambhavināśanāḥ||28|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "tasya saMshamanaM nityaM kShapaNaM shoShaNaM tathA | yuktyapekShI bhiShak kuryAdadhikatvAtkaphAmayoH ||25||",
+            "html": "<p>tasya saMshamanaM nityaM kShapaNaM shoShaNaM tathA | <br/>\nyuktyapekShI  bhiShak kuryAdadhikatvAtkaphAmayoH ||25|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "sadA rUkShopacArAya yavashyAmAkakodravAn | shAkairalavaNairdadyAjjalatailopasAdhitaiH ||26||",
+            "html": "<p>sadA rUkShopacArAya yavashyAmAkakodravAn | <br/>\nshAkairalavaNairdadyAjjalatailopasAdhitaiH ||26|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "suniShaNNakanimbArkavetrAragvadhapallavaiH | vAyasIvAstukairanyaistiktaishca kulakAdibhiH ||27||",
+            "html": "<p>suniShaNNakanimbArkavetrAragvadhapallavaiH | <br/>\nvAyasIvAstukairanyaistiktaishca kulakAdibhiH ||27|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "kShArAriShTaprayogAshca harItakyAstathaiva ca | madhUdakasya pippalyA UrustambhavinAshanAH ||28||",
+            "html": "<p>kShArAriShTaprayogAshca harItakyAstathaiva ca | <br/>\nmadhUdakasya pippalyA UrustambhavinAshanAH ||28||<br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Since kapha and ama are conspicuous in the pathogenesis of urustambha , the physician should constantly judiciously administer therapies for their samshamana (pacification), kshapana (reduction) and shoshana (drying up by absorption).",
+            "html": "<p>Since <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a> and <i>ama</i> are conspicuous in the pathogenesis of <i>urustambha</i>, the physician should constantly judiciously administer therapies for their <i>samshamana</i> (pacification), <i>kshapana</i> (reduction) and <i>shoshana</i>(drying up by absorption). \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "The patient of urustambha should be constantly given rukshana (drying up therapies to facilitate absorption of liquid metabolites from circulation and tissues) with yava (barley), shyamaka (millet), and kodrava along with vegetables cooked with water and oil, but without adding salt. Leaves of sunishannaka, nimba, arka, vetra, aragwadha, vaayasi, vaastuka and bitter vegetables like kulaka ( karavellaka ) aid rukshana .",
+            "html": "<p>The patient of <i>urustambha</i> should be constantly given <a href=\"/index.php?title=Rukshana\" title=\"Rukshana\">rukshana</a> (drying up therapies to facilitate absorption of liquid metabolites from circulation and tissues) with <i>yava</i> (barley), <i>shyamaka</i> (millet), and <i>kodrava</i> along with vegetables cooked with water and oil, but without adding salt. Leaves of <i>sunishannaka, nimba, arka, vetra, aragwadha, vaayasi, vaastuka</i> and bitter vegetables like <i>kulaka</i> (<i>karavellaka</i>) aid <a href=\"/index.php?title=Rukshana\" title=\"Rukshana\">rukshana</a>.\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Administration of alkali ( kshaara ) preparations, arishta (medicated wines), haritaki , water added with honey and pippali cures urustambha (immobility of thighs). [25-28]",
+            "html": "<p>Administration of alkali  (<i>kshaara</i>) preparations, <i>arishta</i> (medicated wines), <i>haritaki</i>, water added with honey and <i>pippali</i> cures <i>urustambha</i> (immobility of thighs). [25-28]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Various formulations",
+            "html": "<h3><span class=\"mw-headline\" id=\"Various_formulations\">Various formulations</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "समङ्गां शाल्मलीं बिल्वं मधुना सह ना पिबेत् | तथा श्रीवेष्टकोदीच्यदेवदारुनतान्यपि ||२९||",
+            "html": "<p>समङ्गां शाल्मलीं बिल्वं मधुना सह ना पिबेत् | <br/>\nतथा श्रीवेष्टकोदीच्यदेवदारुनतान्यपि ||२९|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "चन्दनं धातकीं कुष्ठं तालीसं नलदं तथा |३०|",
+            "html": "<p>चन्दनं धातकीं कुष्ठं तालीसं नलदं तथा |३०|<br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "samaṅgāṁ śālmalīṁ bilvaṁ madhunā saha nā pibēt| tathā śrīvēṣṭakōdīcyadēvadārunatānyapi||29||",
+            "html": "<p>samaṅgāṁ śālmalīṁ bilvaṁ madhunā saha nā pibēt| <br/>\ntathā śrīvēṣṭakōdīcyadēvadārunatānyapi||29|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "candanaṁ dhātakīṁ kuṣṭhaṁ tālīsaṁ naladaṁ tathā|30|",
+            "html": "<p>candanaṁ dhātakīṁ kuṣṭhaṁ tālīsaṁ naladaṁ tathā|30| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "sama~ggAM shAlmalIM bilvaM madhunA saha nA pibet | tathA shrIveShTakodIcyadevadArunatAnyapi ||29||",
+            "html": "<p>sama~ggAM shAlmalIM bilvaM madhunA saha nA pibet | <br/>\ntathA shrIveShTakodIcyadevadArunatAnyapi ||29|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "candanaM dhAtakIM kuShThaM tAlIsaM naladaM tathA |30|",
+            "html": "<p>candanaM dhAtakIM kuShThaM tAlIsaM naladaM tathA |30| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "The patient suffering from urusthambha should take samanga, shalmali and bilwa along with honey.",
+            "html": "<p>The patient suffering from <i>urusthambha</i> should take <i>samanga, shalmali</i> and <i>bilwa</i> along with honey.\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "The patient may also be given shriveshtaka, udichya, devadaru, nata, chandana, dhataki, kushtha, talisa, nalada (along with honey). [29-30]",
+            "html": "<p>The patient may also be given <i>shriveshtaka, udichya, devadaru, nata, chandana, dhataki, kushtha, talisa, nalada</i> (along with honey). [29-30]\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "मुस्तं हरीतकीं लोध्रं पद्मकं तिक्तरोहिणीम् ||३०||",
+            "html": "<p>मुस्तं हरीतकीं लोध्रं पद्मकं तिक्तरोहिणीम् ||३०|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "देवदारु हरिद्रे द्वे वचां कटुकरोहिणीम् | पिप्पलीं पिप्पलीमूलं सरलं देवदारु च ||३१||",
+            "html": "<p>देवदारु हरिद्रे द्वे वचां कटुकरोहिणीम् | <br/>\nपिप्पलीं पिप्पलीमूलं सरलं देवदारु च ||३१|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "चव्यं चित्रकमूलानि देवदारु हरीतकीम् | भल्लातकं समूलां च पिप्पलीं पञ्च तान् पिबेत् ||३२||",
+            "html": "<p>चव्यं चित्रकमूलानि देवदारु हरीतकीम् | <br/>\nभल्लातकं समूलां च पिप्पलीं पञ्च तान् पिबेत् ||३२|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "सक्षौद्रानर्धश्लोकोक्तान् कल्कानूरुग्रहापहान् |३३|",
+            "html": "<p>सक्षौद्रानर्धश्लोकोक्तान् कल्कानूरुग्रहापहान् |३३|<br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "mustaṁ harītakīṁ lōdhraṁ padmakaṁ tiktarōhiṇīm||30||",
+            "html": "<p>mustaṁ harītakīṁ lōdhraṁ padmakaṁ tiktarōhiṇīm||30|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "dēvadāru haridrē dvē vacāṁ kaṭukarōhiṇīm| pippalīṁ pippalīmūlaṁ saralaṁ dēvadāru ca||31||",
+            "html": "<p>dēvadāru haridrē dvē vacāṁ kaṭukarōhiṇīm| <br/>\npippalīṁ pippalīmūlaṁ saralaṁ dēvadāru ca||31|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "cavyaṁ citrakamūlāni dēvadāru harītakīm| bhallātakaṁ samūlāṁ ca pippalīṁ pañca tān pibēt||32||",
+            "html": "<p>cavyaṁ citrakamūlāni dēvadāru harītakīm| <br/>\nbhallātakaṁ samūlāṁ ca pippalīṁ pañca tān pibēt||32|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "sakṣaudrānardhaślōkōktān kalkānūrugrahāpahān|33|",
+            "html": "<p>sakṣaudrānardhaślōkōktān kalkānūrugrahāpahān|33|<br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "mustaM harItakIM lodhraM padmakaM tiktarohiNIm ||30||",
+            "html": "<p>mustaM harItakIM lodhraM padmakaM tiktarohiNIm ||30|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "devadAru haridre dve vacAM kaTukarohiNIm | pippalIM pippalImUlaM saralaM devadAru ca ||31||",
+            "html": "<p>devadAru haridre dve vacAM kaTukarohiNIm | <br/>\npippalIM pippalImUlaM saralaM devadAru ca ||31|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "cavyaM citrakamUlAni devadAru harItakIm | bhallAtakaM samUlAM ca pippalIM pa~jca tAn pibet ||32||",
+            "html": "<p>cavyaM citrakamUlAni devadAru harItakIm | <br/>\nbhallAtakaM samUlAM ca pippalIM pa~jca tAn pibet ||32|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "sakShaudrAnardhashlokoktAn kalkAnUrugrahApahAn |33|",
+            "html": "<p>sakShaudrAnardhashlokoktAn kalkAnUrugrahApahAn |33|<br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "The following five recipes cure urusthambha (immobility of thighs):",
+            "html": "<p>The following five recipes cure <i>urusthambha</i> (immobility of thighs): \n</p>"
+        },
+        {
+            "type": "ul",
+            "text": "Musta, haritaki, lodhra, padmaka and tikta-rohini Devadaru, haridra, daruharidra, vacha, katukarohini Pippali, pippalimula, sarala, devadaru Chavya, root of chitraka, devadaru and haritaki Bhallataka, pippalimula and pippali",
+            "html": "<ul><li><i>Musta, haritaki, lodhra, padmaka</i> and <i>tikta-rohini</i></li>\n<li><i>Devadaru, haridra, daruharidra, vacha, katukarohini</i></li>\n<li><i>Pippali, pippalimula, sarala, devadaru</i></li>\n<li><i>Chavya, root of chitraka, devadaru</i> and <i>haritaki</i></li>\n<li><i>Bhallataka, pippalimula</i> and <i>pippali</i></li></ul>",
+            "items": [
+                "Musta, haritaki, lodhra, padmaka and tikta-rohini",
+                "Devadaru, haridra, daruharidra, vacha, katukarohini",
+                "Pippali, pippalimula, sarala, devadaru",
+                "Chavya, root of chitraka, devadaru and haritaki",
+                "Bhallataka, pippalimula and pippali"
+            ]
+        },
+        {
+            "type": "p",
+            "text": "All the above mentioned recipes in the form of a paste ( kalkaas ) are to be taken along with honey.[30 ½ - 33 ½]",
+            "html": "<p>All the above mentioned recipes in the form of a paste (<i>kalkaas</i>) are to be taken along with honey.[30 ½ - 33 ½]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Powder formulations",
+            "html": "<h3><span class=\"mw-headline\" id=\"Powder_formulations\">Powder formulations</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "शार्ङ्गेष्टां मदनं दन्तीं वत्सकस्य फलं वचाम् ||३३||",
+            "html": "<p>शार्ङ्गेष्टां मदनं दन्तीं वत्सकस्य फलं वचाम्  ||३३|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "मूर्वामारग्वधं पाठां करञ्जं कुलकं तथा | पिबेन्मधुयुतं तुल्यं चूर्णं वा वारिणाऽऽप्लुतम् ||३४||",
+            "html": "<p>मूर्वामारग्वधं पाठां करञ्जं कुलकं तथा | <br/>\nपिबेन्मधुयुतं तुल्यं चूर्णं वा वारिणाऽऽप्लुतम् ||३४|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "सक्षौद्रं दधिमण्डैर्वाऽप्यूरुस्तम्भविनाशनम् | मूर्वामतिविषां कुष्ठं चित्रकं कटुरोहिणीम् ||३५||",
+            "html": "<p>सक्षौद्रं दधिमण्डैर्वाऽप्यूरुस्तम्भविनाशनम् | <br/>\nमूर्वामतिविषां कुष्ठं चित्रकं कटुरोहिणीम् ||३५|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "पूर्ववद्गुग्गुलुं मूत्रे रात्रिस्थितमथापि वा | स्वर्णक्षीरीमतिविषां मुस्तं तेजोवतीं वचाम् ||३६||",
+            "html": "<p>पूर्ववद्गुग्गुलुं  मूत्रे रात्रिस्थितमथापि वा | <br/>\nस्वर्णक्षीरीमतिविषां मुस्तं तेजोवतीं वचाम् ||३६|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "सुराह्वं चित्रकं कुष्ठं पाठां कटुकरोहिणीम् | लेहयेन्मधुना चूर्णं सक्षौद्रं वा जलाप्लुतम् ||३७||",
+            "html": "<p>सुराह्वं चित्रकं  कुष्ठं पाठां कटुकरोहिणीम् | <br/>\nलेहयेन्मधुना चूर्णं सक्षौद्रं वा जलाप्लुतम् ||३७|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "फलीं व्याघ्रनखं हेम पिबेद्वा मधुसंयुतम् | त्रिफलां पिप्पलीं मुस्तं चव्यं कटुकरोहिणीम् ||३८||",
+            "html": "<p>फलीं व्याघ्रनखं हेम पिबेद्वा मधुसंयुतम् | <br/>\nत्रिफलां पिप्पलीं मुस्तं चव्यं कटुकरोहिणीम् ||३८|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "लिह्याद्वा मधुना चूर्णमूरुस्तम्भार्दितो नरः |३९|",
+            "html": "<p>लिह्याद्वा मधुना चूर्णमूरुस्तम्भार्दितो नरः |३९|<br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "śārṅgēṣṭāṁ madanaṁ dantīṁ vatsakasya phalaṁ vacām [1] ||33||",
+            "html": "<p>śārṅgēṣṭāṁ madanaṁ dantīṁ vatsakasya phalaṁ vacām [1] ||33|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "mūrvāmāragvadhaṁ pāṭhāṁ karañjaṁ kulakaṁ tathā| pibēnmadhuyutaṁ tulyaṁ cūrṇaṁ vā vāriṇā plutam||34||",
+            "html": "<p>mūrvāmāragvadhaṁ pāṭhāṁ karañjaṁ kulakaṁ tathā| <br/>\npibēnmadhuyutaṁ tulyaṁ cūrṇaṁ vā vāriṇā<i>plutam||34|| <br/></i>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "sakṣaudraṁ dadhimaṇḍairvā'pyūrustambhavināśanam| mūrvāmativiṣāṁ kuṣṭhaṁ citrakaṁ kaṭurōhiṇīm||35||",
+            "html": "<p>sakṣaudraṁ dadhimaṇḍairvā'pyūrustambhavināśanam| <br/>\nmūrvāmativiṣāṁ kuṣṭhaṁ citrakaṁ kaṭurōhiṇīm||35|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "pūrvavadgugguluṁ [2] mūtrē rātristhitamathāpi vā| svarṇakṣīrīmativiṣāṁ mustaṁ tējōvatīṁ vacām||36||",
+            "html": "<p>pūrvavadgugguluṁ [2] mūtrē rātristhitamathāpi vā| <br/>\nsvarṇakṣīrīmativiṣāṁ mustaṁ tējōvatīṁ vacām||36|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "surāhvaṁ citrakaṁ [3] kuṣṭhaṁ pāṭhāṁ kaṭukarōhiṇīm| lēhayēnmadhunā cūrṇaṁ sakṣaudraṁ vā jalāplutam||37||",
+            "html": "<p>surāhvaṁ citrakaṁ [3] kuṣṭhaṁ pāṭhāṁ kaṭukarōhiṇīm| <br/>\nlēhayēnmadhunā cūrṇaṁ sakṣaudraṁ vā jalāplutam||37|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "phalīṁ vyāghranakhaṁ hēma pibēdvā madhusaṁyutam| triphalāṁ pippalīṁ mustaṁ cavyaṁ kaṭukarōhiṇīm||38||",
+            "html": "<p>phalīṁ vyāghranakhaṁ hēma pibēdvā madhusaṁyutam| <br/>\ntriphalāṁ pippalīṁ mustaṁ cavyaṁ kaṭukarōhiṇīm||38|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "lihyādvā madhunā cūrṇamūrustambhārditō naraḥ|39|",
+            "html": "<p>lihyādvā madhunā cūrṇamūrustambhārditō naraḥ|39| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "shAr~ggeShTAM madanaM dantIM vatsakasya phalaM vacAm [1] ||33||",
+            "html": "<p>shAr~ggeShTAM madanaM dantIM vatsakasya phalaM vacAm [1] ||33|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "mUrvAmAragvadhaM pAThAM kara~jjaM kulakaM tathA | pibenmadhuyutaM tulyaM cUrNaM vA vAriNA~a~aplutam ||34||",
+            "html": "<p>mUrvAmAragvadhaM pAThAM kara~jjaM kulakaM tathA | <br/>\npibenmadhuyutaM tulyaM cUrNaM vA vAriNA~a~aplutam ||34|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "sakShaudraM dadhimaNDairvA~apyUrustambhavinAshanam | mUrvAmativiShAM kuShThaM citrakaM kaTurohiNIm ||35||",
+            "html": "<p>sakShaudraM dadhimaNDairvA~apyUrustambhavinAshanam | <br/>\nmUrvAmativiShAM kuShThaM citrakaM kaTurohiNIm ||35|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "pUrvavadgugguluM [2] mUtre rAtristhitamathApi vA | svarNakShIrImativiShAM mustaM tejovatIM vacAm ||36||",
+            "html": "<p>pUrvavadgugguluM [2] mUtre rAtristhitamathApi vA | <br/>\nsvarNakShIrImativiShAM mustaM tejovatIM vacAm ||36|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "surAhvaM citrakaM [3] kuShThaM pAThAM kaTukarohiNIm | lehayenmadhunA cUrNaM sakShaudraM vA jalAplutam ||37||",
+            "html": "<p>surAhvaM citrakaM [3] kuShThaM pAThAM kaTukarohiNIm | <br/>\nlehayenmadhunA cUrNaM sakShaudraM vA jalAplutam ||37|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "phalIM vyAghranakhaM hema pibedvA madhusaMyutam | triphalAM pippalIM mustaM cavyaM kaTukarohiNIm ||38||",
+            "html": "<p>phalIM vyAghranakhaM hema pibedvA madhusaMyutam | <br/>\ntriphalAM pippalIM mustaM cavyaM kaTukarohiNIm ||38|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "lihyAdvA madhunA cUrNamUrustambhArdito naraH |39|",
+            "html": "<p>lihyAdvA madhunA cUrNamUrustambhArdito naraH |39| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "The patient suffering from urusthambha should take the following recipes.",
+            "html": "<p>The patient suffering from urusthambha should take the following recipes. \n</p>"
+        },
+        {
+            "type": "ol",
+            "text": "Sharngeshta ( gunja ), madana, danti, fruits (seeds) of vatsaka, vacha, murva, aragwadha, paatha, karanja and kulaka ( karavellaka ) – all these ingredients taken in equal quantities should be made into a powder. This should be taken along with honey added with water. Alternatively, this powder may be added with honey and sour-whey, and taken Murvadi-yoga : In the above-mentioned manner, the powder of murva, ativisha, kushtha, chitraka and katurohini may be taken. Guggulu should be soaked overnight in cow’s urine and taken. Swarnakshiryadi yoga : The powder of swarnakshiri, ativisha, musta, tejovati, vacha, surahwa, chitraka, kushdha, padha and katukarohini . It should be taken in the form of linctus made by adding honey. Alternatively, the powder may be mixed with water and honey and taken. The powder of phali ( nyagrodha ), vyaghra – nagha and hema ( nagakeshara ) may be taken by the patient. The powder of triphala, pippali, musta, chavya and katuka-rohini may be made to a linctus and taken.[33 ½ - 39 ½]",
+            "html": "<ol><li><i>Sharngeshta</i> (<i>gunja</i>), <i>madana, danti,</i> fruits (seeds) of <i>vatsaka, vacha, murva, aragwadha, paatha, karanja</i> and <i>kulaka</i> (<i>karavellaka</i>) – all these ingredients taken in equal quantities should be made into a powder. This should be taken along with honey added with water. Alternatively, this powder may be added with honey and sour-whey, and taken</li>\n<li><i>Murvadi-yoga</i>: In the above-mentioned manner, the powder of <i>murva, ativisha, kushtha, chitraka</i> and <i>katurohini</i> may be taken.</li>\n<li><i>Guggulu</i> should be soaked overnight in cow’s urine and taken.</li>\n<li><i>Swarnakshiryadi yoga</i>: The powder of <i>swarnakshiri, ativisha, musta, tejovati, vacha, surahwa, chitraka, kushdha, padha</i> and <i>katukarohini</i>. It should be taken in the form of linctus made by adding honey. Alternatively, the powder may be mixed with water and honey and taken.</li>\n<li>The powder of <i>phali</i> (<i>nyagrodha</i>), <i>vyaghra – nagha</i> and <i>hema</i> (<i>nagakeshara</i>) may be taken by the patient.</li>\n<li>The powder of <i>triphala, pippali, musta, chavya</i> and <i>katuka-rohini</i> may be made to a linctus and taken.[33 ½ - 39 ½]</li></ol>",
+            "items": [
+                "Sharngeshta ( gunja ), madana, danti, fruits (seeds) of vatsaka, vacha, murva, aragwadha, paatha, karanja and kulaka ( karavellaka ) – all these ingredients taken in equal quantities should be made into a powder. This should be taken along with honey added with water. Alternatively, this powder may be added with honey and sour-whey, and taken",
+                "Murvadi-yoga : In the above-mentioned manner, the powder of murva, ativisha, kushtha, chitraka and katurohini may be taken.",
+                "Guggulu should be soaked overnight in cow’s urine and taken.",
+                "Swarnakshiryadi yoga : The powder of swarnakshiri, ativisha, musta, tejovati, vacha, surahwa, chitraka, kushdha, padha and katukarohini . It should be taken in the form of linctus made by adding honey. Alternatively, the powder may be mixed with water and honey and taken.",
+                "The powder of phali ( nyagrodha ), vyaghra – nagha and hema ( nagakeshara ) may be taken by the patient.",
+                "The powder of triphala, pippali, musta, chavya and katuka-rohini may be made to a linctus and taken.[33 ½ - 39 ½]"
+            ]
+        },
+        {
+            "type": "h3",
+            "text": "Treatment of consequence of apatarpana",
+            "html": "<h3><span class=\"mw-headline\" id=\"Treatment_of_consequence_of_apatarpana\">Treatment of consequence of <i>apatarpana</i></span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "अपतर्पणजश्चेत् स्याद्दोषः सन्तर्पयेद्धि तम् ||३९||",
+            "html": "<p>अपतर्पणजश्चेत् स्याद्दोषः सन्तर्पयेद्धि तम् ||३९|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "युक्त्या जाङ्गलजैर्मांसैः पुराणैश्चैव शालिभिः | रूक्षणाद्वातकोपश्चेन्निद्रानाशार्तिपूर्वकः ||४०||",
+            "html": "<p>युक्त्या जाङ्गलजैर्मांसैः पुराणैश्चैव शालिभिः | <br/>\nरूक्षणाद्वातकोपश्चेन्निद्रानाशार्तिपूर्वकः ||४०|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "स्नेहस्वेदक्रमस्तत्र कार्यो वातामयापहः |",
+            "html": "<p>स्नेहस्वेदक्रमस्तत्र कार्यो वातामयापहः | <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "apatarpaṇajaścēt syāddōṣaḥ santarpayēddhi tam||39||",
+            "html": "<p>apatarpaṇajaścēt syāddōṣaḥ santarpayēddhi tam||39|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "yuktyā jāṅgalajairmāṁsaiḥ purāṇaiścaiva śālibhiḥ| rūkṣaṇādvātakōpaścēnnidrānāśārtipūrvakaḥ||40||",
+            "html": "<p>yuktyā jāṅgalajairmāṁsaiḥ purāṇaiścaiva śālibhiḥ| <br/>\nrūkṣaṇādvātakōpaścēnnidrānāśārtipūrvakaḥ||40|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "snēhasvēdakramastatra kāryō vātāmayāpahaḥ| apatarpaNajashcet syAddoShaH santarpayeddhi tam ||39||",
+            "html": "<p>snēhasvēdakramastatra kāryō vātāmayāpahaḥ| <br/>\napatarpaNajashcet syAddoShaH santarpayeddhi tam ||39|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "yuktyA jA~ggalajairmAMsaiH purANaishcaiva shAlibhiH | rUkShaNAdvAtakopashcennidrAnAshArtipUrvakaH ||40||",
+            "html": "<p>yuktyA jA~ggalajairmAMsaiH purANaishcaiva shAlibhiH | <br/>\nrUkShaNAdvAtakopashcennidrAnAshArtipUrvakaH ||40|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "snehasvedakramastatra kAryo vAtAmayApahaH |",
+            "html": "<p>snehasvedakramastatra kAryo vAtAmayApahaH |<br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "If the disease urusthambha is caused by apatarpana , then the patient should be appropriately given santarpana therapy consisting of the meat of animals inhabiting in jangala desha (The land with shrubs and small trees) and old shali rice.",
+            "html": "<p>If the disease <i>urusthambha</i> is caused by <i>apatarpana</i>, then the patient should be appropriately given <i>santarpana</i> therapy consisting of the meat of animals inhabiting in <i>jangala desha</i> (The land with shrubs and small trees) and old shali rice.\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "If because (of excessive use) of rukshana therapies, vata gets aggravated causing insomnia and pain, then the patient should be given oleation and fomentation therapies for the alleviation of the ailments caused by vata . [39 ½ - 41 ½]",
+            "html": "<p>If because (of excessive use) of <a href=\"/index.php?title=Rukshana\" title=\"Rukshana\">rukshana</a> therapies, <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a> gets aggravated causing insomnia and pain, then the patient should be given oleation and fomentation therapies for the alleviation of the ailments caused by <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a>. [39 ½ - 41 ½]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Piluparnyadi taila",
+            "html": "<h3><span class=\"mw-headline\" id=\"Piluparnyadi_taila\"><i>Piluparnyadi taila</i></span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "पीलुपर्णी पयस्या च रास्ना गोक्षुरको वचा ||४१||",
+            "html": "<p>पीलुपर्णी पयस्या च रास्ना गोक्षुरको वचा ||४१|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "सरलागुरुपाठाश्च तैलमेभिर्विपाचयेत् | सक्षौद्रं प्रसृतं तस्मादञ्जलिं वाऽपि ना पिबेत् ||४२||",
+            "html": "<p>सरलागुरुपाठाश्च तैलमेभिर्विपाचयेत् | <br/>\nसक्षौद्रं प्रसृतं तस्मादञ्जलिं वाऽपि ना पिबेत् ||४२|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "pīluparṇī payasyā ca rāsnā gōkṣurakō vacā||41||",
+            "html": "<p>pīluparṇī payasyā ca rāsnā gōkṣurakō vacā||41|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "saralāgurupāṭhāśca tailamēbhirvipācayēt| sakṣaudraṁ prasr̥taṁ tasmādañjaliṁ vā'pi nā pibēt||42||",
+            "html": "<p>saralāgurupāṭhāśca tailamēbhirvipācayēt| <br/>\nsakṣaudraṁ prasr̥taṁ tasmādañjaliṁ vā'pi nā pibēt||42|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "pIluparNI payasyA ca rAsnA gokShurako vacA ||41||",
+            "html": "<p>pIluparNI payasyA ca rAsnA gokShurako vacA ||41|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "saralAgurupAThAshca tailamebhirvipAcayet | sakShaudraM prasRutaM tasmAda~jjaliM vA~api nA pibet ||42||",
+            "html": "<p>saralAgurupAThAshca tailamebhirvipAcayet | <br/>\nsakShaudraM prasRutaM tasmAda~jjaliM vA~api nA pibet ||42||<br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Oil should be cooked by adding piluparni, payasya, raasna, gokshuraka, vacha, sarala, agaru and paadha . One prasarta or one anjali of this medicated oil should be taken by adding honey (One fourth in quantity of the medicated oil). [41 ½ - 42]",
+            "html": "<p>Oil should be cooked by adding <i>piluparni, payasya, raasna, gokshuraka, vacha, sarala, agaru</i> and <i>paadha</i>. One <i>prasarta</i> or one <i>anjali</i> of this medicated oil should be taken by adding honey (One fourth in quantity of the medicated oil). [41 ½ - 42]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Kushthadi taila",
+            "html": "<h3><span class=\"mw-headline\" id=\"Kushthadi_taila\"><i>Kushthadi taila</i></span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "कुष्ठश्रीवेष्टकोदीच्यसरलं दारु केशरम् | अजगन्धाऽश्वगन्धा च तैलं तैः सार्षपं पचेत् ||४३||",
+            "html": "<p>कुष्ठश्रीवेष्टकोदीच्यसरलं दारु केशरम् | <br/>\nअजगन्धाऽश्वगन्धा च तैलं तैः सार्षपं पचेत् ||४३|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "सक्षौद्रं मात्रया तच्चाप्यूरुस्तम्भार्दितः पिबेत् | (रौक्ष्यान्मुक्त ऊरुस्तम्भात्ततश्च स विमुच्यते ) ||४४||",
+            "html": "<p>सक्षौद्रं मात्रया तच्चाप्यूरुस्तम्भार्दितः पिबेत् | <br/>\n(रौक्ष्यान्मुक्त ऊरुस्तम्भात्ततश्च स विमुच्यते  ) ||४४|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "kuṣṭhaśrīvēṣṭakōdīcyasaralaṁ dāru kēśaram| ajagandhā'śvagandhā ca tailaṁ taiḥ sārṣapaṁ pacēt||43||",
+            "html": "<p>kuṣṭhaśrīvēṣṭakōdīcyasaralaṁ dāru kēśaram| <br/>\najagandhā'śvagandhā ca tailaṁ taiḥ sārṣapaṁ pacēt||43|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "sakṣaudraṁ mātrayā taccāpyūrustambhārditaḥ pibēt| (raukṣyānmukta ūrustambhāttataśca sa vimucyatē [1] )||44||",
+            "html": "<p>sakṣaudraṁ mātrayā taccāpyūrustambhārditaḥ pibēt| <br/>\n(raukṣyānmukta ūrustambhāttataśca sa vimucyatē [1] )||44|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "kuShThashrIveShTakodIcyasaralaM dAru kesharam | ajagandhA~ashvagandhA ca tailaM taiH sArShapaM pacet ||43||",
+            "html": "<p>kuShThashrIveShTakodIcyasaralaM dAru kesharam | <br/>\najagandhA~ashvagandhA ca tailaM taiH sArShapaM pacet ||43|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "sakShaudraM mAtrayA taccApyUrustambhArditaH pibet | (raukShyAnmukta UrustambhAttatashca sa vimucyate [1] ) ||44||",
+            "html": "<p>sakShaudraM mAtrayA taccApyUrustambhArditaH pibet | <br/>\n(raukShyAnmukta UrustambhAttatashca sa vimucyate [1] ) ||44||<br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Mustard oil should be cooked by adding kushtha, shreeveshtaka, udichya, sarala, devadaru, kesara, ajagandha and ashwagandha . The patient suffering from urusthambha should take this medicated oil in appropriate quantity by adding honey. This recipe makes the patient free from rukshana ( kevala-vata prakopaja symptoms) leading to the cure of urusthambha . [43-44]",
+            "html": "<p>Mustard oil should be cooked by adding <i>kushtha, shreeveshtaka, udichya, sarala, devadaru, kesara, ajagandha</i> and <i>ashwagandha</i>. The patient suffering from <i>urusthambha</i> should take this medicated oil in appropriate quantity by adding honey. This recipe makes the patient free from <a href=\"/index.php?title=Rukshana\" title=\"Rukshana\">rukshana</a> (<i>kevala-vata prakopaja</i> symptoms) leading to the cure of <i>urusthambha</i>. [43-44]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Saindhavadi taila",
+            "html": "<h3><span class=\"mw-headline\" id=\"Saindhavadi_taila\"><i>Saindhavadi taila</i></span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "द्वे पले सैन्धवात् पञ्च शुण्ठ्या ग्रन्थिकचित्रकात् | द्वे द्वे भल्लातकास्थीनि विंशतिर्द्वे तथाऽऽढके ||४५||",
+            "html": "<p>द्वे पले सैन्धवात् पञ्च शुण्ठ्या ग्रन्थिकचित्रकात् | <br/>\nद्वे द्वे भल्लातकास्थीनि विंशतिर्द्वे तथाऽऽढके ||४५|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "आरनालात् पचेत् प्रस्थं तैलस्यैतैरपत्यदम् | गृध्रस्यूरुग्रहार्शोर्तिसर्ववातविकारनुत् ||४६||",
+            "html": "<p>आरनालात् पचेत् प्रस्थं तैलस्यैतैरपत्यदम् | <br/>\nगृध्रस्यूरुग्रहार्शोर्तिसर्ववातविकारनुत् ||४६||<br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "dvē palē saindhavāt pañca śuṇṭhyā granthikacitrakāt| dvē dvē bhallātakāsthīni viṁśatirdvē tathā ḍhakē||45||",
+            "html": "<p>dvē palē saindhavāt pañca śuṇṭhyā granthikacitrakāt| <br/>\ndvē dvē bhallātakāsthīni viṁśatirdvē tathā<i>ḍhakē||45|| <br/></i>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "āranālāt pacēt prasthaṁ tailasyaitairapatyadam| gr̥dhrasyūrugrahārśōrtisarvavātavikāranut||46||",
+            "html": "<p>āranālāt pacēt prasthaṁ tailasyaitairapatyadam| <br/>\ngr̥dhrasyūrugrahārśōrtisarvavātavikāranut||46|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "dve pale saindhavAt pa~jca shuNThyA granthikacitrakAt | dve dve bhallAtakAsthIni viMshatirdve tathA~a~aDhake ||45||",
+            "html": "<p>dve pale saindhavAt pa~jca shuNThyA granthikacitrakAt | <br/>\ndve dve bhallAtakAsthIni viMshatirdve tathA~a~aDhake ||45|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "AranAlAt pacet prasthaM tailasyaitairapatyadam | gRudhrasyUrugrahArshortisarvavAtavikAranut ||46||",
+            "html": "<p>AranAlAt pacet prasthaM tailasyaitairapatyadam | <br/>\ngRudhrasyUrugrahArshortisarvavAtavikAranut ||46||<br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "One prastha (768 grams) of oil should be cooked by adding two palas (one pala = 48 grams) of saindhava , five palas of shunthi , two palas of granthika , two palas of chitraka , 20 fruits of bhallahaka and two adhakas of aranala . Intake of this medicated oil helps in the conception of the offspring. It cures gridhrasi, urugraha, arshas, pain and all types of diseases caused by the aggravated vata . [45-46]",
+            "html": "<p>One <i>prastha</i> (768 grams) of oil should be cooked by adding two <i>palas</i> (one <i>pala</i> = 48 grams) of <i>saindhava</i>, five <i>palas</i> of <i>shunthi</i>, two <i>palas</i> of <i>granthika</i>, two <i>palas</i> of <i>chitraka</i>, 20 fruits of <i>bhallahaka</i> and two <i>adhakas</i> of <i>aranala</i>. Intake of this medicated oil helps in the conception of the offspring. It cures <i>gridhrasi, urugraha, arshas,</i> pain and all types of diseases caused by the aggravated <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a>. [45-46]\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "पलाभ्यां पिप्पलीमूलनागरादष्टकट्वरः | तैलप्रस्थः समो दध्ना गृध्रस्यूरुग्रहापहः ||४७||",
+            "html": "<p>पलाभ्यां पिप्पलीमूलनागरादष्टकट्वरः | <br/>\nतैलप्रस्थः समो दध्ना गृध्रस्यूरुग्रहापहः ||४७|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "इत्यष्टकट्वरतैलम् | इत्याभ्यन्तरमुद्दिष्टमूरुस्तम्भस्य भेषजम् |",
+            "html": "<p>इत्यष्टकट्वरतैलम् |<br/>\nइत्याभ्यन्तरमुद्दिष्टमूरुस्तम्भस्य भेषजम् | <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "palābhyāṁ pippalīmūlanāgarādaṣṭakaṭvaraḥ| tailaprasthaḥ samō dadhnā gr̥dhrasyūrugrahāpahaḥ||47||",
+            "html": "<p>palābhyāṁ pippalīmūlanāgarādaṣṭakaṭvaraḥ| <br/>\ntailaprasthaḥ samō dadhnā gr̥dhrasyūrugrahāpahaḥ||47|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "ityaṣṭakaṭvaratailam| ityābhyantaramuddiṣṭamūrustambhasya bhēṣajam|",
+            "html": "<p>ityaṣṭakaṭvaratailam| <br/>\nityābhyantaramuddiṣṭamūrustambhasya bhēṣajam| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "palAbhyAM pippalImUlanAgarAdaShTakaTvaraH | tailaprasthaH samo dadhnA gRudhrasyUrugrahApahaH ||47||",
+            "html": "<p>palAbhyAM pippalImUlanAgarAdaShTakaTvaraH | <br/>\ntailaprasthaH samo dadhnA gRudhrasyUrugrahApahaH ||47|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "ityaShTakaTvaratailam | ityAbhyantaramuddiShTamUrustambhasya bheShajam |",
+            "html": "<p>ityaShTakaTvaratailam |<br/>\nityAbhyantaramuddiShTamUrustambhasya bheShajam |<br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "One prastha of oil (768 grams) should be cooked by adding two palas (96 grams) of pippalimoola and nagara taken together, 8 prasthas of katvara (butter milk) and one prastha of yogurt. This medicated oil cures gridhrasi (sciatica) and urustambha . [47]",
+            "html": "<p>One <i>prastha</i> of oil (768 grams) should be cooked by adding two <i>palas</i> (96 grams) of <i>pippalimoola</i> and <i>nagara</i> taken together, 8 <i>prasthas</i> of <i>katvara</i> (butter milk) and one <i>prastha</i> of yogurt. This medicated oil cures <i>gridhrasi</i> (sciatica) and <i>urustambha</i>. [47]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "External applications",
+            "html": "<h3><span class=\"mw-headline\" id=\"External_applications\">External applications</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "श्लेष्मणः क्षपणं त्वन्यद्बाह्यं शृणु चिकित्सितम् ||४८||",
+            "html": "<p>श्लेष्मणः क्षपणं त्वन्यद्बाह्यं शृणु चिकित्सितम् ||४८|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "वल्मीकमृत्तिका मूलं करञ्जस्य फलं त्वचम् | इष्टकानां ततश्चूर्णैः कुर्यादुत्सादनं भृशम् ||४९||",
+            "html": "<p>वल्मीकमृत्तिका मूलं करञ्जस्य फलं त्वचम् | <br/>\nइष्टकानां ततश्चूर्णैः कुर्यादुत्सादनं भृशम् ||४९|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "मूलैर्वाऽप्यश्वगन्धाया मूलैरर्कस्य वा भिषक् | पिचुमर्दस्य वा मूलैरथवा देवदारुणाः ||५०||",
+            "html": "<p>मूलैर्वाऽप्यश्वगन्धाया मूलैरर्कस्य वा भिषक् | <br/>\nपिचुमर्दस्य वा मूलैरथवा देवदारुणाः ||५०|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "क्षौद्रसर्षपवल्मीकमृत्तिकासंयुतैर्भिषक् | गाढमुत्सादनं कुर्यादूरुस्तम्भे प्रलेपनम् ||५१||",
+            "html": "<p>क्षौद्रसर्षपवल्मीकमृत्तिकासंयुतैर्भिषक् | <br/>\nगाढमुत्सादनं कुर्यादूरुस्तम्भे प्रलेपनम् ||५१|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "दन्तीद्रवन्तीसुरसासर्षपैश्चापि बुद्धिमान् | तर्कारीशिग्रुसुरसाविश्ववत्सकनिम्बजैः ||५२||",
+            "html": "<p>दन्तीद्रवन्तीसुरसासर्षपैश्चापि बुद्धिमान् | <br/>\nतर्कारीशिग्रुसुरसाविश्ववत्सकनिम्बजैः ||५२|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "पत्रमूलफलैस्तोयं शृतमुष्णं च सेचनम् | पिष्टं तु सर्षपं मूत्रेऽध्युषितं स्यात् प्रलेपनम् ||५३||",
+            "html": "<p>पत्रमूलफलैस्तोयं शृतमुष्णं च सेचनम् | <br/>\nपिष्टं तु सर्षपं मूत्रेऽध्युषितं स्यात् प्रलेपनम् ||५३|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "वत्सकः सुरसं कुष्ठं गन्धास्तुम्बुरुशिग्रुकौ | हिंस्रार्कमूलवल्मीकमृत्तिकाः सकुठेरकाः ||५४||",
+            "html": "<p>वत्सकः सुरसं कुष्ठं गन्धास्तुम्बुरुशिग्रुकौ | <br/>\nहिंस्रार्कमूलवल्मीकमृत्तिकाः  सकुठेरकाः ||५४|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "दधिसैन्धवसंयुक्तं कार्यमेतैः प्रलेपनम् | (ऊरुस्तम्भविनाशाय भिषजा जानता क्रमम्) ||५५||",
+            "html": "<p>दधिसैन्धवसंयुक्तं कार्यमेतैः प्रलेपनम् | <br/>\n(ऊरुस्तम्भविनाशाय  भिषजा जानता क्रमम्) ||५५|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "श्योनाकं खदिरं बिल्वं बृहत्यौ सरलासनौ | शोभाञ्जनकतर्कारीश्वदंष्ट्रासुरसार्जकान् ||५६||",
+            "html": "<p>श्योनाकं खदिरं बिल्वं बृहत्यौ सरलासनौ | <br/>\nशोभाञ्जनकतर्कारीश्वदंष्ट्रासुरसार्जकान् ||५६|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "अग्निमन्थकरञ्जौ च जलेनोत्क्वाथ्य सेचयेत् | प्रलेपो मूत्रपिष्टैर्वाऽप्यूरुस्तम्भनिवारणः ||५७||",
+            "html": "<p>अग्निमन्थकरञ्जौ च जलेनोत्क्वाथ्य सेचयेत् | <br/>\nप्रलेपो मूत्रपिष्टैर्वाऽप्यूरुस्तम्भनिवारणः ||५७|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "ślēṣmaṇaḥ kṣapaṇaṁ tvanyadbāhyaṁ śr̥ṇu cikitsitam||48||",
+            "html": "<p>ślēṣmaṇaḥ kṣapaṇaṁ tvanyadbāhyaṁ śr̥ṇu cikitsitam||48|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "valmīkamr̥ttikā mūlaṁ karañjasya phalaṁ tvacam| iṣṭakānāṁ tataścūrṇaiḥ kuryādutsādanaṁ bhr̥śam||49||",
+            "html": "<p>valmīkamr̥ttikā mūlaṁ karañjasya phalaṁ tvacam| <br/>\niṣṭakānāṁ tataścūrṇaiḥ kuryādutsādanaṁ bhr̥śam||49|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "mūlairvā'pyaśvagandhāyā mūlairarkasya vā bhiṣak| picumardasya vā mūlairathavā dēvadāruṇaḥ||50||",
+            "html": "<p>mūlairvā'pyaśvagandhāyā mūlairarkasya vā bhiṣak| <br/>\npicumardasya vā mūlairathavā dēvadāruṇaḥ||50|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "kṣaudrasarṣapavalmīkamr̥ttikāsaṁyutairbhiṣak| gāḍhamutsādanaṁ kuryādūrustambhē pralēpanam||51||",
+            "html": "<p>kṣaudrasarṣapavalmīkamr̥ttikāsaṁyutairbhiṣak| <br/>\ngāḍhamutsādanaṁ kuryādūrustambhē pralēpanam||51|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "dantīdravantīsurasāsarṣapaiścāpi buddhimān| tarkārīśigrusurasāviśvavatsakanimbajaiḥ||52||",
+            "html": "<p>dantīdravantīsurasāsarṣapaiścāpi buddhimān| <br/>\ntarkārīśigrusurasāviśvavatsakanimbajaiḥ||52|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "patramūlaphalaistōyaṁ śr̥tamuṣṇaṁ ca sēcanam| piṣṭaṁ tu sarṣapaṁ mūtrē'dhyuṣitaṁ syāt pralēpanam||53||",
+            "html": "<p>patramūlaphalaistōyaṁ śr̥tamuṣṇaṁ ca sēcanam| <br/>\npiṣṭaṁ tu sarṣapaṁ mūtrē'dhyuṣitaṁ syāt pralēpanam||53|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "vatsakaḥ surasaṁ kuṣṭhaṁ gandhāstumburuśigrukau| hiṁsrārkamūlavalmīkamr̥ttikāḥ [1] sakuṭhērakāḥ||54||",
+            "html": "<p>vatsakaḥ surasaṁ kuṣṭhaṁ gandhāstumburuśigrukau| <br/>\nhiṁsrārkamūlavalmīkamr̥ttikāḥ [1] sakuṭhērakāḥ||54|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "dadhisaindhavasaṁyuktaṁ kāryamētaiḥ pralēpanam| (ūrustambhavināśāya [2] bhiṣajā jānatā kramam)||55||",
+            "html": "<p>dadhisaindhavasaṁyuktaṁ kāryamētaiḥ pralēpanam| <br/>\n(ūrustambhavināśāya [2] bhiṣajā jānatā kramam)||55|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "śyōnākaṁ khadiraṁ bilvaṁ br̥hatyau saralāsanau| śōbhāñjanakatarkārīśvadaṁṣṭrāsurasārjakān||56||",
+            "html": "<p>śyōnākaṁ khadiraṁ bilvaṁ br̥hatyau saralāsanau| <br/>\nśōbhāñjanakatarkārīśvadaṁṣṭrāsurasārjakān||56|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "agnimanthakarañjau ca jalēnōtkvāthya sēcayēt| pralēpō mūtrapiṣṭairvā'pyūrustambhanivāraṇaḥ||57||",
+            "html": "<p>agnimanthakarañjau ca jalēnōtkvāthya sēcayēt| <br/>\npralēpō mūtrapiṣṭairvā'pyūrustambhanivāraṇaḥ||57|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "shleShmaNaH kShapaNaM tvanyadbAhyaM shRuNu cikitsitam ||48||",
+            "html": "<p>shleShmaNaH kShapaNaM tvanyadbAhyaM shRuNu cikitsitam ||48|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "valmIkamRuttikA mUlaM kara~jjasya phalaM tvacam | iShTakAnAM tatashcUrNaiH kuryAdutsAdanaM bhRusham ||49||",
+            "html": "<p>valmIkamRuttikA mUlaM kara~jjasya phalaM tvacam | <br/>\niShTakAnAM tatashcUrNaiH kuryAdutsAdanaM bhRusham ||49|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "mUlairvA~apyashvagandhAyA mUlairarkasya vA bhiShak | picumardasya vA mUlairathavA devadAruNAH ||50||",
+            "html": "<p>mUlairvA~apyashvagandhAyA mUlairarkasya vA bhiShak | <br/>\npicumardasya vA mUlairathavA devadAruNAH ||50|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "kShaudrasarShapavalmIkamRuttikAsaMyutairbhiShak | gADhamutsAdanaM kuryAdUrustambhe pralepanam ||51||",
+            "html": "<p>kShaudrasarShapavalmIkamRuttikAsaMyutairbhiShak | <br/>\ngADhamutsAdanaM kuryAdUrustambhe pralepanam ||51|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "dantIdravantIsurasAsarShapaishcApi buddhimAn | tarkArIshigrusurasAvishvavatsakanimbajaiH ||52||",
+            "html": "<p>dantIdravantIsurasAsarShapaishcApi buddhimAn | <br/>\ntarkArIshigrusurasAvishvavatsakanimbajaiH ||52|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "patramUlaphalaistoyaM shRutamuShNaM ca secanam | piShTaM tu sarShapaM mUtre~adhyuShitaM syAt pralepanam ||53||",
+            "html": "<p>patramUlaphalaistoyaM shRutamuShNaM ca secanam | <br/>\npiShTaM tu sarShapaM mUtre~adhyuShitaM syAt pralepanam ||53|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "vatsakaH surasaM kuShThaM gandhAstumburushigrukau | hiMsrArkamUlavalmIkamRuttikAH [1] sakuTherakAH ||54||",
+            "html": "<p>vatsakaH surasaM kuShThaM gandhAstumburushigrukau | <br/>\nhiMsrArkamUlavalmIkamRuttikAH [1] sakuTherakAH ||54|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "dadhisaindhavasaMyuktaM kAryametaiH pralepanam | (UrustambhavinAshAya [2] bhiShajA jAnatA kramam) ||55||",
+            "html": "<p>dadhisaindhavasaMyuktaM kAryametaiH pralepanam | <br/>\n(UrustambhavinAshAya [2] bhiShajA jAnatA kramam) ||55|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "shyonAkaM khadiraM bilvaM bRuhatyau saralAsanau | shobhA~jjanakatarkArIshvadaMShTrAsurasArjakAn ||56||",
+            "html": "<p>shyonAkaM khadiraM bilvaM bRuhatyau saralAsanau | <br/>\nshobhA~jjanakatarkArIshvadaMShTrAsurasArjakAn ||56|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "agnimanthakara~jjau ca jalenotkvAthya secayet | pralepo mUtrapiShTairvA~apyUrustambhanivAraNaH ||57||",
+            "html": "<p>agnimanthakara~jjau ca jalenotkvAthya secayet | <br/>\npralepo mUtrapiShTairvA~apyUrustambhanivAraNaH ||57||<br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "In the above mentioned verses (no.s 25-47), the recipes to be used internally for the cure of urusthambha are briefly described.",
+            "html": "<p>In the above mentioned verses (no.s 25-47), the recipes to be used internally for the cure of <i>urusthambha</i> are briefly described. \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Hereafter recipes to be administered externally for the diminution of kapha ' will be described which you may hear.",
+            "html": "<p>Hereafter recipes to be administered externally for the diminution of <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a>' will be described which you may hear.\n</p>"
+        },
+        {
+            "type": "ul",
+            "text": "The mud of ant-hill, the root, fruits and barks of karanja and bricks should be made to a powder. This should be used for utsaadana (therapeutic massage with mixture of powder and unctuous substance) frequently. Alternatively, the physician should administer this utsaadana therapy with the help of the root of ashwagandha, arka, pichumarda or devadaru . Any one of these drugs may be mixed with honey, sarshapa and mud of ant-hill before being used as thick utsaadana or pralepana . A wise physician may also apply the paste of danti, dravanti, surasa and sarshapa for the cure of urustambha . The warm decoction prepared by boiling water with the leaves, roots and fruits of tarkari, shigru, surasa, vishwa, vatsaka and nimba dhaara (pouring continuously) may be done over the affected part. Mustard should be made to a paste by triturating with cow’s urine kept overnight and used for external application. Vatska, surasa, kushtha, aromatic drugs like aguru, tumburu, shigru, himstra, root of arka , Mud of ant-hill and kudheraka should be made to a paste by adding yogurt and rock salt. A physician conversant with the line of treatment should administer this paste as external application for the cure of urustambha .",
+            "html": "<ul><li>The mud of ant-hill, the root, fruits and barks of <i>karanja</i> and bricks should be made to a powder. This should be used for <i>utsaadana</i> (therapeutic massage with mixture of powder and unctuous substance) frequently.</li>\n<li>Alternatively, the physician should administer this <i>utsaadana</i> therapy with the help of the root of <i>ashwagandha, arka, pichumarda</i> or <i>devadaru</i>. Any one of these drugs may be mixed with honey, <i>sarshapa</i> and mud of ant-hill before being used as thick <i>utsaadana</i> or <i>pralepana</i>.</li>\n<li>A wise physician may also apply the paste of <i>danti, dravanti, surasa</i> and <i>sarshapa</i> for the cure of <i>urustambha</i>.</li>\n<li>The warm decoction prepared by boiling water with the leaves, roots and fruits of <i>tarkari, shigru, surasa, vishwa, vatsaka</i> and <i>nimba dhaara</i> (pouring continuously) may be done over the affected part.</li>\n<li>Mustard should be made to a paste by triturating with cow’s urine kept overnight and used for external application.</li>\n<li><i>Vatska, surasa, kushtha,</i> aromatic drugs like <i>aguru, tumburu, shigru, himstra,</i> root of <i>arka</i> , Mud of ant-hill and <i>kudheraka</i> should be made to a paste by adding yogurt and rock salt. A physician conversant with the line of treatment should administer this paste as external application for the cure of <i>urustambha</i>.</li></ul>",
+            "items": [
+                "The mud of ant-hill, the root, fruits and barks of karanja and bricks should be made to a powder. This should be used for utsaadana (therapeutic massage with mixture of powder and unctuous substance) frequently.",
+                "Alternatively, the physician should administer this utsaadana therapy with the help of the root of ashwagandha, arka, pichumarda or devadaru . Any one of these drugs may be mixed with honey, sarshapa and mud of ant-hill before being used as thick utsaadana or pralepana .",
+                "A wise physician may also apply the paste of danti, dravanti, surasa and sarshapa for the cure of urustambha .",
+                "The warm decoction prepared by boiling water with the leaves, roots and fruits of tarkari, shigru, surasa, vishwa, vatsaka and nimba dhaara (pouring continuously) may be done over the affected part.",
+                "Mustard should be made to a paste by triturating with cow’s urine kept overnight and used for external application.",
+                "Vatska, surasa, kushtha, aromatic drugs like aguru, tumburu, shigru, himstra, root of arka , Mud of ant-hill and kudheraka should be made to a paste by adding yogurt and rock salt. A physician conversant with the line of treatment should administer this paste as external application for the cure of urustambha ."
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Shyonaka, khadira, bilwa, brihati, kantakari, sarala, asana, shobhanjana, tarkari, shwadamshtra, surasa, arjaka, agnimantha and karanja should be boiled in water.",
+            "html": "<p><i>Shyonaka, khadira, bilwa, brihati, kantakari, sarala, asana, shobhanjana, tarkari, shwadamshtra, surasa, arjaka, agnimantha</i> and <i>karanja</i> should be boiled in water.\n</p>"
+        },
+        {
+            "type": "ul",
+            "text": "This decoction is to be used for dhaara (pouring continuously) on the affected part. The above mentioned drugs may be made into a paste by triturating them with cow’s urine and applied externally for the cure of urusthambha .[48-57]",
+            "html": "<ul><li>This decoction is to be used for <i>dhaara</i> (pouring continuously) on the affected part.</li>\n<li>The above mentioned drugs may be made into a paste by triturating them with cow’s urine and applied externally for the cure of <i>urusthambha</i> .[48-57]</li></ul>",
+            "items": [
+                "This decoction is to be used for dhaara (pouring continuously) on the affected part.",
+                "The above mentioned drugs may be made into a paste by triturating them with cow’s urine and applied externally for the cure of urusthambha .[48-57]"
+            ]
+        },
+        {
+            "type": "h3",
+            "text": "Beneficial diet and lifestyle in kapha vitiation",
+            "html": "<h3><span class=\"mw-headline\" id=\"Beneficial_diet_and_lifestyle_in_kapha_vitiation\">Beneficial diet and lifestyle in <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a> vitiation</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "कफक्षयार्थं शक्येषु व्यायामेष्वनुयोजयेत् | स्थलान्याक्रामयेत् कल्यं शर्कराः सिकतास्तथा ||५८||",
+            "html": "<p>कफक्षयार्थं शक्येषु  व्यायामेष्वनुयोजयेत् | <br/>\nस्थलान्याक्रामयेत् कल्यं शर्कराः सिकतास्तथा ||५८|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "प्रतारयेत् प्रतिस्रोतो नदीं शीतजलां शिवाम् | सरश्च विमलं शीतं स्थिरतोयं पुनः पुनः ||५९||",
+            "html": "<p>प्रतारयेत् प्रतिस्रोतो नदीं शीतजलां शिवाम् | <br/>\nसरश्च विमलं शीतं स्थिरतोयं पुनः पुनः ||५९|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "तथा विशुष्केऽस्य कफे शान्तिमूरुग्रहो व्रजेत् |६०|",
+            "html": "<p>तथा विशुष्केऽस्य कफे शान्तिमूरुग्रहो व्रजेत् |६०|<br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "kaphakṣayārthaṁ śakyēṣu vyāyāmēṣvanuyōjayēt| sthalānyākrāmayēt kalyaṁ śarkarāḥ sikatāstathā||58||",
+            "html": "<p>kaphakṣayārthaṁ śakyēṣu  vyāyāmēṣvanuyōjayēt| <br/>\nsthalānyākrāmayēt kalyaṁ śarkarāḥ sikatāstathā||58|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "pratārayēt pratisrōtō nadīṁ śītajalāṁ śivām| saraśca vimalaṁ śītaṁ sthiratōyaṁ punaḥ punaḥ||59||",
+            "html": "<p>pratārayēt pratisrōtō nadīṁ śītajalāṁ śivām| <br/>\nsaraśca vimalaṁ śītaṁ sthiratōyaṁ punaḥ punaḥ||59|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "tathā viśuṣkē'sya kaphē śāntimūrugrahō vrajēt|60|",
+            "html": "<p>tathā viśuṣkē'sya kaphē śāntimūrugrahō vrajēt|60| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "kaphakShayArthaM shakyeShu vyAyAmeShvanuyojayet | sthalAnyAkrAmayet kalyaM sharkarAH sikatAstathA ||58||",
+            "html": "<p>kaphakShayArthaM shakyeShu  vyAyAmeShvanuyojayet | <br/>\nsthalAnyAkrAmayet kalyaM sharkarAH sikatAstathA ||58|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "pratArayet pratisroto nadIM shItajalAM shivAm | sarashca vimalaM shItaM sthiratoyaM punaH punaH ||59||",
+            "html": "<p>pratArayet pratisroto nadIM shItajalAM shivAm | <br/>\nsarashca vimalaM shItaM sthiratoyaM punaH punaH ||59|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "tathA vishuShke~asya kaphe shAntimUrugraho vrajet |60|",
+            "html": "<p>tathA vishuShke~asya kaphe shAntimUrugraho vrajet |60| <br/>\n</p>"
+        },
+        {
+            "type": "ul",
+            "text": "To alleviate kapha , the able-bodied patients should be engaged in physical exercise and they should be made to walk over the ground covered with gravels and sand in the morning. The patient should be made to swim often against the current of river with cold water but harmless. He may also be advised swimming frequently in a pond having clean, cold and stable water.[58-60]",
+            "html": "<ul><li>To alleviate <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a>, the able-bodied patients should be engaged in physical exercise and they should be made to walk over the ground covered with gravels and sand in the morning.</li>\n<li>The patient should be made to swim often against the current of river with cold water but harmless. He may also be advised swimming frequently in a pond having clean, cold and stable water.[58-60]</li></ul>",
+            "items": [
+                "To alleviate kapha , the able-bodied patients should be engaged in physical exercise and they should be made to walk over the ground covered with gravels and sand in the morning.",
+                "The patient should be made to swim often against the current of river with cold water but harmless. He may also be advised swimming frequently in a pond having clean, cold and stable water.[58-60]"
+            ]
+        },
+        {
+            "type": "p",
+            "text": "श्लेष्मणः क्षपणं यत् स्यान्न च मारुतमावहेत् ||६०||",
+            "html": "<p>श्लेष्मणः क्षपणं यत् स्यान्न च मारुतमावहेत्  ||६०|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "तत् सर्वं सर्वदा कार्यमूरुस्तम्भस्य भेषजम् | शरीरं बलमग्निं च कार्यैषा रक्षता क्रिया ||६१||",
+            "html": "<p>तत् सर्वं सर्वदा कार्यमूरुस्तम्भस्य भेषजम् | <br/>\nशरीरं बलमग्निं च कार्यैषा रक्षता क्रिया ||६१||<br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "ślēṣmaṇaḥ kṣapaṇaṁ yat syānna ca mārutamāvahēt ||60||",
+            "html": "<p>ślēṣmaṇaḥ kṣapaṇaṁ yat syānna ca mārutamāvahēt  ||60|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "tat sarvaṁ sarvadā kāryamūrustambhasya bhēṣajam| śarīraṁ balamagniṁ ca kāryaiṣā rakṣatā kriyā||61||",
+            "html": "<p>tat sarvaṁ sarvadā kāryamūrustambhasya bhēṣajam| <br/>\nśarīraṁ balamagniṁ ca kāryaiṣā rakṣatā kriyā||61|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "shleShmaNaH kShapaNaM yat syAnna ca mArutamAvahet ||60||",
+            "html": "<p>shleShmaNaH kShapaNaM yat syAnna ca mArutamAvahet  ||60|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "tat sarvaM sarvadA kAryamUrustambhasya bheShajam | sharIraM balamagniM ca kAryaiShA rakShatA kriyA ||61||",
+            "html": "<p>tat sarvaM sarvadA kAryamUrustambhasya bheShajam | <br/>\nsharIraM balamagniM ca kAryaiShA rakShatA kriyA ||61|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "All the therapeutic measures which alleviate kapha but do not aggravate vata should always be employed for the treatment of urustambha . These therapeutic measures should be administered while protecting the subject’s physical strength and power of metabolism.[60-61]",
+            "html": "<p>All the therapeutic measures which alleviate <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a> but do not aggravate <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a> should always be employed for the treatment of <i>urustambha</i>. These therapeutic measures should be administered while protecting the subject’s physical strength and power of metabolism.[60-61]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Summary",
+            "html": "<h3><span class=\"mw-headline\" id=\"Summary\">Summary</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "तत्र श्लोकः-",
+            "html": "<p>तत्र श्लोकः- \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "हेतुः प्राग्रूपलिङ्गानि कर्मायोग्यत्वकारणम् | द्विविधं भेषजं चोक्तमूरुस्तम्भचिकित्सिते ||६२||",
+            "html": "<p>हेतुः प्राग्रूपलिङ्गानि कर्मायोग्यत्वकारणम् | <br/>\nद्विविधं भेषजं चोक्तमूरुस्तम्भचिकित्सिते ||६२||<br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "tatra ślōkaḥ-",
+            "html": "<p>tatra ślōkaḥ- \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "hētuḥ prāgrūpaliṅgāni karmāyōgyatvakāraṇam| dvividhaṁ bhēṣajaṁ cōktamūrustambhacikitsitē||62||",
+            "html": "<p>hētuḥ prāgrūpaliṅgāni karmāyōgyatvakāraṇam| <br/>\ndvividhaṁ bhēṣajaṁ cōktamūrustambhacikitsitē||62|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "tatra shlokaH-",
+            "html": "<p>tatra shlokaH- \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "hetuH prAgrUpali~ggAni karmAyogyatvakAraNam | dvividhaM bheShajaM coktamUrustambhacikitsite ||62||",
+            "html": "<p>hetuH prAgrUpali~ggAni karmAyogyatvakAraNam | <br/>\ndvividhaM bheShajaM coktamUrustambhacikitsite ||62||<br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "In this chapter on the treatment of urustambha , the following topics are discussed. Etiology, premonitory signs and symptoms, signs and symptoms, therapeutic measures which are ineffective and causes to substantiate their futility and two categories of therapeutic measures (viz. internal and external).[62]",
+            "html": "<p>In this chapter on the treatment of <i>urustambha</i>, the following topics are discussed. Etiology, premonitory signs and symptoms, signs and symptoms, therapeutic measures which are ineffective and causes to substantiate their futility and two categories of therapeutic measures (viz. internal and external).[62]\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "इत्यग्निवेशकृते तन्त्रे चरकप्रतिसंस्कृतेऽप्राप्ते दृढबलसम्पूरिते चिकित्सास्थाने ऊरुस्तम्भचिकित्सितं नाम सप्तविंशोऽध्यायः ||२७||",
+            "html": "<p>इत्यग्निवेशकृते तन्त्रे चरकप्रतिसंस्कृतेऽप्राप्ते दृढबलसम्पूरिते चिकित्सास्थाने ऊरुस्तम्भचिकित्सितं नाम सप्तविंशोऽध्यायः ||२७||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "ityagniveshakRute tantre carakapratisaMskRute~aprApte dRuDhabalasampUrite cikitsAsthAne UrustambhacikitsitaM nAma saptaviMsho~adhyAyaH ||27||",
+            "html": "<p>ityagniveshakRute tantre carakapratisaMskRute~aprApte dRuDhabalasampUrite cikitsAsthAne UrustambhacikitsitaM nAma saptaviMsho~adhyAyaH ||27|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "ityagnivēśakr̥tē tantrē carakapratisaṁskr̥tē'prāptē dr̥ḍhabalasampūritē cikitsāsthānē ūrustambhacikitsitaṁnāma saptaviṁśō'dhyāyaḥ||27||",
+            "html": "<p>ityagnivēśakr̥tē tantrē carakapratisaṁskr̥tē'prāptē dr̥ḍhabalasampūritē cikitsāsthānē ūrustambhacikitsitaṁnāma saptaviṁśō'dhyāyaḥ||27|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Thus ends the chapter on management of urustambha written by Agnivesha, redacted by Charaka and completed by Dridhabala.",
+            "html": "<p>Thus ends the chapter on management of <i>urustambha</i> written by Agnivesha, redacted by Charaka and completed by Dridhabala.\n</p>"
+        },
+        {
+            "type": "h2",
+            "text": "Tattva Vimarsha (Fundamental Principles)",
+            "html": "<h2><span id=\"Tattva_Vimarsha_.28Fundamental_Principles.29\"></span><span class=\"mw-headline\" id=\"Tattva_Vimarsha_(Fundamental_Principles)\">Tattva Vimarsha (Fundamental Principles)</span></h2>",
+            "level": 2
+        },
+        {
+            "type": "ul",
+            "text": "Urustambha occurs due to consumption of diet and lifestyle having mutual contradictory properties like hot and cold, unctuous and dry etc. Inadequate digestion leading to vitiation of all dosha causes the basic pathogenesis. Kapha is the main dosha and meda dhatu is dushya . Avarodha (blockage) by excess fat and lipids in the vessels going downwards in thigh region is the type of pathogenesis. Oleation and Panchakarma therapy is contraindicated in urustambha . Constant administration of therapies for samshamana (pacification), kshapana (reduction) and shoshana (drying up by absorption) of kapha and ama are indicated in urustambha . Rukshana (drying up) therapies with diet, lifestyle and medicinesis administered to absorb morbid dosha causing obstruction. The treatment includes internal administration of kshara, arishta and haritaki as well as the drugs having abovementioned actions. External application in the form of utsadana ( massage with mixture of powder and unctuous substance) is prescribed. The strong patients shall be advised exercise which can reduce kapha and meda dhatu like walking on sand or swimming against the stream. The objective of exercise it to remove blockage from circulation. All the therapeutic measures which alleviate kapha but do not aggravate vata should always be employed for the treatment of urustambha . These therapeutic measures should be administered while protecting the subject’s physical strength and power of metabolism.",
+            "html": "<ul><li><i>Urustambha</i> occurs due to consumption of diet and lifestyle having mutual contradictory properties like hot and cold, unctuous and dry etc.</li>\n<li>Inadequate digestion leading to vitiation of all <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> causes the basic pathogenesis.</li>\n<li><a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">Kapha</a> is the main <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> and <a href=\"/index.php?title=Meda_dhatu\" title=\"Meda dhatu\">meda dhatu</a> is <i>dushya</i>. <i>Avarodha</i> (blockage) by excess fat and lipids in the vessels going downwards in thigh region is  the type of pathogenesis.</li>\n<li>Oleation and <a href=\"/index.php?title=Panchakarma\" title=\"Panchakarma\">Panchakarma</a> therapy is contraindicated in <i>urustambha</i>.</li>\n<li>Constant administration of therapies for <i>samshamana</i> (pacification), <i>kshapana</i> (reduction) and <i>shoshana</i> (drying up by absorption) of <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a> and <i>ama</i> are indicated in <i>urustambha</i>.</li>\n<li><a href=\"/index.php?title=Rukshana\" title=\"Rukshana\">Rukshana</a> (drying up) therapies with diet, lifestyle and medicinesis administered to absorb morbid <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> causing obstruction.</li>\n<li>The treatment includes internal administration of <i>kshara, arishta</i> and <i>haritaki</i> as well as the drugs having abovementioned actions. External application in the form of <i>utsadana</i>( massage with mixture of powder and unctuous substance) is prescribed.</li>\n<li>The strong patients shall be advised exercise which can reduce <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a> and <a href=\"/index.php?title=Meda_dhatu\" title=\"Meda dhatu\">meda dhatu</a> like walking on sand or swimming against the stream. The objective of exercise it to remove blockage from circulation.</li>\n<li>All the therapeutic measures which alleviate <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a> but do not aggravate <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a> should always be employed for the treatment of <i>urustambha</i>. These therapeutic measures should be administered while protecting the subject’s physical strength and power of metabolism.</li></ul>",
+            "items": [
+                "Urustambha occurs due to consumption of diet and lifestyle having mutual contradictory properties like hot and cold, unctuous and dry etc.",
+                "Inadequate digestion leading to vitiation of all dosha causes the basic pathogenesis.",
+                "Kapha is the main dosha and meda dhatu is dushya . Avarodha (blockage) by excess fat and lipids in the vessels going downwards in thigh region is the type of pathogenesis.",
+                "Oleation and Panchakarma therapy is contraindicated in urustambha .",
+                "Constant administration of therapies for samshamana (pacification), kshapana (reduction) and shoshana (drying up by absorption) of kapha and ama are indicated in urustambha .",
+                "Rukshana (drying up) therapies with diet, lifestyle and medicinesis administered to absorb morbid dosha causing obstruction.",
+                "The treatment includes internal administration of kshara, arishta and haritaki as well as the drugs having abovementioned actions. External application in the form of utsadana ( massage with mixture of powder and unctuous substance) is prescribed.",
+                "The strong patients shall be advised exercise which can reduce kapha and meda dhatu like walking on sand or swimming against the stream. The objective of exercise it to remove blockage from circulation.",
+                "All the therapeutic measures which alleviate kapha but do not aggravate vata should always be employed for the treatment of urustambha . These therapeutic measures should be administered while protecting the subject’s physical strength and power of metabolism."
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Vidhi Vimarsha (Applied Inferences )",
+            "html": "<h2><span id=\"Vidhi_Vimarsha_.28Applied_Inferences_.29\"></span><span class=\"mw-headline\" id=\"Vidhi_Vimarsha_(Applied_Inferences_)\">Vidhi Vimarsha (Applied Inferences )</span></h2>",
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "Urustambha resembles vata disorder because of clinical picture of painful weakness of pelvic girdle and lower extremities muscles. However, it should not be treated as vatic disorder as basically it is caused by vitiation of kapha and ama formation leading to obstruction of vata .",
+            "html": "<p><i>Urustambha</i> resembles <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a>  disorder because of clinical picture of painful weakness of pelvic girdle and lower extremities muscles. However, it should not be treated as <i>vatic</i> disorder as basically it is caused by vitiation of <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a> and <i>ama</i> formation leading to obstruction of <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a>.\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "It is caused by poor lifestyle and diet with excess fat and inadequate digestion leading to ama and vitiation of three dosha of which kapha is predominant. Ama , vitiated three dosha and deranged meda dhatu (fat) get deposited in the muscles of lower extremities and strangulate them.",
+            "html": "<p>It is caused by poor lifestyle and diet with excess fat and inadequate digestion leading to <i>ama</i> and vitiation of three <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> of which <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a> is predominant. <i>Ama</i>, vitiated three <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> and deranged <a href=\"/index.php?title=Meda_dhatu\" title=\"Meda dhatu\">meda dhatu</a> (fat) get deposited in the muscles of lower extremities and strangulate them.\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Since it is tridoshic disorder with increased ama, Panchakarma is contraindicated.",
+            "html": "<p>Since it is <i>tridoshic</i> disorder with increased ama, <a href=\"/index.php?title=Panchakarma\" title=\"Panchakarma\">Panchakarma</a> is contraindicated.  \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Specific treatment is internal and external rukshana (consumption therapies) consisting of:",
+            "html": "<p>Specific treatment is internal and external <a href=\"/index.php?title=Rukshana\" title=\"Rukshana\">rukshana</a> (consumption therapies) consisting of:\n</p>"
+        },
+        {
+            "type": "ul",
+            "text": "Consumption of the amadosha , Releasing the medas which is strangulating/ deposited / adhered with the muscles First pacify only kapha by consumption Swimming against the flow of water. Pachana , digestion regularization for the pitta dosha . Aggressive physiotherapy. All the myopathies should be treated as per line of treatment mentioned in urustambha . Differential diagnosis between urustambha, mamsa-medogata vata (disorder due to vitiated vata located in mamsa dhatu and meda dhatu ), pittavrita vyana ( vyana covered by vitiated pitta ) and kapha avrita vyana ( vyana covered by vitiated kapha ) is necessary. These sets of disorders refer to genetic and acquired muscular disorders (inflammatory and degenerative disorders).",
+            "html": "<ul><li>Consumption of the <i>amadosha</i>,</li>\n<li>Releasing the <i>medas</i> which is strangulating/ deposited / adhered with the muscles</li>\n<li>First pacify only <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a> by consumption</li>\n<li>Swimming against the flow of water.</li>\n<li><a href=\"/index.php?title=Pachana\" title=\"Pachana\">Pachana</a>, digestion regularization for the <a href=\"/index.php?title=Pitta\" title=\"Pitta\">pitta</a> <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a>.</li>\n<li>Aggressive physiotherapy.</li>\n<li>All the myopathies should be treated as per line of treatment mentioned in <i>urustambha</i>.</li>\n<li>Differential diagnosis between urustambha, mamsa-medogata <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a> (disorder due to vitiated <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a> located in <a href=\"/index.php?title=Mamsa_dhatu\" title=\"Mamsa dhatu\">mamsa dhatu</a> and <a href=\"/index.php?title=Meda_dhatu\" title=\"Meda dhatu\">meda dhatu</a>), <a href=\"/index.php?title=Pitta\" title=\"Pitta\">pittavrita</a> vyana (<i>vyana</i> covered by vitiated <a href=\"/index.php?title=Pitta\" title=\"Pitta\">pitta</a>) and <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a> avrita vyana (<a class=\"new\" href=\"/index.php?title=Vyana&amp;action=edit&amp;redlink=1\" title=\"Vyana (page does not exist)\">vyana</a> covered by vitiated <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a>) is necessary. These sets of disorders refer to genetic and acquired muscular disorders (inflammatory and degenerative disorders).</li></ul>",
+            "items": [
+                "Consumption of the amadosha ,",
+                "Releasing the medas which is strangulating/ deposited / adhered with the muscles",
+                "First pacify only kapha by consumption",
+                "Swimming against the flow of water.",
+                "Pachana , digestion regularization for the pitta dosha .",
+                "Aggressive physiotherapy.",
+                "All the myopathies should be treated as per line of treatment mentioned in urustambha .",
+                "Differential diagnosis between urustambha, mamsa-medogata vata (disorder due to vitiated vata located in mamsa dhatu and meda dhatu ), pittavrita vyana ( vyana covered by vitiated pitta ) and kapha avrita vyana ( vyana covered by vitiated kapha ) is necessary. These sets of disorders refer to genetic and acquired muscular disorders (inflammatory and degenerative disorders)."
+            ]
+        },
+        {
+            "type": "h3",
+            "text": "Etiological factors",
+            "html": "<h3><span class=\"mw-headline\" id=\"Etiological_factors\">Etiological factors</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Tri dosha prakopa nidana mentioned by Vagbhata comprises of sankirna, ajirna, vishama, viruddha, adhyashana, vyapanna-madya, putishushkakrishaamisha etc. [ 1 ] . Consuming foods having different guna altogether ( sankirna ), practice of food and regimen which are antagonistic to the body’s state and stage ( viruddha ), consuming food before the previous one gets digested ( adhyashana ) and repeated development of indigestion ( ajirna ) explained in the aetiology are direct causes for tri dosha prakopa. Regular habituation of viruddha, adhyashana and ajirna causes accumulation of toxic metabolites in rasa dhatu . These toxic metabolites avert proper utilization of rasa dhatu and elicit tri dosha prakopa, which carry untransformed rasa dhatu to amashaya . This rasa dhatu , which is having attributes of kapha is taken to amashaya to get metabolized (digested) by kaphagni present there. Thus ama rasa dhatu is a condition of koshtha . If amarasadhatu fails to get digested, it interacts and combines with elicited tri dosha to become one which is designated as saama(tri) dosha . Thus tri dosha prakopa occurs indirectly also by the toxic metabolites developing due to incompatible practices. As fat predominant circumstance paves for the initiation of pathogenesis of this disease, kapha gains more strength than the other two dosha . Kapha or saama kapha subdues pitta . [ 2 ] In medodushtija conditions all the channels will be obstructed by medas . [ 3 ] . If the subject happens to indulge in overexertion, jerks, day-time sleep or awakening in night, the pathogenic factor (saama- kapha - vata ) along with medas from koshdha ( rasa dhatu ) moves to lower limbs and affects sakthi (lower limbs). Causes for the movement of dosha from koshdha to other rogamargas include overexertion, uncontrolled digestive or metabolic activity, unwholesome practice or vyana hyperactivity. Aavarana (obstruction of the movement of vata ) pathogenesis also takes place at the siras supplying lowerlimbs. Prakupita dosha ( dosha which gets aggravated by extrinsic causes and are not innately present in the body) is regarded as vata and innate intrinsic dosha is regarded as vayu (prana-udana-vyana-samana-apana) in Classics. Though both vata and vayu can get avarana, here medasaavrita vata (obstruction to vata which got aggravated by extrinsic causes by vitiated medas) takes place. Hence urusthambha has a synonym aadhyavata [ 4 ] , which actually is a synonym of medasaavrita-vata (aadhyavata iti jneyassa kricchro medasaavrite – Madhav Nidan). The movement of vata as well as the active movement of lower limbs (performed by vyana vayu) will be obstructed by the medas and also made motionlessness (mudha- vata ) by saamata. Hence the disease got the name by the samsthaana (sign), immobility of uru (urusthambha) caused by medas and ama.",
+            "html": "<p>Tri<a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> prakopa nidana mentioned by Vagbhata comprises of <i>sankirna, ajirna, vishama, viruddha, adhyashana, vyapanna-madya, putishushkakrishaamisha</i> etc. <sup class=\"reference\" id=\"cite_ref-1\"><a href=\"#cite_note-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup>. Consuming foods having different <a href=\"/index.php?title=Guna\" title=\"Guna\">guna</a> altogether (<i>sankirna</i>), practice of food and regimen which are antagonistic to the body’s state and stage (<i>viruddha</i>), consuming food before the previous one gets digested (<i>adhyashana</i>) and repeated development of indigestion (<i>ajirna</i>) explained in the aetiology are direct causes for tri<a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> prakopa. Regular habituation of <i>viruddha, adhyashana</i> and <i>ajirna</i> causes accumulation of toxic metabolites in <a href=\"/index.php?title=Rasa_dhatu\" title=\"Rasa dhatu\">rasa dhatu</a>. These toxic metabolites avert proper utilization of <a href=\"/index.php?title=Rasa_dhatu\" title=\"Rasa dhatu\">rasa dhatu</a> and elicit tri<a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> prakopa, which carry untransformed <a href=\"/index.php?title=Rasa_dhatu\" title=\"Rasa dhatu\">rasa dhatu</a> to <i>amashaya</i>. This <a href=\"/index.php?title=Rasa_dhatu\" title=\"Rasa dhatu\">rasa dhatu</a>, which is having attributes of <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a> is taken to <i>amashaya</i> to get metabolized (digested) by <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kaphagni</a> present there. Thus ama <a href=\"/index.php?title=Rasa_dhatu\" title=\"Rasa dhatu\">rasa dhatu</a> is a condition of <i>koshtha</i>. If <i>amarasadhatu</i> fails to get digested, it interacts and combines with elicited tri<a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> to become one which is designated as saama(tri)<a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a>. Thus tri<a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> prakopa occurs indirectly also by the toxic metabolites developing due to incompatible practices. As fat predominant circumstance paves for the initiation of pathogenesis of this disease, <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a> gains more strength than the other two <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a>. <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">Kapha</a> or saama<a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a> subdues <a href=\"/index.php?title=Pitta\" title=\"Pitta\">pitta</a>.<sup class=\"reference\" id=\"cite_ref-2\"><a href=\"#cite_note-2\"><span class=\"cite-bracket\">[</span>2<span class=\"cite-bracket\">]</span></a></sup> In medodushtija conditions all the channels will be obstructed by medas . <sup class=\"reference\" id=\"cite_ref-3\"><a href=\"#cite_note-3\"><span class=\"cite-bracket\">[</span>3<span class=\"cite-bracket\">]</span></a></sup>. If the subject happens to indulge in overexertion, jerks, day-time sleep or awakening in night, the pathogenic factor (saama-<a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a>-<a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a>) along with medas from koshdha (<a href=\"/index.php?title=Rasa_dhatu\" title=\"Rasa dhatu\">rasa dhatu</a>) moves to lower limbs and affects sakthi (lower limbs). Causes for the movement of <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> from koshdha to other rogamargas include overexertion, uncontrolled digestive or metabolic activity, unwholesome practice or vyana hyperactivity. Aavarana (obstruction of the movement of <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a>) pathogenesis also takes place at the siras supplying lowerlimbs. Prakupita <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> (<a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> which gets aggravated by extrinsic causes and are not innately present in the body) is regarded as <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a> and innate intrinsic <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> is regarded as <a class=\"mw-redirect\" href=\"/index.php?title=Vayu\" title=\"Vayu\">vayu</a> (prana-udana-vyana-samana-apana) in Classics. Though both <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a> and vayu can get avarana, here medasaavrita <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata </a>(obstruction to <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a> which got aggravated by extrinsic causes by vitiated medas) takes place. Hence urusthambha has a synonym aadhyavata<sup class=\"reference\" id=\"cite_ref-4\"><a href=\"#cite_note-4\"><span class=\"cite-bracket\">[</span>4<span class=\"cite-bracket\">]</span></a></sup>, which actually is a synonym of medasaavrita-vata (aadhyavata iti jneyassa kricchro medasaavrite – Madhav Nidan). The movement of <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a> as well as the active movement of lower limbs (performed by vyana vayu) will be obstructed by the medas and also made motionlessness (mudha-<a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a>) by saamata. Hence the disease got the name by the samsthaana (sign), immobility of uru (urusthambha) caused by medas and ama.\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Table 1: Pathological factors involved in urustambha",
+            "html": "<p><b>Table 1: Pathological factors involved in urustambha</b>\n</p>"
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "Vitiated dosha",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "th",
+                        "text": "Dushya Dhatu",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "th",
+                        "text": "Srotas",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "th",
+                        "text": "Prakriti (Sthanik dosha )",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "th",
+                        "text": "Desha (Rogamarga)",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "th",
+                        "text": "Kaala (stage of the disease)",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Vitiated Kapha (Gourava,Sthairya, Shaitya, Snigdha) - Vata (Laaghava & Vaishadya)",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Rasa dhatu (+), Asthi dhatu (+)",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Rasavaha-srotas (+) Majjavaha-srotas (+)",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Avalambaka Kapha (+),Paachaka pitta (-),Samaana (+), Vyaana (+)",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Antar-roga maarga (+), Madhyama roga maarga (+)",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Saama kapha (+), Avrita- vata , Acute (+)",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ]
+            ],
+            "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Vitiated <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a></th>\n<th>Dushya <a href=\"/index.php?title=Dhatu\" title=\"Dhatu\">Dhatu</a></th>\n<th>Srotas</th>\n<th><a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">Prakriti</a> (Sthanik <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a>)</th>\n<th>Desha (Rogamarga)</th>\n<th>Kaala  (stage of the disease)\n</th></tr>\n<tr>\n<td>Vitiated <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">Kapha</a> (Gourava,Sthairya, Shaitya, Snigdha) - <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">Vata</a> (Laaghava &amp; Vaishadya)</td>\n<td><a href=\"/index.php?title=Rasa_dhatu\" title=\"Rasa dhatu\">Rasa dhatu</a>(+), <a href=\"/index.php?title=Asthi_dhatu\" title=\"Asthi dhatu\">Asthi dhatu</a>(+)</td>\n<td>Rasavaha-srotas (+) Majjavaha-srotas (+)</td>\n<td>Avalambaka <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">Kapha</a> (+),Paachaka <a href=\"/index.php?title=Pitta\" title=\"Pitta\">pitta</a> (-),Samaana (+), Vyaana (+)</td>\n<td>Antar-roga maarga (+), Madhyama roga maarga (+)</td>\n<td>Saama <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a> (+), Avrita-<a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a>, Acute (+)\n</td></tr>\n</tbody></table>"
+        },
+        {
+            "type": "p",
+            "text": "Note: (+)=Identical with vitiated dosha ,(-)= not identical with vitiated dosha , Samprapti Bala: 11/12 (Pravara)",
+            "html": "<p>Note: (+)=Identical with vitiated <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a>,(-)= not identical with vitiated <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a>,\tSamprapti Bala: 11/12 (Pravara)\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Reason of limitation of panchakarma in management",
+            "html": "<h3><span class=\"mw-headline\" id=\"Reason_of_limitation_of_panchakarma_in_management\">Reason of limitation of panchakarma in management</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "The reason why panchakarma therapies are ineffective in urusthambha is due to four reasons. The tri dosha which is getting vitiated due to visharupa ama (toxic metabolites in rasa dhatu ) become saama dosha on interaction with ama rasa dhatu . This saamadosha will be directed to lower limbs by fat. So the two reasons being the adherence (paicchilyam) produced by ama and obstruction by medas. Due to these causes, the dosha are unable to move out of uru. The third reason is asthi is site of vata which is inherently shita (cold leading to stiffness) predominant. Kapha has cold properties leading to obstruction and stiffness. The fourth reason is mudha-vatata ( vata in asthi dhatu is devoid of movement) due to ama and avarana and hence movement of kapha outwards is not facilitated. Moreover kapha is immobile.",
+            "html": "<p>The reason why <a href=\"/index.php?title=Panchakarma\" title=\"Panchakarma\">panchakarma</a> therapies are ineffective in urusthambha is due to four reasons. The tri<a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> which is getting vitiated due to visharupa ama (toxic metabolites in <a href=\"/index.php?title=Rasa_dhatu\" title=\"Rasa dhatu\">rasa dhatu</a>) become saama<a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> on interaction with ama <a href=\"/index.php?title=Rasa_dhatu\" title=\"Rasa dhatu\">rasa dhatu</a>. This saamadosha will be directed to lower limbs by fat. So the two reasons being the adherence (paicchilyam) produced by ama and obstruction by medas. Due to these causes, the <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> are unable to move out of uru. The third reason is <a href=\"/index.php?title=Asthi\" title=\"Asthi\">asthi</a> is site of <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a> which is inherently shita (cold leading to stiffness) predominant. <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">Kapha</a> has cold properties leading to obstruction and stiffness. The fourth reason is mudha-vatata (<a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a> in <a href=\"/index.php?title=Asthi_dhatu\" title=\"Asthi dhatu\">asthi dhatu</a> is devoid of movement) due to ama and avarana and hence movement of <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a> outwards is not facilitated. Moreover <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a> is immobile. \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Panchakarma therapy is prescribed only when dosha are in a state of getting expelled out from nearest external orifices. In urusthambha due to adhering nature of dosha , obstruction by fat, decreased metabolic activity in asthi dhatu and also due to immobile kapha - vata , srotashodhana (clearing channels), abhishyandana (flowing nature of doshas) or paaka (proper metabolic activity) do not take place. This shows the inadequacy to facilitate mobility and koshtha gati (movement of dosha towards GIT) of dosha . Hence panchakarma therapy is not advisable in this circumstance.",
+            "html": "<p><a href=\"/index.php?title=Panchakarma\" title=\"Panchakarma\">Panchakarma</a> therapy is prescribed only when <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> are in a state of getting expelled out from nearest external orifices. In urusthambha due to adhering nature of <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a>, obstruction by fat, decreased metabolic activity in <a href=\"/index.php?title=Asthi_dhatu\" title=\"Asthi dhatu\">asthi dhatu</a> and also due to immobile <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a>-<a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a>, srotashodhana (clearing channels), abhishyandana (flowing nature of doshas) or paaka (proper metabolic activity) do not take place. This shows the inadequacy to facilitate mobility and koshtha gati (movement of dosha towards GIT) of <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a>. Hence panchakarma therapy is not advisable in this circumstance.\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Importance of rukshana",
+            "html": "<h3><span class=\"mw-headline\" id=\"Importance_of_rukshana\">Importance of rukshana</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "The biological functions performed by ruksha guna are those opposite to sneha guna. Snehaguna imparts softness, unctuousness, increases strength and improves the complexion. Ruksha removes kleda (water elementary principle) from cells or tissues and causes hardening and eventually roughening takes place. Fat predominance in structures makes them soft while protein in excess makes them hard. Sneha-kleda vriddhi in excess in tissues makes them flaccid and soft. As the sneha-kleda vriddhi cannot be expelled from asthi dhatu and brought to koshdha, the treatment principle which is to be applied is either increasing the mobility of kleda and make it move outwards or drying up of kleda by absorption. Rukshana is performed not only by ruksha guna, but also by many gunas which directly or indirectly augment the absorption of kleda. Kashaya-katu-tikta tastes are successively more powerful rukshana rasas.\nVyadhiviparita treatment encompasses reinstalling the functions of samana vayu , vyana vayu and avalambaka kapha . Hetuviparita treatment is Saama dosha management and kaphaavrita vata treatment.",
+            "html": "<p>The biological functions performed by ruksha guna are those opposite to sneha guna. Snehaguna imparts softness, unctuousness, increases strength and improves the complexion. Ruksha removes kleda (water elementary principle) from cells or tissues and causes hardening and eventually roughening takes place. Fat predominance in structures makes them soft while protein in excess makes them hard. Sneha-kleda vriddhi in excess in tissues makes them flaccid and soft. As the sneha-kleda vriddhi cannot be expelled from <a href=\"/index.php?title=Asthi_dhatu\" title=\"Asthi dhatu\">asthi dhatu</a> and brought to koshdha, the treatment principle which is to be applied is either increasing the mobility of kleda and make it move outwards or drying up of kleda by absorption. <a href=\"/index.php?title=Rukshana\" title=\"Rukshana\">Rukshana</a> is performed not only by ruksha guna, but also by many gunas which directly or indirectly augment the absorption of kleda. Kashaya-katu-tikta tastes are successively more powerful rukshana rasas.\nVyadhiviparita treatment encompasses reinstalling the functions of samana <a class=\"mw-redirect\" href=\"/index.php?title=Vayu\" title=\"Vayu\">vayu</a>, vyana <a class=\"mw-redirect\" href=\"/index.php?title=Vayu\" title=\"Vayu\">vayu</a> and avalambaka <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a>. Hetuviparita treatment is Saama<a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> management and <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kaphaavrita</a> <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a> treatment.\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Beneficial diet",
+            "html": "<h3><span class=\"mw-headline\" id=\"Beneficial_diet\">Beneficial diet</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Congenial (pathya or roga-saatmya) food should be changed to shyaamaaka, kodrava, uddaala and shaali which are puraana (stored for a long period like one year or more). Shaali though is madhura, puraana will subside kapha and medas. Yusha of shushka moolaka or patola, Jaangala maamsa and other vegetables without ghee and salt [ 5 ]",
+            "html": "<p>Congenial (pathya or roga-saatmya) food should be changed to shyaamaaka, kodrava, uddaala and shaali which are puraana (stored for a long period like one year or more). Shaali though is madhura, puraana will subside <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a> and medas. Yusha of shushka moolaka or patola, Jaangala maamsa and other vegetables without ghee and salt <sup class=\"reference\" id=\"cite_ref-5\"><a href=\"#cite_note-5\"><span class=\"cite-bracket\">[</span>5<span class=\"cite-bracket\">]</span></a></sup>\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Medicines",
+            "html": "<h3><span class=\"mw-headline\" id=\"Medicines\">Medicines</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "The best drug of choice is guggulu [ 6 ] . With its (guggulu’s) prabhaava (special attribute), it does rukshana (vaishadyakara) as well as vata-anulomana (ushna-virya) simultaneously.\nThe best formulation of choice is shaddharana churna which metabolises saama kapha and also medas along with vata -anulomana. Other chief drugs that could be used according to the status are triphala, trikatu, shilajit, karanjaphala, sarshapa etc. Choice of medicine is to be done according to the state and stage of the disease and diseased.\nNourishment in vitiation of vata :If Urusthambha develops in emaciated (Apatarpanotha), santarpana of rasa dhatu has to be done with jaangala maamsa, puraana shaali etc. All the foresaid measures could be done in niraama stage only. The food, regimen and medicine should always be kapha - vatahara .\nThe treatment should be always kaphahara ( rukshana ) along with vatahara (anulomana for laghu, vishada guna ). Laaghava (decline of anulomana, effortless execution of activities) Aatma-rupa of vata causes symptoms in vyakti stage. Roukshya (degenerative changes) Aatma-rupa of vata causes symptoms of insomnia and pain (alarm to prevent necrosis) as upadrava due to careless application of rukshana .",
+            "html": "<p>The best drug of choice is guggulu <sup class=\"reference\" id=\"cite_ref-6\"><a href=\"#cite_note-6\"><span class=\"cite-bracket\">[</span>6<span class=\"cite-bracket\">]</span></a></sup>. With its (guggulu’s) prabhaava (special attribute), it does rukshana (vaishadyakara) as well as vata-anulomana (ushna-virya) simultaneously. \nThe best formulation of choice is shaddharana churna which metabolises saama <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a> and also medas along with <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a>-anulomana. Other chief drugs that could be used according to the status are triphala, trikatu, shilajit, karanjaphala, sarshapa etc. Choice of medicine is to be done according to the state and stage of the disease and diseased.\nNourishment in vitiation of <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a>:If Urusthambha develops in emaciated (Apatarpanotha), santarpana of <a href=\"/index.php?title=Rasa_dhatu\" title=\"Rasa dhatu\">rasa dhatu</a> has to be done with jaangala maamsa, puraana shaali etc. All the foresaid measures could be done in niraama stage only. The food, regimen and medicine should always be <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a>-<a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vatahara</a>. \nThe treatment should be always <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kaphahara</a> (<a href=\"/index.php?title=Rukshana\" title=\"Rukshana\">rukshana</a>) along with <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vatahara</a> (anulomana for laghu, vishada <a href=\"/index.php?title=Guna\" title=\"Guna\">guna</a>). <a class=\"new\" href=\"/index.php?title=Laaghava&amp;action=edit&amp;redlink=1\" title=\"Laaghava (page does not exist)\">Laaghava</a> (decline of anulomana, effortless execution of activities) Aatma-rupa of <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a> causes symptoms in vyakti stage. Roukshya (degenerative changes) Aatma-rupa of <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a> causes symptoms of insomnia and pain (alarm to prevent necrosis) as upadrava due to careless application of <a href=\"/index.php?title=Rukshana\" title=\"Rukshana\">rukshana</a>.\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Medicated oils",
+            "html": "<h3><span class=\"mw-headline\" id=\"Medicated_oils\">Medicated oils</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Medicated oils are to be applied only in niraama- dosha as well as kapha and medas have decreased (aavarana lakshanas disappear) considerably. Medicated oils can alleviate roukshya, vaishadya and laghava without affecting or along with the decline of kapha and meda dhatu .",
+            "html": "<p>Medicated oils are to be applied only in niraama-<a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> as well as <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a> and medas have decreased (aavarana lakshanas disappear) considerably. Medicated oils can alleviate roukshya, vaishadya and laghava without affecting or along with the decline of <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a> and <a href=\"/index.php?title=Meda_dhatu\" title=\"Meda dhatu\">meda dhatu</a>.\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Management of ama dosha",
+            "html": "<h3><span class=\"mw-headline\" id=\"Management_of_ama_dosha\">Management of ama <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a></span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "All these therapeutics are to be administered after metabolizing saama dosha . As ama is of toxic nature, treatment principle of ama- vata ( Langhanam swedanam tikto deepanaani katuni ca) has to be applied initially. Then rukshana treatment principle without aggravating vata is explained. The foresaid food, recipes (medicine) and regimen help to achieve rukshana . Katu, tikta and kashaya rasaas are antagonistic to kapha , but aggravates vata . Dravyas which differ from the above principle are shunthi, pippali, rasona (katu dravyaas), guduchi, patola (tikta dravyas) and haritaki (kashaya dravya) will not aggravate vata. The patient should be made to walk on irregular surface will cause strain to lower limbs which is a treatment principle of kapha [ 7 ] . Swimming in cool water would increase the internal temperature which counters the shita guna of kapha which is strongly embedded in shita asthi-dhatu . This would favour kapha kshapana from asthi and its mitigation.",
+            "html": "<p>All these therapeutics are to be administered after metabolizing saama <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a>. As ama is of toxic nature, treatment principle of ama-<a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a> (<a href=\"/index.php?title=Langhana\" title=\"Langhana\">Langhanam</a> <a href=\"/index.php?title=Swedana\" title=\"Swedana\">swedanam</a> tikto <a href=\"/index.php?title=Deepana\" title=\"Deepana\">deepanaani</a> katuni ca) has to be applied initially. Then <a href=\"/index.php?title=Rukshana\" title=\"Rukshana\">rukshana</a> treatment principle without aggravating <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a> is explained. The foresaid food, recipes (medicine) and regimen help to achieve <a href=\"/index.php?title=Rukshana\" title=\"Rukshana\">rukshana</a>. Katu, tikta and kashaya rasaas are antagonistic to <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a>, but aggravates <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a>. Dravyas which differ from the above principle are shunthi, pippali, rasona (katu dravyaas), guduchi, patola (tikta dravyas) and haritaki (kashaya dravya) will not aggravate vata. The patient should be made to walk on irregular surface will cause strain to lower limbs which is a treatment principle of <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a><sup class=\"reference\" id=\"cite_ref-7\"><a href=\"#cite_note-7\"><span class=\"cite-bracket\">[</span>7<span class=\"cite-bracket\">]</span></a></sup>. Swimming in cool water would increase the internal temperature which counters the shita guna of <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a> which is strongly embedded in shita <a class=\"new\" href=\"/index.php?title=Asthi-dhatu&amp;action=edit&amp;redlink=1\" title=\"Asthi-dhatu (page does not exist)\">asthi-dhatu</a>. This would favour <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a> kshapana from <a href=\"/index.php?title=Asthi\" title=\"Asthi\">asthi</a> and its mitigation.\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Current clinical practices",
+            "html": "<h3><span class=\"mw-headline\" id=\"Current_clinical_practices\">Current clinical practices</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "h4",
+            "text": "Principles of management",
+            "html": "<h4><span class=\"mw-headline\" id=\"Principles_of_management_2\">Principles of management</span></h4>",
+            "level": 4
+        },
+        {
+            "type": "ol",
+            "text": "Kshapana of kapha and meda dhatu ( reduction of kapha and meda dhatu ) Rukshana and shoshana (drying and absorbing excess fat and lipids) External application 4. Exercise in the form of swimming against the flow",
+            "html": "<ol><li>Kshapana of <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a> and <a href=\"/index.php?title=Meda_dhatu\" title=\"Meda dhatu\">meda dhatu</a> ( reduction of <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a> and <a href=\"/index.php?title=Meda_dhatu\" title=\"Meda dhatu\">meda dhatu</a>)</li>\n<li><a href=\"/index.php?title=Rukshana\" title=\"Rukshana\">Rukshana</a> and shoshana (drying and absorbing excess fat and lipids)</li>\n<li>External application 4. Exercise in the form of swimming against the flow</li></ol>",
+            "items": [
+                "Kshapana of kapha and meda dhatu ( reduction of kapha and meda dhatu )",
+                "Rukshana and shoshana (drying and absorbing excess fat and lipids)",
+                "External application 4. Exercise in the form of swimming against the flow"
+            ]
+        },
+        {
+            "type": "h4",
+            "text": "Important medicines",
+            "html": "<h4><span class=\"mw-headline\" id=\"Important_medicines\">Important medicines</span></h4>",
+            "level": 4
+        },
+        {
+            "type": "p",
+            "text": "1. Bhallataka 2. Guggulu",
+            "html": "<p>1. Bhallataka 2. Guggulu \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Table 2: Medicines used to treat Urustambha",
+            "html": "<p><b>Table 2: Medicines used to treat Urustambha</b>\n</p>"
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "Name",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "th",
+                        "text": "Dose",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "th",
+                        "text": "Time",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "th",
+                        "text": "Anupana (vehicle)",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Bhallatakadi decoction",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "20 to 40 ml",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Early morning and before sleep two times",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "--",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Triphala guggulu",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "250 -500 mg",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Early morning and before sleep two times",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Bhallatakadi decoction",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Chandraprabha",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "250 -500 mg",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Early morning and before sleep two times",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Vardhamana pippali formulation",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ]
+            ],
+            "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Name</th>\n<th>Dose</th>\n<th>Time</th>\n<th>Anupana (vehicle)\n</th></tr>\n<tr>\n<td>Bhallatakadi decoction</td>\n<td>20 to 40 ml</td>\n<td>Early morning and before sleep two times</td>\n<td>--\n</td></tr>\n<tr>\n<td>Triphala guggulu</td>\n<td>250 -500 mg</td>\n<td>Early morning and before sleep two times</td>\n<td>Bhallatakadi decoction\n</td></tr>\n<tr>\n<td>Chandraprabha</td>\n<td>250 -500 mg</td>\n<td>Early morning and before sleep two times</td>\n<td>Vardhamana pippali formulation\n</td></tr></tbody></table>"
+        },
+        {
+            "type": "p",
+            "text": "Send us your suggestions and feedback on this page.",
+            "html": "<p><big><b><a href=\"/index.php?title=Special:ContactMe\" title=\"Special:ContactMe\">Send us your suggestions and feedback on this page.</a></b></big>\n</p>"
+        },
+        {
+            "type": "h2",
+            "text": "References",
+            "html": "<h2><span class=\"mw-headline\" id=\"References\">References</span></h2>",
+            "level": 2
+        },
+        {
+            "type": "ol",
+            "text": "↑ Vagbhata. Nidana Sthana, Cha.1 Sarvaroga Nidana Adhyaya verse 19,20. In: Harishastri Paradkar Vaidya, Editors. Ashtanga Hridayam. 1st ed. Varanasi: Krishnadas Academy;2000.p.4. ↑ Vagbhata. Nidana Sthana, Cha.15, Vatavyadhi Nidana Adhyaya verse 48. In: Harishastri Paradkar Vaidya, Editors. Ashtanga Hridayam. 1st ed. Varanasi: Krishnadas Academy;2000.p.4. ↑ Sushruta. Sutra Sthana, Cha.15 Doshadhatumalakshayavruddhivijnaneeyam Adhyaya verse 32. In: Jadavaji Trikamji Aacharya, Editors. Sushruta Samhita. 8th ed. Varanasi: Chaukhambha Orientalia;2005. p.1. ↑ Vagbhata.Nidana Sthana, Cha.15 Vatavyadhi Nidanam In: Harishastri Paradkar Vaidya, Editors. Ashtanga Hridayam. 1st ed. Varanasi: Krishnadas Academy;2000.p.4. ↑ Sushruta. Chikitsa Sthana, Cha.5 Mahavatavyadhi Chikitsitam verse 38. In: Jadavaji Trikamji Aacharya, Editors. Sushruta Samhita. 8th ed. Varanasi: Chaukhambha Orientalia;2005. p.1. ↑ Sushruta. Chikitsa Sthana, Cha.5 Mhavatavyadhi Chikitsitam Adhyaya verse 40-45. In: Jadavaji Trikamji Aacharya, Editors. Sushruta Samhita. 8th ed. Varanasi: Chaukhambha Orientalia;2005. p.1. ↑ Vagbhata. Sutra Sthana, Cha.13 Doshopakramaneeya Adhyaya verse 12. In: Harishastri Paradkar Vaidya, Editors. Ashtanga Hridayam. 1st ed. Varanasi: Krishnadas Academy;2000.p.4.",
+            "html": "<ol class=\"references\">\n<li id=\"cite_note-1\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-1\">↑</a></span> <span class=\"reference-text\">Vagbhata. Nidana Sthana, Cha.1 Sarvaroga Nidana  Adhyaya verse 19,20. In: Harishastri Paradkar Vaidya, Editors. Ashtanga Hridayam. 1st ed. Varanasi: Krishnadas Academy;2000.p.4.</span>\n</li>\n<li id=\"cite_note-2\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-2\">↑</a></span> <span class=\"reference-text\">Vagbhata. Nidana Sthana, Cha.15, Vatavyadhi Nidana Adhyaya verse 48. In: Harishastri Paradkar Vaidya, Editors. Ashtanga Hridayam. 1st ed. Varanasi: Krishnadas Academy;2000.p.4.</span>\n</li>\n<li id=\"cite_note-3\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-3\">↑</a></span> <span class=\"reference-text\">Sushruta. Sutra Sthana, Cha.15 Doshadhatumalakshayavruddhivijnaneeyam  Adhyaya verse 32. In: Jadavaji Trikamji Aacharya, Editors. Sushruta Samhita. 8th ed. Varanasi: Chaukhambha Orientalia;2005. p.1.</span>\n</li>\n<li id=\"cite_note-4\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-4\">↑</a></span> <span class=\"reference-text\">Vagbhata.Nidana Sthana, Cha.15 Vatavyadhi Nidanam  In: Harishastri Paradkar Vaidya, Editors. Ashtanga Hridayam. 1st ed. Varanasi: Krishnadas Academy;2000.p.4.</span>\n</li>\n<li id=\"cite_note-5\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-5\">↑</a></span> <span class=\"reference-text\"> Sushruta. Chikitsa Sthana, Cha.5 Mahavatavyadhi Chikitsitam verse 38. In: Jadavaji Trikamji Aacharya, Editors. Sushruta Samhita. 8th ed. Varanasi: Chaukhambha Orientalia;2005. p.1. </span>\n</li>\n<li id=\"cite_note-6\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-6\">↑</a></span> <span class=\"reference-text\">Sushruta. Chikitsa Sthana, Cha.5 Mhavatavyadhi Chikitsitam Adhyaya verse 40-45. In: Jadavaji Trikamji Aacharya, Editors. Sushruta Samhita. 8th ed. Varanasi: Chaukhambha Orientalia;2005. p.1.</span>\n</li>\n<li id=\"cite_note-7\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-7\">↑</a></span> <span class=\"reference-text\">Vagbhata. Sutra Sthana, Cha.13 Doshopakramaneeya Adhyaya verse 12. In: Harishastri Paradkar Vaidya, Editors. Ashtanga Hridayam. 1st ed. Varanasi: Krishnadas Academy;2000.p.4. </span>\n</li>\n</ol>",
+            "items": [
+                "↑ Vagbhata. Nidana Sthana, Cha.1 Sarvaroga Nidana Adhyaya verse 19,20. In: Harishastri Paradkar Vaidya, Editors. Ashtanga Hridayam. 1st ed. Varanasi: Krishnadas Academy;2000.p.4.",
+                "↑ Vagbhata. Nidana Sthana, Cha.15, Vatavyadhi Nidana Adhyaya verse 48. In: Harishastri Paradkar Vaidya, Editors. Ashtanga Hridayam. 1st ed. Varanasi: Krishnadas Academy;2000.p.4.",
+                "↑ Sushruta. Sutra Sthana, Cha.15 Doshadhatumalakshayavruddhivijnaneeyam Adhyaya verse 32. In: Jadavaji Trikamji Aacharya, Editors. Sushruta Samhita. 8th ed. Varanasi: Chaukhambha Orientalia;2005. p.1.",
+                "↑ Vagbhata.Nidana Sthana, Cha.15 Vatavyadhi Nidanam In: Harishastri Paradkar Vaidya, Editors. Ashtanga Hridayam. 1st ed. Varanasi: Krishnadas Academy;2000.p.4.",
+                "↑ Sushruta. Chikitsa Sthana, Cha.5 Mahavatavyadhi Chikitsitam verse 38. In: Jadavaji Trikamji Aacharya, Editors. Sushruta Samhita. 8th ed. Varanasi: Chaukhambha Orientalia;2005. p.1.",
+                "↑ Sushruta. Chikitsa Sthana, Cha.5 Mhavatavyadhi Chikitsitam Adhyaya verse 40-45. In: Jadavaji Trikamji Aacharya, Editors. Sushruta Samhita. 8th ed. Varanasi: Chaukhambha Orientalia;2005. p.1.",
+                "↑ Vagbhata. Sutra Sthana, Cha.13 Doshopakramaneeya Adhyaya verse 12. In: Harishastri Paradkar Vaidya, Editors. Ashtanga Hridayam. 1st ed. Varanasi: Krishnadas Academy;2000.p.4."
+            ]
+        }
+    ],
+    "html_sha256": "63044c1d83b06f700b73b19f3f22a3ff5e8cf98472d9ffbf9aa8fbc97d919d67"
+}

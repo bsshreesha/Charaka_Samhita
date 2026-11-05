@@ -1,0 +1,2815 @@
+{
+    "source": "Charaka Samhita",
+    "chapter": "Mahachatushpada Adhyaya",
+    "chapter_id": "Mahachatushpada_Adhyaya",
+    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya",
+    "xpath": "//*[@id=\"content\"]",
+    "extraction_date": "2026-11-03T10:50:01",
+    "total_blocks": 125,
+    "total_tables": 2,
+    "total_headings": 24,
+    "total_paragraphs": 80,
+    "content": [
+        {
+            "type": "h1",
+            "text": "Mahachatushpada Adhyaya",
+            "html": "<h1 class=\"firstHeading mw-first-heading\" id=\"firstHeading\"><span class=\"mw-page-title-main\">Mahachatushpada Adhyaya</span></h1>",
+            "links": [],
+            "images": [],
+            "level": 1
+        },
+        {
+            "type": "text",
+            "text": "From Charak Samhita"
+        },
+        {
+            "type": "text",
+            "text": "Jump to navigation"
+        },
+        {
+            "type": "text",
+            "text": "Jump to search"
+        },
+        {
+            "type": "figure",
+            "text": "",
+            "html": "<figure class=\"mw-default-size mw-halign-right\" typeof=\"mw:File\"><a href=\"https://www.carakasamhitaonline.com/index.php?title=Special:CiteThisPage&amp;page=Mahachatushpada_Adhyaya&amp;id=44920&amp;wpFormIdentifier=titleform\" rel=\"nofollow\"><img class=\"mw-file-element\" decoding=\"async\" height=\"47\" src=\"/images/5/58/Cite.png\" width=\"180\"/></a><figcaption></figcaption></figure>",
+            "links": [
+                {
+                    "text": "",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Special:CiteThisPage&page=Mahachatushpada_Adhyaya&id=44920&wpFormIdentifier=titleform"
+                }
+            ],
+            "images": [
+                {
+                    "url": "https://www.carakasamhitaonline.com/images/5/58/Cite.png",
+                    "alt": "",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Sutra Sthana Chapter 10. The four important components of Therapeutics",
+            "html": "<p><big><b>Sutra Sthana Chapter 10. The four important components of Therapeutics </b></big>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "Section/Chapter",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Sutra Sthana Chapter 10",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Sutra Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Tetrad/Sub-section",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Nirdesha Chatushka",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Preceding Chapter",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Khuddakachatushpada Adhyaya",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Khuddakachatushpada Adhyaya",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Khuddakachatushpada_Adhyaya"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Succeeding Chapter",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Tistraishaniya Adhyaya",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Tistraishaniya Adhyaya",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Tistraishaniya_Adhyaya"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Other Sections",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Nidana Sthana , Vimana Sthana , Sharira Sthana , Indriya Sthana , Chikitsa Sthana , Kalpa Sthana , Siddhi Sthana",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Nidana Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Nidana_Sthana"
+                            },
+                            {
+                                "text": "Vimana Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana"
+                            },
+                            {
+                                "text": "Sharira Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                            },
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            },
+                            {
+                                "text": "Chikitsa Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                            },
+                            {
+                                "text": "Kalpa Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Kalpa_Sthana"
+                            },
+                            {
+                                "text": "Siddhi Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Siddhi_Sthana"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Translator and commentator",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Chandola H.M., Kajaria D.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Reviewer",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Gujarathi R., Godatwar P.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Editor",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Dixit U., Deole Y.S. , Basisht G.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Deole Y.S.",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Yogesh_Deole"
+                            },
+                            {
+                                "text": "Basisht G.",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Gopal_Basisht"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Year of publication",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "2020",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Publisher",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Charak Samhita Research, Training and Skill Development Centre",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Charak Samhita Research, Training and Skill Development Centre",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Skill_Development_Centre"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "DOI",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "10.47468/CSNE.2020.e01.s01.012",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "10.47468/CSNE.2020.e01.s01.012",
+                                "url": "https://doi.org/10.47468/CSNE.2020.e01.s01.012"
+                            }
+                        ]
+                    }
+                ]
+            ],
+            "html": "<table class=\"infobox\" style=\"width:22em\"><caption>Mahachatushpada Adhyaya</caption><tbody><tr><th scope=\"row\">Section/Chapter</th><td>\n<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> Chapter 10</td></tr><tr><th scope=\"row\">Tetrad/Sub-section</th><td>\n<i>Nirdesha Chatushka</i></td></tr><tr><th scope=\"row\">Preceding Chapter</th><td>\n<a href=\"/index.php?title=Khuddakachatushpada_Adhyaya\" title=\"Khuddakachatushpada Adhyaya\">Khuddakachatushpada Adhyaya</a></td></tr><tr><th scope=\"row\">Succeeding Chapter</th><td>\n<a href=\"/index.php?title=Tistraishaniya_Adhyaya\" title=\"Tistraishaniya Adhyaya\">Tistraishaniya Adhyaya</a></td></tr><tr><th scope=\"row\">Other Sections</th><td>\n<a href=\"/index.php?title=Nidana_Sthana\" title=\"Nidana Sthana\">Nidana Sthana</a>, <a href=\"/index.php?title=Vimana_Sthana\" title=\"Vimana Sthana\">Vimana Sthana</a>,  <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a>,  <a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a>, <a href=\"/index.php?title=Chikitsa_Sthana\" title=\"Chikitsa Sthana\">Chikitsa Sthana</a>, <a href=\"/index.php?title=Kalpa_Sthana\" title=\"Kalpa Sthana\">Kalpa Sthana</a>, <a href=\"/index.php?title=Siddhi_Sthana\" title=\"Siddhi Sthana\">Siddhi Sthana</a></td></tr><tr><th scope=\"row\">Translator and commentator</th><td>\nChandola H.M., Kajaria D.</td></tr><tr><th scope=\"row\">Reviewer</th><td>\nGujarathi R., Godatwar P.</td></tr><tr><th scope=\"row\">Editor</th><td>\nDixit U., <a href=\"/index.php?title=Yogesh_Deole\" title=\"Yogesh Deole\">Deole Y.S.</a>, <a href=\"/index.php?title=Gopal_Basisht\" title=\"Gopal Basisht\">Basisht G.</a></td></tr><tr><th scope=\"row\">Year of publication</th><td>\n2020</td></tr><tr><th scope=\"row\">Publisher</th><td>\n<a href=\"/index.php?title=Charak_Samhita_Research,_Training_and_Skill_Development_Centre\" title=\"Charak Samhita Research, Training and Skill Development Centre\">Charak Samhita Research, Training and Skill Development Centre</a></td></tr><tr><th scope=\"row\">DOI</th><td>\n<a class=\"external text\" href=\"https://doi.org/10.47468/CSNE.2020.e01.s01.012\" rel=\"nofollow\">10.47468/CSNE.2020.e01.s01.012</a></td></tr></tbody></table>",
+            "links": [
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "Khuddakachatushpada Adhyaya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Khuddakachatushpada_Adhyaya"
+                },
+                {
+                    "text": "Tistraishaniya Adhyaya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tistraishaniya_Adhyaya"
+                },
+                {
+                    "text": "Nidana Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Nidana_Sthana"
+                },
+                {
+                    "text": "Vimana Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Chikitsa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                },
+                {
+                    "text": "Kalpa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kalpa_Sthana"
+                },
+                {
+                    "text": "Siddhi Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Siddhi_Sthana"
+                },
+                {
+                    "text": "Deole Y.S.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Yogesh_Deole"
+                },
+                {
+                    "text": "Basisht G.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Gopal_Basisht"
+                },
+                {
+                    "text": "Charak Samhita Research, Training and Skill Development Centre",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Skill_Development_Centre"
+                },
+                {
+                    "text": "10.47468/CSNE.2020.e01.s01.012",
+                    "url": "https://doi.org/10.47468/CSNE.2020.e01.s01.012"
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Abstract",
+            "html": "<p><big><b>Abstract</b></big>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "In the preceding chapter, four important aspects of healthcare including the standard qualities of physician, nursing staff, medicine and the patient were described. This chapter deals with guidelines for therapeutic management based on four types of prognosis of diseases. It is important to determine prognosis of a disease before starting the treatment to decide the quality of life of patient, and whether it will be diseased or disease free. Therefore, as the title suggests, the chapter is about four important components of therapeutic management of diseases. Keywords : Prognosis of diseases, types of prognosis, importance of prognosis in therapeutics, curable, incurable, palliable diseases",
+            "html": "<p style=\"text-align:justify;\">In the preceding chapter, four important aspects of healthcare including the standard qualities of physician, nursing staff, medicine and the patient were described. This chapter deals with guidelines for therapeutic management based on four types of prognosis of diseases. It is important to determine prognosis of a disease before starting the treatment to decide the quality of life of patient, and whether it will be diseased or disease free. Therefore, as the title suggests, the chapter is about four important components of therapeutic management of diseases. <br/>\n<b>Keywords</b>:  Prognosis of diseases, types of prognosis, importance of prognosis in therapeutics, curable, incurable, palliable diseases\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Contents",
+            "html": "<h2 id=\"mw-toc-heading\">Contents</h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ul",
+            "text": "1 Introduction 2 Sanskrit text, Transliteration and English Translation 2.1 Four components of therapeutics 2.2 Maitreya’s Observation and Query 2.3 Reply by Atreya 2.4 General Principles of Management 2.5 Knowledge of prognosis 2.5.1 Consequences of treatment after knowing prognosis 2.5.2 Types of Prognosis 2.5.3 Prognostic criteria for easily curable diseases 2.5.4 Prognostic criteria for curable diseases with difficulty 2.5.5 Prognostic criteria for palliable diseases 2.5.6 Prognostic criteria for incurable diseases 2.5.7 Importance of prognosis 2.6 Summary 3 Tattva Vimarsha (Fundamental Principles) 4 Vidhi Vimarsha (Applied Inferences) 4.1 Contemporary approach 4.2 Medical model and healthcare system 4.3 Changes in prognosis with advanced medical care 5 Future scope for research 6 References",
+            "html": "<ul>\n<li class=\"toclevel-1 tocsection-1\"><a href=\"#Introduction\"><span class=\"tocnumber\">1</span> <span class=\"toctext\">Introduction</span></a></li>\n<li class=\"toclevel-1 tocsection-2\"><a href=\"#Sanskrit_text,_Transliteration_and_English_Translation\"><span class=\"tocnumber\">2</span> <span class=\"toctext\">Sanskrit text, Transliteration and English Translation</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-3\"><a href=\"#Four_components_of_therapeutics\"><span class=\"tocnumber\">2.1</span> <span class=\"toctext\">Four components of therapeutics</span></a></li>\n<li class=\"toclevel-2 tocsection-4\"><a href=\"#Maitreya’s_Observation_and_Query\"><span class=\"tocnumber\">2.2</span> <span class=\"toctext\">Maitreya’s Observation and Query</span></a></li>\n<li class=\"toclevel-2 tocsection-5\"><a href=\"#Reply_by_Atreya\"><span class=\"tocnumber\">2.3</span> <span class=\"toctext\">Reply by Atreya</span></a></li>\n<li class=\"toclevel-2 tocsection-6\"><a href=\"#General_Principles_of_Management\"><span class=\"tocnumber\">2.4</span> <span class=\"toctext\">General Principles of Management</span></a></li>\n<li class=\"toclevel-2 tocsection-7\"><a href=\"#Knowledge_of_prognosis\"><span class=\"tocnumber\">2.5</span> <span class=\"toctext\">Knowledge of prognosis</span></a>\n<ul>\n<li class=\"toclevel-3 tocsection-8\"><a href=\"#Consequences_of_treatment_after_knowing_prognosis\"><span class=\"tocnumber\">2.5.1</span> <span class=\"toctext\">Consequences of treatment after knowing prognosis</span></a></li>\n<li class=\"toclevel-3 tocsection-9\"><a href=\"#Types_of_Prognosis\"><span class=\"tocnumber\">2.5.2</span> <span class=\"toctext\">Types of Prognosis</span></a></li>\n<li class=\"toclevel-3 tocsection-10\"><a href=\"#Prognostic_criteria_for_easily_curable_diseases\"><span class=\"tocnumber\">2.5.3</span> <span class=\"toctext\">Prognostic criteria for easily curable diseases</span></a></li>\n<li class=\"toclevel-3 tocsection-11\"><a href=\"#Prognostic_criteria_for_curable_diseases_with_difficulty\"><span class=\"tocnumber\">2.5.4</span> <span class=\"toctext\">Prognostic criteria for curable diseases with difficulty</span></a></li>\n<li class=\"toclevel-3 tocsection-12\"><a href=\"#Prognostic_criteria_for_palliable_diseases\"><span class=\"tocnumber\">2.5.5</span> <span class=\"toctext\">Prognostic criteria for palliable diseases</span></a></li>\n<li class=\"toclevel-3 tocsection-13\"><a href=\"#Prognostic_criteria_for_incurable_diseases\"><span class=\"tocnumber\">2.5.6</span> <span class=\"toctext\">Prognostic criteria for incurable diseases</span></a></li>\n<li class=\"toclevel-3 tocsection-14\"><a href=\"#Importance_of_prognosis\"><span class=\"tocnumber\">2.5.7</span> <span class=\"toctext\">Importance of prognosis</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-2 tocsection-15\"><a href=\"#Summary\"><span class=\"tocnumber\">2.6</span> <span class=\"toctext\">Summary</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-16\"><a href=\"#Tattva_Vimarsha_(Fundamental_Principles)\"><span class=\"tocnumber\">3</span> <span class=\"toctext\">Tattva Vimarsha (Fundamental Principles)</span></a></li>\n<li class=\"toclevel-1 tocsection-17\"><a href=\"#Vidhi_Vimarsha_(Applied_Inferences)\"><span class=\"tocnumber\">4</span> <span class=\"toctext\">Vidhi Vimarsha (Applied Inferences)</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-18\"><a href=\"#Contemporary_approach\"><span class=\"tocnumber\">4.1</span> <span class=\"toctext\">Contemporary approach</span></a></li>\n<li class=\"toclevel-2 tocsection-19\"><a href=\"#Medical_model_and_healthcare_system\"><span class=\"tocnumber\">4.2</span> <span class=\"toctext\">Medical model and healthcare system</span></a></li>\n<li class=\"toclevel-2 tocsection-20\"><a href=\"#Changes_in_prognosis_with_advanced_medical_care\"><span class=\"tocnumber\">4.3</span> <span class=\"toctext\">Changes in prognosis with advanced medical care</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-21\"><a href=\"#Future_scope_for_research\"><span class=\"tocnumber\">5</span> <span class=\"toctext\">Future scope for research</span></a></li>\n<li class=\"toclevel-1 tocsection-22\"><a href=\"#References\"><span class=\"tocnumber\">6</span> <span class=\"toctext\">References</span></a></li>\n</ul>",
+            "links": [
+                {
+                    "text": "1 Introduction",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#Introduction"
+                },
+                {
+                    "text": "2 Sanskrit text, Transliteration and English Translation",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#Sanskrit_text,_Transliteration_and_English_Translation"
+                },
+                {
+                    "text": "2.1 Four components of therapeutics",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#Four_components_of_therapeutics"
+                },
+                {
+                    "text": "2.2 Maitreya’s Observation and Query",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#Maitreya’s_Observation_and_Query"
+                },
+                {
+                    "text": "2.3 Reply by Atreya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#Reply_by_Atreya"
+                },
+                {
+                    "text": "2.4 General Principles of Management",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#General_Principles_of_Management"
+                },
+                {
+                    "text": "2.5 Knowledge of prognosis",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#Knowledge_of_prognosis"
+                },
+                {
+                    "text": "2.5.1 Consequences of treatment after knowing prognosis",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#Consequences_of_treatment_after_knowing_prognosis"
+                },
+                {
+                    "text": "2.5.2 Types of Prognosis",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#Types_of_Prognosis"
+                },
+                {
+                    "text": "2.5.3 Prognostic criteria for easily curable diseases",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#Prognostic_criteria_for_easily_curable_diseases"
+                },
+                {
+                    "text": "2.5.4 Prognostic criteria for curable diseases with difficulty",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#Prognostic_criteria_for_curable_diseases_with_difficulty"
+                },
+                {
+                    "text": "2.5.5 Prognostic criteria for palliable diseases",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#Prognostic_criteria_for_palliable_diseases"
+                },
+                {
+                    "text": "2.5.6 Prognostic criteria for incurable diseases",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#Prognostic_criteria_for_incurable_diseases"
+                },
+                {
+                    "text": "2.5.7 Importance of prognosis",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#Importance_of_prognosis"
+                },
+                {
+                    "text": "2.6 Summary",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#Summary"
+                },
+                {
+                    "text": "3 Tattva Vimarsha (Fundamental Principles)",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#Tattva_Vimarsha_(Fundamental_Principles)"
+                },
+                {
+                    "text": "4 Vidhi Vimarsha (Applied Inferences)",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#Vidhi_Vimarsha_(Applied_Inferences)"
+                },
+                {
+                    "text": "4.1 Contemporary approach",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#Contemporary_approach"
+                },
+                {
+                    "text": "4.2 Medical model and healthcare system",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#Medical_model_and_healthcare_system"
+                },
+                {
+                    "text": "4.3 Changes in prognosis with advanced medical care",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#Changes_in_prognosis_with_advanced_medical_care"
+                },
+                {
+                    "text": "5 Future scope for research",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#Future_scope_for_research"
+                },
+                {
+                    "text": "6 References",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#References"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "1 Introduction",
+                    "links": [
+                        {
+                            "text": "1 Introduction",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#Introduction"
+                        }
+                    ]
+                },
+                {
+                    "text": "2 Sanskrit text, Transliteration and English Translation 2.1 Four components of therapeutics 2.2 Maitreya’s Observation and Query 2.3 Reply by Atreya 2.4 General Principles of Management 2.5 Knowledge of prognosis 2.5.1 Consequences of treatment after knowing prognosis 2.5.2 Types of Prognosis 2.5.3 Prognostic criteria for easily curable diseases 2.5.4 Prognostic criteria for curable diseases with difficulty 2.5.5 Prognostic criteria for palliable diseases 2.5.6 Prognostic criteria for incurable diseases 2.5.7 Importance of prognosis 2.6 Summary",
+                    "links": [
+                        {
+                            "text": "2 Sanskrit text, Transliteration and English Translation",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#Sanskrit_text,_Transliteration_and_English_Translation"
+                        },
+                        {
+                            "text": "2.1 Four components of therapeutics",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#Four_components_of_therapeutics"
+                        },
+                        {
+                            "text": "2.2 Maitreya’s Observation and Query",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#Maitreya’s_Observation_and_Query"
+                        },
+                        {
+                            "text": "2.3 Reply by Atreya",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#Reply_by_Atreya"
+                        },
+                        {
+                            "text": "2.4 General Principles of Management",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#General_Principles_of_Management"
+                        },
+                        {
+                            "text": "2.5 Knowledge of prognosis",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#Knowledge_of_prognosis"
+                        },
+                        {
+                            "text": "2.5.1 Consequences of treatment after knowing prognosis",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#Consequences_of_treatment_after_knowing_prognosis"
+                        },
+                        {
+                            "text": "2.5.2 Types of Prognosis",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#Types_of_Prognosis"
+                        },
+                        {
+                            "text": "2.5.3 Prognostic criteria for easily curable diseases",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#Prognostic_criteria_for_easily_curable_diseases"
+                        },
+                        {
+                            "text": "2.5.4 Prognostic criteria for curable diseases with difficulty",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#Prognostic_criteria_for_curable_diseases_with_difficulty"
+                        },
+                        {
+                            "text": "2.5.5 Prognostic criteria for palliable diseases",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#Prognostic_criteria_for_palliable_diseases"
+                        },
+                        {
+                            "text": "2.5.6 Prognostic criteria for incurable diseases",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#Prognostic_criteria_for_incurable_diseases"
+                        },
+                        {
+                            "text": "2.5.7 Importance of prognosis",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#Importance_of_prognosis"
+                        },
+                        {
+                            "text": "2.6 Summary",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#Summary"
+                        }
+                    ]
+                },
+                {
+                    "text": "3 Tattva Vimarsha (Fundamental Principles)",
+                    "links": [
+                        {
+                            "text": "3 Tattva Vimarsha (Fundamental Principles)",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#Tattva_Vimarsha_(Fundamental_Principles)"
+                        }
+                    ]
+                },
+                {
+                    "text": "4 Vidhi Vimarsha (Applied Inferences) 4.1 Contemporary approach 4.2 Medical model and healthcare system 4.3 Changes in prognosis with advanced medical care",
+                    "links": [
+                        {
+                            "text": "4 Vidhi Vimarsha (Applied Inferences)",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#Vidhi_Vimarsha_(Applied_Inferences)"
+                        },
+                        {
+                            "text": "4.1 Contemporary approach",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#Contemporary_approach"
+                        },
+                        {
+                            "text": "4.2 Medical model and healthcare system",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#Medical_model_and_healthcare_system"
+                        },
+                        {
+                            "text": "4.3 Changes in prognosis with advanced medical care",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#Changes_in_prognosis_with_advanced_medical_care"
+                        }
+                    ]
+                },
+                {
+                    "text": "5 Future scope for research",
+                    "links": [
+                        {
+                            "text": "5 Future scope for research",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#Future_scope_for_research"
+                        }
+                    ]
+                },
+                {
+                    "text": "6 References",
+                    "links": [
+                        {
+                            "text": "6 References",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#References"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Introduction",
+            "html": "<h2><span class=\"mw-headline\" id=\"Introduction\">Introduction</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "This chapter describes four types of diseases on the basis of prognosis and emphasizes the importance of knowledge of prognosis for successful management of disease. It is important to assess the prognosis of a patient before initiating treatment. Lord Atreya responds to the queries of Maitreya regarding the role of therapeutics in the eradication of disease and prescribes the four components of Healthcare Management. He suggests that even the most wise physician and the most efficient therapeutic measure cannot prevent or cure an ailment without knowing its prognosis. The chapter gives details of all the factors that are helpful in deciding the prognosis of a disease including Prakriti (body type). Some fundamental principles of management like nourishment therapy, fasting therapy, treating the root cause of disease, hot therapy and cold therapy are mentioned to exemplify the principle of dhatu samyata (maintenance of stable equilibrium or concept of homeostasis).",
+            "html": "<p>This chapter describes four types of diseases on the basis of prognosis and emphasizes the importance of knowledge of prognosis for successful management of disease. It is important to assess the prognosis of a patient before initiating treatment. Lord Atreya responds to the queries of Maitreya regarding the role of therapeutics in the eradication of disease and prescribes the four components of Healthcare Management. He suggests that even the most wise physician and the most efficient therapeutic measure cannot prevent or cure an ailment without knowing its prognosis. The chapter gives details of all the factors that are helpful in deciding the prognosis of a disease including <i><a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">Prakriti</a></i> (body type). Some fundamental principles of management like nourishment therapy, fasting therapy, treating the root cause of disease, hot therapy and cold therapy are mentioned to exemplify the principle of <i><a href=\"/index.php?title=Dhatu\" title=\"Dhatu\">dhatu</a> samyata</i> (maintenance of stable equilibrium or concept of homeostasis).\n</p>",
+            "links": [
+                {
+                    "text": "Prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Sanskrit text, Transliteration and English Translation",
+            "html": "<h2><span id=\"Sanskrit_text.2C_Transliteration_and_English_Translation\"></span><span class=\"mw-headline\" id=\"Sanskrit_text,_Transliteration_and_English_Translation\">Sanskrit text, Transliteration and English Translation</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "अथातो महाचतुष्पादमध्यायं व्याख्यास्यामः||१||",
+            "html": "<p>अथातो महाचतुष्पादमध्यायं व्याख्यास्यामः||१||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "इति ह स्माह भगवानात्रेयः||२||",
+            "html": "<p>इति ह स्माह भगवानात्रेयः||२||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "athAtomahAcatuShpAdamadhyAyaMvyAkhyAsyAmaH||1||",
+            "html": "<p>athAtomahAcatuShpAdamadhyAyaMvyAkhyAsyAmaH||1||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "iti ha smAhabhagavAnAtreyaH||2||",
+            "html": "<p>iti ha smAhabhagavAnAtreyaH||2||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Now we shall expound chapter \"Mahachatushpada\" (Four important components of therapeutics). Thus said Lord Atreya.[1-2]",
+            "html": "<p>Now we shall expound chapter \"Mahachatushpada\" (Four important components of therapeutics). Thus said Lord Atreya.[1-2]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Four components of therapeutics",
+            "html": "<h3><span class=\"mw-headline\" id=\"Four_components_of_therapeutics\">Four components of therapeutics</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "चतुष्पादं षोडशकलं भेषजमिति भिषजो भाषन्ते, यदुक्तं पूर्वाध्याये षोडशगुणमिति, तद्भेषजं युक्तियुक्तमलमारोग्यायेति भगवान्पुनर्वसुरात्रेयः||३||",
+            "html": "<p>चतुष्पादं षोडशकलं भेषजमिति भिषजो भाषन्ते, यदुक्तं पूर्वाध्याये षोडशगुणमिति, तद्भेषजं युक्तियुक्तमलमारोग्यायेति भगवान्पुनर्वसुरात्रेयः||३||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "catuShpAdaMShoDashakalaMbheShajamitibhiShajobhAShante,yaduktaMpUrvAdhyAyeShoDashaguNamiti, tadbheShajaMyuktiyuktamalamArogyAyetibhagavAnpunarvasurAtreyaH||3||",
+            "html": "<p>catuShpAdaMShoDashakalaMbheShajamitibhiShajobhAShante,yaduktaMpUrvAdhyAyeShoDashaguNamiti, tadbheShajaMyuktiyuktamalamArogyAyetibhagavAnpunarvasurAtreyaH||3||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "According to physicians, therapeutics has four components which have sixteen qualities. The same has been stated in the preceding chapter, therapeutics with these sixteen qualities have the capacity to eliminate diseases, so said Lord Punarvasu Atreya.[3]",
+            "html": "<p>According to physicians, therapeutics has four components which have sixteen qualities. The same has been stated in the preceding chapter, therapeutics with these sixteen qualities have the capacity to eliminate diseases, so said Lord Punarvasu Atreya.[3]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Maitreya’s Observation and Query",
+            "html": "<h3><span id=\"Maitreya.E2.80.99s_Observation_and_Query\"></span><span class=\"mw-headline\" id=\"Maitreya’s_Observation_and_Query\">Maitreya’s Observation and Query</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "नेति मैत्रेयः, किं कारणं? दृश्यन्तेह्यातुराः केचिदुपकरणवन्तश्च परिचारकसम्पन्नाश्चात्मवन्तश्च कुशलैश्चभिषग्भिरनुष्ठिताः समुत्तिष्ठमानाः, तथायुक्ताश्चापरे म्रियमाणाः; तस्माद्भेषजमकिञ्चित्करं भवति, तद्यथा- श्वभ्रेसरसि च प्रसिक्तमल्पमुदकं, नद्यां वा स्यन्दमानायांपांसुधाने वा पांसुमुष्टिः प्रकीर्ण इति; तथाऽपरे दृश्यन्तेऽनुपकरणाश्चापरिचारकाश्चानात्मवन्तश्चाकुशलैश्च भिषग्भिरनुष्ठिताः समुत्तिष्ठमानाः, तथायुक्ता म्रियमाणाश्चापरे| यतश्च प्रतिकुर्वन्सिध्यति, प्रतिकुर्वन्म्रियते; अप्रतिकुर्वन्सिध्यति, अप्रतिकुर्वन्म्रियते; ततश्चिन्त्यते भेषजमभेषजेनाविशिष्टमिति ||४||",
+            "html": "<p>नेति मैत्रेयः, किं कारणं? दृश्यन्तेह्यातुराः केचिदुपकरणवन्तश्च परिचारकसम्पन्नाश्चात्मवन्तश्च कुशलैश्चभिषग्भिरनुष्ठिताः समुत्तिष्ठमानाः, तथायुक्ताश्चापरे म्रियमाणाः; तस्माद्भेषजमकिञ्चित्करं भवति, तद्यथा- श्वभ्रेसरसि च प्रसिक्तमल्पमुदकं, नद्यां वा स्यन्दमानायांपांसुधाने वा पांसुमुष्टिः प्रकीर्ण इति; तथाऽपरे दृश्यन्तेऽनुपकरणाश्चापरिचारकाश्चानात्मवन्तश्चाकुशलैश्च भिषग्भिरनुष्ठिताः समुत्तिष्ठमानाः, तथायुक्ता म्रियमाणाश्चापरे| यतश्च प्रतिकुर्वन्सिध्यति, प्रतिकुर्वन्म्रियते; अप्रतिकुर्वन्सिध्यति, अप्रतिकुर्वन्म्रियते; ततश्चिन्त्यते भेषजमभेषजेनाविशिष्टमिति ||४||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "NetimaitreyaH, kiMkAraNaM? dRushyantehyAturAHkecidupakaraNavantashca\nparicArakasampannAshcAtmavantashcakushalaishcabhiShagbhiranuShThitAH\nsamuttiShThamAnAH, tathAyuktAshcAparemriyamANAH; tasmAdbheShajamaki~jcitkaraMbhavati, tadyathA- shvabhresarasi ca prasiktamalpamudakaM, nadyAMvAsyandamAnAyAMpAMsudhAnevApAMsumuShTiHprakIrNaiti; tathA~apare dRushyante~anupakaraNAshcAparicArakAshcAnAtmavantashcAkushalaishca\nbhiShagbhiranuShThitAHsamuttiShThamAnAH, tathAyuktAmriyamANAshcApare|\nyatashcapratikurvansidhyati, pratikurvanmriyate; apratikurvansidhyati,\napratikurvanmriyate; tatashcintyatebheShajamabheShajenAvishiShTamiti ||4||",
+            "html": "<p>NetimaitreyaH, kiMkAraNaM? dRushyantehyAturAHkecidupakaraNavantashca\nparicArakasampannAshcAtmavantashcakushalaishcabhiShagbhiranuShThitAH\nsamuttiShThamAnAH, tathAyuktAshcAparemriyamANAH; tasmAdbheShajamaki~jcitkaraMbhavati, tadyathA- shvabhresarasi ca prasiktamalpamudakaM, nadyAMvAsyandamAnAyAMpAMsudhAnevApAMsumuShTiHprakIrNaiti; tathA~apare dRushyante~anupakaraNAshcAparicArakAshcAnAtmavantashcAkushalaishca\nbhiShagbhiranuShThitAHsamuttiShThamAnAH, tathAyuktAmriyamANAshcApare|\nyatashcapratikurvansidhyati, pratikurvanmriyate; apratikurvansidhyati,\napratikurvanmriyate; tatashcintyatebheShajamabheShajenAvishiShTamiti ||4||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Maitreya contradicts and puts query – “What is the reason that some patients managed by proper medicaments, attendants, and well qualified physicians, who are also having self control, soon recover from the diseases? On the other hand, in spite of all these, some die? So therapeutics is of no value (in the eradication of diseases). This is just like a drop of water thrown into a ditch or pond or a handful of dust thrown into a flowing river or on a heap of dust. On the contrary, even without proper medicaments, attendants, good physicians, patients having no self control, recover from the diseases, however others in the similar situation also die. To sum up: It may be said that therapeutic measures or no therapeutic measures, results are the same. For one who is taking recourse to therapeutic measures may sometime succeed in recovering from the diseases and may sometimes die as well. Similar is the case with one who does not pay any heed to therapeutic measures”. [4]",
+            "html": "<p>Maitreya contradicts and puts query – “What is the reason that some patients managed by proper medicaments, attendants, and well qualified physicians, who are also having self control, soon recover from the diseases? On the other hand, in spite of all these, some die? So therapeutics is of no value (in the eradication of diseases). This is just like a drop of water thrown into a ditch or pond or a handful of dust thrown into a flowing river or on a heap of dust. On the contrary, even without proper medicaments, attendants, good physicians, patients having no self control, recover from the diseases, however others in the similar situation also die. To sum up: It may be said that therapeutic measures or no therapeutic measures, results are the same. For one who is taking recourse to therapeutic measures may sometime succeed in recovering from the diseases and may sometimes die as well. Similar is the case with one who does not pay any heed to therapeutic measures”. [4]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Reply by Atreya",
+            "html": "<h3><span class=\"mw-headline\" id=\"Reply_by_Atreya\">Reply by Atreya</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "मैत्रेय !मिथ्या चिन्त्यत इत्यात्रेयः; किंकारणं, येह्यातुराः षोडशगुणसमुदितेनानेन भेषजेनोपपद्यमानाम्रियन्त इत्युक्तं तदनुपपन्नं, न हि भेषजसाध्यानां व्याधीनां भेषजमकारणं भवति; ये पुनरातुराः केवलाद्भेषजादृते समुत्तिष्ठन्ते, न तेषां सम्पूर्णभेषजोपपादनाय समुत्थानविशेषो नास्ति; यथा हि पतितं पुरुषं समर्थमुत्थानायोत्थापयन् पुरुषो बलमस्योपादध्यात्, स क्षिप्रतरमपरिक्लिष्ट\nएवोत्तिष्ठेत्, तद्वत्सम्पूर्णभेषजोपलम्भादातुराः; ये चातुराः केवलाद्भेषजादपि म्रियन्ते, न च सर्व एव ते भेषजोपपन्नाः समुत्तिष्ठेरन्, नहि सर्वेव्याधयो भवन्त्युपायसाध्याः, न चोपायसाध्यानां व्याधीनामनुपायेन सिद्धिरस्ति, न चासाध्यानां व्याधीनां भेषजसमुदायोऽयमस्ति, न ह्यलं ज्ञानवान्भिषङ्मुमूर्षुमातुरमुत्थापयितुं; परीक्ष्यकारिणो हि कुशला भवन्ति, यथा हि योगज्ञोऽभ्यासनित्य इष्वासो धनुरादायेषुमस्यन्नातिविप्रकृष्टे महति काये नापराधवान्भवति, सम्पादयति चेष्टकार्यं, तथा भिषक्स्वगुणसम्पन्न उपकरणवान्वीक्ष्यकर्मारभमाणः साध्यरोगमनपराधः सम्पादयत्येवातुरमारोग्येण; तस्मान्नभेषजमभेषजेनाविशिष्टं भवति||५||",
+            "html": "<p>मैत्रेय !मिथ्या चिन्त्यत इत्यात्रेयः; किंकारणं, येह्यातुराः षोडशगुणसमुदितेनानेन भेषजेनोपपद्यमानाम्रियन्त इत्युक्तं तदनुपपन्नं, न हि भेषजसाध्यानां व्याधीनां भेषजमकारणं भवति; ये पुनरातुराः केवलाद्भेषजादृते समुत्तिष्ठन्ते, न तेषां सम्पूर्णभेषजोपपादनाय समुत्थानविशेषो नास्ति; यथा हि पतितं पुरुषं समर्थमुत्थानायोत्थापयन् पुरुषो बलमस्योपादध्यात्, स क्षिप्रतरमपरिक्लिष्ट \nएवोत्तिष्ठेत्, तद्वत्सम्पूर्णभेषजोपलम्भादातुराः; ये चातुराः केवलाद्भेषजादपि म्रियन्ते, न च सर्व एव ते भेषजोपपन्नाः समुत्तिष्ठेरन्, नहि सर्वेव्याधयो भवन्त्युपायसाध्याः, न चोपायसाध्यानां व्याधीनामनुपायेन सिद्धिरस्ति, न चासाध्यानां व्याधीनां भेषजसमुदायोऽयमस्ति, न ह्यलं ज्ञानवान्भिषङ्मुमूर्षुमातुरमुत्थापयितुं; परीक्ष्यकारिणो हि कुशला भवन्ति, यथा हि योगज्ञोऽभ्यासनित्य इष्वासो धनुरादायेषुमस्यन्नातिविप्रकृष्टे महति काये नापराधवान्भवति, सम्पादयति चेष्टकार्यं, तथा भिषक्स्वगुणसम्पन्न उपकरणवान्वीक्ष्यकर्मारभमाणः साध्यरोगमनपराधः सम्पादयत्येवातुरमारोग्येण; तस्मान्नभेषजमभेषजेनाविशिष्टं भवति||५||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Maitreya! mithyAcintyataityAtreyaH; kiMkAraNaM, ye hyAturAHShoDashaguNasamuditenAnenabheShajenopapadyamAnAmriyantaityuktaMtadanupapannaM, na hi bheShajasAdhyAnAMvyAdhInAMbheShajamakAraNaMbhavati; ye punarAturAHkevalAdbheShajAdRutesamuttiShThante, nateShAMsampUrNabheShajopapAdanAyasamutthAnavisheShonAsti; yathA hi patitaMpuruShaMsamarthamutthAnAyotthApayanpuruShobalamasyopAdadhyAt, sakShiprataramaparikliShTa\nevottiShThet, tadvatsampUrNabheShajopalambhAdAturAH; ye cAturAHkevalAdbheShajAdapimriyante,na ca sarvaevatebheShajopapannAHsamuttiShTheran, nahisarvevyAdhayobhavantyupAyasAdhyAH, nacopAyasAdhyAnAMvyAdhInAmanupAyenasiddhirasti, nacAsAdhyAnAMvyAdhInAMbheShajasamudAyo~ayamasti, nahyalaMj~jAnavAnbhiSha~gmumUrShumAturamutthApayituM; parIkShyakAriNo hi kushalAbhavanti, yathA hi yogaj~jo~abhyAsanityaiShvAsodhanurAdAyeShumasyannAtiviprakRuShTemahatikAynAparAdhavAnbhavati, sampAdayaticeShTakAryaM, tathAbhiShaksvaguNasampannaupakaraNavAnvIkShyakarmArabhamANaHsAdhyarogamanaparAdhaHsampAdayatyevAturamArogyeNa; tasmAnnabheShajamabheShajenAvishiShTaMbhavati||5||",
+            "html": "<p>Maitreya! mithyAcintyataityAtreyaH; kiMkAraNaM, ye hyAturAHShoDashaguNasamuditenAnenabheShajenopapadyamAnAmriyantaityuktaMtadanupapannaM, na hi bheShajasAdhyAnAMvyAdhInAMbheShajamakAraNaMbhavati; ye punarAturAHkevalAdbheShajAdRutesamuttiShThante, nateShAMsampUrNabheShajopapAdanAyasamutthAnavisheShonAsti; yathA hi patitaMpuruShaMsamarthamutthAnAyotthApayanpuruShobalamasyopAdadhyAt, sakShiprataramaparikliShTa\nevottiShThet, tadvatsampUrNabheShajopalambhAdAturAH; ye cAturAHkevalAdbheShajAdapimriyante,na ca sarvaevatebheShajopapannAHsamuttiShTheran, nahisarvevyAdhayobhavantyupAyasAdhyAH, nacopAyasAdhyAnAMvyAdhInAmanupAyenasiddhirasti, nacAsAdhyAnAMvyAdhInAMbheShajasamudAyo~ayamasti, nahyalaMj~jAnavAnbhiSha~gmumUrShumAturamutthApayituM; parIkShyakAriNo hi kushalAbhavanti, yathA hi yogaj~jo~abhyAsanityaiShvAsodhanurAdAyeShumasyannAtiviprakRuShTemahatikAynAparAdhavAnbhavati, sampAdayaticeShTakAryaM, tathAbhiShaksvaguNasampannaupakaraNavAnvIkShyakarmArabhamANaHsAdhyarogamanaparAdhaHsampAdayatyevAturamArogyeNa; tasmAnnabheShajamabheShajenAvishiShTaMbhavati||5||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "To this Lord Atreya remarks, “Oh Maitreya! The conclusion derived by you is not correct. Because, to say that the patients adopting the therapeutic measures having the sixteen qualities die is not borne out of facts. Therapeutic measures can never be ineffective in curable diseases. Similarly, even in such cases where patients are cured without proper medication, it should be understood that had there been proper administration of therapeutic measures the process of cure would have been quicker and better. This can be likened to the lifting of a healthy person who has fallen. He can no doubt get up himself but if he is helped and lifted by another person, he would get up sooner and without much difficulty. Similar is the case with patients stated to have been cured without adequate therapeutic measures. Then there is the case where patients die even by taking recourse to adequate therapeutic measures. It is not that all patients taking recourse to therapeutic measures are necessarily cured because all diseases are not curable. Diseases that are curable can be cured only by taking recourse to therapeutic measures. Those that are not curable will certainly not respond to the treatment and not even the ablest physician is capable of curing the moribund patient. An able physician always proceeds with their treatment after proper examination. As an archer having the knowledge and practice (of archery) shoots arrows with the help of his bow and does not commit mistakes in hitting a massive body nearby and thus accomplishes his object, so a physician endowed with his own qualities and other accessories proceeding with the act (of treatment) after proper examination will certainly cure a curable patient without fail. So it is not correct to say that there is no difference between the application and non-application of therapeutic measures”. [5]",
+            "html": "<p>To this Lord Atreya remarks, “Oh Maitreya! The conclusion derived by you is not correct. Because, to say that the patients adopting the therapeutic measures having the sixteen qualities die is not borne out of facts. Therapeutic measures can never be ineffective in curable diseases. Similarly, even in such cases where patients are cured without proper medication, it should be understood that had there been proper administration of therapeutic measures the process of cure would have been quicker and better. This can be likened to the lifting of a healthy person who has fallen. He can no doubt get up himself but if he is helped and lifted by another person, he would get up sooner and without much difficulty. Similar is the case with patients stated to have been cured without adequate therapeutic measures. Then there is the case where patients die even by taking recourse to adequate therapeutic measures. It is not that all patients taking recourse to therapeutic measures are necessarily cured because all diseases are not curable. Diseases that are curable can be cured only by taking recourse to therapeutic measures. Those that are not curable will certainly not respond to the treatment and not even the ablest physician is capable of curing the moribund patient. An able physician always proceeds with their treatment after proper examination. As an archer having the knowledge and practice (of archery) shoots arrows with the help of his bow and does not commit mistakes in hitting a massive body nearby and thus accomplishes his object, so a physician endowed with his own qualities and other accessories proceeding with the act (of treatment) after proper examination will certainly cure a curable patient without fail. So it is not correct to say that there is no difference between the application and non-application of therapeutic measures”. [5]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "General Principles of Management",
+            "html": "<h3><span class=\"mw-headline\" id=\"General_Principles_of_Management\">General Principles of Management</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "इदं च नः प्रत्यक्षं- यदनातुरेण भेषजेनातुरं चिकित्सामः , क्षाममक्षामेण, कृशं च दुर्बलमाप्याययामः, स्थूलं मेदस्विनमपतर्पयामः, शीतेनोष्णाभिभूतमुपचरामः, शीताभिभूतमुष्णेन, न्यूनान्धातून्पूरयामः, व्यतिरिक्तान्ह्रासयामः, व्याधीन्मूलविपर्ययेणोपचरन्तः सम्यक्प्रकृतौ स्थापयामः; तेषां नस्तथाकुर्वतामयं भेषजसमुदायः कान्ततमो भवति||६||",
+            "html": "<p>इदं च नः प्रत्यक्षं- यदनातुरेण भेषजेनातुरं चिकित्सामः , क्षाममक्षामेण, कृशं च दुर्बलमाप्याययामः, स्थूलं मेदस्विनमपतर्पयामः, शीतेनोष्णाभिभूतमुपचरामः, शीताभिभूतमुष्णेन, न्यूनान्धातून्पूरयामः, व्यतिरिक्तान्ह्रासयामः, व्याधीन्मूलविपर्ययेणोपचरन्तः सम्यक्प्रकृतौ स्थापयामः; तेषां नस्तथाकुर्वतामयं भेषजसमुदायः कान्ततमो भवति||६||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "idaM ca naHpratyakShaM- yadanAtureNabheShajenAturaMcikitsAmaH, kShAmamakShAmeNa, kRushaM ca durbalamApyAyayAmaH, sthUlaMmedasvinamapatarpayAmaH, shItenoShNAbhibhUtamupacarAmaH, shItAbhibhUtamuShNena, nyUnAndhAtUnpUrayAmaH, vyatiriktAnhrAsayAmaH, vyAdhInmUlaviparyayeNopacarantaHsamyakprakRutausthApayAmaH; teShAMnastathAkurvatAmayaMbheShajasamudAyaH\nkAntatamobhavati||6||",
+            "html": "<p>idaM ca naHpratyakShaM- yadanAtureNabheShajenAturaMcikitsAmaH, kShAmamakShAmeNa, kRushaM ca durbalamApyAyayAmaH, sthUlaMmedasvinamapatarpayAmaH, shItenoShNAbhibhUtamupacarAmaH, shItAbhibhUtamuShNena, nyUnAndhAtUnpUrayAmaH, vyatiriktAnhrAsayAmaH, vyAdhInmUlaviparyayeNopacarantaHsamyakprakRutausthApayAmaH; teShAMnastathAkurvatAmayaMbheShajasamudAyaH\nkAntatamobhavati||6||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "And we see with our own eyes that we cure a patient by taking a recourse to curative therapeutic measures- the depleted body elements by increasing them. We give nourishment to those who are weak and emaciated. We administer reducing therapy to the one who is obese. We treat patients afflicted by heat with cooling measures and the one afflicted by cold with heating measures. We adopt proper measures to replenish the deficient dhatus (tissue elements, doshas and malas ) and deplete those that are in excess. We thus bring back the physiological state by treating the diseases with those having opposite properties of causative factors. Thus the group of therapeutic measures gives us the best result in the management of diseases. [6]",
+            "html": "<p>And we see with our own eyes that we cure a patient by taking a recourse to curative therapeutic measures- the depleted body elements by increasing them. We give nourishment to those who are weak and emaciated. We administer reducing therapy to the one who is obese. We treat patients afflicted by heat with cooling measures and the one afflicted by cold with heating measures. We adopt proper measures to replenish the deficient <i><a href=\"/index.php?title=Dhatu\" title=\"Dhatu\">dhatus</a></i> (tissue elements, <i><a href=\"/index.php?title=Dosha\" title=\"Dosha\">doshas</a></i> and <i><a href=\"/index.php?title=Mala\" title=\"Mala\">malas</a></i>) and deplete those that are in excess. We thus bring back the physiological state by treating the diseases with those having opposite properties of causative factors. Thus the group of therapeutic measures gives us the best result in the management of diseases. [6]\n</p>",
+            "links": [
+                {
+                    "text": "dhatus",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu"
+                },
+                {
+                    "text": "doshas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "malas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mala"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Knowledge of prognosis",
+            "html": "<h3><span class=\"mw-headline\" id=\"Knowledge_of_prognosis\">Knowledge of prognosis</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "h4",
+            "text": "Consequences of treatment after knowing prognosis",
+            "html": "<h4><span class=\"mw-headline\" id=\"Consequences_of_treatment_after_knowing_prognosis\">Consequences of treatment after knowing prognosis</span></h4>",
+            "links": [],
+            "images": [],
+            "level": 4
+        },
+        {
+            "type": "p",
+            "text": "भवन्तिचात्र-\nसाध्यासाध्यविभागज्ञो ज्ञानपूर्वं चिकित्सकः|\nकाले चारभते कर्म यत्तत्साधयति ध्रुवम्||७||",
+            "html": "<p>भवन्तिचात्र- \nसाध्यासाध्यविभागज्ञो ज्ञानपूर्वं चिकित्सकः| \nकाले चारभते कर्म यत्तत्साधयति ध्रुवम्||७|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "अर्थविद्यायशोहानिमुपक्रोशमसङ्ग्रहम्|\nप्राप्नुयान्नियतं वैद्यो योऽसाध्यं समुपाचरेत्||८||",
+            "html": "<p>अर्थविद्यायशोहानिमुपक्रोशमसङ्ग्रहम्| \nप्राप्नुयान्नियतं वैद्यो योऽसाध्यं समुपाचरेत्||८||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "bhavanticAtra-\nsAdhyAsAdhyavibhAgaj~joj~jAnapUrvaMcikitsakaH|\nkAlecArabhate karma yattatsAdhayatidhruvam||7||",
+            "html": "<p>bhavanticAtra- \nsAdhyAsAdhyavibhAgaj~joj~jAnapUrvaMcikitsakaH|\nkAlecArabhate karma yattatsAdhayatidhruvam||7|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "arthavidyAyashohAnimupakroshamasa~ggraham|\nprApnuyAnniyataMvaidyoyo~asAdhyaMsamupAcaret||8||",
+            "html": "<p>arthavidyAyashohAnimupakroshamasa~ggraham|\nprApnuyAnniyataMvaidyoyo~asAdhyaMsamupAcaret||8||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "A physician who can distinguish between curable and incurable diseases and initiates treatment in time with the full knowledge (about the various aspects of the therapeutics) can certainly accomplish his objective (of curing the disease). On the other hand, a physician who undertakes the treatment of an incurable disease would undoubtedly subject himself to the loss of wealth, knowledge and fame and will also earn bad reputation and other royal sanctions or punishments. [7-8]",
+            "html": "<p>A physician who can distinguish between curable and incurable diseases and initiates treatment in time with the full knowledge (about the various aspects of the therapeutics) can certainly accomplish his objective (of curing the disease). On the other hand, a physician who undertakes the treatment of an incurable disease would undoubtedly subject himself to the loss of wealth, knowledge and fame and will also earn bad reputation and other royal sanctions or punishments. [7-8]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h4",
+            "text": "Types of Prognosis",
+            "html": "<h4><span class=\"mw-headline\" id=\"Types_of_Prognosis\">Types of Prognosis</span></h4>",
+            "links": [],
+            "images": [],
+            "level": 4
+        },
+        {
+            "type": "p",
+            "text": "सुखसाध्यं मतं साध्यं कृच्छ्रसाध्यमथापि च|\nद्विविधं चाप्यसाध्यं स्याद्याप्यं यच्चानुपक्रमम् ||९||",
+            "html": "<p>सुखसाध्यं मतं साध्यं कृच्छ्रसाध्यमथापि च|\nद्विविधं चाप्यसाध्यं स्याद्याप्यं यच्चानुपक्रमम् ||९|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "साध्यानां त्रिविधश्चाल्पमध्यमोत्कृष्टतां प्रति|\nविकल्पो, न त्वसाध्यानां नियतानां विकल्पना||१०||",
+            "html": "<p>साध्यानां त्रिविधश्चाल्पमध्यमोत्कृष्टतां प्रति| \nविकल्पो, न त्वसाध्यानां नियतानां विकल्पना||१०||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "sukhasAdhyaMmataMsAdhyaMkRucchrasAdhyamathApi ca| dvividhaMcApyasAdhyaMsyAdyApyaMyaccAnupakramam||9||\nsAdhyAnAMtrividhashcAlpamadhyamotkRuShTatAMprati|\nvikalpo, natvasAdhyAnAMniyatAnAMvikalpanA||10||",
+            "html": "<p>sukhasAdhyaMmataMsAdhyaMkRucchrasAdhyamathApi ca| dvividhaMcApyasAdhyaMsyAdyApyaMyaccAnupakramam||9|| \nsAdhyAnAMtrividhashcAlpamadhyamotkRuShTatAMprati| \nvikalpo, natvasAdhyAnAMniyatAnAMvikalpanA||10||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Curable diseases are of two types- one that can be cured easily and the other with some difficulty. Similarly, incurable diseases are of two types, viz., one which is palliable and the other which is absolutely irreversible.\nAgain, the curable diseases have three alternants depending upon the moderate and excellent methods required to cure them. This alternative is, however, not possible with regard to diseases which are absolutely incurable. [9-10]",
+            "html": "<p>Curable diseases are of two types- one that can be cured easily and the other with some difficulty. Similarly, incurable diseases are of two types, viz., one which is palliable and the other which is absolutely irreversible.\nAgain, the curable diseases have three alternants depending upon the moderate and excellent methods required to cure them. This alternative is, however, not possible with regard to diseases which are absolutely incurable. [9-10]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h4",
+            "text": "Prognostic criteria for easily curable diseases",
+            "html": "<h4><span class=\"mw-headline\" id=\"Prognostic_criteria_for_easily_curable_diseases\">Prognostic criteria for easily curable diseases</span></h4>",
+            "links": [],
+            "images": [],
+            "level": 4
+        },
+        {
+            "type": "p",
+            "text": "हेतवः पूर्वरूपाणि रूपाण्यल्पानि यस्य च|\nन च तुल्यगुणो दूष्यो न दोषःप्रकृतिर्भवेत्||११||",
+            "html": "<p>हेतवः पूर्वरूपाणि रूपाण्यल्पानि यस्य च| \nन च तुल्यगुणो दूष्यो न दोषःप्रकृतिर्भवेत्||११||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "न च कालगुणस्तुल्यो न देशो दुरुपक्रमः|\nगतिरेका नवत्वं च रोगस्योपद्रवो न च||१२||",
+            "html": "<p>न च कालगुणस्तुल्यो न देशो दुरुपक्रमः| \nगतिरेका नवत्वं च रोगस्योपद्रवो न च||१२|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "दोषश्चैकः समुत्पत्तौ देहः सर्वौषधक्षमः|\nचतुष्पादोपपत्तिश्च सुखसाध्यस्य लक्षणम्||१३||",
+            "html": "<p>दोषश्चैकः समुत्पत्तौ देहः सर्वौषधक्षमः| \nचतुष्पादोपपत्तिश्च सुखसाध्यस्य लक्षणम्||१३||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "hetavaHpUrvarUpANirUpANyalpAniyasya ca|\nna ca tulyaguNodUShyonaDoshaH prakRutirbhavet||11||",
+            "html": "<p>hetavaHpUrvarUpANirUpANyalpAniyasya ca| \nna ca tulyaguNodUShyonaDoshaH prakRutirbhavet||11|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "na ca kAlaguNastulyonadeshodurupakramaH|\ngatirekAnavatvaM ca rogasyopadravona ca ||12||",
+            "html": "<p>na ca kAlaguNastulyonadeshodurupakramaH|   \ngatirekAnavatvaM ca rogasyopadravona ca ||12||  \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "DoshashcaikaHsamutpattaudehaHsarvauShadhakShamaH| catuShpAdopapattishcasukhasAdhyasyalakShaNam||13||",
+            "html": "<p>DoshashcaikaHsamutpattaudehaHsarvauShadhakShamaH| catuShpAdopapattishcasukhasAdhyasyalakShaNam||13||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The following are the factors that determine the nature of the diseases which are easily curable:",
+            "html": "<p>The following are the factors that determine the nature of the diseases which are easily curable:\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "ol",
+            "text": "Causes, premonitory symptoms, and other signs and symptoms that are mild, Qualities of dhatus involved are not in common with those of the doshas , Doshas constituting the prakriti (physical and mental constitution) of the patient are not similar The season is not conducive to the growth of the disease The geographical and bodily positions are not conducive to the growth of the disease Location of the disease is confined to only one system Recently originated (not chronic) Having no complications Only one dosha is involved in the pathogenesis of the disease The body is amenable to all kinds of the medicaments and Fourfold therapeutic measures are available. [11-13]",
+            "html": "<ol><li>Causes, premonitory symptoms, and other signs and symptoms that are mild,</li>\n<li>Qualities of <i><a href=\"/index.php?title=Dhatu\" title=\"Dhatu\">dhatus</a></i> involved are not in common with those of the <i><a href=\"/index.php?title=Dosha\" title=\"Dosha\">doshas</a></i>,</li>\n<li><i><a href=\"/index.php?title=Dosha\" title=\"Dosha\">Doshas</a></i> constituting the <i><a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">prakriti</a></i> (physical and mental constitution) of the patient are not similar</li>\n<li>The season is not conducive to the growth of the disease</li>\n<li>The geographical and bodily positions are not conducive to the growth of the disease</li>\n<li>Location of the disease is confined to only one system</li>\n<li>Recently originated (not chronic)</li>\n<li>Having no complications</li>\n<li>Only one <i><a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a></i> is involved in the pathogenesis of the disease</li>\n<li>The body is amenable to all kinds of the medicaments and</li>\n<li>Fourfold therapeutic measures are available. [11-13]</li></ol>",
+            "links": [
+                {
+                    "text": "dhatus",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu"
+                },
+                {
+                    "text": "doshas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "Doshas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Causes, premonitory symptoms, and other signs and symptoms that are mild,",
+                    "links": []
+                },
+                {
+                    "text": "Qualities of dhatus involved are not in common with those of the doshas ,",
+                    "links": [
+                        {
+                            "text": "dhatus",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu"
+                        },
+                        {
+                            "text": "doshas",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                        }
+                    ]
+                },
+                {
+                    "text": "Doshas constituting the prakriti (physical and mental constitution) of the patient are not similar",
+                    "links": [
+                        {
+                            "text": "Doshas",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                        },
+                        {
+                            "text": "prakriti",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                        }
+                    ]
+                },
+                {
+                    "text": "The season is not conducive to the growth of the disease",
+                    "links": []
+                },
+                {
+                    "text": "The geographical and bodily positions are not conducive to the growth of the disease",
+                    "links": []
+                },
+                {
+                    "text": "Location of the disease is confined to only one system",
+                    "links": []
+                },
+                {
+                    "text": "Recently originated (not chronic)",
+                    "links": []
+                },
+                {
+                    "text": "Having no complications",
+                    "links": []
+                },
+                {
+                    "text": "Only one dosha is involved in the pathogenesis of the disease",
+                    "links": [
+                        {
+                            "text": "dosha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                        }
+                    ]
+                },
+                {
+                    "text": "The body is amenable to all kinds of the medicaments and",
+                    "links": []
+                },
+                {
+                    "text": "Fourfold therapeutic measures are available. [11-13]",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "h4",
+            "text": "Prognostic criteria for curable diseases with difficulty",
+            "html": "<h4><span class=\"mw-headline\" id=\"Prognostic_criteria_for_curable_diseases_with_difficulty\">Prognostic criteria for curable diseases with difficulty</span></h4>",
+            "links": [],
+            "images": [],
+            "level": 4
+        },
+        {
+            "type": "p",
+            "text": "निमित्तपूर्वरूपाणां रूपाणां मध्यमे बले|\nकालप्रकृतिदूष्याणां सामान्येऽन्यतमस्य च||१४||",
+            "html": "<p>निमित्तपूर्वरूपाणां रूपाणां मध्यमे बले| \nकालप्रकृतिदूष्याणां सामान्येऽन्यतमस्य च||१४|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "गर्भिणीवृद्धबालानां नात्युपद्रवपीडितम्|\nशस्त्रक्षाराग्निकृत्यानामनवं कृच्छ्रदेशजम्||१५||",
+            "html": "<p>गर्भिणीवृद्धबालानां नात्युपद्रवपीडितम्|\nशस्त्रक्षाराग्निकृत्यानामनवं कृच्छ्रदेशजम्||१५|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "विद्यादेकपथं रोगं नातिपूर्णचतुष्पदम्|\nद्विपथं नातिकालं वा कृच्छ्रसाध्यं द्विदोषजम्||१६||",
+            "html": "<p>विद्यादेकपथं रोगं नातिपूर्णचतुष्पदम्| \nद्विपथं नातिकालं वा कृच्छ्रसाध्यं द्विदोषजम्||१६||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "nimittapUrvarUpANAMrUpANAMmadhyame bale| kAlaprakRutidUShyANAMsAmAnye~anyatamasya ca||14||garbhiNIvRuddhabAlAnAMnAtyupadravapIDitam|\nshastrakShArAgnikRutyAnAmanavaMkRucchradeshajam||15||",
+            "html": "<p>nimittapUrvarUpANAMrUpANAMmadhyame bale| kAlaprakRutidUShyANAMsAmAnye~anyatamasya ca||14||garbhiNIvRuddhabAlAnAMnAtyupadravapIDitam|\nshastrakShArAgnikRutyAnAmanavaMkRucchradeshajam||15|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "vidyAdekapathaMrogaM\nnAtipUrNacatuShpadam|\ndvipathaMnAtikAlaMvAkRucchrasAdhyaMdviDoshajam||16||",
+            "html": "<p>vidyAdekapathaMrogaM\nnAtipUrNacatuShpadam| \ndvipathaMnAtikAlaMvAkRucchrasAdhyaMdviDoshajam||16||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Following are the factors that determine the nature of the diseases which are difficult to get cured:",
+            "html": "<p>Following are the factors that determine the nature of the diseases which are difficult to get cured:\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "ol",
+            "text": "Causes, premonitory symptoms and other signs and symptoms are of slightly serious nature The qualities of any one of the kala (season), prakriti (physical including mental constitution) and dhatus (tissue elements) are favorable to the disease ( doshas ) The person suffering from the disease is a pregnant woman, old, or child There are moderate types of complications The diseases in which treatment, surgery, application of alkalis and cauterization are involved The diseases that are not new could we say chronic disease or diseases not of recent onset? The diseases occurring in vital parts and joints Diseases involving only one system but not fully supported by the four fold therapeutic measures. Diseases extending to two systems but not very chronic, and Diseases that are caused by the vitiation of two doshas . [14-16]",
+            "html": "<ol><li>Causes, premonitory symptoms and other signs and symptoms are of slightly serious nature</li>\n<li>The qualities of any one of the <i><a href=\"/index.php?title=Kala\" title=\"Kala\">kala</a></i> (season), <i><a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">prakriti</a></i> (physical including mental constitution) and <i><a href=\"/index.php?title=Dhatu\" title=\"Dhatu\">dhatus</a></i> (tissue elements) are favorable to the disease (<i><a href=\"/index.php?title=Dosha\" title=\"Dosha\">doshas</a></i>)</li>\n<li>The person suffering from the disease is a pregnant woman, old, or child</li>\n<li>There are moderate types of complications</li>\n<li>The diseases in which treatment, surgery, application of alkalis and cauterization are involved</li>\n<li>The diseases that are not new could we say chronic disease or diseases not of recent onset?</li>\n<li>The diseases occurring in vital parts and joints</li>\n<li>Diseases involving only one system but not fully supported by the four fold therapeutic measures.</li>\n<li>Diseases extending to two systems but not very chronic, and</li>\n<li>Diseases that are caused by the vitiation of two <i><a href=\"/index.php?title=Dosha\" title=\"Dosha\">doshas</a></i>. [14-16]</li></ol>",
+            "links": [
+                {
+                    "text": "kala",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kala"
+                },
+                {
+                    "text": "prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "dhatus",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu"
+                },
+                {
+                    "text": "doshas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "doshas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Causes, premonitory symptoms and other signs and symptoms are of slightly serious nature",
+                    "links": []
+                },
+                {
+                    "text": "The qualities of any one of the kala (season), prakriti (physical including mental constitution) and dhatus (tissue elements) are favorable to the disease ( doshas )",
+                    "links": [
+                        {
+                            "text": "kala",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Kala"
+                        },
+                        {
+                            "text": "prakriti",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                        },
+                        {
+                            "text": "dhatus",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu"
+                        },
+                        {
+                            "text": "doshas",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                        }
+                    ]
+                },
+                {
+                    "text": "The person suffering from the disease is a pregnant woman, old, or child",
+                    "links": []
+                },
+                {
+                    "text": "There are moderate types of complications",
+                    "links": []
+                },
+                {
+                    "text": "The diseases in which treatment, surgery, application of alkalis and cauterization are involved",
+                    "links": []
+                },
+                {
+                    "text": "The diseases that are not new could we say chronic disease or diseases not of recent onset?",
+                    "links": []
+                },
+                {
+                    "text": "The diseases occurring in vital parts and joints",
+                    "links": []
+                },
+                {
+                    "text": "Diseases involving only one system but not fully supported by the four fold therapeutic measures.",
+                    "links": []
+                },
+                {
+                    "text": "Diseases extending to two systems but not very chronic, and",
+                    "links": []
+                },
+                {
+                    "text": "Diseases that are caused by the vitiation of two doshas . [14-16]",
+                    "links": [
+                        {
+                            "text": "doshas",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h4",
+            "text": "Prognostic criteria for palliable diseases",
+            "html": "<h4><span class=\"mw-headline\" id=\"Prognostic_criteria_for_palliable_diseases\">Prognostic criteria for palliable diseases</span></h4>",
+            "links": [],
+            "images": [],
+            "level": 4
+        },
+        {
+            "type": "p",
+            "text": "शेषत्वादायुषो याप्यमसाध्यं पथ्यसेवया|\nलब्धाल्पसुखमल्पेन हेतुनाऽऽशुप्रवर्तकम्||१७||",
+            "html": "<p>शेषत्वादायुषो याप्यमसाध्यं पथ्यसेवया| \nलब्धाल्पसुखमल्पेन हेतुनाऽऽशुप्रवर्तकम्||१७||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "गम्भीरं बहुधातुस्थं मर्मसन्धिसमाश्रितम्|\nनित्यानुशायिनं रोगं दीर्घकालमवस्थितम्||१८||",
+            "html": "<p>गम्भीरं बहुधातुस्थं मर्मसन्धिसमाश्रितम्| \nनित्यानुशायिनं रोगं दीर्घकालमवस्थितम्||१८||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "विद्याद्द्विदोषजं,...|१९|",
+            "html": "<p>विद्याद्द्विदोषजं,...|१९|\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "sheShatvAdAyuShoyApyamasAdhyaMpathyasevayA| labdhAlpasukhamalpenahetunA~a~ashupravartakam||17||",
+            "html": "<p>sheShatvAdAyuShoyApyamasAdhyaMpathyasevayA| labdhAlpasukhamalpenahetunA~a~ashupravartakam||17||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "gambhIraMbahudhAtusthaMmarmasandhisamAshritam|\nnityAnushAyinaMrogaMdIrghakAlamavasthitam||18||",
+            "html": "<p>gambhIraMbahudhAtusthaMmarmasandhisamAshritam|\nnityAnushAyinaMrogaMdIrghakAlamavasthitam||18|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "vidyAddviDoshajaM,...|19|",
+            "html": "<p>vidyAddviDoshajaM,...|19|\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The palliable group of diseases are characterized as follows:",
+            "html": "<p>The palliable group of diseases are characterized as follows:\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "ol",
+            "text": "As preordained, the patient has survived for a certain period by following a wholesome regimen and as such has enjoyed a little relief, but even a slightest carelessness might quickly aggravate the condition The disease has affected deep seated dhatus The disease involves a number of dhatus It affects the vital organs and joints It affects the patient continuously for a long time (chronic), and The disease is caused by the vitiation of the two doshas . [17-18]",
+            "html": "<ol><li>As preordained, the patient has survived for a certain period by following a wholesome regimen and as such has enjoyed a little relief, but even a slightest carelessness might quickly aggravate the condition</li>\n<li>The disease has affected deep seated <i><a href=\"/index.php?title=Dhatu\" title=\"Dhatu\">dhatus</a></i></li>\n<li>The disease involves a number of <i><a href=\"/index.php?title=Dhatu\" title=\"Dhatu\">dhatus</a></i></li>\n<li>It affects the vital organs and joints</li>\n<li>It affects the patient continuously for a long time (chronic), and</li>\n<li>The disease is caused by the vitiation of the two <i><a href=\"/index.php?title=Dosha\" title=\"Dosha\">doshas</a></i>. [17-18]</li></ol>",
+            "links": [
+                {
+                    "text": "dhatus",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu"
+                },
+                {
+                    "text": "dhatus",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu"
+                },
+                {
+                    "text": "doshas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "As preordained, the patient has survived for a certain period by following a wholesome regimen and as such has enjoyed a little relief, but even a slightest carelessness might quickly aggravate the condition",
+                    "links": []
+                },
+                {
+                    "text": "The disease has affected deep seated dhatus",
+                    "links": [
+                        {
+                            "text": "dhatus",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu"
+                        }
+                    ]
+                },
+                {
+                    "text": "The disease involves a number of dhatus",
+                    "links": [
+                        {
+                            "text": "dhatus",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu"
+                        }
+                    ]
+                },
+                {
+                    "text": "It affects the vital organs and joints",
+                    "links": []
+                },
+                {
+                    "text": "It affects the patient continuously for a long time (chronic), and",
+                    "links": []
+                },
+                {
+                    "text": "The disease is caused by the vitiation of the two doshas . [17-18]",
+                    "links": [
+                        {
+                            "text": "doshas",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h4",
+            "text": "Prognostic criteria for incurable diseases",
+            "html": "<h4><span class=\"mw-headline\" id=\"Prognostic_criteria_for_incurable_diseases\">Prognostic criteria for incurable diseases</span></h4>",
+            "links": [],
+            "images": [],
+            "level": 4
+        },
+        {
+            "type": "p",
+            "text": "...तद्वत्प्रत्याख्येयं त्रिदोषजम्|\nक्रियापथमतिक्रान्तं सर्वमार्गानुसारिणम्||१९||",
+            "html": "<p>...तद्वत्प्रत्याख्येयं त्रिदोषजम्| \nक्रियापथमतिक्रान्तं सर्वमार्गानुसारिणम्||१९|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "औत्सुक्यारतिसम्मोहकरमिन्द्रियनाशनम्|\nदुर्बलस्य सुसंवृद्धं व्याधिं सारिष्टमेव च||२०||",
+            "html": "<p>औत्सुक्यारतिसम्मोहकरमिन्द्रियनाशनम्| \nदुर्बलस्य सुसंवृद्धं व्याधिं सारिष्टमेव च||२०||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "...tadvatpratyAkhyeyaMtriDoshajam|\nkriyApathamatikrAntaMsarvamArgAnusAriNam||19||",
+            "html": "<p>...tadvatpratyAkhyeyaMtriDoshajam| \nkriyApathamatikrAntaMsarvamArgAnusAriNam||19||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "autsukyAratisammohakaramindriyanAshanam| durbalasyasusaMvRuddhaMvyAdhiMsAriShTameva ca||20||",
+            "html": "<p>autsukyAratisammohakaramindriyanAshanam| durbalasyasusaMvRuddhaMvyAdhiMsAriShTameva ca||20||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Likewise, the following factors would determine the absolute incurability of the disease:",
+            "html": "<p>Likewise, the following factors would determine the absolute incurability of the disease:\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "ol",
+            "text": "Disease caused by the vitiation of all the three doshas Disease that transcends all therapeutic measures Diseases that involves all the systems Disease causing excitement, restlessness and confusion Disease which affects the sense organs The affected person is usually weak and the disease is sufficiently advanced, and The disease having bad prognostic signs. [19-20]",
+            "html": "<ol><li>Disease caused by the vitiation of all the three <i><a href=\"/index.php?title=Dosha\" title=\"Dosha\">doshas</a></i></li>\n<li>Disease that transcends all therapeutic measures</li>\n<li>Diseases that involves all the systems</li>\n<li>Disease causing excitement, restlessness and confusion</li>\n<li>Disease which affects the sense organs</li>\n<li>The affected person is usually weak and the disease is sufficiently advanced, and</li>\n<li>The disease having bad prognostic signs. [19-20]</li></ol>",
+            "links": [
+                {
+                    "text": "doshas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Disease caused by the vitiation of all the three doshas",
+                    "links": [
+                        {
+                            "text": "doshas",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                        }
+                    ]
+                },
+                {
+                    "text": "Disease that transcends all therapeutic measures",
+                    "links": []
+                },
+                {
+                    "text": "Diseases that involves all the systems",
+                    "links": []
+                },
+                {
+                    "text": "Disease causing excitement, restlessness and confusion",
+                    "links": []
+                },
+                {
+                    "text": "Disease which affects the sense organs",
+                    "links": []
+                },
+                {
+                    "text": "The affected person is usually weak and the disease is sufficiently advanced, and",
+                    "links": []
+                },
+                {
+                    "text": "The disease having bad prognostic signs. [19-20]",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "h4",
+            "text": "Importance of prognosis",
+            "html": "<h4><span class=\"mw-headline\" id=\"Importance_of_prognosis\">Importance of prognosis</span></h4>",
+            "links": [],
+            "images": [],
+            "level": 4
+        },
+        {
+            "type": "p",
+            "text": "भिषजा प्राक्परीक्ष्यैवं विकाराणां स्वलक्षणम्|\nपश्चात्कर्मसमारम्भः कार्यः साध्येषु धीमता||२१||",
+            "html": "<p>भिषजा प्राक्परीक्ष्यैवं विकाराणां स्वलक्षणम्| \nपश्चात्कर्मसमारम्भः कार्यः साध्येषु धीमता||२१||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "साध्यासाध्यविभागज्ञो यः सम्यक्प्रतिपत्तिमान्|\nन स मैत्रेयतुल्यानां मिथ्याबुद्धिं प्रकल्पयेत्||२२||",
+            "html": "<p>साध्यासाध्यविभागज्ञो यः सम्यक्प्रतिपत्तिमान्| \nन स मैत्रेयतुल्यानां मिथ्याबुद्धिं प्रकल्पयेत्||२२||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "bhiShajAprAkparIkShyaivaMvikArANAMsvalakShaNam|\npashcAtkarmasamArambhaH\nkAryaHsAdhyeShudhImatA||21||",
+            "html": "<p>bhiShajAprAkparIkShyaivaMvikArANAMsvalakShaNam| \npashcAtkarmasamArambhaH\nkAryaHsAdhyeShudhImatA||21|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "sAdhyAsAdhyavibhAgaj~joyaHsamyakpratipattimAn|\nnasamaitreyatulyAnAMmithyAbuddhiMprakalpayet||22||",
+            "html": "<p>sAdhyAsAdhyavibhAgaj~joyaHsamyakpratipattimAn|\nnasamaitreyatulyAnAMmithyAbuddhiMprakalpayet||22||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "A wise physician should examine the distinctive features of the diseases first and then start his treatment (only) of the curable diseases. So a physician who can distinguish between curable and incurable diseases, and who possesses the right applications, will not subscribe to the wrong notions prevailing among pseudo- physicians like Maitreya, and say that he will certainly succeed in curing diseases. [21-22]",
+            "html": "<p>A wise physician should examine the distinctive features of the diseases first and then start his treatment (only) of the curable diseases. So a physician who can distinguish between curable and incurable diseases, and who possesses the right applications, will not subscribe to the wrong notions prevailing among pseudo- physicians like Maitreya, and say that he will certainly succeed in curing diseases. [21-22]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Summary",
+            "html": "<h3><span class=\"mw-headline\" id=\"Summary\">Summary</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "तत्रश्लोकौ-",
+            "html": "<p>तत्रश्लोकौ- \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "इहौषधं पादगुणाः प्रभवो भेषजाश्रयः|\nआत्रेयमैत्रेयमती मतिद्वैविध्यनिश्चयः||२३||",
+            "html": "<p>इहौषधं पादगुणाः प्रभवो भेषजाश्रयः| \nआत्रेयमैत्रेयमती मतिद्वैविध्यनिश्चयः||२३|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "चतुर्विधविकल्पाश्च व्याधयःस्वस्वलक्षणाः|\nउक्ता महाचतुष्पादे येष्वायत्तं भिषग्जितम्||२४||",
+            "html": "<p>चतुर्विधविकल्पाश्च व्याधयःस्वस्वलक्षणाः| \nउक्ता महाचतुष्पादे येष्वायत्तं भिषग्जितम्||२४||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "tatrashlokau-",
+            "html": "<p>tatrashlokau- \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "ihauShadhaMpAdaguNAHprabhavobheShajAshrayaH| AtreyamaitreyamatImatidvaividhyanishcayaH||23||",
+            "html": "<p>ihauShadhaMpAdaguNAHprabhavobheShajAshrayaH| AtreyamaitreyamatImatidvaividhyanishcayaH||23|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "caturvidhavikalpAshcavyAdhayaHsvasvalakShaNAH| uktAmahAcatuShpAdeyeShvAyattaMbhiShagjitam||24||",
+            "html": "<p>caturvidhavikalpAshcavyAdhayaHsvasvalakShaNAH| uktAmahAcatuShpAdeyeShvAyattaMbhiShagjitam||24||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "In brief, therapies, prognostic criteria of the disease and its importance in therapeutics, two different views (in this connection) of Atreya and Maitreya, the conclusion, four types of prognosis of diseases and its characteristics are described in this “Detailed chapter on Therapeutics”. Treatment of diseases depends upon these considerations. [23-24]",
+            "html": "<p>In brief, therapies, prognostic criteria of the disease and its importance in therapeutics, two different views (in this connection) of Atreya and Maitreya,  the conclusion, four types of prognosis of diseases and its characteristics are described in this “Detailed chapter on Therapeutics”. Treatment of diseases depends upon these considerations. [23-24]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "इत्यग्निवेशकृते तन्त्रे चरकप्रतिसंस्कृते श्लोकस्थाने महाचतुष्पादो नाम दशमोऽध्यायः||१०||",
+            "html": "<p>इत्यग्निवेशकृते तन्त्रे चरकप्रतिसंस्कृते श्लोकस्थाने महाचतुष्पादो नाम दशमोऽध्यायः||१०||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "ityagniveshakRutetantrecarakapratisaMskRuteshlokasthAnemahAcatuShpAdonAmadashamo~adhyAyaH||10||",
+            "html": "<p>ityagniveshakRutetantrecarakapratisaMskRuteshlokasthAnemahAcatuShpAdonAmadashamo~adhyAyaH||10||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Thus ends the tenth “Detailed chapter on four important components of the Therapeutics” chapter of Sutra section of Agnivesha’s work as redacted by Charak.[10]",
+            "html": "<p>Thus ends the tenth “Detailed chapter on four important components of the Therapeutics” chapter of Sutra section of Agnivesha’s work as redacted by Charak.[10]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Tattva Vimarsha (Fundamental Principles)",
+            "html": "<h2><span id=\"Tattva_Vimarsha_.28Fundamental_Principles.29\"></span><span class=\"mw-headline\" id=\"Tattva_Vimarsha_(Fundamental_Principles)\">Tattva Vimarsha (Fundamental Principles)</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ol",
+            "text": "Proper administration of therapeutic measures hastens the process of cure in case of curable diseases. Therefore, correct diagnosis and prognosis at the earliest by the physician is important for getting better results with treatment. [5] The treatment should be aimed at restoring physiological equilibrium. The various ways to bring this equilibrium are to increase the depleted nutrients, nourish those who are weak and emaciated, and reduce the one who are obese, those afflicted by heat with cooling measures and those afflicted by cold with heating measures. Proper measures to replenish the deficient dhatus (tissue elements, doshas and malas ) and deplete those that are in excess should be adopted. Thus these therapeutic measures give us the best result in the management of diseases. [6]The diseases can be categorized under four types on the basis of their prognosis viz. Easily curable, Curable with some difficulty, Palliable and Absolutely irreversible or incurable. [9-10] The following factors should be considered to determine prognosis of disease [ 11-20]",
+            "html": "<ol><li>Proper administration of therapeutic measures hastens the process of cure in case of curable diseases. Therefore, correct diagnosis and prognosis at the earliest by the physician is important for getting better results with treatment. [5]</li>\n<li>The treatment should be aimed at restoring physiological equilibrium. The various ways to bring this equilibrium are to increase the depleted nutrients, nourish those who are weak and emaciated, and reduce the one who are obese, those afflicted by heat with cooling measures and those afflicted by cold with heating measures. Proper measures to replenish the deficient <a href=\"/index.php?title=Dhatu\" title=\"Dhatu\">dhatus</a> (tissue elements, <a href=\"/index.php?title=Dosha\" title=\"Dosha\">doshas</a> and <a href=\"/index.php?title=Mala\" title=\"Mala\">malas</a>) and deplete those that are in excess should be adopted. Thus these therapeutic measures give us the best result in the management of diseases. [6]The diseases can be categorized under four types on the basis of their prognosis viz.</li>\n<li>Easily curable,</li>\n<li>Curable with some difficulty,</li>\n<li>Palliable and</li>\n<li>Absolutely irreversible or incurable. [9-10]</li>\n<li>The following factors should be considered to determine prognosis of disease [ 11-20]</li></ol>",
+            "links": [
+                {
+                    "text": "dhatus",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu"
+                },
+                {
+                    "text": "doshas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "malas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mala"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Proper administration of therapeutic measures hastens the process of cure in case of curable diseases. Therefore, correct diagnosis and prognosis at the earliest by the physician is important for getting better results with treatment. [5]",
+                    "links": []
+                },
+                {
+                    "text": "The treatment should be aimed at restoring physiological equilibrium. The various ways to bring this equilibrium are to increase the depleted nutrients, nourish those who are weak and emaciated, and reduce the one who are obese, those afflicted by heat with cooling measures and those afflicted by cold with heating measures. Proper measures to replenish the deficient dhatus (tissue elements, doshas and malas ) and deplete those that are in excess should be adopted. Thus these therapeutic measures give us the best result in the management of diseases. [6]The diseases can be categorized under four types on the basis of their prognosis viz.",
+                    "links": [
+                        {
+                            "text": "dhatus",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu"
+                        },
+                        {
+                            "text": "doshas",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                        },
+                        {
+                            "text": "malas",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Mala"
+                        }
+                    ]
+                },
+                {
+                    "text": "Easily curable,",
+                    "links": []
+                },
+                {
+                    "text": "Curable with some difficulty,",
+                    "links": []
+                },
+                {
+                    "text": "Palliable and",
+                    "links": []
+                },
+                {
+                    "text": "Absolutely irreversible or incurable. [9-10]",
+                    "links": []
+                },
+                {
+                    "text": "The following factors should be considered to determine prognosis of disease [ 11-20]",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Table 1: Factors affecting prognosis of disease",
+            "html": "<p><b>Table 1: Factors affecting prognosis of disease</b>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "Factors/criteria",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "th",
+                        "text": "Curable",
+                        "rowspan": 1,
+                        "colspan": 2,
+                        "links": []
+                    },
+                    {
+                        "type": "th",
+                        "text": "Incurable",
+                        "rowspan": 1,
+                        "colspan": 2,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "th",
+                        "text": "Easily curable",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "th",
+                        "text": "Curable with difficulty",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "th",
+                        "text": "Palliable",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "th",
+                        "text": "Absolutely incurable",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Causative factors",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Less",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "More",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "More",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "All",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Premonitory signs",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Less",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "More",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "More",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "All",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Severity of signs/ symptoms",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Mild",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Moderate",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Severe",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Severe and advanced stages",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Dosha involved in disease",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Dosha",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Opposite to one’s Prakriti [constitution]",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Prakriti",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Same as of Prakriti /favorable to disease",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Prakriti",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Same as of Prakriti /favorable to disease",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Prakriti",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Same as of Prakriti /favorable to disease",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Prakriti",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Dushya [body tissues affected]",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Dushya",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Dushya"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Opposite to one’s Prakriti [constitution]",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Prakriti",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Same as of Prakriti /favorable to disease",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Prakriti",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Same as of Prakriti /favorable to disease",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Prakriti",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Many tissues, deep seated and Favorable to disease",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Place of living of patient",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Opposite to one’s Prakriti [constitution]",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Prakriti",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Same as of Prakriti /favorable to disease",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Prakriti",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Same as of Prakriti /favorable to disease",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Prakriti",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Same as of Prakriti /favorable to disease",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Prakriti",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Season/ time of affection /Age",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Opposite to one’s Prakriti [constitution]",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Prakriti",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Same as of Prakriti /favorable to disease",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Prakriti",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Same as of Prakriti /favorable to disease",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Prakriti",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Same as of Prakriti /favorable to disease",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Prakriti",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Movement of dosha",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "dosha",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "One sided",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Two sided",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Many ways for movements",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "All ways for movements/all systems involved",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Duration of onset",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "New onset",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Chronic, but still recent",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Very chronic and continuously affecting the patient",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Very chronic and continuously affecting the patient",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Complications",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "No",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Minor/less complications",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Many complications",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Many complications with bad prognostic signs",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Number of involved Dosha",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Dosha",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "One",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Two",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Two",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Three",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Body",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Can tolerate all medicines",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Occurred in pregnancy, children, old age",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Affecting vital organs, major joints",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Weak body, Affecting vital organs, major joints",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Nature of treatment",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Medicines",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Surgical/ agni/ kshara",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Continuous treatment needed",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "transcend all therapeutic measures",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Four pillars of management /patients nature",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "With all qualities of physician, patient, nurse and medicines available",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Not with all qualities",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "The patient lives, get relief for some time after following wholesome regimen and the disease gets triggered after a little exposure to causative factors also",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "All senses of patients are affected, signs like undue excitement, restlessness, confused state of mind with bad prognostic signs",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ]
+            ],
+            "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th rowspan=\"1\">Factors/criteria\n</th>\n<th colspan=\"2\">Curable\n</th>\n<th colspan=\"2\">Incurable\n</th></tr>\n<tr>\n<th></th>\n<th>Easily curable</th>\n<th>Curable with difficulty</th>\n<th>Palliable</th>\n<th>Absolutely incurable\n</th></tr>\n<tr>\n<td>Causative factors</td>\n<td>Less</td>\n<td>More</td>\n<td>More</td>\n<td>All\n</td></tr>\n<tr>\n<td>Premonitory signs</td>\n<td>Less</td>\n<td>More</td>\n<td>More</td>\n<td>All\n</td></tr>\n<tr>\n<td>Severity of signs/ symptoms</td>\n<td>Mild</td>\n<td>Moderate</td>\n<td>Severe</td>\n<td>Severe and advanced stages\n</td></tr>\n<tr>\n<td><i><a href=\"/index.php?title=Dosha\" title=\"Dosha\">Dosha</a></i>  involved in disease</td>\n<td>Opposite to one’s <i><a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">Prakriti</a></i> [constitution]</td>\n<td>Same as of <i><a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">Prakriti</a></i> /favorable to disease</td>\n<td>Same as of <i><a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">Prakriti</a></i> /favorable to disease</td>\n<td>Same as of <i><a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">Prakriti</a></i> /favorable to disease\n</td></tr>\n<tr>\n<td><i><a href=\"/index.php?title=Dushya\" title=\"Dushya\">Dushya</a></i> [body tissues affected]</td>\n<td>Opposite to one’s <i><a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">Prakriti</a></i> [constitution]</td>\n<td>Same as of <i><a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">Prakriti</a></i> /favorable to disease</td>\n<td>Same as of <i><a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">Prakriti</a></i> /favorable to disease</td>\n<td>Many tissues, deep seated and Favorable to disease\n</td></tr>\n<tr>\n<td>Place of living of patient</td>\n<td>Opposite to one’s <i><a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">Prakriti</a></i> [constitution]</td>\n<td>Same as of <i><a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">Prakriti</a></i> /favorable to disease</td>\n<td>Same as of <i><a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">Prakriti</a></i> /favorable to disease</td>\n<td>Same as of <i><a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">Prakriti</a></i> /favorable to disease\n</td></tr>\n<tr>\n<td>Season/ time of affection /Age</td>\n<td>Opposite to one’s <i><a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">Prakriti</a></i> [constitution]</td>\n<td>Same as of <i><a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">Prakriti</a></i> /favorable to disease</td>\n<td>Same as of <i><a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">Prakriti</a></i> /favorable to disease</td>\n<td>Same as of <i><a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">Prakriti</a></i> /favorable to disease\n</td></tr>\n<tr>\n<td>Movement of <i><a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a></i></td>\n<td>One sided</td>\n<td>Two sided</td>\n<td>Many ways for movements</td>\n<td>All ways for movements/all systems involved\n</td></tr>\n<tr>\n<td>Duration of onset</td>\n<td>New onset</td>\n<td>Chronic, but still recent</td>\n<td>Very chronic and continuously affecting the patient</td>\n<td>Very chronic and continuously affecting the patient\n</td></tr>\n<tr>\n<td>Complications</td>\n<td>No</td>\n<td>Minor/less complications</td>\n<td>Many complications</td>\n<td>Many complications with bad prognostic signs\n</td></tr>\n<tr>\n<td>Number of involved <a href=\"/index.php?title=Dosha\" title=\"Dosha\">Dosha</a></td>\n<td>One</td>\n<td>Two</td>\n<td>Two</td>\n<td>Three\n</td></tr>\n<tr>\n<td>Body</td>\n<td>Can tolerate all medicines</td>\n<td>Occurred in pregnancy, children, old age</td>\n<td>Affecting vital organs, major joints</td>\n<td>Weak body, Affecting vital organs, major joints\n</td></tr>\n<tr>\n<td>Nature of treatment</td>\n<td>Medicines</td>\n<td>Surgical/ <i>agni/ kshara</i></td>\n<td>Continuous treatment needed</td>\n<td>transcend all therapeutic measures\n</td></tr>\n<tr>\n<td>Four pillars of management /patients nature</td>\n<td>With all qualities of physician, patient, nurse and medicines available</td>\n<td>Not with all qualities</td>\n<td>The patient lives, get relief for some time after following wholesome regimen and the disease gets triggered after a little exposure to causative factors also</td>\n<td>All senses of patients are affected, signs like undue excitement, restlessness, confused state of mind with  bad prognostic signs\n</td></tr>\n</tbody></table>",
+            "links": [
+                {
+                    "text": "Dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "Prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "Prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "Prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "Prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "Dushya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dushya"
+                },
+                {
+                    "text": "Prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "Prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "Prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "Prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "Prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "Prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "Prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "Prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "Prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "Prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "Prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "Dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "A wise physician should always consider above factors to determine prognosis of a disease and then start treatment. [21]",
+            "html": "<p>A wise physician should always consider above factors to determine prognosis of a disease and then start treatment. [21]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Vidhi Vimarsha (Applied Inferences)",
+            "html": "<h2><span id=\"Vidhi_Vimarsha_.28Applied_Inferences.29\"></span><span class=\"mw-headline\" id=\"Vidhi_Vimarsha_(Applied_Inferences)\">Vidhi Vimarsha (Applied Inferences)</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "h3",
+            "text": "Contemporary approach",
+            "html": "<h3><span class=\"mw-headline\" id=\"Contemporary_approach\">Contemporary approach</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "In the contemporary medical system, the curable and incurable signs and symptoms of diseases are well understood but the criteria for deciding the prognosis are different than Ayurveda . There is availability of advanced technology in the form of imaging, biochemical, immunological, molecular and genetic studies etc. for diagnosis and assessment of prognostic factors of diseases.\nInspite of such sophisticated tools, prognostic criteria are limited to diseases only. Overdependence on these studies has caused enormous increase in the cost of medical care. On the other hand, assessment of prognostic criteria of Ayurveda based on understanding Prakriti (body type) with dosha , dhatu , mala , agni , and indriya are for both health and disease. These are entirely clinical and fairly accurate depending upon the clinical acumen of Ayurvedic physician. The concept of personalized medicine known to modern medicine is very limited at this time and is helpful in certain cancers and genetic diseases only. In future, it will be helpful to use a combination of prognostic criteria of both systems to provide better care at less expense.",
+            "html": "<p>In the contemporary medical system, the curable and incurable signs and symptoms of diseases are well understood but the criteria for deciding the prognosis are different than <a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a>. There is availability of advanced technology in the form of imaging, biochemical, immunological, molecular and genetic studies etc. for diagnosis and assessment of prognostic factors of diseases.\nInspite of such sophisticated tools, prognostic criteria are limited to diseases only. Overdependence on these studies has caused enormous increase in the cost of medical care. On the other hand, assessment of prognostic criteria of <a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a> based on understanding <i><a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">Prakriti</a></i> (body type) with <i><a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a>, <a href=\"/index.php?title=Dhatu\" title=\"Dhatu\">dhatu</a>, <a href=\"/index.php?title=Mala\" title=\"Mala\">mala</a>, <a href=\"/index.php?title=Agni\" title=\"Agni\">agni</a>,</i> and <i><a href=\"/index.php?title=Indriya\" title=\"Indriya\">indriya</a></i> are for both health and disease. These are entirely clinical and fairly accurate depending upon the clinical acumen of Ayurvedic physician. The concept of personalized medicine known to modern medicine is very limited at this time and is helpful in certain cancers and genetic diseases only. In future, it will be helpful to use a combination of prognostic criteria of both systems to provide better care at less expense.\n</p>",
+            "links": [
+                {
+                    "text": "Ayurveda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayurveda"
+                },
+                {
+                    "text": "Ayurveda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayurveda"
+                },
+                {
+                    "text": "Prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu"
+                },
+                {
+                    "text": "mala",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mala"
+                },
+                {
+                    "text": "agni",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni"
+                },
+                {
+                    "text": "indriya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Medical model and healthcare system",
+            "html": "<h3><span class=\"mw-headline\" id=\"Medical_model_and_healthcare_system\">Medical model and healthcare system</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "In 1971, the famous psychiatrist R.D. Laing coined a term ‘Medical model’ in his book “The Politics of the Family and Other Essays”, for the set of procedures in which all doctors are trained. This set includes complaint, history, physical examination, ancillary tests if needed for making diagnosis, treatment, and prognosis. [ 1 ] The medical model has proven highly successful, and even indispensable, in many contexts. The concepts of \"disease\" and \"injury\" are central to this model. An important aspect of the medical model is its focus on the identification of pathology of disease and an attempt to remove or control it (offense strategy). There is less attention paid to the capability of human body to heal itself or understanding what health is and ways to preserve, protect and rejuvenate health. That is why there is no defense strategy in modern medical system to prevent disease. There are vaccinations to prevent certain known infectious diseases and address mitigating factors causing chronic diseases, such as ischemic heart disease. That appears to be the reason for increasing incidences of autoimmune and degenerative diseases. [ 2 ]",
+            "html": "<p>In 1971, the famous psychiatrist R.D. Laing coined a term ‘Medical model’ in his book “The Politics of the Family and Other Essays”, for the set of procedures in which all doctors are trained. This set includes complaint, history, physical examination, ancillary tests if needed for making diagnosis, treatment, and prognosis. <sup class=\"reference\" id=\"cite_ref-1\"><a href=\"#cite_note-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup> The medical model has proven highly successful, and even indispensable, in many contexts. The concepts of \"disease\" and \"injury\" are central to this model. An important aspect of the medical model is its focus on the identification of pathology of disease and an attempt to remove or control it (offense strategy). There is less attention paid to the capability of human body to heal itself or understanding what health is and ways to preserve, protect and rejuvenate health. That is why there is no defense strategy in modern medical system to prevent disease. There are vaccinations to prevent certain known infectious diseases and address mitigating factors causing chronic diseases, such as ischemic heart disease. That appears to be the reason for increasing incidences of autoimmune and degenerative diseases.<sup class=\"reference\" id=\"cite_ref-2\"><a href=\"#cite_note-2\"><span class=\"cite-bracket\">[</span>2<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 1 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#cite_note-1"
+                },
+                {
+                    "text": "[ 2 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#cite_note-2"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The rules and ethics that governed the medical system in ancient times remain the same even today. A step ahead of the contemporary classification of diseases, Ayurveda advocates the classification of diseases on the basis of prognosis before applying therapeutic measures as the basis of treatment for restoration of health.\nThere are many diseases that are still incurable and according to medical ethics, it is essential to give proper information to the patient regarding diagnosis, management, and prognosis. Withholding the truth or giving wrong assurance is unethical and punishable. Thus, one should ascertain the prognosis of disease before proceeding with any course of treatment and then share the outcome with the patient.",
+            "html": "<p>The rules and ethics that governed the medical system in ancient times remain the same even today. A step ahead of the contemporary classification of diseases, <a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a> advocates the classification of diseases on the basis of prognosis before applying therapeutic measures as the basis of treatment for restoration of health. \nThere are many diseases that are still incurable and according to medical ethics, it is essential to give proper information to the patient regarding diagnosis, management, and prognosis. Withholding the truth or giving wrong assurance is unethical and punishable. Thus, one should ascertain the prognosis of disease before proceeding with any course of treatment and then share the outcome with the patient.\n</p>",
+            "links": [
+                {
+                    "text": "Ayurveda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayurveda"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Changes in prognosis with advanced medical care",
+            "html": "<h3><span class=\"mw-headline\" id=\"Changes_in_prognosis_with_advanced_medical_care\">Changes in prognosis with advanced medical care</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Ayurveda holds the view that some diseases are incurable right from the beginning and also provides the details of the factors that cause such diseases. Therefore, it is irrational to apply therapeutic measures for such diseases. However, research shows that incurable diseases such as type-1 Diabetes mellitus (resembling with Vataja prameha) can become less severe with treatment factoring in all prognosis outcomes.",
+            "html": "<p><a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a> holds the view that some diseases are incurable right from the beginning and also provides the details of the factors that cause such diseases. Therefore, it is irrational to apply therapeutic measures for such diseases. However, research shows that incurable diseases such as  type-1 Diabetes mellitus (resembling with Vataja prameha) can become less severe with treatment factoring in all prognosis outcomes. \n</p>",
+            "links": [
+                {
+                    "text": "Ayurveda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayurveda"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Type-1 diabetes meets all the criteria described above for incurability, like vitiation of all three doshas , affliction of ten dushyas with the nature of involved dosha and dushya are same ( kapha dosha and meda dushya ) along with Prakriti compatibility of patient (predominance in kaphaja prakriti , like in an obese patient). Again due to genetic predisposition, [[kapha] loses its natural characteristics, becoming liquefied and losing its usual properties. There is vitiation of vata dosha due to depletion of all dhatus , especially oja (the ultimate resultant of all seven dhatu metabolism). The pathogenesis of the disease starts with the admixture of vitiated kapha and meda and progression successively to involve other dhatus like mamsa , kleda etc. The dhatus are depleted so quickly that the body is unable to replenish it, ultimately leading to death. Thus, Diabetes Mellitus, is not merely a disease but a syndrome, proves to be fatal due to many complications like diabetic neuropathy, nephropathy, microangiopathy, cardiomyopathy, retinopathy, skin complications, as well as emergency crises such as hypoglycemic shock and diabetic ketoacidosis. There is successive involvement of all body tissues involving connective tissues, nerve tissues, muscle tissue etc, leading to severe depletion of insulin due to autoimmune degeneration of beta pancreatic cells. Genetic abnormalities cause impaired glucose, lipid and protein metabolism. Type-1 diabetes mellitus is an autoimmune disorder and destruction of body tissues by autoantibody is very fast causing loss of immune- intolerance and immune-component ( oja ) thus impairing body defense mechanism. There is disturbance in production and clearance of lipoprotein causing hampered functioning of insulin resulting in hyperglycemia and producing microvascular complications like retinopathy and nephropathy. However, for macrovascular complications, including neuropathy, pathogenesis starts before the onset of diabetes i.e. at the stage of lipid abnormalities. These factors make Type 1 Diabetes mellitus difficult to treat. The treatment consists of life-long insulin replacement by exogenous insulin. This is an example of an incurable disease although there is a lot of research work going on to find an effective remedy for this ailment.",
+            "html": "<p>Type-1 diabetes meets all the criteria described above for incurability, like vitiation of all three <i><a href=\"/index.php?title=Dosha\" title=\"Dosha\">doshas</a></i>, affliction of ten <i><a href=\"/index.php?title=Dushya\" title=\"Dushya\">dushyas</a></i> with the nature of involved <i><a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a></i> and <i><a href=\"/index.php?title=Dushya\" title=\"Dushya\">dushya</a></i> are same (<i><a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a> <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a></i> and <i><a href=\"/index.php?title=Meda\" title=\"Meda\">meda</a> <a href=\"/index.php?title=Dushya\" title=\"Dushya\">dushya</a></i>) along with <i><a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">Prakriti</a></i> compatibility of patient (predominance in <i>kaphaja <a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">prakriti</a></i>, like in an obese patient). Again due to genetic predisposition, <i>[[kapha]</i> loses its natural characteristics, becoming liquefied and  losing its usual properties. There is vitiation of <i><a href=\"/index.php?title=Vata_dosha\" title=\"Vata dosha\">vata dosha</a></i> due to depletion of all <i><a href=\"/index.php?title=Dhatu\" title=\"Dhatu\">dhatus</a></i>, especially <i><a class=\"mw-redirect\" href=\"/index.php?title=Oja\" title=\"Oja\">oja</a></i> (the ultimate resultant of all seven <i><a href=\"/index.php?title=Dhatu\" title=\"Dhatu\">dhatu</a></i> metabolism). The pathogenesis of the disease starts with the admixture of vitiated <i><a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a></i> and <i><a href=\"/index.php?title=Meda\" title=\"Meda\">meda</a></i> and progression successively to involve other <i><a href=\"/index.php?title=Dhatu\" title=\"Dhatu\">dhatus</a></i> like <i><a class=\"mw-redirect\" href=\"/index.php?title=Mamsa\" title=\"Mamsa\">mamsa</a>, <a href=\"/index.php?title=Kleda\" title=\"Kleda\">kleda</a></i> etc. The <i><a href=\"/index.php?title=Dhatu\" title=\"Dhatu\">dhatus</a></i> are depleted so quickly that the body is unable to replenish it, ultimately leading to death. Thus, Diabetes Mellitus, is not merely a disease but a syndrome, proves to be fatal due to many complications like diabetic neuropathy, nephropathy, microangiopathy, cardiomyopathy, retinopathy, skin complications, as well as emergency crises such as hypoglycemic shock and diabetic ketoacidosis. There is successive involvement of all body tissues involving connective tissues, nerve tissues, muscle tissue etc, leading to severe depletion of insulin due to autoimmune degeneration of beta pancreatic cells. Genetic abnormalities cause impaired glucose, lipid and protein metabolism. Type-1 diabetes mellitus is an autoimmune disorder and destruction of body tissues by autoantibody is very fast causing loss of immune- intolerance and immune-component (<i><a class=\"mw-redirect\" href=\"/index.php?title=Oja\" title=\"Oja\">oja</a></i>) thus impairing body defense mechanism. There is disturbance in production and clearance of lipoprotein causing hampered functioning of insulin resulting in hyperglycemia and producing microvascular complications like retinopathy and nephropathy. However, for macrovascular complications, including neuropathy, pathogenesis starts before the onset of diabetes i.e. at the stage of lipid abnormalities. These factors make Type 1 Diabetes mellitus difficult to treat. The treatment consists of life-long insulin replacement by exogenous insulin. This is an example of an incurable disease although there is a lot of research work going on to find an effective remedy for this ailment. \n</p>",
+            "links": [
+                {
+                    "text": "doshas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "dushyas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dushya"
+                },
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "dushya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dushya"
+                },
+                {
+                    "text": "kapha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kapha"
+                },
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "meda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Meda"
+                },
+                {
+                    "text": "dushya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dushya"
+                },
+                {
+                    "text": "Prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "vata dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vata_dosha"
+                },
+                {
+                    "text": "dhatus",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu"
+                },
+                {
+                    "text": "oja",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Oja"
+                },
+                {
+                    "text": "dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu"
+                },
+                {
+                    "text": "kapha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kapha"
+                },
+                {
+                    "text": "meda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Meda"
+                },
+                {
+                    "text": "dhatus",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu"
+                },
+                {
+                    "text": "mamsa",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mamsa"
+                },
+                {
+                    "text": "kleda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kleda"
+                },
+                {
+                    "text": "dhatus",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu"
+                },
+                {
+                    "text": "oja",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Oja"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Recent research has shown some herbs have effect on beta pancreatic cells to induce endogenous insulin production. Meshashringi (Gymnema Sylvester (Retz.) R.Br.; Gurmar) Kutaki (Picrorrhiza kurroa) [ 3 ] , Kiratatikta (Swertia chirata (Roxb.) Buch.-Hum [ 4 ] [ 5 ] , Mamejjaka (Enicostema littorale Blume) [ 6 ] [ 7 ] and Pterocarpus marsupium [ 8 ] [ 9 ] have proven to reduce blood glucose levels by modifying the prognostic factors of type 1 diabetes in experimental animals. Thus yearly detection and treatment of an incurable disorder like diabetes mellitus, by means of addressing prognostic factors at an early stage of disease, may prevent the progression of the ailment further into becoming incurable.",
+            "html": "<p>Recent research has shown some herbs have effect on beta pancreatic cells to induce endogenous insulin production. <i>Meshashringi</i> (Gymnema Sylvester (Retz.) R.Br.; Gurmar) <i>Kutaki</i> (Picrorrhiza kurroa)<sup class=\"reference\" id=\"cite_ref-3\"><a href=\"#cite_note-3\"><span class=\"cite-bracket\">[</span>3<span class=\"cite-bracket\">]</span></a></sup>,<i>Kiratatikta</i> (Swertia chirata (Roxb.) Buch.-Hum <sup class=\"reference\" id=\"cite_ref-4\"><a href=\"#cite_note-4\"><span class=\"cite-bracket\">[</span>4<span class=\"cite-bracket\">]</span></a></sup> <sup class=\"reference\" id=\"cite_ref-5\"><a href=\"#cite_note-5\"><span class=\"cite-bracket\">[</span>5<span class=\"cite-bracket\">]</span></a></sup>, <i>Mamejjaka</i> (Enicostema littorale Blume)<sup class=\"reference\" id=\"cite_ref-6\"><a href=\"#cite_note-6\"><span class=\"cite-bracket\">[</span>6<span class=\"cite-bracket\">]</span></a></sup> <sup class=\"reference\" id=\"cite_ref-7\"><a href=\"#cite_note-7\"><span class=\"cite-bracket\">[</span>7<span class=\"cite-bracket\">]</span></a></sup>and Pterocarpus marsupium <sup class=\"reference\" id=\"cite_ref-8\"><a href=\"#cite_note-8\"><span class=\"cite-bracket\">[</span>8<span class=\"cite-bracket\">]</span></a></sup> <sup class=\"reference\" id=\"cite_ref-9\"><a href=\"#cite_note-9\"><span class=\"cite-bracket\">[</span>9<span class=\"cite-bracket\">]</span></a></sup>have proven to reduce blood glucose levels by modifying the prognostic factors of type 1 diabetes in experimental animals. Thus yearly detection and treatment of an incurable disorder like diabetes mellitus, by means of addressing prognostic factors at an early stage of disease, may prevent the progression of the ailment further into becoming incurable. \n</p>",
+            "links": [
+                {
+                    "text": "[ 3 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#cite_note-3"
+                },
+                {
+                    "text": "[ 4 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#cite_note-4"
+                },
+                {
+                    "text": "[ 5 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#cite_note-5"
+                },
+                {
+                    "text": "[ 6 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#cite_note-6"
+                },
+                {
+                    "text": "[ 7 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#cite_note-7"
+                },
+                {
+                    "text": "[ 8 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#cite_note-8"
+                },
+                {
+                    "text": "[ 9 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#cite_note-9"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "This chapter has emphasized the importance of understanding the prognosis of diseases and the factors causing them. Recent research in the field of Ayurveda has shown that incurable diseases can be controlled by addressing the prognostic factors and there is a need for both Ayurveda and contemporary medicine researchers to work together.",
+            "html": "<p>This chapter has emphasized the importance of understanding the prognosis of diseases and the factors causing them. Recent research in the field of <a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a> has shown that incurable diseases can be controlled by addressing the prognostic factors and there is a need for both  <a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a> and contemporary medicine researchers to work together.\n</p>",
+            "links": [
+                {
+                    "text": "Ayurveda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayurveda"
+                },
+                {
+                    "text": "Ayurveda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayurveda"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Future scope for research",
+            "html": "<h2><span class=\"mw-headline\" id=\"Future_scope_for_research\">Future scope for research</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ol",
+            "text": "Research studies should be conducted to assess the impact of modern medical facilities , geared with sophisticated medical infrastructure, skilled nursing staff, and features to handle emergency services, in controlling the mortality and morbidity of a disease. Data can be collected to estimate the usefulness as well as limitations of therapeutics in the management of curable and incurable diseases.",
+            "html": "<ol><li>Research studies should be conducted to assess the impact of modern medical facilities , geared with sophisticated medical infrastructure, skilled nursing staff, and features to handle emergency services,  in controlling the mortality and morbidity of a disease.</li>\n<li>Data can be collected to estimate the usefulness as well as limitations of therapeutics in the management of curable and incurable diseases.</li></ol>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Research studies should be conducted to assess the impact of modern medical facilities , geared with sophisticated medical infrastructure, skilled nursing staff, and features to handle emergency services, in controlling the mortality and morbidity of a disease.",
+                    "links": []
+                },
+                {
+                    "text": "Data can be collected to estimate the usefulness as well as limitations of therapeutics in the management of curable and incurable diseases.",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Send us your suggestions and feedback on this page.",
+            "html": "<p><big><b><a href=\"/index.php?title=Special:ContactMe\" title=\"Special:ContactMe\">Send us your suggestions and feedback on this page.</a></b></big>\n</p>",
+            "links": [
+                {
+                    "text": "Send us your suggestions and feedback on this page.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Special:ContactMe"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "References",
+            "html": "<h2><span class=\"mw-headline\" id=\"References\">References</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ol",
+            "text": "↑ Laing, Ronald (1971). The Politics of the Family and Other Essays. Routledge. ↑ Basisht GK. Symbiohealth-Need of the hour. AYU [serial online] 2011 [cited 2016 Jun 1];32:6-11. Available from: http://www.ayujournal.org/text.asp?2011/32/1/6/85715 ↑ Joy KL, Kuttan R. Anti-diabetic activity of Picrorrhiza kurroa extract.J Ethnopharmacol. 1999 Nov 1;67(2):143-8. ↑ Bajpai M, Asthana RK, Sharma NK, et al. Hypoglycemic effect of swerchirin from the hexane fraction of Swertia chirayita. Plant Med 1991; 57: 102-104. ↑ Saxena AM, Bajpai MB, Murthy PS, Mukherjee SK. Swerchirin induced blood sugar lowering of streptozotocin treated hypoglycemic rats. Indian J Exp Biol 1993; 31:178-181. ↑ Upadhyay UM, Goyal RK. Efficacy of Enicostemma littorale in type-2 diabetic patients. Phytother Res 2004; 18:233-235. ↑ Prince PS, Srinivasan M. Enicostemma littorale Blume aqueous extract improves the antioxidant status in alloxan induced diabetic rat tissues. Acta Pol Pharm 2005; 62: 363-367. ↑ Kirana Halagappa, H.N. Girish, B.P. Srinivasan. The study of aqueous extract of Pterocarpus marsupium Roxb. on cytokine TNF-α in type 2 diabetic rats. Indian J Pharmacol. 2010; 42(6): 392–396. ↑ Ahmad, F., Khalid, P., Khan, M.M., Rastogi, A.K., Kidwai J.R. Insulin-like activity in epicatechin. Acta. Diabetol. Lat. 1989. 26; 291-300.",
+            "html": "<ol class=\"references\">\n<li id=\"cite_note-1\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-1\">↑</a></span> <span class=\"reference-text\"> Laing, Ronald (1971). The Politics of the Family and Other Essays. Routledge. </span>\n</li>\n<li id=\"cite_note-2\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-2\">↑</a></span> <span class=\"reference-text\">Basisht GK. Symbiohealth-Need of the hour. AYU [serial online] 2011 [cited 2016 Jun 1];32:6-11. Available from: <a class=\"external free\" href=\"http://www.ayujournal.org/text.asp?2011/32/1/6/85715\" rel=\"nofollow\">http://www.ayujournal.org/text.asp?2011/32/1/6/85715</a> </span>\n</li>\n<li id=\"cite_note-3\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-3\">↑</a></span> <span class=\"reference-text\">Joy KL, Kuttan R. Anti-diabetic activity of Picrorrhiza kurroa extract.J Ethnopharmacol. 1999 Nov 1;67(2):143-8. </span>\n</li>\n<li id=\"cite_note-4\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-4\">↑</a></span> <span class=\"reference-text\">Bajpai M, Asthana RK, Sharma NK, et al. Hypoglycemic effect of swerchirin from the hexane fraction of Swertia chirayita. Plant Med 1991; 57: 102-104. </span>\n</li>\n<li id=\"cite_note-5\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-5\">↑</a></span> <span class=\"reference-text\">Saxena AM, Bajpai MB, Murthy PS, Mukherjee SK. Swerchirin induced  blood sugar lowering of streptozotocin treated hypoglycemic rats. Indian J Exp Biol 1993; 31:178-181.</span>\n</li>\n<li id=\"cite_note-6\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-6\">↑</a></span> <span class=\"reference-text\">Upadhyay UM, Goyal RK. Efficacy of Enicostemma littorale in type-2 diabetic patients. Phytother Res 2004; 18:233-235. </span>\n</li>\n<li id=\"cite_note-7\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-7\">↑</a></span> <span class=\"reference-text\">Prince PS, Srinivasan M. Enicostemma littorale Blume aqueous extract improves the antioxidant status in alloxan induced diabetic rat tissues. Acta Pol Pharm 2005; 62: 363-367. </span>\n</li>\n<li id=\"cite_note-8\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-8\">↑</a></span> <span class=\"reference-text\">Kirana Halagappa, H.N. Girish,  B.P. Srinivasan. The study of aqueous extract of Pterocarpus marsupium Roxb. on cytokine TNF-α in type 2 diabetic rats.  Indian J Pharmacol. 2010; 42(6): 392–396. </span>\n</li>\n<li id=\"cite_note-9\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-9\">↑</a></span> <span class=\"reference-text\">Ahmad, F., Khalid, P., Khan, M.M., Rastogi, A.K., Kidwai J.R. Insulin-like activity in epicatechin. Acta. Diabetol. Lat. 1989. 26; 291-300. </span>\n</li>\n</ol>",
+            "links": [
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#cite_ref-1"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#cite_ref-2"
+                },
+                {
+                    "text": "http://www.ayujournal.org/text.asp?2011/32/1/6/85715",
+                    "url": "http://www.ayujournal.org/text.asp?2011/32/1/6/85715"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#cite_ref-3"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#cite_ref-4"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#cite_ref-5"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#cite_ref-6"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#cite_ref-7"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#cite_ref-8"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#cite_ref-9"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "↑ Laing, Ronald (1971). The Politics of the Family and Other Essays. Routledge.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#cite_ref-1"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Basisht GK. Symbiohealth-Need of the hour. AYU [serial online] 2011 [cited 2016 Jun 1];32:6-11. Available from: http://www.ayujournal.org/text.asp?2011/32/1/6/85715",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#cite_ref-2"
+                        },
+                        {
+                            "text": "http://www.ayujournal.org/text.asp?2011/32/1/6/85715",
+                            "url": "http://www.ayujournal.org/text.asp?2011/32/1/6/85715"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Joy KL, Kuttan R. Anti-diabetic activity of Picrorrhiza kurroa extract.J Ethnopharmacol. 1999 Nov 1;67(2):143-8.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#cite_ref-3"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Bajpai M, Asthana RK, Sharma NK, et al. Hypoglycemic effect of swerchirin from the hexane fraction of Swertia chirayita. Plant Med 1991; 57: 102-104.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#cite_ref-4"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Saxena AM, Bajpai MB, Murthy PS, Mukherjee SK. Swerchirin induced blood sugar lowering of streptozotocin treated hypoglycemic rats. Indian J Exp Biol 1993; 31:178-181.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#cite_ref-5"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Upadhyay UM, Goyal RK. Efficacy of Enicostemma littorale in type-2 diabetic patients. Phytother Res 2004; 18:233-235.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#cite_ref-6"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Prince PS, Srinivasan M. Enicostemma littorale Blume aqueous extract improves the antioxidant status in alloxan induced diabetic rat tissues. Acta Pol Pharm 2005; 62: 363-367.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#cite_ref-7"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Kirana Halagappa, H.N. Girish, B.P. Srinivasan. The study of aqueous extract of Pterocarpus marsupium Roxb. on cytokine TNF-α in type 2 diabetic rats. Indian J Pharmacol. 2010; 42(6): 392–396.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#cite_ref-8"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Ahmad, F., Khalid, P., Khan, M.M., Rastogi, A.K., Kidwai J.R. Insulin-like activity in epicatechin. Acta. Diabetol. Lat. 1989. 26; 291-300.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya#cite_ref-9"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "text": "Back to the Top"
+        },
+        {
+            "type": "text",
+            "text": "NewPP limit report\nCached time: 20261102083024\nCache expiry: 86400\nReduced expiry: false\nComplications: [vary‐revision‐id, show‐toc]\nCPU time usage: 0.108 seconds\nReal time usage: 0.256 seconds\nPreprocessor visited node count: 365/1000000\nPost‐expand include size: 2635/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 3/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 4097/5000000 bytes\nLua time usage: 0.130/7 seconds\nLua virtual size: 20484096/209715200 bytes\nLua estimated memory usage: 0 bytes"
+        },
+        {
+            "type": "text",
+            "text": "Transclusion expansion time report (%,ms,calls,template)\n100.00% 219.523 1 -total\n94.40% 207.229 1 Template:Infobox\n0.91% 1.993 1 Template:CiteButton"
+        },
+        {
+            "type": "text",
+            "text": "Saved in parser cache with key carakas1_carakasa:pcache:idhash:49-0!canonical and timestamp 20261102083024 and revision id 44920. Rendering was triggered because: unknown"
+        },
+        {
+            "type": "text",
+            "text": "Retrieved from \""
+        },
+        {
+            "type": "text",
+            "text": "https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya&oldid=44920"
+        },
+        {
+            "type": "text",
+            "text": "\""
+        }
+    ],
+    "html_sha256": "3fff3275322dfa134350394aa825d45d2ea9b6f146a1e5fe60ccc5a664b09b6e"
+}

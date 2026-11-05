@@ -1,0 +1,1540 @@
+{
+    "source": "Charaka Samhita",
+    "chapter": "Raktapitta Nidana",
+    "url": "https://www.carakasamhitaonline.com/index.php?title=Raktapitta_Nidana",
+    "xpath": "//*[@id=\"content\"]",
+    "total_blocks": 255,
+    "total_tables": 1,
+    "total_headings": 38,
+    "content": [
+        {
+            "type": "h1",
+            "text": "Raktapitta Nidana",
+            "html": "<h1 class=\"firstHeading mw-first-heading\" id=\"firstHeading\"><span class=\"mw-page-title-main\">Raktapitta Nidana</span></h1>",
+            "level": 1
+        },
+        {
+            "type": "figure",
+            "text": "",
+            "html": "<figure class=\"mw-default-size mw-halign-right\" typeof=\"mw:File\"><a href=\"https://www.charakasamhitauptodate.com/index.php?title=Special:CiteThisPage&amp;page=Raktapitta_Nidana&amp;id=44498&amp;wpFormIdentifier=titleform\" rel=\"nofollow\"><img class=\"mw-file-element\" decoding=\"async\" height=\"47\" src=\"/images/5/58/Cite.png\" width=\"180\"/></a><figcaption></figcaption></figure>"
+        },
+        {
+            "type": "p",
+            "text": "Nidana Sthana Chapter 2. Diagnosis and etiopathogenesis of Bleeding Disorders",
+            "html": "<p><big><b> Nidana Sthana Chapter 2. Diagnosis and etiopathogenesis of Bleeding Disorders </b></big>\n</p>"
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "Section/Chapter",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Nidana Sthana Chapter 2",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Preceding Chapter",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Jwara Nidana",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Succeeding Chapter",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Gulma Nidana",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Other Sections",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Sutra Sthana , Vimana Sthana , Sharira Sthana , Indriya Sthana , Chikitsa Sthana , Kalpa Sthana , Siddhi Sthana",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Translator and commentator",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Joshi V.K., Ghildiyal S.",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Reviewer",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Kar A.C., Nimbalkar R.",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Editors",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Khandel S.K., Godatwar P., Deole Y.S. , Basisht G.",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Year of publication",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "2020",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Publisher",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Charak Samhita Research, Training and Skill Development Centre",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "DOI",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "10.47468/CSNE.2020.e01.s02.003",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ]
+            ],
+            "html": "<table class=\"infobox\" style=\"width:22em\"><caption>Raktapitta Nidana</caption><tbody><tr><th scope=\"row\">Section/Chapter</th><td>\n<a href=\"/index.php?title=Nidana_Sthana\" title=\"Nidana Sthana\">Nidana Sthana</a> Chapter 2</td></tr><tr><th scope=\"row\">Preceding Chapter</th><td>\n<a href=\"/index.php?title=Jwara_Nidana\" title=\"Jwara Nidana\">Jwara Nidana</a></td></tr><tr><th scope=\"row\">Succeeding Chapter</th><td>\n<a href=\"/index.php?title=Gulma_Nidana\" title=\"Gulma Nidana\">Gulma Nidana</a></td></tr><tr><th scope=\"row\">Other Sections</th><td>\n<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a>, <a href=\"/index.php?title=Vimana_Sthana\" title=\"Vimana Sthana\">Vimana Sthana</a>,  <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a>,  <a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a>, <a href=\"/index.php?title=Chikitsa_Sthana\" title=\"Chikitsa Sthana\">Chikitsa Sthana</a>, <a href=\"/index.php?title=Kalpa_Sthana\" title=\"Kalpa Sthana\">Kalpa Sthana</a>, <a href=\"/index.php?title=Siddhi_Sthana\" title=\"Siddhi Sthana\">Siddhi Sthana</a></td></tr><tr><th scope=\"row\">Translator and commentator</th><td>\nJoshi V.K., Ghildiyal S.</td></tr><tr><th scope=\"row\">Reviewer</th><td>\nKar A.C., Nimbalkar R.</td></tr><tr><th scope=\"row\">Editors</th><td>\nKhandel S.K., Godatwar P., <a href=\"/index.php?title=Yogesh_Deole\" title=\"Yogesh Deole\">Deole Y.S.</a>, <a href=\"/index.php?title=Gopal_Basisht\" title=\"Gopal Basisht\">Basisht G.</a></td></tr><tr><th scope=\"row\">Year of publication</th><td>\n2020</td></tr><tr><th scope=\"row\">Publisher</th><td>\n<a href=\"/index.php?title=Charak_Samhita_Research,_Training_and_Skill_Development_Centre\" title=\"Charak Samhita Research, Training and Skill Development Centre\">Charak Samhita Research, Training and Skill Development Centre</a></td></tr><tr><th scope=\"row\">DOI</th><td>\n<a class=\"external text\" href=\"https://doi.org/10.47468/CSNE.2020.e01.s02.003\" rel=\"nofollow\">10.47468/CSNE.2020.e01.s02.003</a></td></tr></tbody></table>"
+        },
+        {
+            "type": "p",
+            "text": "Abstract",
+            "html": "<p><big><b>Abstract</b></big>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "This chapter deals with diagnosis of bleeding disorders ( raktapitta ) caused by an excess of pitta dosha vitiating blood tissue ( rakta dhatu ) in the body. This leads to capillary break-down causing hemorrhage from external openings like mouth, per rectum, nose, eyes, ears, urethra. Contributing factors that increase the probability of raktapitta include consumption of incompatible food substances, consuming certain meats with alcohol, butter milk with meat of animals etc. The regular exposure to dietary and lifestyle factors with hot (ushna) properties vitiates pitta dosha . This pitta dosha has the same color and smell as rakta dhatu , and blends seamlessly with it. Vitiated pitta dosha and increased rakta dhatu circulate in the channels and the resultant increased volume of the blood overflows from the bodily orifices. The pathogenesis, if associated with vitiated kapha dosha , leads to bleeding from upper orifices; whereas if it is associated with vitiated vata dosha , leads to bleeding from the lower orifices. The first condition is curable, and later is difficult to cure. If both kapha and vata are involved in the pathogenesis, then the complications arise and such conditions are incurable. Avoiding etiological factors enlisted in this chapter can delay the progression of hemorrhagic disorders. Therapeutic measures of emesis and purgation , conservative therapy with medicinal formulations and proper attention can improve the condition of patients of hemorrhagic disorders in varying degrees. Prodromal symptoms and complications are described in this chapter.",
+            "html": "<p style=\"text-align:justify;\">This chapter deals with diagnosis of bleeding disorders (<a href=\"/index.php?title=Raktapitta\" title=\"Raktapitta\">raktapitta</a>) caused by an excess of <a href=\"/index.php?title=Pitta_dosha\" title=\"Pitta dosha\">pitta dosha</a> vitiating blood tissue (<a href=\"/index.php?title=Rakta_dhatu\" title=\"Rakta dhatu\">rakta dhatu</a>) in the body. This leads to capillary break-down causing hemorrhage from external openings like mouth, per rectum, nose, eyes, ears, urethra. Contributing factors that increase the probability of <a href=\"/index.php?title=Raktapitta\" title=\"Raktapitta\">raktapitta</a> include consumption of incompatible food substances, consuming certain meats with alcohol, butter milk with meat of animals etc. The regular exposure to dietary and lifestyle factors with hot (ushna) properties vitiates <a href=\"/index.php?title=Pitta_dosha\" title=\"Pitta dosha\">pitta dosha</a>. This <a href=\"/index.php?title=Pitta_dosha\" title=\"Pitta dosha\">pitta dosha</a> has the same color and smell as <a href=\"/index.php?title=Rakta_dhatu\" title=\"Rakta dhatu\">rakta dhatu</a>, and blends seamlessly with it. Vitiated <a href=\"/index.php?title=Pitta_dosha\" title=\"Pitta dosha\">pitta dosha</a> and increased <a href=\"/index.php?title=Rakta_dhatu\" title=\"Rakta dhatu\">rakta dhatu</a> circulate in the channels and the resultant increased volume of the blood overflows from the bodily orifices. The pathogenesis, if associated with vitiated <a href=\"/index.php?title=Kapha_dosha\" title=\"Kapha dosha\">kapha dosha</a>, leads to bleeding from upper orifices; whereas if it is associated with vitiated <a href=\"/index.php?title=Vata_dosha\" title=\"Vata dosha\">vata dosha</a>, leads to bleeding from the lower orifices. The first condition is curable, and later is difficult to cure. If both <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a> and <a href=\"/index.php?title=Vata_dosha\" title=\"Vata dosha\">vata</a> are involved in the pathogenesis, then the complications arise and such conditions are incurable. Avoiding etiological factors enlisted in this chapter can delay the progression of hemorrhagic disorders. Therapeutic measures of <a class=\"mw-redirect\" href=\"/index.php?title=Emesis\" title=\"Emesis\">emesis</a> and <a class=\"mw-redirect\" href=\"/index.php?title=Purgation\" title=\"Purgation\">purgation</a>, conservative therapy with medicinal formulations and proper attention can improve the condition of patients of hemorrhagic disorders in varying degrees. Prodromal symptoms and complications are described in this chapter. </p>"
+        },
+        {
+            "type": "p",
+            "text": "Keywords : Etiopathogenesis of raktapitta , bleeding disorders, epistaxis, hemorrhage, hematemesis, rectal bleeding.",
+            "html": "<p><b>Keywords</b>: Etiopathogenesis of <a href=\"/index.php?title=Raktapitta\" title=\"Raktapitta\">raktapitta</a>, bleeding disorders, epistaxis, hemorrhage, hematemesis, rectal bleeding.\n</p>"
+        },
+        {
+            "type": "h2",
+            "text": "Contents",
+            "html": "<h2 id=\"mw-toc-heading\">Contents</h2>",
+            "level": 2
+        },
+        {
+            "type": "ul",
+            "text": "1 Introduction 2 Sanskrit Text, Transliteration and English Translation 2.1 Synonym of raktapitta 2.2 Etiopathogenesis 2.3 Lohitapitta 2.4 Prodromal symptoms 2.5 Complications 2.6 Disease pathways 2.7 Prognosis 2.8 Origin of raktapitta 2.9 General principles of management 2.9.1 Virechana (therapeutic purgation) in raktapitta 2.9.2 Vamana (therapeutic emesis) in raktapitta 2.9.3 Poor prognosis in severe bleeding 2.9.4 Factors affecting prognosis 2.10 Signs of incurable raktapitta 2.11 Summary 3 Tattva Vimarsha (Fundamental principles) 4 Vidhi Vimarsha (Applied Inferences) 4.1 Vitamin K 4.2 Omega-3 Fatty Acids 4.3 Alcohol 4.4 Excess heat 4.5 Hereditary issues 4.6 Pathophysiology of Bleeding/Hemorrhagic Disorders in modern medicine 4.6.1 I. Hemorrhagic Disorder Classifications 4.6.2 II. Platelet abnormalities 4.6.3 III. Coagulation disorders due to coagulation factor deficiencies 4.6.4 IV. Hyperfibrinolysis 4.7 Causes of Bleeding 4.7.1 A. Causes of bleeding from the mouth 4.7.2 B. Causes of Rectal Bleeding 4.8 Correlation between Ayurvedic knowledge and Western medicine 4.9 Summary 4.10 Related Chapters 5 References",
+            "html": "<ul>\n<li class=\"toclevel-1 tocsection-1\"><a href=\"#Introduction\"><span class=\"tocnumber\">1</span> <span class=\"toctext\">Introduction</span></a></li>\n<li class=\"toclevel-1 tocsection-2\"><a href=\"#Sanskrit_Text,_Transliteration_and_English_Translation\"><span class=\"tocnumber\">2</span> <span class=\"toctext\">Sanskrit Text, Transliteration and English Translation</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-3\"><a href=\"#Synonym_of_raktapitta\"><span class=\"tocnumber\">2.1</span> <span class=\"toctext\">Synonym of raktapitta</span></a></li>\n<li class=\"toclevel-2 tocsection-4\"><a href=\"#Etiopathogenesis\"><span class=\"tocnumber\">2.2</span> <span class=\"toctext\">Etiopathogenesis</span></a></li>\n<li class=\"toclevel-2 tocsection-5\"><a href=\"#Lohitapitta\"><span class=\"tocnumber\">2.3</span> <span class=\"toctext\">Lohitapitta</span></a></li>\n<li class=\"toclevel-2 tocsection-6\"><a href=\"#Prodromal_symptoms\"><span class=\"tocnumber\">2.4</span> <span class=\"toctext\">Prodromal symptoms</span></a></li>\n<li class=\"toclevel-2 tocsection-7\"><a href=\"#Complications\"><span class=\"tocnumber\">2.5</span> <span class=\"toctext\">Complications</span></a></li>\n<li class=\"toclevel-2 tocsection-8\"><a href=\"#Disease_pathways\"><span class=\"tocnumber\">2.6</span> <span class=\"toctext\">Disease pathways</span></a></li>\n<li class=\"toclevel-2 tocsection-9\"><a href=\"#Prognosis\"><span class=\"tocnumber\">2.7</span> <span class=\"toctext\">Prognosis</span></a></li>\n<li class=\"toclevel-2 tocsection-10\"><a href=\"#Origin_of_raktapitta\"><span class=\"tocnumber\">2.8</span> <span class=\"toctext\">Origin of raktapitta</span></a></li>\n<li class=\"toclevel-2 tocsection-11\"><a href=\"#General_principles_of_management\"><span class=\"tocnumber\">2.9</span> <span class=\"toctext\">General principles of management</span></a>\n<ul>\n<li class=\"toclevel-3 tocsection-12\"><a href=\"#Virechana_(therapeutic_purgation)_in_raktapitta\"><span class=\"tocnumber\">2.9.1</span> <span class=\"toctext\">Virechana (therapeutic purgation) in raktapitta</span></a></li>\n<li class=\"toclevel-3 tocsection-13\"><a href=\"#Vamana_(therapeutic_emesis)_in_raktapitta\"><span class=\"tocnumber\">2.9.2</span> <span class=\"toctext\">Vamana (therapeutic emesis) in raktapitta</span></a></li>\n<li class=\"toclevel-3 tocsection-14\"><a href=\"#Poor_prognosis_in_severe_bleeding\"><span class=\"tocnumber\">2.9.3</span> <span class=\"toctext\">Poor prognosis in severe bleeding</span></a></li>\n<li class=\"toclevel-3 tocsection-15\"><a href=\"#Factors_affecting_prognosis\"><span class=\"tocnumber\">2.9.4</span> <span class=\"toctext\">Factors affecting prognosis</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-2 tocsection-16\"><a href=\"#Signs_of_incurable_raktapitta\"><span class=\"tocnumber\">2.10</span> <span class=\"toctext\">Signs of incurable raktapitta</span></a></li>\n<li class=\"toclevel-2 tocsection-17\"><a href=\"#Summary\"><span class=\"tocnumber\">2.11</span> <span class=\"toctext\">Summary</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-18\"><a href=\"#Tattva_Vimarsha_(Fundamental_principles)\"><span class=\"tocnumber\">3</span> <span class=\"toctext\">Tattva Vimarsha (Fundamental principles)</span></a></li>\n<li class=\"toclevel-1 tocsection-19\"><a href=\"#Vidhi_Vimarsha_(Applied_Inferences)\"><span class=\"tocnumber\">4</span> <span class=\"toctext\">Vidhi Vimarsha (Applied Inferences)</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-20\"><a href=\"#Vitamin_K\"><span class=\"tocnumber\">4.1</span> <span class=\"toctext\">Vitamin K</span></a></li>\n<li class=\"toclevel-2 tocsection-21\"><a href=\"#Omega-3_Fatty_Acids\"><span class=\"tocnumber\">4.2</span> <span class=\"toctext\">Omega-3 Fatty Acids</span></a></li>\n<li class=\"toclevel-2 tocsection-22\"><a href=\"#Alcohol\"><span class=\"tocnumber\">4.3</span> <span class=\"toctext\">Alcohol</span></a></li>\n<li class=\"toclevel-2 tocsection-23\"><a href=\"#Excess_heat\"><span class=\"tocnumber\">4.4</span> <span class=\"toctext\">Excess heat</span></a></li>\n<li class=\"toclevel-2 tocsection-24\"><a href=\"#Hereditary_issues\"><span class=\"tocnumber\">4.5</span> <span class=\"toctext\">Hereditary issues</span></a></li>\n<li class=\"toclevel-2 tocsection-25\"><a href=\"#Pathophysiology_of_Bleeding/Hemorrhagic_Disorders_in_modern_medicine\"><span class=\"tocnumber\">4.6</span> <span class=\"toctext\">Pathophysiology of Bleeding/Hemorrhagic Disorders in modern medicine</span></a>\n<ul>\n<li class=\"toclevel-3 tocsection-26\"><a href=\"#I._Hemorrhagic_Disorder_Classifications\"><span class=\"tocnumber\">4.6.1</span> <span class=\"toctext\">I. Hemorrhagic Disorder Classifications</span></a></li>\n<li class=\"toclevel-3 tocsection-27\"><a href=\"#II._Platelet_abnormalities\"><span class=\"tocnumber\">4.6.2</span> <span class=\"toctext\">II. Platelet abnormalities</span></a></li>\n<li class=\"toclevel-3 tocsection-28\"><a href=\"#III._Coagulation_disorders_due_to_coagulation_factor_deficiencies\"><span class=\"tocnumber\">4.6.3</span> <span class=\"toctext\">III. Coagulation disorders due to coagulation factor deficiencies</span></a></li>\n<li class=\"toclevel-3 tocsection-29\"><a href=\"#IV._Hyperfibrinolysis\"><span class=\"tocnumber\">4.6.4</span> <span class=\"toctext\">IV. Hyperfibrinolysis</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-2 tocsection-30\"><a href=\"#Causes_of_Bleeding\"><span class=\"tocnumber\">4.7</span> <span class=\"toctext\">Causes of Bleeding</span></a>\n<ul>\n<li class=\"toclevel-3 tocsection-31\"><a href=\"#A._Causes_of_bleeding_from_the_mouth\"><span class=\"tocnumber\">4.7.1</span> <span class=\"toctext\">A. Causes of bleeding from the mouth</span></a></li>\n<li class=\"toclevel-3 tocsection-32\"><a href=\"#B._Causes_of_Rectal_Bleeding\"><span class=\"tocnumber\">4.7.2</span> <span class=\"toctext\">B. Causes of Rectal Bleeding</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-2 tocsection-33\"><a href=\"#Correlation_between_Ayurvedic_knowledge_and_Western_medicine\"><span class=\"tocnumber\">4.8</span> <span class=\"toctext\">Correlation between Ayurvedic knowledge and Western medicine</span></a></li>\n<li class=\"toclevel-2 tocsection-34\"><a href=\"#Summary_2\"><span class=\"tocnumber\">4.9</span> <span class=\"toctext\">Summary</span></a></li>\n<li class=\"toclevel-2 tocsection-35\"><a href=\"#Related_Chapters\"><span class=\"tocnumber\">4.10</span> <span class=\"toctext\">Related Chapters</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-36\"><a href=\"#References\"><span class=\"tocnumber\">5</span> <span class=\"toctext\">References</span></a></li>\n</ul>",
+            "items": [
+                "1 Introduction",
+                "2 Sanskrit Text, Transliteration and English Translation 2.1 Synonym of raktapitta 2.2 Etiopathogenesis 2.3 Lohitapitta 2.4 Prodromal symptoms 2.5 Complications 2.6 Disease pathways 2.7 Prognosis 2.8 Origin of raktapitta 2.9 General principles of management 2.9.1 Virechana (therapeutic purgation) in raktapitta 2.9.2 Vamana (therapeutic emesis) in raktapitta 2.9.3 Poor prognosis in severe bleeding 2.9.4 Factors affecting prognosis 2.10 Signs of incurable raktapitta 2.11 Summary",
+                "3 Tattva Vimarsha (Fundamental principles)",
+                "4 Vidhi Vimarsha (Applied Inferences) 4.1 Vitamin K 4.2 Omega-3 Fatty Acids 4.3 Alcohol 4.4 Excess heat 4.5 Hereditary issues 4.6 Pathophysiology of Bleeding/Hemorrhagic Disorders in modern medicine 4.6.1 I. Hemorrhagic Disorder Classifications 4.6.2 II. Platelet abnormalities 4.6.3 III. Coagulation disorders due to coagulation factor deficiencies 4.6.4 IV. Hyperfibrinolysis 4.7 Causes of Bleeding 4.7.1 A. Causes of bleeding from the mouth 4.7.2 B. Causes of Rectal Bleeding 4.8 Correlation between Ayurvedic knowledge and Western medicine 4.9 Summary 4.10 Related Chapters",
+                "5 References"
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Introduction",
+            "html": "<h2><span class=\"mw-headline\" id=\"Introduction\">Introduction</span></h2>",
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "The second chapter of the Nidana Sthana deals with disorders of rakta dhatu , just as the previous chapter on jwara focused on the rasa dhatu . Pitta is the primary cause of jwara resulting in elevated temperature. This can further lead to raktapitta . Thus it can be said that jwara is a cause of raktapitta , and an aggravated pitta is the cause of both jwara and raktapitta .",
+            "html": "<p>The second chapter of the <a href=\"/index.php?title=Nidana_Sthana\" title=\"Nidana Sthana\">Nidana Sthana</a> deals with disorders of  <a href=\"/index.php?title=Rakta_dhatu\" title=\"Rakta dhatu\">rakta</a> <a href=\"/index.php?title=Dhatu\" title=\"Dhatu\">dhatu</a>, just as the previous chapter on <a href=\"/index.php?title=Jwara\" title=\"Jwara\">jwara</a> focused on the <a href=\"/index.php?title=Rasa_dhatu\" title=\"Rasa dhatu\">rasa</a> <a href=\"/index.php?title=Dhatu\" title=\"Dhatu\">dhatu</a>. <a href=\"/index.php?title=Pitta_dosha\" title=\"Pitta dosha\">Pitta</a> is the primary cause of <a href=\"/index.php?title=Jwara\" title=\"Jwara\">jwara</a> resulting in elevated temperature. This can further lead to <a href=\"/index.php?title=Raktapitta\" title=\"Raktapitta\">raktapitta</a>. Thus it can be said that <a href=\"/index.php?title=Jwara\" title=\"Jwara\">jwara</a> is a cause of <a href=\"/index.php?title=Raktapitta\" title=\"Raktapitta\">raktapitta</a>, and an aggravated <a href=\"/index.php?title=Pitta_dosha\" title=\"Pitta dosha\">pitta</a> is the cause of both <a href=\"/index.php?title=Jwara\" title=\"Jwara\">jwara</a> and <a href=\"/index.php?title=Raktapitta\" title=\"Raktapitta\">raktapitta</a>. \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Bleeding disorders also include conditions where bleeding is not apparent. Hemorrhagic strokes, vessel diseases, and heart attacks cause internal bleeding and do not erupt through the skin or orifices. These are typically due to vascular and other events and not caused due to raktapitta . These disorders should be classified under avarana and disorders of vata dosha affecting vessels (siragata vata).",
+            "html": "<p>Bleeding disorders also include conditions where bleeding is not apparent. Hemorrhagic strokes, vessel diseases, and heart attacks cause internal bleeding and do not erupt through the skin or orifices. These are typically due to vascular and other events and not caused due to <a href=\"/index.php?title=Raktapitta\" title=\"Raktapitta\">raktapitta</a>. These disorders should be classified under <a href=\"/index.php?title=Avarana\" title=\"Avarana\">avarana</a> and disorders of <a href=\"/index.php?title=Vata_dosha\" title=\"Vata dosha\">vata dosha</a> affecting vessels (siragata vata).\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Raktapitta manifests through two broadly divided routes that correlate with the flow of dosha energies in the body: the upper tract and the lower tract. The upper tract includes the orifices of eyes, ear, nose, and mouth/throat. It is the route taken by the flow of blood when the person has an abundance of kapha besides rakta and pitta . When there is an abundance of body vata with an interplay of rakta and pitta , raktapitta manifests through the lower tract as in hematuria and per rectal bleeding. When bleeding manifests through both the routes, it indicates the involvement of both the dosha , vata and kapha .",
+            "html": "<p><a href=\"/index.php?title=Raktapitta\" title=\"Raktapitta\">Raktapitta</a> manifests through two broadly divided routes that correlate with the flow of <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> energies in the body: the upper tract and the lower tract. The upper tract includes the orifices of eyes, ear, nose, and mouth/throat. It is the route taken by the flow of blood when the person has an abundance of <a href=\"/index.php?title=Kapha_dosha\" title=\"Kapha dosha\">kapha</a> besides <a href=\"/index.php?title=Rakta_dhatu\" title=\"Rakta dhatu\">rakta</a> and <a href=\"/index.php?title=Pitta_dosha\" title=\"Pitta dosha\">pitta</a>. When there is an abundance of body <a href=\"/index.php?title=Vata_dosha\" title=\"Vata dosha\">vata</a> with an interplay of <a href=\"/index.php?title=Rakta_dhatu\" title=\"Rakta dhatu\">rakta</a> and <a href=\"/index.php?title=Pitta_dosha\" title=\"Pitta dosha\">pitta</a>, <a href=\"/index.php?title=Raktapitta\" title=\"Raktapitta\">raktapitta</a> manifests through the lower tract as in hematuria and per rectal bleeding.  When bleeding manifests through both the routes, it indicates the involvement of both the <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a>, <a href=\"/index.php?title=Vata_dosha\" title=\"Vata dosha\">vata</a> and <a href=\"/index.php?title=Kapha_dosha\" title=\"Kapha dosha\">kapha</a>. \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Raktapitta from the upper orifices is curable, while that from the lower orifices is considered palliable. Manifestation of bleeding from both the tracts is said to be incurable. Prompt preventive action is advocated to avoid progression to incurable stage.",
+            "html": "<p><a href=\"/index.php?title=Raktapitta\" title=\"Raktapitta\">Raktapitta</a> from the upper orifices is curable, while that from the lower orifices is considered palliable. Manifestation of bleeding from both the tracts is said to be incurable. Prompt preventive action is advocated to avoid progression to incurable stage.\n</p>"
+        },
+        {
+            "type": "h2",
+            "text": "Sanskrit Text, Transliteration and English Translation",
+            "html": "<h2><span id=\"Sanskrit_Text.2C_Transliteration_and_English_Translation\"></span><span class=\"mw-headline\" id=\"Sanskrit_Text,_Transliteration_and_English_Translation\">Sanskrit Text, Transliteration and English Translation</span></h2>",
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "अथातोरक्तपित्तनिदानंव्याख्यास्यामः||१||",
+            "html": "<p>अथातोरक्तपित्तनिदानंव्याख्यास्यामः||१||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "इतिहस्माहभगवानात्रेयः||२||",
+            "html": "<p>इतिहस्माहभगवानात्रेयः||२||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "athātō raktapittanidānaṁ vyākhyāsyāmaḥ||1||",
+            "html": "<p>athātō raktapittanidānaṁ vyākhyāsyāmaḥ||1|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "iti ha smāha bhagavānātrēyaḥ||2||",
+            "html": "<p>iti ha smāha bhagavānātrēyaḥ||2|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "athAto raktapittanidAnaM vyAkhyAsyAmaH||1||",
+            "html": "<p>athAto raktapittanidAnaM vyAkhyAsyAmaH||1|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "iti ha smAha bhagavAnAtreyaH||2||",
+            "html": "<p>iti ha smAha bhagavAnAtreyaH||2|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Now we shall expound the chapter \"Raktapitta Nidana\" (Diagnosis and etiopathogenesis of Bleeding Disorders). Thus said Lord Atreya.[1-2]",
+            "html": "<p>Now we shall expound the chapter \"Raktapitta Nidana\" (Diagnosis and etiopathogenesis of Bleeding Disorders). Thus said Lord Atreya.[1-2]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Synonym of raktapitta",
+            "html": "<h3><span class=\"mw-headline\" id=\"Synonym_of_raktapitta\">Synonym of <a href=\"/index.php?title=Raktapitta\" title=\"Raktapitta\">raktapitta</a></span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "पित्तं यथाभूतं लोहितपित्तमिति सञ्ज्ञां लभते, तद्व्याख्यास्यामः||३||",
+            "html": "<p>पित्तं यथाभूतं  लोहितपित्तमिति  सञ्ज्ञां  लभते, तद्व्याख्यास्यामः||३||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "pittaṁ yathābhūtaṁ lōhitapittamiti sañjñāṁ labhatē, tad [1] vyākhyāsyāmaḥ||3||",
+            "html": "<p>pittaṁ yathābhūtaṁ lōhitapittamiti sañjñāṁ labhatē, tad [1] vyākhyāsyāmaḥ||3|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "pittaM yathAbhUtaM lohitapittamiti sa~jj~jAM labhate, tad [1] vyAkhyAsyAmaH||3||",
+            "html": "<p>pittaM yathAbhUtaM lohitapittamiti sa~jj~jAM labhate, tad [1] vyAkhyAsyAmaH||3|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "We shall also expound how Pitta dosha gets the term 'Lohitapitta'. [3]",
+            "html": "<p>We shall also expound how <a href=\"/index.php?title=Pitta_dosha\" title=\"Pitta dosha\">Pitta dosha</a> gets the term 'Lohitapitta'.  [3] \n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Etiopathogenesis",
+            "html": "<h3><span class=\"mw-headline\" id=\"Etiopathogenesis\">Etiopathogenesis</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "यदा जन्तुर्यवकोद्दालककोरदूषप्रायाण्यन्नानि भुङ्क्ते, भृशोष्णतीक्ष्णमपि चान्यदन्नजातं निष्पावमाषकुलत्थसूपक्षारोपसंहितं, दधिदधिमण्डोदश्वित्कट्वराम्लकाञ्जिकोपसेकं वा, वाराहमाहिषाविकमात्स्यगव्यपिशितं, पिण्याकपिण्डालुशुष्कशाकोपहितं, मूलकसर्षपलशुनकरञ्जशिग्रुमधुशिग्रु(खडयूष) भूस्तृणसुमुखसुरसकुठेरकगण्डीरकालमालकपर्णासक्षवकफणिज्झकोपदंशं, सुरासौवीरतुषोदकमैरेयमेदकमधूलकशुक्तकुवलबदराम्लप्रायानुपानं वा, पिष्टान्नोत्तरभूयिष्ठम्; उष्णाभितप्तो वाऽतिमात्रमतिवेलं वाऽऽमं पयः पिबति, पयसा समश्नाति रौहिणीकं काणकपोतं वा सर्षपतैलक्षारसिद्धं, कुलत्थपिण्याकजाम्बवलकुचपक्वैः शौक्तिकैर्वा सह क्षीरं बत्युष्णाभितप्तः तस्यैवमाचरतः पित्तं प्रकोपमापद्यते, लोहितं च स्वप्रमाणमतिवर्तते तस्मिन् प्रमाणातिवृत्ते पित्तं प्रकुपितं शरीरमनुसर्पद्यदेव यकृत्प्लीहप्रभवाणां लोहितवहानां च स्रोतसां लोहिताभिष्यन्दगुरूणि मुखान्यासाद्य प्रतिरुन्ध्यात् तदेव लोहितं दूषयति||४||",
+            "html": "<p>यदा  जन्तुर्यवकोद्दालककोरदूषप्रायाण्यन्नानि भुङ्क्ते, भृशोष्णतीक्ष्णमपि चान्यदन्नजातं  निष्पावमाषकुलत्थसूपक्षारोपसंहितं, दधिदधिमण्डोदश्वित्कट्वराम्लकाञ्जिकोपसेकं  वा, वाराहमाहिषाविकमात्स्यगव्यपिशितं,  पिण्याकपिण्डालुशुष्कशाकोपहितं, मूलकसर्षपलशुनकरञ्जशिग्रुमधुशिग्रु(खडयूष) भूस्तृणसुमुखसुरसकुठेरकगण्डीरकालमालकपर्णासक्षवकफणिज्झकोपदंशं, सुरासौवीरतुषोदकमैरेयमेदकमधूलकशुक्तकुवलबदराम्लप्रायानुपानं वा,  पिष्टान्नोत्तरभूयिष्ठम्; उष्णाभितप्तो  वाऽतिमात्रमतिवेलं  वाऽऽमं  पयः पिबति, पयसा  समश्नाति  रौहिणीकं काणकपोतं  वा  सर्षपतैलक्षारसिद्धं, कुलत्थपिण्याकजाम्बवलकुचपक्वैः शौक्तिकैर्वा  सह  क्षीरं  बत्युष्णाभितप्तः तस्यैवमाचरतः पित्तं  प्रकोपमापद्यते,  लोहितं  च स्वप्रमाणमतिवर्तते तस्मिन्  प्रमाणातिवृत्ते  पित्तं  प्रकुपितं  शरीरमनुसर्पद्यदेव यकृत्प्लीहप्रभवाणां  लोहितवहानां  च  स्रोतसां  लोहिताभिष्यन्दगुरूणि मुखान्यासाद्य  प्रतिरुन्ध्यात् तदेव लोहितं  दूषयति||४||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "yadā janturyavakōddālakakōradūṣaprāyāṇyannāni bhuṅktē, bhr̥śōṣṇatīkṣṇamapi cānyadannajātaṁ niṣpāvamāṣakulatthasūpakṣārōpasaṁhitaṁ,dadhidadhimaṇḍōdaśvitkaṭvarāmlakāñjikōpasēkaṁ [2] vā, vārāhamāhiṣāvikamātsyagavyapiśitaṁ, piṇyākapiṇḍāluśuṣkaśākōpahitaṁ,mūlakasarṣapalaśunakarañjaśigrumadhuśigru(khaḍayūṣa [3] ) bhūstr̥ṇasumukhasurasakuṭhērakagaṇḍīrakālamālakaparṇāsakṣavakaphaṇijjhakōpadaṁśaṁ,surāsauvīratuṣōdakamairēyamēdakamadhūlakaśuktakuvalab adarāmlaprāyānu pānaṁ vā, piṣṭānnōttarabhūyiṣṭham; uṣṇābhitaptō vā'timātramativēlaṁ vā maṁpayaḥ pibati, payasā samaśnāti rauhiṇīkaṁ [4] , kāṇakapōtaṁ vā sarṣapatailakṣārasiddhaṁ, kulatthapiṇyākajāmbavalakucapakvaiḥ śauktikairvā saha kṣīraṁpibatyuṣṇābhitaptaḥ [5] ; tasyaivamācarataḥ pittaṁ prakōpamāpadyatē, lōhitaṁ ca [6] svapramāṇamativartatē| tasmin pramāṇātivr̥ttē pittaṁ prakupitaṁ śarīramanusarpadyadēva [7] yakr̥tplīhaprabhavāṇāṁ lōhitavahānāṁ ca srōtasāṁ lōhitābhiṣyandagurūṇi mukhānyāsādyapratirundhyāt [8] tadēva [9] lōhitaṁ dūṣayati||4||",
+            "html": "<p>yadā janturyavakōddālakakōradūṣaprāyāṇyannāni bhuṅktē, bhr̥śōṣṇatīkṣṇamapi cānyadannajātaṁ niṣpāvamāṣakulatthasūpakṣārōpasaṁhitaṁ,dadhidadhimaṇḍōdaśvitkaṭvarāmlakāñjikōpasēkaṁ [2] vā, vārāhamāhiṣāvikamātsyagavyapiśitaṁ, piṇyākapiṇḍāluśuṣkaśākōpahitaṁ,mūlakasarṣapalaśunakarañjaśigrumadhuśigru(khaḍayūṣa [3] ) bhūstr̥ṇasumukhasurasakuṭhērakagaṇḍīrakālamālakaparṇāsakṣavakaphaṇijjhakōpadaṁśaṁ,surāsauvīratuṣōdakamairēyamēdakamadhūlakaśuktakuvalab<br/>adarāmlaprāyānu<br/>pānaṁ vā, piṣṭānnōttarabhūyiṣṭham; uṣṇābhitaptō vā'timātramativēlaṁ vā<i>maṁpayaḥ pibati, payasā samaśnāti rauhiṇīkaṁ [4] , kāṇakapōtaṁ vā sarṣapatailakṣārasiddhaṁ, kulatthapiṇyākajāmbavalakucapakvaiḥ śauktikairvā saha kṣīraṁpibatyuṣṇābhitaptaḥ [5] ; tasyaivamācarataḥ pittaṁ prakōpamāpadyatē, lōhitaṁ ca [6] svapramāṇamativartatē| </i>\ntasmin pramāṇātivr̥ttē pittaṁ prakupitaṁ śarīramanusarpadyadēva [7] yakr̥tplīhaprabhavāṇāṁ lōhitavahānāṁ ca srōtasāṁ lōhitābhiṣyandagurūṇi mukhānyāsādyapratirundhyāt [8] tadēva [9] lōhitaṁ dūṣayati||4|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "yadA janturyavakoddAlakakoradUShaprAyANyannAni bhu~gkte, bhRushoShNatIkShNamapi cAnyadannajAtaM niShpAvamAShakulatthasUpakShAropasaMhitaM,dadhidadhimaNDodashvitkaTvarAmlakA~jjikopasekaM [2] vA, vArAhamAhiShAvikamAtsyagavyapishitaM, piNyAkapiNDAlushuShkashAkopahitaM,mUlakasarShapalashunakara~jjashigrumadhushigru(khaDayUSha [3])bhUstRuNasumukhasurasakuTherakagaNDIrakAlamAlakaparNAsakShavakaphaNijjhakopadaMshaM,surAsauvIratuShodakamaireyamedakamadhUlakas huktakuvalabadarAmlaprAyAnupAnaM vA, piShTAnnottarabhUyiShTham; uShNAbhitapto vA~atimAtramativelaMvA~a~amaM payaH pibati, payasA samashnAti rauhiNIkaM [4], kANakapotaM vA sarShapatailakShArasiddhaM, kulatthapiNyAkajAmbavalakucapakvaiH shauktikairvAsaha kShIraM pibatyuShNAbhitaptaH [5] ; tasyaivamAcarataH pittaM prakopamApadyate, lohitaM ca [6] svapramANamativartate|\ntasmin pramANAtivRutte pittaM prakupitaM sharIramanusarpadyadeva [7] yakRutplIhaprabhavANAM lohitavahAnAM ca srotasAM lohitAbhiShyandagurUNimukhAnyAsAdya pratirundhyAt [8] tadeva [9] lohitaM dUShayati||4||",
+            "html": "<p>yadA janturyavakoddAlakakoradUShaprAyANyannAni bhu~gkte, bhRushoShNatIkShNamapi cAnyadannajAtaM niShpAvamAShakulatthasUpakShAropasaMhitaM,dadhidadhimaNDodashvitkaTvarAmlakA~jjikopasekaM [2] vA, vArAhamAhiShAvikamAtsyagavyapishitaM, piNyAkapiNDAlushuShkashAkopahitaM,mUlakasarShapalashunakara~jjashigrumadhushigru(khaDayUSha [3])bhUstRuNasumukhasurasakuTherakagaNDIrakAlamAlakaparNAsakShavakaphaNijjhakopadaMshaM,surAsauvIratuShodakamaireyamedakamadhUlakas<br/>huktakuvalabadarAmlaprAyAnupAnaM vA, piShTAnnottarabhUyiShTham; uShNAbhitapto vA~atimAtramativelaMvA~a~amaM payaH pibati, payasA samashnAti rauhiNIkaM [4], kANakapotaM vA sarShapatailakShArasiddhaM, kulatthapiNyAkajAmbavalakucapakvaiH shauktikairvAsaha kShIraM pibatyuShNAbhitaptaH [5] ; tasyaivamAcarataH pittaM prakopamApadyate, lohitaM ca [6] svapramANamativartate| \ntasmin pramANAtivRutte pittaM prakupitaM sharIramanusarpadyadeva [7] yakRutplIhaprabhavANAM lohitavahAnAM ca srotasAM lohitAbhiShyandagurUNimukhAnyAsAdya pratirundhyAt [8] tadeva [9] lohitaM dUShayati||4||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "When a person consumes a diet or food mainly of:",
+            "html": "<p>When a person consumes a diet or food mainly of:\n</p>"
+        },
+        {
+            "type": "ul",
+            "text": "Grains such as barley (yavaka), Kodo millet or Paspalum scrobiculatum (uddalaka) , and Ditch Millet (koradusha) , in excess quantities, with other food items that are hot (ushna) and sharply acting (tikshna) such as legumes of Dolichos lablab Linn. (nishpaava), black gram (masha), horse gram (kulaththa) and alkali (kshara) , or with curd, whey, buttermilk, sour buttermilk or sour gruel Meat of pig, buffalo, sheep, fish and cow Vegetables of oil cake (pinyaka), pindalu (a tuber) and dried potherbs Upadamsha (chutney or salad) of radish (mulaka), mustard (sarshapa), garlic (lashuna), fruits of Indian beech tree (Pongamia Glabra) (karanja), drumsticks (Moringa oleifera) (shigru), its sweet variety (madhu shigru) , muskmelon (kharabusa), lemongrass (bhustruna), sumukha (Ocimum gratissimum L.), surasa (Ocimum sanctum L.), kutheraka (Ocimum basilicum L.), gandeera (Coleus barbatus (Andr.) Benth.) , kalamalaka (basil Ocimum tenuiflorum), parnasa (Ocimum basilicum L.), kshavaka (Brassica nigra (L.) Koch.) and phanijzaka (Origanum majorana L.) Consumption of fermented beverages like sura (wine), sauvira (sour gruel), tushodaka (types of vinegar or fermented water of chaff of grain or corn or rice), maireya (a type of intoxicating drink), medaka (spirituous liquor used for distillation), madhulaka (arak distilled from the blossoms of the honey tree or any intoxicating drink [Madhuca longifolia -Bot.]), shukta (any sour liquor or gruel), sour preparations of kuvala (Zizyphus mauritiana Lam.) and badara (Zizyphus mauritiana Lam.) (both are types of jujube) Preparations of (rice) flour in excess after meals Excessive quantities of pishtanna (cake or pastries or food prepared from fine flour) Frequent and/or excess consumption of raw milk, especially after being afflicted by intense heat, or when recovering from a heat-stroke Eating Rohini vegetable (Myrica nagi THUNB.) with milk Meat of Kanakapota (a type of pigeon) cooked with mustard oil and alkali Consumption of milk with sour beverages, or food cooked with horse gram (kulattha), oil cake (pinyaka), fruits of jambu (Syzygium cumini (L.) Skeels) and lakucha (Artocarpus lakoocha Roxb.) after being afflicted with intense heat",
+            "html": "<ul><li>Grains such as barley (yavaka), Kodo millet or <a class=\"external text\" href=\"https://en.wikipedia.org/wiki/Paspalum_scrobiculatum\" rel=\"nofollow\">Paspalum scrobiculatum (uddalaka)</a>, and <a class=\"external text\" href=\"http://www.agrisources.com/herbs/paspalumscrobiculatum.html\" rel=\"nofollow\">Ditch Millet (koradusha)</a>, in excess quantities, with other food items that are hot (ushna) and sharply acting (tikshna) such as  legumes of  Dolichos lablab Linn. (nishpaava), black gram (masha), horse gram (kulaththa) and alkali (kshara) , or with curd, whey, buttermilk, sour buttermilk or sour gruel</li>\n<li>Meat of pig, buffalo, sheep, fish and cow</li>\n<li>Vegetables of oil cake (pinyaka), pindalu (a tuber) and dried potherbs</li>\n<li>Upadamsha (chutney or salad) of radish (mulaka), mustard (sarshapa), garlic (lashuna), fruits of Indian beech tree (Pongamia Glabra) (karanja), drumsticks (Moringa oleifera)  (shigru), its sweet variety (madhu shigru) , muskmelon (kharabusa), lemongrass (bhustruna), sumukha (Ocimum gratissimum L.), surasa (Ocimum sanctum L.), kutheraka (Ocimum basilicum L.), gandeera (Coleus barbatus (Andr.) Benth.) , kalamalaka (basil Ocimum tenuiflorum), parnasa (Ocimum basilicum L.), kshavaka (Brassica nigra (L.) Koch.) and phanijzaka (Origanum majorana L.)</li>\n<li>Consumption of fermented beverages like sura (wine), sauvira (sour gruel), tushodaka (types of vinegar or fermented water of chaff of grain or corn or rice), maireya (a type of intoxicating drink), medaka (spirituous liquor used for distillation), madhulaka (arak distilled from the blossoms of the honey tree or any intoxicating drink [Madhuca longifolia -Bot.]), shukta (any sour liquor or gruel), sour preparations of kuvala (Zizyphus mauritiana Lam.) and badara (Zizyphus mauritiana Lam.) (both are types of jujube)</li>\n<li>Preparations of (rice) flour in excess after meals</li>\n<li>Excessive quantities of pishtanna (cake or pastries or food prepared from fine flour)</li>\n<li>Frequent and/or excess consumption of raw milk, especially after being afflicted by intense heat, or when recovering from a heat-stroke</li>\n<li>Eating Rohini vegetable (Myrica nagi THUNB.) with milk</li>\n<li>Meat of Kanakapota (a type of pigeon) cooked with mustard oil and alkali</li>\n<li>Consumption of milk with sour beverages, or food cooked with horse gram (kulattha), oil cake (pinyaka), fruits of jambu (Syzygium cumini (L.) Skeels) and lakucha (Artocarpus lakoocha Roxb.) after being afflicted with intense heat</li></ul>",
+            "items": [
+                "Grains such as barley (yavaka), Kodo millet or Paspalum scrobiculatum (uddalaka) , and Ditch Millet (koradusha) , in excess quantities, with other food items that are hot (ushna) and sharply acting (tikshna) such as legumes of Dolichos lablab Linn. (nishpaava), black gram (masha), horse gram (kulaththa) and alkali (kshara) , or with curd, whey, buttermilk, sour buttermilk or sour gruel",
+                "Meat of pig, buffalo, sheep, fish and cow",
+                "Vegetables of oil cake (pinyaka), pindalu (a tuber) and dried potherbs",
+                "Upadamsha (chutney or salad) of radish (mulaka), mustard (sarshapa), garlic (lashuna), fruits of Indian beech tree (Pongamia Glabra) (karanja), drumsticks (Moringa oleifera) (shigru), its sweet variety (madhu shigru) , muskmelon (kharabusa), lemongrass (bhustruna), sumukha (Ocimum gratissimum L.), surasa (Ocimum sanctum L.), kutheraka (Ocimum basilicum L.), gandeera (Coleus barbatus (Andr.) Benth.) , kalamalaka (basil Ocimum tenuiflorum), parnasa (Ocimum basilicum L.), kshavaka (Brassica nigra (L.) Koch.) and phanijzaka (Origanum majorana L.)",
+                "Consumption of fermented beverages like sura (wine), sauvira (sour gruel), tushodaka (types of vinegar or fermented water of chaff of grain or corn or rice), maireya (a type of intoxicating drink), medaka (spirituous liquor used for distillation), madhulaka (arak distilled from the blossoms of the honey tree or any intoxicating drink [Madhuca longifolia -Bot.]), shukta (any sour liquor or gruel), sour preparations of kuvala (Zizyphus mauritiana Lam.) and badara (Zizyphus mauritiana Lam.) (both are types of jujube)",
+                "Preparations of (rice) flour in excess after meals",
+                "Excessive quantities of pishtanna (cake or pastries or food prepared from fine flour)",
+                "Frequent and/or excess consumption of raw milk, especially after being afflicted by intense heat, or when recovering from a heat-stroke",
+                "Eating Rohini vegetable (Myrica nagi THUNB.) with milk",
+                "Meat of Kanakapota (a type of pigeon) cooked with mustard oil and alkali",
+                "Consumption of milk with sour beverages, or food cooked with horse gram (kulattha), oil cake (pinyaka), fruits of jambu (Syzygium cumini (L.) Skeels) and lakucha (Artocarpus lakoocha Roxb.) after being afflicted with intense heat"
+            ]
+        },
+        {
+            "type": "p",
+            "text": "With such food articles, a person’s pitta dosha is vitiated and the quantity of blood in his body exceeds its normal limits. Along with the increased quantity of vitiated blood in the system, vitiated pitta dosha gets into the circulation. It reaches the channels of tranformation of blood (raktavaha srotas) originating from organs like liver and spleen. Due to excess discharge or fluidity (abhishyandi) and heaviness (guru), the congestion in the channels occur. This leads to morbidity in rakta dhatu . [4]",
+            "html": "<p>With such food articles, a person’s <a href=\"/index.php?title=Pitta_dosha\" title=\"Pitta dosha\">pitta dosha</a> is vitiated and the quantity of blood in his body exceeds its normal limits. Along with the increased quantity of vitiated blood in the system, vitiated <a href=\"/index.php?title=Pitta_dosha\" title=\"Pitta dosha\">pitta dosha</a> gets into the circulation. It reaches the channels of tranformation of blood (raktavaha srotas) originating from organs like liver and spleen. Due to excess discharge or fluidity (abhishyandi) and heaviness (guru), the congestion in the channels occur. This leads to morbidity in <a href=\"/index.php?title=Rakta_dhatu\" title=\"Rakta dhatu\">rakta dhatu</a>. [4]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Lohitapitta",
+            "html": "<h3><span class=\"mw-headline\" id=\"Lohitapitta\"><a href=\"/index.php?title=Raktapitta\" title=\"Raktapitta\">Lohitapitta</a></span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "संसर्गाल्लोहितप्रदूषणाल्लोहितगन्धवर्णानुविधानाच्च पित्तं लोहितपित्तमित्याचक्षते||५||",
+            "html": "<p>संसर्गाल्लोहितप्रदूषणाल्लोहितगन्धवर्णानुविधानाच्च पित्तं  लोहितपित्तमित्याचक्षते||५||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "saṁsargāllōhitapradūṣaṇāllōhitagandhavarṇānuvidhānācca [12] pittaṁ lōhitapittamityācakṣatē||5||",
+            "html": "<p>saṁsargāllōhitapradūṣaṇāllōhitagandhavarṇānuvidhānācca [12] pittaṁ lōhitapittamityācakṣatē||5||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "saMsargAllohitapradUShaNAllohitagandhavarNAnuvidhAnAcca [12] pittaM lohitapittamityAcakShate||5||",
+            "html": "<p>saMsargAllohitapradUShaNAllohitagandhavarNAnuvidhAnAcca [12] pittaM lohitapittamityAcakShate||5|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Pitta gets the name lohitapitta because after mixing with blood it acquires the color and smell of blood. [5]",
+            "html": "<p><a href=\"/index.php?title=Pitta_dosha\" title=\"Pitta dosha\">Pitta</a> gets the name <a href=\"/index.php?title=Raktapitta\" title=\"Raktapitta\">lohitapitta</a> because after mixing with blood it acquires the color and smell of blood. [5]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Prodromal symptoms",
+            "html": "<h3><span class=\"mw-headline\" id=\"Prodromal_symptoms\">Prodromal symptoms</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "तस्येमानि पूर्वरूपाणि भवन्ति; तद्यथा- अनन्नाभिलाषः, भुक्तस्य विदाहः, शुक्ताम्लगन्धरस उद्गारः, छर्देरभीक्ष्णमागमनं, छर्दितस्य बीभत्सता, स्वरभेदो, गात्राणां सदनं, परिदाहः, मुखाद्धूमागम इव, लोहलोहितमत्स्यामगन्धित्वमिव चास्यस्य, रक्तहरितहारिद्रत्वमङ्गावयवशकृन्मूत्रस्वेदलालासिङ्घाणकास्यकर्णमलपिडकोलिकापिडकानाम्, अङ्गवेदना, लोहितनीलपीतश्यावानामर्चिष्मतां च रूपाणां स्वप्ने दर्शनमभीक्ष्णमिति (लोहितपित्तपूर्वरूपाणि भवन्ति)||६||",
+            "html": "<p>तस्येमानि पूर्वरूपाणि भवन्ति; तद्यथा- अनन्नाभिलाषः, भुक्तस्य विदाहः, शुक्ताम्लगन्धरस उद्गारः, छर्देरभीक्ष्णमागमनं, छर्दितस्य बीभत्सता, स्वरभेदो, गात्राणां सदनं, परिदाहः, मुखाद्धूमागम इव, लोहलोहितमत्स्यामगन्धित्वमिव चास्यस्य, रक्तहरितहारिद्रत्वमङ्गावयवशकृन्मूत्रस्वेदलालासिङ्घाणकास्यकर्णमलपिडकोलिकापिडकानाम्, अङ्गवेदना, लोहितनीलपीतश्यावानामर्चिष्मतां च रूपाणां स्वप्ने दर्शनमभीक्ष्णमिति (लोहितपित्तपूर्वरूपाणि  भवन्ति)||६||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "tasyēmāni pūrvarūpāṇi bhavanti; tadyathā- anannābhilāṣaḥ, bhuktasya vidāhaḥ, śuktāmlagandharasa udgāraḥ, chardērabhīkṣṇamāgamanaṁ, charditasyabībhatsatā, svarabhēdō, gātrāṇāṁ sadanaṁ, paridāhaḥ, mukhāddhūmāgama iva, lōhalōhitamatsyāmagandhitvamiva cāsyasya,raktaharitahāridratvamaṅgāvayavaśakr̥nmūtrasvēdalālāsiṅghāṇakāsyakarṇamalapiḍakōlikāpiḍakānām [14] , aṅgavēdanā, lōhitanīlapītaśyāvānāmarciṣmatāṁ carūpāṇāṁ svapnē darśanamabhīkṣṇamiti (lōhitapittapūrvarūpāṇi [15] bhavanti)||6||",
+            "html": "<p>tasyēmāni pūrvarūpāṇi bhavanti; tadyathā- anannābhilāṣaḥ, bhuktasya vidāhaḥ, śuktāmlagandharasa udgāraḥ, chardērabhīkṣṇamāgamanaṁ, charditasyabībhatsatā, svarabhēdō, gātrāṇāṁ sadanaṁ, paridāhaḥ, mukhāddhūmāgama iva, lōhalōhitamatsyāmagandhitvamiva cāsyasya,raktaharitahāridratvamaṅgāvayavaśakr̥nmūtrasvēdalālāsiṅghāṇakāsyakarṇamalapiḍakōlikāpiḍakānām [14] , aṅgavēdanā, lōhitanīlapītaśyāvānāmarciṣmatāṁ carūpāṇāṁ svapnē darśanamabhīkṣṇamiti (lōhitapittapūrvarūpāṇi [15] bhavanti)||6||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "tasyemAni pUrvarUpANi bhavanti; tadyathA- anannAbhilAShaH, bhuktasya vidAhaH, shuktAmlagandharasa udgAraH, charderabhIkShNamAgamanaM, charditasyabIbhatsatA, svarabhedo, gAtrANAM sadanaM, paridAhaH, mukhAddhUmAgama iva, lohalohitamatsyAmagandhitvamiva cAsyasya,raktaharitahAridratvama~ggAvayavashakRunmUtrasvedalAlAsi~gghANakAsyakarNamalapiDakolikApiDakAnAm [14] , a~ggavedanA,lohitanIlapItashyAvAnAmarciShmatAM ca rUpANAM svapne darshanamabhIkShNamiti (lohitapittapUrvarUpANi [15] bhavanti)||6||",
+            "html": "<p>tasyemAni pUrvarUpANi bhavanti; tadyathA- anannAbhilAShaH, bhuktasya vidAhaH, shuktAmlagandharasa udgAraH, charderabhIkShNamAgamanaM, charditasyabIbhatsatA, svarabhedo, gAtrANAM sadanaM, paridAhaH, mukhAddhUmAgama iva, lohalohitamatsyAmagandhitvamiva cAsyasya,raktaharitahAridratvama~ggAvayavashakRunmUtrasvedalAlAsi~gghANakAsyakarNamalapiDakolikApiDakAnAm [14] , a~ggavedanA,lohitanIlapItashyAvAnAmarciShmatAM ca rUpANAM svapne darshanamabhIkShNamiti (lohitapittapUrvarUpANi [15] bhavanti)||6|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "The prodromal symptoms of raktapitta include aversion to food, hot eructation just after meal, belches with smell and aftertaste of sour gruel, frequent vomiting, ugliness of vomitus, hoarseness of voice, malaise, radiating burning sensation, emittance of smoke from the mouth, smell of metal, blood, or fish , mucus in the mouth, appearance of red, green or yellow spots in body parts, feces, urine, sweat, saliva, nose-secretion, excreta from mouth and ear and boils, bodyache, and frequent vision of red, blue, yellow, blackish and brilliant objects in dreams. [6]",
+            "html": "<p>The prodromal symptoms of <a href=\"/index.php?title=Raktapitta\" title=\"Raktapitta\">raktapitta</a> include aversion to food, hot eructation just after meal, belches with smell and aftertaste of sour gruel, frequent vomiting, ugliness of vomitus, hoarseness of voice, malaise, radiating burning sensation, emittance of smoke from the mouth, smell of metal, blood, or fish , mucus in the mouth, appearance of red, green or yellow spots in body parts, feces, urine, sweat, saliva, nose-secretion, excreta from mouth and ear and boils, bodyache, and frequent vision of red, blue, yellow, blackish and brilliant objects in dreams. [6]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Complications",
+            "html": "<h3><span class=\"mw-headline\" id=\"Complications\">Complications</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "उपद्रवास्तु खलु दौर्बल्यारोचकाविपाकश्वासकासज्वरातीसारशोफशोषपाण्डुरोगाः स्वरभेदश्च||७||",
+            "html": "<p>उपद्रवास्तु खलु दौर्बल्यारोचकाविपाकश्वासकासज्वरातीसारशोफशोषपाण्डुरोगाः स्वरभेदश्च||७||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "upadravāstu khalu daurbalyārōcakāvipākaśvāsakāsajvarātīsāraśōphaśōṣapāṇḍurōgāḥ svarabhēdaśca||7||",
+            "html": "<p>upadravāstu khalu daurbalyārōcakāvipākaśvāsakāsajvarātīsāraśōphaśōṣapāṇḍurōgāḥ svarabhēdaśca||7|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "upadravAstu khalu daurbalyArocakAvipAkashvAsakAsajvarAtIsArashophashoShapANDurogAH svarabhedashca||7||",
+            "html": "<p>upadravAstu khalu daurbalyArocakAvipAkashvAsakAsajvarAtIsArashophashoShapANDurogAH svarabhedashca||7||\t\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Complications (of raktapitta ) include debility, anorexia, indigestion, dyspnea, cough, fever, diarrhea, edema, emaciation, anemia and hoarseness of voice. [7]",
+            "html": "<p>Complications (of <i>raktapitta</i>) include debility, anorexia, indigestion, dyspnea, cough, fever, diarrhea, edema, emaciation, anemia and hoarseness of voice. [7]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Disease pathways",
+            "html": "<h3><span class=\"mw-headline\" id=\"Disease_pathways\">Disease pathways</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "मार्गौ पुनरस्य द्वौ ऊर्ध्वं, चाधश्च तद्बहुश्लेष्मणि शरीरे श्लेष्मसंसर्गादूर्ध्वं प्रतिपद्यमानं कर्णनासिकानेत्रास्येभ्यः प्रच्यवते, बहुवाते तु शरीरे वातसंसर्गादधः प्रतिपद्यमानं मूत्रपुरीषमार्गाभ्यां प्रच्यवते, बहुश्लेष्मवाते तु शरीरे श्लेष्मवातसंसर्गाद्द्वावपि मार्गौ प्रतिपद्यते, तौ मार्गौ प्रतिपद्यमानं सर्वेभ्य एव यथोक्तेभ्यः खेभ्यः प्रच्यवते शरीरस्य||८||",
+            "html": "<p>मार्गौ पुनरस्य द्वौ ऊर्ध्वं, चाधश्च तद्बहुश्लेष्मणि शरीरे  श्लेष्मसंसर्गादूर्ध्वं प्रतिपद्यमानं कर्णनासिकानेत्रास्येभ्यः प्रच्यवते, बहुवाते तु शरीरे वातसंसर्गादधः प्रतिपद्यमानं मूत्रपुरीषमार्गाभ्यां प्रच्यवते, बहुश्लेष्मवाते तु शरीरे श्लेष्मवातसंसर्गाद्द्वावपि मार्गौ प्रतिपद्यते, तौ मार्गौ प्रतिपद्यमानं सर्वेभ्य एव यथोक्तेभ्यः खेभ्यः प्रच्यवते शरीरस्य||८|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "mārgau punarasya dvau ūrdhvaṁ, cādhaśca|\ntadbahuślēṣmaṇi śarīrē ślēṣmasaṁsargādūrdhvaṁ pratipadyamānaṁ karṇanāsikānētrāsyēbhyaḥ pracyavatē, bahuvātē tu śarīrē vātasaṁsargādadhaḥpratipadyamānaṁ mūtrapurīṣamārgābhyāṁ pracyavatē, bahuślēṣmavātē tu śarīrē ślēṣmavātasaṁsargāddvāvapi mārgau pratipadyatē, tau mārgaupratipadyamānaṁ sarvēbhya ēva yathōktēbhyaḥ khēbhyaḥ pracyavatē śarīrasya||8||",
+            "html": "<p>mārgau punarasya dvau ūrdhvaṁ, cādhaśca| \ntadbahuślēṣmaṇi śarīrē ślēṣmasaṁsargādūrdhvaṁ pratipadyamānaṁ karṇanāsikānētrāsyēbhyaḥ pracyavatē, bahuvātē tu śarīrē vātasaṁsargādadhaḥpratipadyamānaṁ mūtrapurīṣamārgābhyāṁ pracyavatē, bahuślēṣmavātē tu śarīrē ślēṣmavātasaṁsargāddvāvapi mārgau pratipadyatē, tau mārgaupratipadyamānaṁ sarvēbhya ēva yathōktēbhyaḥ khēbhyaḥ pracyavatē śarīrasya||8|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "mArgau punarasya dvau UrdhvaM, cAdhashca|\ntadbahushleShmaNi sharIre shleShmasaMsargAdUrdhvaM pratipadyamAnaM karNanAsikAnetrAsyebhyaH pracyavate, bahuvAte tu sharIre vAtasaMsargAdadhaHpratipadyamAnaM mUtrapurIShamArgAbhyAM pracyavate, bahushleShmavAte tu sharIre shleShmavAtasaMsargAddvAvapi mArgau pratipadyate, tau mArgaupratipadyamAnaM sarvebhya eva yathoktebhyaH khebhyaH pracyavate sharIrasya||8||",
+            "html": "<p>mArgau punarasya dvau UrdhvaM, cAdhashca| \ntadbahushleShmaNi sharIre shleShmasaMsargAdUrdhvaM pratipadyamAnaM karNanAsikAnetrAsyebhyaH pracyavate, bahuvAte tu sharIre vAtasaMsargAdadhaHpratipadyamAnaM mUtrapurIShamArgAbhyAM pracyavate, bahushleShmavAte tu sharIre shleShmavAtasaMsargAddvAvapi mArgau pratipadyate, tau mArgaupratipadyamAnaM sarvebhya eva yathoktebhyaH khebhyaH pracyavate sharIrasya||8|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "There are two routes of the manifestation of raktapitta - upwards and downwards. In persons having an abundance of kapha , vitiated rakta goes up and bleeding occurs from ear, nose, eyes and mouth. In those having an excess of vata , rakta flows downwards along with vata and patients bleed through the urinary tract and rectum. Finally, in those having abundance of both kapha and vata , rakta comes out from the body with both the routes and thus bleeds through all the aforesaid orifices. [8]",
+            "html": "<p>There are two routes of the manifestation of <i>raktapitta</i> -  upwards and downwards. In persons having an abundance of <i><a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a></i>, vitiated <i><a class=\"mw-redirect\" href=\"/index.php?title=Rakta\" title=\"Rakta\">rakta</a></i> goes up and bleeding occurs from ear, nose, eyes and mouth. In those having an excess of <i><a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a>, <a class=\"mw-redirect\" href=\"/index.php?title=Rakta\" title=\"Rakta\">rakta</a></i> flows downwards along with <i><a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a></i> and patients bleed through the urinary tract and rectum. Finally, in those having abundance of both <i><a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a></i> and <i><a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a></i>, <i><a class=\"mw-redirect\" href=\"/index.php?title=Rakta\" title=\"Rakta\">rakta</a></i> comes out from the body with both the routes and thus bleeds through all the aforesaid orifices. [8]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Prognosis",
+            "html": "<h3><span class=\"mw-headline\" id=\"Prognosis\">Prognosis</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "तत्र यदूर्ध्वभागं तत् साध्यं, विरेचनोपक्रमणीयत्वाद्बह्वौषधत्वाच्च; यदधोभागं तद्याप्यं, वमनोपक्रमणीयत्वादल्पौषधत्वाच्च; यदुभयभागं तदसाध्यं, वमनविरेचनायोगित्वादनौषधत्वाच्चेति||९||",
+            "html": "<p>तत्र यदूर्ध्वभागं तत् साध्यं, विरेचनोपक्रमणीयत्वाद्बह्वौषधत्वाच्च; यदधोभागं तद्याप्यं, वमनोपक्रमणीयत्वादल्पौषधत्वाच्च; यदुभयभागं तदसाध्यं, वमनविरेचनायोगित्वादनौषधत्वाच्चेति||९||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "tatra yadūrdhvabhāgaṁ tat sādhyaṁ, virēcanōpakramaṇīyatvādbahvauṣadhatvācca; yadadhōbhāgaṁ tadyāpyaṁ, vamanōpakramaṇīyatvādalpauṣadhatvācca;yadubhayabhāgaṁ tadasādhyaṁ, vamanavirēcanāyōgitvādanauṣadhatvāccēti||9||",
+            "html": "<p>tatra yadūrdhvabhāgaṁ tat sādhyaṁ, virēcanōpakramaṇīyatvādbahvauṣadhatvācca; yadadhōbhāgaṁ tadyāpyaṁ, vamanōpakramaṇīyatvādalpauṣadhatvācca;yadubhayabhāgaṁ tadasādhyaṁ, vamanavirēcanāyōgitvādanauṣadhatvāccēti||9|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "tatra yadUrdhvabhAgaM tat sAdhyaM, virecanopakramaNIyatvAdbahvauShadhatvAcca; yadadhobhAgaM tadyApyaM, vamanopakramaNIyatvAdalpauShadhatvAcca;yadubhayabhAgaM tadasAdhyaM, vamanavirecanAyogitvAdanauShadhatvAcceti||9||",
+            "html": "<p>tatra yadUrdhvabhAgaM tat sAdhyaM, virecanopakramaNIyatvAdbahvauShadhatvAcca; yadadhobhAgaM tadyApyaM, vamanopakramaNIyatvAdalpauShadhatvAcca;yadubhayabhAgaM tadasAdhyaM, vamanavirecanAyogitvAdanauShadhatvAcceti||9|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Amongst these, that which comes out of the upper orifices is curable and is treatable by purgation due to availability of plenty of drugs for the purpose. That coming out from the lower orifices is palliable because of being amenable to emesis and availability of lesser number of drugs for the purpose. That coming out from both the routes is incurable because of non-applicability of both emesis and purgation and in want of suitable drugs. (9)",
+            "html": "<p>Amongst these, that which comes out of the upper orifices is curable and is treatable by purgation due to availability of plenty of drugs for the purpose. That coming out from the lower orifices is palliable because of being amenable to emesis and availability of lesser number of drugs for the purpose. That coming out from both the routes is incurable because of non-applicability of both emesis and purgation and in want of suitable drugs. (9)\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Origin of raktapitta",
+            "html": "<h3><span class=\"mw-headline\" id=\"Origin_of_raktapitta\">Origin of raktapitta</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "रक्तपित्तप्रकोपस्तु खलु पुरा दक्षयज्ञोद्ध्वंसे रुद्रकोपामर्षाग्निना प्राणिनां परिगतशरीरप्राणानामभवज्ज्वरमनु||१०||",
+            "html": "<p>रक्तपित्तप्रकोपस्तु खलु पुरा दक्षयज्ञोद्ध्वंसे रुद्रकोपामर्षाग्निना प्राणिनां  परिगतशरीरप्राणानामभवज्ज्वरमनु||१०|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "raktapittaprakōpastu khalu purā dakṣayajñōddhvaṁsē rudrakōpāmarṣāgninā [16] prāṇināṁ parigataśarīraprāṇānāmabhavajjvaramanu||10||",
+            "html": "<p>raktapittaprakōpastu khalu purā dakṣayajñōddhvaṁsē rudrakōpāmarṣāgninā [16] prāṇināṁ parigataśarīraprāṇānāmabhavajjvaramanu||10||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "raktapittaprakopastu khalu purA dakShayaj~joddhvaMse rudrakopAmarShAgninA [16] prANinAM parigatasharIraprANAnAmabhavajjvaramanu||10||",
+            "html": "<p>raktapittaprakopastu khalu purA dakShayaj~joddhvaMse rudrakopAmarShAgninA [16] prANinAM parigatasharIraprANAnAmabhavajjvaramanu||10||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Hystorically, raktapitta occured after jwara because of Rudra’s anger pervaded the human being at the time of destruction of Daksha's sacrifice. [10]",
+            "html": "<p>Hystorically, <a href=\"/index.php?title=Raktapitta\" title=\"Raktapitta\">raktapitta</a> occured after <a href=\"/index.php?title=Jwara\" title=\"Jwara\">jwara</a> because of Rudra’s anger pervaded the human being  at the time of destruction of Daksha's sacrifice. [10]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "General principles of management",
+            "html": "<h3><span class=\"mw-headline\" id=\"General_principles_of_management\">General principles of management</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "तस्याशुकारिणो दावाग्नेरिवापतितस्यात्ययिकस्याशु प्रशान्त्यै प्रयतितव्यं मात्रां देशं कालं चाभिसमीक्ष्य सन्तर्पणेनापतर्पणेन वा मृदुमधुरशिशिरतिक्तकषायैरभ्यवहार्यैः प्रदेहपरिषेकावगाहसंस्पर्शनैर्वमनाद्यैर्वा तत्रावहितेनेति||११||",
+            "html": "<p>तस्याशुकारिणो दावाग्नेरिवापतितस्यात्ययिकस्याशु प्रशान्त्यै प्रयतितव्यं मात्रां देशं कालं चाभिसमीक्ष्य  सन्तर्पणेनापतर्पणेन  वा मृदुमधुरशिशिरतिक्तकषायैरभ्यवहार्यैः प्रदेहपरिषेकावगाहसंस्पर्शनैर्वमनाद्यैर्वा  तत्रावहितेनेति||११||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "tasyāśukāriṇō dāvāgnērivāpatitasyātyayikasyāśu praśāntyai prayatitavyaṁ mātrāṁ dēśaṁ kālaṁ cābhisamīkṣya santarpaṇēnāpatarpaṇēna vāmr̥dumadhuraśiśiratiktakaṣāyairabhyavahāryaiḥ pradēhapariṣēkāvagāhasaṁsparśanairvamanādyairvā tatrāvahitēnēti||11||",
+            "html": "<p>tasyāśukāriṇō dāvāgnērivāpatitasyātyayikasyāśu praśāntyai prayatitavyaṁ mātrāṁ dēśaṁ kālaṁ cābhisamīkṣya santarpaṇēnāpatarpaṇēna vāmr̥dumadhuraśiśiratiktakaṣāyairabhyavahāryaiḥ pradēhapariṣēkāvagāhasaṁsparśanairvamanādyairvā tatrāvahitēnēti||11|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "tasyAshukAriNo dAvAgnerivApatitasyAtyayikasyAshu prashAntyai prayatitavyaM mAtrAM deshaM kAlaM cAbhisamIkShya santarpaNenApatarpaNena vAmRudumadhurashishiratiktakaShAyairabhyavahAryaiH pradehapariShekAvagAhasaMsparshanairvamanAdyairvA tatrAvahiteneti||11||",
+            "html": "<p>tasyAshukAriNo dAvAgnerivApatitasyAtyayikasyAshu prashAntyai prayatitavyaM mAtrAM deshaM kAlaM cAbhisamIkShya santarpaNenApatarpaNena vAmRudumadhurashishiratiktakaShAyairabhyavahAryaiH pradehapariShekAvagAhasaMsparshanairvamanAdyairvA tatrAvahiteneti||11|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "The disease is acute in nature and becomes critical very quickly, by spreading like bush fire. Hence its treatment should be done immediately with saturating or de-saturating soft, sweet, cold, bitter and astringent diet and pastes, baths, emesis etc. after due consideration of dose, place and time. [11]",
+            "html": "<p>The disease is acute in nature and becomes critical very quickly, by spreading like bush fire. Hence its treatment should be done immediately with saturating or de-saturating soft, sweet, cold, bitter and astringent diet and pastes, baths, emesis etc. after due consideration of dose, place and time. [11]\n</p>"
+        },
+        {
+            "type": "h4",
+            "text": "Virechana (therapeutic purgation) in raktapitta",
+            "html": "<h4><span id=\"Virechana_.28therapeutic_purgation.29_in_raktapitta\"></span><span class=\"mw-headline\" id=\"Virechana_(therapeutic_purgation)_in_raktapitta\"><a href=\"/index.php?title=Virechana\" title=\"Virechana\">Virechana</a> (therapeutic purgation) in <a href=\"/index.php?title=Raktapitta\" title=\"Raktapitta\">raktapitta</a></span></h4>",
+            "level": 4
+        },
+        {
+            "type": "p",
+            "text": "भवन्ति चात्र-",
+            "html": "<p>भवन्ति  चात्र- \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "साध्यं लोहितपित्तं तद्यदूर्ध्वं प्रतिपद्यते|",
+            "html": "<p>साध्यं लोहितपित्तं तद्यदूर्ध्वं प्रतिपद्यते| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "विरेचनस्य योगित्वाद्बहुत्वाद्भेषजस्य च||१२||",
+            "html": "<p>विरेचनस्य योगित्वाद्बहुत्वाद्भेषजस्य  च||१२||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "विरेचनं तु पित्तस्य जयार्थे परमौषधम्|",
+            "html": "<p>विरेचनं  तु  पित्तस्य  जयार्थे  परमौषधम्| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "यश्च तत्रान्वयः श्लेष्मा तस्य चानधमं स्मृतम्||१३||",
+            "html": "<p>यश्च  तत्रान्वयः श्लेष्मा तस्य चानधमं स्मृतम्||१३||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "भवेद्योगावहं तत्र मधुरं चैव भेषजम्|",
+            "html": "<p>भवेद्योगावहं तत्र मधुरं चैव भेषजम्| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "तस्मात् साध्यं मतं रक्तं यदूर्ध्वं प्रतिपद्यते||१४||",
+            "html": "<p>तस्मात् साध्यं मतं रक्तं  यदूर्ध्वं प्रतिपद्यते||१४||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "bhavanti cātra- sādhyaṁ lōhitapittaṁ tadyadūrdhvaṁ pratipadyatē|",
+            "html": "<p>bhavanti cātra- sādhyaṁ lōhitapittaṁ tadyadūrdhvaṁ pratipadyatē| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "virēcanasya yōgitvādbahutvādbhēṣajasya ca||12||",
+            "html": "<p>virēcanasya yōgitvādbahutvādbhēṣajasya ca||12|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "virēcanaṁ tu pittasya jayārthē paramauṣadham|",
+            "html": "<p>virēcanaṁ tu pittasya jayārthē paramauṣadham| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "yaśca tatrānvayaḥ [17] ślēṣmā tasya cānadhamaṁ smr̥tam||13||",
+            "html": "<p>yaśca tatrānvayaḥ [17] ślēṣmā tasya cānadhamaṁ smr̥tam||13|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "bhavēdyōgāvahaṁ tatra madhuraṁ [18] caiva bhēṣajam|",
+            "html": "<p>bhavēdyōgāvahaṁ tatra madhuraṁ [18] caiva bhēṣajam| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "tasmāt sādhyaṁ mataṁ raktaṁ yadūrdhvaṁ pratipadyatē||14||",
+            "html": "<p>tasmāt sādhyaṁ mataṁ raktaṁ yadūrdhvaṁ pratipadyatē||14||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "bhavanti cAtra- sAdhyaM lohitapittaM tadyadUrdhvaM pratipadyate|",
+            "html": "<p>bhavanti cAtra- sAdhyaM lohitapittaM tadyadUrdhvaM pratipadyate| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "virecanasya yogitvAdbahutvAdbheShajasya ca||12||",
+            "html": "<p>virecanasya yogitvAdbahutvAdbheShajasya ca||12|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "virecanaM tu pittasya jayArthe paramauShadham|",
+            "html": "<p>virecanaM tu pittasya jayArthe paramauShadham| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "yashca tatrAnvayaH [17] shleShmA tasya cAnadhamaM smRutam||13||",
+            "html": "<p>yashca tatrAnvayaH [17] shleShmA tasya cAnadhamaM smRutam||13|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "bhavedyogAvahaM tatra madhuraM [18] caiva bheShajam|",
+            "html": "<p>bhavedyogAvahaM tatra madhuraM [18] caiva bheShajam| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "tasmAt sAdhyaM mataM raktaM yadUrdhvaM pratipadyate||14||",
+            "html": "<p>tasmAt sAdhyaM mataM raktaM yadUrdhvaM pratipadyate||14||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "The upward variety of raktapitta is curable because of applicability of purgation and abundance of useful drugs. Purgation is the best remedy for alleviation of pitta and ambivalence to kapha . Sweet drugs are also applicable in this case. Hence, bleeding from the upper part is curable. [12-14]",
+            "html": "<p>The upward variety of <a href=\"/index.php?title=Raktapitta\" title=\"Raktapitta\">raktapitta</a> is curable because of applicability of <a class=\"mw-redirect\" href=\"/index.php?title=Purgation\" title=\"Purgation\">purgation</a> and abundance of useful drugs. <a class=\"mw-redirect\" href=\"/index.php?title=Purgation\" title=\"Purgation\">Purgation</a> is the best remedy for alleviation of <a href=\"/index.php?title=Pitta\" title=\"Pitta\">pitta</a> and ambivalence to <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a>. Sweet drugs are also applicable in this case. Hence, bleeding from the upper part is curable. [12-14] \n</p>"
+        },
+        {
+            "type": "h4",
+            "text": "Vamana (therapeutic emesis) in raktapitta",
+            "html": "<h4><span id=\"Vamana_.28therapeutic_emesis.29_in_raktapitta\"></span><span class=\"mw-headline\" id=\"Vamana_(therapeutic_emesis)_in_raktapitta\"><a href=\"/index.php?title=Vamana\" title=\"Vamana\">Vamana</a> (therapeutic emesis) in <a href=\"/index.php?title=Raktapitta\" title=\"Raktapitta\">raktapitta</a></span></h4>",
+            "level": 4
+        },
+        {
+            "type": "p",
+            "text": "रक्तं तु यदधोभागं तद्याप्यमिति निश्चितम्|",
+            "html": "<p>रक्तं  तु यदधोभागं तद्याप्यमिति  निश्चितम्| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "वमनस्याल्पयोगित्वादल्पत्वाद्भेषजस्य च||१५||",
+            "html": "<p>वमनस्याल्पयोगित्वादल्पत्वाद्भेषजस्य च||१५||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "वमनं हि न पित्तस्य हरणे श्रेष्ठमुच्यते|",
+            "html": "<p>वमनं हि  न पित्तस्य  हरणे श्रेष्ठमुच्यते| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "यश्च तत्रान्वयो वायुस्तच्छान्तौ चावरं स्मृतम्||१६||",
+            "html": "<p>यश्च तत्रान्वयो वायुस्तच्छान्तौ चावरं स्मृतम्||१६||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "तच्चायोगावहं तत्र कषायं तिक्तकानि च|",
+            "html": "<p>तच्चायोगावहं तत्र कषायं तिक्तकानि च| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "तस्माद्याप्यं समाख्यातं यदुक्तमनुलोमगम्||१७||",
+            "html": "<p>तस्माद्याप्यं समाख्यातं यदुक्तमनुलोमगम्||१७||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "raktaṁ tu yadadhōbhāgaṁ tadyāpyamiti niścitam|",
+            "html": "<p>raktaṁ tu yadadhōbhāgaṁ tadyāpyamiti niścitam| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "vamanasyālpayōgitvādalpatvādbhēṣajasya ca||15||",
+            "html": "<p>vamanasyālpayōgitvādalpatvādbhēṣajasya ca||15|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "vamanaṁ hi na pittasya haraṇē [20] śrēṣṭhamucyatē|",
+            "html": "<p>vamanaṁ hi na pittasya haraṇē [20] śrēṣṭhamucyatē| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "yaśca tatrānvayō [21] vāyustacchāntau cāvaraṁ smr̥tam||16||",
+            "html": "<p>yaśca tatrānvayō [21] vāyustacchāntau cāvaraṁ smr̥tam||16|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "taccāyōgāvahaṁ [22] tatra kaṣāyaṁ tiktakāni ca|",
+            "html": "<p>taccāyōgāvahaṁ [22] tatra kaṣāyaṁ tiktakāni ca| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "tasmādyāpyaṁ samākhyātaṁ yaduktamanulōmagam [23] ||17||",
+            "html": "<p>tasmādyāpyaṁ samākhyātaṁ yaduktamanulōmagam [23] ||17||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "raktaM tu yadadhobhAgaM tadyApyamiti nishcitam|",
+            "html": "<p>raktaM tu yadadhobhAgaM tadyApyamiti nishcitam| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "vamanasyAlpayogitvAdalpatvAdbheShajasya ca||15||",
+            "html": "<p>vamanasyAlpayogitvAdalpatvAdbheShajasya ca||15|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "vamanaM hi na pittasya haraNe [20] shreShThamucyate|",
+            "html": "<p>vamanaM hi na pittasya haraNe [20] shreShThamucyate| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "yashca tatrAnvayo [21] vAyustacchAntau cAvaraM smRutam||16||",
+            "html": "<p>yashca tatrAnvayo [21] vAyustacchAntau cAvaraM smRutam||16|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "taccAyogAvahaM [22] tatra kaShAyaM tiktakAni ca|",
+            "html": "<p>taccAyogAvahaM [22] tatra kaShAyaM tiktakAni ca| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "tasmAdyApyaM samAkhyAtaM yaduktamanulomagam [23] ||17||",
+            "html": "<p>tasmAdyApyaM samAkhyAtaM yaduktamanulomagam [23] ||17||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Hemorrhage from the lower parts is decidedly palliable because emesis has limited efficacy here and effective drugs are also a few. Emesis is not so efficacious for elimination of pitta and it is also ineffective in alleviation of vata responsible for the downward flow. Moreover, astringents and bitter drugs are not applicable there. Hence hemorrhage from the lower parts is considered palliable. [15-17]",
+            "html": "<p>Hemorrhage from the lower parts is decidedly palliable because <a class=\"mw-redirect\" href=\"/index.php?title=Emesis\" title=\"Emesis\">emesis</a> has limited efficacy here and effective drugs are also a few. <a class=\"mw-redirect\" href=\"/index.php?title=Emesis\" title=\"Emesis\">Emesis</a> is not so efficacious for elimination of <a href=\"/index.php?title=Pitta\" title=\"Pitta\">pitta</a> and it is also ineffective in alleviation of <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a> responsible for the downward flow. Moreover, astringents and bitter drugs are not applicable there. Hence hemorrhage from the lower parts is considered palliable. [15-17]  \n</p>"
+        },
+        {
+            "type": "h4",
+            "text": "Poor prognosis in severe bleeding",
+            "html": "<h4><span class=\"mw-headline\" id=\"Poor_prognosis_in_severe_bleeding\">Poor prognosis in severe bleeding</span></h4>",
+            "level": 4
+        },
+        {
+            "type": "p",
+            "text": "रक्तपित्तं तु यन्मार्गौ द्वावपि प्रतिपद्यते|",
+            "html": "<p>रक्तपित्तं तु यन्मार्गौ द्वावपि  प्रतिपद्यते| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "असाध्यमिति तज्ज्ञेयं पूर्वोक्तादेव कारणात्||१८||",
+            "html": "<p>असाध्यमिति तज्ज्ञेयं पूर्वोक्तादेव कारणात्||१८||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "नहि संशोधनं किञ्चिदस्त्यस्य प्रतिमार्गगम्|",
+            "html": "<p>नहि  संशोधनं  किञ्चिदस्त्यस्य प्रतिमार्गगम्| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "प्रतिमार्गं च हरणं रक्तपित्ते विधीयते||१९||",
+            "html": "<p>प्रतिमार्गं  च  हरणं रक्तपित्ते  विधीयते||१९||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "एवमेवोपशमनं सर्वशो नास्य विद्यते|",
+            "html": "<p>एवमेवोपशमनं सर्वशो नास्य  विद्यते| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "संसृष्टेषु च दोषेषु सर्वजिच्छमनं मतम् ||२०||",
+            "html": "<p>संसृष्टेषु  च  दोषेषु  सर्वजिच्छमनं  मतम् ||२०||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "इत्युक्तं त्रिविधोदर्कं रक्तं मार्गविशेषतः||२१||",
+            "html": "<p>इत्युक्तं त्रिविधोदर्कं  रक्तं मार्गविशेषतः||२१||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "raktapittaṁ tu yanmārgau dvāvapi pratipadyatē|",
+            "html": "<p>raktapittaṁ tu yanmārgau dvāvapi pratipadyatē| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "asādhyamiti tajjñēyaṁ pūrvōktādēva kāraṇāt||18||",
+            "html": "<p>asādhyamiti tajjñēyaṁ pūrvōktādēva kāraṇāt||18|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "nahi saṁśōdhanaṁ kiñcidastyasya pratimārgagam|",
+            "html": "<p>nahi saṁśōdhanaṁ kiñcidastyasya pratimārgagam| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "pratimārgaṁ ca haraṇaṁ raktapittē vidhīyatē||19||",
+            "html": "<p>pratimārgaṁ ca haraṇaṁ raktapittē vidhīyatē||19|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "ēvamēvōpaśamanaṁ sarvaśō nāsya vidyatē|",
+            "html": "<p>ēvamēvōpaśamanaṁ sarvaśō nāsya vidyatē| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "saṁsr̥ṣṭēṣu ca dōṣēṣu sarvajicchamanaṁ matam [25] ||20||",
+            "html": "<p>saṁsr̥ṣṭēṣu ca dōṣēṣu sarvajicchamanaṁ matam [25] ||20|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "ityuktaṁ trividhōdarkaṁ raktaṁ mārgaviśēṣataḥ|21|",
+            "html": "<p>ityuktaṁ trividhōdarkaṁ raktaṁ mārgaviśēṣataḥ|21| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "raktapittaM tu yanmArgau dvAvapi pratipadyate|",
+            "html": "<p>raktapittaM tu yanmArgau dvAvapi pratipadyate| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "asAdhyamiti tajj~jeyaM pUrvoktAdeva kAraNAt||18||",
+            "html": "<p>asAdhyamiti tajj~jeyaM pUrvoktAdeva kAraNAt||18|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "nahi saMshodhanaM ki~jcidastyasya pratimArgagam|",
+            "html": "<p>nahi saMshodhanaM ki~jcidastyasya pratimArgagam| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "pratimArgaM ca haraNaM raktapitte vidhIyate||19||",
+            "html": "<p>pratimArgaM ca haraNaM raktapitte vidhIyate||19|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "evamevopashamanaM sarvasho nAsya vidyate|",
+            "html": "<p>evamevopashamanaM sarvasho nAsya vidyate| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "saMsRuShTeShu ca doSheShu sarvajicchamanaM matam [25] ||20||",
+            "html": "<p>saMsRuShTeShu ca doSheShu sarvajicchamanaM matam [25] ||20|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "ityuktaM trividhodarkaM raktaM mArgavisheShataH|21|",
+            "html": "<p>ityuktaM trividhodarkaM raktaM mArgavisheShataH|21| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "In cases where blood comes out from both the routes, raktapitta is incurable because no effective evacuative measure is applicable. In raktapitta , elimination of dosha from the opposite route is recommended. Thus, the three types (on the basis of the routes of bleeding) of raktapitta progression ( udarka ) have been described. [18-20]",
+            "html": "<p>In cases where blood comes out from both the routes, <a href=\"/index.php?title=Raktapitta\" title=\"Raktapitta\">raktapitta</a> is incurable because no effective evacuative measure is applicable. In <a href=\"/index.php?title=Raktapitta\" title=\"Raktapitta\">raktapitta</a>, elimination of <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> from the opposite route is recommended. Thus, the three types (on the basis of the routes of bleeding) of <a href=\"/index.php?title=Raktapitta\" title=\"Raktapitta\">raktapitta</a> progression (<a class=\"new\" href=\"/index.php?title=Udarka&amp;action=edit&amp;redlink=1\" title=\"Udarka (page does not exist)\">udarka</a>) have been described. [18-20]\n</p>"
+        },
+        {
+            "type": "h4",
+            "text": "Factors affecting prognosis",
+            "html": "<h4><span class=\"mw-headline\" id=\"Factors_affecting_prognosis\">Factors affecting prognosis</span></h4>",
+            "level": 4
+        },
+        {
+            "type": "p",
+            "text": "एभ्यस्तु खलु हेतुभ्यः किञ्चित्साध्यं न सिध्यति||२१||",
+            "html": "<p>एभ्यस्तु खलु हेतुभ्यः किञ्चित्साध्यं न सिध्यति||२१||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "प्रेष्योपकरणाभावाद्दौरात्म्याद्वैद्यदोषतः|",
+            "html": "<p>प्रेष्योपकरणाभावाद्दौरात्म्याद्वैद्यदोषतः| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "अकर्मतश्च साध्यत्वं कश्चिद्रोगोऽतिवर्तते||२२||",
+            "html": "<p>अकर्मतश्च साध्यत्वं  कश्चिद्रोगोऽतिवर्तते||२२||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "तत्रासाध्यत्वमेकं स्यात् साध्ययाप्यपरिक्रमात्|२३|",
+            "html": "<p>तत्रासाध्यत्वमेकं स्यात्  साध्ययाप्यपरिक्रमात्|२३|\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "ēbhyastu khalu hētubhyaḥ kiñcitsādhyaṁ na sidhyati||21||",
+            "html": "<p>ēbhyastu khalu hētubhyaḥ kiñcitsādhyaṁ na sidhyati||21|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "prēṣyōpakaraṇābhāvāddaurātmyādvaidyadōṣataḥ|",
+            "html": "<p>prēṣyōpakaraṇābhāvāddaurātmyādvaidyadōṣataḥ| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "akarmataśca sādhyatvaṁ kaścidrōgō'tivartatē||22||",
+            "html": "<p>akarmataśca sādhyatvaṁ kaścidrōgō'tivartatē||22|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "tatrāsādhyatvamēkaṁ syāt sādhyayāpyaparikramāt|23|",
+            "html": "<p>tatrāsādhyatvamēkaṁ syāt sādhyayāpyaparikramāt|23| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "ebhyastu khalu hetubhyaH ki~jcitsAdhyaM na sidhyati||21||",
+            "html": "<p>ebhyastu khalu hetubhyaH ki~jcitsAdhyaM na sidhyati||21|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "preShyopakaraNAbhAvAddaurAtmyAdvaidyadoShataH|",
+            "html": "<p>preShyopakaraNAbhAvAddaurAtmyAdvaidyadoShataH| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "akarmatashca sAdhyatvaM kashcidrogo~ativartate||22||",
+            "html": "<p>akarmatashca sAdhyatvaM kashcidrogo~ativartate||22|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "tatrAsAdhyatvamekaM syAt sAdhyayApyaparikramAt|23|",
+            "html": "<p>tatrAsAdhyatvamekaM syAt sAdhyayApyaparikramAt|23|\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Some curable diseases do not get treated successfully (and lead to incurability) because of following factors:",
+            "html": "<p>Some curable diseases do not get treated successfully (and lead to incurability) because of following factors: \n</p>"
+        },
+        {
+            "type": "ul",
+            "text": "Not following proper treatment protocol lack of attendants and equipment Mischievousness and fault of the physician.",
+            "html": "<ul><li>Not following proper treatment protocol</li>\n<li>lack of attendants and equipment</li>\n<li>Mischievousness and fault of the physician.</li></ul>",
+            "items": [
+                "Not following proper treatment protocol",
+                "lack of attendants and equipment",
+                "Mischievousness and fault of the physician."
+            ]
+        },
+        {
+            "type": "p",
+            "text": "If the disease is not treated, then it proceeds to incurability. If treated well, sometimes the incurable disease may become curable or palliable. [21-23]",
+            "html": "<p>If the disease is not treated, then it proceeds to incurability. If treated well, sometimes the incurable disease may become curable or palliable.  [21-23]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Signs of incurable raktapitta",
+            "html": "<h3><span class=\"mw-headline\" id=\"Signs_of_incurable_raktapitta\">Signs of incurable <a href=\"/index.php?title=Raktapitta\" title=\"Raktapitta\">raktapitta</a></span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "रक्तपित्तस्य विज्ञानमिदं तस्योपदिश्यते||२३||",
+            "html": "<p>रक्तपित्तस्य विज्ञानमिदं तस्योपदिश्यते||२३|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "यत् कृष्णमथवा नीलं यद्वा शक्रधनुष्प्रभम्|",
+            "html": "<p>यत् कृष्णमथवा नीलं यद्वा शक्रधनुष्प्रभम्| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "रक्तपित्तमसाध्यं तद्वाससो रञ्जनं च यत्||२४||",
+            "html": "<p>रक्तपित्तमसाध्यं तद्वाससो रञ्जनं च यत्||२४||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "भृशं पूत्यतिमात्रं च सर्वोपद्रववच्च यत्|",
+            "html": "<p>भृशं पूत्यतिमात्रं च सर्वोपद्रववच्च यत्| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "बलमांसक्षये यच्च तच्च रक्तमसिद्धिमत्||२५||",
+            "html": "<p>बलमांसक्षये यच्च तच्च रक्तमसिद्धिमत्||२५||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "येन चोपहतो रक्तं रक्तपित्तेन मानवः|",
+            "html": "<p>येन चोपहतो रक्तं रक्तपित्तेन मानवः| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "पश्येद्दृश्यं वियच्चापि तच्चासाध्यं न संशयः||२६||",
+            "html": "<p>पश्येद्दृश्यं वियच्चापि तच्चासाध्यं न संशयः||२६||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "raktapittasya vijñānamidaṁ tasyōpadiśyatē||23||",
+            "html": "<p>raktapittasya vijñānamidaṁ tasyōpadiśyatē||23|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "yat kr̥ṣṇamathavā nīlaṁ yadvā śakradhanuṣprabham|",
+            "html": "<p>yat kr̥ṣṇamathavā nīlaṁ yadvā śakradhanuṣprabham| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "raktapittamasādhyaṁ tadvāsasō rañjanaṁ ca yat||24||",
+            "html": "<p>raktapittamasādhyaṁ tadvāsasō rañjanaṁ ca yat||24|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "bhr̥śaṁ pūtyatimātraṁ ca sarvōpadravavacca yat|",
+            "html": "<p>bhr̥śaṁ pūtyatimātraṁ ca sarvōpadravavacca yat| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "balamāṁsakṣayē yacca tacca raktamasiddhimat||25||",
+            "html": "<p>balamāṁsakṣayē yacca tacca raktamasiddhimat||25|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "yēna cōpahatō raktaṁ raktapittēna mānavaḥ|",
+            "html": "<p>yēna cōpahatō raktaṁ raktapittēna mānavaḥ| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "paśyēddr̥śyaṁ viyaccāpi taccāsādhyaṁ na saṁśayaḥ||26||",
+            "html": "<p>paśyēddr̥śyaṁ viyaccāpi taccāsādhyaṁ na saṁśayaḥ||26||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "raktapittasya vij~jAnamidaM tasyopadishyate||23||",
+            "html": "<p>raktapittasya vij~jAnamidaM tasyopadishyate||23|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "yat kRuShNamathavA nIlaM yadvA shakradhanuShprabham|",
+            "html": "<p>yat kRuShNamathavA nIlaM yadvA shakradhanuShprabham| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "raktapittamasAdhyaM tadvAsaso ra~jjanaM ca yat||24||",
+            "html": "<p>raktapittamasAdhyaM tadvAsaso ra~jjanaM ca yat||24|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "bhRushaM pUtyatimAtraM ca sarvopadravavacca yat|",
+            "html": "<p>bhRushaM pUtyatimAtraM ca sarvopadravavacca yat| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "balamAMsakShaye yacca tacca raktamasiddhimat||25||",
+            "html": "<p>balamAMsakShaye yacca tacca raktamasiddhimat||25|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "yena copahato raktaM raktapittena mAnavaH|",
+            "html": "<p>yena copahato raktaM raktapittena mAnavaH| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "pashyeddRushyaM viyaccApi taccAsAdhyaM na saMshayaH||26||",
+            "html": "<p>pashyeddRushyaM viyaccApi taccAsAdhyaM na saMshayaH||26||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Now described are types of raktapitta , identified (by their physical appearance). Raktapitta is incurable if the blood is black, blue or of rainbow color and stains clothes. Bleeding with excessively fetid smell, in large quantities, and associated with all the complications, particularly in weak and emaciated patients is incurable. A patient, if sees things around him and the sky red, is certainly suffering from an incurable variant of the disease. [23-26]",
+            "html": "<p>Now described are types of <a href=\"/index.php?title=Raktapitta\" title=\"Raktapitta\">raktapitta</a>, identified (by their physical appearance). <a href=\"/index.php?title=Raktapitta\" title=\"Raktapitta\">Raktapitta</a> is incurable if the blood is black, blue or of rainbow color and stains clothes. Bleeding with excessively fetid smell, in large quantities, and associated with all the complications, particularly in weak and emaciated patients is incurable. A patient, if sees things around him and the sky red, is certainly suffering from an incurable variant of the disease. [23-26]\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "तत्रासाध्यं परित्याज्यं, याप्यं यत्नेन यापयेत्|",
+            "html": "<p>तत्रासाध्यं परित्याज्यं, याप्यं यत्नेन यापयेत्| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "साध्यं चावहितः सिद्धैर्भेषजैः साधयेद्भिषक्||२७|",
+            "html": "<p>साध्यं चावहितः सिद्धैर्भेषजैः साधयेद्भिषक्||२७|\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "tatrāsādhyaṁ parityājyaṁ, yāpyaṁ yatnēna yāpayēt|",
+            "html": "<p>tatrāsādhyaṁ parityājyaṁ, yāpyaṁ yatnēna yāpayēt| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "sādhyaṁ cāvahitaḥ siddhairbhēṣajaiḥ sādhayēdbhiṣak||27||",
+            "html": "<p>sādhyaṁ cāvahitaḥ siddhairbhēṣajaiḥ sādhayēdbhiṣak||27||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "tatrAsAdhyaM parityAjyaM, yApyaM yatnena yApayet|",
+            "html": "<p>tatrAsAdhyaM parityAjyaM, yApyaM yatnena yApayet| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "sAdhyaM cAvahitaH siddhairbheShajaiH sAdhayedbhiShak||27||",
+            "html": "<p>sAdhyaM cAvahitaH siddhairbheShajaiH sAdhayedbhiShak||27||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "A patient suffering from the incurable variant should be avoided, while the one with the palliable variant should be managed with efforts and the curable one should be treated successfully with tried remedies. [27]",
+            "html": "<p>A patient suffering from the incurable variant should be avoided, while the one with the palliable variant should be managed with efforts and the curable one should be treated successfully with tried remedies. [27]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Summary",
+            "html": "<h3><span class=\"mw-headline\" id=\"Summary\">Summary</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "तत्र श्लोकौ-",
+            "html": "<p>तत्र श्लोकौ- \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "कारणं नामनिर्वृत्तिं पूर्वरूपाण्युपद्रवान्|",
+            "html": "<p>कारणं नामनिर्वृत्तिं पूर्वरूपाण्युपद्रवान्| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "मार्गौ दोषानुबन्धं च साध्यत्वं न च हेतुमत्||२८||",
+            "html": "<p>मार्गौ दोषानुबन्धं च साध्यत्वं न च हेतुमत्||२८||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "निदाने रक्तपित्तस्य व्याजहार पुनर्वसुः|",
+            "html": "<p>निदाने रक्तपित्तस्य व्याजहार पुनर्वसुः| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "वीतमोहरजोदोषलोभमानमदस्पृहः||२९||",
+            "html": "<p>वीतमोहरजोदोषलोभमानमदस्पृहः||२९||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "tatra ślōkau- kāraṇaṁ nāmanirvr̥ttiṁ pūrvarūpāṇyupadravān|",
+            "html": "<p>tatra ślōkau- kāraṇaṁ nāmanirvr̥ttiṁ pūrvarūpāṇyupadravān| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "mārgau dōṣānubandhaṁ ca sādhyatvaṁ na ca hētumat||28||",
+            "html": "<p>mārgau dōṣānubandhaṁ ca sādhyatvaṁ na ca hētumat||28|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "nidānē raktapittasya vyājahāra punarvasuḥ|",
+            "html": "<p>nidānē raktapittasya vyājahāra punarvasuḥ| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "vītamōharajōdōṣalōbhamānamadaspr̥haḥ||29||",
+            "html": "<p>vītamōharajōdōṣalōbhamānamadaspr̥haḥ||29|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "tatra shlokau- kAraNaM nAmanirvRuttiM pUrvarUpANyupadravAn|",
+            "html": "<p>tatra shlokau- kAraNaM nAmanirvRuttiM pUrvarUpANyupadravAn| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "mArgau doShAnubandhaM ca sAdhyatvaM na ca hetumat||28||",
+            "html": "<p>mArgau doShAnubandhaM ca sAdhyatvaM na ca hetumat||28|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "nidAne raktapittasya vyAjahAra punarvasuH|",
+            "html": "<p>nidAne raktapittasya vyAjahAra punarvasuH| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "vItamoharajodoShalobhamAnamadaspRuhaH||29||",
+            "html": "<p>vItamoharajodoShalobhamAnamadaspRuhaH||29||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Now summarizing the chapter–",
+            "html": "<p>Now summarizing the chapter– \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Etiology, etymology of the disease, prodromal symptoms, complications, routes, association of dosha , curability (or otherwise), with reasoning – all this has been addressed in the chapter on diagnosis of raktapitta by Punarvasu who has shed off tamas and rajas , dosha , greed, conceit and pride. [28-29]",
+            "html": "<p>Etiology, etymology of the disease, prodromal symptoms, complications, routes, association of <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a>, curability (or otherwise), with reasoning – all this has been addressed in the chapter on diagnosis of <a href=\"/index.php?title=Raktapitta\" title=\"Raktapitta\">raktapitta</a> by Punarvasu who has shed off <a href=\"/index.php?title=Tamas\" title=\"Tamas\">tamas</a> and <a href=\"/index.php?title=Rajas\" title=\"Rajas\">rajas</a>, <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a>, greed, conceit and pride. [28-29]\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "इत्यग्निवेशकृते तन्त्रे चरकप्रतिसंस्कृते|",
+            "html": "<p>इत्यग्निवेशकृते तन्त्रे चरकप्रतिसंस्कृते| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "निदानस्थाने रक्तपित्तनिदानं नाम द्वितीयोऽध्यायः||२||",
+            "html": "<p>निदानस्थाने रक्तपित्तनिदानं नाम  द्वितीयोऽध्यायः||२||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "ityagnivēśakr̥tē tantrē carakapratisaṁskr̥tē",
+            "html": "<p>ityagnivēśakr̥tē tantrē carakapratisaṁskr̥tē \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "nidānasthānē raktapittanidānaṁ nāma dvitīyō'dhyāyaḥ||2||",
+            "html": "<p>nidānasthānē raktapittanidānaṁ nāma dvitīyō'dhyāyaḥ||2||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "ityagniveshakRute tantre carakapratisaMskRute",
+            "html": "<p>ityagniveshakRute tantre carakapratisaMskRute \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "nidAnasthAne raktapittanidAnaM nAma dvitIyo~adhyAyaH||2||",
+            "html": "<p>nidAnasthAne raktapittanidAnaM nAma dvitIyo~adhyAyaH||2|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Thus ends the second chapter on diagnosis of raktapitta in Nidana Sthana in the treatise composed by Agnivesha and redacted by Charak. [2]",
+            "html": "<p>Thus ends the second chapter on diagnosis of <a href=\"/index.php?title=Raktapitta\" title=\"Raktapitta\">raktapitta</a> in <a href=\"/index.php?title=Nidana_Sthana\" title=\"Nidana Sthana\">Nidana Sthana</a> in the treatise composed by Agnivesha and redacted by Charak. [2]\n</p>"
+        },
+        {
+            "type": "h2",
+            "text": "Tattva Vimarsha (Fundamental principles)",
+            "html": "<h2><span id=\"Tattva_Vimarsha_.28Fundamental_principles.29\"></span><span class=\"mw-headline\" id=\"Tattva_Vimarsha_(Fundamental_principles)\">Tattva Vimarsha (Fundamental principles)</span></h2>",
+            "level": 2
+        },
+        {
+            "type": "ul",
+            "text": "Rakta and pitta have a cause-and-effect relationship because of their common origin, and this fact is important in the pathogenesis and manifestation of raktapitta . The amla (sour), lavana (salty), katu (pungent) food articles with ushna (hot potency), tikshna (sharply acting) lead to vitiation of pitta dosha and blood. This causes abhishyanda (excess discharge leading to increase in volume of fluid) and guru (heaviness) in blood. This results in obstruction of raktavaha srotasa rooted in yakrita (liver)- pleeha (spleen) and raktapitta (hemorrhage). Raktapitta disorders can be classified by the route of bleeding. The vitiated pitta and rakta if gets associated with vitiated kapha causes bleeding from the upper orifices in the body. While if associated with vitiated vata , it leads to bleeding from the lower orifices. Vitiation of all the three doshas , from the standpoint of raktapitta , is considered incurable. Purification therapy from the opposite route is unique for the treatment of raktapitta . If the bleeding is from upper orifices then purgation is done and if it is from the lower route then vamana is indicated. Prognosis is based on dosha , route, purification treatment, and availability of effective medicines.",
+            "html": "<ul><li><i><a class=\"mw-redirect\" href=\"/index.php?title=Rakta\" title=\"Rakta\">Rakta</a></i> and <i><a href=\"/index.php?title=Pitta\" title=\"Pitta\">pitta</a></i> have a cause-and-effect relationship because of their common origin, and this fact is important in the pathogenesis and manifestation of <i><a href=\"/index.php?title=Raktapitta\" title=\"Raktapitta\">raktapitta</a></i>.</li>\n<li>The <i>amla</i> (sour), <i>lavana</i> (salty), <i>katu</i> (pungent) food articles with <i>ushna</i> (hot potency), <i>tikshna</i> (sharply acting) lead to vitiation of <i><a href=\"/index.php?title=Pitta_dosha\" title=\"Pitta dosha\">pitta dosha</a></i> and blood. This causes <i>abhishyanda</i> (excess discharge leading to increase in volume of fluid) and <i>guru</i> (heaviness) in blood. This results in obstruction of <i>raktavaha srotasa</i> rooted in <i>yakrita</i>(liver)-<i>pleeha</i> (spleen) and <i><a href=\"/index.php?title=Raktapitta\" title=\"Raktapitta\">raktapitta</a></i> (hemorrhage).</li>\n<li><i>Raktapitta</i> disorders can be classified by the route of bleeding. The vitiated <i><a href=\"/index.php?title=Pitta\" title=\"Pitta\">pitta</a></i> and <i><a class=\"mw-redirect\" href=\"/index.php?title=Rakta\" title=\"Rakta\">rakta</a></i> if gets associated with vitiated <i><a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a></i> causes bleeding from the upper orifices in the body. While if associated with vitiated <i><a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a></i>, it leads to bleeding from the lower orifices. Vitiation of all the three <i><a href=\"/index.php?title=Dosha\" title=\"Dosha\">doshas</a></i>, from the standpoint of <i>raktapitta</i>, is considered incurable.</li>\n<li>Purification therapy from the opposite route is unique for the treatment of <i>raktapitta</i>. If the bleeding is from upper orifices then purgation is done and if it is from the lower route then <i><a href=\"/index.php?title=Vamana\" title=\"Vamana\">vamana</a></i> is indicated.</li>\n<li>Prognosis is based on <i><a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a></i>, route, purification treatment, and availability of effective medicines.</li></ul>",
+            "items": [
+                "Rakta and pitta have a cause-and-effect relationship because of their common origin, and this fact is important in the pathogenesis and manifestation of raktapitta .",
+                "The amla (sour), lavana (salty), katu (pungent) food articles with ushna (hot potency), tikshna (sharply acting) lead to vitiation of pitta dosha and blood. This causes abhishyanda (excess discharge leading to increase in volume of fluid) and guru (heaviness) in blood. This results in obstruction of raktavaha srotasa rooted in yakrita (liver)- pleeha (spleen) and raktapitta (hemorrhage).",
+                "Raktapitta disorders can be classified by the route of bleeding. The vitiated pitta and rakta if gets associated with vitiated kapha causes bleeding from the upper orifices in the body. While if associated with vitiated vata , it leads to bleeding from the lower orifices. Vitiation of all the three doshas , from the standpoint of raktapitta , is considered incurable.",
+                "Purification therapy from the opposite route is unique for the treatment of raktapitta . If the bleeding is from upper orifices then purgation is done and if it is from the lower route then vamana is indicated.",
+                "Prognosis is based on dosha , route, purification treatment, and availability of effective medicines."
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Vidhi Vimarsha (Applied Inferences)",
+            "html": "<h2><span id=\"Vidhi_Vimarsha_.28Applied_Inferences.29\"></span><span class=\"mw-headline\" id=\"Vidhi_Vimarsha_(Applied_Inferences)\">Vidhi Vimarsha (Applied Inferences)</span></h2>",
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "What is rakta ’s relationship with blood? Rakta is a dhatu , or a flowing tissue that is responsible for the sustenance of life. Unlike what has been written in various commentaries or texts on rakta , blood is not the same as rakta dhatu . Blood contains formed elements (RBC, WBC, platelets) which are products of sarakta meda , the integral component of majja dhatu . It has plasma containing minerals, vitamins, procoagulant and anticoagulant factors, enzymes, hormones, neurotransmitters, nutrients, etc., which are mostly assigned to rasa dhatu . Blood also contains fats, cholesterol, free fatty acids etc., which are products of meda dhatu . It contains blood proteins such as actin, myosin, myoglobin, etc. which are integral components of mamsa dhatu . It also contains metabolic wastes such as urea and lactic acid etc., which are mala . Therefore, rakta dhatu is a component of blood, using it as part of its material structure for its functions.",
+            "html": "<p>What is <i><a class=\"mw-redirect\" href=\"/index.php?title=Rakta\" title=\"Rakta\">rakta</a></i>’s relationship with blood?  <i><a class=\"mw-redirect\" href=\"/index.php?title=Rakta\" title=\"Rakta\">Rakta</a></i> is a <i><a href=\"/index.php?title=Dhatu\" title=\"Dhatu\">dhatu</a></i>, or a flowing tissue that is responsible for the sustenance of life. Unlike what has been written in various commentaries or texts on <i><a class=\"mw-redirect\" href=\"/index.php?title=Rakta\" title=\"Rakta\">rakta</a></i>, blood is not the same as <i><a href=\"/index.php?title=Rakta_dhatu\" title=\"Rakta dhatu\">rakta dhatu</a></i>. Blood contains formed elements (RBC, WBC, platelets) which are products of <i>sarakta meda</i>, the integral component of <i><a href=\"/index.php?title=Majja_dhatu\" title=\"Majja dhatu\">majja dhatu</a></i>. It has <i>plasma</i> containing minerals, vitamins, procoagulant and anticoagulant factors, enzymes, hormones, neurotransmitters, nutrients, etc., which are mostly assigned to <i><a href=\"/index.php?title=Rasa_dhatu\" title=\"Rasa dhatu\">rasa dhatu</a></i>. Blood also contains fats, cholesterol, free fatty acids etc., which are products of <i><a href=\"/index.php?title=Meda_dhatu\" title=\"Meda dhatu\">meda dhatu</a></i>. It contains blood proteins such as actin, myosin, myoglobin, etc. which are integral components of <i><a href=\"/index.php?title=Mamsa_dhatu\" title=\"Mamsa dhatu\">mamsa dhatu</a></i>. It also contains metabolic wastes such as urea and lactic acid etc., which are <i>mala</i>. Therefore, <i><a href=\"/index.php?title=Rakta_dhatu\" title=\"Rakta dhatu\">rakta dhatu</a></i> is a component of blood, using it as part of its material structure for its functions. \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Blood is a balanced fluid that will not cause disease on its own, since its job is to give life. Rakta is a dhatu with the functions of jeevana , carriage, transformation, and the role of traveling through the arterial system, providing building blocks for creation and sustenance of the organs in the koshtha . Indeed, it was rakta that helped create them in the embryonic state. Prolonged consumption of pitta provoking diet and lifestyle vitiate rakta /blood. When the rakta /blood is vitiated, then it becomes an incompatible substance to the body. The body tries to clear it by expelling it in the form of bleeding.",
+            "html": "<p>Blood is a balanced fluid that will not cause disease on its own, since its job is to give life. <i><a class=\"mw-redirect\" href=\"/index.php?title=Rakta\" title=\"Rakta\">Rakta</a></i> is a <i><a href=\"/index.php?title=Dhatu\" title=\"Dhatu\">dhatu</a></i> with the functions of <i>jeevana</i>, carriage, transformation, and the role of traveling through the arterial system, providing building blocks for creation and sustenance of the organs in the <i>koshtha</i>. Indeed, it was <i><a class=\"mw-redirect\" href=\"/index.php?title=Rakta\" title=\"Rakta\">rakta</a></i> that helped create them in the embryonic state. Prolonged consumption of <i><a href=\"/index.php?title=Pitta\" title=\"Pitta\">pitta</a></i> provoking diet and lifestyle vitiate <i><a class=\"mw-redirect\" href=\"/index.php?title=Rakta\" title=\"Rakta\">rakta</a></i>/blood. When the <i><a class=\"mw-redirect\" href=\"/index.php?title=Rakta\" title=\"Rakta\">rakta</a></i>/blood is vitiated, then it becomes an incompatible substance to the body. The body tries to clear it by expelling it in the form of bleeding. \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "The rakta , containing this contaminated pitta dosha provoking it, becomes increased in volume, and continues to circulate through the body, disturbing and dominating over all the functions of the rakta tissue. This rakta - pitta then blocks, coats, and vitiates the blood and the organs that rakta produces and nourishes. In raktapitta , the disease requires recognition early in its course to provide a person a cure, as manifestation of actual symptoms indicates end-stage.",
+            "html": "<p>The <i><a class=\"mw-redirect\" href=\"/index.php?title=Rakta\" title=\"Rakta\">rakta</a></i>, containing this contaminated <i><a href=\"/index.php?title=Pitta_dosha\" title=\"Pitta dosha\">pitta dosha</a></i> provoking it, becomes increased in volume, and continues to circulate through the body, disturbing and dominating over all the functions of the <i><a class=\"mw-redirect\" href=\"/index.php?title=Rakta\" title=\"Rakta\">rakta</a></i> tissue. This <i><a class=\"mw-redirect\" href=\"/index.php?title=Rakta\" title=\"Rakta\">rakta</a>-<a href=\"/index.php?title=Pitta\" title=\"Pitta\">pitta</a></i> then blocks, coats, and vitiates the blood and the organs that <i><a class=\"mw-redirect\" href=\"/index.php?title=Rakta\" title=\"Rakta\">rakta</a></i> produces and nourishes. In <i><a href=\"/index.php?title=Raktapitta\" title=\"Raktapitta\">raktapitta</a></i>, the disease requires recognition early in its course to provide a person a cure, as manifestation of actual symptoms indicates end-stage.  \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Nutritional research claims on substances linked to hypo-coagulation and/or bleeding disorders",
+            "html": "<p>Nutritional research claims on substances linked to hypo-coagulation and/or bleeding disorders\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Vitamin K",
+            "html": "<h3><span class=\"mw-headline\" id=\"Vitamin_K\">Vitamin K</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Much of the research on dietary interactions with bleeding disorders comes from the interaction of foods with warfarin. Since 1951, warfarin has been used as an anticoagulant, effectively preventing the formation of blood clots in the blood vessels and their migration elsewhere in the body respectively. warfarin reduces the availability of the reduced form of Vitamin K1, a critical molecule in the coagulation cascade, affecting blood coagulation proteins prothrombin and factor VII. Warfarin inhibits the enzyme vitamin K epoxide reductase, which recycles Vitamin K1 from its oxidized form to a ready reduced form. The net effect is that coagulation is lessened. Foods with high vitamin K1 directly supply the vitamin to the body, bypassing the inhibition of warfarin; thus they reinitiate the coagulation pathway.",
+            "html": "<p>Much of the research on dietary interactions with bleeding disorders comes from the interaction of foods with warfarin. Since 1951, warfarin has been used as an anticoagulant, effectively preventing the formation of blood clots in the blood vessels and their migration elsewhere in the body respectively. warfarin reduces the availability of the reduced form of Vitamin K1, a critical molecule in the coagulation cascade, affecting blood coagulation proteins prothrombin and factor VII. Warfarin inhibits the enzyme vitamin K epoxide reductase, which recycles Vitamin K1 from its oxidized form to a ready reduced form. The net effect is that coagulation is lessened. Foods with high vitamin K1 directly supply the vitamin to the body, bypassing the inhibition of warfarin; thus they reinitiate the coagulation pathway. \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "These foods include leafy vegetables such as spinach, cabbage and broccoli, darker varieties of lettuces, some radishes, and the herbs parsley, cilantro and dill.",
+            "html": "<p>These foods include leafy vegetables such as spinach, cabbage and broccoli, darker varieties of lettuces, some radishes, and the herbs parsley, cilantro and dill.\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Spices and herbs with high salicylate content block vitamin K and act as natural blood thinners. The food substances mentioned in the etiology are rich in salicylates.",
+            "html": "<p>Spices and herbs with high salicylate content block vitamin K and act as natural blood thinners. The food substances mentioned in the etiology are rich in salicylates. \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Garlic ( Rasona ) is clearly-mentioned among the etiological factors of raktapitta . [Cha.Sa. Nidana Sthana 2/4] Garlic contains nine different naturally-occurring anti-platelet compounds. It also acts as natural antibiotic that can kill intestinal bacteria, which manufacture vitamin K.",
+            "html": "<p>Garlic (<i>Rasona</i>) is clearly-mentioned among the etiological factors of <i><a href=\"/index.php?title=Raktapitta\" title=\"Raktapitta\">raktapitta</a></i>. [Cha.Sa.<a href=\"/index.php?title=Nidana_Sthana\" title=\"Nidana Sthana\">Nidana Sthana</a> 2/4] Garlic contains nine different naturally-occurring anti-platelet compounds. It also acts as natural antibiotic that can kill intestinal bacteria, which manufacture vitamin K.\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Omega-3 Fatty Acids",
+            "html": "<h3><span class=\"mw-headline\" id=\"Omega-3_Fatty_Acids\">Omega-3 Fatty Acids</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Fish oil is a rich source of omega–3 fatty acids. Omega-3-fatty acids help to thin the blood. Fish may therefore be a great food for people who are at risk of blood clots but too much consumption of omega-3 can be at risk of bleeding disorders. This fact was long back observed and reported in Ayurveda in [Cha.Sa. Nidana Sthana 2/4]",
+            "html": "<p>Fish oil is a rich source of omega–3 fatty acids. Omega-3-fatty acids help to thin the blood. Fish may therefore be a great food for people who are at risk of blood clots but too much consumption of omega-3 can be at risk of bleeding disorders. This fact was long back observed and reported in <a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a> in [Cha.Sa.<a href=\"/index.php?title=Nidana_Sthana\" title=\"Nidana Sthana\">Nidana Sthana</a> 2/4]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Alcohol",
+            "html": "<h3><span class=\"mw-headline\" id=\"Alcohol\">Alcohol</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Charak describes a group of preparations containing alcohol under nidana (etiological factors) [Cha.Sa. Nidana Sthana 2/4] like sura, sauvira, shukta, badaramala. Ayurvedic classics warn against excessive use of alcohols in pitta -vitiated patients, due to their heating and drying effects. In addition, biomedical research in 1986, suggests that subclinical vitamin K deficiency occurs in alcoholics, contributing to hypo-coagulability.",
+            "html": "<p>Charak describes a group of preparations containing alcohol under <a href=\"/index.php?title=Nidana\" title=\"Nidana\">nidana</a> (etiological factors) [Cha.Sa.<a href=\"/index.php?title=Nidana_Sthana\" title=\"Nidana Sthana\">Nidana Sthana</a> 2/4] like sura, sauvira, shukta, badaramala. Ayurvedic classics warn against excessive use of alcohols in <a href=\"/index.php?title=Pitta\" title=\"Pitta\">pitta</a>-vitiated patients, due to their heating and drying effects. In addition, biomedical research in 1986, suggests that subclinical vitamin K deficiency occurs in alcoholics, contributing to hypo-coagulability. \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "In summary, it appears that all the foods listed, either due to inherent potency ( veerya ) or combinations that create difficulty to digest using the body’s own heat, will raise a level of heat in the body that aggravates pitta dosha and initiates the cascade of pitta kopa that leads eventually, if un-intervened, to raktapitta .",
+            "html": "<p>In summary, it appears that all the foods listed, either due to inherent potency (<a href=\"/index.php?title=Veerya\" title=\"Veerya\">veerya</a>) or combinations that create difficulty to digest using the body’s own heat, will raise a level of heat in the body that aggravates <a href=\"/index.php?title=Pitta_dosha\" title=\"Pitta dosha\">pitta dosha</a> and initiates the cascade of <a class=\"new\" href=\"/index.php?title=Pitta_kopa&amp;action=edit&amp;redlink=1\" title=\"Pitta kopa (page does not exist)\">pitta kopa</a> that leads eventually, if un-intervened, to <a href=\"/index.php?title=Raktapitta\" title=\"Raktapitta\">raktapitta</a>.\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Excess heat",
+            "html": "<h3><span class=\"mw-headline\" id=\"Excess_heat\">Excess heat</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Among the lifestyle factors that lead down to aggravated pitta ( viharaja nidanas ) and raktapitta are excessive exercise( vyayama ), and exposure to sunlight. Scientific evidence has now established that vigorous exercise appears to lower vitamin K levels and thus thin the blood. Sunlight increases the conversion of Vitamin D to Vitamin D3 in the skin; a recent clinical trial of a biologically active metabolite of Vitamin D3 demonstrated an unanticipated reduction of thrombosis in cancer patients. Therefore, it appears that Vitamin D3 reduces blood clotting.",
+            "html": "<p>Among the lifestyle factors that lead down to aggravated <i><a href=\"/index.php?title=Pitta\" title=\"Pitta\">pitta</a></i> (<i>viharaja nidanas</i>) and <i>raktapitta</i> are excessive exercise(<i><a href=\"/index.php?title=Vyayama\" title=\"Vyayama\">vyayama</a></i>), and exposure to sunlight. Scientific evidence has now established that vigorous exercise appears to lower vitamin K levels and thus thin the blood. Sunlight increases the conversion of Vitamin D to Vitamin D3 in the skin; a recent clinical trial of a biologically active metabolite of Vitamin D3 demonstrated an unanticipated reduction of thrombosis in cancer patients. Therefore, it appears that Vitamin D3 reduces blood clotting.\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Hereditary issues",
+            "html": "<h3><span class=\"mw-headline\" id=\"Hereditary_issues\">Hereditary issues</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Some bleeding disorders are known as hereditary or acquired through genetic transmission. Ayurveda seems to point to specific foods and habits that promote the manifestation of acquired bleeding disorders; one could propose an epigenetic mechanism to explain these disorders that have eventual onset. Bleeding disorders such as hemophilia that occur from birth, indeed all hereditary imperfections, are explained in Ayurveda with the concept of beeja dosha , or inheritance of paapam through cycles of karma .",
+            "html": "<p>Some bleeding disorders are known as hereditary or acquired through genetic transmission. <a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a> seems to point to specific foods and habits that promote the manifestation of acquired bleeding disorders; one could propose an epigenetic mechanism to explain these disorders that have eventual onset. Bleeding disorders such as hemophilia that occur from birth, indeed all hereditary imperfections, are explained in <a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a> with the concept of <i>beeja dosha</i>, or inheritance of <i>paapam</i> through cycles of <i>karma</i>.\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Some pharmaceutical medications promote bleeding disorders. These situations can be treated by avoiding the etiological factors listed in this chapter. Once bleeding begins, the disease can be treated by removing the medicine, giving the patient sources of strong healthy pitta dosha , and fortifying the rakta so that organs fed by rakta can remain as healthy as possible.",
+            "html": "<p>Some pharmaceutical medications promote bleeding disorders. These situations can be treated by avoiding the etiological factors listed in this chapter. Once bleeding begins, the disease can be treated by removing the medicine, giving the patient sources of strong healthy <i><a href=\"/index.php?title=Pitta_dosha\" title=\"Pitta dosha\">pitta dosha</a></i>, and fortifying the <i><a class=\"mw-redirect\" href=\"/index.php?title=Rakta\" title=\"Rakta\">rakta</a></i> so that organs fed by <i><a class=\"mw-redirect\" href=\"/index.php?title=Rakta\" title=\"Rakta\">rakta</a></i> can remain as healthy as possible.\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Pathophysiology of Bleeding/Hemorrhagic Disorders in modern medicine",
+            "html": "<h3><span id=\"Pathophysiology_of_Bleeding.2FHemorrhagic_Disorders_in_modern_medicine\"></span><span class=\"mw-headline\" id=\"Pathophysiology_of_Bleeding/Hemorrhagic_Disorders_in_modern_medicine\">Pathophysiology of Bleeding/Hemorrhagic Disorders in modern medicine</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Per biomedicine, bleeding disorders are a group of heterogenous conditions that occur when the blood cannot clot properly. In normal clotting, platelets stick together when prompted by a stimulus that invokes the clotting pathway to ultimately form a plug at the site of an injured blood vessel. Proteins in the blood (clotting factors) are activated when either a pathogen or an exposed cell wall signal rupture of the blood vessel. An interactive cascade then leads to the formation of a fibrin clot, which holds the platelets in place and allows repair to occur at the site of the injury while preventing blood from escaping the blood vessel. While too much clotting can create either a thrombus or embolus that may lead to a heart attack and stroke, the inability to form clots can be very dangerous as well, as excess bleeding will also interrupt the integrity of the vascular system.",
+            "html": "<p>Per biomedicine, bleeding disorders are a group of heterogenous conditions that occur when the blood cannot clot properly. In normal clotting, platelets stick together when prompted by a stimulus that invokes the clotting pathway to ultimately form a plug at the site of an injured blood vessel. Proteins in the blood (clotting factors) are activated when either a pathogen or an exposed cell wall signal rupture of the blood vessel. An interactive cascade then leads to the formation of a fibrin clot, which holds the platelets in place and allows repair to occur at the site of the injury while preventing blood from escaping the blood vessel. While too much clotting can create either a thrombus or embolus that may lead to a heart attack and stroke, the inability to form clots can be very dangerous as well, as excess bleeding will also interrupt the integrity of the vascular system.  \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Many bleeding disorders are considered to be hereditary. Hemophilia, affecting mostly males, is perhaps the most well-known bleeding disorder, although it is relatively rare (affecting about 1 in 5,000 people worldwide). Many more people are affected by von Willebrand disease (VWD), the most common bleeding disorder in the USA. von Willebrand disease can affect both males and females.",
+            "html": "<p>Many bleeding disorders are considered to be hereditary. Hemophilia, affecting mostly males, is perhaps the most well-known bleeding disorder, although it is relatively rare (affecting about 1 in 5,000 people worldwide).  Many more people are affected by von Willebrand disease (VWD), the most common bleeding disorder in the USA. von Willebrand disease can affect both males and females.\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Normal coagulation pathophysiology is described according to its major components:",
+            "html": "<p>Normal coagulation pathophysiology is described according to its major components:\n</p>"
+        },
+        {
+            "type": "ol",
+            "text": "Vessel wall Platelet function Coagulation pathway Clot inhibition/lysis",
+            "html": "<ol><li>Vessel wall</li>\n<li>Platelet function</li>\n<li>Coagulation pathway</li>\n<li>Clot inhibition/lysis</li></ol>",
+            "items": [
+                "Vessel wall",
+                "Platelet function",
+                "Coagulation pathway",
+                "Clot inhibition/lysis"
+            ]
+        },
+        {
+            "type": "h4",
+            "text": "I. Hemorrhagic Disorder Classifications",
+            "html": "<h4><span class=\"mw-headline\" id=\"I._Hemorrhagic_Disorder_Classifications\">I. Hemorrhagic Disorder Classifications</span></h4>",
+            "level": 4
+        },
+        {
+            "type": "p",
+            "text": "Hemorrhagic disorders can also occur from functional abnormalities of the vascular wall and are classified as:",
+            "html": "<p>Hemorrhagic disorders can also occur from functional abnormalities of the vascular wall and are classified as:\n</p>"
+        },
+        {
+            "type": "ol",
+            "text": "Hereditary : hereditary hemorrhagic telangiectasia, hereditary disorders of connective tissue such as Ehlers-Danlos syndrome Secondary : infections, chemical factors or drugs, disorders of metabolism (Vitamin C or K deficiency), pathological changes of vascular wall (atherosclerosis), connective tissue diseases Allergy : allergic purpura Other purpuras : purpura simplex, senile purpura, mechanic purpura, paraproteinemia",
+            "html": "<ol><li><i><b>Hereditary</b></i>: hereditary hemorrhagic telangiectasia, hereditary disorders of connective tissue such as Ehlers-Danlos syndrome</li>\n<li><i><b>Secondary</b></i>: infections, chemical factors or drugs, disorders of metabolism (Vitamin C or K deficiency), pathological changes of vascular wall (atherosclerosis), connective tissue diseases</li>\n<li><i><b>Allergy</b></i>: allergic purpura</li>\n<li><b>Other purpuras</b>: purpura simplex, senile purpura, mechanic purpura, paraproteinemia</li></ol>",
+            "items": [
+                "Hereditary : hereditary hemorrhagic telangiectasia, hereditary disorders of connective tissue such as Ehlers-Danlos syndrome",
+                "Secondary : infections, chemical factors or drugs, disorders of metabolism (Vitamin C or K deficiency), pathological changes of vascular wall (atherosclerosis), connective tissue diseases",
+                "Allergy : allergic purpura",
+                "Other purpuras : purpura simplex, senile purpura, mechanic purpura, paraproteinemia"
+            ]
+        },
+        {
+            "type": "h4",
+            "text": "II. Platelet abnormalities",
+            "html": "<h4><span class=\"mw-headline\" id=\"II._Platelet_abnormalities\">II. Platelet abnormalities</span></h4>",
+            "level": 4
+        },
+        {
+            "type": "ol",
+            "text": "Thrombocytopenia: Diminished or defective platelet production: aplastic anemia, marrow infiltration (carcinoma, leukemia, myelofibrosis, tuberculosis, etc), infections, drugs that act on platelet production (alcohol, thiazide diuretics). Enhanced platelet destruction: idiopathic thrombocytopenic purpura, drug-induced, thrombotic thrombocytopenic purpura. Sequestration of platelets: hypersplenism Thrombocytosis: Primary: essential thrombocythemia. Secondary: infections, injury, post-splenectomy chronic myelocytic leukemia, other myeloproliferative disorders (such as polycythemia vera) Functional abnormalities of platelets: Congenital: thrombasthenia, giant platelet syndrome (Bernard-Soulier syndrome). Acquired: due to drugs, uremia, liver diseases, dysproteinemias",
+            "html": "<ol><li>Thrombocytopenia:\n<ol><li>Diminished or defective platelet production: aplastic anemia, marrow infiltration (carcinoma, leukemia, myelofibrosis, tuberculosis, etc), infections, drugs that act on platelet production (alcohol, thiazide diuretics).</li>\n<li>Enhanced platelet destruction: idiopathic thrombocytopenic purpura, drug-induced, thrombotic thrombocytopenic purpura.</li>\n<li>Sequestration of platelets: hypersplenism</li></ol></li>\n<li>Thrombocytosis:\n<ol><li>Primary: essential thrombocythemia.</li>\n<li>Secondary: infections, injury, post-splenectomy chronic myelocytic leukemia, other myeloproliferative disorders (such as polycythemia vera)</li></ol></li>\n<li>Functional abnormalities of platelets:\n<ol><li>Congenital: thrombasthenia, giant platelet syndrome (Bernard-Soulier syndrome).</li>\n<li>Acquired: due to drugs, uremia, liver diseases, dysproteinemias</li></ol></li></ol>",
+            "items": [
+                "Thrombocytopenia: Diminished or defective platelet production: aplastic anemia, marrow infiltration (carcinoma, leukemia, myelofibrosis, tuberculosis, etc), infections, drugs that act on platelet production (alcohol, thiazide diuretics). Enhanced platelet destruction: idiopathic thrombocytopenic purpura, drug-induced, thrombotic thrombocytopenic purpura. Sequestration of platelets: hypersplenism",
+                "Thrombocytosis: Primary: essential thrombocythemia. Secondary: infections, injury, post-splenectomy chronic myelocytic leukemia, other myeloproliferative disorders (such as polycythemia vera)",
+                "Functional abnormalities of platelets: Congenital: thrombasthenia, giant platelet syndrome (Bernard-Soulier syndrome). Acquired: due to drugs, uremia, liver diseases, dysproteinemias"
+            ]
+        },
+        {
+            "type": "h4",
+            "text": "III. Coagulation disorders due to coagulation factor deficiencies",
+            "html": "<h4><span class=\"mw-headline\" id=\"III._Coagulation_disorders_due_to_coagulation_factor_deficiencies\">III. Coagulation disorders due to coagulation factor deficiencies</span></h4>",
+            "level": 4
+        },
+        {
+            "type": "ol",
+            "text": "Congenital: hemophilia A (F VIII deficiency), hemophilia B (F IX deficiency),factor XI deficiency (formerly hemophilia C), hypothrombinogenemia, hypofibrinogenemia, von Willebrand’s disease, other coagulation factors deficiency, including deficiency of activatedprotein C inhibitor structural abnormalities Acquired: Vitamin K deficiency, severe liver diseases, drugs (dicumarol), disseminated intravascular coagulation (DIC) etc",
+            "html": "<ol><li>Congenital: hemophilia A (F VIII deficiency), hemophilia B (F  IX deficiency),factor XI deficiency (formerly hemophilia C), hypothrombinogenemia, hypofibrinogenemia, von  Willebrand’s disease, other coagulation factors deficiency, including deficiency of activatedprotein C inhibitor structural abnormalities</li>\n<li>Acquired: Vitamin K deficiency, severe liver diseases, drugs (dicumarol), disseminated intravascular coagulation (DIC) etc</li></ol>",
+            "items": [
+                "Congenital: hemophilia A (F VIII deficiency), hemophilia B (F IX deficiency),factor XI deficiency (formerly hemophilia C), hypothrombinogenemia, hypofibrinogenemia, von Willebrand’s disease, other coagulation factors deficiency, including deficiency of activatedprotein C inhibitor structural abnormalities",
+                "Acquired: Vitamin K deficiency, severe liver diseases, drugs (dicumarol), disseminated intravascular coagulation (DIC) etc"
+            ]
+        },
+        {
+            "type": "h4",
+            "text": "IV. Hyperfibrinolysis",
+            "html": "<h4><span class=\"mw-headline\" id=\"IV._Hyperfibrinolysis\">IV. Hyperfibrinolysis</span></h4>",
+            "level": 4
+        },
+        {
+            "type": "ol",
+            "text": "Primary: Congenital deficiency of α2 antiplasmin, clinical use of urokinase, liver diseases, liberation of tissue plasminogen activator into the circulation Secondary: DIC",
+            "html": "<ol><li>Primary: Congenital deficiency of α2 antiplasmin, clinical use of urokinase, liver diseases, liberation of tissue plasminogen activator into the circulation</li>\n<li>Secondary: DIC</li></ol>",
+            "items": [
+                "Primary: Congenital deficiency of α2 antiplasmin, clinical use of urokinase, liver diseases, liberation of tissue plasminogen activator into the circulation",
+                "Secondary: DIC"
+            ]
+        },
+        {
+            "type": "h3",
+            "text": "Causes of Bleeding",
+            "html": "<h3><span class=\"mw-headline\" id=\"Causes_of_Bleeding\">Causes of Bleeding</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "When normal hemostatic mechanisms fail, major hemorrhage may follow minor trauma or may appear to arise spontaneously. Biomedicine observes spontaneous bleeding primarily from either the rectum or from the naso-pharyngeal cavity.",
+            "html": "<p>When normal hemostatic mechanisms fail, major hemorrhage may follow minor trauma or may appear to arise spontaneously. Biomedicine observes spontaneous bleeding primarily from either the rectum or from the naso-pharyngeal cavity. \n</p>"
+        },
+        {
+            "type": "h4",
+            "text": "A. Causes of bleeding from the mouth",
+            "html": "<h4><span class=\"mw-headline\" id=\"A._Causes_of_bleeding_from_the_mouth\">A. Causes of bleeding from the mouth</span></h4>",
+            "level": 4
+        },
+        {
+            "type": "ol",
+            "text": "Common causes of bleeding from the mouth include: Dental caries, due to decay from chronic bacteria Trauma, due to mechanical injury Periodontal diseases, due to tissue decay from infectious origin, metabolic diseases or nutritional deficiencies Rare causes of bleeding from the mouth include: Hemophilia Leukemia Viral hemorrhagic fevers Iatrogenic procedures such as crown placement, dental cleaning, placement and use of dentures, plaque removal, root canal, post tonsillectomy bleeding, and tooth extraction Other causes of bleeding from the mouth include: Bleeding diathesis Carcinoma, squamous cell of head and neck Hantavirosis Idiopathic thrombocytopenic purpura Pancytopenia Stomatitis Thrombocytopenia Tonsillar abscess",
+            "html": "<ol><li>Common causes of bleeding from the mouth include:\n<ol><li>Dental caries, due to decay from chronic bacteria</li>\n<li>Trauma, due to mechanical injury</li>\n<li>Periodontal diseases, due to tissue decay from infectious origin, metabolic diseases or nutritional deficiencies</li></ol></li>\n<li>Rare causes of bleeding from the mouth include:\n<ol><li>Hemophilia</li>\n<li>Leukemia</li>\n<li>Viral hemorrhagic fevers</li></ol></li>\n<li>Iatrogenic procedures such as crown placement, dental cleaning, placement and use of dentures, plaque removal, root canal, post tonsillectomy bleeding, and tooth extraction</li>\n<li>Other causes of bleeding from the mouth include:\n<ol><li>Bleeding diathesis</li>\n<li>Carcinoma, squamous cell of head and neck</li>\n<li>Hantavirosis</li>\n<li>Idiopathic thrombocytopenic purpura</li>\n<li>Pancytopenia</li>\n<li>Stomatitis</li>\n<li>Thrombocytopenia</li>\n<li>Tonsillar abscess</li></ol></li></ol>",
+            "items": [
+                "Common causes of bleeding from the mouth include: Dental caries, due to decay from chronic bacteria Trauma, due to mechanical injury Periodontal diseases, due to tissue decay from infectious origin, metabolic diseases or nutritional deficiencies",
+                "Rare causes of bleeding from the mouth include: Hemophilia Leukemia Viral hemorrhagic fevers",
+                "Iatrogenic procedures such as crown placement, dental cleaning, placement and use of dentures, plaque removal, root canal, post tonsillectomy bleeding, and tooth extraction",
+                "Other causes of bleeding from the mouth include: Bleeding diathesis Carcinoma, squamous cell of head and neck Hantavirosis Idiopathic thrombocytopenic purpura Pancytopenia Stomatitis Thrombocytopenia Tonsillar abscess"
+            ]
+        },
+        {
+            "type": "h4",
+            "text": "B. Causes of Rectal Bleeding",
+            "html": "<h4><span class=\"mw-headline\" id=\"B._Causes_of_Rectal_Bleeding\">B. Causes of Rectal Bleeding</span></h4>",
+            "level": 4
+        },
+        {
+            "type": "p",
+            "text": "Rectal bleeding, known medically as hematochezia, refers to the passage of red blood through the anus, often mixed with stool and/or blood clots. Rectal bleeding occurs from the tissues adjoining the anus. Blood in the stool does not always originate from the rectum but can come from any part of the gastro-intestinal tract. In fact, the color of the blood in the stool signifies its origin and could be red, maroon, brown, or black. The blood may also be invisible to the naked eye and only appear in the stool under microscopic investigation (thus it is called occult blood). When the blood passes through the zone of digestion in the duodenum, enzymes denature the hemoglobin changing its color from red to brown. When the blood passes through both the stomach’s intense acidic environment into the duodenum’s alkaline enzymes, the denaturing process renders it black by the time it exits from the rectum. Some of the common causes of rectal bleeding include anal fissure, hemorrhoids, diverticulosis, colon cancer and polyps, post-polypectomy, angiodysplasias, colitis, proctitis, and Meckel's diverticula. Rectal bleeding originating in the colon generally appears red in color. The origin of rectal bleeding is determined by history and physical examination, including tests such as anoscopy, flexible sigmoidoscopy, colonoscopy, radionuclide scans, visceral angiograms, and blood tests. The severity of rectal bleeding, determined by the quantity of blood passed, varies widely. Most blood in the stool or rectal bleeding is mild and self-limited. Many patients report only passing a few drops of fresh blood that turns the toilet water pink or observing spots of blood on toilet paper. Others may report brief passage of a spoonful or two of blood.",
+            "html": "<p>Rectal bleeding, known medically as hematochezia, refers to the passage of red blood through the anus, often mixed with stool and/or blood clots. Rectal bleeding occurs from the tissues adjoining the anus. Blood in the stool does not always originate from the rectum but can come from any part of the gastro-intestinal tract. In fact, the color of the blood in the stool signifies its origin and could be red, maroon, brown, or black. The blood may also be invisible to the naked eye and only appear in the stool under microscopic investigation (thus it is called occult blood). When the blood passes through the zone of digestion in the duodenum, enzymes denature the hemoglobin changing its color from red to brown. When the blood passes through both the stomach’s intense acidic environment into the duodenum’s alkaline enzymes, the denaturing process renders it black by the time it exits from the rectum. Some of the common causes of rectal bleeding include anal fissure, hemorrhoids, diverticulosis, colon cancer and polyps, post-polypectomy, angiodysplasias, colitis, proctitis, and Meckel's diverticula. Rectal bleeding originating in the colon generally appears red in color. The origin of rectal bleeding is determined by history and physical examination, including tests such as anoscopy, flexible sigmoidoscopy, colonoscopy, radionuclide scans, visceral angiograms, and blood tests. The severity of rectal bleeding, determined by the quantity of blood passed, varies widely. Most blood in the stool or rectal bleeding is mild and self-limited. Many patients report only passing a few drops of fresh blood that turns the toilet water pink or observing spots of blood on toilet paper. Others may report brief passage of a spoonful or two of blood. \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Bleeding may be moderate or severe. Patients with moderate bleeding will repeatedly pass larger quantities of bright or dark red (maroon-colored) blood often mixed with stools and/or blood clots. Patients with severe bleeding may either suffer from multiple bowel movements in a day or a single bowel movement containing a large amount of blood. Moderate or severe rectal bleeding can exhibit typical symptoms of anemia - weakness, dizziness, near-fainting or fainting, signs of low blood pressure or orthostatic hypotension, or a significant drop in blood pressure when going from a sitting or lying position to a standing position. In rare cases, the bleeding may be so severe that the body exhibits symptoms of shock due to excessive loss of blood. Moderate or severe rectal bleeding must be evaluated and treated in the hospital and may require the patient to undergo emergency hospitalization and transfusion of blood. Rectal bleeding is treated by correcting the resulting low blood volume and anemia, by determining the site and cause of blood loss, by stopping the bleeding, and by preventing relapse in bleeding.",
+            "html": "<p>Bleeding may be moderate or severe. Patients with moderate bleeding will repeatedly pass larger quantities of bright or dark red (maroon-colored) blood often mixed with stools and/or blood clots. Patients with severe bleeding may either suffer from multiple bowel movements in a day or a single bowel movement containing a large amount of blood. Moderate or severe rectal bleeding can exhibit typical symptoms of anemia - weakness, dizziness, near-fainting or fainting, signs of low blood pressure or orthostatic hypotension, or a significant drop in blood pressure when going from a sitting or lying position to a standing position. In rare cases, the bleeding may be so severe that the body exhibits symptoms of shock due to excessive loss of blood. Moderate or severe rectal bleeding must be evaluated and treated in the hospital and may require the patient to undergo emergency hospitalization and transfusion of blood. Rectal bleeding is treated by correcting the resulting low blood volume and anemia, by determining the site and cause of blood loss, by stopping the bleeding, and by preventing relapse in bleeding. \n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Correlation between Ayurvedic knowledge and Western medicine",
+            "html": "<h3><span class=\"mw-headline\" id=\"Correlation_between_Ayurvedic_knowledge_and_Western_medicine\">Correlation between Ayurvedic knowledge and Western medicine</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Biomedical textbooks rarely discuss the pathophysiology of bleeding disorders in terms of diet or nutrition, unlike Ayurveda . There is, therefore, a need to research the correlation between food articles and bleeding disorders. The following food substances are etiological factors of raktapitta , since these seem to act as blood thinners and can cause bleeding disorders in predisposed patients: [Cha.Sa. Nidana Sthana 2/4]",
+            "html": "<p>Biomedical textbooks rarely discuss the pathophysiology of bleeding disorders in terms of diet or nutrition, unlike <a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a>. There is, therefore, a need to research the correlation between food articles and bleeding disorders. The following food substances are etiological factors of <i>raktapitta</i>, since these seem to act as blood thinners and can cause bleeding disorders in predisposed patients: [Cha.Sa.<a href=\"/index.php?title=Nidana_Sthana\" title=\"Nidana Sthana\">Nidana Sthana</a> 2/4] \n</p>"
+        },
+        {
+            "type": "ol",
+            "text": "Mulaka (Raphanus sativus Linn.), radish, Brassicaceae family Sarshapa (Brassica compestris Var.), Brassica rapa - turnip, napa cabbage, canola, Lashuna (Allium sativum Linn.), garlic Sumukha (Ocimum sp), Kutheraka (Ocimum sp.)",
+            "html": "<ol><li><i>Mulaka</i> (Raphanus sativus Linn.), radish, Brassicaceae family</li>\n<li><i>Sarshapa</i> (Brassica compestris Var.), Brassica rapa - turnip, napa cabbage, canola,</li>\n<li><i>Lashuna</i> (Allium sativum Linn.), garlic</li>\n<li><i>Sumukha</i> (Ocimum sp),</li>\n<li><i>Kutheraka</i> (Ocimum sp.)</li></ol>",
+            "items": [
+                "Mulaka (Raphanus sativus Linn.), radish, Brassicaceae family",
+                "Sarshapa (Brassica compestris Var.), Brassica rapa - turnip, napa cabbage, canola,",
+                "Lashuna (Allium sativum Linn.), garlic",
+                "Sumukha (Ocimum sp),",
+                "Kutheraka (Ocimum sp.)"
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Also, the pathogenesis of blood disorders do not mention why a body would be predisposed to vessel wall problems, platelet dysfunctions, or clot inhibitions. Bleeding from different orifices of the body is not correlated with pathophysiology in biomedicine. Ayurveda however discusses raktapitta as an endpoint to a series of imbalancing events, and separates the discussion of diagnosis in Nidana Sthana from the discussion of treatment in Chikitsa Sthana .",
+            "html": "<p>Also, the pathogenesis of blood disorders do not mention why a body would be predisposed to vessel wall problems, platelet dysfunctions, or clot inhibitions. Bleeding from different orifices of the body is not correlated with pathophysiology in biomedicine. <a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a> however discusses <i>raktapitta</i> as an endpoint to a series of imbalancing events, and separates the discussion of diagnosis in <a href=\"/index.php?title=Nidana_Sthana\" title=\"Nidana Sthana\">Nidana Sthana</a> from the discussion of treatment in <a href=\"/index.php?title=Chikitsa_Sthana\" title=\"Chikitsa Sthana\">Chikitsa Sthana</a>.\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Summary",
+            "html": "<h3><span class=\"mw-headline\" id=\"Summary_2\">Summary</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Internal hemorrhage/hemorrhagic disorders of conventional medicine are well described in Ayurvedic texts in the form of raktapitta disorders, and the pathogenesis of raktapitta diseases forms the basis of this chapter. Raktapitta bleeding occurs through bodily orifices (mouth, rectum, urethra, nose, eye, ear, vagina, as well as hair-roots), per Ayurveda . The parallels between the description of bleeding disorders in conventional medicine and Ayurveda are quite apparent in this regard. An important aspect of the discussion on raktapitta disorders is the fact that some disorders are curable, some palliable and some are incurable – and that all these variants are dependent on doshic imbalances beyond just the pitta vitiation. It is important to note here that if proper attention is not paid, even curable disorders can soon aggravate to incurable variants. Avoidance of known causative factors is certainly one of the best measures to overcome this disease. Attempts need to be made to collect data on the effect of these factors (known to Ayurveda ) and establish an empirical, evidence-based relationship between food articles (some of the primary etiological factors) and bleeding disorders.",
+            "html": "<p>Internal hemorrhage/hemorrhagic disorders of conventional medicine are well described in Ayurvedic texts in the form of <i>raktapitta</i> disorders, and the pathogenesis of <i>raktapitta</i> diseases forms the basis of this chapter. <i>Raktapitta</i> bleeding occurs through bodily orifices (mouth, rectum, urethra, nose, eye, ear, vagina, as well as hair-roots), per <a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a>. The parallels between the description of bleeding disorders in conventional medicine and <a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a> are quite apparent in this regard. An important aspect of the discussion on <i>raktapitta</i> disorders is the fact that some disorders are curable, some palliable and some are incurable – and that all these variants are dependent on <i>doshic</i> imbalances beyond just the <i><a href=\"/index.php?title=Pitta\" title=\"Pitta\">pitta</a></i> vitiation. It is important to note here that if proper attention is not paid, even curable disorders can soon aggravate to incurable variants. Avoidance of known causative factors is certainly one of the best measures to overcome this disease. Attempts need to be made to collect data on the effect of these factors (known to <a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a>) and establish an empirical, evidence-based relationship between food articles (some of the primary etiological factors) and bleeding disorders.   \n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Related Chapters",
+            "html": "<h3><span class=\"mw-headline\" id=\"Related_Chapters\">Related Chapters</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "ul",
+            "text": "Vidhishonitiya Adhyaya Raktapitta Chikitsa",
+            "html": "<ul><li><a href=\"/index.php?title=Vidhishonitiya_Adhyaya\" title=\"Vidhishonitiya Adhyaya\">Vidhishonitiya Adhyaya</a></li>\n<li><a href=\"/index.php?title=Raktapitta_Chikitsa\" title=\"Raktapitta Chikitsa\">Raktapitta Chikitsa</a></li></ul>",
+            "items": [
+                "Vidhishonitiya Adhyaya",
+                "Raktapitta Chikitsa"
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Send us your suggestions and feedback on this page.",
+            "html": "<p><big><b><a href=\"/index.php?title=Special:ContactMe\" title=\"Special:ContactMe\">Send us your suggestions and feedback on this page.</a></b></big>\n</p>"
+        },
+        {
+            "type": "h2",
+            "text": "References",
+            "html": "<h2><span class=\"mw-headline\" id=\"References\">References</span></h2>",
+            "level": 2
+        }
+    ],
+    "html_sha256": "162edb0e127bf70dcdc8cbd886f2a018582512adb4dad5b7ff2daaf6f0ba6d6f"
+}

@@ -1,0 +1,1698 @@
+{
+    "source": "Charaka Samhita",
+    "chapter": "Aragvadhiya Adhyaya",
+    "url": "https://www.carakasamhitaonline.com/index.php?title=Aragvadhiya_Adhyaya",
+    "xpath": "//*[@id=\"content\"]",
+    "total_blocks": 178,
+    "total_tables": 4,
+    "total_headings": 34,
+    "content": [
+        {
+            "type": "h1",
+            "text": "Aragvadhiya Adhyaya",
+            "html": "<h1 class=\"firstHeading mw-first-heading\" id=\"firstHeading\"><span class=\"mw-page-title-main\">Aragvadhiya Adhyaya</span></h1>",
+            "level": 1
+        },
+        {
+            "type": "figure",
+            "text": "",
+            "html": "<figure class=\"mw-default-size mw-halign-right\" typeof=\"mw:File\"><a href=\"https://www.carakasamhitaonline.com/index.php?title=Special:CiteThisPage&amp;page=Aragvadhiya_Adhyaya&amp;id=44469&amp;wpFormIdentifier=titleform\" rel=\"nofollow\"><img class=\"mw-file-element\" decoding=\"async\" height=\"47\" src=\"/images/5/58/Cite.png\" width=\"180\"/></a><figcaption></figcaption></figure>"
+        },
+        {
+            "type": "p",
+            "text": "Sutra Sthana Chapter 3. Aragvadha(cassia) and other medicines",
+            "html": "<p><big><b>Sutra Sthana Chapter 3. Aragvadha(cassia) and other medicines </b></big>\n</p>"
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "Section/Chapter",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Sutra Sthana Chapter 3",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Tetrad/Sub-section",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Bheshaja Chatushka",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Preceding Chapter",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Apamarga Tanduliya Adhyaya",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Succeeding Chapter",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Shadvirechanashatashritiya Adhyaya",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Other Sections",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Nidana Sthana , Vimana Sthana , Sharira Sthana , Indriya Sthana , Chikitsa Sthana , Kalpa Sthana , Siddhi Sthana",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Translator and commentator",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Dubey S.D., Sen B., Deole Y. S.",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Reviewer",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Jani D., Sirdeshpande M.",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Editors",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Jani D., Deole Y.S. , Basisht G.",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Year of publication",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "2020",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Publisher",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Charak Samhita Research, Training and Skill Development Centre",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "DOI",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "10.47468/CSNE.2020.e01.s01.005",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ]
+            ],
+            "html": "<table class=\"infobox\" style=\"width:22em\"><caption>Aragvadhiya Adhyaya</caption><tbody><tr><th scope=\"row\">Section/Chapter</th><td>\n<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> Chapter 3</td></tr><tr><th scope=\"row\">Tetrad/Sub-section</th><td>\n<i>Bheshaja Chatushka</i></td></tr><tr><th scope=\"row\">Preceding Chapter</th><td>\n<a href=\"/index.php?title=Apamarga_Tanduliya_Adhyaya\" title=\"Apamarga Tanduliya Adhyaya\">Apamarga Tanduliya Adhyaya</a></td></tr><tr><th scope=\"row\">Succeeding Chapter</th><td>\n<a href=\"/index.php?title=Shadvirechanashatashritiya_Adhyaya\" title=\"Shadvirechanashatashritiya Adhyaya\">Shadvirechanashatashritiya Adhyaya</a></td></tr><tr><th scope=\"row\">Other Sections</th><td>\n<a href=\"/index.php?title=Nidana_Sthana\" title=\"Nidana Sthana\">Nidana Sthana</a>, <a href=\"/index.php?title=Vimana_Sthana\" title=\"Vimana Sthana\">Vimana Sthana</a>,  <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a>,  <a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a>, <a href=\"/index.php?title=Chikitsa_Sthana\" title=\"Chikitsa Sthana\">Chikitsa Sthana</a>, <a href=\"/index.php?title=Kalpa_Sthana\" title=\"Kalpa Sthana\">Kalpa Sthana</a>, <a href=\"/index.php?title=Siddhi_Sthana\" title=\"Siddhi Sthana\">Siddhi Sthana</a></td></tr><tr><th scope=\"row\">Translator and commentator</th><td>\nDubey S.D., Sen B., <a href=\"/index.php?title=Yogesh_Deole\" title=\"Yogesh Deole\">Deole Y. S.</a></td></tr><tr><th scope=\"row\">Reviewer</th><td>\nJani D., Sirdeshpande M.</td></tr><tr><th scope=\"row\">Editors</th><td>\nJani D., <a href=\"/index.php?title=Yogesh_Deole\" title=\"Yogesh Deole\">Deole Y.S.</a>, <a href=\"/index.php?title=Gopal_Basisht\" title=\"Gopal Basisht\">Basisht G.</a></td></tr><tr><th scope=\"row\">Year of publication</th><td>\n2020</td></tr><tr><th scope=\"row\">Publisher</th><td>\n<a href=\"/index.php?title=Charak_Samhita_Research,_Training_and_Skill_Development_Centre\" title=\"Charak Samhita Research, Training and Skill Development Centre\">Charak Samhita Research, Training and Skill Development Centre</a></td></tr><tr><th scope=\"row\">DOI</th><td>\n<a class=\"external text\" href=\"https://doi.org/10.47468/CSNE.2020.e01.s01.005\" rel=\"nofollow\">10.47468/CSNE.2020.e01.s01.005</a></td></tr></tbody></table>"
+        },
+        {
+            "type": "p",
+            "text": "Abstract",
+            "html": "<p><big><b>Abstract</b></big>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "While the preceding chapter (Apamarga Tanduliya) dealt with internal application of therapies in the form of Panchakarma, this chapter deals with the external application of medications. Thirty two types of external applications are enlisted in this chapter. The important indication is Kushtha (Skin diseases). These are systemic disorders considered as major disease (maharoga). They require internal cleansing and purification treatments prior to external treatments – and hence, the sequence of the chapters. Without prior internal treatment, local treatments have limited efficacy.",
+            "html": "<p style=\"text-align:justify;\">While the preceding chapter (Apamarga Tanduliya) dealt with internal application of therapies in the form of Panchakarma, this chapter deals with the external application of medications. Thirty two types of external applications are enlisted in this chapter. The important indication is Kushtha (Skin diseases). These are systemic disorders considered as major disease (maharoga). They require internal cleansing and purification treatments prior to external treatments – and hence, the sequence of the chapters. Without prior internal treatment, local treatments have limited efficacy.  </p>"
+        },
+        {
+            "type": "p",
+            "text": "Keywords : Aragvadha, churnapradeha, pradeha, lepa, pralepa, kushtha , skin diseases, external applications, external cleansing.",
+            "html": "<p><b>Keywords</b>: <i>Aragvadha, churnapradeha, pradeha, lepa, pralepa, kushtha</i>, skin diseases, external applications, external cleansing.\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "",
+            "html": "<p><br/>\n</p>"
+        },
+        {
+            "type": "h2",
+            "text": "Contents",
+            "html": "<h2 id=\"mw-toc-heading\">Contents</h2>",
+            "level": 2
+        },
+        {
+            "type": "ul",
+            "text": "1 Introduction 2 Sanskrit text, Transliteration and English translation 2.1 Six formulations used for local application 2.2 Kushthadi formulation-I 2.3 Kushthadi formulation-II 2.4 Manahshiladi formulation-I 2.5 Rasanjanadi formulation 2.6 Haridradi formulation 2.7 Manahshiladi formulation-II 2.8 Chaturanguladi formulation 2.9 Kola-kulatthadi formulation in Vata disorders 2.10 Anup matsyadi pradeha formulation 2.11 Yavadi formulation 2.12 Shatavhadi formulation 2.13 Rasnadi formulation 2.14 Godhumadi formulation 2.15 Prapaudarikadi formulation 2.16 Rasna-Haridradi formulation 2.17 Shaivaladi formulation 2.18 Sita-latadi formulation 2.19 Shaileyadi formulation 2.20 Shirishadi formulation 2.21 Summary 3 Tattva Vimarsha (Fundamental Principles) 4 Vidhi Vimarsha (Applied Inferences) 4.1 Table 1: Showing indications of 32 types of churnapradeha 4.2 Table 2: Showing character and indications of different types of alepa 4.3 Method of application 4.4 Quantity and thickness of application 4.5 Indication and contraindications 4.5.1 Cross references of external medications in Kushtha Chikitsa 5 References",
+            "html": "<ul>\n<li class=\"toclevel-1 tocsection-1\"><a href=\"#Introduction\"><span class=\"tocnumber\">1</span> <span class=\"toctext\">Introduction</span></a></li>\n<li class=\"toclevel-1 tocsection-2\"><a href=\"#Sanskrit_text,_Transliteration_and_English_translation\"><span class=\"tocnumber\">2</span> <span class=\"toctext\">Sanskrit text, Transliteration and English translation</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-3\"><a href=\"#Six_formulations_used_for_local_application\"><span class=\"tocnumber\">2.1</span> <span class=\"toctext\">Six formulations used for local application</span></a></li>\n<li class=\"toclevel-2 tocsection-4\"><a href=\"#Kushthadi_formulation-I\"><span class=\"tocnumber\">2.2</span> <span class=\"toctext\">Kushthadi formulation-I</span></a></li>\n<li class=\"toclevel-2 tocsection-5\"><a href=\"#Kushthadi_formulation-II\"><span class=\"tocnumber\">2.3</span> <span class=\"toctext\">Kushthadi formulation-II</span></a></li>\n<li class=\"toclevel-2 tocsection-6\"><a href=\"#Manahshiladi_formulation-I\"><span class=\"tocnumber\">2.4</span> <span class=\"toctext\">Manahshiladi formulation-I</span></a></li>\n<li class=\"toclevel-2 tocsection-7\"><a href=\"#Rasanjanadi_formulation\"><span class=\"tocnumber\">2.5</span> <span class=\"toctext\">Rasanjanadi formulation</span></a></li>\n<li class=\"toclevel-2 tocsection-8\"><a href=\"#Haridradi_formulation\"><span class=\"tocnumber\">2.6</span> <span class=\"toctext\">Haridradi formulation</span></a></li>\n<li class=\"toclevel-2 tocsection-9\"><a href=\"#Manahshiladi_formulation-II\"><span class=\"tocnumber\">2.7</span> <span class=\"toctext\">Manahshiladi formulation-II</span></a></li>\n<li class=\"toclevel-2 tocsection-10\"><a href=\"#Chaturanguladi_formulation\"><span class=\"tocnumber\">2.8</span> <span class=\"toctext\">Chaturanguladi formulation</span></a></li>\n<li class=\"toclevel-2 tocsection-11\"><a href=\"#Kola-kulatthadi_formulation_in_Vata_disorders\"><span class=\"tocnumber\">2.9</span> <span class=\"toctext\">Kola-kulatthadi formulation in <i>Vata</i> disorders</span></a></li>\n<li class=\"toclevel-2 tocsection-12\"><a href=\"#Anup_matsyadi_pradeha_formulation\"><span class=\"tocnumber\">2.10</span> <span class=\"toctext\">Anup matsyadi <i>pradeha</i> formulation</span></a></li>\n<li class=\"toclevel-2 tocsection-13\"><a href=\"#Yavadi_formulation\"><span class=\"tocnumber\">2.11</span> <span class=\"toctext\">Yavadi formulation</span></a></li>\n<li class=\"toclevel-2 tocsection-14\"><a href=\"#Shatavhadi_formulation\"><span class=\"tocnumber\">2.12</span> <span class=\"toctext\">Shatavhadi formulation</span></a></li>\n<li class=\"toclevel-2 tocsection-15\"><a href=\"#Rasnadi_formulation\"><span class=\"tocnumber\">2.13</span> <span class=\"toctext\">Rasnadi formulation</span></a></li>\n<li class=\"toclevel-2 tocsection-16\"><a href=\"#Godhumadi_formulation\"><span class=\"tocnumber\">2.14</span> <span class=\"toctext\">Godhumadi formulation</span></a></li>\n<li class=\"toclevel-2 tocsection-17\"><a href=\"#Prapaudarikadi_formulation\"><span class=\"tocnumber\">2.15</span> <span class=\"toctext\">Prapaudarikadi formulation</span></a></li>\n<li class=\"toclevel-2 tocsection-18\"><a href=\"#Rasna-Haridradi_formulation\"><span class=\"tocnumber\">2.16</span> <span class=\"toctext\">Rasna-Haridradi formulation</span></a></li>\n<li class=\"toclevel-2 tocsection-19\"><a href=\"#Shaivaladi_formulation\"><span class=\"tocnumber\">2.17</span> <span class=\"toctext\">Shaivaladi formulation</span></a></li>\n<li class=\"toclevel-2 tocsection-20\"><a href=\"#Sita-latadi_formulation\"><span class=\"tocnumber\">2.18</span> <span class=\"toctext\">Sita-latadi formulation</span></a></li>\n<li class=\"toclevel-2 tocsection-21\"><a href=\"#Shaileyadi_formulation\"><span class=\"tocnumber\">2.19</span> <span class=\"toctext\">Shaileyadi formulation</span></a></li>\n<li class=\"toclevel-2 tocsection-22\"><a href=\"#Shirishadi_formulation\"><span class=\"tocnumber\">2.20</span> <span class=\"toctext\">Shirishadi formulation</span></a></li>\n<li class=\"toclevel-2 tocsection-23\"><a href=\"#Summary\"><span class=\"tocnumber\">2.21</span> <span class=\"toctext\">Summary</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-24\"><a href=\"#Tattva_Vimarsha_(Fundamental_Principles)\"><span class=\"tocnumber\">3</span> <span class=\"toctext\">Tattva Vimarsha (Fundamental Principles)</span></a></li>\n<li class=\"toclevel-1 tocsection-25\"><a href=\"#Vidhi_Vimarsha_(Applied_Inferences)\"><span class=\"tocnumber\">4</span> <span class=\"toctext\">Vidhi Vimarsha (Applied Inferences)</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-26\"><a href=\"#Table_1:_Showing_indications_of_32_types_of_churnapradeha\"><span class=\"tocnumber\">4.1</span> <span class=\"toctext\">Table 1: Showing indications of 32 types of churnapradeha</span></a></li>\n<li class=\"toclevel-2 tocsection-27\"><a href=\"#Table_2:_Showing_character_and_indications_of_different_types_of_alepa\"><span class=\"tocnumber\">4.2</span> <span class=\"toctext\">Table 2: Showing character and indications of different types of alepa</span></a></li>\n<li class=\"toclevel-2 tocsection-28\"><a href=\"#Method_of_application\"><span class=\"tocnumber\">4.3</span> <span class=\"toctext\">Method of application</span></a></li>\n<li class=\"toclevel-2 tocsection-29\"><a href=\"#Quantity_and_thickness_of_application\"><span class=\"tocnumber\">4.4</span> <span class=\"toctext\">Quantity and thickness of application</span></a></li>\n<li class=\"toclevel-2 tocsection-30\"><a href=\"#Indication_and_contraindications\"><span class=\"tocnumber\">4.5</span> <span class=\"toctext\">Indication and contraindications</span></a>\n<ul>\n<li class=\"toclevel-3 tocsection-31\"><a href=\"#Cross_references_of_external_medications_in_Kushtha_Chikitsa\"><span class=\"tocnumber\">4.5.1</span> <span class=\"toctext\">Cross references of external medications in Kushtha Chikitsa</span></a></li>\n</ul>\n</li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-32\"><a href=\"#References\"><span class=\"tocnumber\">5</span> <span class=\"toctext\">References</span></a></li>\n</ul>",
+            "items": [
+                "1 Introduction",
+                "2 Sanskrit text, Transliteration and English translation 2.1 Six formulations used for local application 2.2 Kushthadi formulation-I 2.3 Kushthadi formulation-II 2.4 Manahshiladi formulation-I 2.5 Rasanjanadi formulation 2.6 Haridradi formulation 2.7 Manahshiladi formulation-II 2.8 Chaturanguladi formulation 2.9 Kola-kulatthadi formulation in Vata disorders 2.10 Anup matsyadi pradeha formulation 2.11 Yavadi formulation 2.12 Shatavhadi formulation 2.13 Rasnadi formulation 2.14 Godhumadi formulation 2.15 Prapaudarikadi formulation 2.16 Rasna-Haridradi formulation 2.17 Shaivaladi formulation 2.18 Sita-latadi formulation 2.19 Shaileyadi formulation 2.20 Shirishadi formulation 2.21 Summary",
+                "3 Tattva Vimarsha (Fundamental Principles)",
+                "4 Vidhi Vimarsha (Applied Inferences) 4.1 Table 1: Showing indications of 32 types of churnapradeha 4.2 Table 2: Showing character and indications of different types of alepa 4.3 Method of application 4.4 Quantity and thickness of application 4.5 Indication and contraindications 4.5.1 Cross references of external medications in Kushtha Chikitsa",
+                "5 References"
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Introduction",
+            "html": "<h2><span class=\"mw-headline\" id=\"Introduction\">Introduction</span></h2>",
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "This chapter includes thirty-two types of formulations in the form of powder or paste ( churna/pradeha ). The paste is prepared by mixing the powder with oil, ghrita (ghee, or clarified butter), milk, butter milk or cow urine etc. Occasionally, oil smearing in the affected part is a pre-requisite for such application of powder ( avachurnana and udvartana ), so that the drug used gets in contact with the oily surface and enhances the rate of penetration. Different kinds of skin diseases and conditions like shopha (swelling), pain in the abdomen, head and flanks, vatarakta (painful inflammation of joints), etc. are discussed here for external cleansing treatments.",
+            "html": "<p>This chapter includes thirty-two types of formulations in the form of powder or paste (<i>churna/pradeha</i>). The paste is prepared by mixing the powder with oil, <i>ghrita</i> (ghee, or clarified butter), milk, butter milk or cow urine etc. Occasionally, oil smearing in the affected part is a pre-requisite for such application of powder (<i>avachurnana</i> and <i>udvartana</i>), so that the drug used gets in contact with the oily surface and enhances the rate of penetration. Different kinds of skin diseases and conditions like <i>shopha</i> (swelling), pain in the abdomen, head and flanks, <i>vatarakta</i> (painful inflammation of joints), etc. are discussed here for external cleansing treatments. \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "The three types of external applications viz. pralepa, pradeha and alepa are mentioned in this chapter. Pralepa is a form which is applied cold, in a thin layer irrespective of its absorbability. It is indicated in vitiation of pitta and rakta dosha . Pradeha is thick and it is generally applied in the form of bolus. It is applied in cold in case of pitta - rakta vitiation and hot in cases of vata - kapha vitiation. Alepa is the medium form which is neither too thin nor too thick. Thus the thickness or thinness of paste application determines its specific effect. Temperature of paste also plays role in determining effect of application. The underlying mechanism may be due to absorption through sweat pores.",
+            "html": "<p>The three types of external applications viz. <i>pralepa, pradeha</i> and <i>alepa</i> are mentioned in this chapter. <i>Pralepa</i> is a form which is applied cold, in a thin layer irrespective of its absorbability. It is indicated in vitiation of <i><a href=\"/index.php?title=Pitta\" title=\"Pitta\">pitta</a></i> and <i><a class=\"mw-redirect\" href=\"/index.php?title=Rakta\" title=\"Rakta\">rakta</a> <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a></i>.<i>Pradeha</i> is thick and it is generally applied in the form of bolus. It is applied in cold in case of <i><a href=\"/index.php?title=Pitta\" title=\"Pitta\">pitta</a>-<a class=\"mw-redirect\" href=\"/index.php?title=Rakta\" title=\"Rakta\">rakta</a></i> vitiation and hot in cases of <i><a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a>-<a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a></i> vitiation. <i>Alepa</i> is the medium form which is neither too thin nor too thick. Thus the thickness or thinness of paste application determines its specific effect. Temperature of paste also plays role in determining effect of application. The underlying mechanism may be due to absorption through sweat pores.\n</p>"
+        },
+        {
+            "type": "h2",
+            "text": "Sanskrit text, Transliteration and English translation",
+            "html": "<h2><span id=\"Sanskrit_text.2C_Transliteration_and_English_translation\"></span><span class=\"mw-headline\" id=\"Sanskrit_text,_Transliteration_and_English_translation\">Sanskrit text, Transliteration and English translation</span></h2>",
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "अथात आरग्वधीयमध्यायं व्याख्यास्यामः||१||",
+            "html": "<p>अथात आरग्वधीयमध्यायं व्याख्यास्यामः||१|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "इति ह स्माह भगवानात्रेयः||२||",
+            "html": "<p>इति ह स्माह भगवानात्रेयः||२||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "athāta āragvadhīyamadhyāyaṁ vyākhyāsyāmaḥ||1||",
+            "html": "<p>athāta āragvadhīyamadhyāyaṁ vyākhyāsyāmaḥ||1||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "iti ha smāha bhagavānātrēyaḥ||2||",
+            "html": "<p>iti ha smāha bhagavānātrēyaḥ||2|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "athAta AragvadhIyamadhyAyaM vyAkhyAsyAmaH||1||",
+            "html": "<p>athAta AragvadhIyamadhyAyaM vyAkhyAsyAmaH||1|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "iti ha smAha bhagavAnAtreyaH||2||",
+            "html": "<p>iti ha smAha bhagavAnAtreyaH||2|| \n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Now we shall expound the chapter \"Aragvadhiya\" (Cassia and other medicines). Thus said Lord Atreya. [1-2]",
+            "html": "<p>Now we shall expound the chapter \"Aragvadhiya\" (Cassia and other medicines). Thus said Lord Atreya. [1-2]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Six formulations used for local application",
+            "html": "<h3><span class=\"mw-headline\" id=\"Six_formulations_used_for_local_application\">Six formulations used for local application</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "आरग्वधः सैडगजः करञ्जो वासा गुडूची मदनं हरिद्रे| श्र्याह्वः सुराह्वः खदिरो धवश्च निम्बो विडङ्गं करवीरकत्वक्||३||",
+            "html": "<p>आरग्वधः सैडगजः करञ्जो वासा गुडूची मदनं हरिद्रे| <br/>\nश्र्याह्वः सुराह्वः खदिरो धवश्च निम्बो विडङ्गं करवीरकत्वक्||३|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "ग्रन्थिश्च भौर्जो लशुनः शिरीषः सलोमशो गुग्गुलुकृष्णगन्धे| फणिज्झको वत्सकसप्तपर्णौ पीलूनि कुष्ठं सुमनःप्रवालाः||४||",
+            "html": "<p>ग्रन्थिश्च भौर्जो लशुनः शिरीषः सलोमशो गुग्गुलुकृष्णगन्धे| <br/>\nफणिज्झको वत्सकसप्तपर्णौ पीलूनि कुष्ठं सुमनःप्रवालाः||४|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "वचा हरेणुस्त्रिवृता निकुम्भो भल्लातकं गैरिकमञ्जनं च| मनःशिलाले गृहधूम एला काशीसलोध्रार्जुनमुस्तसर्जाः||५||",
+            "html": "<p>वचा हरेणुस्त्रिवृता निकुम्भो भल्लातकं गैरिकमञ्जनं च| <br/>\nमनःशिलाले गृहधूम एला काशीसलोध्रार्जुनमुस्तसर्जाः||५|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "इत्यर्धरूपैर्विहिताः षडेते गोपित्तपीताः पुनरेव पिष्टाः| सिद्धाः परं सर्षपतैलयुक्ताश्चूर्णप्रदेहा भिषजा प्रयोज्याः||६||",
+            "html": "<p>इत्यर्धरूपैर्विहिताः षडेते गोपित्तपीताः पुनरेव पिष्टाः| <br/>\nसिद्धाः परं सर्षपतैलयुक्ताश्चूर्णप्रदेहा भिषजा प्रयोज्याः||६|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "कुष्ठानि कृच्छ्राणि नवं किलासं सुरेशलुप्तं किटिभं सदद्रु| भगन्दरार्शांस्यपचीं सपामां हन्युः प्रयुक्तास्त्वचिरान्नराणाम्||७||",
+            "html": "<p>कुष्ठानि कृच्छ्राणि नवं किलासं सुरेशलुप्तं किटिभं सदद्रु| <br/>\nभगन्दरार्शांस्यपचीं सपामां हन्युः प्रयुक्तास्त्वचिरान्नराणाम्||७||<br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "āragvadhaḥ saiḍagajaḥ karañjō vāsā guḍūcī madanaṁ haridrē| śryāhvaḥ surāhvaḥ khadirō dhavaśca nimbō viḍaṅgaṁ karavīrakatvak||3||",
+            "html": "<p>āragvadhaḥ saiḍagajaḥ karañjō vāsā guḍūcī madanaṁ haridrē| <br/>\nśryāhvaḥ surāhvaḥ khadirō dhavaśca nimbō viḍaṅgaṁ karavīrakatvak||3|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "granthiśca bhaurjō laśunaḥ śirīṣaḥ salōmaśō guggulukr̥ṣṇagandhē| phaṇijjhakō vatsakasaptaparṇau pīlūni kuṣṭhaṁ sumanaḥpravālāḥ||4||",
+            "html": "<p>granthiśca bhaurjō laśunaḥ śirīṣaḥ salōmaśō guggulukr̥ṣṇagandhē| <br/>\nphaṇijjhakō vatsakasaptaparṇau pīlūni kuṣṭhaṁ sumanaḥpravālāḥ||4|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "vacā harēṇustrivr̥tā nikumbhō bhallātakaṁ gairikamañjanaṁ ca| manaḥśilālē gr̥hadhūma ēlā kāśīsalōdhrārjunamustasarjāḥ||5||",
+            "html": "<p>vacā harēṇustrivr̥tā nikumbhō bhallātakaṁ gairikamañjanaṁ ca| <br/>\nmanaḥśilālē gr̥hadhūma ēlā kāśīsalōdhrārjunamustasarjāḥ||5|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "ityardharūpairvihitāḥ ṣaḍētē gōpittapītāḥ punarēva piṣṭāḥ| siddhāḥ paraṁ sarṣapatailayuktāścūrṇapradēhā bhiṣajā prayōjyāḥ||6||",
+            "html": "<p>ityardharūpairvihitāḥ ṣaḍētē gōpittapītāḥ punarēva piṣṭāḥ| <br/>\nsiddhāḥ paraṁ sarṣapatailayuktāścūrṇapradēhā bhiṣajā prayōjyāḥ||6|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "kuṣṭhāni kr̥cchrāṇi navaṁ kilāsaṁ surēśaluptaṁ kiṭibhaṁ sadadru| bhagandarārśāṁsyapacīṁ sapāmāṁ hanyuḥ prayuktāstvacirānnarāṇām||7||",
+            "html": "<p>kuṣṭhāni kr̥cchrāṇi navaṁ kilāsaṁ surēśaluptaṁ kiṭibhaṁ sadadru| <br/>\nbhagandarārśāṁsyapacīṁ sapāmāṁ hanyuḥ prayuktāstvacirānnarāṇām||7||<br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "AragvadhaH saiDagajaH kara~jjo vAsA guDUcI madanaM haridre| shryAhvaH surAhvaH khadiro dhavashca nimbo viDa~ggaM karavIrakatvak||3||",
+            "html": "<p>AragvadhaH saiDagajaH kara~jjo vAsA guDUcI madanaM haridre| <br/>\nshryAhvaH surAhvaH khadiro dhavashca nimbo viDa~ggaM karavIrakatvak||3|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "granthishca bhaurjo lashunaH shirIShaH salomasho guggulukRuShNagandhe| phaNijjhako vatsakasaptaparNau pIlUni kuShThaM sumanaHpravAlAH||4||",
+            "html": "<p>granthishca bhaurjo lashunaH shirIShaH salomasho guggulukRuShNagandhe| <br/>\nphaNijjhako vatsakasaptaparNau pIlUni kuShThaM sumanaHpravAlAH||4|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "vacA hareNustrivRutA nikumbho bhallAtakaM gairikama~jjanaM ca| manaHshilAle gRuhadhUma elA kAshIsalodhrArjunamustasarjAH||5||",
+            "html": "<p>vacA hareNustrivRutA nikumbho bhallAtakaM gairikama~jjanaM ca| <br/>\nmanaHshilAle gRuhadhUma elA kAshIsalodhrArjunamustasarjAH||5|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "ityardharUpairvihitAH ShaDete gopittapItAH punareva piShTAH| siddhAH paraM sarShapatailayuktAshcUrNapradehA bhiShajA prayojyAH||6||",
+            "html": "<p>ityardharUpairvihitAH ShaDete gopittapItAH punareva piShTAH| <br/>\nsiddhAH paraM sarShapatailayuktAshcUrNapradehA bhiShajA prayojyAH||6|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "kuShThAni kRucchrANi navaM kilAsaM sureshaluptaM kiTibhaM sadadru| bhagandarArshAMsyapacIM sapAmAM hanyuH prayuktAstvacirAnnarANAm||7||",
+            "html": "<p>kuShThAni kRucchrANi navaM kilAsaM sureshaluptaM kiTibhaM sadadru| <br/>\nbhagandarArshAMsyapacIM sapAmAM hanyuH prayuktAstvacirAnnarANAm||7|| <br/>\n</p>"
+        },
+        {
+            "type": "ol",
+            "text": "Aragvadha, aidagaja (chakramarda), karanja, vasa, guduchi, madana, haridra and daruharidra ; Shryahvah(sarala), surahvah (devadaru), khadira, dhava, nimba, vidanga , bark of karaviraka; Granthi (nodes) of bhorja, lashuna, shirisha, lomasha (kasisa), guggulu, and krishnagandha (shigru); Phanizzaka, vatsaka (kutaja), saptaparna, pilu, kushtha, and sumana pravala (tender leaves of Jati ); Vacha, harenu, trivruta, nikumbha (danti), bhallataka, gairika and anjana; Manashila, gr̥uhadhuma, ela kasisa, lodhra, arjuna, musta, and sarja;",
+            "html": "<ol><li><i>Aragvadha, aidagaja (chakramarda), karanja, vasa, guduchi, madana,</i> <i>haridra</i> and <i>daruharidra</i>;</li>\n<li><i>Shryahvah(sarala),</i> <i>surahvah (devadaru), khadira, dhava, nimba, vidanga</i>, bark of <i>karaviraka;</i></li>\n<li><i>Granthi</i> (nodes) of <i>bhorja, lashuna, shirisha, lomasha (kasisa), guggulu,</i> and <i>krishnagandha (shigru);</i></li>\n<li><i>Phanizzaka, vatsaka (kutaja), saptaparna, pilu,</i> <i>kushtha,</i> and <i>sumana pravala</i> (tender leaves of <i>Jati</i>);</li>\n<li><i>Vacha, harenu, trivruta, nikumbha (danti), bhallataka, gairika</i> and <i>anjana;</i></li>\n<li><i>Manashila, gr̥uhadhuma, ela kasisa, lodhra, arjuna, musta,</i> and <i>sarja;</i></li></ol>",
+            "items": [
+                "Aragvadha, aidagaja (chakramarda), karanja, vasa, guduchi, madana, haridra and daruharidra ;",
+                "Shryahvah(sarala), surahvah (devadaru), khadira, dhava, nimba, vidanga , bark of karaviraka;",
+                "Granthi (nodes) of bhorja, lashuna, shirisha, lomasha (kasisa), guggulu, and krishnagandha (shigru);",
+                "Phanizzaka, vatsaka (kutaja), saptaparna, pilu, kushtha, and sumana pravala (tender leaves of Jati );",
+                "Vacha, harenu, trivruta, nikumbha (danti), bhallataka, gairika and anjana;",
+                "Manashila, gr̥uhadhuma, ela kasisa, lodhra, arjuna, musta, and sarja;"
+            ]
+        },
+        {
+            "type": "p",
+            "text": "These six formulations, when mixed with pita-gopitta (ox-bile) and ground, and then mixed again with sarshapa-taila (mustard oil) before their administration by a wise physician in the form of a churnapradeha (paste), cure kushtha diseases (which are difficult to treat otherwise), kilasa (leucoderma) in the early stages, sureshalupta (alopecia), kitibha (resembling psoriasis), dadru (ringworm), bhagandara (fistula), arsha (piles), apachi (cervical and axillary lymphadenitis), and pama (papular eruptions) quickly.[3-7]",
+            "html": "<p>These six formulations, when mixed with <i>pita-gopitta</i> (ox-bile) and ground, and then mixed again with <i>sarshapa-taila</i> (mustard oil) before their administration by a wise physician in the form of a <i>churnapradeha</i> (paste), cure <i>kushtha</i>  diseases (which are difficult to treat otherwise), <i>kilasa</i> (leucoderma) in the early stages, <i>sureshalupta</i> (alopecia), <i>kitibha</i> (resembling psoriasis), <i>dadru</i> (ringworm), <i>bhagandara</i> (fistula), <i>arsha</i> (piles), <i>apachi</i> (cervical and axillary lymphadenitis), and <i>pama</i> (papular eruptions) quickly.[3-7]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Kushthadi formulation-I",
+            "html": "<h3><span class=\"mw-headline\" id=\"Kushthadi_formulation-I\">Kushthadi formulation-I</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "कुष्ठं हरिद्रे सुरसं पटोलं निम्बाश्वगन्धे सुरदारुशिग्रू| ससर्षपं तुम्बुरुधान्यवन्यं चण्डां च चूर्णानि समानि कुर्यात्||८||",
+            "html": "<p>कुष्ठं हरिद्रे सुरसं पटोलं निम्बाश्वगन्धे सुरदारुशिग्रू| <br/>\nससर्षपं तुम्बुरुधान्यवन्यं चण्डां च चूर्णानि समानि कुर्यात्||८|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "तैस्तक्रपिष्टैः प्रथमं शरीरं तैलाक्तमुद्वर्तयितुं यतेत| तेनास्यकण्डूः पिडकाः सकोठाः कुष्ठानि शोफाश्च शमं व्रजन्ति||९||",
+            "html": "<p>तैस्तक्रपिष्टैः प्रथमं शरीरं तैलाक्तमुद्वर्तयितुं यतेत| <br/>\nतेनास्यकण्डूः पिडकाः सकोठाः कुष्ठानि शोफाश्च शमं व्रजन्ति||९|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "kuṣṭhaṁ haridrē surasaṁ paṭōlaṁ nimbāśvagandhē suradāruśigrū| sasarṣapaṁ tumburudhānyavanyaṁ caṇḍāṁ ca cūrṇāni samāni kuryāt||8||",
+            "html": "<p>kuṣṭhaṁ haridrē surasaṁ paṭōlaṁ nimbāśvagandhē suradāruśigrū| <br/>\nsasarṣapaṁ tumburudhānyavanyaṁ caṇḍāṁ ca cūrṇāni samāni kuryāt||8|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "taistakrapiṣṭaiḥ prathamaṁ śarīraṁ tailāktamudvartayituṁ yatēta| tēnāsyakaṇḍūḥ piḍakāḥ sakōṭhāḥ kuṣṭhāni śōphāśca śamaṁ vrajanti||9||",
+            "html": "<p>taistakrapiṣṭaiḥ prathamaṁ śarīraṁ tailāktamudvartayituṁ yatēta| <br/>\ntēnāsyakaṇḍūḥ piḍakāḥ sakōṭhāḥ kuṣṭhāni śōphāśca śamaṁ vrajanti||9|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "kuShThaM haridre surasaM paTolaM nimbAshvagandhe suradArushigrU| sasarShapaM tumburudhAnyavanyaM caNDAM ca cUrNAni samAni kuryAt||8||",
+            "html": "<p>kuShThaM haridre surasaM paTolaM nimbAshvagandhe suradArushigrU| <br/>\nsasarShapaM tumburudhAnyavanyaM caNDAM ca cUrNAni samAni kuryAt||8|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "taistakrapiShTaiH prathamaM sharIraM tailAktamudvartayituM yateta| tenAsyakaNDUH piDakAH sakoThAH kuShThAni shophAshca shamaM vrajanti||9||",
+            "html": "<p>taistakrapiShTaiH prathamaM sharIraM tailAktamudvartayituM yateta| <br/>\ntenAsyakaNDUH piDakAH sakoThAH kuShThAni shophAshca shamaM vrajanti||9|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Kushtha , (both types of) haridra, surasa (tulasi), patola, nimba, ashvagandha, suradaru, shigru, sarshapa, tumburudhanya (seeds of tumburu ), vanya (kaivarta mustaka), and chanda - powdered in equal quantities, admixed with takra (buttermilk) and grounded well - make for an effective formulation that alleviates diseases like kandu, pidaka, kotha, all types of kushtha and shopha . Before anointing this formulation, the body or an affected part of the body is smeared with oil. [8-9]",
+            "html": "<p><i>Kushtha</i>, (both types of) <i>haridra, surasa (tulasi), patola, nimba, ashvagandha, suradaru, shigru, sarshapa, tumburudhanya</i> (seeds of <i>tumburu</i>), <i>vanya (kaivarta mustaka),</i> and <i>chanda</i>-  powdered in equal quantities, admixed with <i>takra</i> (buttermilk) and grounded well - make for an effective formulation that alleviates diseases like <i>kandu, pidaka, kotha,</i> all types of <i>kushtha</i> and <i>shopha</i>. Before anointing this formulation, the body or an affected part of the body is smeared with oil. [8-9]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Kushthadi formulation-II",
+            "html": "<h3><span class=\"mw-headline\" id=\"Kushthadi_formulation-II\">Kushthadi formulation-II</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "कुष्ठामृतासङ्गकटङ्कटेरीकासीसकम्पिल्लकमुस्तलोध्राः| सौगन्धिकं सर्जरसो विडङ्गं मनःशिलाले करवीरकत्वक्||१०||",
+            "html": "<p>कुष्ठामृतासङ्गकटङ्कटेरीकासीसकम्पिल्लकमुस्तलोध्राः| <br/>\nसौगन्धिकं सर्जरसो विडङ्गं मनःशिलाले करवीरकत्वक्||१०|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "तैलाक्तगात्रस्य कृतानि चूर्णान्येतानि दद्यादवचूर्णनार्थम्| दद्रूः सकण्डूः किटिभानि पामा विचर्चिका चैव तथैति शान्तिम्||११||",
+            "html": "<p>तैलाक्तगात्रस्य कृतानि चूर्णान्येतानि दद्यादवचूर्णनार्थम्| <br/>\nदद्रूः सकण्डूः किटिभानि पामा विचर्चिका चैव तथैति शान्तिम्||११|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "kuṣṭhāmr̥tāsaṅgakaṭaṅkaṭērīkāsīsakampillakamustalōdhrāḥ| saugandhikaṁ sarjarasō viḍaṅgaṁ manaḥśilālē karavīrakatvak||10||",
+            "html": "<p>kuṣṭhāmr̥tāsaṅgakaṭaṅkaṭērīkāsīsakampillakamustalōdhrāḥ| <br/>\nsaugandhikaṁ sarjarasō viḍaṅgaṁ manaḥśilālē karavīrakatvak||10|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "tailāktagātrasya kr̥tāni cūrṇānyētāni dadyādavacūrṇanārtham| dadrūḥ sakaṇḍūḥ kiṭibhāni pāmā vicarcikā caiva tathaiti śāntim||11||",
+            "html": "<p>tailāktagātrasya kr̥tāni cūrṇānyētāni dadyādavacūrṇanārtham| <br/>\ndadrūḥ sakaṇḍūḥ kiṭibhāni pāmā vicarcikā caiva tathaiti śāntim||11|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "kuShThAmRutAsa~ggakaTa~gkaTerIkAsIsakampillakamustalodhrAH| saugandhikaM sarjaraso viDa~ggaM manaHshilAle karavIrakatvak||10||",
+            "html": "<p>kuShThAmRutAsa~ggakaTa~gkaTerIkAsIsakampillakamustalodhrAH| <br/>\nsaugandhikaM sarjaraso viDa~ggaM manaHshilAle karavIrakatvak||10|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "tailAktagAtrasya kRutAni cUrNAnyetAni dadyAdavacUrNanArtham| dadrUH sakaNDUH kiTibhAni pAmA vicarcikA caiva tathaiti shAntim||11||",
+            "html": "<p>tailAktagAtrasya kRutAni cUrNAnyetAni dadyAdavacUrNanArtham| <br/>\ndadrUH sakaNDUH kiTibhAni pAmA vicarcikA caiva tathaiti shAntim||11|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Kushtha, amritasanga (tuttha), katankateri (daruharidra), kasisa, kampillaka, mustaka, lodhra, saugandhika ( gandhatruna or sulphur), sarjarasa (rala), vidanga, manahshila, ala (haratala), and the bark of karaviraka - mixed and ground into a powder - is used for the purpose of dusting ( avachurnana ) on the body already smeared with oil. This medication helps cure dadru (ring worms), kandu (itching), as well as all kinds of kiṭibha (resembling psoriasis), pama (papular eruptions) and vicharchika (eczema). [10-11]",
+            "html": "<p><i>Kushtha, amritasanga (tuttha), katankateri (daruharidra), kasisa, kampillaka, mustaka, lodhra, saugandhika</i> (<i>gandhatruna</i> or sulphur), <i>sarjarasa (rala), vidanga, manahshila, ala (haratala),</i> and the bark of <i>karaviraka</i> - mixed and ground into a powder - is used for the purpose of dusting (<i>avachurnana</i>) on the body already smeared with oil. This medication helps cure <i>dadru</i>(ring worms), <i>kandu</i> (itching), as well as all kinds of <i>kiṭibha</i> (resembling psoriasis), <i>pama</i>(papular eruptions) and <i>vicharchika</i> (eczema). [10-11]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Manahshiladi formulation-I",
+            "html": "<h3><span class=\"mw-headline\" id=\"Manahshiladi_formulation-I\">Manahshiladi formulation-I</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "मनःशिलाले मरिचानि तैलमार्कं पयः कुष्ठहरः प्रदेहः| तुत्थं विडङ्गं मरिचानि कुष्ठं लोध्रं च तद्वत् समनःशिलं स्यात्||१२||",
+            "html": "<p>मनःशिलाले मरिचानि तैलमार्कं पयः कुष्ठहरः प्रदेहः| <br/>\nतुत्थं विडङ्गं मरिचानि कुष्ठं लोध्रं च तद्वत् समनःशिलं स्यात्||१२||<br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "manaḥśilālē maricāni tailamārkaṁ payaḥ kuṣṭhaharaḥ pradēhaḥ| tutthaṁ viḍaṅgaṁ maricāni kuṣṭhaṁ lōdhraṁ ca tadvat samanaḥśilaṁ syāt||12||",
+            "html": "<p>manaḥśilālē maricāni tailamārkaṁ payaḥ kuṣṭhaharaḥ pradēhaḥ| <br/>\ntutthaṁ viḍaṅgaṁ maricāni kuṣṭhaṁ lōdhraṁ ca tadvat samanaḥśilaṁ syāt||12|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "manaHshilAle maricAni tailamArkaM payaH kuShThaharaH pradehaH| tutthaM viDa~ggaM maricAni kuShThaM lodhraM ca tadvat samanaHshilaM syAt||12||",
+            "html": "<p>manaHshilAle maricAni tailamArkaM payaH kuShThaharaH pradehaH| <br/>\ntutthaM viDa~ggaM maricAni kuShThaM lodhraM ca tadvat samanaHshilaM syAt||12|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Manahshila, ala, maricha (seeds of maricha), taila (mustard oil), and arka-paya (latex of arka ) , ground and made into a paste ( pradeha ) , alleviates kushtha . Tuttha, vidanga, maricha, kushtha, and lodhra , along with manahshila can also be used in the preparation. [12]",
+            "html": "<p><i>Manahshila, ala, maricha</i> (seeds of maricha), <i>taila</i> (mustard oil), and <i>arka-paya</i> (latex of <i>arka</i>) , ground and made into a paste (<i>pradeha</i>) , alleviates <i>kushtha</i> . <i>Tuttha, vidanga, maricha, kushtha,</i> and <i>lodhra</i>, along with <i>manahshila</i> can also be used in the preparation. [12]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Rasanjanadi formulation",
+            "html": "<h3><span class=\"mw-headline\" id=\"Rasanjanadi_formulation\">Rasanjanadi formulation</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "रसाञ्जनं सप्रपुन्नाडबीजं युक्तं कपित्थस्य रसेन लेपः| करञ्जबीजैडगजं सकुष्ठं गोमूत्रपिष्टं च परः प्रदेहः||१३||",
+            "html": "<p>रसाञ्जनं सप्रपुन्नाडबीजं युक्तं कपित्थस्य रसेन लेपः| <br/>\nकरञ्जबीजैडगजं सकुष्ठं गोमूत्रपिष्टं च परः प्रदेहः||१३||<br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "rasāñjanaṁ saprapunnāḍabījaṁ yuktaṁ kapitthasya rasēna lēpaḥ| karañjabījaiḍagajaṁ sakuṣṭhaṁ gōmūtrapiṣṭaṁ ca paraḥ pradēhaḥ||13||",
+            "html": "<p>rasāñjanaṁ saprapunnāḍabījaṁ yuktaṁ kapitthasya rasēna lēpaḥ| <br/>\nkarañjabījaiḍagajaṁ sakuṣṭhaṁ gōmūtrapiṣṭaṁ ca paraḥ pradēhaḥ||13||<br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "rasA~jjanaM saprapunnADabIjaM yuktaM kapitthasya rasena lepaH| kara~jjabIjaiDagajaM sakuShThaM gomUtrapiShTaM ca paraH pradehaH||13||",
+            "html": "<p>rasA~jjanaM saprapunnADabIjaM yuktaM kapitthasya rasena lepaH| <br/>\nkara~jjabIjaiDagajaM sakuShThaM gomUtrapiShTaM ca paraH pradehaH||13||<br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Rasanjana and prapunnadabija, mixed with the juice of kapittha makes a good lepa for kushtha . Similarly, karanjabija, aidagaja, and kushtha -ground with gomutra - makes an effective pradeha (for kushtha ). [13]",
+            "html": "<p><i>Rasanjana</i> and <i>prapunnadabija,</i> mixed with the juice of <i>kapittha</i> makes a good <i>lepa</i> for <i>kushtha</i>. Similarly, <i>karanjabija, aidagaja,</i> and <i>kushtha</i> -ground with <i>gomutra</i> - makes an effective <i>pradeha</i> (for <i>kushtha</i>). [13]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Haridradi formulation",
+            "html": "<h3><span class=\"mw-headline\" id=\"Haridradi_formulation\">Haridradi formulation</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "उभे हरिद्रे कुटजस्य बीजं करञ्जबीजं सुमनःप्रवालान्| त्वचं समध्यां हयमारकस्य लेपं तिलक्षारयुतं विदध्यात्||१४||",
+            "html": "<p>उभे हरिद्रे कुटजस्य बीजं करञ्जबीजं सुमनःप्रवालान्| <br/>\nत्वचं समध्यां हयमारकस्य लेपं तिलक्षारयुतं विदध्यात्||१४||<br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "ubhē haridrē kuṭajasya bījaṁ karañjabījaṁ sumanaḥpravālān| tvacaṁ samadhyāṁ hayamārakasya lēpaṁ tilakṣārayutaṁ vidadhyāt||14||",
+            "html": "<p>ubhē haridrē kuṭajasya bījaṁ karañjabījaṁ sumanaḥpravālān| <br/>\ntvacaṁ samadhyāṁ hayamārakasya lēpaṁ tilakṣārayutaṁ vidadhyāt||14|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "ubhe haridre kuTajasya bIjaM kara~jjabIjaM sumanaHpravAlAn| tvacaM samadhyAM hayamArakasya lepaM tilakShArayutaM vidadhyAt||14||",
+            "html": "<p>ubhe haridre kuTajasya bIjaM kara~jjabIjaM sumanaHpravAlAn| <br/>\ntvacaM samadhyAM hayamArakasya lepaM tilakShArayutaM vidadhyAt||14|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Both types of haridra , seeds of kutaja , seeds of karanja , tender leaves of sumana (jati), bark and pith of hayamaraka (karaviraka) - mixed with kshara of tila (alkali preparation of sesame) - make a good lepa (for kushtha ). [14]",
+            "html": "<p>Both types of <i>haridra</i>, seeds of <i>kutaja</i>, seeds of <i>karanja</i>, tender leaves of <i>sumana (jati),</i> bark and pith of <i>hayamaraka</i> <i>(karaviraka)</i> - mixed with <i>kshara</i> of <i>tila</i> (alkali preparation of sesame) - make a good <i>lepa</i> (for <i>kushtha</i>). [14]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Manahshiladi formulation-II",
+            "html": "<h3><span class=\"mw-headline\" id=\"Manahshiladi_formulation-II\">Manahshiladi formulation-II</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "मनःशिला त्वक् कुटजात् सकुष्ठात् सलोमशः सैडगजः करञ्जः| ग्रन्थिश्च भौर्जः करवीरमूलं चूर्णानि साध्यानि तुषोदकेन||१५||",
+            "html": "<p>मनःशिला त्वक् कुटजात् सकुष्ठात् सलोमशः सैडगजः करञ्जः| <br/>\nग्रन्थिश्च भौर्जः करवीरमूलं चूर्णानि साध्यानि तुषोदकेन||१५|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "पलाशनिर्दाहरसेन चापि कर्षोद्धृतान्याढकसम्मितेन| दर्वीप्रलेपं प्रवदन्ति लेपमेतं परं कुष्ठनिसूदनाय||१६||",
+            "html": "<p>पलाशनिर्दाहरसेन चापि कर्षोद्धृतान्याढकसम्मितेन| <br/>\nदर्वीप्रलेपं प्रवदन्ति लेपमेतं परं कुष्ठनिसूदनाय||१६||<br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "manaḥśilā tvak kuṭajāt sakuṣṭhāt salōmaśaḥ saiḍagajaḥ karañjaḥ| granthiśca bhaurjaḥ karavīramūlaṁ cūrṇāni sādhyāni tuṣōdakēna||15||",
+            "html": "<p>manaḥśilā tvak kuṭajāt sakuṣṭhāt salōmaśaḥ saiḍagajaḥ karañjaḥ| <br/>\ngranthiśca bhaurjaḥ karavīramūlaṁ cūrṇāni sādhyāni tuṣōdakēna||15|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "palāśanirdāharasēna cāpi karṣōddhr̥tānyāḍhakasammitēna| darvīpralēpaṁ pravadanti lēpamētaṁ paraṁ kuṣṭhanisūdanāya||16||",
+            "html": "<p>palāśanirdāharasēna cāpi karṣōddhr̥tānyāḍhakasammitēna| <br/>\ndarvīpralēpaṁ pravadanti lēpamētaṁ paraṁ kuṣṭhanisūdanāya||16||<br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "manaHshilA tvak kuTajAt sakuShThAt salomashaH saiDagajaH kara~jjaH| granthishca bhaurjaH karavIramUlaM cUrNAni sAdhyAni tuShodakena||15||",
+            "html": "<p>manaHshilA tvak kuTajAt sakuShThAt salomashaH saiDagajaH kara~jjaH| <br/>\ngranthishca bhaurjaH karavIramUlaM cUrNAni sAdhyAni tuShodakena||15|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "palAshanirdAharasena cApi karShoddhRutAnyADhakasammitena| darvIpralepaM pravadanti lepametaM paraM kuShThanisUdanAya||16||",
+            "html": "<p>palAshanirdAharasena cApi karShoddhRutAnyADhakasammitena| <br/>\ndarvIpralepaM pravadanti lepametaM paraM kuShThanisUdanAya||16|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Powder of manashila , bark of kuṭaja, kushtha, lomasha, aidagaja, karanja, bhurja granthi, and roots of karavira , - each of these taken one karsha (10 g) and cooked with adhaka (2.56 liters) quantity of tushodaka and palashanirdaharasa (juice of palasha that is obtained from burning the roots), when reduced to a semi-solid state ( darvipralepa ), makes the best lepa for kushtha . [15-16]",
+            "html": "<p>Powder of <i>manashila</i>, bark of <i>kuṭaja, kushtha, lomasha, aidagaja, karanja, bhurja granthi,</i> and roots of <i>karavira</i>, - each of these taken one <i>karsha</i> (10 g) and cooked with <i>adhaka</i> (2.56 liters) quantity of <i>tushodaka</i> and <i>palashanirdaharasa</i> (juice of <i>palasha</i> that is obtained from burning the roots), when reduced to a semi-solid state (<i>darvipralepa</i>), makes the best <i>lepa</i> for <i>kushtha</i>. [15-16]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Chaturanguladi formulation",
+            "html": "<h3><span class=\"mw-headline\" id=\"Chaturanguladi_formulation\">Chaturanguladi formulation</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "पर्णानि पिष्ट्वा चतुरङ्गुलस्य तक्रेण पर्णान्यथ काकमाच्याः| तैलाक्तगात्रस्य नरस्य कुष्ठान्युद्वर्तयेदश्वहनच्छदैश्च||१७||",
+            "html": "<p>पर्णानि पिष्ट्वा चतुरङ्गुलस्य तक्रेण पर्णान्यथ काकमाच्याः| <br/>\nतैलाक्तगात्रस्य नरस्य कुष्ठान्युद्वर्तयेदश्वहनच्छदैश्च||१७||<br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "parṇāni piṣṭvā caturaṅgulasya takrēṇa parṇānyatha kākamācyāḥ| tailāktagātrasya narasya kuṣṭhānyudvartayēdaśvahanacchadaiśca||17||",
+            "html": "<p>parṇāni piṣṭvā caturaṅgulasya takrēṇa parṇānyatha kākamācyāḥ| <br/>\ntailāktagātrasya narasya kuṣṭhānyudvartayēdaśvahanacchadaiśca||17||<br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "parNAni piShTvA catura~ggulasya takreNa parNAnyatha kAkamAcyAH| tailAktagAtrasya narasya kuShThAnyudvartayedashvahanacchadaishca||17||",
+            "html": "<p>parNAni piShTvA catura~ggulasya takreNa parNAnyatha kAkamAcyAH| <br/>\ntailAktagAtrasya narasya kuShThAnyudvartayedashvahanacchadaishca||17|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "A lepa prepared by grinding the leaves of chaturangula (aragvadha), the leaves of kakamachi, and the leaves of ashvahana (karaviraka) with takra , should be anointed on the (oil-smeared) body of a person affected with kushtha. [17]",
+            "html": "<p>A <i>lepa</i> prepared by grinding the leaves of <i>chaturangula (aragvadha),</i> the leaves of <i>kakamachi,</i> and the leaves of <i>ashvahana</i> <i>(karaviraka)</i> with <i>takra</i>, should be anointed on the (oil-smeared) body of a person affected with <i>kushtha.</i> [17]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Kola-kulatthadi formulation in Vata disorders",
+            "html": "<h3><span class=\"mw-headline\" id=\"Kola-kulatthadi_formulation_in_Vata_disorders\">Kola-kulatthadi formulation in <i>Vata</i> disorders</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "कोलं कुलत्थाः सुरदारुरास्नामाषातसीतैलफलानि कुष्ठम्| वचा शताह्वा यवचूर्णमम्लमुष्णानि वातामयिनां प्रदेहः||१८||",
+            "html": "<p>कोलं कुलत्थाः सुरदारुरास्नामाषातसीतैलफलानि कुष्ठम्| <br/>\nवचा शताह्वा यवचूर्णमम्लमुष्णानि वातामयिनां प्रदेहः||१८|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "kōlaṁ kulatthāḥ suradārurāsnāmāṣātasītailaphalāni kuṣṭham| vacā śatāhvā yavacūrṇamamlamuṣṇāni vātāmayināṁ pradēhaḥ||18||",
+            "html": "<p>kōlaṁ kulatthāḥ suradārurāsnāmāṣātasītailaphalāni kuṣṭham| <br/>\nvacā śatāhvā yavacūrṇamamlamuṣṇāni vātāmayināṁ pradēhaḥ||18||<br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "kolaM kulatthAH suradArurAsnAmAShAtasItailaphalAni kuShTham| vacA shatAhvA yavacUrNamamlamuShNAni vAtAmayinAM pradehaH||18||",
+            "html": "<p>kolaM kulatthAH suradArurAsnAmAShAtasItailaphalAni kuShTham| <br/>\nvacA shatAhvA yavacUrNamamlamuShNAni vAtAmayinAM pradehaH||18|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Kola, kulattha, suradaru, rasna, masha, atasi, tailaphalani, kushtha, vachaa, shatahva, yavachurna (all in equal quantity), ground with amla (kanji or a fermented sour beverage), is used as a hot (ushna) pradeha for patients suffering from vatika disorders. [18]",
+            "html": "<p><i>Kola, kulattha, suradaru, rasna, masha, atasi, tailaphalani, kushtha, vachaa, shatahva, yavachurna</i> (all in equal quantity), ground with <i>amla (kanji or a fermented sour beverage),</i> is used as a hot <i>(ushna) pradeha</i> for patients suffering from <i>vatika</i> disorders. [18]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Anup matsyadi pradeha formulation",
+            "html": "<h3><span class=\"mw-headline\" id=\"Anup_matsyadi_pradeha_formulation\">Anup matsyadi <i>pradeha</i> formulation</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "आनूपमत्स्यामिषवेसवारैरुष्णैः प्रदेहः पवनापहः स्यात्| स्नेहैश्चतुर्भिर्दशमूलमिश्रैर्गन्धौषधैश्चानिलहः प्रदेहः||१९||",
+            "html": "<p>आनूपमत्स्यामिषवेसवारैरुष्णैः प्रदेहः पवनापहः स्यात्| <br/>\nस्नेहैश्चतुर्भिर्दशमूलमिश्रैर्गन्धौषधैश्चानिलहः प्रदेहः||१९||<br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "ānūpamatsyāmiṣavēsavārairuṣṇaiḥ pradēhaḥ pavanāpahaḥ syāt| snēhaiścaturbhirdaśamūlamiśrairgandhauṣadhaiścānilahaḥ pradēhaḥ||19||",
+            "html": "<p>ānūpamatsyāmiṣavēsavārairuṣṇaiḥ pradēhaḥ pavanāpahaḥ syāt| <br/>\nsnēhaiścaturbhirdaśamūlamiśrairgandhauṣadhaiścānilahaḥ pradēhaḥ||19|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "AnUpamatsyAmiShavesavArairuShNaiH pradehaH pavanApahaH syAt| snehaishcaturbhirdashamUlamishrairgandhauShadhaishcAnilahaH pradehaH||19||",
+            "html": "<p>AnUpamatsyAmiShavesavArairuShNaiH pradehaH pavanApahaH syAt| <br/>\nsnehaishcaturbhirdashamUlamishrairgandhauShadhaishcAnilahaH pradehaH||19|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Pradeha made of hot veshavara (a preparation of meat) prepared with anupamatsyamisha (meat of marshy fish) subsides vata . Similarly, four types of sneha, dashamula and gandhaushadha, when mixed together, make a vata alleviating pradeha . [19]",
+            "html": "<p><i>Pradeha</i> made of hot <i>veshavara</i> (a preparation of meat) prepared with <i>anupamatsyamisha</i> (meat of marshy fish) subsides <i><a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a></i>. Similarly, four types of <i>sneha, dashamula</i> and <i>gandhaushadha,</i> when mixed together, make a <i><a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a></i> alleviating <i>pradeha</i>. [19]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Yavadi formulation",
+            "html": "<h3><span class=\"mw-headline\" id=\"Yavadi_formulation\">Yavadi formulation</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "तक्रेण युक्तं यवचूर्णमुष्णं सक्षारमर्तिं जठरे निहन्यात्| कुष्ठं शताह्वां सवचां यवानां चूर्णं सतैलाम्लमुशन्ति वाते||२०||",
+            "html": "<p>तक्रेण युक्तं यवचूर्णमुष्णं सक्षारमर्तिं जठरे निहन्यात्| <br/>\nकुष्ठं शताह्वां सवचां यवानां चूर्णं सतैलाम्लमुशन्ति वाते||२०||<br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "takrēṇa yuktaṁ yavacūrṇamuṣṇaṁ sakṣāramartiṁ jaṭharē nihanyāt| kuṣṭhaṁ śatāhvāṁ savacāṁ yavānāṁ cūrṇaṁ satailāmlamuśanti vātē||20||",
+            "html": "<p>takrēṇa yuktaṁ yavacūrṇamuṣṇaṁ sakṣāramartiṁ jaṭharē nihanyāt| <br/>\nkuṣṭhaṁ śatāhvāṁ savacāṁ yavānāṁ cūrṇaṁ satailāmlamuśanti vātē||20||<br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "takreNa yuktaM yavacUrNamuShNaM sakShAramartiM jaThare nihanyAt| kuShThaM shatAhvAM savacAM yavAnAM cUrNaM satailAmlamushanti vAte||20||",
+            "html": "<p>takreNa yuktaM yavacUrNamuShNaM sakShAramartiM jaThare nihanyAt| <br/>\nkuShThaM shatAhvAM savacAM yavAnAM cUrNaM satailAmlamushanti vAte||20|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Yavachurṇa mixed with takra, heated and added with kshara serves as an abdominal pain relieving drug. Kushtha, shatahva, vacha, and yavachurna - mixed with taila and amla - is indicated in vata related disorders. [20]",
+            "html": "<p><i>Yavachurṇa</i> mixed with <i>takra,</i> heated and added with <i>kshara</i> serves as an abdominal pain relieving drug. <i>Kushtha, shatahva, vacha,</i> and <i>yavachurna</i> - mixed with <i>taila</i> and <i>amla</i> - is indicated in <i><a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a></i> related disorders. [20]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Shatavhadi formulation",
+            "html": "<h3><span class=\"mw-headline\" id=\"Shatavhadi_formulation\">Shatavhadi formulation</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "उभे शताह्वे मधुकं मधूकं बलां प्रियालं च कशेरुकं च| घृतं विदारीं च सितोपलां च कुर्यात् प्रदेहं पवने सरक्ते||२१||",
+            "html": "<p>उभे शताह्वे मधुकं मधूकं बलां प्रियालं च कशेरुकं च| <br/>\nघृतं विदारीं च सितोपलां च कुर्यात् प्रदेहं पवने सरक्ते||२१||<br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "ubhē śatāhvē madhukaṁ madhūkaṁ balāṁ priyālaṁ ca kaśērukaṁ ca| ghr̥taṁ vidārīṁ ca sitōpalāṁ ca kuryāt pradēhaṁ pavanē saraktē||21||",
+            "html": "<p>ubhē śatāhvē madhukaṁ madhūkaṁ balāṁ priyālaṁ ca kaśērukaṁ ca| <br/>\nghr̥taṁ vidārīṁ ca sitōpalāṁ ca kuryāt pradēhaṁ pavanē saraktē||21|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "ubhe shatAhve madhukaM madhUkaM balAM priyAlaM ca kasherukaM ca| ghRutaM vidArIM ca sitopalAM ca kuryAt pradehaM pavane sarakte||21||",
+            "html": "<p>ubhe shatAhve madhukaM madhUkaM balAM priyAlaM ca kasherukaM ca| <br/>\nghRutaM vidArIM ca sitopalAM ca kuryAt pradehaM pavane sarakte||21|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Both types of shatahva, madhuka, bala, priyala, kasheruka, and vidari - ground and mixed with ghrita and sitopala - makes a pradeha in vatarakta disorders. [21]",
+            "html": "<p>Both types of <i>shatahva, madhuka, bala, priyala, kasheruka,</i> and <i>vidari</i> - ground and mixed with <i>ghrita</i> and <i>sitopala</i> - makes a <i>pradeha</i> in <i>vatarakta</i> disorders. [21]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Rasnadi formulation",
+            "html": "<h3><span class=\"mw-headline\" id=\"Rasnadi_formulation\">Rasnadi formulation</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "रास्ना गुडूची मधुकं बले द्वे सजीवकं सर्षभकं पयश्च| घृतं च सिद्धं मधुशेषयुक्तं रक्तानिलार्तिं प्रणुदेत् प्रदेहः||२२||",
+            "html": "<p>रास्ना गुडूची मधुकं बले द्वे सजीवकं सर्षभकं पयश्च| <br/>\nघृतं च सिद्धं मधुशेषयुक्तं रक्तानिलार्तिं प्रणुदेत् प्रदेहः||२२||<br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "rāsnā guḍūcī madhukaṁ balē dvē sajīvakaṁ sarṣabhakaṁ payaśca| ghr̥taṁ ca siddhaṁ madhuśēṣayuktaṁ raktānilārtiṁ praṇudēt pradēhaḥ||22||",
+            "html": "<p>rāsnā guḍūcī madhukaṁ balē dvē sajīvakaṁ sarṣabhakaṁ payaśca| <br/>\nghr̥taṁ ca siddhaṁ madhuśēṣayuktaṁ raktānilārtiṁ praṇudēt pradēhaḥ||22|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "rAsnA guDUcI madhukaM bale dve sajIvakaM sarShabhakaM payashca| ghRutaM ca siddhaM madhusheShayuktaM raktAnilArtiM praNudet pradehaH||22||",
+            "html": "<p>rAsnA guDUcI madhukaM bale dve sajIvakaM sarShabhakaM payashca| <br/>\nghRutaM ca siddhaM madhusheShayuktaM raktAnilArtiM praNudet pradehaH||22|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Ghrita prepared with rasna, guduchi, madhuka , two types of bala ( bala and atibala ), jivaka, rishabhaka , mixed with milk and added with honey-wax ( madhushesha ) is used to prepare a pradeha for alleviating discomfort due to vatarakta. [22]",
+            "html": "<p><i>Ghrita</i> prepared with <i>rasna, guduchi, madhuka</i>, two types of <i>bala</i> (<i>bala</i> and <i>atibala</i>), <i>jivaka, rishabhaka</i>, mixed with milk and added with honey-wax (<i>madhushesha</i>) is used to prepare a <i>pradeha</i> for alleviating discomfort due to <i>vatarakta.</i> [22]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Godhumadi formulation",
+            "html": "<h3><span class=\"mw-headline\" id=\"Godhumadi_formulation\">Godhumadi formulation</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "वाते सरक्ते सघृतं प्रदेहो गोधूमचूर्णं छगलीपयश्च| नतोत्पलं चन्दनकुष्ठयुक्तं शिरोरुजायां सघृतं प्रदेहः||२३||",
+            "html": "<p>वाते सरक्ते सघृतं प्रदेहो गोधूमचूर्णं छगलीपयश्च| <br/>\nनतोत्पलं चन्दनकुष्ठयुक्तं शिरोरुजायां सघृतं प्रदेहः||२३||<br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "vātē saraktē saghr̥taṁ pradēhō gōdhūmacūrṇaṁ chagalīpayaśca| natōtpalaṁ candanakuṣṭhayuktaṁ śirōrujāyāṁ saghr̥taṁ pradēhaḥ||23||",
+            "html": "<p>vātē saraktē saghr̥taṁ pradēhō gōdhūmacūrṇaṁ chagalīpayaśca|<br/>\nnatōtpalaṁ candanakuṣṭhayuktaṁ śirōrujāyāṁ saghr̥taṁ pradēhaḥ||23|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "vAte sarakte saghRutaM pradeho godhUmacUrNaM chagalIpayashca|23| natotpalaM candanakuShThayuktaM shirorujAyAM saghRutaM pradehaH||23||",
+            "html": "<p>vAte sarakte saghRutaM pradeho godhUmacUrNaM chagalIpayashca|23| <br/>\nnatotpalaM candanakuShThayuktaM shirorujAyAM saghRutaM pradehaH||23|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "In vatarakta, the pradeha is prepared using godhumachurna mixed with ghrita and chagalipaya (goat’s milk). In the case of shiroruja, the pradeha is prepared by mixing nata, utpala, chandana, kushtha with ghrita. [23]",
+            "html": "<p>In <i>vatarakta,</i> the <i>pradeha</i> is prepared using <i>godhumachurna</i> mixed with <i>ghrita</i> and <i>chagalipaya</i> (goat’s milk). In the case of <i>shiroruja,</i> the <i>pradeha</i> is prepared by mixing <i>nata, utpala, chandana, kushtha</i> with <i>ghrita.</i> [23]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Prapaudarikadi formulation",
+            "html": "<h3><span class=\"mw-headline\" id=\"Prapaudarikadi_formulation\">Prapaudarikadi formulation</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "प्रपौण्डरीकं सुरदारु कुष्ठं यष्ट्याह्वमेला कमलोत्पले च| शिरोरुजायां सघृतः प्रदेहो लोहैरकापद्मकचोरकैश्च||२४||",
+            "html": "<p>प्रपौण्डरीकं सुरदारु कुष्ठं यष्ट्याह्वमेला कमलोत्पले च| <br/>\nशिरोरुजायां सघृतः प्रदेहो लोहैरकापद्मकचोरकैश्च||२४||<br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "prapauṇḍarīkaṁ suradāru kuṣṭhaṁ yaṣṭyāhvamēlā kamalōtpalē ca| śirōrujāyāṁ saghr̥taḥ pradēhō lōhairakāpadmakacōrakaiśca||24||",
+            "html": "<p>prapauṇḍarīkaṁ suradāru kuṣṭhaṁ yaṣṭyāhvamēlā kamalōtpalē ca| <br/>\nśirōrujāyāṁ saghr̥taḥ pradēhō lōhairakāpadmakacōrakaiśca||24|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "prapauNDarIkaM suradAru kuShThaM yaShTyAhvamelA kamalotpale ca| shirorujAyAM saghRutaH pradeho lohairakApadmakacorakaishca||24||",
+            "html": "<p>prapauNDarIkaM suradAru kuShThaM yaShTyAhvamelA kamalotpale ca| <br/>\nshirorujAyAM saghRutaH pradeho lohairakApadmakacorakaishca||24|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "A pradeha prepared by mixing prapaundarika, suradaru, kushtha, yashtyahva, ela, kamala, utpala, loha (agaru), eraka, padmaka and choraka with ghrita is useful in treating headache ( shiroruja ) . [24]",
+            "html": "<p>A <i>pradeha</i> prepared by mixing <i>prapaundarika, suradaru, kushtha, yashtyahva, ela, kamala, utpala, loha (agaru), eraka, padmaka</i> and <i>choraka</i> with <i>ghrita</i> is useful in treating headache ( <i>shiroruja</i>) . [24]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Rasna-Haridradi formulation",
+            "html": "<h3><span class=\"mw-headline\" id=\"Rasna-Haridradi_formulation\">Rasna-Haridradi formulation</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "रास्ना हरिद्रे नलदं शताह्वे द्वे देवदारूणि सितोपला च| जीवन्तिमूलं सघृतं सतैलमालेपनं पार्श्वरुजासु कोष्णम्||२५||",
+            "html": "<p>रास्ना हरिद्रे नलदं शताह्वे द्वे देवदारूणि सितोपला च| <br/>\nजीवन्तिमूलं सघृतं सतैलमालेपनं पार्श्वरुजासु कोष्णम्||२५||<br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "rāsnā haridrē naladaṁ śatāhvē dvē dēvadārūṇi sitōpalā ca| jīvantimūlaṁ saghr̥taṁ satailamālēpanaṁ pārśvarujāsu kōṣṇam||25||",
+            "html": "<p>rāsnā haridrē naladaṁ śatāhvē dvē dēvadārūṇi sitōpalā ca| <br/>\njīvantimūlaṁ saghr̥taṁ satailamālēpanaṁ pārśvarujāsu kōṣṇam||25||<br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "rAsnA haridre naladaM shatAhve dve devadArUNi sitopalA ca| jIvantimUlaM saghRutaM satailamAlepanaM pArshvarujAsu koShNam||25||",
+            "html": "<p>rAsnA haridre naladaM shatAhve dve devadArUNi sitopalA ca| <br/>\njIvantimUlaM saghRutaM satailamAlepanaM pArshvarujAsu koShNam||25|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Rasna , two types of haridra, nalada (jatamamsi), two types of shatavha, devadaru (seeds of devadaru ), sitopala and roots of jivanti , mixed with ghrita and taila , is used to prepare a luke warm alepana that serves as an effective medication to treat parshvaruja (pain in flanks). [25]",
+            "html": "<p><i>Rasna</i>, two types of <i>haridra, nalada (jatamamsi),</i> two types of <i>shatavha, devadaru</i> (seeds of <i>devadaru</i>), <i>sitopala</i> and roots of <i>jivanti</i>, mixed with <i>ghrita</i> and <i>taila</i>, is used to prepare a luke warm alepana that serves as an effective medication to treat <i>parshvaruja</i> (pain in flanks). [25]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Shaivaladi formulation",
+            "html": "<h3><span class=\"mw-headline\" id=\"Shaivaladi_formulation\">Shaivaladi formulation</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "शैवालपद्मोत्पलवेत्रतुङ्गप्रपौण्डरीकाण्यमृणाललोध्रम्| प्रियङ्गुकालेयकचन्दनानि निर्वापणः स्यात् सघृतः प्रदेहः||२६||",
+            "html": "<p>शैवालपद्मोत्पलवेत्रतुङ्गप्रपौण्डरीकाण्यमृणाललोध्रम्| <br/>\nप्रियङ्गुकालेयकचन्दनानि निर्वापणः स्यात् सघृतः प्रदेहः||२६||<br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "śaivālapadmōtpalavētratuṅgaprapauṇḍarīkāṇyamr̥ṇālalōdhram| priyaṅgukālēyakacandanāni nirvāpaṇaḥ syāt saghr̥taḥ pradēhaḥ||26||",
+            "html": "<p>śaivālapadmōtpalavētratuṅgaprapauṇḍarīkāṇyamr̥ṇālalōdhram| <br/>\npriyaṅgukālēyakacandanāni nirvāpaṇaḥ syāt saghr̥taḥ pradēhaḥ||26|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "shaivAlapadmotpalavetratu~ggaprapauNDarIkANyamRuNAlalodhram| priya~ggukAleyakacandanAni nirvApaNaH syAt saghRutaH pradehaH||26||",
+            "html": "<p>shaivAlapadmotpalavetratu~ggaprapauNDarIkANyamRuNAlalodhram| <br/>\npriya~ggukAleyakacandanAni nirvApaNaH syAt saghRutaH pradehaH||26|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Shaivala, padma, utpala, vetra, tunga (punnaga), prapaunḍarika, amranala (uhira), lodhra, priyangu, kaleyaka, and chandana mixed with ghrita makes an effective nirvapaṇa (heat alleviating) pradeha . [26]",
+            "html": "<p><i>Shaivala, padma, utpala, vetra, tunga (punnaga), prapaunḍarika, amranala (uhira), lodhra, priyangu, kaleyaka,</i> and <i>chandana</i> mixed with <i>ghrita</i> makes an effective <i>nirvapaṇa</i> (heat alleviating) <i>pradeha</i>. [26]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Sita-latadi formulation",
+            "html": "<h3><span class=\"mw-headline\" id=\"Sita-latadi_formulation\">Sita-latadi formulation</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "सितालतावेतसपद्मकानि यष्ट्याह्वमैन्द्री नलिनानि दूर्वा| यवासमूलं कुशकाशयोश्च निर्वापणः स्याज्जलमेरका च||२७||",
+            "html": "<p>सितालतावेतसपद्मकानि यष्ट्याह्वमैन्द्री नलिनानि दूर्वा| <br/>\nयवासमूलं कुशकाशयोश्च निर्वापणः स्याज्जलमेरका च||२७||<br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "sitālatāvētasapadmakāni yaṣṭyāhvamaindrī nalināni dūrvā| yavāsamūlaṁ kuśakāśayōśca nirvāpaṇaḥ syājjalamērakā ca||27||",
+            "html": "<p>sitālatāvētasapadmakāni yaṣṭyāhvamaindrī nalināni dūrvā| <br/>\nyavāsamūlaṁ kuśakāśayōśca nirvāpaṇaḥ syājjalamērakā ca||27||<br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "sitAlatAvetasapadmakAni yaShTyAhvamaindrI nalinAni dUrvA| yavAsamUlaM kushakAshayoshca nirvApaNaH syAjjalamerakA ca||27||",
+            "html": "<p>sitAlatAvetasapadmakAni yaShTyAhvamaindrI nalinAni dUrvA| <br/>\nyavAsamUlaM kushakAshayoshca nirvApaNaH syAjjalamerakA ca||27|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Sita (shweta durva), lata (manjishtha), vetasa, padmaka, yashtyavha, aindri (gorakshakarkati), nalina (kamala), durva, roots of yavasa , kusha and kasha, jala (hribera) and eraka are used to make a nirvapana (pradeha) for alleviating heat. [27]",
+            "html": "<p><i>Sita (shweta durva), lata (manjishtha), vetasa, padmaka, yashtyavha, aindri (gorakshakarkati), nalina (kamala), durva,</i> roots of <i>yavasa</i>, <i>kusha</i> and <i>kasha, jala (hribera)</i> and <i>eraka</i> are used to make a <i>nirvapana (pradeha)</i> for alleviating heat. [27]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Shaileyadi formulation",
+            "html": "<h3><span class=\"mw-headline\" id=\"Shaileyadi_formulation\">Shaileyadi formulation</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "शैलेयमेलागुरुणी सकुष्ठे चण्डा नतं त्वक् सुरदारु रास्ना| शीतं निहन्यादचिरात् प्रदेहो विषं शिरीषस्तु ससिन्धुवारः||२८||",
+            "html": "<p>शैलेयमेलागुरुणी सकुष्ठे चण्डा नतं त्वक् सुरदारु रास्ना| <br/>\nशीतं निहन्यादचिरात् प्रदेहो विषं शिरीषस्तु ससिन्धुवारः||२८||<br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "śailēyamēlāguruṇī sakuṣṭhē caṇḍā nataṁ tvak suradāru rāsnā| śītaṁ nihanyādacirāt pradēhō viṣaṁ śirīṣastu sasindhuvāraḥ||28||",
+            "html": "<p>śailēyamēlāguruṇī sakuṣṭhē caṇḍā nataṁ tvak suradāru rāsnā| <br/>\nśītaṁ nihanyādacirāt pradēhō viṣaṁ śirīṣastu sasindhuvāraḥ||28|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "shaileyamelAguruNI sakuShThe caNDA nataM tvak suradAru rAsnA| shItaM nihanyAdacirAt pradeho viShaM shirIShastu sasindhuvAraH||28||",
+            "html": "<p>shaileyamelAguruNI sakuShThe caNDA nataM tvak suradAru rAsnA| <br/>\nshItaM nihanyAdacirAt pradeho viShaM shirIShastu sasindhuvAraH||28|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Shaileya, ela, aguru, kushtha, chanda, nata (tagara), tvak (dalachini), suradaru and rasna are key ingredients needed for preparing a quick, cold alleviating pradeha . A pradeha made of shirisha mixed with sindhuvara neutralizes poisons quickly. [28]",
+            "html": "<p><i>Shaileya, ela, aguru, kushtha, chanda, nata (tagara), tvak (dalachini), suradaru</i> and <i>rasna</i> are key ingredients needed for preparing a quick, cold alleviating <i>pradeha</i>. A <i>pradeha</i> made of <i>shirisha</i> mixed with <i>sindhuvara</i> neutralizes poisons quickly. [28]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Shirishadi formulation",
+            "html": "<h3><span class=\"mw-headline\" id=\"Shirishadi_formulation\">Shirishadi formulation</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "शिरीषलामज्जकहेमलोध्रैस्त्वग्दोषसंस्वेदहरः प्रघर्षः| पत्राम्बुलोध्राभयचन्दनानि शरीरदौर्गन्ध्यहरः प्रदेहः||२९||",
+            "html": "<p>शिरीषलामज्जकहेमलोध्रैस्त्वग्दोषसंस्वेदहरः प्रघर्षः| <br/>\nपत्राम्बुलोध्राभयचन्दनानि शरीरदौर्गन्ध्यहरः प्रदेहः||२९||<br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "śirīṣalāmajjakahēmalōdhraistvagdōṣasaṁsvēdaharaḥ pragharṣaḥ| patrāmbulōdhrābhayacandanāni śarīradaurgandhyaharaḥ pradēhaḥ||29||",
+            "html": "<p>śirīṣalāmajjakahēmalōdhraistvagdōṣasaṁsvēdaharaḥ pragharṣaḥ| <br/>\npatrāmbulōdhrābhayacandanāni śarīradaurgandhyaharaḥ pradēhaḥ||29||<br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "shirIShalAmajjakahemalodhraistvagdoShasaMsvedaharaH pragharShaH| patrAmbulodhrAbhayacandanAni sharIradaurgandhyaharaH pradehaH||29||",
+            "html": "<p>shirIShalAmajjakahemalodhraistvagdoShasaMsvedaharaH pragharShaH| <br/>\npatrAmbulodhrAbhayacandanAni sharIradaurgandhyaharaH pradehaH||29|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Shirisha, lamajjaka (ushira), hema (nagakeshara) and lodhra help prepare balms for pragharsha (rubbing) that help alleviate skin diseases and excessive perspiration. A pradeha made of patra (tejapatra), ambu (hribera), lodhra, abhaya (ushira) and chandana alleviates foul smell of the body. [29]",
+            "html": "<p><i>Shirisha, lamajjaka (ushira), hema (nagakeshara)</i> and <i>lodhra</i> help prepare balms for <i>pragharsha</i> (rubbing) that help alleviate skin diseases and excessive perspiration. A <i>pradeha</i> made of <i>patra (tejapatra),</i> <i>ambu (hribera), lodhra, abhaya (ushira)</i> and <i>chandana</i> alleviates foul smell of the body. [29]\n</p>"
+        },
+        {
+            "type": "h3",
+            "text": "Summary",
+            "html": "<h3><span class=\"mw-headline\" id=\"Summary\">Summary</span></h3>",
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "तत्र श्लोकः- इहात्रिजः सिद्धतमानुवाच द्वात्रिंशतं सिद्धमहर्षिपूज्यः| चूर्णप्रदेहान् विविधामयघ्नानारग्वधीये जगतो हितार्थम्||३०||",
+            "html": "<p>तत्र श्लोकः- <br/>\nइहात्रिजः सिद्धतमानुवाच द्वात्रिंशतं सिद्धमहर्षिपूज्यः| <br/>\nचूर्णप्रदेहान् विविधामयघ्नानारग्वधीये जगतो हितार्थम्||३०||<br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "tatra ślōkaḥ- ihātrijaḥ siddhatamānuvāca dvātriṁśataṁ siddhamaharṣipūjyaḥ| cūrṇapradēhān vividhāmayaghnānāragvadhīyē jagatō hitārtham||30||",
+            "html": "<p>tatra ślōkaḥ- <br/>\nihātrijaḥ siddhatamānuvāca dvātriṁśataṁ siddhamaharṣipūjyaḥ| <br/>\ncūrṇapradēhān vividhāmayaghnānāragvadhīyē jagatō hitārtham||30|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "tatra shlokaH- ihAtrijaH siddhatamAnuvAca dvAtriMshataM siddhamaharShipUjyaH| cUrNapradehAn vividhAmayaghnAnAragvadhIye jagato hitArtham||30||",
+            "html": "<p>tatra shlokaH- <br/>\nihAtrijaH siddhatamAnuvAca dvAtriMshataM siddhamaharShipUjyaH| <br/>\ncUrNapradehAn vividhAmayaghnAnAragvadhIye jagato hitArtham||30|| <br/>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Now (the concluding) verses:",
+            "html": "<p>Now (the concluding) verses:\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Here, Atri’s son (i.e., Lord Atreya), worshipped by accomplished and great sages, mentioned 32 successful (disease alleviating) churnapradeha , destroyers of various disorders (described in the chapter of aragvadhiya ) for the welfare of the world. [30]",
+            "html": "<p>Here, Atri’s son (i.e., Lord Atreya), worshipped by accomplished and great sages, mentioned 32 successful (disease alleviating) <i>churnapradeha</i>, destroyers of various disorders (described in the chapter of <i>aragvadhiya</i>) for the welfare of the world. [30]\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "इत्यग्निवेशकृते तन्त्रे चरकप्रतिसंस्कृते श्लोकस्थाने आरग्वधीयो नाम तृतीयोऽध्यायः||३||",
+            "html": "<p>इत्यग्निवेशकृते तन्त्रे चरकप्रतिसंस्कृते श्लोकस्थाने आरग्वधीयो नाम तृतीयोऽध्यायः||३||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "ityagnivēśakr̥tē tantrē carakapratisaṁskr̥tē ślōkasthānē āragvadhīyō nāma tr̥tīyō'dhyāyaḥ||3||",
+            "html": "<p>ityagnivēśakr̥tē tantrē carakapratisaṁskr̥tē ślōkasthānē āragvadhīyō nāma tr̥tīyō'dhyāyaḥ||3||\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Thus ends the third chapter titled Aragvadhiya in Sutra Sthana in the treaties composed by Agnivesha and redacted by Charak. [3]",
+            "html": "<p>Thus ends the third chapter titled Aragvadhiya in <a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> in the treaties composed by Agnivesha and redacted by Charak. [3]\n</p>"
+        },
+        {
+            "type": "h2",
+            "text": "Tattva Vimarsha (Fundamental Principles)",
+            "html": "<h2><span id=\"Tattva_Vimarsha_.28Fundamental_Principles.29\"></span><span class=\"mw-headline\" id=\"Tattva_Vimarsha_(Fundamental_Principles)\">Tattva Vimarsha (Fundamental Principles)</span></h2>",
+            "level": 2
+        },
+        {
+            "type": "ul",
+            "text": "The skin diseases have multiple pathologies based upon etiological factors like microbial infection, allergy, injury, poisons, chemical contacts etc. and require multipronged treatment. They can be managed with internal administration and external applications of medicines. The Ayurvedic drugs are known to have multiple effects. Their combination with other herbs and processing method of preparation increases their spectrum of action. Argavadha is a medicinal herb considered one of the best for making such preparations. Drugs mentioned in the chapter have antibacterial, anti-parasitic, anti-inflammatory, antihistaminic, deodorant, analgesic, poison neutralizing, cauterizing, cleansing, moisturizing, normalizing pigmentation, hair regrowth and wound healing properties. Various solvents are used to extract a specific active component for the desired effect.",
+            "html": "<ul><li>The skin diseases have multiple pathologies based upon etiological factors like microbial infection, allergy, injury, poisons, chemical contacts etc. and require multipronged treatment. They can be managed with internal administration and external applications of medicines. The Ayurvedic drugs are known to have multiple effects. Their combination with other herbs and processing method of preparation increases their spectrum of action. <i>Argavadha</i> is a medicinal herb considered one of the best for making such preparations.</li>\n<li>Drugs mentioned in the chapter have antibacterial, anti-parasitic, anti-inflammatory, antihistaminic, deodorant, analgesic, poison neutralizing, cauterizing, cleansing, moisturizing, normalizing pigmentation, hair regrowth and wound healing properties.</li>\n<li>Various solvents are used to extract a specific active component for the desired effect.</li></ul>",
+            "items": [
+                "The skin diseases have multiple pathologies based upon etiological factors like microbial infection, allergy, injury, poisons, chemical contacts etc. and require multipronged treatment. They can be managed with internal administration and external applications of medicines. The Ayurvedic drugs are known to have multiple effects. Their combination with other herbs and processing method of preparation increases their spectrum of action. Argavadha is a medicinal herb considered one of the best for making such preparations.",
+                "Drugs mentioned in the chapter have antibacterial, anti-parasitic, anti-inflammatory, antihistaminic, deodorant, analgesic, poison neutralizing, cauterizing, cleansing, moisturizing, normalizing pigmentation, hair regrowth and wound healing properties.",
+                "Various solvents are used to extract a specific active component for the desired effect."
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Vidhi Vimarsha (Applied Inferences)",
+            "html": "<h2><span id=\"Vidhi_Vimarsha_.28Applied_Inferences.29\"></span><span class=\"mw-headline\" id=\"Vidhi_Vimarsha_(Applied_Inferences)\">Vidhi Vimarsha (Applied Inferences)</span></h2>",
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "The drugs mentioned in verse 3-7 are found effective as kushthaghna (effective in skin diseases), kandughna (effective in pruritus) and arshoghna (effective in hemorrhoids) mahakashaya . Kuṭaja is indicated in bleeding hemorrhoids while bhallataka is indicated in non-bleeding ones. By adding these two drugs of opposing action, their spectrum of action is enhanced considerably. Their ability to penetrate the affected areas is enhanced further when admixed with gopitta and mustard oil. This combination is particularly effective in treating rectal fistula and hemorrhoids. Sulfur is effective in treating most of the skin diseases and neem is a rich source of sulfur. Minerals like manahshila, kasisa and praval are used commonly for treating skin diseases because of their richness in sulfur. In psoriasis there is a deficiency of fatty acids, sulfur and immunoglobulins in the skin. Oil, ghrita, milk, neem (Azadirachta Indica) and amrita (Tinospora cordifolia) preparations help in correcting those deficiencies. The use of atasi (flax) poultice has anti-inflammatory and analgesic effect in vatavyadhi . Amrita (Tinospora cordifolia) and yashtimadhu (liquorice) have anti-inflammatory and analgesic properties and are used for vatarakta . Vesavara and dashamoola are used as analgesics. Dashamoola has analgesic, anti-inflammatory and anti-platelet properties. Shirisha (Albizia lebbeck) is indicated as the best drug for treating dermal toxicity.",
+            "html": "<p>The drugs mentioned in verse 3-7 are found effective as <i>kushthaghna</i> (effective in skin diseases), <i>kandughna</i> (effective in pruritus) and <i>arshoghna</i> (effective in hemorrhoids) <i>mahakashaya</i>. <i>Kuṭaja</i> is indicated in bleeding hemorrhoids while <i>bhallataka</i> is indicated in non-bleeding ones. By adding these two drugs of opposing action, their spectrum of action is enhanced considerably. Their ability to penetrate the affected areas is enhanced further when admixed with <i>gopitta</i> and mustard oil. This combination is particularly effective in treating rectal fistula and hemorrhoids. Sulfur is effective in treating most of the skin diseases and <i>neem</i> is a rich source of sulfur. Minerals like <i>manahshila, kasisa</i> and <i>praval</i> are used commonly for treating skin diseases because of their richness in sulfur. In psoriasis there is a deficiency of fatty acids, sulfur and immunoglobulins in the skin. Oil, ghrita, milk, <i>neem</i> (Azadirachta Indica) and <i>amrita</i> (Tinospora cordifolia) preparations help in correcting those deficiencies. The use of <i>atasi</i> (flax) poultice has anti-inflammatory and analgesic effect in <i>vatavyadhi</i>. <i>Amrita</i> (Tinospora cordifolia) and <i>yashtimadhu</i> (liquorice) have anti-inflammatory and analgesic properties and are used for <i>vatarakta</i>. <i>Vesavara</i> and <i>dashamoola</i> are used as analgesics. <i>Dashamoola</i> has analgesic, anti-inflammatory and anti-platelet properties. <i>Shirisha</i> (Albizia lebbeck) is indicated as the best drug for treating dermal toxicity.\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Powdered drug is used most effectively in the form of udvartana (smearing or massaging powdered drugs) on body parts smeared in oil. [8-9]\nThe utility of applying oil before administering powdered medication is to provide passage for lipid-soluble substances. [10-11]\nThere are various forms of external therapies ( churnapradeha, pradeha, lepa, pralepa, udvartana, avachurnana, alepana and pragharsha ). Apart from kushtha , other conditions covered under the 32 types of churnapradeha are as follows:",
+            "html": "<p>Powdered drug is used most effectively in the form of <i>udvartana</i> (smearing or massaging powdered drugs) on body parts smeared in oil. [8-9]\nThe utility of applying oil before administering powdered medication is to provide passage for lipid-soluble substances. [10-11]\nThere are various forms of external therapies (<i>churnapradeha, pradeha, lepa, pralepa, udvartana, avachurnana, alepana</i> and <i>pragharsha</i>). Apart from <i>kushtha</i>, other conditions covered under the 32 types of <i>churnapradeha</i> are as follows:\n</p>"
+        },
+        {
+            "type": "h5",
+            "text": "Table 1: Showing indications of 32 types of churnapradeha",
+            "html": "<h5><span class=\"mw-headline\" id=\"Table_1:_Showing_indications_of_32_types_of_churnapradeha\">Table 1: Showing indications of 32 types of churnapradeha</span></h5>",
+            "level": 5
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "Indication/Actions",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "th",
+                        "text": "Translation",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "th",
+                        "text": "Numbers",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Kushtha hara",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Alleviates skin diseases",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "15",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Vatahara",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Pacifies vitiated vata",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "05",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Vataraktahara",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Alleviates gout",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "03",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Shirorujahara",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Subsides headache",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "02",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Parshwarujahara",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Subsides pain in the sides of the chest",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "01",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Nirvapana",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Relieves burning and heat",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "02",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Shitahara",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Relieves cold",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "01",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Vishahara",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Counteracts poisons",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "01",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Twagdosasamswedahara",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Cures skin diseases and perspiration",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "01",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Shariradaurgandhyahara",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Destroys foul smell in the body",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "01",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Total:",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "32",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ]
+            ],
+            "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th><i>Indication/Actions</i></th>\n<th><i>Translation</i></th>\n<th><i>Numbers</i>\n</th></tr>\n<tr>\n<td rowspan=\"1\" style=\"text-align: left;\"><i>Kushtha hara</i>\n</td>\n<td rowspan=\"1\" style=\"text-align: left;\">Alleviates skin diseases\n</td>\n<td rowspan=\"1\" style=\"text-align: center;\">15\n</td></tr>\n<tr>\n<td rowspan=\"1\" style=\"text-align: left;\"><i>Vatahara</i>\n</td>\n<td rowspan=\"1\" style=\"text-align: left;\">Pacifies vitiated <i>vata</i>\n</td>\n<td rowspan=\"1\" style=\"text-align: center;\">05\n</td></tr>\n<tr>\n<td rowspan=\"1\" style=\"text-align: left;\"><i>Vataraktahara</i>\n</td>\n<td rowspan=\"1\" style=\"text-align: left;\">Alleviates gout\n</td>\n<td rowspan=\"1\" style=\"text-align: center;\">03\n</td></tr>\n<tr>\n<td rowspan=\"1\" style=\"text-align: left;\"><i>Shirorujahara</i>\n</td>\n<td rowspan=\"1\" style=\"text-align: left;\">Subsides headache\n</td>\n<td rowspan=\"1\" style=\"text-align: center;\">02\n</td></tr>\n<tr>\n<td rowspan=\"1\" style=\"text-align: left;\"><i>Parshwarujahara</i>\n</td>\n<td rowspan=\"1\" style=\"text-align: left;\">Subsides pain in the sides of the chest\n</td>\n<td rowspan=\"1\" style=\"text-align: center;\">01\n</td></tr>\n<tr>\n<td rowspan=\"1\" style=\"text-align: left;\"><i>Nirvapana</i>\n</td>\n<td rowspan=\"1\" style=\"text-align: left;\">Relieves burning and heat\n</td>\n<td rowspan=\"1\" style=\"text-align: center;\">02\n</td></tr>\n<tr>\n<td rowspan=\"1\" style=\"text-align: left;\"><i>Shitahara</i>\n</td>\n<td rowspan=\"1\" style=\"text-align: left;\">Relieves cold\n</td>\n<td rowspan=\"1\" style=\"text-align: center;\">01\n</td></tr>\n<tr>\n<td rowspan=\"1\" style=\"text-align: left;\"><i>Vishahara</i>\n</td>\n<td rowspan=\"1\" style=\"text-align: left;\">Counteracts poisons\n</td>\n<td rowspan=\"1\" style=\"text-align: center;\">01\n</td></tr>\n<tr>\n<td rowspan=\"1\" style=\"text-align: left;\"><i>Twagdosasamswedahara</i>\n</td>\n<td rowspan=\"1\" style=\"text-align: left;\">Cures skin diseases and perspiration\n</td>\n<td rowspan=\"1\" style=\"text-align: center;\">01\n</td></tr>\n<tr>\n<td rowspan=\"1\" style=\"text-align: left;\"><i>Shariradaurgandhyahara</i>\n</td>\n<td rowspan=\"1\" style=\"text-align: left;\">Destroys foul smell in the body\n</td>\n<td rowspan=\"1\" style=\"text-align: center;\">01\n</td></tr>\n<tr>\n<td rowspan=\"1\" style=\"text-align: left;\">Total:\n</td>\n<td rowspan=\"1\" style=\"text-align: left;\">\n</td>\n<td rowspan=\"1\" style=\"text-align: center;\">32\n</td></tr>\n</tbody></table>"
+        },
+        {
+            "type": "p",
+            "text": "Alepa has been given due importance as an initial treatment for all types of shopha (swelling). Among the remedies applied internally and externally, it is superior to others because it alleviates pain instantaneously. [Dalhana on Su.Sa.Sutra Sthana 18/3] [ 1 ] Types of lepa (external application):[Su.Sa.Sutra Sthana 18/6] [ 1 ]",
+            "html": "<p><i>Alepa</i> has been given due importance as an initial treatment for all types of <i>shopha</i> (swelling). Among the remedies applied internally and externally, it is superior to others because it alleviates pain instantaneously. [Dalhana on Su.Sa.Sutra Sthana 18/3]<sup class=\"reference\" id=\"cite_ref-Susrutha_1-0\"><a href=\"#cite_note-Susrutha-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup>\nTypes of <i>lepa</i> (external application):[Su.Sa.Sutra Sthana 18/6]<sup class=\"reference\" id=\"cite_ref-Susrutha_1-1\"><a href=\"#cite_note-Susrutha-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "According to character and therapeutic use, alepa can be divided into three types viz., pralepa, pradeha and alepa . It could be shown as tabulated below-",
+            "html": "<p>According to character and therapeutic use, <i>alepa</i> can be divided into three types viz., <i>pralepa, pradeha</i> and <i>alepa</i>. It could be shown as tabulated below-\n</p>"
+        },
+        {
+            "type": "h5",
+            "text": "Table 2: Showing character and indications of different types of alepa",
+            "html": "<h5><span class=\"mw-headline\" id=\"Table_2:_Showing_character_and_indications_of_different_types_of_alepa\">Table 2: Showing character and indications of different types of alepa</span></h5>",
+            "level": 5
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "Type",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "th",
+                        "text": "Pralepa",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "th",
+                        "text": "Pradeha",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "th",
+                        "text": "Alepa",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Characteristics",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Cold, thin, non-drying or drying",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Hot or cold, thick, little or non-drying",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Medium character",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Indications",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "--",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Pacifies vata - kapha , cleanses, heals and alleviates inflammatory swelling and pain",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Normalizes rakta and pitta",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ]
+            ],
+            "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Type</th>\n<th>Pralepa</th>\n<th>Pradeha</th>\n<th>Alepa\n</th></tr>\n<tr>\n<td rowspan=\"1\" style=\"text-align: center;\">Characteristics\n</td>\n<td rowspan=\"1\" style=\"text-align: center;\">Cold, thin, non-drying or drying\n</td>\n<td rowspan=\"1\" style=\"text-align: center;\">Hot or cold, thick, little or non-drying\n</td>\n<td rowspan=\"1\" style=\"text-align: center;\">Medium character\n</td></tr>\n<tr>\n<td rowspan=\"1\" style=\"text-align: center;\">Indications\n</td>\n<td rowspan=\"1\" style=\"text-align: center;\">--\n</td>\n<td rowspan=\"1\" style=\"text-align: center;\">Pacifies <i><a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a>-<a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a></i>, cleanses, heals and alleviates inflammatory swelling and pain<i></i>\n</td>\n<td rowspan=\"1\" style=\"text-align: center;\">Normalizes <i><a class=\"mw-redirect\" href=\"/index.php?title=Rakta\" title=\"Rakta\">rakta</a></i> and <i><a href=\"/index.php?title=Pitta\" title=\"Pitta\">pitta</a></i>\n</td></tr>\n</tbody></table>"
+        },
+        {
+            "type": "p",
+            "text": "Lepa is of four types, viz. avachurnana (dusting), udvartana (anointing), jalapishtalepana (paste made by mixing with water), and rasakriyalepana (by mixing with semisolids). [Chakrapanidatta Chikitsa Sthana 7/84-96] [ 2 ]",
+            "html": "<p><i>Lepa</i> is of four types, viz. <i>avachurnana</i> (dusting), <i>udvartana</i> (anointing), <i>jalapishtalepana</i> (paste made by mixing with water), and <i>rasakriyalepana</i> (by mixing with semisolids). [Chakrapanidatta Chikitsa Sthana 7/84-96]<sup class=\"reference\" id=\"cite_ref-Cakrapani_2-0\"><a href=\"#cite_note-Cakrapani-2\"><span class=\"cite-bracket\">[</span>2<span class=\"cite-bracket\">]</span></a></sup>\n</p>"
+        },
+        {
+            "type": "h4",
+            "text": "Method of application",
+            "html": "<h4><span class=\"mw-headline\" id=\"Method_of_application\">Method of application</span></h4>",
+            "level": 4
+        },
+        {
+            "type": "p",
+            "text": "The method of use, quantity, time of application and other pharmaco-therapeutic aspects are not in scope of this chapter. However, it is to be noted that an alepa is generally advised for application against the direction of the hair growth (pratiloma) to enhance its penetration ( swedavahi shira ). [Su.Sa.Sutra Sthana 18/4] [ 1 ]",
+            "html": "<p>The method of use, quantity, time of application and other pharmaco-therapeutic aspects are not in scope of this chapter. However, it is to be noted that an <i>alepa</i> is generally advised for application against the direction of the hair growth (pratiloma) to enhance its penetration (<i>swedavahi shira</i>). [Su.Sa.Sutra Sthana 18/4]<sup class=\"reference\" id=\"cite_ref-Susrutha_1-2\"><a href=\"#cite_note-Susrutha-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup>\n</p>"
+        },
+        {
+            "type": "h4",
+            "text": "Quantity and thickness of application",
+            "html": "<h4><span class=\"mw-headline\" id=\"Quantity_and_thickness_of_application\">Quantity and thickness of application</span></h4>",
+            "level": 4
+        },
+        {
+            "type": "p",
+            "text": "The quantity, or dosage, of medication in the case of topical medicines is measured by the thickness of the layer of paste. Typically, it should be equivalent to the thickness of moist skin of a buffalo. [Su.Sa.Sutra Sthana 18/11] In current times, the thickness measures around 4-5 millimetre. [ 3 ]",
+            "html": "<p>The quantity, or dosage, of medication in the case of topical medicines is measured by the thickness of the layer of paste. Typically, it should be equivalent to the thickness of moist skin of a buffalo. [Su.Sa.Sutra Sthana 18/11]  In current times, the thickness measures around 4-5 millimetre. <sup class=\"reference\" id=\"cite_ref-Patil_lepa_3-0\"><a href=\"#cite_note-Patil_lepa-3\"><span class=\"cite-bracket\">[</span>3<span class=\"cite-bracket\">]</span></a></sup>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Thickness of a layer of pralepa should be equivalent to the thickness of a typical chandana (sandal paste) application. Pradeha is typically applied as a thick paste or bolus ( pinda ).[Dalhana on Su.Sa.Sutra Sthana 18/6] [ 1 ] Thus, it is thin and thick pastes for application of pralepa/anulepana and pradeha respectively. [Dalhana on Su.Sa.Sutra Sthana 18/6] [ 1 ] [ 4 ]",
+            "html": "<p>Thickness of a layer of <i>pralepa</i> should be equivalent to the thickness of a typical <i>chandana</i> (sandal paste) application. <i>Pradeha</i> is typically applied as a thick paste or bolus (<i>pinda</i>).[Dalhana on Su.Sa.Sutra Sthana 18/6]<sup class=\"reference\" id=\"cite_ref-Susrutha_1-3\"><a href=\"#cite_note-Susrutha-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup> Thus, it is thin and thick pastes for application of <i>pralepa/anulepana</i> and <i>pradeha</i> respectively. [Dalhana on Su.Sa.Sutra Sthana 18/6]<sup class=\"reference\" id=\"cite_ref-Susrutha_1-4\"><a href=\"#cite_note-Susrutha-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup><sup class=\"reference\" id=\"cite_ref-4\"><a href=\"#cite_note-4\"><span class=\"cite-bracket\">[</span>4<span class=\"cite-bracket\">]</span></a></sup>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "It can be stated that the thickness of applications as pradeha(thick paste) is more than or equal to 4 to 5 mm. Pralepa (thin paste) applications include thickness less than 4 to 5 mm. [ 3 ]",
+            "html": "<p>It can be stated that the thickness of applications as pradeha(thick paste) is more than or equal to 4 to 5 mm. Pralepa (thin paste)  applications include thickness less than 4 to 5 mm. <sup class=\"reference\" id=\"cite_ref-Patil_lepa_3-1\"><a href=\"#cite_note-Patil_lepa-3\"><span class=\"cite-bracket\">[</span>3<span class=\"cite-bracket\">]</span></a></sup>\n</p>"
+        },
+        {
+            "type": "h4",
+            "text": "Indication and contraindications",
+            "html": "<h4><span class=\"mw-headline\" id=\"Indication_and_contraindications\">Indication and contraindications</span></h4>",
+            "level": 4
+        },
+        {
+            "type": "p",
+            "text": "Hot pradeha is indicated in vata and kapha ailments while cold pradeha in conditions due to pittaja and raktaja disorders. [Dalhana on Su.Sa.Sutra Sthana 18/6] [ 1 ] It is also stated that alepa is indicated in non-suppurative, inflammatory swellings ( avidagdha sopha ) whereas pradeha/upnah (poultice) is used for suppurative swellings. [Dalhana on Su.Sa.Sutra Sthana 18/6-9] [ 1 ] Pradeha could also be applied at night in case of swellings caused by vata and kapha .[Dalhana on Su.Sa.Sutra Sthana 18/12-14] [ 1 ] Pastes should not be used at night. Stale paste, pastes applied on top of an existing layer, or repeating of used pastes are prohibited. [Su.Sa.Sutra Sthana 18/12-14] [ 1 ]",
+            "html": "<p>Hot <i>pradeha</i> is indicated in <i><a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a></i> and <i><a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a></i> ailments while cold <i>pradeha</i> in conditions due to <i>pittaja</i> and <i>raktaja</i> disorders. [Dalhana on Su.Sa.Sutra Sthana 18/6]<sup class=\"reference\" id=\"cite_ref-Susrutha_1-5\"><a href=\"#cite_note-Susrutha-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup> It is also stated that <i>alepa</i> is indicated in non-suppurative, inflammatory swellings (<i>avidagdha sopha</i>) whereas <i>pradeha/upnah</i> (poultice) is used for suppurative swellings. [Dalhana on Su.Sa.Sutra Sthana 18/6-9]<sup class=\"reference\" id=\"cite_ref-Susrutha_1-6\"><a href=\"#cite_note-Susrutha-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup> <i>Pradeha</i> could also be applied at night in case of swellings caused by <i><a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a></i> and <i><a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a></i>.[Dalhana on Su.Sa.Sutra Sthana 18/12-14]<sup class=\"reference\" id=\"cite_ref-Susrutha_1-7\"><a href=\"#cite_note-Susrutha-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup>\nPastes should not be used at night. Stale paste, pastes applied on top of an existing layer, or repeating of used pastes are prohibited. [Su.Sa.Sutra Sthana 18/12-14]<sup class=\"reference\" id=\"cite_ref-Susrutha_1-8\"><a href=\"#cite_note-Susrutha-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup>\n</p>"
+        },
+        {
+            "type": "h5",
+            "text": "Cross references of external medications in Kushtha Chikitsa",
+            "html": "<h5><span class=\"mw-headline\" id=\"Cross_references_of_external_medications_in_Kushtha_Chikitsa\">Cross references of external medications in <a href=\"/index.php?title=Kushtha_Chikitsa\" title=\"Kushtha Chikitsa\">Kushtha Chikitsa</a></span></h5>",
+            "level": 5
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "Forms",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "th",
+                        "text": "References",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "th",
+                        "text": "Remarks",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Avachurṇana",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "CS.Ci.7/99, 104",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Alepa",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "CS.Ci.7/95, 104",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Alepana",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "CS.Ci.7/95, 104",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Ghrishṭa",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "CS.Ci.7/57",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Lepa",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "CS.Ci.7/53, 87, 93, 94, 96, 118, 127, 158, 167, 169 and 171",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Pragharshana",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "CS.Ci.7/99, 104",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Pralepa",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "CS.Ci.7/128",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Pralepana",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "CS.Ci.7/90, 130",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Pradeha",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "CS.Ci.7/55, 57, 134, 157, 159",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Udvartana",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "CS.Ci.7/104, 127, 128",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Unmardana",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "CS.Ci.7/95",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Udvartana, Chakrapani",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Udgharsha",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "CS.Ci.7/92",
+                        "rowspan": 1,
+                        "colspan": 1
+                    },
+                    {
+                        "type": "td",
+                        "text": "Avachurṇana, Chakrapani",
+                        "rowspan": 1,
+                        "colspan": 1
+                    }
+                ]
+            ],
+            "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Forms</th>\n<th>References</th>\n<th>Remarks\n</th></tr>\n<tr>\n<td rowspan=\"1\" style=\"text-align: center;\"><i>Avachurṇana</i>\n</td>\n<td rowspan=\"1\" style=\"text-align: center;\">CS.Ci.7/99, 104\n</td>\n<td rowspan=\"1\" style=\"text-align: center;\">\n</td></tr>\n<tr>\n<td rowspan=\"1\" style=\"text-align: center;\"><i>Alepa</i>\n</td>\n<td rowspan=\"1\" style=\"text-align: center;\">CS.Ci.7/95, 104\n</td>\n<td rowspan=\"1\" style=\"text-align: center;\">\n</td></tr>\n<tr>\n<td rowspan=\"1\" style=\"text-align: center;\"><i>Alepana</i>\n</td>\n<td rowspan=\"1\" style=\"text-align: center;\">CS.Ci.7/95, 104\n</td>\n<td rowspan=\"1\" style=\"text-align: center;\">\n</td></tr>\n<tr>\n<td rowspan=\"1\" style=\"text-align: center;\"><i>Ghrishṭa</i>\n</td>\n<td rowspan=\"1\" style=\"text-align: center;\">CS.Ci.7/57\n</td>\n<td rowspan=\"1\" style=\"text-align: center;\">\n</td></tr>\n<tr>\n<td rowspan=\"1\" style=\"text-align: center;\"><i>Lepa</i>\n</td>\n<td rowspan=\"1\" style=\"text-align: center;\">CS.Ci.7/53, 87, 93, 94, 96, 118, 127, 158, 167, 169 and 171\n</td>\n<td rowspan=\"1\" style=\"text-align: center;\">\n</td></tr>\n<tr>\n<td rowspan=\"1\" style=\"text-align: center;\"><i>Pragharshana</i>\n</td>\n<td rowspan=\"1\" style=\"text-align: center;\">CS.Ci.7/99, 104\n</td>\n<td rowspan=\"1\" style=\"text-align: center;\">\n</td></tr>\n<tr>\n<td rowspan=\"1\" style=\"text-align: center;\"><i>Pralepa</i>\n</td>\n<td rowspan=\"1\" style=\"text-align: center;\">CS.Ci.7/128\n</td>\n<td rowspan=\"1\" style=\"text-align: center;\">\n</td></tr>\n<tr>\n<td rowspan=\"1\" style=\"text-align: center;\"><i>Pralepana</i>\n</td>\n<td rowspan=\"1\" style=\"text-align: center;\">CS.Ci.7/90, 130\n</td>\n<td rowspan=\"1\" style=\"text-align: center;\">\n</td></tr>\n<tr>\n<td rowspan=\"1\" style=\"text-align: center;\"><i>Pradeha </i>\n</td>\n<td rowspan=\"1\" style=\"text-align: center;\">CS.Ci.7/55, 57, 134, 157, 159\n</td>\n<td rowspan=\"1\" style=\"text-align: center;\">\n</td></tr>\n<tr>\n<td rowspan=\"1\" style=\"text-align: center;\"><i>Udvartana</i>\n</td>\n<td rowspan=\"1\" style=\"text-align: center;\">CS.Ci.7/104, 127, 128\n</td>\n<td rowspan=\"1\" style=\"text-align: center;\">\n</td></tr>\n<tr>\n<td rowspan=\"1\" style=\"text-align: center;\"><i>Unmardana</i>\n</td>\n<td rowspan=\"1\" style=\"text-align: center;\">CS.Ci.7/95\n</td>\n<td rowspan=\"1\" style=\"text-align: center;\"><i>Udvartana, Chakrapani</i>\n</td></tr>\n<tr>\n<td rowspan=\"1\" style=\"text-align: center;\"><i>Udgharsha</i>\n</td>\n<td rowspan=\"1\" style=\"text-align: center;\">CS.Ci.7/92\n</td>\n<td rowspan=\"1\" style=\"text-align: center;\"><i>Avachurṇana, Chakrapani</i>\n</td></tr>\n</tbody></table>"
+        },
+        {
+            "type": "p",
+            "text": "Regarding taila, sarshapa taila (mustard oil) is most commonly used in kushtha .\nA specific procedure for obtaining pharmacologically active extract from palasha (Butea monosperma), an anti-parasitic, has been mentioned in the text as palashanirdaharasa . It is obtained by uprooting and then cutting the tree off the main root, burning off the segment above the root and collecting the resulting juices in an earthen pot [Chakrapanidatta Sutra Sthana 3/3-17] [ 2 ] [15-16] Vesavara is defined as mashed boneless flesh cooked with jaggery and ghrita , mixed with black pepper [Chakrapanidatta Sutra Sthana 3/19] [ 2 ]",
+            "html": "<p>Regarding <i>taila, sarshapa taila</i> (mustard oil) is most commonly used in <i>kushtha</i>.\nA specific procedure for obtaining pharmacologically active extract from <i>palasha</i> (Butea monosperma), an anti-parasitic, has been mentioned in the text as <i>palashanirdaharasa</i>. It is obtained by uprooting and then cutting the tree off the main root, burning off the segment above the root and collecting the resulting juices in an earthen pot [Chakrapanidatta Sutra Sthana 3/3-17]<sup class=\"reference\" id=\"cite_ref-Cakrapani_2-1\"><a href=\"#cite_note-Cakrapani-2\"><span class=\"cite-bracket\">[</span>2<span class=\"cite-bracket\">]</span></a></sup> [15-16]\n<i>Vesavara</i> is defined as mashed boneless flesh cooked with <i>jaggery</i> and <i>ghrita</i>, mixed with black pepper [Chakrapanidatta Sutra Sthana 3/19]<sup class=\"reference\" id=\"cite_ref-Cakrapani_2-2\"><a href=\"#cite_note-Cakrapani-2\"><span class=\"cite-bracket\">[</span>2<span class=\"cite-bracket\">]</span></a></sup>\n</p>"
+        },
+        {
+            "type": "p",
+            "text": "Send us your suggestions and feedback on this page.",
+            "html": "<p><big><b><a href=\"/index.php?title=Special:ContactMe\" title=\"Special:ContactMe\">Send us your suggestions and feedback on this page.</a></b></big>\n</p>"
+        },
+        {
+            "type": "h2",
+            "text": "References",
+            "html": "<h2><span class=\"mw-headline\" id=\"References\">References</span></h2>",
+            "level": 2
+        },
+        {
+            "type": "ol",
+            "text": "↑ 1.0 1.1 1.2 1.3 1.4 1.5 1.6 1.7 1.8 Sushruta. Sushruta Samhita. Edited by Jadavaji Trikamji Aacharya. 8th ed. Varanasi: Chaukhambha Orientalia;2005 ↑ 2.0 2.1 2.2 Chakrapanidatta, Cakradatta (Chikitsasangraha). Edited by Priya Vrat Sharma. 3rd ed. Varanasi: Chaukhambha publishers; 2002 ↑ 3.0 3.1 Patil S, Chaudhary AK. Topical dosages forms (Lepa Kalpana) of Ayurveda: An unexplored treasure. Int J Green Pharm. 2015;9(4):12. Accessed on June 1,2020.Available from https://www.greenpharmacy.info/index.php/ijgp/article/viewFile/579/492 ↑ YogindraNathSen, Charak. Nidana Sthana, Cha.1 Jwara Nidana ver.36. In: YogindraNathSen, Editor. Charakopaskara Charak Samhita.1st ed. ???;?",
+            "html": "<ol class=\"references\">\n<li id=\"cite_note-Susrutha-1\"><span class=\"mw-cite-backlink\">↑ <sup><a href=\"#cite_ref-Susrutha_1-0\">1.0</a></sup> <sup><a href=\"#cite_ref-Susrutha_1-1\">1.1</a></sup> <sup><a href=\"#cite_ref-Susrutha_1-2\">1.2</a></sup> <sup><a href=\"#cite_ref-Susrutha_1-3\">1.3</a></sup> <sup><a href=\"#cite_ref-Susrutha_1-4\">1.4</a></sup> <sup><a href=\"#cite_ref-Susrutha_1-5\">1.5</a></sup> <sup><a href=\"#cite_ref-Susrutha_1-6\">1.6</a></sup> <sup><a href=\"#cite_ref-Susrutha_1-7\">1.7</a></sup> <sup><a href=\"#cite_ref-Susrutha_1-8\">1.8</a></sup></span> <span class=\"reference-text\">Sushruta. Sushruta Samhita. Edited by Jadavaji Trikamji Aacharya. 8th ed. Varanasi: Chaukhambha Orientalia;2005</span>\n</li>\n<li id=\"cite_note-Cakrapani-2\"><span class=\"mw-cite-backlink\">↑ <sup><a href=\"#cite_ref-Cakrapani_2-0\">2.0</a></sup> <sup><a href=\"#cite_ref-Cakrapani_2-1\">2.1</a></sup> <sup><a href=\"#cite_ref-Cakrapani_2-2\">2.2</a></sup></span> <span class=\"reference-text\">Chakrapanidatta, Cakradatta (Chikitsasangraha). Edited by Priya Vrat Sharma. 3rd ed. Varanasi: Chaukhambha publishers; 2002</span>\n</li>\n<li id=\"cite_note-Patil_lepa-3\"><span class=\"mw-cite-backlink\">↑ <sup><a href=\"#cite_ref-Patil_lepa_3-0\">3.0</a></sup> <sup><a href=\"#cite_ref-Patil_lepa_3-1\">3.1</a></sup></span> <span class=\"reference-text\"> Patil S, Chaudhary AK. Topical dosages forms (Lepa Kalpana) of Ayurveda: An unexplored treasure. Int J Green Pharm. 2015;9(4):12. Accessed on June 1,2020.Available from <a class=\"external free\" href=\"https://www.greenpharmacy.info/index.php/ijgp/article/viewFile/579/492\" rel=\"nofollow\">https://www.greenpharmacy.info/index.php/ijgp/article/viewFile/579/492</a> </span>\n</li>\n<li id=\"cite_note-4\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-4\">↑</a></span> <span class=\"reference-text\">YogindraNathSen, Charak. Nidana Sthana, Cha.1 Jwara Nidana ver.36. In: YogindraNathSen, Editor. Charakopaskara Charak Samhita.1st ed. ???;?</span>\n</li>\n</ol>",
+            "items": [
+                "↑ 1.0 1.1 1.2 1.3 1.4 1.5 1.6 1.7 1.8 Sushruta. Sushruta Samhita. Edited by Jadavaji Trikamji Aacharya. 8th ed. Varanasi: Chaukhambha Orientalia;2005",
+                "↑ 2.0 2.1 2.2 Chakrapanidatta, Cakradatta (Chikitsasangraha). Edited by Priya Vrat Sharma. 3rd ed. Varanasi: Chaukhambha publishers; 2002",
+                "↑ 3.0 3.1 Patil S, Chaudhary AK. Topical dosages forms (Lepa Kalpana) of Ayurveda: An unexplored treasure. Int J Green Pharm. 2015;9(4):12. Accessed on June 1,2020.Available from https://www.greenpharmacy.info/index.php/ijgp/article/viewFile/579/492",
+                "↑ YogindraNathSen, Charak. Nidana Sthana, Cha.1 Jwara Nidana ver.36. In: YogindraNathSen, Editor. Charakopaskara Charak Samhita.1st ed. ???;?"
+            ]
+        }
+    ],
+    "html_sha256": "93e373db00d01995bc7d0c12c682d321068f52c097cfebf587481bfbb3b3454b"
+}

@@ -1,0 +1,1606 @@
+================================================================================
+CHARAKA SAMHITA
+JWARA NIDANA
+================================================================================
+
+Source URL: https://www.carakasamhitaonline.com/index.php?title=Jwara_Nidana
+
+
+--------------------------------------------------------------------------------
+
+JWARA NIDANA
+
+--------------------------------------------------------------------------------
+
+
+
+--------------------------------------------------------------------------------
+
+Nidana Sthana Chapter 1. Fundamental Principles of Diagnosis and Jwara
+
+--------------------------------------------------------------------------------
+
+[TABLE]
+Section/Chapter | Nidana Sthana Chapter 1
+Preceding Chapter | None
+Succeeding Chapter | Raktapitta Nidana
+Other Sections | Sutra Sthana , Vimana Sthana , Sharira Sthana , Indriya Sthana , Chikitsa Sthana , Kalpa Sthana , Siddhi Sthana
+Translator and commentator | Dwivedi R.B.,Dubey S.D., Gujarathi R.,Singh A.Khandel S.K., Rai S.
+Reviewer | Kar A.C.
+Editors | Khandel S.K., Godatwar P., Deole Y.S. , Basisht G.
+Year of publication | 2020
+Publisher | Charak Samhita Research, Training and Skill Development Centre
+DOI | 10.47468/CSNE.2020.e01.s02.002
+
+--------------------------------------------------------------------------------
+
+Abstract
+
+--------------------------------------------------------------------------------
+
+Nidana Sthana deals with the etiology, symptomatology, and means of diagnosis of diseases.
+It begins with a generalized set of fundamental principles of diagnosis and then proceeds to specialized studies of diseases. The first part of this chapter deals with the necessary tools for acquiring a comprehensive knowledge of any disease. A set of five important tools/components - etiology, premonitory signs, clinical features, pacifying factors and pathogenesis termed as ‘Nidana Panchaka’ helps in understanding a disease thoroughly. Each of these tools has a specific significance in diagnosis and explores an important aspect of the disease. Etiology helps to ascertain the causative factors of the disease and diagnosis helps in determining the nature of the disease by causative factors, premonitory signs, actual signs, exploratory signs, and pathogenesis. Comprehensive management of disease and restoration of health is not possible without complete knowledge of all aspects of the disease process. The second part of the chapter uses these tools to explain fever ( jwara ) and its types (endogenous and exogenous), as well as methods to manage it. Jwara is caused by the accumulation of vitiated dosha at the site of digestion and further affliction of digestion and thermal regulation in the body. Considering the basic tools for comprehensive understanding of disease, it is regarded as an important chapter. Keywords : Diagnosis, nidana , hetu , etiology, poorvarupa , premonitory signs, rupa , clinical signs, upashaya , pacifying factors, samprapti , pathogenesis, jwara , nija , aagantu jwara , ghrita ,ghee, endogenous causes, exogenous causes, fever.
+
+--------------------------------------------------------------------------------
+
+
+
+--------------------------------------------------------------------------------
+
+CONTENTS
+
+--------------------------------------------------------------------------------
+
+[UL]
+• 1 Introduction
+• 2 Sanskrit Text, Transliteration and English Translation 2.1 Principles of knowledge of disease 2.1.1 Synonyms of Nidana (causative factors) and its types 2.1.2 Types of diseases 2.1.3 Synonyms of disease 2.1.4 Means for knowledge of disease 2.1.5 Definition of Nidana 2.1.6 Definition of Poorvarupa (premonitory signs) 2.1.7 Definition of Linga (sign) and its synonyms 2.1.8 Definition of Upashaya (pacifying factors) 2.1.9 Samprapti (pathogenesis) 2.1.9.1 Definition 2.1.9.2 Types of samprapti (pathogenesis) 2.1.9.2.1 Samkhya samprapti (numerical classification) 2.1.9.2.2 Pradhanya samprapti (Classification on dominance) 2.1.9.2.3 Vidhi samprapti (Classification on prognosis) 2.1.9.2.4 Vikalpa samprapti (pathogenesis on fraction of dosha) 2.1.9.2.5 Bala Kala (time of aggravation) samprapti
+• 3 Knowledge of Jwara (fever) 3.1 Origin 3.2 Types 3.3 Vata dominant jwara 3.3.1 Causes 3.3.2 Pathogenesis 3.3.3 Clinical features 3.4 Pitta dominant jwara 3.4.1 Causes 3.4.2 Pathogeneis 3.4.3 Clinical features 3.5 Kapha dominant jwara 3.5.1 Causes 3.5.2 Pathogenesis 3.5.3 Clinical features 3.6 Sannipatika jwara 3.6.1 Causes 3.6.1.1 Clinical features 3.7 Agantu jwara (Exogenous fever) 3.8 Specification of each type of jwara 3.9 Specific feature and classification of jwara 3.10 General premonitory features of all jwara 3.11 Consequences of jwara 3.12 Principles of management of jwara 3.13 Management principles of jeerna jwara (chronic fever) 3.14 Rule of exception for repetition of text 3.15 Summary
+• 4 Tattva Vimarsha (Fundamental principles)
+• 5 Vidhi Vimarsha (Applied Inferences) 5.1 A.First Classification 5.2 B.Second classification 5.3 C.Third classification 5.4 D. Fourth classification 5.5 E.Fifth Classification 5.6 F.Sixth Classification 5.7 Poorvarupa (premonitory signs) 5.8 Rupa (clinical signs and symptoms) 5.9 Upashaya (pacification): 5.9.1 Various examples of upashaya : 5.9.2 Samprapti (pathogenesis) 5.9.3 Significance of knowledge of nidana 5.9.4 Significance of knowledge of poorvarupa 5.9.5 Significance of knowledge of rupa 5.9.6 Significance of knowledge of upashaya 5.9.7 Significance of knowledge of samprapti 5.9.8 Nidanapanchaka and shat kriyakala 5.9.9 Interrelation between nidanapanchaka and shatkriyakala 5.9.10 Shatkriyakala of Jwara as compared with pathogenesis of fever 5.10 Related Chapters 5.11 References
+
+--------------------------------------------------------------------------------
+
+INTRODUCTION
+
+--------------------------------------------------------------------------------
+
+A physician cannot treat a patient if he does not possess a complete understanding of a disease. [Cha.Sa. Vimana Sthana 4/12] Accurate diagnosis of a disease is important before initiating any treatment, and any understanding of a disease’s manifestation is incomplete without understanding its nidana (etiology), poorvarupa (premonitory symptoms), linga (actual sign and symptoms), upashaya (pacifying factors) and samprapti (pathogenesis) – or the Nidana Panchaka (literally, the five components of nidana ). [Cha.Sa. Nidana Sthana 1/6]
+A disease’s lifecycle starts with certain premonitory symptoms and ends with its complete manifestation, or samprapti . Between these two stages of the disease, the body shows various signs and symptoms that could be observed by any knowledgeable physician, using Nidana Panchaka . Naturally, any disease, if diagnosed very early, could be prevented from manifesting itself through a variety of interventions. [Cha.Sa. Sutra Sthana 10/7] A proper understanding of the Nidana Panchaka helps the physician using various therapies, to establish an equilibrium among the patient’s dosha , dhatu , and mala – since it is the vitiation of these body features that cause a disease. A therapy is considered pure or correct ( vishuddha ) when it cures the disease without giving rise to another disease. [Cha.Sa. Nidana Sthana 8/23] Curable diseases can progress to incurable if they are not properly treated. [Cha.Sa. Nidana Sthana 8/35]
+
+--------------------------------------------------------------------------------
+
+Nidana Panchaka described here can be supplemented with diagnostic tests and medical investigations to study a condition. Access to complete knowledge of dietary and lifestyle activities of a person, specific disease provoking factors, clinical history or health records of past diseases or conditions, and a thorough clinical examination of all bodily systems would help provide a complete view of a patient’s condition.
+
+--------------------------------------------------------------------------------
+
+Thus, the first part of the chapter deals with the Nidana Panchaka . The second part, then, takes this important concept and applies it on the most generic of conditions afflicting patients – jwara . This also reveals how the Nidana Sthana section of the Charak Samhita is structured – it starts with the generic or the foundational condition (that, in many cases, acts as a causative factor itself), and then moves on to discussing the vitiation of the dhatu that are causes of all somatic diseases – by the order of their importance (i.e., starting with rasa dhatu ) – and ends with a study of vitiation of Rajas and Tamas (i.e., causes of mental diseases).
+
+--------------------------------------------------------------------------------
+
+It is important to note here that jwara is an independent ailment, per Ayurveda , but also a secondary condition of other diseases, and also an etiology responsible for various diseases. For example, jwara gives rise to raktapitta (haemorrhagic disease), which in turn causes jwara , and both cause shotha (phthisis). Thus, jwara is an etiology in this context, or a nidanarthakara . Sushruta describes jwara at first as a complication of a wound in an afflicted person because it is the chief among diseases and has emerged “from the fiery wrath of Lord Rudra”, per Vedic mythology. Explaining its nature, he says that it influences an individual particularly at the time of his birth and death. But in this chapter, jwara is described as an independent disease which acts upon vata , pitta , and kapha as an immediate etiological factor to cause fever. Besides this (as a cause), various indirect causes have also been described to explain the vitiation of each dosha , along with their pathogenesis and symptoms separately. However, it is important to note that while there could be any number or types of causes, amashaya (stomach) is common to all types of jwara . Pathogenetic dosha combined with heat located in amashaya and accompanying the first dhatu created with the digestion of food (also known as rasa ) obstructs the passage of rasa and sweda , causing them to spread all over the body in various ways raising the body temperature of a person. This rising temperature is the manifestation of fever.
+
+--------------------------------------------------------------------------------
+
+Depending upon the etiological factors, Ayurveda prescribes one of two types of therapies – spiritual and rational. A specific rational treatment of jwara could involve the use of processed ghee (clarified butter) with suitable drugs in a chronic fever is to alleviate all the three dosha .
+
+--------------------------------------------------------------------------------
+
+SANSKRIT TEXT, TRANSLITERATION AND ENGLISH TRANSLATION
+
+--------------------------------------------------------------------------------
+
+अथातो ज्वरनिदानं व्याख्यास्यामः||१||
+
+--------------------------------------------------------------------------------
+
+इति ह स्माह भगवानात्रेयः||२||
+
+--------------------------------------------------------------------------------
+
+athātō jwaranidānaṁ vyākhyāsyāmaḥ||1||
+
+--------------------------------------------------------------------------------
+
+iti ha smāha bhagavānātrēyaḥ||2||
+
+--------------------------------------------------------------------------------
+
+athAto jwaranidAnaM vyAkhyAsyAmaH||1||
+
+--------------------------------------------------------------------------------
+
+iti ha smAha bhagavAnAtreyaH||2||
+
+--------------------------------------------------------------------------------
+
+Now we shall expound the chapter "Jwara Nidana"(Fundamental Principles of Diagnosis and Fever). Thus said Lord Atreya. [1-2]
+
+--------------------------------------------------------------------------------
+
+PRINCIPLES OF KNOWLEDGE OF DISEASE
+
+--------------------------------------------------------------------------------
+
+SYNONYMS OF NIDANA (CAUSATIVE FACTORS) AND ITS TYPES
+
+--------------------------------------------------------------------------------
+
+इह खलु हेतुर्निमित्तमायतनं कर्ता कारणं प्रत्ययः समुत्थानं निदानमित्यनर्थान्तरम् तत्त्रिविधम्- असात्म्येन्द्रियार्थसंयोगः, प्रज्ञापराधः, परिणामश्चेति||३||
+
+--------------------------------------------------------------------------------
+
+iha khalu hēturnimittamāyatanaṁ kartā kāraṇaṁ pratyayaḥ samutthānaṁ nidānamityanarthāntaram tattrividham-asātmyēndriyārthasaṁyōgaḥ, prajñāparādhaḥ, pariṇāmaścēti||3||
+
+--------------------------------------------------------------------------------
+
+iha khalu heturnimittamAyatanaM kartA kAraNaM pratyayaH samutthAnaM nidAnamityanarthAntaram| tattrividham- asAtmyendriyArthasaMyogaH, praj~jAparAdhaH, pariNAmashceti||3||
+
+--------------------------------------------------------------------------------
+
+[UL]
+• Hetu , nimitta , ayatana , karta , karana , pratyaya and samutthana are synonyms of nidana (causative factors).
+
+--------------------------------------------------------------------------------
+
+Nidana is of three types:
+
+--------------------------------------------------------------------------------
+
+[OL]
+• Asatmyendriyarthasamyoga (unsuitable contact of sense organs with their objects)
+• Prajnaparadha (intellectual errors or knowingly engaging in harmful activities), and
+• Kala (time, seasonal, temporal factors). [3]
+
+--------------------------------------------------------------------------------
+
+TYPES OF DISEASES
+
+--------------------------------------------------------------------------------
+
+अतस्त्रिविधा व्याधयः प्रादुर्भवन्ति- आग्नेयाः, सौम्याः,वायव्याश्च;-द्विविधाश्चापरे- राजसाः, तामसाश्च||४||
+
+--------------------------------------------------------------------------------
+
+atastrividhā vyādhayaḥ prādurbhavanti- āgnēyāḥ, saumyāḥ, vāyavyāśca; dvividhāścāparē- rājasāḥ, tāmasāśca||4||
+
+--------------------------------------------------------------------------------
+
+atastrividhA vyAdhayaH prAdurbhavanti- AgneyAH, saumyAH, vAyavyAshca; dvividhAshcApare- rAjasAH, tAmasAshca||4||
+
+--------------------------------------------------------------------------------
+
+The (Somatic) diseases manifest in three types, viz.
+
+--------------------------------------------------------------------------------
+
+[OL]
+• Agneya ( pitta dosha dominant diseases)
+• Saumya ( kapha dosha dominant diseases)
+• Vayavya ( vata dosha dominant diseases).
+
+--------------------------------------------------------------------------------
+
+Others (psychic) are of two types viz.
+
+--------------------------------------------------------------------------------
+
+[OL]
+• Rajas( Rajas dosha dominant diseases)
+• Tamas ( Tamas dosha dominant diseases). [4]
+
+--------------------------------------------------------------------------------
+
+SYNONYMS OF DISEASE
+
+--------------------------------------------------------------------------------
+
+तत्र व्याधिरामयो गद आतङ्को यक्ष्मा ज्वरो विकारो रोग इत्यनर्थान्तरम्||५||
+
+--------------------------------------------------------------------------------
+
+tatra vyādhirāmayō gada ātaṅkō yakṣmā jvarō vikārō rōga
+ityanarthāntaram||5||
+
+--------------------------------------------------------------------------------
+
+tatra vyAdhirAmayo gada Ata~gko yakShmA jvaro vikAro roga ityanarthAntaram||5||
+
+--------------------------------------------------------------------------------
+
+Vyadhi, amaya, gada, atanka, yakshma, jwara, vikara and roga are synonyms of disease. [5]
+
+--------------------------------------------------------------------------------
+
+MEANS FOR KNOWLEDGE OF DISEASE
+
+--------------------------------------------------------------------------------
+
+तस्योपलब्धिर्निदानपूर्वरूपलिङ्गोपशयसम्प्राप्तितः||6 ||
+
+--------------------------------------------------------------------------------
+
+tasyōpalabdhirnidānapūrvarūpaliṅgōpaśayasamprāptitaḥ ||6 ||
+
+--------------------------------------------------------------------------------
+
+tasyopalabdhirnidAnapUrvarUpali~ggopashayasamprAptitaH||6||
+
+--------------------------------------------------------------------------------
+
+Diseases could be diagnosed by studying their nidana (etiology), poorvarupa (premonitory symptoms), linga (sign and symptoms), upashaya (pacifying factors) and samprapti (pathogenesis).[6]
+
+--------------------------------------------------------------------------------
+
+DEFINITION OF NIDANA
+
+--------------------------------------------------------------------------------
+
+तत्र निदानं कारणमित्युक्तमग्रे||७||
+
+--------------------------------------------------------------------------------
+
+tatra nidānaṁ kāraṇamityuktamagrē ||7||
+
+--------------------------------------------------------------------------------
+
+tatra nidAnaM kAraNamityuktamagre||7||
+
+--------------------------------------------------------------------------------
+
+Nidana is the cause or etiological factor as described earlier. [7]
+
+--------------------------------------------------------------------------------
+
+DEFINITION OF POORVARUPA (PREMONITORY SIGNS)
+
+--------------------------------------------------------------------------------
+
+पूर्वरूपं प्रागुत्पत्ति लक्षणं व्याधेः||८||
+
+--------------------------------------------------------------------------------
+
+pūrvarūpaṁ prāgutpatti lakṣaṇaṁ vyādhēḥ||8||
+
+--------------------------------------------------------------------------------
+
+pUrvarUpaM prAgutpatti lakShaNaM vyAdheH||8||
+
+--------------------------------------------------------------------------------
+
+Symptoms that manifest themselves before the appearance of the disease are known as poorvarupa . [8]
+
+--------------------------------------------------------------------------------
+
+DEFINITION OF LINGA (SIGN) AND ITS SYNONYMS
+
+--------------------------------------------------------------------------------
+
+प्रादुर्भूतलक्षणं पुनर्लिङ्गम् तत्र लिङ्गमाकृतिर्लक्षणं चिह्नं संस्थानं व्यञ्जनं रूपमित्यनर्थान्तरम्||९||
+
+--------------------------------------------------------------------------------
+
+prādurbhūtalakṣaṇaṁ punarliṅgam tatra liṅgamākr̥tirlakṣaṇaṁ cihnaṁ saṁsthānaṁ vyañjanaṁ rūpamityanarthāntaram ||9||
+
+--------------------------------------------------------------------------------
+
+prAdurbhUtalakShaNaM punarli~ggam| tatra li~ggamAkRutirlakShaNaM cihnaM
+saMsthAnaM vya~jjanaM rUpamityanarthAntaram||9||
+
+--------------------------------------------------------------------------------
+
+Sign and symptoms when fully manifested are called as linga . Linga, akruti, lakshana, chihna, samsthana, vyanjana and rupa are synonyms of linga . [9]
+
+--------------------------------------------------------------------------------
+
+DEFINITION OF UPASHAYA (PACIFYING FACTORS)
+
+--------------------------------------------------------------------------------
+
+उपशयः पुनर्हेतुव्याधिविपरीतानां विपरीतार्थकारिणां चौषधाहारविहाराणामुपयोगः सुखानुबन्धः||१०||
+
+--------------------------------------------------------------------------------
+
+upaśayaḥ punarhētuvyādhiviparītānāṁ viparītārthakāriṇāṁ
+cauṣadhāhāravihārāṇāmupayōgaḥ sukhānubandhaḥ||10||
+
+--------------------------------------------------------------------------------
+
+upashayaH punarhetuvyAdhiviparItAnAM viparItArthakAriNAM
+cauShadhAhAravihArANAmupayogaH sukhAnubandhaH||10||
+
+--------------------------------------------------------------------------------
+
+Medicines, diets and regimens that bring about relief either by acting directly on the cause of a disease or the disease itself or by producing such effects indirectly are termed upashaya (pacifying factors).[10]
+
+--------------------------------------------------------------------------------
+
+SAMPRAPTI (PATHOGENESIS)
+
+--------------------------------------------------------------------------------
+
+DEFINITION
+
+--------------------------------------------------------------------------------
+
+सम्प्राप्तिर्जातिरागतिरित्यनर्थान्तरं व्याधेः||११||
+
+--------------------------------------------------------------------------------
+
+samprāptirjātirāgatirityanarthāntaraṁ vyādhēḥ||11||
+
+--------------------------------------------------------------------------------
+
+samprAptirjAtirAgatirityanarthAntaraM vyAdheH||11||
+
+--------------------------------------------------------------------------------
+
+Jati and agati are synonyms of Samprapti (pathogenesis) of the disease.
+Like nidana and rupa , samprapti has been described here with its synonyms which are indicative of its definition. [11]
+
+--------------------------------------------------------------------------------
+
+TYPES OF SAMPRAPTI (PATHOGENESIS)
+
+--------------------------------------------------------------------------------
+
+सा सङ्ख्याप्राधान्यविधिविकल्पबलकालविशेषैर्भिद्यते|१२|
+
+--------------------------------------------------------------------------------
+
+sā saṅkhyāprādhānyavidhivikalpabalakālaviśēṣairbhidyatē|12|
+
+--------------------------------------------------------------------------------
+
+sA sa~gkhyAprAdhAnyavidhivikalpabalakAlavisheShairbhidyate|12|
+
+--------------------------------------------------------------------------------
+
+Samprapti can be further classified, depending upon certain specific characteristics, by sankhya (numerical classification), pradhanya (dominance of dosha ), vidhi (types of diseases), vikalpa (dominance of one or the other attributes of dosha ), and bala-kala vishesha (the time of manifestation or aggravation of the disease). [12]
+
+--------------------------------------------------------------------------------
+
+SAMKHYA SAMPRAPTI (NUMERICAL CLASSIFICATION)
+
+--------------------------------------------------------------------------------
+
+सङ्ख्या तावद्यथा- अष्टौ ज्वराः, पञ्च गुल्माः, सप्त कुष्ठान्येवमादिः|१२|
+
+--------------------------------------------------------------------------------
+
+saṅkhyā tāvadyathā-aṣṭau jvarāḥ, pañca gulmāḥ, sapta
+kuṣṭhānyēvamādiḥ|12|
+
+--------------------------------------------------------------------------------
+
+sa~gkhyA tAvadyathA-aShTau jwaraH, pa~jca gulmAH, sapta kuShThAnyevamAdiH|12|
+
+--------------------------------------------------------------------------------
+
+Sankhya type of classification of samprapti numerically groups diseases by their pathogenesis, such as, eight types of jwara (fever), five types of gulma (abdominal lump), seven types of kushtha (skin diseases), etc. [12.1].
+
+--------------------------------------------------------------------------------
+
+PRADHANYA SAMPRAPTI (CLASSIFICATION ON DOMINANCE)
+
+--------------------------------------------------------------------------------
+
+प्राधान्यं पुनर्दोषाणां तरतमाभ्यामुपलभ्यते तत्र द्वयोस्तरः, त्रिषु तम इति|१२|
+
+--------------------------------------------------------------------------------
+
+prādhānyaṁ punardōṣāṇāṁ taratamābhyāmupalabhyatē| tatra dvayōstaraḥ, triṣu tama iti |12|
+
+--------------------------------------------------------------------------------
+
+prAdhAnyaM punardoShANAM taratamAbhyAmupalabhyate| tatra dvayostaraH,
+triShu tama iti|12|
+
+--------------------------------------------------------------------------------
+
+Pradhanya (dominance) indicates the dominance or primacy of one particular dosha above other dosha . If two dosha get vitiated, the comparative term tara is used to indicate the predominant one. If, all the three dosha get vitiated then the superlative term tama is used to indicate the most predominant one. [12.2]
+
+--------------------------------------------------------------------------------
+
+VIDHI SAMPRAPTI (CLASSIFICATION ON PROGNOSIS)
+
+--------------------------------------------------------------------------------
+
+विधिर्नाम- द्विविधा व्याधयो निजागन्तुभेदेन,त्रिविधास्त्रिदोषभेदेन, चतुर्विधाः साध्यासाध्यमृदुदारुणभेदेन|१२|
+
+--------------------------------------------------------------------------------
+
+vidhirnāma- dvividhā vyādhayō nijāgantubhēdēna, trividhāstridōṣabhēdēna, caturvidhāḥ sādhyāsādhyamr̥dudāruṇabhēdēna|12|
+
+--------------------------------------------------------------------------------
+
+vidhirnAma- dvividhAvyAdhayonijAgantubhedena, trividhAstridoShabhedena, caturvidhAH
+sAdhyAsAdhyamRududAruNabhedena|12|
+
+--------------------------------------------------------------------------------
+
+Diseases are of two varieties - nija (endogenous) or agantu (exogenous). On the basis of vitiation of the doshas , diseases could be of three types; they could also be of four varieties, viz. sadhya (curable), asadhya (incurable), mrudu (mild), and daruna (severe). [12.3]
+
+--------------------------------------------------------------------------------
+
+VIKALPA SAMPRAPTI (PATHOGENESIS ON FRACTION OF DOSHA )
+
+--------------------------------------------------------------------------------
+
+समवेतानां पुनर्दोषाणामंशांशबलविकल्पो विकल्पोऽस्मिन्नर्थे|१२|
+
+--------------------------------------------------------------------------------
+
+samavētānāṁ [1] punardōṣāṇāmaṁśāṁśabalavikalpō vikalpō'sminnarthē|12|
+
+--------------------------------------------------------------------------------
+
+samavetAnAM punardoShANAmaMshAMshabalavikalpo vikalpo~asminnarthe|12|
+
+--------------------------------------------------------------------------------
+
+Predominance of one or the other attribute of the three dosha (in the manifestation of the disease) is known as vikalpa here. [12.4]
+
+--------------------------------------------------------------------------------
+
+BALA KALA (TIME OF AGGRAVATION) SAMPRAPTI
+
+--------------------------------------------------------------------------------
+
+बलकालविशेषः पुनर्व्याधीनामृत्वहोरात्राहारकालविधिविनियतो भवति||१२||
+
+--------------------------------------------------------------------------------
+
+balakālaviśēṣaḥ punarvyādhīnāmr̥tvahōrātrāhārakālavidhiviniyatō
+bhavati||12||
+
+--------------------------------------------------------------------------------
+
+balakAlavisheShaH punarvyAdhInAmRutvahorAtrAhArakAlavidhiviniyato bhavati||12||
+
+--------------------------------------------------------------------------------
+
+Specific time of aggravation and manifestation of diseases is determined on the basis of the variations in seasons, time of the day (or night), and intake of food. [12.5]
+
+--------------------------------------------------------------------------------
+
+तस्माद्व्याधीन् भिषगनुपहतसत्त्वबुद्धिर्हेत्वादिभिर्भावैर्यथावदनुबुद्ध्येत||१३||
+
+--------------------------------------------------------------------------------
+
+tasmādvyādhīn
+bhiṣaganupahatasattvabuddhirhētvādibhirbhāvairyathāvadanubuddhyēta||13||
+
+--------------------------------------------------------------------------------
+
+tasmAdvyAdhIn bhiShaganupahatasattvabuddhirhetvAdibhirbhAvairyathAvadanubuddhyeta||13||
+
+--------------------------------------------------------------------------------
+
+On the basis of these factors, physicians should properly diagnose a disease without any affliction in mind and intellect (i.e., without any prejudice or preconceived ideas). [13]
+
+--------------------------------------------------------------------------------
+
+इत्यर्थसङ्ग्रहो निदानस्थानस्योद्दिष्टो भवति तं विस्तरेणोपदिशन्तो भूयस्तरमतोऽनुव्याख्यास्यामः||१४||
+
+--------------------------------------------------------------------------------
+
+ityarthasaṅgrahō nidānasthānasyōddiṣṭō bhavati| taṁ vistarēṇōpadiśantō
+bhūyastaramatō'nuvyākhyāsyāmaḥ||14||
+
+--------------------------------------------------------------------------------
+
+ityarthasa~ggraho nidAnasthAnasyoddiShTo bhavati| taM vistareNopadishanto
+bhUyastaramato~anuvyAkhyAsyAmaH||14||
+
+--------------------------------------------------------------------------------
+
+In brief, the above topics are the objectives of this section ‘Diagnosis of diseases’ ( Nidana Sthana ). They will again be discussed in detail later in this chapter. [14]
+
+--------------------------------------------------------------------------------
+
+KNOWLEDGE OF JWARA (FEVER)
+
+--------------------------------------------------------------------------------
+
+ORIGIN
+
+--------------------------------------------------------------------------------
+
+तत्र प्रथमत एव तावदाद्याँल्लोभाभिद्रोहकोपप्रभवानष्टौ व्याधीन्निदानपूर्वेण क्रमेण व्याख्यास्यामः, तथा सूत्रसङ्ग्रहमात्रं चिकित्सायाः| चिकित्सितेषु चोत्तरकालं यथोपचितविकाराननुव्याख्यास्यामः ||१५||
+
+--------------------------------------------------------------------------------
+
+tatra prathamata ēva tāvadādyāmँllōbhābhidrōhakōpaprabhavānaṣṭau vyādhīnnidānapūrvēṇa kramēṇa vyākhyāsyāmaḥ,
+tathā sūtrasaṅgrahamātraṁ cikitsāyāḥ| cikitsitēṣu [1] cōttarakālaṁ
+yathōpacitavikārānanuvyākhyāsyāmaḥ [2] ||15||
+
+--------------------------------------------------------------------------------
+
+tatra prathamata eva tAvadAdyAmllobhAbhidrohakopaprabhavAnaShTau
+vyAdhInnidAnapUrveNa krameNa vyAkhyAsyAmaH, tathA sUtrasa~ggrahamAtraM
+cikitsAyAH| cikitsiteShu cottarakAlaM yathopacitavikArAnanuvyAkhyAsyAmaH||15||
+
+--------------------------------------------------------------------------------
+
+First described here are the diagnostic features of eight diseases caused due to greed, malice and anger. These would be described along with brief methods of their treatment (a detailed description of their management would be provided in Chikitsa Sthana (of this treatise)). [15]
+
+--------------------------------------------------------------------------------
+
+इह खलु ज्वर एवादौ विकाराणामुपदिश्यते, तत्प्रथमत्वाच्छारीराणाम्||१६||
+
+--------------------------------------------------------------------------------
+
+iha khalu jwara evādau vikārāṇāmupadiśyate, tatprathamatvācchārīrāṇām||16||
+
+--------------------------------------------------------------------------------
+
+iha khalu jvara evAdau vikArANAmupadishyate, tatprathamatvAcchArIrANAm||16||
+
+--------------------------------------------------------------------------------
+
+Jwara (fever) is described first among disorders because temperature (or body heat) is a life-sustaining force, and is the first condition (afflicting patients of somatic conditions). [16]
+
+--------------------------------------------------------------------------------
+
+TYPES
+
+--------------------------------------------------------------------------------
+
+अथ खल्वष्टाभ्यः कारणेभ्यो ज्वरः सञ्जायते मनुष्याणां; तद्यथा- वातात्, पित्तात्, कफात्, वातपित्ताभ्यां, वातकफाभ्यां, पित्तकफाभ्यां, वातपित्तकफेभ्यः, आगन्तोरष्टमात् कारणात्||१७||
+
+--------------------------------------------------------------------------------
+
+atha khalvaṣṭābhyaḥ kāraṇebhyo jwaraḥ sañjāyate manuṣyāṇām; tadyathā- vātāt, pittāt, kaphāt, vātapittābhyāṁ, vātakaphābhyāṁ, pittakaphābhyām, vātapittakaphebhyaḥ, āgantoraṣṭamāt kāraṇāt||17||
+
+--------------------------------------------------------------------------------
+
+atha khalvaShTAbhyaH kAraNebhyo jvaraH sa~jjAyate manuShyANAM; tadyathA- vAtAt, pittAt, kaphAt, vAtapittAbhyAM, vAtakaphAbhyAM, pittakaphAbhyAM,vAtapittakaphebhyaH, AgantoraShTamAt kAraNAt||17||
+
+--------------------------------------------------------------------------------
+
+Jwara occurs in humans due to eight causative factors, - vata , pitta , kapha , vata-pitta, vata-kapha, pitta-kapha, vata-pitta-kapha, and agantu (exogenous causes). [17]
+
+--------------------------------------------------------------------------------
+
+तस्य निदानपूर्वरूपलिङ्गोपशयविशेषाननुव्याख्यास्याम||१८||
+
+--------------------------------------------------------------------------------
+
+tasya nidānapūrvarūpaliṅgopaśayaviśeṣānanuvyākhyāsyāmaḥ ||18||
+
+--------------------------------------------------------------------------------
+
+tasya nidAnapUrvarUpali~ggopashayavisheShAnanuvyAkhyAsyAmaH [1] ||18||
+
+--------------------------------------------------------------------------------
+
+Now I shall expound the specific nidana (etiology), poorvarupa (prodromal symptoms), rupa (symptoms) and upashaya (pacifying factors) of jwara . [18]
+
+--------------------------------------------------------------------------------
+
+VATA DOMINANT JWARA
+
+--------------------------------------------------------------------------------
+
+CAUSES
+
+--------------------------------------------------------------------------------
+
+रूक्षलघुशीतवमनविरेचनास्थापनशिरोविरेचनातियोगव्यायामवेगसन्धारणानशनाभिघातव्यवायोद्वेगशोकशोणितातिषेकजागरणविषमशरीरन्यासेभ्योऽतिसेवितेभ्यो वायुः प्रकोपमापद्यते||१९||
+
+--------------------------------------------------------------------------------
+
+rūkṣalaghuśītavamanavirecanāsthāpanaśirovirecanātiyogavyāyāmavegasandhāraṇānaśanābhighātavyavāyodvegaśokaśoṇitātiṣekajāgaraṇaviṣamaśarīranyā sebhyotisevitebhyo vāyuḥ prakopamāpadyate||19||
+
+--------------------------------------------------------------------------------
+
+rUkShalaghushItavamanavirecanAsthApanashirovirecanAtiyogavyAyAmavegasandhAraNAnashanAbhighAta-vyavAyodvegashokashoNitAtiShekajAgaraNaviShamasharIranyAsebhyo~atisevitebhyo vAyuH prakopamApadyate||19||
+
+--------------------------------------------------------------------------------
+
+Excess use of rough, light to digest, and cold (food), over administration of therapeutic emesis and therapeutic purgation, asthapana (non-unctuous enema), shirovirechana (head evacuation), overexertion, suppression of urges, anashana (fasting), injury, copulation, agitation, lamentation, excessive blood-letting, night vigils and improper/odd posture of body – cause vitiation of vayu [19]
+
+--------------------------------------------------------------------------------
+
+PATHOGENESIS
+
+--------------------------------------------------------------------------------
+
+स यदा प्रकुपितः प्रविश्यामाशयमूष्मणा सह मिश्रीभूयाद्यमाहारपरिणामधातुं रसनामानमन्ववेत्य रसस्वेदवहानि स्रोतांसि पिधायाग्निमुपहत्य पक्तिस्थानादूष्माणं बहिर्निरस्य केवलं शरीरमनुप्रपद्यते, तदा ज्वरमभिनिर्वर्तयति||२०||
+
+--------------------------------------------------------------------------------
+
+sa yadā prakupitaḥ praviśyāmāśayamūṣmaṇā saha miśrībhūyādyamāhārapariṇāmadhātuṁrasanāmānamanvavetya rasasvedavahāni srōtāṁsi pidhāyāgnimupahatya paktisthānādūṣmāṇaṁ bahirnirasya kevalaṁ śarīramanuprapadyate, tadā jwaramabhinirvartayati ||20||
+
+--------------------------------------------------------------------------------
+
+sa yadA prakupitaH pravishyAmAshayamUShmaNA [2] saha mishrIbhUyAdyamAhArapariNAmadhAtuM rasanAmAnamanvavetya rasasvedavahAni srotAMsipidhAyAgnimupahatya paktisthAnAdUShmANaM bahirnirasya kevalaM sharIramanuprapadyate, tadA jvaramabhinirvartayati||20||
+
+--------------------------------------------------------------------------------
+
+This vitiated vayu , when it gets into the amashaya (stomach), afflicts agni and vitiates the first dhatu ( rasa ) created through this vitiated digestion process. This (vitiated admixture of vayu and rasa ) blocks the channels associated with rasa and sweda (sweat), adversely affecting the digestive processes and moving that heat out of its locus into other parts of the body. This excess heat leads to jwara . [20]
+
+--------------------------------------------------------------------------------
+
+CLINICAL FEATURES
+
+--------------------------------------------------------------------------------
+
+तस्येमानि लिङ्गानि भवन्ति; तद्यथा- विषमारम्भविसर्गित्वम्,ऊष्मणो वैषम्यं, तीव्रतनुभावानवस्थानानि ज्वरस्य, जरणान्ते दिवसान्ते निशान्ते घर्मान्ते वा ज्वरस्याभ्यागमनमभिवृद्धिर्वा, विशेषेण परुषारुणवर्णत्वं नखनयनवदनमूत्रपुरीषत्वचामत्यर्थं क्लृप्तीभावश्च; अनेकविधोपमाश्चलाचलाश्च वेदनास्तेषां तेषामङ्गावयवानां; तद्यथा- पादयोः सुप्तता, पिण्डिकयोरुद्वेष्टनं, जानुनोः केवलानां च सन्धीनां विश्लेषणम्, ऊर्वोः सादः, कटीपार्श्वपृष्ठस्कन्धबाह्वंसोरसां च भग्नरुग्णमृदितमथितचटितावपाटितावनुन्न-त्वमिव हन्वोश्चाप्रसिद्धिः, स्वनश्च कर्णयोः, शङ्खयोर्निस्तोदः, कषायास्यता आस्यवैरस्यं वा, मुखतालुकण्ठशोषः, पिपासा, हृदयग्रहः, शुष्कच्छर्दिः,शुष्ककासः, क्षवथूद्गारविनिग्रहः, अन्नरसखेदः, प्रसेकारोचकाविपाकाः, विषादजृम्भाविना-मवेपथुश्रमभ्रमप्रलापप्रजागररोमहर्षदन्तहर्षाः, उष्णाभिप्रायता, निदानोक्तानाम-नुपशयो विपरीतोपशयश्चेति वातज्वरस्य लिङ्गानि भवन्ति||२१||
+
+--------------------------------------------------------------------------------
+
+tasyemāni liṅgāni bhavanti; tadyathā-viṣamārambhavisargitvaï, ūṣmaṇo vaiṣamyaṁ, tīvratanubhāvānavasthānāni jwarasya, jaraṇānte divasānte niśānte gharmānte vā jwarasyābhyāgamanamabhivr̥ddhirvā, viśeṣeṇa paruṣāruṇavarṇatvaṁ nakhanayanavadanamūtra-purīṣatvacāmatyarthaï klr̥ptībhāvaśca; anekavidhopamāśc-alācalāśca vēdanāsteṣāï teṣāmaṅgāvayavānāṁ; tadyathā- pādayoḥ suptatā, piṇḍikayorudvēṣṭanaï, jānunoḥ kevalānāï ca sandhīnāï viśleṣaṇaï, ūrvoḥ sādaḥ, kaṭīpārśvapr̥ṣṭhaskandhabāhvaṁsorasāï ca bhagnarugṇamr̥ditamathitacaṭitāvapāṭitāvanunnatvamivahanvoścāprasiddhiḥ, svanaśca karṇayoḥ, śaṅkhayornistodaḥ, kaṣāyāsyatā āsyavairasyaï vā, mukhatālukaṇṭhaśoṣaḥ, pipāsā, hr̥dayagrahaḥ, śuṣkacchardiḥ, śuṣkakāsaḥ, kṣavathūdgāravinigrahaḥ, annarasakhedaḥ, prasekārocakā-vipākāḥ, viṣādajr̥mbhāvināmavepathuśramabhramapralāpapra-jāgararomaharṣadantaharṣāḥ, uṣṇābhiprāyatā, nidānoktānām-anupaśayo viparītopaśayaśceti vātajwarasya liṅgāni bhavanti ||21||
+
+--------------------------------------------------------------------------------
+
+tasyemAni li~ggAni bhavanti; tadyathA- viShamArambhavisargitvam, UShmaNo vaiShamyaM, tIvratanubhAvAnavasthAnAni jvarasya, jaraNAnte divasAnte nishAntegharmAnte vA jvarasyAbhyAgamanamabhivRuddhirvA, visheSheNa paruShAruNavarNatvaM nakhanayanavadanamUtrapurIShatvacAmatyarthaM klRuptIbhAvashca;anekavidhopamAshcalAcalAshca vedanAsteShAM teShAma~ggAvayavAnAM; tadyathA- pAdayoH suptatA, piNDikayorudveShTanaM, jAnunoH kevalAnAM casandhInAM vishleShaNam, UrvoH sAdaH, kaTIpArshvapRuShThaskandhabAhvaMsorasAM ca bhagnarugNamRuditamathitacaTitAvapATitAvanunnatvamiva [6] ,hanvoshcAprasiddhiH, svanashca karNayoH, sha~gkhayornistodaH, kaShAyAsyatA AsyavairasyaM vA, mukhatAlukaNThashoShaH, pipAsA, hRudayagrahaH,shuShkacchardiH, shuShkakAsaH, kShavathUdgAravinigrahaH, annarasakhedaH, prasekArocakAvipAkAH,viShAdajRumbhAvinAmavepathushramabhramapralApaprajAgararomaharShadantaharShAH, uShNAbhiprAyatA, nidAnoktAnAmanupashayo viparItopashayashcetivAtajvarasya [7] li~ggAni bhavanti||21||
+
+--------------------------------------------------------------------------------
+
+The patient would experience abrupt onset and remission (of fever), with variations in temperature and severity. Jwara would be particularly severe at the end of digestion and there would be temporal variations as well (i.e., day, night and in summer). The patient’s skin would appear rough, and there would be reddish discoloration of nails, eyes, face, urine, stool and skin. The patient would experience excessively reduced tendency to pass urine, feces, excessive tearing of nails, etc. Debilitating pain radiating from the toe up, with various sensations felt at various parts as the pain travels – numbness in feet, cramps in the calves, looseness in knee joints (and also in all other joints), weakness in thighs, excruciating pain in the waist region, aching in the sides, pressure sensation in back, churning in shoulder, cutting in arms, extracting in scapular region and constricting feeling in chest, inability to move the jaws, tinnitus, and piercing pain (pricking pain) in the temple region. (Other symptoms include) astringent taste or lack of taste in the mouth (distaste), dryness of mouth, palate and throat, thirst, catching pain (grabbing pain) in the heart, dry vomiting, dry cough, loss of sneezing and eructation, aversion to the taste, salivation, anorexia, diminished digestive power, malaise, increased yawning, bending, shivering, exhaustion, giddiness, delirium, insomnia, horripilation, sensitivity in teeth, and the desire for hot. Factors mentioned in the etiology are alleviating and contrary to them are aggravating. [21]
+
+--------------------------------------------------------------------------------
+
+PITTA DOMINANT JWARA
+
+--------------------------------------------------------------------------------
+
+CAUSES
+
+--------------------------------------------------------------------------------
+
+उष्णाम्ललवणक्षारकटुकाजीर्णभोजनेभ्योऽतिसेवितेभ्यस्तथा तीक्ष्णातपाग्निसन्तापश्रमक्रोधविषमाहारेभ्यश्च पित्तं प्रकोपमापद्यते||२२||
+
+--------------------------------------------------------------------------------
+
+uṣṇāmlalavaṇakṣārakaṭukājīrṇabhojanebhyotisevitebhyastathā tīkṣṇātapāgnisantāpaśramakrodhaviṣamāhārebhyaśca pittaṁ prakopamāpadyate||22||
+
+--------------------------------------------------------------------------------
+
+uShNAmlalavaNakShArakaTukAjIrNabhojanebhyo~atisevitebhyastathA tIkShNAtapAgnisantApashramakrodhaviShamAhArebhyashca pittaMprakopamApadyate||22||
+
+--------------------------------------------------------------------------------
+
+Excess use of hot, sour, salty, alkali, pungent and bitter food and intake of meals before the digestion of the previous meal, contact with intense heat, fire, exhaustion due to excessive exercise, anger, untimely meals – vitiate pitta .[22]
+
+--------------------------------------------------------------------------------
+
+PATHOGENEIS
+
+--------------------------------------------------------------------------------
+
+तद्यदा प्रकुपितमामाशयादूष्माणमुपसृज्याद्यमाहारपरिणामधातुं रसनामानमन्ववेत्य रसस्वेदवहानि स्रोतांसि पिधाय द्रवत्वादग्निमुपहत्य पक्तिस्थानादूष्माणं बहिर्निरस्य प्रपीडयत् केवलं शरीरमनुप्रपद्यते, तदा ज्वरमभिनिर्वर्तयति||२३||
+
+--------------------------------------------------------------------------------
+
+tadyadā prakupitamāmāśayādūṣmāṇamupasr̥jyādyamāhāra-pariṇāmadhātuṁ rasanāmānamanvavetya rasasvedavahāni srotāṁsi pidhāya dravatvādagnimupahatya paktisthānādūṣ-māṇaï bahirnirasya prapīḍayat kevalaï śarīramanu-prapadyate, tadā jwaramabhinirvartayati||23||
+
+--------------------------------------------------------------------------------
+
+tadyadA prakupitamAmAshayAdUShmANamupasRujyAdyamAhArapariNAmadhAtuM [1] rasanAmAnamanvavetya rasasvedavahAni srotAMsi pidhAyadravatvAdagnimupahatya paktisthAnAdUShmANaM bahirnirasya [2] prapIDayat kevalaM sharIramanuprapadyate, tadA jvaramabhinirvartayati||23||
+
+--------------------------------------------------------------------------------
+
+The vitiated pitta enters the amashaya and gets mixed with the initial dhatu formed in the process, rasa , along with the digested food. This improperly formed rasa causes sluggish circulation and further block the micro channels of rasa and sweda . The core digestive agni gets displaced out of its original site ( pakti sthana ), spreading out through the body. Due to blocked channels of sweat, heat dissipation is adversely affected, causing the temperature to rise all over the body and manifest as paittika jwara .[23]
+
+--------------------------------------------------------------------------------
+
+CLINICAL FEATURES
+
+--------------------------------------------------------------------------------
+
+तस्येमानि लिङ्गानि भवन्ति; तद्यथा- युगपदेव केवले शरीरे ज्वरस्याभ्यागमनमभिवृद्धिर्वा भुक्तस्य विदाहकाले मध्यन्दिनेऽर्धरात्रे शरदि वा विशेषेण,कटुकास्यता,घ्राणमुखकण्ठौष्ठतालुपाकः, तृष्णा, मदो, भ्रमो, मूर्च्छा, पित्तच्छर्दनम्, अतीसारः, अन्नद्वेषः, सदनं, खेदः, प्रलापः, रक्तकोठाभिनिर्वृत्तिः शरीरे, हरितहारिद्रत्वं नखनयनवदनमूत्रपुरीषत्वचाम्, अत्यर्थमूष्मणस्तीव्रभावः, अतिमात्रं दाहः, शीताभिप्रायता, निदानोक्तानुपशयो विपरीतोपशयश्चेति पित्तज्वरलिङ्गानि भवन्ति||२४||
+
+--------------------------------------------------------------------------------
+
+tasyemāni liṅgāni bhavanti; tadyathā- yugapadeva kevale śarīre jwarasyabhyagamanamabhivéddhirvā bhuktasya vidāhakāle madhyandinerdharātre śaradi vā viśeṣeṇa, kaṭukāsyatā, ghrāṇamukhakaṇṭhauṣṭhatālupākaḥ, tr̥ṣṇā, mado, bhramo, mūrcchā, pittacchardanaï, atīsāraḥ, annadvēṣaḥ, sadanaṁ, khedaḥ, pralāpaḥ, raktakoṭhābhinirvr̥ttiḥ śarīre, haritahāridrat-vaṁ nakhanayanavadanamūtrapurīṣatvacāï, atyarthamūṣmaṇ-astīvrabhāvaḥ, atimātraṁ dāhaḥ, śītābhiprāyatā, nidānoktānupaśayo viparītopaśayaśceti pittajwaraliṅgāni bhavanti||24||
+
+--------------------------------------------------------------------------------
+
+tasyemAni li~ggAni bhavanti; tadyathA- yugapadeva kevale sharIre jvarasyAbhyAgamanamabhivRuddhirvA bhuktasya vidAhakAle madhyandine~ardharAtre sharadivA visheSheNa, kaTukAsyatA, ghrANamukhakaNThauShThatAlupAkaH, tRuShNA, mado, bhramo, mUrcchA, pittacchardanam, atIsAraH, annadveShaH, sadanaM,khedaH, pralApaH, raktakoThAbhinirvRuttiH sharIre, haritahAridratvaM nakhanayanavadanamUtrapurIShatvacAm, atyarthamUShmaNastIvrabhAvaH, atimAtraMdAhaH, shItAbhiprAyatA, nidAnoktAnupashayo viparItopashayashceti pittajvarali~ggAni [3] bhavanti||24||
+
+--------------------------------------------------------------------------------
+
+The symptoms of this type of jwara include simultaneous high fever in the whole body, specially at the time during digestion of meals, midday, middle of the night or in the Autumn season. This type of fever leaves a pungent taste in the mouth, paka (ulceration or inflammation) of the nose, mouth, throat, lips and palate, unquenchable thirst, narcosis, giddiness, fainting, vomiting of pitta (bile), atisara (diarrhea), aversion to food, malaise, dejection, delirium, appearance of reddish patches in the body, green or yellow coloration in nails, eyes, mouth, urine, feces and skin, excessive migraine and burning sensation, desire for cold things, unsuitability of included factors in etiology and suitability of opposite ones – these symptoms are of pitta (or paittika ) jwara . [22-24]
+
+--------------------------------------------------------------------------------
+
+KAPHA DOMINANT JWARA
+
+--------------------------------------------------------------------------------
+
+CAUSES
+
+--------------------------------------------------------------------------------
+
+स्निग्धगुरुमधुरपिच्छिलशीताम्ललवणदिवास्वप्नहर्षाव्यायामेभ्योऽतिसेवितेभ्यः श्लेष्मा प्रकोपमापद्यते||२५||
+
+--------------------------------------------------------------------------------
+
+snigdhagurumadhurapicchilaśītāmlalavaṇadivāsvapnaharṣāvyāyāmebhyo´tisēvitebhyaḥ śleṣmā prakōpamāpadyate ||25||
+
+--------------------------------------------------------------------------------
+
+snigdhagurumadhurapicchilashItAmlalavaNadivAsvapnaharShAvyAyAmebhyo~atisevitebhyaH shleShmA prakopamApadyate||25||
+
+--------------------------------------------------------------------------------
+
+Excessive use of unctuous, heavy, sweet, slimy, cold, sour, salty substances, day sleep, joy and a sedentary lifestyle –vitiate sleshma or kapha . [25]
+
+--------------------------------------------------------------------------------
+
+PATHOGENESIS
+
+--------------------------------------------------------------------------------
+
+स यदा प्रकुपितः प्रविश्यामाशयमूष्मणा सह मिश्रीभूयाद्यमाहारपरिणामधातुं
+रसनामानमन्ववेत्य रसस्वेदवहानि स्रोतांसि पिधायाग्निमुपहत्य पक्तिस्थानादूष्माणं बहिर्निरस्य प्रपीडयन् केवलं शरीरमनुप्रपद्यते, तदा ज्वरमभिनिर्वर्तयति||२६||
+
+--------------------------------------------------------------------------------
+
+sa yadā prakupitaḥ praviśyāmāśayamūṣmaṇā saha miśrībh- ūyādyamāhārapariṇāmadhātuï rasanāmānamanvavetya rasa-svedavahāni srotāṁsi pidhāyāgnimupahatya paktisthānādūṣ-māṇaï bahirnirasya prapīḍayan kevalaï śarīramanupra-padyate, tadā jwaramabhinirvartayati||26||
+
+--------------------------------------------------------------------------------
+
+sa yadA prakupitaH pravishyAmAshayamUShmaNA sahamishrIbhUyAdyamAhArapariNAmadhAtuM rasanAmAnamanvavetya rasasvedavahAni srotAMsipidhAyAgnimupahatya paktisthAnAdUShmANaM bahirnirasya prapIDayan kevalaM sharIramanuprapadyate, tadA jvaramabhinirvartayati||26||
+
+--------------------------------------------------------------------------------
+
+The vitiated kapha enters the amashaya and gets mixed with the initial dhatu formed in the process, rasa , along with the digested food. This improperly formed rasa cause sluggish circulation and further block the micro channels of rasa and sweda . The core digestive agni gets displaced out of its original site ( pakti sthana ), spreading out through the body. As channels of sweat are blocked and are unable to dissipate the heat, temperature rises all over the body, causing jwara . [26]
+
+--------------------------------------------------------------------------------
+
+CLINICAL FEATURES
+
+--------------------------------------------------------------------------------
+
+तस्येमानि लिङ्गानि भवन्ति; तद्यथा- युगपदेव केवले शरीरे ज्वरस्याभ्यागमनमभिवृद्धिर्वा भुक्तमात्रे पूर्वाह्णे पूर्वरात्रे वसन्तकाले वा विशेषेण, गुरुगात्रत्वम्, अनन्नाभिलाषः, श्लेष्मप्रसेकः, मुखमाधुर्यं, हृल्लासः, हृदयोपलेपः, स्तिमितत्वं, छर्दिः, मृद्वग्निता, निद्राधिक्यं, स्तम्भः,तन्द्रा, कासः, श्वासः, प्रतिश्यायः, शैत्यं, श्वैत्यं च नखनयनवदनमूत्रपुरीषत्वचाम्, अत्यर्थं च शीतपिडका भृशमङ्गेभ्य उत्तिष्ठन्ति, उष्णाभिप्रायता, निदानोक्तानुपशयो विपरीतोपशयश्च; इति(श्लेष्मज्वरलिङ्गानि भवन्ति)||२७||
+
+--------------------------------------------------------------------------------
+
+tasyemāni liṅgāni bhavanti; tadyathā-yugapadeva kevale śarīre Jwarasyābhyāgamanamabhivr̥ddhirvā bhuktamātre pūrvāhṇe pūrvarātre vasantakāle vā viśeṣeṇa,gurugātratvaṁ,anannābhilāṣaḥ,śleṣmaprasekaḥ,mukhamādhuryaṁ,hr̥llāsaḥ,hr̥dayopalepaḥ,stimitatvaṁ,chardiḥ,mr̥dvagnitā,nidrādhikyaṁ,stambhaḥ,tandrā,kāsaḥ, śvāsaḥ,pratiśyāyaḥ,śaityaṁ,śvaityaṁ ca nakhanayanavadanamūtrapurīṣatvacāṁ, atyarthaṁ ca śītapiḍakā bhr̥śamaṅgebhya uttiṣṭhanti, uṣṇābhiprāyatā, nidānoktānupaśayo viparītopaśayaśca; iti (śleṣmajwaraliṅgāni bhavanti)||27||
+
+--------------------------------------------------------------------------------
+
+tasyemAni li~ggAni bhavanti; tadyathA- yugapadeva kevale sharIre jvarasyAbhyAgamanamabhivRuddhirvA bhuktamAtre pUrvAhNe pUrvarAtre vasantakAle vAvisheSheNa, gurugAtratvam, anannAbhilAShaH, shleShmaprasekaH, mukhamAdhuryaM, hRullAsaH, hRudayopalepaH, stimitatvaM, chardiH, mRudvagnitA,nidrAdhikyaM, stambhaH, tandrA, kAsaH, shvAsaH, pratishyAyaH, shaityaM, shvaityaM ca nakhanayanavadanamUtrapurIShatvacAm, atyarthaM ca shItapiDakAbhRushama~ggebhya [2] uttiShThanti, uShNAbhiprAyatA, nidAnoktAnupashayo viparItopashayashca; iti (shleShmajvarali~ggAni [3] bhavanti)||27||
+
+--------------------------------------------------------------------------------
+
+The symptoms of shleshmaja ( kaphaja ) jwara include the simultaneous onset of mild fever in the whole body, specially just after meals, forenoon, early night or spring season. This type of fever causes heaviness in the body, less desire to eat, excess secretion of shleshma (phlegm), sweet taste in the mouth, nausea, coating in the heart (causing wheezing), vomiting, mild appetite, excessive sleep or narcolepsy, stiffness, drowsiness, cough, dyspnea, coryza, coldness, whiteness in nails, eyes, face, urine and skin, urticarial patches in the body, desire to be subjected to heat, unsuitability of the described etiological factors and suitability of opposite to them. [27]
+
+--------------------------------------------------------------------------------
+
+SANNIPATIKA JWARA
+
+--------------------------------------------------------------------------------
+
+CAUSES
+
+--------------------------------------------------------------------------------
+
+विषमाशनादनशनादन्नपरिवर्तादृतुव्यापत्तेरसात्म्यगन्धोपघ्राणाद्विषोपहतस्य चोदकस्योपयोगाद्गरेभ्यो गिरीणां चोपश्लेषात् स्वेदवमनविरेचनास्थापनानुवासनशिरोविरेचनानामयथावत्प्रयोगात् मिथ्यासंसर्जनाद्वा स्त्रीणां च विषमप्रजननात् प्रजातानां च मिथ्योपचाराद्यथोक्तानां च हेतूनां मिश्रीभावाद्यथानिदानं द्वन्द्वानामन्यतमः सर्वे वा त्रयो दोषा युगपत् प्रकोपमापद्यन्ते,ते प्रकुपितास्तयैवानुपूर्व्या ज्वरमभिनिर्वर्तयन्ति||२८||
+
+--------------------------------------------------------------------------------
+
+viṣamāśanādanaśanādannaparivartādr̥tuvyāpatterasātmyagandhopaghrāṇādviṣopahatasyacodakasyopayogādgarebhyo girīṇāṁ copaśleṣāt snehasvedavamanavirecanāsthāpanānuvāsanaśirovirecanānāmayathāvatprayogāt mithyāsaṁsarjanādvā strīṇāṁ ca viṣamaprajananāt prajātānāṁ ca mithyopacārādyathoktānāṁ ca hetūnāṁ miśrībhāvādyathānidānaṁ dvandvānāmanyatamaḥ sarve vā trayodoṣā yugapat prakopamāpadyante,te prakupitāstayaivānupūrvyājwaramabhinirvartayanti ||28||
+
+--------------------------------------------------------------------------------
+
+viShamAshanAdanashanAdannaparivartAdRutuvyApatterasAtmyagandhopaghrANAdviShopahatasya codakasyopayogAdgarebhyo girINAM copashleShAtsnehasvedavamanavirecanAsthApanAnuvAsanashirovirecanAnAmayathAvatprayogAt mithyAsaMsarjanAdvA strINAM ca viShamaprajananAt prajAtAnAM camithyopacArAd yathoktAnAM ca hetUnAM mishrIbhAvAdyathAnidAnaM dvandvAnAmanyatamaH sarve vA trayo doShA yugapat prakopamApadyante, teprakupitAstayaivAnupUrvyA jvaramabhinirvartayanti||28||
+
+--------------------------------------------------------------------------------
+
+Irregular diet, fasting, change in regular meals, seasonal derangement, unsuitable odors, use of hilly water full of poisonous sediments, improper medication by ghee, oils and fats, medical fomentations, emesis, purgation, oily or decoction enema, nasal instillations, faulty diets after purification therapies, women undergoing abnormal delivery and inappropriate post-partum management - these are some of the etiological factors that have already been mentioned as causes of vitiation of doshas , that cause fever. [28]
+
+--------------------------------------------------------------------------------
+
+CLINICAL FEATURES
+
+--------------------------------------------------------------------------------
+
+तत्र तथोक्तानां ज्वरलिङ्गानां मिश्रीभावविशेषदर्शनाद्द्वान्द्विकमन्यतमं ज्वरं सान्निपातिकं वा विद्यात्||२९||
+
+--------------------------------------------------------------------------------
+
+Tatra tathoktānāṁ jwaraliṅgānāṁ miśrībhāvaviśeṣadarśanāddvāndvikamanyatamaṁ Jwaraṁ sānnipātikaṁ vā vidyāt ||29||
+
+--------------------------------------------------------------------------------
+
+tatra tathoktAnAM jvarali~ggAnAM mishrIbhAvavisheShadarshanAddvAndvikamanyatamaM jvaraM sAnnipAtikaM vA vidyAt||29||
+
+--------------------------------------------------------------------------------
+
+When the symptoms exhibit the dominance of two doshas , it is called sansrishta ( dwandaja ) jwara and in case all three doshas are vitiated, it is called sannipatika jwara (tridoshic fever). [29]
+
+--------------------------------------------------------------------------------
+
+AGANTU JWARA (EXOGENOUS FEVER)
+
+--------------------------------------------------------------------------------
+
+अभिघाताभिषङ्गाभिचाराभिशापेभ्य आगन्तुर्हि व्यथापूर्वोऽष्टमो ज्वरो भवति| स किञ्चित्कालमागन्तुः केवलो भूत्वा पश्चाद्दोषैरनुबध्यते|तत्राभिघातजो वायुना दुष्टशोणिताधिष्ठानेन,अभिषङ्गजःपुनर्वातपित्ताभ्याम्,अभिचाराभिशापजौ तु सन्निपातेनानुबध्येते||३०||
+
+--------------------------------------------------------------------------------
+
+abhighātābhiṣaṅgābhicārābhiśāpebhya
+āganturhi vyathāpūrvo´ṣṭamo jwaro bhavati.Sa kiñcitkālamāgantuḥ kevalo bhūtvā paścāddoṣairanubadhyate.Tatrābhighātajovāyunā duṣṭaśoṇitādhiṣṭhānena, abhiṣaṅgajaḥ punarvātapittābhyāï, abhicārābhiśāpajau tu sannipātenānubadhyete||30||
+
+--------------------------------------------------------------------------------
+
+bhighAtAbhiSha~ggAbhicArAbhishApebhya Aganturhi vyathApUrvo~aShTamo jvaro bhavati|
+sa ki~jcitkAlamAgantuH kevalo bhUtvA pashcAddoShairanubadhyate|
+tatrAbhighAtajo vAyunA duShTashoNitAdhiShThAnena, abhiSha~ggajaH punarvAtapittAbhyAm, abhicArAbhishApajau tu sannipAtenAnubadhyete||30||
+
+--------------------------------------------------------------------------------
+
+Agantuja jwara ( jwara caused due to exogenous factors) is the eighth type of fever. This fever is accompanied with pain and is often caused by trauma, association with evil, fascination, and wrath (of the wise and the elders). These causes directly manifest as fever without any prodromal symptoms for a transitional duration. Slowly, with the passage of time, doshas get vitiated and their effects manifest as above. Fevers caused due to trauma influence blood pathology, while association with evil afflicts vata and pitta , and fascination and wrath causes sannipata (and therefore, leads to an incurable condition). [30]
+
+--------------------------------------------------------------------------------
+
+SPECIFICATION OF EACH TYPE OF JWARA
+
+--------------------------------------------------------------------------------
+
+स सप्तविधाज्ज्वराद्विशिष्टलिङ्गोपक्रमसमुत्थानत्वाद्विशिष्टो वेदितव्यः,कर्मणा साधारणेन चोपचर्यते इत्यष्टविधा ज्वरप्रकृतिरुक्ता||३१||
+
+--------------------------------------------------------------------------------
+
+sasaptavidhājjvarādviśiṣṭaliṅgopakramasamutthānatvādviśiṣṭo veditavyaḥ,karmaṇÁ āsādhāraṇena copacaryate.Ityaṣṭavidhā jwaraprakr̥tiruktā||31||
+
+--------------------------------------------------------------------------------
+
+sa saptavidhAjjvarAdvishiShTali~ggopakramasamutthAnatvAdvishiShTo veditavyaH, karmaNA sAdhAraNena copacaryate [1] |
+ityaShTavidhA jvaraprakRutiruktA||31||
+
+--------------------------------------------------------------------------------
+
+All the seven doshic jwara have their own doshic specifications with respect to the onset, symptomatology, and treatment principles. The exception is the agantuja jwara (exogenous), which should be treated with appropriate consideration to the jwara ’s specific etiology. [31]
+
+--------------------------------------------------------------------------------
+
+SPECIFIC FEATURE AND CLASSIFICATION OF JWARA
+
+--------------------------------------------------------------------------------
+
+ज्वरस्त्वेकएवसन्तापलक्षणः| तमेवाभिप्रायविशेषाद्द्विविधमाचक्षते,निजागन्तुविशेषाच्च|तत्र निजं द्विविधं त्रिविधं चतुर्विधं सप्तविधं चाहुर्भिषजो वातादिविकल्पात्||३२||
+
+--------------------------------------------------------------------------------
+
+Jwarastvekaevasantāpalakṣaṇaḥ.Tamevābhiprāyaviśeṣāddvividhamācakṣate,nijāgantuviśeṣācca.Tatra nijaṁ dvividhaṁ trividhaṁ caturvidhaṁ saptavidhaṁ cāhurbhiṣajo vatādivikalpāt||32||
+
+--------------------------------------------------------------------------------
+
+jvarastveka eva santApalakShaNaH|
+tamevAbhiprAyavisheShAddvividhamAcakShate, nijAgantuvisheShAcca|
+tatra nijaM dvividhaM trividhaM caturvidhaM saptavidhaM cAhurbhiShajo vAtAdivikalpAt||32||
+
+--------------------------------------------------------------------------------
+
+Per doshic classification of jwara, santapa (excessively hot sensation) is of only one type common to all jwara . But according to other classifications it is of two types - nija (endogenous) and agantuja (exogenous). Nija again could be classified into two types ( saumya or mild) and agneya (high grade fever)), three types ( vatika, paitika, shleshmika ), four types ( vatika, paittika , sleshmika and agantuja ), or seven types ( vatika, paittika, shleshmika, vata-paittika, vata-shleshmika, pitta-shleshmika ). [32]
+
+--------------------------------------------------------------------------------
+
+GENERAL PREMONITORY FEATURES OF ALL JWARA
+
+--------------------------------------------------------------------------------
+
+तस्येमानि पूर्वरूपाणि भवन्ति; तद्यथा-मुखवैरस्यं,गुरुगात्रत्वम्, अनन्नाभिलाषः, चक्षुषोराकुलत्वम्,अश्र्वागमनं, निद्राधिक्यम्, अरतिः, जृम्भा, विनामः, वेपथुः,श्रमभ्रमप्रलापजागरणरोमहर्षदन्तहर्षाः,शब्दशीतवातातपसहत्वासहत्वम्,
+अरोचकाविपाकौ, दौर्बल्यम्, अङ्गमर्दः, सदनम्,
+अल्पप्राणता, दीर्घसूत्रता, आलस्यम्, उचितस्य कर्मणो हानिः, प्रतीपता स्वकार्येषु, गुरूणां वाक्येष्वभ्यसूया, बालेभ्यः प्रद्वेषः, स्वधर्मेष्वचिन्ता, माल्यानुलेपनभोजनपरिक्लेशनं,मधुरेभ्य भक्षेभ्यः प्रद्वेषः, अम्ललवणकटुकप्रियता
+च,इति ज्वरस्य पूर्वरूपाणि भवन्ति प्राक्सन्तात्;अपिचैनंसन्तापार्तमनुब||३३||
+
+--------------------------------------------------------------------------------
+
+tasyemāni pūrvarūpāṇi bhavanti; tadyathā-
+mukhavairasyaṁ, gurugātratvaṁ, anannābhilāṣaḥ, cakṣuṣorākulatvaṁ, aśrvāgamanaṁ, nidrādhikyam,
+aratiḥ, jr̥mbhā, vināmaḥ, vepathuḥ,
+śramabhramapralāpajāgaraṇaromaharṣadantaharṣāḥ, śabdaśītavātātapasahatvāsahatvaṁ,
+arocakāvipākau, daurbalyaṁ, aṅgamardaḥ, sadanaṁ,alpaprāṇatā, dīrghasūtratā, ālasyaṁ, ucitasya karmaṇo hāniḥ, pratīpatā svakāryēṣu, gurūṇāṁ vākyeṣvabhyasūyā, bālebhyaḥ pradveṣaḥ,svadharmeṣvacintā,mālyānulēpanabh-ojanaparikleśanaṁ,madhurebhyaśca bhakṣebhyaḥ pradveṣaḥ,amlalavaṇakaṭukapriyatā ca, iti jwarasyapūrvarūpāṇi bhavantiprāksantāpāt; api cainaṁ santāpārtamanubadhnanti||33||
+
+--------------------------------------------------------------------------------
+
+tasyemAni pUrvarUpANi bhavanti; tadyathA- mukhavairasyaM, gurugAtratvam, anannAbhilAShaH, cakShuShorAkulatvam, ashrvAgamanaM, nidrAdhikyam, aratiH,jRumbhA, vinAmaH, vepathuH, shramabhramapralApajAgaraNaromaharShadantaharShAH, shabdashItavAtAtapasahatvAsahatvam, arocakAvipAkau, daurbalyam,a~ggamardaH, sadanam, alpaprANatA, dIrghasUtratA, Alasyam, ucitasya karmaNo hAniH, pratIpatA svakAryeShu, gurUNAM vAkyeShvabhyasUyA, bAlebhyaHpradveShaH, svadharmeShvacintA, mAlyAnulepanabhojanaparikleshanaM, madhurebhyashca bhakShebhyaH pradveShaH, amlalavaNakaTukapriyatA ca, iti jvarasyapUrvarUpANi bhavanti prAksantApAt; api cainaM santApArtamanubadhnanti||33||
+
+--------------------------------------------------------------------------------
+
+Premonitory features of jwara include abnormal taste in the mouth, heaviness in the body, aversion to food, restless eyes, lacrymation, excessive sleep, restlessness body, yawning, bending, shivering, exhaustion (without exercise), giddiness, delirium, sometimes sleeplessness, horripilation, oversensitive teeth, tolerance and intolerance to sound, cold, wind and heat, anorexia, indigestion, weakness, body-ache, malaise, reduced vitality, mental agitations, lethargic, idleness, lack of natural activities, apathy to daily regimen, disrespect to the words of elders, agitation with children, aversion to doing work, uncomfortable with flowers and perfumes, aversion to sweet edibles, and desirous for sour, salty and pungent things. These premonitory symptoms rise before the onset of jwara and may continue through the course of the fever. [33]
+
+--------------------------------------------------------------------------------
+
+इत्येतान्येकैकशो ज्वरलिङ्गानि व्याख्यातानि भवन्ति विस्तरसमासाभ्याम्||३४||
+
+--------------------------------------------------------------------------------
+
+ityetānyekaikaśo Jwaraliṅgāni vyākhyātāni bhavanti vistarasamāsābhyām||34||
+
+--------------------------------------------------------------------------------
+
+ityetAnyekaikasho jvarali~ggAni vyAkhyAtAni bhavanti vistarasamAsAbhyAm||34||
+
+--------------------------------------------------------------------------------
+
+Thus the symptoms of separate single doshic jwara are described in details and double and triple doshic jwara are described in brief [34].
+
+--------------------------------------------------------------------------------
+
+CONSEQUENCES OF JWARA
+
+--------------------------------------------------------------------------------
+
+ज्वरस्तु खलु महेश्वरकोपप्रभवः,सर्वप्राणभृतां प्राणहरो,देहेन्द्रियमनस्तापकरः,प्रज्ञाबलवर्णहर्षोत्साहह्रासकरः,श्रमक्लममोहाहारोपरोधसञ्जननः; ज्वरयति शरीराणीति ज्वरः, नान्ये व्याधयस्तथा दारुणा बहूपद्रवा दुश्चिकित्स्याश्च यथाऽयम्| स सर्वरोगाधिपतिः, नानातिर्यग्योनिषु च बहुविधैः शब्दैरभिधीयते|सर्वे प्राणभृतः सज्वरा एव जायन्ते सज्वरा एव म्रियन्ते च; स महामोहः, तेनाभिभूताः प्राग्दैहिकं देहिनः कर्म किञ्चिदपि न स्मरन्ति, सर्वप्राणभृतां च ज्वर एवान्ते प्राणानादत्ते||३५||
+
+--------------------------------------------------------------------------------
+
+JwarastukhaluMaheśvarakopaprabhavaḥ,sarvaprāṇabhr̥tāṁprāṇaharo,dehendriyamanastāpakaraḥ,prajñābalavarṇaharṣotsāhahrāsakaraḥśramaklamamohā hāroparodhasañjananaḥ; jwarayati śarīrāṇīti jwaraḥ, nānye vyādhayastathā dāruṇā bahūpadravā duścikitsyāśca yathāyam.
+Sa sarvarogādhipatiḥ, nānātiryagyoniṣu ca bahuvidhaiḥ śabdairabhidhīyate.Sarve prāṇabhr̥taḥ sajvarā eva jāyante sajvarā eva mriyante ca; sa mahāmohaḥ, tenābhibhūtāḥ prāgdaihikaṁ dehinaḥ karma kiñcidapi na smaranti, sarvaprāṇabhr̥tāṁ ca jwara evānte prāṇānādatte||35||
+
+--------------------------------------------------------------------------------
+
+jvarastu khalu maheshvarakopaprabhavaH, sarvaprANabhRutAM prANaharo, dehendriyamanastApakaraH, praj~jAbalavarNaharShotsAhahrAsakaraH [1] ,shramaklamamohAh Aroparodhasa~jjananaH; jvarayati sharIrANIti jvaraH, nAnye vyAdhayastathA dAruNA bahUpadravA dushcikitsyAshca yathA~ayam|
+sa sarvarogAdhipatiH, nAnAtiryagyoniShu ca bahuvidhaiH shabdairabhidhIyate|
+
+--------------------------------------------------------------------------------
+
+Jwara occurs due to the wrath of Maheshwara. It could take away the life of all creatures, causes santapa (grief) in body, sense organs and mind. It reduces intellect, strength, complexion, feeling of happiness and enthusiasm and produces tiredness, fatigue, confusion, aversion to food. In fact, it is called jwara because it produces unhealthy effect in the body. No other disease is as frightful, complicated and difficult in treatment as this. That is why it is considered the king of all diseases. It is considered a life-giving force, since all living beings are born with fever (body temperature) and die with fever. It causes delirium. Afflicted living beings lose their memory of any event of their previous lives. In the end fever takes away the life of all creatures. [35]
+
+--------------------------------------------------------------------------------
+
+PRINCIPLES OF MANAGEMENT OF JWARA
+
+--------------------------------------------------------------------------------
+
+तत्र पूर्वरूपदर्शने ज्वरादौ वा हितं लघ्वशनमपतर्पणं वा, ज्वरस्यामाशयसमुत्थत्वात्;ततःकषायपानाभ्यङ्गस्नेहस्वेदप्रदेहपरिषेकानुलेपनवमनविरेचनास्थापनानुवासनोपशमननस्तःकर्म-धूपधूमपानाञ्जनक्षीरभोजनविधानं च यथास्वं युक्त्या प्रयोज्यम्||३६||
+
+--------------------------------------------------------------------------------
+
+tatra pūrvarūpadarśane jwarādau vā hitaṁ laghvaśanamapatarpaṇaṁ vā,jwarasyāmāśayasamutthatvāt; tataḥ
+kaṣāyapānābhyaṅgasnehasvedapradehapariṣekānulepanavamanavirecanāsthāpanānuvāsanopaśamananastaḥkarmadhūpadhūmapānāñjanakṣīrabhojanavidhānaṁ ca yathāsvaṁ yuktyā prayojyam||36||
+
+--------------------------------------------------------------------------------
+
+tatra pUrvarUpadarshane jvarAdau vA hitaM laghvashanamapatarpaNaM vA, jvarasyAmAshayasamutthatvAt; tataHkaShAyapAnAbhya~ggasnehasvedapradehapariShekAnulepanavamanavirecanAsthApanAnuvAsanopashamana-nastaHkarmadhUpadhUmapAnA~jjanakShIrabhojanavidhAnaM ca yathAsvaM yuktyA prayojyam||36||
+
+--------------------------------------------------------------------------------
+
+When premonitory symptoms manifest or at the onset of the fever, dieting or fasting is useful because the disease originates from the amashaya . In such a case, intake of kashaya (decoctions), massage, oleation ( snehana ), fomentation ( swedana ), thick ointment ( pradeha ), sprinkling ( parisheka ), anulepana (anointing with pastes), emesis , purgation , decoction and oily enema , pacification measures, nasal errhines , fumigation , medicated smoking, collyrium, medicated milk and a specific dietetic regimen should be indicated as per the condition. [36]
+
+--------------------------------------------------------------------------------
+
+MANAGEMENT PRINCIPLES OF JEERNA JWARA (CHRONIC FEVER)
+
+--------------------------------------------------------------------------------
+
+जीर्णज्वरेषु तु सर्वेष्वेव सर्पिषः पानं प्रशस्यते यथास्वौषधसिद्धस्य; सर्पिर्हि स्नेहाद्वातं शमयति, संस्कारात् कफं, शैत्यात् पित्तमूष्माणं च; तस्माज्जीर्णज्वरेषु सर्वेष्वेव सर्पिर्हितमुदकमिवाग्निप्लुष्टेषु द्रव्येष्विति||३७||
+
+--------------------------------------------------------------------------------
+
+भवन्ति चात्र-
+यथा प्रज्वलितं वेश्म परिषिञ्चन्ति वारिणा|
+नराः शान्तिमभिप्रेत्य तथा जीर्णज्वरे घृतम्||३८||
+
+--------------------------------------------------------------------------------
+
+स्नेहाद्वातं शमयति, शैत्यात् पित्तं नियच्छति|
+घृतं तुल्यगुणं दोषं संस्कारात्तु जयेत् कफम्||३९||
+
+--------------------------------------------------------------------------------
+
+नान्यः स्नेहस्तथा कश्चित् संस्कारमनुवर्तते|
+यथा सर्पिरतः सर्पिः सर्वस्नेहोत्तमं मतम्||४०||
+
+--------------------------------------------------------------------------------
+
+JÍrṇajwareṣu tu sarveṣveva sarpiṣaḥ pānaṁ praśasyate yathāsvauṣadhasiddhasya; sarpirhi snehādvātaṁ śamayati,saṁskārāt kaphaṁ,śaityāt pittamūṣmāṇaṁ ca;tasmājjīrṇajwareṣu sarveṣveva sarpirhitamudakamivāgnipluṣṭeṣu dravyeṣviti||37||
+
+--------------------------------------------------------------------------------
+
+Bhavanti cātra-
+yathā prajvalitaṁ veśma pariṣiñcanti vāriṇā.
+narāḥ śāntimabhipretya tathā jīrṇajware ghr̥taï||38||
+
+--------------------------------------------------------------------------------
+
+snehādvātaṁ śamayati, śaityāt pittaṁ niyacchati|
+ghr̥taṁ tulyaguṇaṁ dōṣaṁ saṁskārāttu jayet kaphaï||39||
+
+--------------------------------------------------------------------------------
+
+nānyaḥ snehastathā kaścit- saṁskāramanuvartate|
+yathā sarpirataḥ sarpiḥ sarvasnehottamaṁ matam||40||
+
+--------------------------------------------------------------------------------
+
+jIrNajvareShu tu sarveShveva sarpiShaH pAnaM prashasyate yathAsvauShadhasiddhasya; sarpirhi snehAdvAtaM shamayati, saMskArAt kaphaM, shaityAtpittamUShmANaM ca; tasmAjjIrNajvareShu sarveShveva sarpirhitamudakamivAgnipluShTeShu dravyeShviti||37||
+
+--------------------------------------------------------------------------------
+
+bhavanti cAtra- yathA prajvalitaM veshma pariShi~jcanti vAriNA|
+narAH shAntimabhipretya tathA jIrNajvare ghRutam||38||
+
+--------------------------------------------------------------------------------
+
+snehAdvAtaM shamayati, shaityAt pittaM niyacchati|
+ghRutaM tulyaguNaM doShaM saMskArAttu jayet kapham||39||
+
+--------------------------------------------------------------------------------
+
+nAnyaH snehastathA kashcit saMskAramanuvartate|
+yathA sarpirataH sarpiH sarvasnehottamaM matam||40||
+
+--------------------------------------------------------------------------------
+
+In all types of jirna jwara (chronic fever), internal use of medicated ghee prepared is recommended. Medicated ghee pacifies vata by its unctuousness, kapha by (ghee infused with) kapha pacifying drugs, and pitta by its coldness. Therefore, ghee is useful in all forms of jirna jwara like fire subsides with water. [37]
+
+--------------------------------------------------------------------------------
+
+Here are (the verses) –
+
+--------------------------------------------------------------------------------
+
+As water is sprinkled on burning houses to douse (the fire), ghee is administered to manage chronic fever. No other sneha (oil etc.) brings the refinement properties of sanskara (processing with drugs) as ghee and therefore it is said the best one of all the snehas . [38-40]
+
+--------------------------------------------------------------------------------
+
+RULE OF EXCEPTION FOR REPETITION OF TEXT
+
+--------------------------------------------------------------------------------
+
+गद्योक्तो यः पुनः श्लोकैरर्थः समनुगीयते|
+तद्व्यक्तिव्यवसायार्थं द्विरुक्तं तन्न गर्ह्यते||४१||
+
+--------------------------------------------------------------------------------
+
+Gadyokto yaḥ punaḥ ślokairarthaḥ samanugīyate.
+tadvyaktivyavasāyārthaṁ dviruktaṁ tanna garhyate||41||
+
+--------------------------------------------------------------------------------
+
+gadyokto yaH punaH shlokairarthaH samanugIyate|
+tadvyaktivyavasAyArthaM dviruktaM tanna garhyate||41||
+
+--------------------------------------------------------------------------------
+
+This subject of jwara has been put here in prose and is again put into the form of verses. The intention is to make the subject clear and understandable. Such repetitions should not be dismissed in disgust. [41]
+
+--------------------------------------------------------------------------------
+
+SUMMARY
+
+--------------------------------------------------------------------------------
+
+तत्र श्लोकाः-
+
+--------------------------------------------------------------------------------
+
+त्रिविधं नामपर्यायैर्हेतुं पञ्चविधं गदम्|
+गदलक्षणपर्यायान् व्याधेः पञ्चविधं ग्रहम्||४२||
+
+--------------------------------------------------------------------------------
+
+ज्वरमष्टविधं तस्य प्रकृष्टासन्नकारणम्|
+पूर्वरूपं च रूपं च भेषजं सङ्ग्रहेण च||४३||
+
+--------------------------------------------------------------------------------
+
+व्याजहार ज्वरस्याग्रे निदाने विगतज्वरः|
+भगवानग्निवेशाय प्रणताय पुनर्वसुः||४४||
+
+--------------------------------------------------------------------------------
+
+Tatra ślōkāḥ-
+trividhaṁ nāmaparyāyairhetuṁ pañcavidhaṁ gadam.
+gadalakṣaṇaparyāyān vyādheḥ pañcavidhaṁ graham||42||
+
+--------------------------------------------------------------------------------
+
+jwaramaṣṭavidhaṁ tasya prakr̥ṣṭāsannakāraṇam.
+pūrvarūpaṁ ca rūpaṁ ca bheṣajaṁ saṅgraheṇa ca||43||
+
+--------------------------------------------------------------------------------
+
+vyājahāra jwarasyāgre nidāne vigatajwaraḥ.
+bhagavānagniveśāya praṇatāya punarvasuḥ||44||
+
+--------------------------------------------------------------------------------
+
+tatra shlokAH- trividhaM nAmaparyAyairhetuM pa~jcavidhaM gadam|
+gadalakShaNaparyAyAn vyAdheH pa~jcavidhaM graham||42||
+
+--------------------------------------------------------------------------------
+
+jvaramaShTavidhaM tasya prakRuShTAsannakAraNam|
+pUrvarUpaM ca rUpaM ca bheShajaM sa~ggraheNa ca||43||
+
+--------------------------------------------------------------------------------
+
+vyAjahAra jvarasyAgre nidAne vigatajvaraH|
+bhagavAnagniveshAya praNatAya punarvasuH||44||
+
+--------------------------------------------------------------------------------
+
+To summarize,
+
+--------------------------------------------------------------------------------
+
+Three types of nidana of jwara , along with their synonyms, five types of diseases, symptoms and synonyms of diseases, five means to know the diseases, eight types of fever, its distant and immediate causes, premonitory symptoms, symptoms and medicament in short – all these were expounded by Lord Punarvasu (Atreya) to Agnivesha in this first chapter on the diagnosis of jwara . [42-44]
+
+--------------------------------------------------------------------------------
+
+Thus ends the first chapter on diagnosis of fever in Nidana Sthana in the treatise composed by Agnivesha and reducted by Charak. (1)
+
+--------------------------------------------------------------------------------
+
+TATTVA VIMARSHA (FUNDAMENTAL PRINCIPLES)
+
+--------------------------------------------------------------------------------
+
+[UL]
+• The causative factors, favorable conditions, dominant factors, and origins of jwara are important in the context of nidana . [3]
+• Somatic diseases could be caused due to soma ( kapha ), agni ( pitta ), and vayu ( vata ) – due to vitiation of single dosha , two doshas , or all three doshas . Psychiatric diseases are attributed to vitiation of rajas and tamas . [4]
+• A disease can be seen clinically as a consequence of toxins inside the body, and could be defined as that which inflicts fear, hampers quality of life, manifests with many signs, decreases life, affects the senses, cause pain, and makes life hard. [5]
+• The five key factors of jwara nidana that provide a complete view of a disease are etiology, premonitory signs, clinical features, pacifying factors, and pathogenesis. [6]
+• An ability to understand and observe unmanifested or premonitory signs is important to prevent the progression of a disease. [8]
+• The signs of a disease could take the form of a cardinal feature, a structural lesion, marks, or a systemic disorder. [9]
+• Pacification factors include diets, medications, and lifestyle regimen that help provide relief and comfort to the patient and are considered to be among the means to diagnose a disease. [10]
+• The pathogenesis of a disease includes numerical classification, types of diseases, knowledge of a dominant factor, and temporal factors (aggravation time and season).
+• Jwara is the primary change observed in body that initiates a disease process. [16]
+• All forms of jwara are caused due to vitiation of dosha , which in turn have various causative factors (for their vitiation). [17]
+• The important pathological events in process of jwara are as below: Vitiated doshas get accumulated in the amashaya i.e. site of first phase of digestion Next, these doshas mix with the undigested food material, in that heated environment, in the amashaya , vitiating the ahara rasa (just digested food) This vitiated rasa blocks the rasavaha and swedavaha strotas (channels) that regulate body heat.
+
+--------------------------------------------------------------------------------
+
+Consequently, there is an affliction of the digestion process and spreading of heat outside its natural location, causing a rise in body temperature [19-28]
+
+--------------------------------------------------------------------------------
+
+[UL]
+• Exogenous factors may cause jwara by vitiating rakta (blood), and/or dosha . [30]
+• Rise in temperature is a confirmative sign of jwara . [32]
+• The light to digest diet and reduction therapy shall be started as soon as premonitory signs of jwara are observed. [36]
+• The best advocated medicine for chronic jwara is Ghee due to its therapeutic efficacy of pacifying all three dosha . [37]
+
+--------------------------------------------------------------------------------
+
+VIDHI VIMARSHA (APPLIED INFERENCES)
+
+--------------------------------------------------------------------------------
+
+Treatment of any disease is possible only after the proper knowledge of causative factors and sign and symptoms. Treatment principles described in Nidana Sthana should be incorporated in the upashaya (pacification factors). Nidana means the causative factor of the diseases. The term vyadhibodhakam means the diagnosis of diseases with the help of nidana, poorvarupa, rupa, upashaya and samprapti . 1-2 [6]
+
+--------------------------------------------------------------------------------
+
+If diseases are not properly known, one cannot start the treatment. Therefore, Nidanapanchaka (the five factors associated with understanding an affliction) is described as the specific measures to diagnose the disease. [Cha.Sa. Nidana Sthana 1/6]
+
+--------------------------------------------------------------------------------
+
+Vagbhata also endorsed these five components as the means of understanding the disease. [6] [8]
+
+--------------------------------------------------------------------------------
+
+Several types of classifications of Nidana are as under:
+
+--------------------------------------------------------------------------------
+
+A.FIRST CLASSIFICATION
+
+--------------------------------------------------------------------------------
+
+There are four types of Nidana :
+
+--------------------------------------------------------------------------------
+
+[OL]
+• Sannikrishta (immediate causative factor): Immediate factors that cause afflication of a disease in a short span of time and do not require to wait for the different stages of doshaprakopa like chaya etc., are known as sannikrishta . Such factors do not require any help of other causative factors to produce the disease, though it is not an independent agent either.
+• Viprakrishta (delayed/ chronic causative factor): These factors do not cause the disease in a short span of time. These causative factors have to wait for increased, gradual accumulation of doshas to get strength. A threshold, once reached, triggers the onset of the disease. The example of this is the accumulation of kapha dosha during Hemanta ritu (early winter season), causing diseases seen in Vasanta ritu (spring season). Sannikrishta factors tend to use this foundation prepared by viprakrishta factors. As the diseases are immediately seen after the consumption of Sannikrishta factors, it gives the impression that the disease is caused only due to Sannikrishta factors. Thus, a disease cannot manifest independently by either Viprakrishta or Sannikrishta factors – it would require both.
+• Vyabhichari (weak causative factors or doubtful causative factors): These types of causative factors are weak and they may or may not be the etiological factors responsible for the disease. These could be secondary factors that require some other factor to afflict the patient, or could become a primary factor if the time is favorable.
+• Pradhanika (primary causative factor): These types of causes are the definite causes of disease due to their own strength. For example, poisons, severe trauma, etc. are considered as pradhanika hetu .
+
+--------------------------------------------------------------------------------
+
+B.SECOND CLASSIFICATION
+
+--------------------------------------------------------------------------------
+
+Per this classification, nidana could be of three types:
+
+--------------------------------------------------------------------------------
+
+[OL]
+• Asatmyendriyartha Samyoga (Abnormal contact of the Indriyas , i.e., sensory and motor organs): Excessive utilization, underutilization or improper utilization of sensory and motor organs with their objects is called as Asatmyendriyarth Samyoga .
+• Prajnaparadha (intellectual errors): The errors in one’s dhee (intellect), dhriti (restraint) and smriti (memory) lead to improper activitites. These result in improper activities of body, mind and speech leading to vitiation of dosha .
+• Parinama (changes in the timings and in age): Changes in weather conditions or climate could lead to changes in environment that cause disease. Also, as one ages, exposure to environmental elements could afflict a person adversely. These are collectively termed parinama .
+
+--------------------------------------------------------------------------------
+
+These three types of nidana of diseases imply that everyone has to use his sensory and motor organs in a proper way for maintaining health. Also, one should try to understand his/her own body and mind and exercise restraint or moderation wherever required intellect for his health - with regards to his body, mind and speech. Similarly, one should always behave and act according to the season, environment (location, etc.) and one’s age.
+
+--------------------------------------------------------------------------------
+
+C.THIRD CLASSIFICATION
+
+--------------------------------------------------------------------------------
+
+Another classification is as follows:
+
+--------------------------------------------------------------------------------
+
+[OL]
+• Doshahetu – These causes are directly responsible for the vitiation of doshas and that particular vitiated dosha becomes the cause of the disease.
+• Vyadhihetu – Such specific causative factors are directly responsible for the specific type of diseases. E.g., the use of sheetoshnaviparyaya (using hot and cold things at same time repeatedly) is a specific cause of kushtha (skin disease).
+• Ubhayahetu – These causes are responsible for the vitiation of doshas as well as specific diseases e.g. continuous intake of sweets, unctuous and heavy diet is the cause of kapha dushti ( doshahetu ), as well as for kapha dosha dominant disorders ( vyadhihetu ) like sthaulya (obesity) and madhumeha (diabetes).
+
+--------------------------------------------------------------------------------
+
+D. FOURTH CLASSIFICATION
+
+--------------------------------------------------------------------------------
+
+This classification describes nidana to be of two types:
+
+--------------------------------------------------------------------------------
+
+[OL]
+• Utpadakahetu : These are the direct and primary causes of diseases which do not require the support of any other causes like dietetic, behavioral, psychological, accident, poisons etc.
+• Vyanjakahetu – (The supportive causes of the diseases): These are the indirect causes of the diseases and become supportive to the utpadaka hetu . For example, the seasons, or time of the day (early morning, midday, evening, midnight) are the vyanjakahetu for various diseases.
+
+--------------------------------------------------------------------------------
+
+E.FIFTH CLASSIFICATION
+
+--------------------------------------------------------------------------------
+
+This classification describes nidana to be of two types:
+
+--------------------------------------------------------------------------------
+
+[OL]
+• Bahyahetu (external causative factors): The causative factors like abnormal diet, activities and seasonal effects which create the disease are termed as bahyahetu .
+• Abhyantarahetu (Internal causative factors): Imbalance of the dosha , dhatu and mala along with psycho-sensory dysfunctions as well malfunctions of agni are termed as abhyantarahetu .
+
+--------------------------------------------------------------------------------
+
+F.SIXTH CLASSIFICATION
+
+--------------------------------------------------------------------------------
+
+This classifies nidana into the following types:
+
+--------------------------------------------------------------------------------
+
+[OL]
+• Prakritahetu : Natural aggravation of doshas in the respective seasons and age is called as prakritahetu which does not cause the disease alone but with the help of other aggravating factors may cause the disease.
+• Vaikritahetu : If doshas are aggravated in the seasons other than their natural aggravation time and create the disease then they are termed as vaikritahetu . E.g. Aggravation of pitta dosha in Vasanta (spring) season. (natural aggravation time of pitta dosha is Sharada ritu .)(7) [ 1 ]
+
+--------------------------------------------------------------------------------
+
+POORVARUPA (PREMONITORY SIGNS)
+
+--------------------------------------------------------------------------------
+
+The earliest manifested symptoms (that are typically of less intensity) in any disease are termed as poorvarupa or prodromal symptoms of that disease. With time, some of these prodromal symptoms ( poorvarupas ) become more intense and become the primary symptoms ( rupa / lakshana ) of that disease. If all these prodromal symptoms become the main symptoms, then it indicates poor prognosis of the disease (i.e., the disease could be considered incurable or hardly curable). So, it is important that diseases do not show all the symptoms in their early stage, or a few of them should appear first with less intensity.
+
+--------------------------------------------------------------------------------
+
+There are two types of Poorvarupa :
+
+--------------------------------------------------------------------------------
+
+[OL]
+• Incomplete manifestation of the symptoms before the appearance of the disease.
+• Poorvarupa caused due to doshadushyasammurchana (interaction of vitiated dosha and dushya ) that are different from the previous ones. e.g. feeling of hatred towards children or horripilation seen in jwara . These types of poorvarupas are not seen when the jwara is manifested completely. But if they are seen then the prognosis of the disease is asadhyata (incurable). These signs are symptomatic of the diseases to be seen in the near future and do not indicate dosha predominance in that disease.
+
+--------------------------------------------------------------------------------
+
+In some acute diseases, the disease is presented directly with signs and symptoms. In these cases, the unmanifested form of the actual symptoms ( rupa ) described in the text should be treated as the poorvarupa of a disease. [Chakrapani on Cha.Sa. Nidana Sthana 1/8]
+
+--------------------------------------------------------------------------------
+
+Vagbhata opines that poorvarupa are signs and symptoms that appear earlier to the actual disease, not specifically assignable to the doshas as they are mild (not clearly recognizable) and few in number. [A.H. Nidhana Sthana. 1/3] This is also substantiated in the Ashtanga Sangraha [ 2 ] Gangadhara, commentator of Charak Samhita , describes two types of Poorvarupa :
+
+--------------------------------------------------------------------------------
+
+[OL]
+• Samanya Poorvarupa (general premonitory features): These are the general symptoms of disease which appear before the manifestation of the disease but do not indicate affliction of doshas .
+• Vishesha Poorvarupa (specific premonitory features): These are the general symptoms of disease which manifest before the manifestation of the disease and indicate involvement of doshas .[Gangadhar on Cha.Sa. Nidana Sthana .1/5]
+
+--------------------------------------------------------------------------------
+
+RUPA (CLINICAL SIGNS AND SYMPTOMS)
+
+--------------------------------------------------------------------------------
+
+Rupa indicates the specific characteristics of the disease as it progresses, such as the dominance of doshas , various stages viz., ama (immature), pakva (mature), etc. They however, do not include such other factors of diagnosis of the diseases like nidana, upashaya and samprapti .[Chakrapani on Cha.Sa. Nidana Sthana 1/9]
+
+--------------------------------------------------------------------------------
+
+Rupa includes the following signs and symptoms:
+
+--------------------------------------------------------------------------------
+
+[OL]
+• Invariable symptoms of the diseases like hyperpyrexia.
+• Symptoms caused by the vitiation of doshas like irregularity in onset and relief of attacks which is characteristic feature of fever caused by the vitiation of vata dosha .
+• Symptoms indicative of specific stages of the diseases like those observed during ama (immature), pakva (mature), and jeerna (chronic) stage.
+• Symptoms arise due to the complication of the diseases indicating their incurability.
+• Premonitary symptoms of the diseases.
+
+--------------------------------------------------------------------------------
+
+In present context, different synonyms of rupa have the same meaning but at other places these terms may have different meanings, as follows:
+
+--------------------------------------------------------------------------------
+
+[UL]
+• Linga : The pratyatma lakshanas (cardinal symptoms) of the disease are also known as linga . For example, copious amounts and high frequency of urine and turbidity of urine is linga of diabetes.
+• Akruti : Akruti means the shape, posture or appearance of the face and body of the patient in the state of illness or health. This is also indicative of the dosha associated with the disease. E.g. the appearance of the knee-joint looks like the head of jackal in Kroshtukashirsha .
+• Lakshana : Lakshana is the symptom felt by the patient only and physician can only know about it by asking to the patient. This is also called aturasamvedya (i.e., felt by the patient only). E.g. Heavinesss of head or abdomen, pain, constipation tingling sensation etc.
+• Chihna : Chihna refers to the signs that could be observed by the physician and termed as Vaidyasamvedya. Specific disease has specific signs. E.g. shwasakashtata (dysponea), coughing, hiccup, swelling etc.
+• Samsthana : the place of pathogenesis where sign and symptoms are prominently observable. In another context, it also means various bodily systems, such as respiratory system, CVS etc. E.g. hridashula, karnashula, udarashula etc.
+• Vyanjana : These include the mixed state of the sign and symptoms.
+• Rupa : could also mean the external appearance of the person which one could know during the inspection of the patient. E.g. pallor body indicative of pandu or kamala .
+
+--------------------------------------------------------------------------------
+
+Hence, all these above synonyms quoted are indicative of such symptomatology which is scattered in different diseases. Any one term is not sufficient to define the rupa or lakshana entirely therefore these different terms have been collectively described here. [9]
+
+--------------------------------------------------------------------------------
+
+UPASHAYA (PACIFICATION):
+
+--------------------------------------------------------------------------------
+
+Upashaya implies such factors that bring about happiness. It provides diagnostic aid for diseases which are otherwise difficult to diagnose. Upashaya is broadly divided in two groups:[Chakrapani on Cha.Sa. Nidana Sthana 1/10]
+
+--------------------------------------------------------------------------------
+
+[OL]
+• Drugs etc. that are antagonistic to the cause of the disease or the disease itself.
+• Drugs etc. that are not antagonistic either to the cause of the disease or to the disease itself but when employed, they actually alleviate the condition by counteracting either the disease or the cause of it.
+
+--------------------------------------------------------------------------------
+
+In addition to upashaya , there is another factor viz. anupashaya (…) which also helps in the diagnosis of diseases. But this is included under Nidana , hence not separately mentioned here.
+
+--------------------------------------------------------------------------------
+
+Classification of upashaya :
+
+--------------------------------------------------------------------------------
+
+[OL]
+• Hetu viparita aushadha (drugs antagonistic to the cause of the disease)
+• Hetu viparita anna (food which is antagonistic to the cause of the disease)
+• Hetu viparita vihara (regimen antagonistic to the cause of the disease)
+• Vyadhi viparita aushadha (drugs antagonistic to the disease itself)
+• Vyadhi viparita anna (food antagonistic to the disease)
+• Vyadhi viparita vihara (regimen antagonistic to the disease)
+• Hetu-vyadhi viparita aushadha (drugs antagonistic to the cause and disease)
+• Hetu-vyadhi viparita anna (food antagonistic to the cause and disease)
+• Hetu-vyadhi viparita vihara (regimen antagonistic to the cause and disease)
+• Hetu viparitarthakari aushadha (drugs which are working against the causative factors of the disease though not actually against)
+• Hetu viparitarthakari anna (food that acts contrary to the causative factors of the disease though not actually against)
+• Hetu viparitarthakari vihara (regimen which is working against the causative factors of the disease though not actually against)
+• Vyadhi viparitarthakari aushadha (drugs which are working against the disease though not actually against)
+• Vyadhi viparitarthakari anna (food which is working against the disease though not actually against)
+• Vyadhi viparitarthakari vihara (regimen which is working against the disease though not actually against)
+• Hetu-vyadhi viparitarthakari aushadha (drugs which seem to be working against the causative factors and the disease though not actually so; i.e., working as placebos)
+• Hetu-vyadhi viparitarthakari anna (food which is working against the causative factors and the disease though not actually, i.e., working as placebo)
+• Hetu-vyadhi viparitarthakari vihara (regimen which is working against the causative factors and the disease though not actually against.) [Chakrapani on Cha.Sa. Nidana Sthana 1/10]
+
+--------------------------------------------------------------------------------
+
+VARIOUS EXAMPLES OF UPASHAYA :
+
+--------------------------------------------------------------------------------
+
+[TABLE]
+Upashaya | Aushadha | Anna | Vihar
+Hetu viparita | Usage of shunthi in sheeta kaphaja jwara due to its hotness. | Intake of meat juice in case of vata jwara and fatigue | Remaining awake at night in aggravation of kapha dosha due to day sleeping
+Vyadhi viparita | Use of antidiarrheal drugs like Patha etc. in diarrhea | Intake of food like masur etc. in diarrhoea due to its antidiarrheal property. | Pravahana improving downwards peristalsis is the treatment for udavarta rogi
+Hetu-vyadhi viparita | Usage of dashmoola qwath in case of vataja jwara due to its vatahara and shothhara property | Usage of hot substances and antipyretic gruel against sheetotthajwara, which subsides cold and fever. | Night awakening etc. which brings roughness in case of tandra, which is the result of consumption of Slimy substances followed by day sleeping.
+Hetu viparitarthakari | Usage of vrishya drugs like pippali, shunthi etc. in case of shukrakshaya due to intake of excess pungent substances. | Usage of food substances which are hot in pachyamana shoth caused due to pitta dosha . | Inducing fear to the patients who are suffering from vataja unmada.
+Vyadhi viparitarthakari | Usage of emetic drugs like madanaphala in case of chardi (vomitting) | Intake of milk in case of atisar, which induces purgation. | Inducing vomiting by external support in case of chardi.
+Hetu-vyadhi viparitarthakari | Use of hot drugs like agaru dravya lepa in case of agniplushta dagdha (burn due to fire). | Usage of intoxicating alcohol against alcoholism induced due to consumption of excessive alcohol. | Swimming therapy advised in the form of exercise in case of vatavyadhi manifested due to excessive exercise
+
+--------------------------------------------------------------------------------
+
+Vagbhata defines upashaya as satmya (compatible). [A.H Nidana Sthana.1/6]
+
+--------------------------------------------------------------------------------
+
+In nutshell, upashaya is the therapeutic test that is helpful in diagnosing the doubtful stages of different diseases. This is adopted during differential diagnoses of the disease. [10]
+
+--------------------------------------------------------------------------------
+
+SAMPRAPTI (PATHOGENESIS)
+
+--------------------------------------------------------------------------------
+
+Samprapti is a compound word meaning samyak aapti / prapti i.e. complete manifestation of a disease or the stage where the disease could be understood well. This pathogenesis explains the pattern of disequilibrium of dosha interacting with body tissues and thus, gives a clearer picture of disease. This covers all the six stages ( chayaprakopadi ) of the disease as told by Sushruta and the physician gets a complete understanding of the nidanas (causes), poorvarupas, rupas and upashayanupashaya with the help of samprapti . Mostly patients come to physician when the process of samprapti is completed and at that time there may not be any existence of nidanas or poorvarupas .
+
+--------------------------------------------------------------------------------
+
+Jati is a synonym of samprapti that indicates the janan (genesis) of the disease as explained above.
+
+--------------------------------------------------------------------------------
+
+Aagati : Literally means the manifestation and remission of the disease. In this process of disease manifestation ( samprapti ), the physician gets the knowledge in the form of qualitative and quantitative progress of the disease.
+While the symptoms of a disease manifest completely after pathogenesis ( samprapti ), still for the purpose of diagnosis, the knowledge of samprapti is not as important as the knowledge of linga (symptoms). Hence samprapti is described at the end. [Chakrapani on Cha.Sa. Nidana Sthana 1/11]
+
+--------------------------------------------------------------------------------
+
+Vagbhata has defined these synonyms as: “The process of manifestation of the disease, by the morbid doshas (humors) which are circulating all over the body, is known as samprapti or jati or agati . [A.H Nidana Sthana 1/8] [ 3 ] [11]
+
+--------------------------------------------------------------------------------
+
+In order to allay the apprehension of incomplete description of samprapti for each disease, the samprapti in general of all diseases is described here in this chapter.[Chakrapani on Cha.Sa. Nidana Sthana 1/11]
+
+--------------------------------------------------------------------------------
+
+Vagbhata has not described vidhi samprapti . He has described only five kinds of samprapti i.e. samkhya, vikalpa, pradhanya, bala and kala samprapti . [A.H Nidana Sthana 1/9] [ 3 ] Pradhanya samprapti indicates the primacy of a samprapti . [A.H Nidana Sthana 1/10] [ 3 ] When a dosha gets vitiated and becomes a causative factor of a disease, it does not necessarily mean that all its attributes also get vitiated. Vitiation of vata for example may mean aggravation of its coldness, lightness or ununctuousness.
+
+--------------------------------------------------------------------------------
+
+Kala samprapti means the type that is governed by seasonal variations. Aggravation/ manifestation of shleshmika/kaphaja type of fever during winter season is the example of seasonal variation. Some Ayurveda practitioners attribute an extreme form of manifestation to deeds in the patient’s past life, and define vidhi samprapti as an affliction attributed to such deeds. [Chakrapani on Cha.Sa. Nidana Sthana 1/11] The timing of disease manifestation shows variation in the samprapti or pathogenesis. This aspect of samprapti helps in clearly determining the specific characteristics of a disease.
+
+--------------------------------------------------------------------------------
+
+Vagbhata describes that bala samprapti is important to assess the severity of disease. [A.H Nidana Sthana 1/11] [ 3 ] [12-5]
+
+--------------------------------------------------------------------------------
+
+SIGNIFICANCE OF KNOWLEDGE OF NIDANA
+
+--------------------------------------------------------------------------------
+
+[OL]
+• Knowledge of causative factors plays an important role in the prognosis of diseases. A disease becomes more difficult to cure with the rise in number of causative factors responsible for the diseases. [Cha.Sa. Sutra Sthana 10/14]
+• Nidanaparivarjana i.e. avoiding the causative factors of disease is the key principle professed here for the management of diseases. So in the absence of knowledge of causative factors, the management of the diseases will become difficult. [Cha.Sa. Vimana Sthana 7/30]
+• Treatment of disease incorporates the use of drugs, food articles and regimen having opposite properties to that of causative factors which is not possible without knowledge of causative factors.
+• To treat the newly originated diseases, a physician should have the knowledge of the involved doshas , causative factors and the location of the disease.
+
+--------------------------------------------------------------------------------
+
+SIGNIFICANCE OF KNOWLEDGE OF POORVARUPA
+
+--------------------------------------------------------------------------------
+
+[OL]
+• Charak Samhita suggests specific modalities for treatment of a patient at this stage. E.g. Light food and apatarpana treatment should be give when premonitory signs of fever are seen.
+• Manifestation of all the premonitory signs indicates bad prognosis of the disease.
+• Poorvarupa has significant role in the differential diagnosis of the disease.
+
+--------------------------------------------------------------------------------
+
+SIGNIFICANCE OF KNOWLEDGE OF RUPA
+
+--------------------------------------------------------------------------------
+
+[OL]
+• It has the same importance as that of nidana and poorvarupa in the prognosis of diseases. Rise in number of rupa makes the disease difficult to cure.
+• Rupa denotes the complete manifestation of the disease along with its dosha predominance. The diseases can be treated in a proper way if one is having the knowledge of all the sign and symptoms and the dosha responsible for it.
+
+--------------------------------------------------------------------------------
+
+SIGNIFICANCE OF KNOWLEDGE OF UPASHAYA
+
+--------------------------------------------------------------------------------
+
+[OL]
+• Knowledge of upashaya is helpful in differential diagnosis of diseases.
+• It also helps in identifying the diseases which are not clearly manifested.
+
+--------------------------------------------------------------------------------
+
+SIGNIFICANCE OF KNOWLEDGE OF SAMPRAPTI
+
+--------------------------------------------------------------------------------
+
+[OL]
+• Samprapti provides the details of the diseases such as dosha predominance, predominance of one or the other fraction of the three doshas , specific time of aggravation, and manifestation of diseases which plays a pivotal role in the management of diseases.
+• The important role of a physician in the management of diseases is sampraptibhanga i.e. to break the association of vitiated dosha and dushya (tissue that gets vitiated). This is not possible without proper knowledge of samprapti .
+
+--------------------------------------------------------------------------------
+
+NIDANAPANCHAKA AND SHAT KRIYAKALA
+
+--------------------------------------------------------------------------------
+
+Sushruta described six stages of dosha vitiation and progression of disease known as shat kriyakala (periods of activity). They are as under:
+
+--------------------------------------------------------------------------------
+
+[UL]
+• Sanchaya (accumulation): In this stage dosha undergo mild increase at their own site. This accumulation produces mild symptoms. If the person recognises these instincts and acts accordingly, the doshas can be brought to the normal condition without much effort. [Su.Sa.Sutra Sthana 21/18] [ 4 ]
+• Prakopa (aggravation): In this stage, doshas gets vitiated further at their own site and exhibit some specific symptoms. By suitable changes in daily routine one can overcome these conditions. [Su.Sa.Sutra Sthana 21/27] [ 4 ]
+• Prasara (spreading): The status of doshas again increases further and doshas spread nearby sites and invade the sites of other doshas to produce symptoms. If the person continues to indulge in unhealthy food and regimen, then the disease progresses to the next stage. [Dalhana on Su.Sa.Sutra Sthana 21/32] [ 4 ]
+
+--------------------------------------------------------------------------------
+
+During the first three stages, the unhealthy food and activities increases the doshas and produces mild abnormalities. These three stages can be co-related with nidana ( hetu ) of nidanapanchaka .
+
+--------------------------------------------------------------------------------
+
+[UL]
+• Sthanasanshraya (localisation): The increased doshas start accumulating at certain other places and lead to their abnormalities, especially in the srotasa . It leads to four kinds of abnormal changes in srotasa . [Su.Sa.Sutra Sthana 21/36] Atipravritti – Increased functioning of channels Sanga – Obstruction, blockage of channels Sira-Granthi – Abnormal growths in the channels Vimargagamana – Movement of fluids in wrong direction
+
+--------------------------------------------------------------------------------
+
+The site where these doshas lodge together to progress towards disease, is the site of origin of disease. This is the stage of actual commencement of the disease. It is characterized by manifestation of some moderate symptoms which indicate the forthcoming disease. These are known as poorvarupa . This stage can be co-related with poorvarupa of nidanapanchaka . [Dalhana on Su. Sa. Sutra Sthana 21/33] [ 4 ]
+
+--------------------------------------------------------------------------------
+
+[UL]
+• Vyakti (manifestation): This is the stage of full manifestation of the disease with all its characteristic sign and symptoms. These sign and symptoms are known as rupa . This stage can be co-related with rupa of nidanapanchaka . [Dalhana on Su. Sa. Sutra Sthana 21/34] [ 4 ]
+
+--------------------------------------------------------------------------------
+
+[UL]
+• Bheda (complication): In this stage, the abnormalities become more profound and irreversible in spite of the best treatment. Sometimes upadravas (complications) or arishta lakshanas (bad prognostic signs) can be seen in this stage. This stage also can be co-related with rupa of nidanapanchaka . [Dalhana on Su. Sa. Sutra Sthana 21/35] [ 4 ]
+
+--------------------------------------------------------------------------------
+
+The abnormal changes taking place in the body after exposure to the causative factors up to the manifestation of the disease is called as samprapti . This includes progress of the disease from first to sixth kriyakala .
+
+--------------------------------------------------------------------------------
+
+INTERRELATION BETWEEN NIDANAPANCHAKA AND SHATKRIYAKALA
+
+--------------------------------------------------------------------------------
+
+[TABLE]
+Sr. No. | Shatkriyakala | Nidanapanchaka
+1 | Sanchaya | Hetu (Nidana) | SAMPRAPTI ⇩
+2 | Prakopa
+3 | Prasara
+4 | Sthanasanshraya | Poorvarupa
+5 | Vyakti | Rupa, Upashaya
+6 | Bheda
+
+--------------------------------------------------------------------------------
+
+SHATKRIYAKALA OF JWARA AS COMPARED WITH PATHOGENESIS OF FEVER
+
+--------------------------------------------------------------------------------
+
+[TABLE]
+Sr. No. | Shatkriyakala | Condition as per dosha | In Fever
+ | Sanchaya | it is the stage of accumulation or the stage which represents the inceptive phase of the disease wherein the dosha are stated to have accumulated and stagnated in its own place instead of freely circulating as in its normal avastha or phase. | it is the pyrogen which may be exogenous (bacterial substance lipopolysaccharide (LPS) present on bacterial cell wall) or endogenous (cytokines, Interleukin-1 and Interleukin-6 etc). These pyrogens enter the body and activate the immune cells (antigen presenting cell) for the formation of cytokines and other factors or due to endogenous cause too activation of immune system takes place.
+ | Prakopa | In this stage dosha gets vitiated or aggravated or the dosha previously accumulated/ stagnated get swollen and excited Vilayana here means bonding (samhata) is loss and dosha gets released. | Exogenous factors contain immunological protein called lipo-polysaccharide binding protein (LBP) which binds to LPS. The LBP-LPS complex then binds to the CD14 receptors of a nearby macrophage. It causes synthesis and release of various endogenous cytokines factors such as IL-1, IL-6, Tumour Necrosing Factor alpha (TNFα).
+ | Prasara | The third phase signifies to spread which generally takes place with help of vata and rakta . Dosha are stated to spread over and extend to other parts of the body. | the cytokine factors are released into general circulation, where they migrate to the cytokine factors are released into general circulation, where they migrate to the circumventricular organs of the brain due to easier absorption caused by the blood–brain barrier's reduced filtration action there. The cytokine factors then bind with endothelial receptors on vessel walls, or interact with local microglial cells. When these cytokine factors bind, the arachidonic acid pathway is then activated. Prostaglandin E2 (PGE2) is released which is mediated by the enzymes phospholipase A2 (PLA2), cyclooxygenase-2 (COX-2), and prostaglandin E2 synthase.
+ | sthanasanshrayam | It is prodromal phase or the phase of poorvarupa wherein disease is yet to be manifested fully. The excited dosha having extended to other parts of the body become localized and it marks the beginning of specific diseases pertaining to those sthan/ structures. It is also known as the stage of disease augmentation. Sthana samshraya means taking shelter in a place. | PGE2 is the ultimate mediator of the febrile response. PGE2 acts on neurons in the preoptic area (POA) through the prostaglandin E receptor 3 (EP3). EP3-expressing neurons in the POA innervate the dorsomedial hypothalamus (DMH), the rostral raphe pallidus nucleus in the medulla oblongata (rRPa), and the paraventricular nucleus (PVN) of the hypothalamus. Fever signals sent to the DMH and rRPa lead to stimulation of the sympathetic output system, which evokes non-shivering thermo-genesis to produce body heat and skin vasoconstriction to decrease heat loss from the body surface. It is presumed that the innervations from the POA to the PVN mediates the neuroendocrine effects of fever through the pathway involving pituitary gland and various endocrine organs.
+ | Vyakti | This stage may be stated to be that of manifestation of the fully developed disease- the resultant dosha dushya samurchana | the brain ultimately orchestrates heat effector mechanisms via the autonomic nervous system. It causes increased heat production by increased muscle tone, shivering and hormones like epinephrine (adrenaline) and also prevents heat loss by way of vasoconstriction.
+ | Bheda | It is the stage in which the disease may become sub-acute and chronic or incurable. Different types or variant of disease gets manifested. | In case of fever signs like increased blood pressure, neck stiffness, headache, giddiness, unconsciousness etc are seen in this phase.
+
+--------------------------------------------------------------------------------
+
+RELATED CHAPTERS
+
+--------------------------------------------------------------------------------
+
+Jwara Chikitsa , Jwara
+
+--------------------------------------------------------------------------------
+
+Send us your suggestions and feedback on this page.
+
+--------------------------------------------------------------------------------
+
+REFERENCES
+
+--------------------------------------------------------------------------------
+
+[OL]
+• ↑ Madhavakar, Madhava Nidanam, Chap.1, Pancha Nidanalakshanam, Verse 8. In: Prof. Yadunandana Upadhyaya, Editor. Madhava Nidanam. 30th ed. Varanasi: Chaukhambha Sanskrit Sansthana; 2000.p.196.
+• ↑ Vridha Vagbhata. Nidana Sthana, Cha.1 Sarvaroganidana Adhyaya verse 11. In: D V Pandit Rao, Editor. Ashtanga Sangraha. 1st ed. New Delhi: CCRAS;1991
+• ↑ 3.0 3.1 3.2 3.3 Vagbhata. Ashtanga Hridayam. Edited by Harishastri Paradkar Vaidya. 1st ed. Varanasi: Krishnadas Academy;2000.
+• ↑ 4.0 4.1 4.2 4.3 4.4 4.5 Sushruta. Sushruta Samhita. Edited by Jadavaji Trikamji Aacharya. 8th ed. Varanasi: Chaukhambha Orientalia;2005.
+
+--------------------------------------------------------------------------------
+
+
+
+================================================================================
+END OF CHAPTER
+================================================================================

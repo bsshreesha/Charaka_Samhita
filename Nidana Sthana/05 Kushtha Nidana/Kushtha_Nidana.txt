@@ -1,0 +1,765 @@
+================================================================================
+CHARAKA SAMHITA
+KUSHTHA NIDANA
+================================================================================
+
+Source URL: https://www.carakasamhitaonline.com/index.php?title=Kushtha_Nidana
+
+
+--------------------------------------------------------------------------------
+
+KUSHTHA NIDANA
+
+--------------------------------------------------------------------------------
+
+
+
+--------------------------------------------------------------------------------
+
+Nidana Sthana Chapter 5. Diagnosis and etiopathogenesis of Skin diseases
+
+--------------------------------------------------------------------------------
+
+[TABLE]
+Section/Chapter | Nidana Sthana Chapter 5
+Preceding Chapter | Prameha Nidana
+Succeeding Chapter | Shosha Nidana
+Other Sections | Sutra Sthana , Vimana Sthana , Sharira Sthana , Indriya Sthana , Chikitsa Sthana , Kalpa Sthana , Siddhi Sthana
+Translator and commentator | Baghel M.S., Mandal S.K.
+Reviewer | Nimbalkar R.
+Editors | Khandel S.K, Godatwar P., Deole Y.S. , Basisht G.
+Year of publication | 2020
+Publisher | Charak Samhita Research, Training and Skill Development Centre
+DOI | 10.47468/CSNE.2020.e01.s02.006
+
+--------------------------------------------------------------------------------
+
+Abstract
+
+--------------------------------------------------------------------------------
+
+This chapter deals with diagnosis of skin disease termed as Kushtha. The disease has variable manifestations on skin depending upon degree of involvement of three vitiated dosha and their effect on four vitiated factors i.e. rasa , rakta , mamsa and lasika (lymphatic system). On the basis of clinical manifestations and severity, kushtha is classified into seven major types, eleven minor types or innumerable types due to the permutation and combination of dosha predominance and involvement of particular quality of a dhatu and accretion of dosha at different sites. The etiopathology, prodromal symptoms (purvarupa), symptomatology of seven major types of kushtha (maha-kushtha), their dosha predominance, prognosis, complications and significance of early treatment are described in this chapter. Keywords : Kushtha, Mandal, Kapala, Kakanak, Audambar, Rishyajihva, Pundareeka, Sidhma , causes of skin diseases, discoloration of skin.
+
+--------------------------------------------------------------------------------
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+--------------------------------------------------------------------------------
+
+CONTENTS
+
+--------------------------------------------------------------------------------
+
+[UL]
+• 1 Introduction
+• 2 Sanskrit Text, Transliteration and English Translation 2.1 Pathogenic factors in kushtha 2.2 Possible types of kushtha 2.3 Seven types of kushtha 2.4 Common etiological factors of kushtha 2.5 Premonitory signs of kushtha 2.6 Specific features of kapala kushtha 2.7 Audumbara kushtha 2.8 Mandala kushtha 2.9 Rishyajihva kushtha 2.10 Pundarika kushtha 2.11 Sidhma kushtha 2.12 Kakanaka kushtha 2.13 Prognosis 2.14 Complications of kushtha 2.15 Summary
+• 3 Tattva Vimarsha (Fundamental Principles)
+• 4 Vidhi Vimarsha (Applied Inferences) 4.1 Causes of kushtha 4.2 Classification of kushtha 4.3 Layers of skin 4.4 Dosha specific variation in kushtha 4.5 Prognosis of kushtha 4.6 Research works on kushtha
+• 5 Related Chapters
+
+--------------------------------------------------------------------------------
+
+INTRODUCTION
+
+--------------------------------------------------------------------------------
+
+The term 'kushtha' literally means disfigurement of skin. Thus all the dermatological manifestations have been clubbed under the term kushtha. For which Charak has devoted two full chapters, the fifth chapter in Nidana Sthana dealing with the etiopathogenesis and the seventh chapter in the Chikitsa Sthana deals with etiopathogenesis and treatment. Dermatological diseases have been classified into four groups, which include seven types of kushtha (dermatosis), seven types of visarpa (a form of acute dermatitis like erysipelas), seven types of pidaka (papular presentations) and three types of kilasa (vitiligo) ( Sutra Sthana 19/3). However, looking to the clinical importance, acuteness and progression, one full chapter has been devoted to visarpa , one of the major dermatological conditions. [Cha.Sa. Chikitsa Sthana 21] Some other clinical presentations like Urticaria ( udarda, kotha ), nilika (bluish discoloration of the skin), tilalklaka (mole), piplu (port wine mark on skin), vyanga etc. have also been explained briefly at other places. Detailed description and classification of pidaka (papules) is given in the seventeenth chapter of Sutra Sthana .
+
+--------------------------------------------------------------------------------
+
+Some scholars like William Monier and others have translated the word kushtha as leprosy which is incorrect, because skin manifestations of advanced kushtha resemble leprosy, but there is absence of Mycobacterium leprea. In advanced stages of kushtha, secondary infection with bacteria occurs ( jantudagdha or eaten by microorganism). Skin disorders are innumerable, and accordingly a broad pathogenesis and management has been described. Among the two broad groups, Mahakushtha (major dermatosis) has seven types which include the conditions where all the seven pathological components are involved. The disease progresses beyond the skin and may lead to destruction of limbs. Whereas kshudra-kushtha (minor dermatosis) has eleven types which includes the conditions where some of the seven pathological components are involved, have few symptoms, disease runs a chronic course and is usually curable. kushtha is described in such a fashion that it may explain any of the dermatological conditions of present era. Their pathological features can be ascertained and treatment protocol can be established.
+
+--------------------------------------------------------------------------------
+
+The concept of micro-organism and parasitology was established by Charak and he had the knowledge that micro-organisms are responsible for the causation of dermatological manifestations [Cha.Sa. Vimana Sthana 7/11]. Their treatment is to be followed like the treatment of kushtha. In the symptomatology of kushtha presence of krimi is described as one of the symptoms, which denotes visible worms usually maggots ( samsvedaja krimi ).
+
+--------------------------------------------------------------------------------
+
+SANSKRIT TEXT, TRANSLITERATION AND ENGLISH TRANSLATION
+
+--------------------------------------------------------------------------------
+
+अथातः कुष्ठनिदानं व्याख्यास्यामः||१||
+
+--------------------------------------------------------------------------------
+
+इति ह स्माह भगवानात्रेयः||२||
+
+--------------------------------------------------------------------------------
+
+athātaḥ kuṣṭhanidānaṁ vyākhyāsyāmaḥ||1||
+
+--------------------------------------------------------------------------------
+
+iti ha smāha bhagavānātrēyaḥ||2||
+
+--------------------------------------------------------------------------------
+
+athAtaHkuShThanidAnaMvyAkhyAsyAmaH||1||
+
+--------------------------------------------------------------------------------
+
+iti ha smAhabhagavAnAtreyaH||2||
+
+--------------------------------------------------------------------------------
+
+Now we shall expound the chapter "Kushtha Nidana" (Diagnosis and etiopathogenesis of Skin diseases). Thus said Lord Atreya.[1-2]
+
+--------------------------------------------------------------------------------
+
+PATHOGENIC FACTORS IN KUSHTHA
+
+--------------------------------------------------------------------------------
+
+सप्त द्रव्याणि कुष्ठानां प्रकृतिर्विकृतिमापन्नानि भवन्ति|
+तद्यथा- त्रयो दोषा वातपित्तश्लेष्माणः प्रकोपणविकृताः, दूष्याश्च शरीरधातवस्त्वङ्मांसशोणितलसीकाश्चतुर्धा दोषोपघातविकृता इति|
+एतत् सप्तानां सप्तधातुकमेवङ्गतमाजननं कुष्ठानाम्, अतःप्रभवाण्यभिनिर्वर्तमानानि केवलं
+शरीरमुपतपन्ति||३||
+
+--------------------------------------------------------------------------------
+
+sapta dravyāṇi kuṣṭhānāṁ prakr̥tirvikr̥timāpannāni [1] bhavanti|
+tadyathā- trayō dōṣā vātapittaślēṣmāṇaḥ prakōpaṇavikr̥tāḥ, dūṣyāścaśarīradhātavastvaṅmāṁsaśōṇitalasīkāścaturdhā [2] dōṣōpaghātavikr̥tā iti|
+ētat saptānāṁ saptadhātukamēvaṅgatamājananaṁ kuṣṭhānām, ataḥprabhavāṇyabhinirvartamānānikēvalaṁ śarīramupatapanti||3||
+
+--------------------------------------------------------------------------------
+
+saptadravyANikuShThanAMprakRutirvikRutimApannAnibhavanti| tadyathA- trayodoShAvAtapittashleShmANaHprakopaNavikRutAH, dUShyAshcasharIradhAtavastva~gmAMsashoNitalasIkAshcaturdhAdoShopaghAtavikRutAiti| etatsaptadhAtukameva~ggatamAjananaMkuShThanAm, ataHprabhavANyabhinirvartamAnAnikevalaMsharIramupatapanti||3||
+
+--------------------------------------------------------------------------------
+
+The pathology of skin diseases origin from the deranged physiology of seven factors connected to skin. They are vata , pitta and kapha doshas in aggravated state and dhatus , namely, tvak (the word tvak represents skin. Since the skin is organ in which rasa dhatu is present, tvak word is used instead of rasa dhatu ), mamsa , shonita and lasika that get deranged due to aggravated dosha . So seven type of kushtha are manifested by these seven morbid factors. Thus preliminary and manifested kushtha gradually afflicts the whole body. [3]
+
+--------------------------------------------------------------------------------
+
+POSSIBLE TYPES OF KUSHTHA
+
+--------------------------------------------------------------------------------
+
+न च किञ्चिदस्ति कुष्ठमेकदोषप्रकोपनिमित्तम्, अस्ति तु खलु समानप्रकृतीनामपि कुष्ठानां दोषांशांशविकल्पानुबन्धस्थानविभागेन वेदनावर्णसंस्थानप्रभावनामचिकित्सितविशेषः|
+स सप्तविधोऽष्टादशविधोऽपरिसङ्ख्येयविधो वा भवति|
+दोषा हि विकल्पनैर्विकल्प्यमाना विकल्पयन्ति विकारान्, अन्यत्रासाध्यभावात्|
+तेषां विकल्पविकारसङ्ख्यानेऽतिप्रसङ्गमभिसमीक्ष्य सप्तविधमेव कुष्ठविशेषमुपदेक्ष्यामः||४||
+
+--------------------------------------------------------------------------------
+
+na ca kiñcidasti kuṣṭhamēkadōṣaprakōpanimittam, asti tu khalu samānaprakr̥tīnāmapi kuṣṭhānāṁdōṣāṁśāṁśavikalpānubandhasthānavibhāgēna vēdanāvarṇasaṁsthānaprabhāvanāmacikitsitaviśēṣaḥ|
+sa saptavidhō'ṣṭādaśavidhō'parisaṅkhyēyavidhō vā bhavati|
+dōṣā hi vikalpanairvikalpyamānā vikalpayanti vikārān, anyatrāsādhyabhāvāt|
+tēṣāṁ vikalpavikārasaṅkhyānē'tiprasaṅgamabhisamīkṣya saptavidhamēvakuṣṭhaviśēṣamupadēkṣyāmaḥ||4||
+
+--------------------------------------------------------------------------------
+
+na caki~jcidastikuShThamekadoShaprakopanimittam, astitukhalusamAnaprakRutInAmapi
+kuShThanAMdoShAMshAMshavikalpAnubandhasthAnavibhAgenavedanAvarNasaMsthAnaprabhAvanAmacikitsitavisheShaH| sasaptavidho~aShTAdashavidho~aparisa~gkhyeyavidhovAbhavati| doShA hi vikalpanairvikalpyamAnAvikalpayantivikArAn, anyatrAsAdhyabhAvAt| teShAMvikalpavikArasa~gkhyAne~atiprasa~ggamabhisamIkShyasaptavidhamevakuShThavisheShamupadekShyAmaH||4||
+
+--------------------------------------------------------------------------------
+
+Variation in single dosha cannot cause kushtha. Even in kushtha with similar presentations, the clinical features in terms of sensation in skin, colour, site of skin lesion, other symptoms, and treatment may vary depending on the variation in vitiation of (qualities of) dosha . Therefore there are seven or eighteen or innumerable types of kushtha. The variations in qualities of vitiated dosha lead to further differentiation in types of diseases, except in incurable conditions. As there might be innumerable types of kushtha leading to expansion of text, only seven types of kushtha are described here. [4]
+
+--------------------------------------------------------------------------------
+
+SEVEN TYPES OF KUSHTHA
+
+--------------------------------------------------------------------------------
+
+इह वातादिषु त्रिषु प्रकुपितेषु त्वगादींश्चतुरः प्रदूषयत्सु वातेऽधिकतरे कपालकुष्ठमभिनिर्वर्तते, पित्ते त्वौदुम्बरं, श्लेष्मणि मण्डलकुष्ठं, वातपित्तयोरृष्यजिह्वं, पित्तश्लेष्मणोः पुण्डरीकं, श्लेष्ममारुतयोःसिध्मकुष्ठं, सर्वदोषाभिवृद्धौ काकणकमभिनिर्वर्तते; एवमेष सप्तविधः कुष्ठविशेषो भवति|
+स चैष भूयस्तरतमतः प्रकृतौ विकल्प्यमानायां भूयसीं विकारविकल्पसङ्ख्यामापद्यते||५||
+
+--------------------------------------------------------------------------------
+
+iha vātādiṣu triṣu prakupitēṣu tvagādīṁścaturaḥ pradūṣayatsu vātē'dhikatarēkapālakuṣṭhamabhinirvartatē, pittē tvaudumbaraṁ, ślēṣmaṇi maṇḍalakuṣṭhaṁ, vātapittayōṟuṣyajihvaṁ,pittaślēṣmaṇōḥ puṇḍarīkaṁ, ślēṣmamārutayōḥ sidhmakuṣṭhaṁ, sarvadōṣābhivr̥ddhaukākaṇakamabhinirvartatē; ēvamēṣa saptavidhaḥ kuṣṭhaviśēṣō bhavati|
+sa [1] caiṣa bhūyastaratamataḥ prakr̥tau vikalpyamānāyāṁ bhūyasīṁ vikāravikalpasaṅkhyāmāpadyatē||5||
+
+--------------------------------------------------------------------------------
+
+ihavAtAdiShutriShuprakupiteShutvagAdIMshcaturaHpradUShayatsuvAte~adhikatarekapAlakuShThamabhinirvartate, pittetvaudumbaraM, shleShmaNimaNDalakuShThaM, vAtapittayorRuShyajihvaM, pittashleShmaNoHpuNDarIkaM, shleShmamArutayoHsidhmakuShThaM, sarvadoShAbhivRuddhaukAkaNakamabhinirvartate; evameShasaptavidhaHkuShThavisheShobhavati| sacaiShabhUyastaratamataHprakRutauvikalpyamAnAyAMbhUyasIMvikAravikalpasa~gkhyAmApadyate||5||
+
+--------------------------------------------------------------------------------
+
+When vata and other doshas are aggravated and affect four vitiated dhatus such as twak , and there is dominance of vata dosha , then the disease is known as kapala kushtha . Similarly dosha dominance with other six diseases are explained in the table below:
+
+--------------------------------------------------------------------------------
+
+Table 1: The major skin diseases and its dosha dominance.
+
+--------------------------------------------------------------------------------
+
+[TABLE]
+Skin diseases | Dosha dominance
+Kapala | Vata
+Udumbara | Pitta
+Mandala | Kapha
+Rushyajihva | Vata - pitta
+Pundarika | Pitta - kapha
+Sidhma | Kapha - vata
+Kakanaka | all doshas
+
+--------------------------------------------------------------------------------
+
+Thus, there are seven types of specific kushtha, however depending on degree of superior and inferior involvement of etiology, permutation and combinations kushtha may be innumerable. [5]
+
+--------------------------------------------------------------------------------
+
+COMMON ETIOLOGICAL FACTORS OF KUSHTHA
+
+--------------------------------------------------------------------------------
+
+तत्रेदं सर्वकुष्ठनिदानं समासेनोपदेक्ष्यामः- शीतोष्णव्यत्यासमनानुपूर्व्योपसेवमानस्य तथा सन्तर्पणापतर्पणाभ्यवहार्यव्यत्यासं, मधुफाणितमत्स्यलकुचमूलककाकमाचीः सततमतिमात्रमजीर्णे च समश्नतः,चिलिचिमं च पयसा, हायनकयवकचीनकोद्दालककोरदूषप्रायाणि चान्नानि क्षीरदधितक्रकोलकुलत्थमाषातसीकुसुम्भस्नेहवन्ति, एतैरेवातिमात्रं सुहितस्य च व्यवायव्यायामसन्तापानत्युपसेवमानस्य,भयश्रमसन्तापोपहतस्य च सहसा शीतोदकमवतरतः, विदग्धं चाहारजातमनुल्लिख्य विदाहीन्यभ्यवहरतः, छर्दिं च प्रतिघ्नतः, स्नेहांश्चातिचरतः, त्रयो दोषाः युगपत् प्रकोपमापद्यन्ते; त्वगादयश्चत्वारःशैथिल्यमापद्यन्ते; तेषु शिथिलेषु दोषाः प्रकुपिताः स्थानमधिगम्य सन्तिष्ठमानास्तानेव त्वगादीन् दूषयन्तः कुष्ठान्यभिनिर्वर्तयन्ति||६||
+
+--------------------------------------------------------------------------------
+
+tatrēdaṁ sarvakuṣṭhanidānaṁ samāsēnōpadēkṣyāmaḥ- śītōṣṇavyatyāsamanānupūrvyōpasēvamānasyatathā santarpaṇāpatarpaṇābhyavahāryavyatyāsaṁ, madhuphāṇitamatsyalakucamūlakakākamācīḥsatatamatimātramajīrṇē ca samaśnataḥ, cilicimaṁ ca payasā,hāyanakayavakacīnakōddālakakōradūṣaprāyāṇi cānnānikṣīradadhitakrakōlakulatthamāṣātasīkusumbhasnēhavanti, ētairēvātimātraṁ suhitasya cavyavāyavyāyāmasantāpānatyupasēvamānasya, bhayaśramasantāpōpahatasya ca sahasāśītōdakamavatarataḥ, vidagdhaṁ cāhārajātamanullikhya vidāhīnyabhyavaharataḥ, chardiṁ capratighnataḥ, snēhāṁścāticarataḥ, trayō dōṣāḥ yugapat prakōpamāpadyantē; tvagādayaścatvāraḥśaithilyamāpadyantē; tēṣu śithilēṣu dōṣāḥ prakupitāḥ sthānamadhigamya santiṣṭhamānāstānēva tvagādīndūṣayantaḥ kuṣṭhānyabhinirvartayanti||6||
+
+--------------------------------------------------------------------------------
+
+tatredaMsarvakuShThanidAnaMsamAsenopadekShyAmaH- shItoShNavyatyAsamanAnupUrvyopasevamAnasyatathA santarpaNApatarpaNAbhyavahAryavyatyAsaM,madhuphANitamatsyalakucamUlakakAkamAcIH satatamatimAtramajIrNecasamashnataH, cilicimaMcapayasA, hAyanakayavakacInakoddAlakakoradUShaprAyANicAnnAnikShIradadhitakrakolakulatthamAShAtasIkusumbhasnehavanti, etairevAtimAtraMsuhitasyacavyavAyavyAyAmasantApAnatyupasevamAnasya, bhayashramasantApopahatasyacasahasAshItodakamavatarataH, vidagdhaMcAhArajAtamanullikhyavidAhInyabhyavaharataH, chardiMcapratighnataH, snehAMshcAticarataH, trayodoShAHyugapatprakopamApadyante; tvagAdayashcatvAraHshaithilyamApadyante; teShushithileShudoShAHprakupitAHsthAnamadhigamyasantiShThamAnAstAnevatvagAdIndUShayantaHkuShThanyabhinirvartayanti||6||
+
+--------------------------------------------------------------------------------
+
+The common etiological factors for all types of kushtha are briefly described below:
+
+--------------------------------------------------------------------------------
+
+[UL]
+• Continuous exposure to sudden interchange use of cold and hot without following gradual change rule (exposure to sudden change in temperature),
+• Sudden interchange/ alternate consumption of nourishing and depleting diets (change is diet qualities);
+• Continuous and excessive intake of following articles Madhu (honey ), phanita (pendium), matsya (fish), lakucha (Artocarpus lakooch Roxb), mulaka (radish) and kakamach (Solanum nigrum Linn);
+• Continuous over-eating
+• Eating while in state of indigestion
+• Eating Chilichima (a type of fish) along with milk;
+• Intake of foods mostly consisting of cereals like hayanaka, yavaka (barley), chinaka, uddalaka, koradusha (Paspalums corbiculatum Linn.) along with kshira (milk), dadhi (curd), takra ( butter milk), kola (Indian jujube, zyziphus jujube Lam), kulattha (Dulicus biflorus Linn), masha (Black gram,Phaseolus radiates Linn), atasi (linseed, Linunusit atissimum Linn), kusumbha (Carthamustinctorius Linn ) and unctuous articles.
+• Excessive indulgence in sexual intercourse, physical exercise and exposure to heat after consuming the above mentioned food to one’s over-satisfaction.
+• A person suffering from fear, exhaustion or grief suddenly enters into the cold water (cold water bath).
+• Without vomiting (expelling) out undigested food, if a person consumes food which causes burning sensation( vidahi ),
+• suppression of vomiting urge,
+• indulges in excessive oleation,
+
+--------------------------------------------------------------------------------
+
+Above causative factors lead to simultaneous aggravation of all the tri dosha , weakness in the skin etc. four dushyas . Aggravated doshas lodge themselves in these weakened factors and after localization, further vitiate them and manifest kushtha. [6]
+
+--------------------------------------------------------------------------------
+
+PREMONITORY SIGNS OF KUSHTHA
+
+--------------------------------------------------------------------------------
+
+तेषामिमानि पूर्वरूपाणि भवन्ति; तद्यथा- अस्वेदनमतिस्वेदनं पारुष्यमतिश्लक्ष्णता वैवर्ण्यं कण्डूर्निस्तोदः सुप्तता परिदाहः परिहर्षो लोमहर्षः खरत्वमूष्मायणं गौरवं श्वयथुर्वीसर्पागमनमभीक्ष्णं च कायेकायच्छिद्रेषूपदेहः पक्वदग्धदष्टभग्नक्षतोपस्खलितेष्वतिमात्रं वेदना स्वल्पानामपि च व्रणानां दुष्टिरसंरोहणं चेति||७||
+
+--------------------------------------------------------------------------------
+
+tēṣāmimāni pūrvarūpāṇi bhavanti; tadyathā- asvēdanamatisvēdanaṁ pāruṣyamatiślakṣṇatā vaivarṇyaṁkaṇḍūrnistōdaḥ suptatā paridāhaḥ pariharṣō lōmaharṣaḥ kharatvamūṣmāyaṇaṁ gauravaṁśvayathurvīsarpāgamanamabhīkṣṇaṁ ca kāyē kāyacchidrēṣūpadēhaḥpakvadagdhadaṣṭabhagnakṣatōpaskhalitēṣvatimātraṁ vēdanā svalpānāmapi ca vraṇānāṁduṣṭirasaṁrōhaṇaṁ cēti||7||
+
+--------------------------------------------------------------------------------
+
+teShAmimAnipUrvarUpANibhavanti; tadyathA- asvedanamatisvedanaMpAruShyamatishlakShNatAvaivarNyaMkaNDUrnistodaHsuptatAparidAhaHpariharSholomaharShaHkharatvamUShmAyaNaMgauravaMshvay athurvIsarpAgamanamabhIkShNaMcakAyekAyacchidreShUpadehaHpakvadagdhadaShTabhagnakShatopaskhaliteShvatimAtraMvedanAsvalpAnAmapicavraNAnAMduShT irasaMrohaNaMceti||7||
+
+--------------------------------------------------------------------------------
+
+The clinical manifestations of skin diseases are preceded by or associated with loss or excessive sweating (at the site of localization of vitiates doshas ), excess rough or excess smooth skin, discoloration, itching, pricking sensation, numbness, severe burning sensation, tingling sensation, goose bumps, xerosis on palpation, hot flashes, heaviness, swelling, if there is tenderness it indicates the possibility of suppurated, burnt, bitten, broken, injured and dislocated parts and even smaller ulcers become chronic, non healing.[7]
+
+--------------------------------------------------------------------------------
+
+SPECIFIC FEATURES OF KAPALA KUSHTHA
+
+--------------------------------------------------------------------------------
+
+ततोऽनन्तरं कुष्ठान्यभिनिर्वर्तन्ते, तेषामिदं वेदनावर्णसंस्थानप्रभावनामविशेषविज्ञानं भवति; तद्यथा- रूक्षारुणपरुषाणि विषमविसृतानि खरपर्यन्तानि तनून्युद्वृत्तबहिस्तनूनि सुप्तवत्सुप्तानि हृषितलोमाचितानि निस्तोदबहुलान्यल्पकण्डूदाहपूयलसीकान्याशुगतिसमुत्थानान्याशुभेदीनि जन्तुमन्ति कृष्णारुणकपालवर्णानि च कपालकुष्ठानीति विद्यात्(१);
+
+--------------------------------------------------------------------------------
+
+tatō'nantaraṁ kuṣṭhānyabhinirvartantē, tēṣāmidaṁ vēdanāvarṇasaṁsthānaprabhāvanāmaviśēṣavijñānaṁbhavati; tadyathā- rūkṣāruṇaparuṣāṇi viṣamavisr̥tāni kharaparyantāni tanūnyudvr̥ttabahistanūni [1]suptavatsuptāni [2] hr̥ṣitalōmācitāninistōdabahulānyalpakaṇḍūdāhapūyalasīkānyāśugatisamutthānānyāśubhēdīni jantumantikr̥ṣṇāruṇakapālavarṇāni ca kapālakuṣṭhānīti vidyāt(1);
+
+--------------------------------------------------------------------------------
+
+tato~anantaraMkuShThanyabhinirvartante, teShAmidaMvedanAvarNasaMsthAnaprabhAvanAmavisheShavij~jAnaM
+bhavati; tadyathA- rUkShAruNaparuShANiviShamavisRutAnikharaparyantAnitanUnyudvRuttabahistanUnisuptavatsuptAnihRuShitalomAcitAni nistodabahulAnyalpakaNDUdAhapUyalasIkAnyAshugatisamutthAnAnyAshubhedIni jantumantikRuShNAruNakapAlavarNAnicakapAlakuShThanItividyAt(1);
+
+--------------------------------------------------------------------------------
+
+Thereafter (above pathogenesis), kushtha is manifested. The specific diagnosis (of types) for nomenclature is based upon sensation, discoloration, site of lesion, effect of lesion.
+
+--------------------------------------------------------------------------------
+
+Kapala kushtha has the following specific manifestations:
+
+--------------------------------------------------------------------------------
+
+Dry, crimson red in color, coarse, unevenly spread, having rough edges, thin and slightly elevated periphery, severe numbness, covered with bristling hair, afflicted with extreme piercing pain, having mild itching, burning sensation, less serous and pus discharge, having acute manifestation and quick progression, are infested with maggots and appear like a black or blackish red piece of broken earthen pot.(1)
+
+--------------------------------------------------------------------------------
+
+AUDUMBARA KUSHTHA
+
+--------------------------------------------------------------------------------
+
+ताम्राणि ताम्रखररोमराजीभिरवनद्धानिबहलानि बहुबहलपूयरक्तलसीकानि कण्डूक्लेदकोथदाहपाकवन्त्याशुगतिसमुत्थानभेदीनि ससन्तापक्रिमीणि पक्वोदुम्बरफलवर्णान्यौदुम्बरकुष्ठानीति विद्यात् (२);
+
+--------------------------------------------------------------------------------
+
+tāmrāṇi tāmrakhararōmarājībhiravanaddhānibahalāni bahubahalapūyaraktalasīkāni kaṇḍūklēdakōthadāhapākavantyāśugatisamutthānabhēdīnisasantāpakrimīṇi pakvōdumbaraphalavarṇānyaudumbarakuṣṭhānīti vidyāt(2);
+
+--------------------------------------------------------------------------------
+
+tAmrANitAmrakhararomarAjIbhiravanaddhAnibahalAnibahubahalapUyaraktalasIkAnikaNDUkledakothadAhapAkavantyAshugatisamutthAnabhedInisasantApaKrimi NipakvodumbaraphalavarNAnyaudumbarakuShThanItividyAt(2);
+
+--------------------------------------------------------------------------------
+
+Audumbara kushtha has the following features:
+
+--------------------------------------------------------------------------------
+
+The color of affected part of skin is coppery, covered with coppery-rough (thick) hair, have plenty of thick discharge of pus, blood and lymph accompanied with itching, moistened, sloughing, burning sensation and suppuration, having acute manifestation and quick progression, associated with rise in temperature and infested with maggots, appear like the ripe fruit of Udumbara (Ficus racemosa Linn) in color.(2)
+
+--------------------------------------------------------------------------------
+
+MANDALA KUSHTHA
+
+--------------------------------------------------------------------------------
+
+स्निग्धानि गुरूण्युत्सेधवन्तिश्लक्ष्णस्थिरपीतपर्यन्तानि शुक्लरक्तावभासानि शुक्लरोमराजीसन्तानानि बहुबहलशुक्लपिच्छिलस्रावीणि बहुक्लेदकण्डूक्रिमीणि सक्तगतिसमुत्थानभेदीनि परिमण्डलानि मण्डलकुष्ठानिविद्यात्(३);
+
+--------------------------------------------------------------------------------
+
+snigdhānigurūṇyutsēdhavanti ślakṣṇasthirapītaparyantāni [3] śuklaraktāvabhāsāni śuklarōmarājīsantānānibahubahalaśuklapicchilasrāvīṇi [4] bahuklēdakaṇḍūkrimīṇi saktagatisamutthānabhēdīni parimaṇḍalānimaṇḍalakuṣṭhāni vidyāt(3);
+
+--------------------------------------------------------------------------------
+
+snigdhAnigurUNyutsedhavantishlakShNasthirapItaparyantAnishuklaraktAvabhAsAnishuklaromarAjIsantAnAnibahubahalashuklapicchilasrAvINibahukledakaNDUKrimiNisak tagatisamutthAnabhedIniparimaNDalAnimaNDalakuShThanividyAt(3);
+
+--------------------------------------------------------------------------------
+
+Mandala kushtha has following features:
+
+--------------------------------------------------------------------------------
+
+Skin is unctuous, heavy, elevated with smooth, fixed and yellowish margins, white and reddish in appearance, filled with white hairlines associated with copious, thick, white and slimy discharge, excessive oozing and itching, infested with numerous maggots, lesions are slow to spread & progression, round in shape.(3)
+
+--------------------------------------------------------------------------------
+
+RISHYAJIHVA KUSHTHA
+
+--------------------------------------------------------------------------------
+
+परुषाण्यरुणवर्णानि बहिरन्तःश्यावानि नीलपीतताम्रावभासान्याशुगतिसमुत्थानान्यल्पकण्डूक्लेदक्रिमीणि दाहभेदनिस्तोद(पाक)बहुलानि शूकोपहतोपमवेदनान्युत्सन्नमध्यानि तनुपर्यन्तानिकर्कशपिडकाचितानि दीर्घपरिमण्डलान्यृष्यजिह्वाकृतीनि ऋष्यजिह्वानीति विद्यात् (४);
+
+--------------------------------------------------------------------------------
+
+paruṣāṇyaruṇavarṇāni bahirantaḥśyāvāninīlapītatāmrāvabhāsānyāśugatisamutthānānyalpakaṇḍūklēdakrimīṇi dāhabhēdanistōda(pāka)bahulāniśūkōpahatōpamavēdanānyutsannamadhyāni tanuparyantāni karkaśapiḍakācitānidīrghaparimaṇḍalānyr̥ṣyajihvākr̥tīni r̥ṣyajihvānīti vidyāt (4);
+
+--------------------------------------------------------------------------------
+
+paruShANyaruNavarNAnibahirantaHshyAvAninIlapItatAmrAvabhAsAnyAshugatisamutthAnAnyalpakaNDUkledaKrimiNidAhabhedanistoda(pAka)bahulAnishUkopahatopam avedanAnyutsannamadhyAnitanuparyantAnikarkashapiDakAcitAnidIrghaparimaNDalAnyRuShyajihvAkRutIniRuShyajihvAnItividyAt(4);
+
+--------------------------------------------------------------------------------
+
+Rishyajivha kushtha has following features:
+
+--------------------------------------------------------------------------------
+
+In this skin is rough, downy red, blackish in the center as well as in the periphery, have the appearance of shades of blue, yellow and coppery tinge associated with acute onset and spreading, with less itching, oozing and maggot infestation, having excessive burning sensation, ulceration, piercing pain (suppuration) as if pierced with bristles, with elevated center and thin margins; surrounded with rough papules and having large circumference and shape like that of the antelope ( rishyajihva ) tongue. (4);
+
+--------------------------------------------------------------------------------
+
+PUNDARIKA KUSHTHA
+
+--------------------------------------------------------------------------------
+
+शुक्लरक्तावभासानि रक्तपर्यन्तानि रक्तराजीसिरासन्ततान्युत्सेधवन्ति बहुबहलरक्तपूयलसीकानिकण्डूक्रिमिदाहपाकवन्त्याशुगतिसमुत्थानभेदीनि पुण्डरीकपलाशसङ्काशानि पुण्डरीकाणीति विद्यात् (५);
+
+--------------------------------------------------------------------------------
+
+śuklaraktāvabhāsāni raktaparyantāniraktarājīsirāsantatānyutsēdhavanti bahubahalaraktapūyalasīkānikaṇḍūkrimidāhapākavantyāśugatisamutthānabhēdīni puṇḍarīkapalāśasaṅkāśāni puṇḍarīkāṇīti vidyāt (5);
+
+--------------------------------------------------------------------------------
+
+shuklaraktAvabhAsAniraktaparyantAniraktarAjIsirAsantatAnyutsedhavantibahubahalaraktapUyalasIkAnikaNDUKrimidAhapAkavantyAshugatisamutthAnabhedInipuNDarIkap alAshasa~gkAshAnipuNDarIkANItividyAt(5);
+
+--------------------------------------------------------------------------------
+
+Pundarika kushtha has following features: In this type, the skin is white with reddish shade, with red margins covered with red lines and blood vessels, elevated, with copious thick blood, pus and serous discharge, associated with itching, maggots infestation, burning sensation and suppuration, and having acute manifestation and quick progression, appears like the petals of lotus(or Butea monospemum flower). (5);
+
+--------------------------------------------------------------------------------
+
+SIDHMA KUSHTHA
+
+--------------------------------------------------------------------------------
+
+परुषारुणानि विशीर्णबहिस्तनून्यन्तःस्निग्धानि शुक्लरक्तावभासानिबहून्यल्पवेदनान्यल्पकण्डूदाहपूयलसीकानि लघुसमुत्थानान्यल्पभेदक्रिमीण्यलाबुपुष्पसङ्काशानि सिध्मकुष्ठानीति विद्यात् (६);
+
+--------------------------------------------------------------------------------
+
+paruṣāruṇāni [5] viśīrṇabahistanūnyantaḥsnigdhāni śuklaraktāvabhāsānibahūnyalpavēdanānyalpakaṇḍūdāhapūyalasīkānilaghusamutthānānyalpabhēdakrimīṇyalābupuṣpasaṅkāśāni sidhmakuṣṭhānīti vidyāt (6);
+
+--------------------------------------------------------------------------------
+
+paruShAruNAnivishIrNabahistanUnyantaHsnigdhAnishuklaraktAvabhAsAnibahUnyalpavedanAnyalpakaNDUdAhapUyalasIkAnilaghusamutthAnAnyalpabhedaKrimiNyalAbup uShpasa~gkAshAnisidhmakuShThanItividyAt (6);
+
+--------------------------------------------------------------------------------
+
+Sidhma kushtha has following features:
+
+--------------------------------------------------------------------------------
+
+In this type, skin is rough and downy red in color, with external margins fissured and thin, unctuous at the center, having white and red shades, numerous lesions, associated with mild pain, itching, burning sensation, purulent and serous discharge, having mild initiation and progression, and less maggots infestation, appear like flower of alabu (Lagenaria siceraria Standi (bottle gourd)) – are to be known as sidhma kushtha (6);
+
+--------------------------------------------------------------------------------
+
+KAKANAKA KUSHTHA
+
+--------------------------------------------------------------------------------
+
+काकणन्तिकावर्णान्यादौ पश्चात्तु सर्वकुष्ठलिङ्गसमन्वितानि पापीयसा सर्वकुष्ठलिङ्गसम्भवेनानेकवर्णानि काकणानीति विद्यात्| तान्यसाध्यानि, साध्यानि पुनरितराणि||८||
+
+--------------------------------------------------------------------------------
+
+kākaṇantikāvarṇānyādau paścāttu sarvakuṣṭhaliṅgasamanvitāni pāpīyasā [6]sarvakuṣṭhaliṅgasambhavēnānēkavarṇāni kākaṇānīti vidyāt|
+tānyasādhyāni, sādhyāni punaritarāṇi||8||
+
+--------------------------------------------------------------------------------
+
+kAkaNantikAvarNAnyAdaupashcAttusarvakuShThali~ggasamanvitAnipApIyasA [6] sarvakuShThali~ggasambhavenAnekavarNAnikAkaNAnItividyAt| tAnyasAdhyAni, sAdhyAnipunaritarANi||8||
+
+--------------------------------------------------------------------------------
+
+Kakanaka kushtha has following features:
+
+--------------------------------------------------------------------------------
+
+In this type, the skin is having color of Gunja (Abrus precatorius) seed in the beginning but later on associated with symptoms of all sinful kushtha subsequently having many colors. This is incurable, while others are curable. [8]
+
+--------------------------------------------------------------------------------
+
+PROGNOSIS
+
+--------------------------------------------------------------------------------
+
+तत्र यदसाध्यं तदसाध्यतां नातिवर्तते, साध्यं पुनः किञ्चित् साध्यतामतिवर्तते कदाचिदपचारात्| साध्यानि हि षट् काकणकवर्ज्यान्यचिकित्स्यमानान्यपचारतो वा दोषैरभिष्यन्दमानान्यसाध्यतामुपयान्ति||९||
+
+--------------------------------------------------------------------------------
+
+tatra yadasādhyaṁ tadasādhyatāṁ nātivartatē, sādhyaṁ punaḥ kiñcit sādhyatāmativartatēkadācidapacārāt|
+sādhyāni hi ṣaṭ kākaṇakavarjyānyacikitsyamānānyapacāratō vādōṣairabhiṣyandamānānyasādhyatāmupayānti||9||
+
+--------------------------------------------------------------------------------
+
+tatrayadasAdhyaMtadasAdhyatAMnAtivartate, sAdhyaMpunaHki~jcitsAdhyatAmativartatekadAcidapacArAt| sAdhyAni hi ShaTkAkaNakavarjyAnyacikitsyamAnAnyapacAratovAdoShairabhiShyandamAnAnyasAdhyatAmupayAnti||9||
+
+--------------------------------------------------------------------------------
+
+The incurable disease never give up its incurability (never become curable). The curable disease may sometimes become incurable due to misconduct (not following the diet and lifestyle regulations properly). The six (types of) kushtha are curable except kakanaka . However if not treated properly, they may become incurable due to lack of timely management, improper management and constantly excess aggravation of doshas . [9]
+
+--------------------------------------------------------------------------------
+
+COMPLICATIONS OF KUSHTHA
+
+--------------------------------------------------------------------------------
+
+साध्यानामपि ह्युपेक्ष्यमाणानां त्वङ्मांसशोणितलसीकाकोथक्लेदसंस्वेदजाः क्रिमयोऽभिमूर्च्छन्ति; ते भक्षयन्तस्त्वगादीन् दोषाः पुनर्दूषयन्त इमानुपद्रवान् पृथक् पृथगुत्पादयन्ति- तत्र वातः श्यावारुणवर्णंपरुषतामपि च रौक्ष्यशूलशोषतोदवेपथुहर्षसङ्कोचायासस्तम्भसुप्तिभेदभङ्गान्, पित्तं दाहस्वेदक्लेदकोथस्रावपाकरागान्, श्लेष्मा त्वस्य श्वैत्यशैत्यकण्डूस्थैर्यगौरवोत्सेधोपस्नेहोपलेपान्, क्रिमयस्तु त्वगादींश्चतुरःसिराः स्नायूश्चास्थीन्यपि च तरुणान्याददते ||१०||
+
+--------------------------------------------------------------------------------
+
+sādhyānāmapi hyupēkṣyamāṇānāṁ tvaṅmāṁsaśōṇitalasīkākōthaklēdasaṁsvēdajāḥkrimayō'bhimūrcchanti; tē bhakṣayantastvagādīn dōṣāḥ [1] punardūṣayanta imānupadravān pr̥thakpr̥thagutpādayanti- tatra vātaḥ śyāvāruṇavarṇaṁ paruṣatāmapi caraukṣyaśūlaśōṣatōdavēpathuharṣasaṅkōcāyāsastambhasuptibhēdabhaṅgān, pittaṁdāhasvēdaklēdakōthasrāvapākarāgān, ślēṣmā tvasyaśvaityaśaityakaṇḍūsthairyagauravōtsēdhōpasnēhōpalēpān, krimayastu tvagādīṁścaturaḥ sirāḥsnāyūścāsthīnyapi ca taruṇānyādadatē [2] ||10||
+
+--------------------------------------------------------------------------------
+
+sAdhyAnAmapihyupekShyamANAnAMtva~gmAMsashoNitalasIkAkothakledasaMsvedajAHkrimayo~abhimUrcchanti; tebhakShayantastvagAdIndoShAHpunardUShayantaimAnupadravAnpRuthakpRuthagutpAdayanti- tatravAtaHshyAvAruNavarNaMparuShatAmapica raukShyashUlashoShatodavepathuharShasa~gkocAyAsastambhasuptibhedabha~ggAn, pittaMdAhasvedakledakothasrAvapAkarAgAn, shleShmAtvasyashvaityashaityakaNDUsthairyagauravotsedhopasnehopalepAn, krimayastutvagAdIMshcaturaHsirAHsnAyUshcAsthInyapicataruNAnyAdadate ||10||
+
+--------------------------------------------------------------------------------
+
+If the curable diseases are neglected (not treated), then they are also afflicted with putrefaction of skin, muscle tissue, blood, lymph and swedaja krimi (maggots or micro-organisms). The krimi get nourishment from the decayed skin etc. and further vitiate doshas leading to variety of complications corresponding to individual doshas as follows:
+
+--------------------------------------------------------------------------------
+
+[UL]
+• Due to vata , blackish and downy red discoloration appears, roughness, dryness, piercing pain, emaciation (atrophy), pricking pain, tremors, horripilation, constriction, exhaustion, stiffness, numbness, ulceration and fissures;
+• Pitta causes burning sensation, sweating, moistening, putrefaction, discharge, suppuration and redness;
+• Kapha causes whiteness, coldness, itching, immobility, heaviness, protuberance, unctuousness and coating, maggots eat up the skin etc. (skin, flesh, blood, lymph) vessels, ligaments and cartilages. [10]
+
+--------------------------------------------------------------------------------
+
+अस्यां चैवावस्थायामुपद्रवाः कुष्ठिनं स्पृशन्ति; तद्यथा- प्रस्रवणमङ्गभेदः पतनान्यङ्गावयवानां तृष्णाज्वरातीसारदाहदौर्बल्यारोचकाविपाकाश्च, तथाविधमसाध्यं विद्यादिति||११||
+
+--------------------------------------------------------------------------------
+
+asyāṁ caivāvasthāyāmupadravāḥ kuṣṭhinaṁ spr̥śanti; tadyathā- prasravaṇamaṅgabhēdaḥpatanānyaṅgāvayavānāṁ tr̥ṣṇājvarātīsāradāhadaurbalyārōcakāvipākāśca, tathāvidhamasādhyaṁvidyāditi||11||
+
+--------------------------------------------------------------------------------
+
+asyAMcaivAvasthAyAmupadravAHkuShThinaMspRushanti; tadyathA- prasravaNama~ggabhedaHpatanAnya~ggAvayavAnAMtRuShNAjvarAtIsAradAhadaurbalyArocakAvipAkAshca, tathAvidhamasAdhyaMvidyAditi||11||
+
+--------------------------------------------------------------------------------
+
+During this stage, a patient of kushtha afflicts with complications such as- excessive discharge, ulceration of body parts, sequestration of body parts (necrosis of phallenges), thirst, fever, diarrhea, burning sensation, debility, anorexia, indigestion. Such types of kushtha should be known as incurable. [11]
+
+--------------------------------------------------------------------------------
+
+SUMMARY
+
+--------------------------------------------------------------------------------
+
+भवन्ति चात्र-
+साध्योऽयमिति यः पूर्वं नरो रोगमुपेक्षते|
+स किञ्चित्कालमासाद्य मृत एवावबुध्यते||१२||
+
+--------------------------------------------------------------------------------
+
+यस्तु प्रागेव रोगेभ्यो रोगेषु तरुणेषु वा|
+भेषजं कुरुते सम्यक् स चिरं सुखमश्नुते||१३||
+
+--------------------------------------------------------------------------------
+
+यथा ह्यल्पेन यत्नेन छिद्यते तरुणस्तरुः|
+स एवातिप्रवृद्धस्तु छिद्यतेऽतिप्रयत्नतः||१४||
+
+--------------------------------------------------------------------------------
+
+एवमेव विकारोऽपि तरुणः साध्यते सुखम्|
+विवृद्धः साध्यते कृच्छ्रादसाध्यो वाऽपि जायते||१५||
+
+--------------------------------------------------------------------------------
+
+तत्र श्लोकः-
+सङ्ख्या द्रव्याणि दोषाश्च हेतवः पूर्वलक्षणम्|
+रूपाण्युपद्रवाश्चोक्ताः कुष्ठानां कौष्ठिके पृथक्||१६||
+
+--------------------------------------------------------------------------------
+
+bhavanti cātra- sādhyō'yamiti yaḥ pūrvaṁ narō rōgamupēkṣatē|
+sa kiñcitkālamāsādya mr̥ta ēvāvabudhyatē||12||
+
+--------------------------------------------------------------------------------
+
+yastu prāgēva rōgēbhyō rōgēṣu taruṇēṣu vā|
+bhēṣajaṁ kurutē samyak sa ciraṁ sukhamaśnutē||13||
+
+--------------------------------------------------------------------------------
+
+yathā hyalpēna yatnēna chidyatē taruṇastaruḥ|
+sa ēvātipravr̥ddhastu chidyatē'tiprayatnataḥ||14||
+
+--------------------------------------------------------------------------------
+
+ēvamēva vikārō'pi taruṇaḥ sādhyatē sukham|
+vivr̥ddhaḥ sādhyatē kr̥cchrādasādhyō vā'pi jāyatē||15||
+
+--------------------------------------------------------------------------------
+
+tatra ślōkaḥ- saṅkhyā dravyāṇi dōṣāśca hētavaḥ pūrvalakṣaṇam|
+rūpāṇyupadravāścōktāḥ kuṣṭhānāṁ kauṣṭhikē pr̥thak||16||
+
+--------------------------------------------------------------------------------
+
+bhavanticAtra-
+sAdhyo~ayamitiyaHpUrvaMnarorogamupekShate| saki~jcitkAlamAsAdyamRutaevAvabudhyate||12||
+
+--------------------------------------------------------------------------------
+
+yastuprAgevarogebhyorogeShutaruNeShuvA| bheShajaMkurutesamyaksaciraMsukhamashnute||13||
+
+--------------------------------------------------------------------------------
+
+yathAhyalpenayatnenachidyatetaruNastaruH| saevAtipravRuddhastuchidyate~atiprayatnataH||14||
+
+--------------------------------------------------------------------------------
+
+evamevavikAro~apitaruNaHsAdhyatesukham| vivRuddhaHsAdhyatekRucchrAdasAdhyovA~apijAyate||15||
+
+--------------------------------------------------------------------------------
+
+tatrashlokaH-
+sa~gkhyAdravyANidoShAshcahetavaHpUrvalakShaNam| rUpANyupadravAshcoktAHkuShThanAMkauShThikepRuthak||16||
+
+--------------------------------------------------------------------------------
+
+The individual, who neglects the disease in early stage by assuming it as curable,( does not take treatment at early stage) can be regarded as dead after a lapse of time(due to complications). The individual who took treatment properly prior to full manifestation of disease or in its early stage attains happiness for long time. Just as a tender plant is easy to cut down with a little effort, but the same require great effort when fully grown.
+
+--------------------------------------------------------------------------------
+
+Likewise, a disease is easily curable in the early stage; it becomes incurable or difficulty to cure as it reaches the advanced stage.[12-15]
+
+--------------------------------------------------------------------------------
+
+इत्यग्निवेशकृते तन्त्रे चरकप्रतिसंस्कृते निदानस्थाने कुष्ठनिदानं नाम पञ्चमोऽध्यायः||५||
+
+--------------------------------------------------------------------------------
+
+ityagniveshakRutetantrecarakapratisaMskRutenidAnasthAnekuShThanidAnaMnAmapa~jcamo~adhyAyaH||5||
+
+--------------------------------------------------------------------------------
+
+Thus ends the fifth chapter on Kushtha Nidana in Nidana Sthana in the treatise composed by Agnivesha and as redacted by Charak.
+
+--------------------------------------------------------------------------------
+
+TATTVA VIMARSHA (FUNDAMENTAL PRINCIPLES)
+
+--------------------------------------------------------------------------------
+
+[UL]
+• kushtha is the result of combined and simultaneous involvement of all the three dosha and subsequently vitiation of the four body constituents i.e. rasa ( twak , or skin), mamsa (muscle tissue), rakta (blood), and lasika (lymph).
+• There can be infinite clinical presentations of kushtha (skin diseases) depending upon severity of combination of above mentioned vitiating factors.
+• While diagnosing the severity of kushtha, the depth of lesion can be assessed according to involvement of skin, muscle, blood and lymph respectively. The treatment should be planned accordingly, targeting these constituents and should be based upon predominantly vitiated dosha .
+• The varieties in vitiated qualities of doshas (like ruksha etc.) depend upon dietary and lifestyle causative factors. kushtha can be classified based upon the criteria like specific sensation in skin, change in color of skin (pigmentation), site of lesion, spread of lesion, clinical features.
+• Continuous exposure to change in temperature (thermal sensitivity), change in fluid volume and muscle mass inside body, incompatible dietary and lifestyle factors are main causative factors of kushtha. Similarly sudden changes in above factors may lead to acute condition of skin disease.
+• If the curable kushtha are not timely treated, it leads to favorable environment to growth of micro-organisms. The micro-organisms grow on the vitiated twak, rakta , mamsa , and lasika leading to various severe skin lesions.
+• The curable disease can become incurable due to improper management, exposure to causative factors and aggravation of dosha .
+
+--------------------------------------------------------------------------------
+
+VIDHI VIMARSHA (APPLIED INFERENCES)
+
+--------------------------------------------------------------------------------
+
+Three chapters are devoted to dermatological disorders, present chapter and Chikitsa Sthana chapter 7 ( Kushtha Chikitsa ) and 21( Visarpa Chikitsa ). The present chapter deals with seven types of kushtha, while in Kushtha Chikitsa , all eighteen types have been described and have been given the name of Mahakushtha (major) and Kshudra kushtha (Minor). After reviewing the symptoms of seven major types it is clear that it covers a progressive disorder of skin leading to loss of organs and impaired sensation (sensory neuropathy). According to some commentators Kshudra kushtha is a group of mild and localized skin diseases, which runs a chronic course.
+
+--------------------------------------------------------------------------------
+
+Most of the diseases are classified on the basis of dosha predominance. There is variable interplay of three dosha and four dushya in kushtha, which can present as seven types, eighteen types and innumerable types on the basis of symptoms, color, location, prognosis and treatment. (see chart).
+
+--------------------------------------------------------------------------------
+
+kushtha and visarpa - both the diseases have the same seven causative factors (three dosha and four dhatu type disorders), where kushtha is chronic and visarpa is acute and may be life threatening, In visarpa , rakta is dominant which makes it spread rapidly, treatment is bloodletting. In case of kushtha all seven factors are involved with little bit variation.
+
+--------------------------------------------------------------------------------
+
+CAUSES OF KUSHTHA
+
+--------------------------------------------------------------------------------
+
+Diet and lifestyle play a significant role in health and disease. What, how and when diet should be taken is important. In kushtha, alternating opposite character of food like hot/cold, nourishing/ non nourishing foods if taken one after the other is an etiological factor. Many other such etiological factors have been listed. All the etiological factors mentioned, also help in the growth of parasites like maggots at the involved skin.
+
+--------------------------------------------------------------------------------
+
+Environmental factors like diet and lifestyle, in the presence of genetic predisposition impair the immune system with increased susceptibility to secondary infection. Viruddhahara (incompatible foods) has similar effect through epigenetic mechanism.
+Early diagnosis is important and stages have been described for disease manifestation. Poorvarupa (prodromal symptoms) occur in the fourth stage of disease manifestation and if the disease is diagnosed at this level, early control and better treatment may be possible. Though in the stage of poorvarupa it may not be possible to diagnose the type/subtype of disease, however type of dosha can be decided and accordingly treatment can be started. (7)
+
+--------------------------------------------------------------------------------
+
+CLASSIFICATION OF KUSHTHA
+
+--------------------------------------------------------------------------------
+
+The mahakushtha has been classified under seven types as per their dosha predominance accordingly symptomatology of these has been described. All the body physiology and pathology is designated to a particular dosha thus the diseases are basically diagnosed on the basis of three dosha and their combinations. The color, texture, secretions, margins, and types of pain associated with these lesions, as well as their progression have been classified on the basis of three dosha .
+
+--------------------------------------------------------------------------------
+
+LAYERS OF SKIN
+
+--------------------------------------------------------------------------------
+
+Charak and Sushruta both have enumerated the layers of skin and the thickness of layers and diseases occurring in these layers have also been narrated. Their possible modern equivalence as given by some scholars in Ayurvedic texts is as follows:
+
+--------------------------------------------------------------------------------
+
+[TABLE]
+Sl. No | Layers | Thickness | Modern comparable equivalence** | Skin | Reflection of disease
+in vrihi* – size of rice/ barley Seed | Probable equivalence | Layer | 
+1 | Avabhasini | 1/18 | stratum corneum | Epidermis | sidhma, padmini, kantaka
+2 | Lohita | 1/16 | Stratum lucidum |  | tilakalaka, vyanga, nyachha
+3 | Shweta | 1/12 | Stratum granulosum |  | charmadala, ajagallika, mashaka
+4 | Tamra | 1/8 | squamous cell layer and basal cell layer |  | kilasa, kushtha
+5 | Vedini | 1/5 | upper dermis | Dermis | kushtha, visarpa
+6 | Rohini | 01 | lower dermis |  | granthi, apachi, arbuda, sleepada, galaganda.
+7 | Mamsadhara | 02 | Subcutaneous tissue including fat |  | bhagandara, vidradhi, arsha
+
+--------------------------------------------------------------------------------
+
+Note: *1 vrihi measurement = 0.5 to 1.5 mm **we have correlated the relative terms in modern dermatology that are selected by considering the origin of the disease and thickness of layer explained in Ayurveda .
+
+--------------------------------------------------------------------------------
+
+DOSHA SPECIFIC VARIATION IN KUSHTHA
+
+--------------------------------------------------------------------------------
+
+Various Vedic texts on the subject have tried to classify all signs and symptoms on the basis of tridosha thus this serves a good tool to diagnose the lesions as per three doshas seen in the following table:
+
+--------------------------------------------------------------------------------
+
+[TABLE]
+Sr | Parikshya bhava( assessment parameter) | vata | pitta | kapha
+1 | Observation (darshan parikshya bhava)
+ | Color | Black, Dusky or Downy red, Blackness | Red, Yellowish-ness | White
+ | Texture | Dry, constriction | Smooth | Oily or soft
+ | Presence of hairs | Covered with bristling hair | Coppery-rough hairs | White hairlines in
+ | Margins of lesion | Unevenly spread, rough margins | Thin | Elevated with smooth and fixed margins
+ | Secretions | Less serous & pus discharge, absence of sweating | Plenty of thick discharge of pus, blood and lymph, profuse sweating onlesions | Copious, thick, white and slimy discharge
+ | Presence of maggots (Krimi, jantu) | Jantu | Krimi | Krimi
+2 | Palpation(sparshana parikshya bhava)
+ | Type of lesion | Macular | Macular, blisters | Macular, Papular lesion
+ | Consistency of lesions | Rough, Hard, emaciation | Smooth, | Soft, thickness, oedema,
+ | Sensitivity – | numbness, hypersensitivity | - | -
+ | Temperature- | cold to touch, | hot to touch | cold to touch,
+3 | Interrogation (prashna pariksha)
+ | vedana (pain), | Pain, Breaking pain, pricking pain, horripilation, loss of sensation or excessive sensitivity | Itching, burning sensation, feeling of burning, foul smell | Itching, heaviness,
+ | Onset | Acute | Acute | Chronic
+ | Progression | Quick | Quick | Slow
+
+--------------------------------------------------------------------------------
+
+Thus on the basis of symptomatology of it can be inferred that maha-kushtha is a group of skin diseases that includes Leprosy. However, there is ample scope to include, diagnose and treat any other syndromes available today or occurring in future on the basis of this description of kushtha.(verse 8)
+
+--------------------------------------------------------------------------------
+
+PROGNOSIS OF KUSHTHA
+
+--------------------------------------------------------------------------------
+
+Prognostic criteria for curability or incurability has been given much importance. Text cautions that incurable will not leave its nature, however curable conditions can become incurable due improper treatment. With the availability of newer treatments and better diagnostic tools many syndromes which, were listed as incurable have become palliable. The management of leprosy is one example of change in the approach to management with the help of antibiotics, but, with limitations. The outcome of treatment can be significantly changed if the current antibiotic treatment is supplemented with Ayurvedic management.
+
+--------------------------------------------------------------------------------
+
+After the fifth stage of the therapeutic intervention i.e. rupa (proper manifestation) if the disease is not managed properly or the intervention is ineffective the disease progresses further and produces symptoms of upadrava (complications). These symptoms and signs have again been classified on the basis of tri- dosha . As the rasa (twak), rakta , mamsa and lasika ( lymphatic tissue) are involved in the manifestation of kushtha, its progression to the deeper tissues like meda , asthi , majja and shukra will lead to complications. This includes permanent disfiguration of organs, loss of phalanges and infection of wounds by maggots causing severe damage to the tissues like bones. (verse 10-16)
+
+--------------------------------------------------------------------------------
+
+If the symptomatology described by Charak and Dhatugata symptoms of Sushruta are compared, it is evident that the symptoms described for rasa dhatu represent poorvarupa. Rakta and mamsagata symptoms are listed as rupa of kushtha. The symptoms listed as medagata are the disfigurement of the organs, falling of limbs and flaring of skin lesions. The symptoms listed as asthigata kushtha are saddle nose, kerato- conjunctivitis, growth of maggots in lesions and loss of speech. This list of dhatugata kushtha described by Sushruta covers almost all the complications of leprosy. Thus taking into the consideration of Dhatugata stage of the disease further insight in the management of the disease as Sushruta has advised to increase the intensity of the treatment taking into the consideration of the dhatu involved.
+
+--------------------------------------------------------------------------------
+
+Sushruta has explained the symptomatology on the basis of dhatugata stage of the dosha .[Sushruta Samhita Nidana Sthana 7/21-26] Rasa , lasika, rakta and mamsa are dushya , in this disease hence complications arise when the dosha proceed to the deeper dhatu , meda and majja .
+
+--------------------------------------------------------------------------------
+
+Samswedaja Krimi (Maggot/micro-organisms infestation with sweating) is a complication is to be kept in mind for treatment purpose.
+This has been stressed that treatment should be done at the earliest stage otherwise even the most curable disease becomes incurable.
+Leprosy can be referred in seven types of Kushtha. Vivid description of the disease is available in the texts and almost all the aspects of pathogenesis is detailed including its contagiousness. The serious complications like disfigurement of limbs and loss of phalanges has also been described.
+
+--------------------------------------------------------------------------------
+
+RESEARCH WORKS ON KUSHTHA
+
+--------------------------------------------------------------------------------
+
+[TABLE]
+Name of author and title of thesis | Year | Subject | Institute
+Sharma R. K. - A study of Leprosy according to Ayurveda and its management with M. G. Capsule. L-1118 | 1982 | Kayachikitsa | I.P.G.T.& R.A., Jamnagar
+Singh B P - A conceptual, clinical and experimental study of leprosy with its treatment by some indigenous drugs. | 1973 | Kayachikitsa | Faculty of Ayurveda BHU, Vaaranasi
+Awadhwal V K - Studies on treatment of leprosy with some indigenous compounds | 1986 | Kayachikitsa | Faculty of Ayurveda BHU, Varanasi
+Rane S B – To prepare Gandhaka Druti and study of the effect of an Ayurvedic preparation Gandhaka Druti on leprosy and lepromatous leprosy patients. | 1997 | Ph.D. theses | University of Pune, Pune
+Chavan Santosh – To study the Dhatu-Gatavastha of Maha-Kushtha (leprosy) w.s.r. to skin biopsy. | 2004 | Roga Vigyana & Vikriti Vijnana | Tiak Ayurved Mahavidyalaya, Pune
+Eswar Reddy M - Effect of Pancha Karma Chikitsa and Gandhaka Rasayana in the management of leprosy. | 1988 | Kayachikitsa | Mysore
+Bora Dilip - To study Vedini-Tvacha in Sushruta w.s.r. to leprosy. |  | ShareeraRachana | Ashtanga Ayurved Mahavidyalaya, Pune
+
+--------------------------------------------------------------------------------
+
+RELATED CHAPTERS
+
+--------------------------------------------------------------------------------
+
+[UL]
+• Kushtha Chikitsa , Skin diseases in Integrative Medicine
+
+--------------------------------------------------------------------------------
+
+Send us your suggestions and feedback on this page.
+
+================================================================================
+END OF CHAPTER
+================================================================================

@@ -1,0 +1,1583 @@
+==========================================================================================
+CHARAKA SAMHITA
+ASHTODARIYA ADHYAYA
+==========================================================================================
+
+Source URL: https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya
+Extraction Date: 2026-11-03T12:00:49
+Total Blocks: 200
+
+==========================================================================================
+
+
+[BLOCK 1: H1]
+----------------------------------------------------------------------
+Ashtodariya Adhyaya
+
+
+[BLOCK 2: TEXT]
+----------------------------------------------------------------------
+From Charak Samhita
+
+
+[BLOCK 3: TEXT]
+----------------------------------------------------------------------
+Jump to navigation
+
+
+[BLOCK 4: TEXT]
+----------------------------------------------------------------------
+Jump to search
+
+
+[BLOCK 5: FIGURE]
+----------------------------------------------------------------------
+
+
+[REFERENCES / LINKS]
+ : https://www.charakasamhitauptodate.com/index.php?title=Special:CiteThisPage&page=Ashtodariya_Adhyaya&id=44485&wpFormIdentifier=titleform
+
+[IMAGES]
+ : https://www.carakasamhitaonline.com/images/5/58/Cite.png
+
+
+[BLOCK 6: P]
+----------------------------------------------------------------------
+Sutra Sthana Chapter 19. Numerical Classification of Diseases
+
+
+[BLOCK 7: TABLE]
+----------------------------------------------------------------------
+[COMPLETE TABLE]
+
+Row 1:
+Column 1: Section/Chapter
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Sutra Sthana Chapter 19
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 2:
+Column 1: Tetrad/Sub-section
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Roga Chatushka
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 3:
+Column 1: Preceding Chapter
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Trishothiya Adhyaya
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 4:
+Column 1: Succeeding Chapter
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Maharoga Adhyaya
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 5:
+Column 1: Other Sections
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Nidana Sthana , Vimana Sthana , Sharira Sthana , Indriya Sthana , Chikitsa Sthana , Kalpa Sthana , Siddhi Sthana
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 6:
+Column 1: Translator and commentator
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Kar A.C., Sharma R.
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 7:
+Column 1: Reviewer
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Pol A.
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 8:
+Column 1: Editors
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Kar A.C., Rai S., Deole Y.S. , Basisht G.
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 9:
+Column 1: Year of publication
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: 2020
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 10:
+Column 1: Publisher
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Charak Samhita Research, Training and Skill Development Centre
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 11:
+Column 1: DOI
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: 10.47468/CSNE.2020.e01.s01.021
+  Type: td, Rowspan: 1, Colspan: 1
+
+[REFERENCES / LINKS]
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+Trishothiya Adhyaya : https://www.carakasamhitaonline.com/index.php?title=Trishothiya_Adhyaya
+Maharoga Adhyaya : https://www.carakasamhitaonline.com/index.php?title=Maharoga_Adhyaya
+Nidana Sthana : https://www.carakasamhitaonline.com/index.php?title=Nidana_Sthana
+Vimana Sthana : https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana
+Sharira Sthana : https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana
+Indriya Sthana : https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana
+Chikitsa Sthana : https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana
+Kalpa Sthana : https://www.carakasamhitaonline.com/index.php?title=Kalpa_Sthana
+Siddhi Sthana : https://www.carakasamhitaonline.com/index.php?title=Siddhi_Sthana
+Deole Y.S. : https://www.carakasamhitaonline.com/index.php?title=Yogesh_Deole
+Basisht G. : https://www.carakasamhitaonline.com/index.php?title=Gopal_Basisht
+Charak Samhita Research, Training and Skill Development Centre : https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Skill_Development_Centre
+10.47468/CSNE.2020.e01.s01.021 : https://doi.org/10.47468/CSNE.2020.e01.s01.021
+
+
+[BLOCK 8: P]
+----------------------------------------------------------------------
+Abstract
+
+
+[BLOCK 9: P]
+----------------------------------------------------------------------
+In continuation of the previous chapter, this chapter delves into classifications of diseases. Diseases have been broadly classified here into two groups – one comprising of diseases manifesting as a result of involvement of two or more dosha (Samanyaja Vyadhi), while the other focusing on diseases caused due to a single dosha (Nanatmaja Vyadhi). Forty-eight diseases have been enlisted with their types from diagnostic perspective in this chapter. The role of dosha in etiopathogenesis of the diseases, difference between the exogenous and endogenous diseases and their coexistence is also described. One to one correlation of these disease entities with those in conventional medicine has limited scope. Some diseases described in this chapter can be exactly correlated with diseases of conventional medicine whereas some cannot be.
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 10: P]
+----------------------------------------------------------------------
+Keywords : kapha , nija, pitta , sannipattika, vikara, vata , numerical classification, diseases.
+
+[REFERENCES / LINKS]
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+
+
+[BLOCK 11: P]
+----------------------------------------------------------------------
+
+
+
+[BLOCK 12: H2]
+----------------------------------------------------------------------
+Contents
+
+
+[BLOCK 13: UL]
+----------------------------------------------------------------------
+1. 1 Introduction
+2. 2 Sanskrit text, Transliteration and English Translation 2.1 Numerical classification of diseases 2.2 Types of diseases 2.2.1 Diseases of Eight Types 2.2.2 Diseases of Seven Types 2.2.3 Diseases of Six Types 2.2.4 Diseases of Five Types 2.2.5 Diseases of Four Types 2.2.6 Diseases of Three Types 2.2.7 Diseases of Two Types 2.2.8 Diseases of One Type 2.2.9 Diseases of Twenty Types 2.3 Definite relation between dosha and disease 2.4 Endogenous and exogenous diseases 2.5 Progression of endogenous and exogenous diseases 2.6 Summary
+3. 3 Tattva Vimarsha (Fundamental Principles)
+4. 4 Vidhi Vimarsha (Applied Inferences) 4.1 Udara roga 4.2 Mutraghata 4.3 Ksheera dosha 4.4 Reto dosha 4.5 Kushtha 4.6 Pidaka 4.7 Visarpa 4.8 Atisara 4.9 Udavarta 4.10 Gulma 4.11 Kasa 4.12 Shvasa 4.13 Hikka 4.14 Trishna 4.15 Chhardi 4.16 Arochaka 4.17 Shiroroga and Hridroga 4.18 Pandu 4.19 Unmada 4.20 Apasmara 4.21 Akshi roga, karna roga and mukha roga 4.22 Grahani 4.23 Mada/Murchha 4.24 Shosha 4.25 Klaibya 4.26 Shotha 4.27 Kilasa 4.28 Raktapitta 4.29 Jwara 4.30 Vrana 4.31 Aayama 4.32 Gridhrasi 4.33 Miscellaneous diseases
+5. 5 References
+
+[REFERENCES / LINKS]
+1 Introduction : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#Introduction
+2 Sanskrit text, Transliteration and English Translation : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#Sanskrit_text,_Transliteration_and_English_Translation
+2.1 Numerical classification of diseases : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#Numerical_classification_of_diseases
+2.2 Types of diseases : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#Types_of_diseases
+2.2.1 Diseases of Eight Types : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#Diseases_of_Eight_Types
+2.2.2 Diseases of Seven Types : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#Diseases_of_Seven_Types
+2.2.3 Diseases of Six Types : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#Diseases_of_Six_Types
+2.2.4 Diseases of Five Types : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#Diseases_of_Five_Types
+2.2.5 Diseases of Four Types : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#Diseases_of_Four_Types
+2.2.6 Diseases of Three Types : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#Diseases_of_Three_Types
+2.2.7 Diseases of Two Types : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#Diseases_of_Two_Types
+2.2.8 Diseases of One Type : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#Diseases_of_One_Type
+2.2.9 Diseases of Twenty Types : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#Diseases_of_Twenty_Types
+2.3 Definite relation between dosha and disease : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#Definite_relation_between_dosha_and_disease
+2.4 Endogenous and exogenous diseases : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#Endogenous_and_exogenous_diseases
+2.5 Progression of endogenous and exogenous diseases : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#Progression_of_endogenous_and_exogenous_diseases
+2.6 Summary : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#Summary
+3 Tattva Vimarsha (Fundamental Principles) : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#Tattva_Vimarsha_(Fundamental_Principles)
+4 Vidhi Vimarsha (Applied Inferences) : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#Vidhi_Vimarsha_(Applied_Inferences)
+4.1 Udara roga : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#Udara_roga
+4.2 Mutraghata : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#Mutraghata
+4.3 Ksheera dosha : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#Ksheera_dosha
+4.4 Reto dosha : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#Reto_dosha
+4.5 Kushtha : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#Kushtha
+4.6 Pidaka : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#Pidaka
+4.7 Visarpa : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#Visarpa
+4.8 Atisara : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#Atisara
+4.9 Udavarta : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#Udavarta
+4.10 Gulma : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#Gulma
+4.11 Kasa : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#Kasa
+4.12 Shvasa : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#Shvasa
+4.13 Hikka : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#Hikka
+4.14 Trishna : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#Trishna
+4.15 Chhardi : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#Chhardi
+4.16 Arochaka : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#Arochaka
+4.17 Shiroroga and Hridroga : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#Shiroroga_and_Hridroga
+4.18 Pandu : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#Pandu
+4.19 Unmada : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#Unmada
+4.20 Apasmara : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#Apasmara
+4.21 Akshi roga, karna roga and mukha roga : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#Akshi_roga,_karna_roga_and_mukha_roga
+4.22 Grahani : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#Grahani
+4.23 Mada/Murchha : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#Mada/Murchha
+4.24 Shosha : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#Shosha
+4.25 Klaibya : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#Klaibya
+4.26 Shotha : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#Shotha
+4.27 Kilasa : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#Kilasa
+4.28 Raktapitta : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#Raktapitta
+4.29 Jwara : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#Jwara
+4.30 Vrana : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#Vrana
+4.31 Aayama : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#Aayama
+4.32 Gridhrasi : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#Gridhrasi
+4.33 Miscellaneous diseases : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#Miscellaneous_diseases
+5 References : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#References
+
+
+[BLOCK 14: H2]
+----------------------------------------------------------------------
+Introduction
+
+
+[BLOCK 15: P]
+----------------------------------------------------------------------
+Important principles of diseases in this section of the Roga Chatushka (tetrad on diseases) have been described. The preceding chapter provided a broader explanation for the cause of innumerable diseases due to dosha vitiation as well as variations in characteristics like pain, sign, etiology, site of origin, site of manifestation, symptoms and nomenclature. However, only the most important diseases, probably prevalent at that time, have been classified in view of prescribing treatment. Classification of these known diseases, based on characteristics provided above, and coupled with a few more variables such as prognosis, chronicity, treatment etc. have been done at various places within the Charak Samhita . On critically analyzing, we find that the diseases have been classified into groups having as few as one to as many as eight diseases each.Three disease groups of twenty types each have been classified at the end. It has been observed that the listing of groups by diseases has been done in a descending order - from those having eight diseases to one - because there are no other groups that have greater than eight types of diseases within them, except for the three groups with twenty types. Hence, these outliers (with twenty types) have been enumerated at the end rather than in the beginning of the chapter. Even though there are eighteen types of obstinate skin diseases, only the seven most obstinate ones have been enumerated here.
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+Charak Samhita : https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita
+
+
+[BLOCK 16: P]
+----------------------------------------------------------------------
+As mentioned above, various modes of classification have been used to classify diseases in the Samhita - some diseases have been classified only according to dosha involved, such as apasmara (epilepsy), akshi roga (eye diseases), mukha roga (diseases of oral cavity), pratishyaya (rhinitis) etc. In some cases, apart from dosha , certain etiological factors have also been considered and nomenclature has been done accordingly e.g. in case of unmada, pandu roga, hridroga, chhardi, shosha, vrana etc. Some diseases have been classified taking into consideration only prominent clinical features, such as in the case of kushtha, kilasa, arsha, jwara, and aayama . In some cases, nomenclature is based on the site involved in pathogenesis, as in rakta pitta, kamala etc, while in some cases, severity has been the basis for classification e.g. vatarakta . We also find groups containing sub-classes or sub-groups of diseases. This hierarchical basis has been used while classifying the three disease families mentioned that have twenty types of diseases. Krimi are first classified into bahya, raktaja, shleshmaja and purishaja which are sub-classified into other diseases. Similarly, twenty types of pramehas are broadly classified into three groups on the basis of dosha and then subtypes are mentioned. Yoni vyapada (gynecological disorders) are broadly classified into diseases caused by dosha and diseases caused by amalgamation of dosha and dushyas , with further sub-classifications. Thus, it can be said that classification has not been restricted to a single hierarchic pattern but a hierarchical system for disease classification as well. Still, the classification of all known diseases is not complete using the above mentioned system. Need-based or contextual re-classification of various disease groups can be found in many places within the Samhita.
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 17: P]
+----------------------------------------------------------------------
+This lack of standardization or disease classification or nomenclature does warrant a need to frame some standards that are unanimously acceptable across the world. In fact, the need for standardizing disease classifications has been strongly aired by experts and this body of classification has been given the name of Ayurvedic Classification of Diseases (ACD). Moreover, considering the importance of traditional medicine, the World Health Organization (WHO) is also incorporating Traditional Medicine (TM) in ICD-11. WHO recently completed a survey among member nations and discovered that 82% of the world's population uses some form of TM.[2] To bring all countries onto one platform for health management requires the inclusion of TM in ICD.
+
+
+[BLOCK 18: P]
+----------------------------------------------------------------------
+To make this happen, immense efforts are required to develop adequate nomenclature and classification for Ayurvedic diseases. However, there are practical challenges associated with correlating all these diseases mentioned in Ayurveda with modern disease families. For example, certain diseases or disorders such as kushtha, pandu, prameha, gulma, etc. may not have an equivalent in modern medicine. Some do have a direct correlation with those found or classified today, such as bhagandara, kamala, baddhodara, chidrodara, tamaka shwasa etc.
+
+[REFERENCES / LINKS]
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+
+
+[BLOCK 19: P]
+----------------------------------------------------------------------
+The relationship between the dosha and endogenous diseases can be explained using the following analogy mentioned in this text: just as no bird (under the Sun) can fly without casting a shadow, no endogenous disease (caused by the disturbance of the equilibrium of dhatu ) can occur without the vitiation of vata , pitta and kapha . The exogenous diseases may or may not be caused due to a vitiated dosha but so far as their treatment is concerned, dosha need not be factored in. There is also a mention of exogenous and endogenous diseases coexisting together. Endogenous diseases are, at times, followed by the exogenous ones and vice-versa. While treating such conditions, one should start treatment on the basis of the secondary development and our understanding of the primary nature of the disease.
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dhatu : https://www.carakasamhitaonline.com/index.php?title=Dhatu
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 20: H2]
+----------------------------------------------------------------------
+Sanskrit text, Transliteration and English Translation
+
+
+[BLOCK 21: P]
+----------------------------------------------------------------------
+अथातोऽष्टोदरीयमध्यायं व्याख्यास्यामः||१||
+
+
+[BLOCK 22: P]
+----------------------------------------------------------------------
+इति ह स्माह भगवानात्रेयः||२||
+
+
+[BLOCK 23: P]
+----------------------------------------------------------------------
+athātō'ṣṭōdarīyamadhyāyaṁ vyākhyāsyāmaḥ||1||
+
+
+[BLOCK 24: P]
+----------------------------------------------------------------------
+iti ha smāha bhagavānātrēyaḥ||2||
+
+
+[BLOCK 25: P]
+----------------------------------------------------------------------
+athAto~aShTodarIyamadhyAyaM vyAkhyAsyAmaH||1||
+
+
+[BLOCK 26: P]
+----------------------------------------------------------------------
+iti ha smAha bhagavAnAtreyaH||2||
+
+
+[BLOCK 27: P]
+----------------------------------------------------------------------
+Now we shall expound the chapter "Ashtodariya" (Numerical Classification of Diseases starting from eight types of abdominal diseases). Thus said Lord Atreya [1-2]
+
+
+[BLOCK 28: H3]
+----------------------------------------------------------------------
+Numerical classification of diseases
+
+
+[BLOCK 29: P]
+----------------------------------------------------------------------
+अष्टावुदराणीति, अष्टौ मूत्राघाता: अष्टौ क्षीरदोषा:, अष्टौ रेतोदोषा: ,सप्त कुष्ठानीति,सप्त पिडका:,
+सप्त विसर्पा:,षडतीसारा:, षडुदावर्ता:, पञ्च गुल्मा:, पञ्च प्लीहदोषा:, पञ्च कासा:, पञ्च श्वासा:,
+पञ्च हिक्का:, पञ्च तृष्णा:, पञ्च छर्दय:, पञ्च भक्तस्यानशनस्थानानि, पञ्च शिरोरोगा:, पञ्च हृद्रोगा:,
+पञ्च पाण्डुरोगा:, पञ्चोन्मादा:, चत्वारोऽपस्मारा:, चत्वारोऽक्षिरोगा:, चत्वारः कर्णरोगा:, चत्वारः प्रतिश्याया:,
+चत्वारो मुखरोगा:, चत्वारो ग्रहणीदोषा:, चत्वारो मदा:, चत्वारो मूर्च्छाया:, चत्वारः शोषा:, चत्वारि क्लैब्यानि:,
+त्रयः शोथा:, त्रीणि किलासानि, त्रिविधं लोहितपित्तम, द्वौ ज्वरO, द्वौ व्रण, द्वावायाम, द्वे गृध्रस्य, द्वे कामले,
+द्विविधमामम, द्विविधं वातरक्तम, द्विविधान्यर्शांसी, एक ऊरुस्तम्भ:, एकः सन्न्यास:, एको महागद:, विंशतिः क्रिमिजातय:,
+विंशतिः प्रमेहा:, विंशतिर्योनिव्यापद: इति इति अष्ट्चत्वारिंशद्रोगधिकरणान्यस्मिन् संग्रहे समुद्दिष्टानि ||3||
+
+
+[BLOCK 30: P]
+----------------------------------------------------------------------
+There are eight types of udara roga (abdominal swellings), eight types of mutraghata (oliguria/anuria), eight types of ksheera dosha (disorders related to breast milk), eight types of reto dosha (disorders of semen), seven types of kushtha (skin disorders), seven types of pidaka (inflammatory swelling), seven types of visarpa (acute spreading inflammatory skin conditions like erysipelas ), six types of atisara (diarrhoeal diseases), six types of udavarta (abdominal diseases due to suppression of natural urges), five types of gulma (abdominal lumps/tumour), five types of pliha dosha (disorders of spleen), five types of kasa (cough), five types of shwasa (dyspnoea), five types of hikka (hiccup), five types of trishna (thirst), five types of chhardi (vomiting), five types of bhaktasyanashanasthanani (anorexia), five types of shiroroga (diseases of head), five types of hridroga (diseases of heart), five types of panduroga (anaemia), five types of unmada (insanity), four types of apasmara (epilepsy), four types of akshiroga (disorders of eyes), four types of karna roga (disorders of ear), four types of pratishyaya (rhinitis), four types of mukha roga (oral diseases/buccal diseases), four types of grahani roga (assimilation disorders/malabsorption disorders), four types of mada roga (intoxication), four types of murchcha (fainting), four types of shosha (consumption/wasting disorders), four types of klaibya (sterility), three types of shopha (swellings), three types of kilasa (vitiligo), three types of rakta-pitta (coagulopathies), two types of jwara (fever), two types of vrana (wound), two types of aayama (abnormal posture of body due to severe muscular spasm), two types of gridhrasi (sciatica), two types of kamala (jaundice), two types of ama (disorders due to indigestion and metabolism), two types of vatarakta (gout), two types of arsha (piles), one type of urustambha (spastic paraplegia), one type of sanyasa (coma), one type of mahagada (Pshyconeurosis), twenty types of krimi roga (parasitic infestations), twenty types of prameha (urinary disorders which are characterized by abnormal and increased frequency of urine), and twenty types of yoni vyapad (gynaecological disorders).
+Thus, classifications of forty-eight diseases have been briefly described in this chapter. [3]
+
+
+[BLOCK 31: H3]
+----------------------------------------------------------------------
+Types of diseases
+
+
+[BLOCK 32: H4]
+----------------------------------------------------------------------
+Diseases of Eight Types
+
+
+[BLOCK 33: P]
+----------------------------------------------------------------------
+एतानि यथोद्देशमभिनिर्देक्ष्यामः
+
+
+[BLOCK 34: P]
+----------------------------------------------------------------------
+अष्टावुदराणीति वातपित्तकफसन्निपातप्लीहबद्धच्छिद्रदकोदराणि, अष्टौ मूत्राघाता इतिवातपित्तकफसन्निपाताश्मरीशर्कराशुक्रशोणितजाः,
+अष्टौ क्षीरदोषा इति वैवर्ण्यं वैगन्ध्यं वैरस्यं पैच्छिल्यं फेनसङ्घातो रौक्ष्यंगौरवमतिस्नेहश्च, अष्टौ रेतोदोषा इति तनु शुष्कं फेनिलमश्वेतं पूत्यतिपिच्छलमन्यधातूपहितमवसादि च (१);
+
+
+[BLOCK 35: P]
+----------------------------------------------------------------------
+ētāni yathōddēśamabhinirdēkṣyāmaḥ
+
+
+[BLOCK 36: P]
+----------------------------------------------------------------------
+aṣṭāvudarāṇīti vātapittakaphasannipātaplīhabaddhacchidradakōdarāṇi, aṣṭau mūtrāghātā itivātapittakaphasannipātāśmarīśarkarāśukraśōṇitajāḥ, aṣṭau kṣīradōṣā iti vaivarṇyaṁ vaigandhyaṁvairasyaṁ paicchilyaṁ phēnasaṅghātō raukṣyaṁ gauravamatisnēhaśca, aṣṭau rētōdōṣā iti tanu śuṣkaṁphēnilamaśvētaṁ pūtyatipicchalamanyadhātūpahitamavasādi ca (1);
+
+
+[BLOCK 37: P]
+----------------------------------------------------------------------
+etAni yathoddeshamabhinirdekShyAmaH
+
+
+[BLOCK 38: P]
+----------------------------------------------------------------------
+aShTAvudarANIti vAtapittakaphasannipAtaplIhabaddhacchidradakodarANi, aShTau mUtrAghAtA iti
+vAtapittakaphasannipAtAshmarIsharkarAshukrashoNitajAH,aShTau kShIradoShA iti vaivarNyaM vaigandhyaM vairasyaM paicchilyaM phenasa~gghAto raukShyaM gauravamatisnehashca, aShTau retodoShA iti tanu shuShkaMphenilamashvetaM pUtyatipicchalamanyadhAtUpahitamavasAdi ca (1);
+
+
+[BLOCK 39: P]
+----------------------------------------------------------------------
+These diseases will be described in detail in the same order as enumerated earlier.
+
+
+[BLOCK 40: UL]
+----------------------------------------------------------------------
+1. Eight types of udara roga (abdominal swelling) are vataja , pittaja , kaphaja , sannipataja, plihodara(due to splenic disorder), baddhodara (due to intestinal obstruction), chidrodara (due to intestinal perforation) and dakodara (ascites).
+2. Eight types of mutraghatas (Oliguria/Anuria) are vataja , pittaja , kaphaja , sannipatika, ashmarija(due to stone in urinary tract), sharkaraja (due to gravels in urinary tract), shukraja (due to spermolith) and shonitaja (due to hematoma).
+3. Eight types of ksheera-dosha (disorders of breast milk) are vaivarnya (discoloration), vaignadhyam (altered smell), vairasyam (altered taste), paichichhilyam (sliminess), phenasamghata (excessive frothiness), raukshyam (absence of unctuousness), gauravam (heaviness in digestion/physical character) and atisneha (excessive unctuousness).
+4. Eight types of reto dosha (disorders of semen) are tanu (increased liquidity/decreased liquefaction time), shuskam (less viscous/dry), phenilam (excessive frothiness), ashwetam (discoloration), puti (foul smelling), atipichichhilam (excessive sliminess), anyadhatupahitam (presence of tissue constituents) and avasadi (increased specific gravity) (1)
+
+[REFERENCES / LINKS]
+vataja : https://www.carakasamhitaonline.com/index.php?title=Vata
+pittaja : https://www.carakasamhitaonline.com/index.php?title=Pitta
+kaphaja : https://www.carakasamhitaonline.com/index.php?title=Kapha
+vataja : https://www.carakasamhitaonline.com/index.php?title=Vata
+pittaja : https://www.carakasamhitaonline.com/index.php?title=Pitta
+kaphaja : https://www.carakasamhitaonline.com/index.php?title=Kapha
+
+
+[BLOCK 41: H4]
+----------------------------------------------------------------------
+Diseases of Seven Types
+
+
+[BLOCK 42: P]
+----------------------------------------------------------------------
+सप्त कुष्ठानीति कपालोदुम्बरमण्डलर्ष्यजिह्वपुण्डरीकसिध्मकाकणानि, सप्त पिडका इति शराविका कच्छपिका जालिनीसर्षप्यलजी विनता विद्रधी च, सप्त विसर्पा इति वातपित्तकफाग्निकर्दमकग्रन्थिसन्निपाताख्याः (२);
+
+
+[BLOCK 43: P]
+----------------------------------------------------------------------
+sapta kuṣṭhānīti kapālōdumbaramaṇḍalarṣyajihvapuṇḍarīkasidhmakākaṇāni, sapta piḍakā iti śarāvikākacchapikā jālinī sarṣapyalajī vinatā vidradhī ca, sapta visarpā itivātapittakaphāgnikardamakagranthisannipātākhyāḥ (2);
+
+
+[BLOCK 44: P]
+----------------------------------------------------------------------
+sapta kuShThAnIti kapAlodumbaramaNDalarShyajihvapuNDarIkasidhmakAkaNAni, sapta piDakA iti sharAvikA kacchapikA jAlinI sarShapyalajI vinatA vidradhI ca,sapta visarpA iti vAtapittakaphAgnikardamakagranthisannipAtAkhyAH (2);
+
+
+[BLOCK 45: UL]
+----------------------------------------------------------------------
+1. Seven varieties of kushtha (obstinate skin diseases) are kapala, udumbara, mandala, rishyajihwa, pundarika, sidhma and kakanaka .
+2. Seven types of pidakas (inflammatory swellings) are sharavika, kachhapika, jalini, sarshapi, alaji, vinata and vidradhi .
+3. Seven types of visarpa (acute spreading inflammatory skin conditions) are vataja , pittaja , [kapha]]ja, sannipatika, agni, kardama and granthi. (2)
+
+[REFERENCES / LINKS]
+vataja : https://www.carakasamhitaonline.com/index.php?title=Vata
+pittaja : https://www.carakasamhitaonline.com/index.php?title=Pitta
+
+
+[BLOCK 46: H4]
+----------------------------------------------------------------------
+Diseases of Six Types
+
+
+[BLOCK 47: P]
+----------------------------------------------------------------------
+षडतीसारा इति वातपित्तकफसन्निपातभयशोकजाः, षडुदावर्ता इति वातमूत्रपुरीषशुक्रच्छर्दिक्षवथुजाः (३);
+
+
+[BLOCK 48: P]
+----------------------------------------------------------------------
+ṣaḍatīsārā iti vātapittakaphasannipātabhayaśōkajāḥ, ṣaḍudāvartā itivātamūtrapurīṣaśukracchardikṣavathujāḥ (3);
+
+
+[BLOCK 49: P]
+----------------------------------------------------------------------
+ShaDatIsArA iti vAtapittakaphasannipAtabhayashokajAH, ShaDudAvartA iti vAtamUtrapurIShashukracchardikShavathujAH (3);
+
+
+[BLOCK 50: UL]
+----------------------------------------------------------------------
+1. Six types of Atisara (diarrhoeal disorders) are vatika, paittika, kaphaja , sannipatika, bhayaja (caused by fear) and shokaja (caused by grief.)
+2. Six types of Udavartas (abdominal diseases due to suppression of natural urges) are vataja (due to suppression of flatus), mutraja (due to suppression of urine), purishaja (due to suppression of feces), shukraja (Due to suppression of ejaculation of semen), chhardija (due to suppression of vomiting) and kshavathuja (due to suppression of sneezing). (3)
+
+[REFERENCES / LINKS]
+kaphaja : https://www.carakasamhitaonline.com/index.php?title=Kapha
+mutraja : https://www.carakasamhitaonline.com/index.php?title=Mutra
+purishaja : https://www.carakasamhitaonline.com/index.php?title=Purisha
+shukraja : https://www.carakasamhitaonline.com/index.php?title=Shukra
+
+
+[BLOCK 51: H4]
+----------------------------------------------------------------------
+Diseases of Five Types
+
+
+[BLOCK 52: P]
+----------------------------------------------------------------------
+पञ्च गुल्मा इति वातपित्तकफसन्निपातशोणितजाः, पञ्च प्लीहदोषा इति गुल्मैर्व्याख्याताः, पञ्च कासा इतिवातपित्तकफक्षतक्षयजाः, पञ्च श्वासा इति महोर्ध्वच्छिन्नतमकक्षुद्राः, पञ्च हिक्का इति महती गम्भीरा व्यपेता क्षुद्राऽन्नजाच, पञ्च तृष्णा इति वातपित्तामक्षयोपसर्गात्मिकाः, पञ्च छर्दय इति द्विष्टार्थसंयोगजा वातपित्तकफसन्निपातोद्रेकोत्थाश्च , पञ्च भक्तस्यानशनस्थानानीति वातपित्तकफसन्निपातद्वेषाः, पञ्च शिरोरोगा इति पूर्वोद्देशमभिसमस्यवातपित्तकफसन्निपातक्रिमिजाः, पञ्च हृद्रोगा इति शिरोरोगैर्व्याख्याताः, पञ्च पाण्डुरोगा इतिवातपित्तकफसन्निपातमृद्भक्षणजाः, पञ्चोन्मादा इति वातपित्तकफसन्निपातागन्तुनिमित्ताः (४)
+
+
+[BLOCK 53: P]
+----------------------------------------------------------------------
+pañca gulmā iti vātapittakaphasannipātaśōṇitajāḥ, pañca plīhadōṣā iti gulmairvyākhyātāḥ, pañca kāsā itivātapittakaphakṣatakṣayajāḥ, pañca śvāsā iti mahōrdhvacchinnatamakakṣudrāḥ, pañca hikkā iti mahatīgambhīrā vyapētā kṣudrā'nnajā ca, pañca tr̥ṣṇā iti vātapittāmakṣayōpasargātmikāḥ, pañca chardaya itidviṣṭārthasaṁyōgajā vātapittakaphasannipātōdrēkōtthāśca , pañca bhaktasyānaśanasthānānītivātapittakaphasannipātadvēṣāḥ, pañca śirōrōgā iti pūrvōddēśamabhisamasyavātapittakaphasannipātakrimijāḥ, pañca hr̥drōgā iti śirōrōgairvyākhyātāḥ, pañca pāṇḍurōgā itivātapittakaphasannipātamr̥dbhakṣaṇajāḥ, pañcōnmādā iti vātapittakaphasannipātāgantunimittāḥ (4)
+
+
+[BLOCK 54: P]
+----------------------------------------------------------------------
+pa~jca gulmA iti vAtapittakaphasannipAtashoNitajAH, pa~jca plIhadoShA iti gulmairvyAkhyAtAH, pa~jca kAsA iti vAtapittakaphakShatakShayajAH, pa~jca shvAsA itimahordhvacchinnatamakakShudrAH, pa~jca hikkA iti mahatI gambhIrA vyapetA kShudrA~annajA ca, pa~jca tRuShNA iti vAtapittAmakShayopasargAtmikAH, pa~jcachardaya iti dviShTArthasaMyogajA vAtapittakaphasannipAtodrekotthAshca [1] , pa~jca bhaktasyAnashanasthAnAnIti vAtapittakaphasannipAtadveShAH, pa~jcashirorogA iti pUrvoddeshamabhisamasya vAtapittakaphasannipAtakrimijAH, pa~jca hRudrogA iti shirorogairvyAkhyAtAH, pa~jca pANDurogA itivAtapittakaphasannipAtamRudbhakShaNajAH, pa~jconmAdA iti vAtapittakaphasannipAtAgantunimittAH (4)
+
+
+[BLOCK 55: UL]
+----------------------------------------------------------------------
+1. Five types of gulmas (abdominal lump/tumour) are vataja , pittaja , kaphaja , sannipataja and raktaj .
+2. Five types of pliha doshas (splenic disorders) are of the same type as those of gulma .
+3. Five types of kasa (cough) are vataja , pittaja , kaphaja , kshataja (caused by internal injuries in respiratory tract) and kshayaja (caused by wasting).
+4. Five types of shwasa (dyspnoea) are mahashwasa, urdhwashwasa, chhinna shwasa, tamaka shwasa and kshudra shwasa (dyspnoea due to exertion).
+5. Five types of hikka (hiccup) are mahati, gambhira, vyapeta, kshudra and annaja .
+6. Five types of trishna (thirst) are vataja , pittaja , amaja, kshayaja (due to wasting) and upsargaja (secondary to other diseases).
+7. Five types of chhardi (vomiting) are vataja , pittaja , kaphaja , sannipataja and dwistarthsangyogaja (by coming in contact with obnoxious articles).
+8. Five types of bhaktasyanasana (anorexia) are vataja , pittaja , kaphaja , sannipataja and dweshaja (repugnance)
+9. Five types of shiroroga (disorders of head) are vataja , pittaja , kaphaja , sannipataja and krimija (due to parasitic infection).
+10. Five varieties of hridroga (cardiac disorders) are same as disorders of head i.e. vataja , pittaja , kaphaja , sannipataja and krimija (due to parasitic infection).
+11. Five types of pandu (anaemia) are vataja , pittaja , kaphaja , sannipataja and mridbhakshanaja (due to intake of clay).
+12. Five types of unmada (insanity) are vataja , pittaja , kaphaja , sannipataja and aagantuja (due to exogenous causes). (4)
+
+[REFERENCES / LINKS]
+vataja : https://www.carakasamhitaonline.com/index.php?title=Vata
+pittaja : https://www.carakasamhitaonline.com/index.php?title=Pitta
+kaphaja : https://www.carakasamhitaonline.com/index.php?title=Kapha
+raktaj : https://www.carakasamhitaonline.com/index.php?title=Rakta
+vataja : https://www.carakasamhitaonline.com/index.php?title=Vata
+pittaja : https://www.carakasamhitaonline.com/index.php?title=Pitta
+kaphaja : https://www.carakasamhitaonline.com/index.php?title=Kapha
+vataja : https://www.carakasamhitaonline.com/index.php?title=Vata
+pittaja : https://www.carakasamhitaonline.com/index.php?title=Pitta
+vataja : https://www.carakasamhitaonline.com/index.php?title=Vata
+pittaja : https://www.carakasamhitaonline.com/index.php?title=Pitta
+kaphaja : https://www.carakasamhitaonline.com/index.php?title=Kapha
+vataja : https://www.carakasamhitaonline.com/index.php?title=Vata
+pittaja : https://www.carakasamhitaonline.com/index.php?title=Pitta
+kaphaja : https://www.carakasamhitaonline.com/index.php?title=Kapha
+vataja : https://www.carakasamhitaonline.com/index.php?title=Vata
+pittaja : https://www.carakasamhitaonline.com/index.php?title=Pitta
+kaphaja : https://www.carakasamhitaonline.com/index.php?title=Kapha
+vataja : https://www.carakasamhitaonline.com/index.php?title=Vata
+pittaja : https://www.carakasamhitaonline.com/index.php?title=Pitta
+kaphaja : https://www.carakasamhitaonline.com/index.php?title=Kapha
+vataja : https://www.carakasamhitaonline.com/index.php?title=Vata
+pittaja : https://www.carakasamhitaonline.com/index.php?title=Pitta
+kaphaja : https://www.carakasamhitaonline.com/index.php?title=Kapha
+vataja : https://www.carakasamhitaonline.com/index.php?title=Vata
+pittaja : https://www.carakasamhitaonline.com/index.php?title=Pitta
+kaphaja : https://www.carakasamhitaonline.com/index.php?title=Kapha
+
+
+[BLOCK 56: H4]
+----------------------------------------------------------------------
+Diseases of Four Types
+
+
+[BLOCK 57: P]
+----------------------------------------------------------------------
+चत्वारोऽपस्मारा इति वातपित्तकफसन्निपातनिमित्ताः, चत्वारोऽक्षिरोगाश्चत्वारः कर्णरोगाश्चत्वारः प्रतिश्यायाश्चत्वारोमुखरोगाश्चत्वारो ग्रहणीदोषाश्चत्वारो मदाश्चत्वारो मूर्च्छाया इत्यपस्मारैर्व्याख्याताः, चत्वारः शोषा इतिसाहससन्धारणक्षयविषमाशनजाः, चत्वारि क्लैब्यानीति बीजोपघाताद्ध्वजभङ्गाज्जरायाः शुक्रक्षयाच्च (५)
+
+
+[BLOCK 58: P]
+----------------------------------------------------------------------
+catvārō'pasmārā iti vātapittakaphasannipātanimittāḥ, catvārō'kṣirōgāścatvāraḥ karṇarōgāścatvāraḥpratiśyāyāścatvārō mukharōgāścatvārō grahaṇīdōṣāścatvārō madāścatvārō mūrcchāyāityapasmārairvyākhyātāḥ, catvāraḥ śōṣā iti sāhasasandhāraṇakṣayaviṣamāśanajāḥ, catvāri klaibyānītibījōpaghātāddhvajabhaṅgājjarāyāḥ śukrakṣayācca (5)
+
+
+[BLOCK 59: P]
+----------------------------------------------------------------------
+catvAro~apasmArA iti vAtapittakaphasannipAtanimittAH, catvAro~akShirogAshcatvAraH karNarogAshcatvAraH pratishyAyAshcatvAro mukharogAshcatvArograhaNIdoShAshcatvAro madAshcatvAro mUrcchAyA ityapasmArairvyAkhyAtAH, catvAraH shoShA iti sAhasasandhAraNakShayaviShamAshanajAH, catvAriklaibyAnIti bIjopaghAtAddhvajabha~ggAjjarAyAH shukrakShayAcca (5)
+
+
+[BLOCK 60: UL]
+----------------------------------------------------------------------
+1. Four types of apasmara (epilepsy) are vataja , pittaja , kaphaja and sannipataja.
+2. Four types of akshiroga (diseases of the eye)
+3. Four types of karna roga (diseases of the ear)
+4. Four types of pratishyaya (rhinitis)
+5. Four types of mukha roga (oral disorders)
+6. Four types of grahani roga (mal-absorption disorders)
+7. Four types of mada roga (intoxication) and
+8. Four types of murchcha (fainting) are same as that of apasmara (epilepsy) i.e. vataja , pittaja , kaphaja and sannipataja.
+9. Four varieties of shosha (consumption/wasting) are sahasaja (over strain), sandharanaja (suppression of natural urges), kshayaja (wasting) and vishamashanaja (irregularities in diet).
+10. Four types of klaibya (sterility) are beejopaghataja (affliction of sperm), dhwajabhangaja (atonia of genital organs/erectile dysfunction), jaraaja (senility) and shukrakshayaja (decreased production of sperm) (5)
+
+[REFERENCES / LINKS]
+vataja : https://www.carakasamhitaonline.com/index.php?title=Vata
+pittaja : https://www.carakasamhitaonline.com/index.php?title=Pitta
+kaphaja : https://www.carakasamhitaonline.com/index.php?title=Kapha
+vataja : https://www.carakasamhitaonline.com/index.php?title=Vata
+pittaja : https://www.carakasamhitaonline.com/index.php?title=Pitta
+kaphaja : https://www.carakasamhitaonline.com/index.php?title=Kapha
+
+
+[BLOCK 61: H4]
+----------------------------------------------------------------------
+Diseases of Three Types
+
+
+[BLOCK 62: P]
+----------------------------------------------------------------------
+त्रयः शोथा इति वातपित्तश्लेष्मनिमित्ताः, त्रीणि किलासानीति रक्तताम्रशुक्लानि, त्रिविधं लोहितपित्तमितिऊर्ध्वभागमधोभागमुभयभागं च (६)
+
+
+[BLOCK 63: P]
+----------------------------------------------------------------------
+trayaḥ śōthā iti vātapittaślēṣmanimittāḥ, trīṇi kilāsānīti raktatāmraśuklāni, trividhaṁ lōhitapittamitiūrdhvabhāgamadhōbhāgamubhayabhāgaṁ ca (6)
+
+
+[BLOCK 64: P]
+----------------------------------------------------------------------
+trayaH shothA iti vAtapittashleShmanimittAH, trINi kilAsAnIti raktatAmrashuklAni, trividhaM lohitapittamiti UrdhvabhAgamadhobhAgamubhayabhAgaM ca (6)
+
+
+[BLOCK 65: UL]
+----------------------------------------------------------------------
+1. Three types of shothas (swellings) are vataja , pittaja and kaphaja .
+2. Three types of kilasas (vitiligo) are "rakta" (red), tamra (coppery) and shukla (white) coloured.
+3. Three types of lohitatapittas (coagulopathies) are urdhabhagam (involving upper channels), adhobhagam (involving lower channels and ubhayabhagam (involving both channels). (6)
+
+[REFERENCES / LINKS]
+vataja : https://www.carakasamhitaonline.com/index.php?title=Vata
+pittaja : https://www.carakasamhitaonline.com/index.php?title=Pitta
+kaphaja : https://www.carakasamhitaonline.com/index.php?title=Kapha
+
+
+[BLOCK 66: H4]
+----------------------------------------------------------------------
+Diseases of Two Types
+
+
+[BLOCK 67: P]
+----------------------------------------------------------------------
+द्वौ ज्वराविति उष्णाभिप्रायः शीतसमुत्थश्च शीताभिप्रायश्चोष्णसमुत्थः, द्वौ व्रणाविति निजश्चागन्तुजश्च, द्वावायामावितिबाह्यश्चाभ्यन्तरश्च, द्वे गृध्रस्याविति वाताद्वातकफाच्च, द्वे कामले इति कोष्ठाश्रया शाखाश्रया च, द्विविधमाममितिअलसको विसूचिका च, द्विविधं वातरक्तमिति गम्भीरमुत्तानं च, द्विविधान्यर्शांसीति शुष्काण्यार्द्राणि च (७)
+
+
+[BLOCK 68: P]
+----------------------------------------------------------------------
+dvau jvarāviti uṣṇābhiprāyaḥ śītasamutthaśca śītābhiprāyaścōṣṇasamutthaḥ, dvau vraṇāvitinijaścāgantujaśca, dvāvāyāmāviti bāhyaścābhyantaraśca, dvē gr̥dhrasyāviti vātādvātakaphācca, dvēkāmalē iti kōṣṭhāśrayā śākhāśrayā ca, dvividhamāmamiti alasakō visūcikā ca, dvividhaṁ vātaraktamitigambhīramuttānaṁ ca, dvividhānyarśāṁsīti śuṣkāṇyārdrāṇi ca (7)
+
+
+[BLOCK 69: P]
+----------------------------------------------------------------------
+dvau jvarAviti uShNAbhiprAyaH shItasamutthashca shItAbhiprAyashcoShNasamutthaH, dvau vraNAviti nijashcAgantujashca, dvAvAyAmAvitibAhyashcAbhyantarashca, dve gRudhrasyAviti vAtAdvAtakaphAcca, dve kAmale iti koShThAshrayA shAkhAshrayA ca, dvividhamAmamiti alasako visUcikA ca,dvividhaM vAtaraktamiti gambhIramuttAnaM ca, dvividhAnyarshAMsIti shuShkANyArdrANi ca (7)
+
+
+[BLOCK 70: UL]
+----------------------------------------------------------------------
+1. Two types of jwara (fever) are ushnabhipraya shitasamuttha (fever arising from cold and patient has desire for hot substances) and shitabhipraya ushnasamuttha (fever arising from heat and patient has desire for cold substances).
+2. Two types of vrana (wound) are nija (endogenous causes) and agantuja (exogenous causes).
+3. Two types of aayama (abnormal posture of body due to severe muscular spasm) are bahya (opisthotonus) and abhayantara (emprosthotonus)
+4. Two types of gridhrasi (sciatica) are vatika and vata-kaphaja .
+5. Two types of kamala (jaundice) are koshthashraya (pre-hepatic & hepatic jaundice) and shakhashraya (Obstructive jaundice).
+6. Two types of ama (disorders due to improper digestion and metabolism) are alasaka (intestinal torper) and visuchika (cholera/food poisoning).
+7. Two types of vatarakta (gout) are gambheera (deep) and uttana (superficial).
+8. Two types of arsha (piles) are shushka (non bleeding masses) and aardra (bleeding masses). (7)
+
+
+[BLOCK 71: H4]
+----------------------------------------------------------------------
+Diseases of One Type
+
+
+[BLOCK 72: P]
+----------------------------------------------------------------------
+एक ऊरुस्तम्भ इत्यामत्रिदोषसमुत्थः, एकः सन्न्यास इति त्रिदोषात्मको मनःशरीराधिष्ठानः, एको महागद इतिअतत्त्वाभिनिवेशः (८)
+
+
+[BLOCK 73: P]
+----------------------------------------------------------------------
+ēka ūrustambha ityāmatridōṣasamutthaḥ, ēkaḥ sannyāsa iti tridōṣātmakō manaḥśarīrādhiṣṭhānaḥ, ēkōmahāgada iti atattvābhinivēśaḥ (8)
+
+
+[BLOCK 74: P]
+----------------------------------------------------------------------
+eka Urustambha ityAmatridoShasamutthaH, ekaH sannyAsa iti tridoShAtmako manaHsharIrAdhiShThAnaH, eko mahAgada iti atattvAbhiniveshaH (8)
+
+
+[BLOCK 75: UL]
+----------------------------------------------------------------------
+1. There is one urustambha (spastic paraplegia) which is caused by ama and all three dosha .
+2. Sanyasa (coma) is also of one type that is caused by all three dosha and is psycho-somatic in nature.
+3. Mahagada (major disease) is one and is due to atattvabhinivesha (mental and moral perversion). (8)
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 76: H4]
+----------------------------------------------------------------------
+Diseases of Twenty Types
+
+
+[BLOCK 77: P]
+----------------------------------------------------------------------
+विंशतिः क्रिमिजातय इति यूका पिपीलिकाश्चेति द्विविधा बहिर्मलजाः, केशादा लोमादा लोमद्वीपाः सौरसा औदुम्बराजन्तुमातरश्चेति षट् शोणितजाः, अन्त्रादा उदरावेष्टा हृदयादाश्चुरवो दर्भपुष्पाः सौगन्धिका महागुदाश्चेति सप्त कफजाः,ककेरुका मकेरुका लेलिहाः सशूलकाः सौसुरादाश्चेति पञ्च पुरीषजाः; विंशतिः प्रमेहा इत्युदकमेहश्चेक्षुबालिकारसमेहश्चसान्द्रमेहश्च सान्द्रप्रसादमेहश्च शुक्लमेहश्च शुक्रमेहश्च शीतमेहश्च शनैर्मेहश्च सिकतामेहश्च लालामेहश्चेति दशश्लेष्मनिमित्ताः, क्षारमेहश्च कालमेहश्च नीलमेहश्च लोहितमेहश्च मञ्जिष्ठामेहश्च हरिद्रामेहश्चेति षट् पित्तनिमित्ताः,वसामेहश्च मज्जामेहश्च हस्तिमेहश्च मधुमेहश्चेति चत्वारो वातनिमित्ताः, इति विंशतिः प्रमेहाः; विंशतिर्योनिव्यापद इतिवातिकी पैत्तिकी श्लेष्मिकी सान्निपातिकी चेति चतस्रो दोषजाः, दोषदूष्यसंसर्गप्रकृतिनिर्देशैरवशिष्टाः षोडश निर्दिश्यन्ते,तद्यथा-रक्तयोनिश्चारजस्का चाचरणा चातिचरणा च प्राक्चरणा चोपप्लुता च परिप्लुता चोदावर्तिनी च कर्णिनी च पुत्रघ्नीचान्तर्मुखी च सूचीमुखी च शुष्का च वामिनी च षण्ढयोनिश्च महायोनिश्चेति विंशतिर्योनिव्यापदो भवन्ति (९)
+
+
+[BLOCK 78: P]
+----------------------------------------------------------------------
+केवलश्चायमुद्देशो यथोद्देशमभिनिर्दिष्टो भवति||४||
+
+
+[BLOCK 79: P]
+----------------------------------------------------------------------
+viṁśatiḥ krimijātaya iti yūkā pipīlikāścēti dvividhā bahirmalajāḥ, kēśādā lōmādā lōmadvīpāḥ saurasāaudumbarā jantumātaraścēti ṣaṭ śōṇitajāḥ, antrādā udarāvēṣṭā hr̥dayādāścuravō darbhapuṣpāḥsaugandhikā mahāgudāścēti sapta kaphajāḥ, kakērukā makērukā lēlihāḥ saśūlakāḥ sausurādāścēti pañcapurīṣajāḥ; viṁśatiḥ pramēhā ityudakamēhaścēkṣubālikārasamēhaśca sāndramēhaścasāndraprasādamēhaśca śuklamēhaśca śukramēhaśca śītamēhaśca śanairmēhaśca sikatāmēhaścalālāmēhaścēti daśa ślēṣmanimittāḥ, kṣāramēhaśca kālamēhaśca nīlamēhaśca lōhitamēhaścamañjiṣṭhāmēhaśca haridrāmēhaścēti ṣaṭ pittanimittāḥ, vasāmēhaśca majjāmēhaśca hastimēhaścamadhumēhaścēti catvārō vātanimittāḥ, iti viṁśatiḥ pramēhāḥ; viṁśatiryōnivyāpada iti vātikī paittikī ślēṣmikīsānnipātikī cēti catasrō dōṣajāḥ, dōṣadūṣyasaṁsargaprakr̥tinirdēśairavaśiṣṭāḥ ṣōḍaśa nirdiśyantē,tadyathā- raktayōniścārajaskā cācaraṇā cāticaraṇā ca prākcaraṇā cōpaplutā ca pariplutā cōdāvartinī cakarṇinī ca putraghnī cāntarmukhī ca sūcīmukhī ca śuṣkā ca vāminī ca ṣaṇḍhayōniśca mahāyōniścētiviṁśatiryōnivyāpadō bhavanti (9)
+
+
+[BLOCK 80: P]
+----------------------------------------------------------------------
+kēvalaścāyamuddēśō yathōddēśamabhinirdiṣṭō bhavati||4||
+
+
+[BLOCK 81: P]
+----------------------------------------------------------------------
+viMshatiH krimijAtaya iti yUkA pipIlikAshceti dvividhA bahirmalajAH, keshAdA lomAdA lomadvIpAH saurasA audumbarA jantumAtarashceti ShaT shoNitajAH, antrAdAudarAveShTA hRudayAdAshcuravo darbhapuShpAH saugandhikA mahAgudAshceti sapta kaphajAH, kakerukA makerukA lelihAH sashUlakAH sausurAdAshcetipa~jca purIShajAH; viMshatiH pramehA ityudakamehashcekShubAlikArasamehashca sAndramehashca sAndraprasAdamehashca shuklamehashca shukramehashcashItamehashca shanairmehashca sikatAmehashca lAlAmehashceti dasha shleShmanimittAH, kShAramehashca kAlamehashca nIlamehashca lohitamehashcama~jjiShThAmehashca haridrAmehashceti ShaT pittanimittAH, vasAmehashca majjAmehashca hastimehashca madhumehashceti catvAro vAtanimittAH, itiviMshatiH pramehAH; viMshatiryonivyApada iti vAtikI paittikI shleShmikI sAnnipAtikI ceti catasro doShajAH, doShadUShyasaMsargaprakRutinirdeshairavashiShTAHShoDasha nirdishyante, tadyathA- raktayonishcArajaskA cAcaraNA cAticaraNA ca prAkcaraNA copaplutA ca pariplutA codAvartinI ca karNinI ca putraghnIcAntarmukhI ca sUcImukhI ca shuShkA ca vAminI ca ShaNDhayonishca mahAyonishceti viMshatiryonivyApado bhavanti (9)
+
+
+[BLOCK 82: P]
+----------------------------------------------------------------------
+kevalashcAyamuddesho yathoddeshamabhinirdiShTo bhavati||4||
+
+
+[BLOCK 83: UL]
+----------------------------------------------------------------------
+1. Twenty types of krimis (parasites) include yuka (lice) and pipilika (eggs of lice) on the body surface and produced from external impurities, six parasites in blood ( kesada, lomada, lomadwipa, saurasa, audumbara and jantumatara ). Seven parasites that live in kapha -specific body locations ( antrada, udaraveshta, hridayada, churu, darbhapushpa, saugandhika and mahaguda ), and five parasites originating from feces ( kakeruka, makeruka, leliha, sashulaka and sausurada ).
+
+
+[BLOCK 84: UL]
+----------------------------------------------------------------------
+1. Twenty types of pramehas (urinary disorders characterized by abnormal and increased frequency of urine) include udakameha (polyuria), ikshuvalikarasameha (glycosuria), sandrameha, sandraprasadameha, shuklameha, shukrameha, shitameha, shanairmeha, sikatameha and lalameha (ten diseases caused by kapha ). Ksharameha, kalameha, nilameha, lohitameha, manjisthameha and haridrameha are six types caused by pitta . Finally, vasameha, majjameha, hastimeha and madhumeha are four types caused by vata .
+
+
+[BLOCK 85: UL]
+----------------------------------------------------------------------
+1. There are twenty types of yoni vyapadas (gynaecological disorders). Of these, vatika, paittika and kaphaja and sannipataja are produced by vata , pitta , kapha and a combination of all the three dosha ( tridosha ) respectively. The remaining sixteen are caused through various permutations and combinations of dosha , dushya and other causative factors. These are raktayoni (menorrhagia), arajaska (amenorroea), acharana (colpitis mycotica), aticharana (chronic vaginitis), prakcharana (deflorative vaginitis), upapluta (secondary dysmenorrhoea), paripluta (acute vaginitis), udavartini (primary dysmenorrhoea), karinini (endo-cervitis), putraghini (abortive tendency), antarmukhi (inversion of uterus), suchimukhi (colpo stenosis), sushka (culpo xerosis), vamini (profluvium seminis), sandhyayoni (undeveloped female sex organs/pseudo-uterus) and mahayoni (prolapse of the uterus). These are twenty types of gynaecological disorders. (9)
+
+[REFERENCES / LINKS]
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 86: H3]
+----------------------------------------------------------------------
+Definite relation between dosha and disease
+
+
+[BLOCK 87: P]
+----------------------------------------------------------------------
+सर्व एव निजा विकारा नान्यत्र वातपित्तकफेभ्यो निर्वर्तन्ते, यथाहि- शकुनिः सर्वं दिवसमपि परिपतन् स्वां छायां नातिवर्तते,तथा स्वधातुवैषम्यनिमित्ताः सर्वे विकारा वातपित्तकफान्नातिवर्तन्ते|
+वातपित्तश्लेष्मणां पुनः स्थानसंस्थानप्रकृतिविशेषानभिसमीक्ष्य तदात्मकानपि च सर्वविकारां स्तानेवोपदिशन्तिबुद्धिमन्तः||५||
+
+
+[BLOCK 88: P]
+----------------------------------------------------------------------
+sarva ēva nijā vikārā nānyatra vātapittakaphēbhyō nirvartantē, yathāhi- śakuniḥ sarvaṁ divasamapiparipatan svāṁ chāyāṁ nātivartatē, tathā svadhātuvaiṣamyanimittāḥ sarvē vikārāvātapittakaphānnātivartantē|
+vātapittaślēṣmaṇāṁ punaḥ sthānasaṁsthānaprakr̥tiviśēṣānabhisamīkṣya tadātmakānapi casarvavikārāṁ stānēvōpadiśanti buddhimantaḥ||5||
+
+
+[BLOCK 89: P]
+----------------------------------------------------------------------
+sarva eva nijA vikArA nAnyatra vAtapittakaphebhyo nirvartante, yathAhi- shakuniH sarvaM divasamapi paripatan svAM chAyAM nAtivartate, tathAsvadhAtuvaiShamyanimittAH sarve vikArA vAtapittakaphAnnAtivartante|
+vAtapittashleShmaNAM punaH sthAnasaMsthAnaprakRutivisheShAnabhisamIkShya tadAtmakAnapi ca sarvavikArAM stAnevopadishanti buddhimantaH||5||
+
+
+[BLOCK 90: P]
+----------------------------------------------------------------------
+All the endogenous diseases occur invariably due to the vitiation of vata , pitta and kapha . As a bird cannot infringe upon its own shadow even by flying throughout the day, in the same way all the diseases are produced by disturbances in equilibrium in dhatu and cannot occur without vitiation of vata , pitta and kapha . By examining location, sign and symptoms, causes of vitiation of vata , pitta and kapha in any condition, the intelligent physician diagnose all diseases. (5)
+
+[REFERENCES / LINKS]
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+dhatu : https://www.carakasamhitaonline.com/index.php?title=Dhatu
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+
+
+[BLOCK 91: H3]
+----------------------------------------------------------------------
+Endogenous and exogenous diseases
+
+
+[BLOCK 92: P]
+----------------------------------------------------------------------
+भवतश्चात्र-
+स्वधातुवैषम्यनिमित्तजा ये विकारसङ्घा बहवः शरीरे|
+न ते पृथक् पित्तकफानिलेभ्य आगन्तवस्त्वेव ततो विशिष्टाः||६||
+
+
+[BLOCK 93: P]
+----------------------------------------------------------------------
+bhavataścātra-
+svadhātuvaiṣamyanimittajā yē vikārasaṅghā bahavaḥ śarīrē|
+na tē pr̥thak pittakaphānilēbhya āgantavastvēva tatō viśiṣṭāḥ||6||
+
+
+[BLOCK 94: P]
+----------------------------------------------------------------------
+bhavatashcAtra-
+svadhAtuvaiShamyanimittajA ye vikArasa~gghA bahavaH sharIre|
+na te pRuthak pittakaphAnilebhya Agantavastveva tato vishiShTAH||6||
+
+
+[BLOCK 95: P]
+----------------------------------------------------------------------
+Disturbance in equilibrium of dhatu results in number of diseases and these are only due to pitta , kapha and vata i.e. they cannot be produced without involvement of these three dosha . Exogenous diseases are exception to this. (6)
+
+[REFERENCES / LINKS]
+dhatu : https://www.carakasamhitaonline.com/index.php?title=Dhatu
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 96: H3]
+----------------------------------------------------------------------
+Progression of endogenous and exogenous diseases
+
+
+[BLOCK 97: P]
+----------------------------------------------------------------------
+आगन्तुरन्वेति निजं विकारं निजस्तथाऽऽगन्तुमपि प्रवृद्धः|
+तत्रानुबन्धं प्रकृतिं च सम्यग् ज्ञात्वा ततः कर्म समारभेत||७||
+
+
+[BLOCK 98: P]
+----------------------------------------------------------------------
+āganturanvēti nijaṁ vikāraṁ nijastathā gantumapi pravr̥ddhaḥ| tatrānubandhaṁ prakr̥tiṁ ca samyag jñātvā tataḥ karma samārabhēta||7||
+
+
+[BLOCK 99: P]
+----------------------------------------------------------------------
+Aganturanveti nijaM vikAraM nijastathA~a~agantumapi pravRuddhaH|
+tatrAnubandhaM prakRutiM ca samyag j~jAtvA tataH karma samArabheta||7||
+
+
+[BLOCK 100: P]
+----------------------------------------------------------------------
+Exogenous diseases may occur as secondary development after endogenous and similarly endogenous diseases may further progress as exogenous diseases. One should carefully analyze primary causes and secondary complications before starting treatment. (7)
+
+
+[BLOCK 101: H3]
+----------------------------------------------------------------------
+Summary
+
+
+[BLOCK 102: P]
+----------------------------------------------------------------------
+तत्र श्लोकौ-
+विंशकाश्चैककाश्चैव त्रिकाश्चोक्तास्त्रयस्त्रयः|
+द्विकाश्चाष्टौ, चतुष्काश्च दश, द्वादश पञ्चकाः||८||
+
+
+[BLOCK 103: P]
+----------------------------------------------------------------------
+चत्वारश्चाष्टका वर्गाः, षट्कौ द्वौ, सप्तकास्त्रयः|
+अष्टोदरीये रोगाणां रोगाध्याये प्रकाशिताः||९||
+
+
+[BLOCK 104: P]
+----------------------------------------------------------------------
+tatra ślōkau-
+viṁśakāścaikakāścaiva trikāścōktāstrayastrayaḥ|
+dvikāścāṣṭau, catuṣkāśca daśa, dvādaśa pañcakāḥ||8||
+
+
+[BLOCK 105: P]
+----------------------------------------------------------------------
+catvāraścāṣṭakā vargāḥ, ṣaṭkau dvau, saptakāstrayaḥ|
+aṣṭōdarīyē rōgāṇāṁ rōgādhyāyē prakāśitāḥ||9||
+
+
+[BLOCK 106: P]
+----------------------------------------------------------------------
+tatra shlokau-
+viMshakAshcaikakAshcaiva trikAshcoktAstrayastrayaH|
+dvikAshcAShTau, catuShkAshca dasha, dvAdasha pa~jcakAH||8||
+
+
+[BLOCK 107: P]
+----------------------------------------------------------------------
+catvArashcAShTakA vargAH, ShaTkau dvau, saptakAstrayaH|
+aShTodarIye rogANAM rogAdhyAye prakAshitAH||9||
+
+
+[BLOCK 108: P]
+----------------------------------------------------------------------
+Summing up the contents- this chapter on “Numerical classification of diseases with eight types of abdominal diseases” lists down three diseases having twenty variants each, three diseases having one each, eight diseases having two each, ten diseases having four each, twelve diseases having five each, four diseases having eight each, two diseases having six each, and three diseases having seven variants each. (8-9)
+
+
+[BLOCK 109: H2]
+----------------------------------------------------------------------
+Tattva Vimarsha (Fundamental Principles)
+
+
+[BLOCK 110: UL]
+----------------------------------------------------------------------
+1. Numerical classification of diseases is important in practice for differential diagnosis and planning treatment.
+2. The diseases can be classified by dosha dominance, cardinal signs, clinical presentation, or location of dosha .
+3. Dosha are inevitable factors associated with the pathogenesis of every disease. A disease cannot occur without disequilibrium in the dosha .
+4. In due course of time, endogenous diseases make the patient vulnerable to exogenous diseases and vice versa.
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+Dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 111: H2]
+----------------------------------------------------------------------
+Vidhi Vimarsha (Applied Inferences)
+
+
+[BLOCK 112: UL]
+----------------------------------------------------------------------
+1. Classification of diseases, including abdominal ones, have been discussed in this chapter. Since diseases are innumerable, the classification is only restricted to diseases prevalent at that time. [Verse no. 1-2]
+2. In this chapter, diseases have been classified according to sankhya samprapti (by the number of variants of the disease), vidhi samprapti (i.e., by features or symptoms of the disease). [Verse 3, 4(1)]
+3. The common thing among these three diseases with seven varieties is that their manifestation site is skin but they vary in clinical features, severity, chronicity etc. Nomenclature of kushtha and pidaka is based mainly on clinical manifestation and visarpa subtypes have been mentioned according to dosha involved. [Verse no. 4(2)]
+4. Diseases are classified into six types on the basis of their etiological factors involved. During classifying atisara both physical and mental factors are considered while classification of udavarta is based on suppression of six important natural urges. [Verse no. 4(3)]
+5. In this verse 12 diseases have been mentioned which have 5 subtypes. If we analyze five subtypes of each disease we will find that in most of the cases four sub-types are vataja , pittaja , kaphaja and sannipataja. Fifth type varies in many of above mentioned diseases like in gulma and pliha dosha - raktaja , in chhardi- dwistarthsangyogaja , in bhaktasyanasana - dweshaja, in shiroroga and hridroga - krimija , in pandu – mridbhakshanaja and in unmada – agantuja . Any cause other than dosha remarkably changes pathogenesis of disease so keeping this fact in mind, last subtypes have been separately mentioned and named. For the same reason in kasa , in place of sannipataja, kshataja and kshayaja kasa and in trishna in place of kaphaja - aamaja, trishna have been mentioned. In shvasa division has been done on the basis of prominent symptoms and in hikka it is based on both symptoms and causative factors. [Verse no. 4(4)]
+6. In eight out of set of ten diseases mentioned, classification into subtypes has been based on involvement of soshas . Sosha and klaibya pathogenesis and treatment varies with cause of the disease so they are classified on the basis of causative agent involved. [Verse no. 4(5)]
+7. The basis of classification is different in all the three above mentioned diseases. The shotha subtypes are classified on the basis of dosha , in kilasa it is based on clinical features and in lohitapitta it is classified on the basis of site of manifestation. [Verse no. 4(6)]
+8. Diseases are classified into two types based on etiology, clinical features, severity etc. mainly aimed to properly understand pathogenesis as well as to plan treatment. [Verse no. 4(7)]
+9. Diseases with no subtypes have been mentioned. The above set includes possible variation of physical and mental causes. Urustambha occurs due to three [dosha]] and ama, sanyasa is psycho-somatic in nature and in mahagada there is involvement of mental entities only. [Verse no. 4(8)]
+10. While describing diseases with large number of subtypes separate way of classification was used. All the mentioned diseases are first broadly classified in a group and then sub-types are mentioned. Krimi are first classified into bahya, raktaja, shleshmaja and purishaja and then among these four groups twenty types of krimi have been mentioned.[Cha.Sa. Vimana Sthana 7] Twenty types of prameha are broadly classified in three groups on basis of dosha and then subtypes are mentioned, Similarly, yoni vyapada are broadly classified as diseases due to dosha and diseases due to amalgamation of dosha and dushyas and under second category 16 types of diseases have been mentioned. [Verse no. 4(9)]
+11. Importance of dosha in disease production has been mentioned. Equilibrium of dosha is important aspect of swasthya or health and if doshas are vitiated they will lead to disease formation. Three important factors by which one can diagnose disease have been mentioned in the above verse. [Verse no. 5]
+12. It has been emphasized that there is separate category of disease ( agantuja vyadhi ) in which involvement of doshas may not be necessary. [Verse no. 6]
+13. It has been clarified that exogenous and endogenous diseases can coexist and at times endogenous diseases are followed by the exogenous ones and even the exogenous ones are followed by the endogenous one. So, while treating such type of conditions secondary development and the primary nature of the disease should be properly analyzed. [Verse no.7]
+14. With the advancement of scientific knowledge and technology mode of disease classification has changed a lot but the basic principles remain the same. At present, disease classification is based upon etiology, pathogenesis, clinical features etc. So, basis remains the same but due to enhancement in knowledge nomenclature has changed. [Verse no.3]
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+vataja : https://www.carakasamhitaonline.com/index.php?title=Vata
+pittaja : https://www.carakasamhitaonline.com/index.php?title=Pitta
+kaphaja : https://www.carakasamhitaonline.com/index.php?title=Kapha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+Vimana Sthana : https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+doshas : https://www.carakasamhitaonline.com/index.php?title=Doshas&action=edit&redlink=1
+doshas : https://www.carakasamhitaonline.com/index.php?title=Doshas&action=edit&redlink=1
+
+
+[BLOCK 113: H3]
+----------------------------------------------------------------------
+Udara roga
+
+
+[BLOCK 114: P]
+----------------------------------------------------------------------
+Cardinal feature of udara roga is swelling in abdomen so all diseases having presentation with abdominal swelling/distension can be taken under common term udara roga . In general diseases of stomach and bowel can be included in it. [ 1 ] [Madhukosh on M.Ni.35/1] [Cha.Sa.[[Sutra Sthana 18/31]
+So, udara rogas described in Ayurveda can be correlated with different intra-abdominal conditions in which abdominal swelling/distension is the prime feature eg. abdominal tumours, hepato/splenomegaly, intestinal obstruction, perforation, ascites etc. Subtypes of udara roga are named and described on the cause of swelling/distension. First four types are named after dosha involved. Description of pleehodara in Chikitsa Sthana closely resembles with spleen enlargement. Pliha refers to spleen so all conditions with predominant splenomegaly which cause visible abdominal swelling/distension can be taken by the term pleehodara . Baddha means obstruction, and so obstructive conditions leading to abdominal swelling/distension can be clubbed as baddhodara . Cause and symptoms closely resembles with that of intestinal obstruction so intestinal obstruction could be the possible modern correlate. Chhidra refers to cavity or hole. In description of chhidrodara it is clearly mentioned that intestine is injured which leads to exudation of material from intestine to abdominal cavity from the injured site. This condition closely resembles intestinal perforation. Udaka literally refers to water. Udakodara or jalodara is a condition in which fluid is accumulated in intestine. Based on resemblance in clinical features it can be correlated with ascites.
+
+[REFERENCES / LINKS]
+[ 1 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#cite_note-1
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+Chikitsa Sthana : https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana
+
+
+[BLOCK 115: H3]
+----------------------------------------------------------------------
+Mutraghata
+
+
+[BLOCK 116: P]
+----------------------------------------------------------------------
+In mutraghata main symptom is either oliguria or enuria due to suppression of urine formation and obstructive uropathy. Vijayarakshita has mentioned difference between mutrakrichra and mutraghata . In mutrakrichra there is painful and frequent micturition [ 2 ] so it can be correlated with dysuria as in urinary tract infection. All conditions in which urinary output is low or absent can be interpreted as mutraghata .[ Ma.Ni.31/1] [Dalhana on Su.Sa.Uttara Tantra 58/1] [ 3 ] , [Chakrapani on Cha.Sa. Chikitsa Sthana 26/43-44]
+
+[REFERENCES / LINKS]
+[ 2 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#cite_note-2
+[ 3 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#cite_note-Susruta-3
+Chikitsa Sthana : https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana
+
+
+[BLOCK 117: P]
+----------------------------------------------------------------------
+Four types of mutraghata are classified according to dosha [ 4 ] :
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+[ 4 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#cite_note-4
+
+
+[BLOCK 118: UL]
+----------------------------------------------------------------------
+1. Ashmarija mutraghata ( Ashmari means stone) can be taken as obstruction of urine due to urolithiasis.
+2. In the same way based on the nomenclature sharkaraja mutraghata can be taken as condition with gravels in urinary tract,
+3. shukraja mutraghata as obstruction due to spermolith and
+4. shonitaja refers to blood clot and so it can be taken as hematuria due to tuberculosis, tumor, thrombosis, stone and trauma.
+
+
+[BLOCK 119: H3]
+----------------------------------------------------------------------
+Ksheera dosha
+
+
+[BLOCK 120: P]
+----------------------------------------------------------------------
+Ksheera literally means milk, and ksheera dosha means disorders in which breast milk is vitiated. Eight types of ksheera dosha (pathological lactation) are mentioned according to change in physical characteristics of breast milk like color, smell, consistency etc.
+
+
+[BLOCK 121: H3]
+----------------------------------------------------------------------
+Reto dosha
+
+
+[BLOCK 122: P]
+----------------------------------------------------------------------
+Retas refers to sperm [ 5 ] so various clinical conditions in which sperm is vitiated can be denoted as common term reto dosha (Sperm disorders) such as oligospermia, azoospermia and sperm dyskynesia. Sub classification of reto dosha has been done on any alteration in physical characteristic of retas with impaired spermatogenesis and impaired sperm emission. [Verse no. 4(1)]
+
+[REFERENCES / LINKS]
+[ 5 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#cite_note-5
+
+
+[BLOCK 123: H3]
+----------------------------------------------------------------------
+Kushtha
+
+
+[BLOCK 124: P]
+----------------------------------------------------------------------
+The disease in which discoloration or disfigurement of skin occurs comes under kushtha . Various dermatological disorders including leprosy are included under kushtha .[A.H.Nidana Sthana 14/34] [ 6 ]
+
+[REFERENCES / LINKS]
+[ 6 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#cite_note-Hridaya-6
+
+
+[BLOCK 125: H3]
+----------------------------------------------------------------------
+Pidaka
+
+
+[BLOCK 126: P]
+----------------------------------------------------------------------
+Pidaka refers to conditions like boil and abscess. [ 7 ] These are the inflammatory swelling affecting diabetic or non diabetic immune compromised persons.
+
+[REFERENCES / LINKS]
+[ 7 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#cite_note-7
+
+
+[BLOCK 127: H3]
+----------------------------------------------------------------------
+Visarpa
+
+
+[BLOCK 128: P]
+----------------------------------------------------------------------
+Visarpa word literally refers to spreading, moving or gliding property. [ 8 ] It is acute disease which spreads quickly, so all acute inflammatory conditions like erysipelas, herpes, erythema multiforme and acute lymphadenitis can be called visarpa .[Cha.Sa. Chikitsa Sthana 21/11], [Chakrapani on Cha.Sa. Chikitsa Sthana 21/11], [Dalhana on Su.Sa.Nidana Sthana 10/3] [ 3 ] , [Madhukosha Teeka on M.Ni.52/1]
+
+[REFERENCES / LINKS]
+[ 8 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#cite_note-8
+Chikitsa Sthana : https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana
+Chikitsa Sthana : https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana
+[ 3 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#cite_note-Susruta-3
+
+
+[BLOCK 129: P]
+----------------------------------------------------------------------
+It can be said that kushtha covers almost all dermatological disorders whereas pidakas are inflammatory swelling which occurs as complications of prameha but can occur in other conditions also. Visarpa is relatively serious condition and can be taken as acute spreading inflammatory skin conditions. [Verse no. 4(2)]
+
+
+[BLOCK 130: H3]
+----------------------------------------------------------------------
+Atisara
+
+
+[BLOCK 131: P]
+----------------------------------------------------------------------
+All diarrheal diseases including acute, chronic, psychogenic, drug and diet induced, inflammatory and non-inflammatory diseases.
+
+
+[BLOCK 132: H3]
+----------------------------------------------------------------------
+Udavarta
+
+
+[BLOCK 133: P]
+----------------------------------------------------------------------
+Udavarta word refers to excretion [ 9 ] and is caused by suppression of natural urges due to which path of vata is obstructed resulting in hampering of normal functioning and movement of vata . [Madhukosha Teeka on M.Ni. 27/1] Conditions characterized by retention of feces, urine and flatus, associated with pain and leading to or caused by anti-peristaltic movements in the body.
+
+[REFERENCES / LINKS]
+[ 9 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#cite_note-9
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+
+
+[BLOCK 134: H3]
+----------------------------------------------------------------------
+Gulma
+
+
+[BLOCK 135: P]
+----------------------------------------------------------------------
+Gulma is a condition in which there is palpable mobile or immobile lump in abdomen, in shape and constantly increasing and decreasing in size. So, gulma can be taken as any abdominal lump which can be palpated. [ Cha.Sa. Nidana Sthana 3/7], [Cha.Sa. Chikitsa Sthana 5/7]
+
+[REFERENCES / LINKS]
+Nidana Sthana : https://www.carakasamhitaonline.com/index.php?title=Nidana_Sthana
+Chikitsa Sthana : https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana
+
+
+[BLOCK 136: H3]
+----------------------------------------------------------------------
+Kasa
+
+
+[BLOCK 137: P]
+----------------------------------------------------------------------
+Kasa refers to a condition in which air is expelled from the lungs with a sudden explosive sound of cough. [ 10 ] Kasa includes all pathological conditions in which coughing is cardinal feature. [Cha.Sa. Chikitsa Sthana 18/8], [Su.Sa.Uttara Tantra.52/5] [ 3 ]
+
+[REFERENCES / LINKS]
+[ 10 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#cite_note-10
+Chikitsa Sthana : https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana
+[ 3 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#cite_note-Susruta-3
+
+
+[BLOCK 138: H3]
+----------------------------------------------------------------------
+Shvasa
+
+
+[BLOCK 139: P]
+----------------------------------------------------------------------
+Shvasa word implies respiration. Shvasa vyadhi refers to pathological conditions in which there is difficulty in breathing. [ 11 ] Shvasa is a condition in which person breathes rapidly like a leather bag which inflates and deflates with speed. Shvasa refers to impaired cardiorespiratory function including systemic causes. [Madhukosha Teeka on M. Ni. 12.15]
+
+[REFERENCES / LINKS]
+[ 11 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#cite_note-11
+
+
+[BLOCK 140: H3]
+----------------------------------------------------------------------
+Hikka
+
+
+[BLOCK 141: P]
+----------------------------------------------------------------------
+Hikka is a disease in which hik hik sound is produced. It can be correlated with hiccup [ 12 ] and its pathological variation mentioned in Ayurvedic texts ranges from mild to severe life threatening conditions. [Su.Sa.Uttara tantra 50/6] [ 3 ] , [Madhukosha on Ma.Ni. 12/3]
+
+[REFERENCES / LINKS]
+[ 12 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#cite_note-12
+[ 3 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#cite_note-Susruta-3
+
+
+[BLOCK 142: H3]
+----------------------------------------------------------------------
+Trishna
+
+
+[BLOCK 143: P]
+----------------------------------------------------------------------
+Trishna literally means thirst, a clinical entity in which patient suffers from excessive thirst not satisfied even after excessive water intake. [A.H.Uttara Sthana 48/3] [ 6 ]
+
+[REFERENCES / LINKS]
+[ 6 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#cite_note-Hridaya-6
+
+
+[BLOCK 144: H3]
+----------------------------------------------------------------------
+Chhardi
+
+
+[BLOCK 145: P]
+----------------------------------------------------------------------
+In chhardi (vomiting), food and dosha are forcefully expelled out through mouth.
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 146: H3]
+----------------------------------------------------------------------
+Arochaka
+
+
+[BLOCK 147: P]
+----------------------------------------------------------------------
+Arochaka refers to a clinical condition in which person has loss of taste, appetite and aversion to food. [ 13 ]
+
+[REFERENCES / LINKS]
+[ 13 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#cite_note-13
+
+
+[BLOCK 148: H3]
+----------------------------------------------------------------------
+Shiroroga and Hridroga
+
+
+[BLOCK 149: P]
+----------------------------------------------------------------------
+Shira is head and hridaya is heart.Thus, Shiroroga are diseases of head and related structures [ 14 ] while hridroga are cardiovascular diseases [ 15 ]
+
+[REFERENCES / LINKS]
+[ 14 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#cite_note-14
+[ 15 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#cite_note-15
+
+
+[BLOCK 150: H3]
+----------------------------------------------------------------------
+Pandu
+
+
+[BLOCK 151: P]
+----------------------------------------------------------------------
+Pandu is pallor of skin [ 16 ] and mucosa and is consistent with anemia.
+
+[REFERENCES / LINKS]
+[ 16 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#cite_note-16
+
+
+[BLOCK 152: H3]
+----------------------------------------------------------------------
+Unmada
+
+
+[BLOCK 153: P]
+----------------------------------------------------------------------
+Unmada is a syndrome with multiple manifestations and heterogeneous causes, including psychosis and mood disorders. It is characterized by perturbation / confusion ( vibhrama ) of mind ( manas ), intellect ( buddhi ), consciousness ( sangyaa ), knowledge ( jnana ), memory ( smriti ), desire ( bhakti ), manner ( sheela ), behaviour ( cheshta ), conduct ( aachaara ). This is cardinal sign of unmada .
+
+[REFERENCES / LINKS]
+manas : https://www.carakasamhitaonline.com/index.php?title=Manas
+buddhi : https://www.carakasamhitaonline.com/index.php?title=Buddhi
+smriti : https://www.carakasamhitaonline.com/index.php?title=Smriti
+
+
+[BLOCK 154: H3]
+----------------------------------------------------------------------
+Apasmara
+
+
+[BLOCK 155: P]
+----------------------------------------------------------------------
+Apasmara is a clinical condition with impaired memory, intellect and cognition, characterized by seizures and impaired consciousness, resembling epilepsy.
+
+
+[BLOCK 156: H3]
+----------------------------------------------------------------------
+Akshi roga, karna roga and mukha roga
+
+
+[BLOCK 157: P]
+----------------------------------------------------------------------
+Akshi Roga refers to ophthalmic disorders, karna roga to diseases of ear [ 17 ] and mukha roga as disorders of mouth.
+
+[REFERENCES / LINKS]
+[ 17 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#cite_note-17
+
+
+[BLOCK 158: H3]
+----------------------------------------------------------------------
+Grahani
+
+
+[BLOCK 159: P]
+----------------------------------------------------------------------
+Grahani is a group of diseases involving small intestine as in irritable bowel syndrome, inflammatory bowel diseases and all types of disorders of digestion and absorption.
+
+
+[BLOCK 160: H3]
+----------------------------------------------------------------------
+Mada/Murchha
+
+
+[BLOCK 161: P]
+----------------------------------------------------------------------
+Mada is acute state of confusion and delirium and murchcha is deep loss of consciousness (syncope).
+
+
+[BLOCK 162: H3]
+----------------------------------------------------------------------
+Shosha
+
+
+[BLOCK 163: P]
+----------------------------------------------------------------------
+Shosha refers to phthisis, a progressive wasting or consumptive condition such as tuberculosis. It generally refers to depletion of dhatu and hence strength.
+
+
+[BLOCK 164: H3]
+----------------------------------------------------------------------
+Klaibya
+
+
+[BLOCK 165: P]
+----------------------------------------------------------------------
+Klaibya denotes impotence. [ 18 ]
+
+[REFERENCES / LINKS]
+[ 18 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#cite_note-18
+
+
+[BLOCK 166: H3]
+----------------------------------------------------------------------
+Shotha
+
+
+[BLOCK 167: P]
+----------------------------------------------------------------------
+Shotha is a condition with swelling/distension. [ 19 ]
+
+[REFERENCES / LINKS]
+[ 19 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#cite_note-19
+
+
+[BLOCK 168: H3]
+----------------------------------------------------------------------
+Kilasa
+
+
+[BLOCK 169: P]
+----------------------------------------------------------------------
+Kilasa refers to depigmentation of skin as in leukoderma, vitiligo.
+
+
+[BLOCK 170: H3]
+----------------------------------------------------------------------
+Raktapitta
+
+
+[BLOCK 171: P]
+----------------------------------------------------------------------
+Raktapitta stand for a group of disorders of bleeding [ 20 ] /coagulopathies.
+
+[REFERENCES / LINKS]
+[ 20 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#cite_note-20
+
+
+[BLOCK 172: H3]
+----------------------------------------------------------------------
+Jwara
+
+
+[BLOCK 173: P]
+----------------------------------------------------------------------
+Jwara refers to fever. [ 21 ]
+
+[REFERENCES / LINKS]
+Jwara : https://www.carakasamhitaonline.com/index.php?title=Jwara
+[ 21 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#cite_note-21
+
+
+[BLOCK 174: H3]
+----------------------------------------------------------------------
+Vrana
+
+
+[BLOCK 175: P]
+----------------------------------------------------------------------
+Vrana (wound) is defined as any lesion in the body causing damage or destruction of the tissue which on healing may leave behind a scar permanently.
+
+
+[BLOCK 176: H3]
+----------------------------------------------------------------------
+Aayama
+
+
+[BLOCK 177: P]
+----------------------------------------------------------------------
+Aayama refers to abnormal posture of body due to severe muscular spasm or dysotnia.
+
+
+[BLOCK 178: H3]
+----------------------------------------------------------------------
+Gridhrasi
+
+
+[BLOCK 179: P]
+----------------------------------------------------------------------
+Gridhrasi refers to sciatica lumbosacral radiculopathy and lumbosacral plexopathy.
+
+
+[BLOCK 180: H3]
+----------------------------------------------------------------------
+Miscellaneous diseases
+
+
+[BLOCK 181: P]
+----------------------------------------------------------------------
+Kamala : Jaundice
+
+
+[BLOCK 182: P]
+----------------------------------------------------------------------
+Vatarakta : Gout, vasculitis
+
+
+[BLOCK 183: P]
+----------------------------------------------------------------------
+Arsha : Arsha refers to hemorrhoids and benign and malignant growth in ano-rectal region.
+
+
+[BLOCK 184: P]
+----------------------------------------------------------------------
+Urustambha : Urustambha , pelvic girdle myopathy and flaccid paraplegia is seen.
+
+
+[BLOCK 185: P]
+----------------------------------------------------------------------
+Sanyasa : Sanyasa is a state of unconsciousness in which a person lies in vegetative state and correlates with coma. [Cha.Sa. Sutra Sthana 24/44-45]
+
+[REFERENCES / LINKS]
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+
+
+[BLOCK 186: P]
+----------------------------------------------------------------------
+Mahagada : Atattvabhinivesha is said to be Mahagada . It is a psychological disorder such as hypochondriasis and paranoia. [ Cha.Sa. Chikitsa Sthana 10/60] [Verse no. 4(8)]
+
+[REFERENCES / LINKS]
+Chikitsa Sthana : https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana
+
+
+[BLOCK 187: P]
+----------------------------------------------------------------------
+Krimi Roga : Krimi refers to various parasitic infestation.
+
+
+[BLOCK 188: P]
+----------------------------------------------------------------------
+Prameha : Prameha is passage of excessive and turbid urine from many causes.
+
+
+[BLOCK 189: P]
+----------------------------------------------------------------------
+Yoni Vyapada : Yoni Vyapada refers to different conditions afflicting female genitals. [ 22 ] Broadly it refers to various gynecological disorders. [Verse no. 4(9)]
+
+[REFERENCES / LINKS]
+[ 22 ] : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#cite_note-22
+
+
+[BLOCK 190: P]
+----------------------------------------------------------------------
+Exogenous causes are important cause of morbidity and mortality and so they are included in international classification of diseases. In separate chapter injury, poisoning and certain other consequences of external causes & external causes of morbidity and mortality have been mentioned in ICD-10. Exogenous causes were given importance in ancient times also and so their role in disease diagnosis and treatment has been emphasized in above verse. [Verse no. 7]
+
+[REFERENCES / LINKS]
+ : https://www.carakasamhitaonline.com/index.php?title=File:Diseases8types.png
+ : https://www.carakasamhitaonline.com/index.php?title=File:Diseases7types.png
+ : https://www.carakasamhitaonline.com/index.php?title=File:Diseases61types.png
+ : https://www.carakasamhitaonline.com/index.php?title=File:Diseases5types.png
+ : https://www.carakasamhitaonline.com/index.php?title=File:Diseases4types.png
+ : https://www.carakasamhitaonline.com/index.php?title=File:Diseases3types.png
+ : https://www.carakasamhitaonline.com/index.php?title=File:Diseases21types.png
+ : https://www.carakasamhitaonline.com/index.php?title=File:Diseases1types.png
+ : https://www.carakasamhitaonline.com/index.php?title=File:Diseases20types.png
+
+[IMAGES]
+ : https://www.carakasamhitaonline.com/images/0/03/Diseases8types.png
+ : https://www.carakasamhitaonline.com/images/6/6a/Diseases7types.png
+ : https://www.carakasamhitaonline.com/images/c/ca/Diseases61types.png
+ : https://www.carakasamhitaonline.com/images/e/eb/Diseases5types.png
+ : https://www.carakasamhitaonline.com/images/e/eb/Diseases4types.png
+ : https://www.carakasamhitaonline.com/images/2/23/Diseases3types.png
+ : https://www.carakasamhitaonline.com/images/5/59/Diseases21types.png
+ : https://www.carakasamhitaonline.com/images/d/d9/Diseases1types.png
+ : https://www.carakasamhitaonline.com/images/5/5e/Diseases20types.png
+
+
+[BLOCK 191: P]
+----------------------------------------------------------------------
+Send us your suggestions and feedback on this page.
+
+[REFERENCES / LINKS]
+Send us your suggestions and feedback on this page. : https://www.carakasamhitaonline.com/index.php?title=Special:ContactMe
+
+
+[BLOCK 192: H2]
+----------------------------------------------------------------------
+References
+
+
+[BLOCK 193: OL]
+----------------------------------------------------------------------
+1. ↑ Monier Williams , Sanskrit – English Dictionary, Motilal Varanasi Publications, Reprint- 1997, Page no 184
+2. ↑ Monier Williams , Sanskrit – English Dictionary, Motilal Varanasi Publications, Reprint- 1997, Page no 825
+3. ↑ 3.0 3.1 3.2 3.3 Sushruta. Sushruta Samhita. Edited by Jadavaji Trikamji Aacharya. 8th ed. Varanasi: Chaukhambha Orientalia;2005.
+4. ↑ Monier Williams , Sanskrit – English Dictionary, Motilal Varanasi Publications, Reprint- 1997, Page no 114
+5. ↑ Monier Williams , Sanskrit – English Dictionary, Motilal Varanasi Publications, Reprint- 1997, Page no 887
+6. ↑ 6.0 6.1 Vagbhata. Ashtanga Hridayam. Edited by Harishastri Paradkar Vaidya. 1st ed. Varanasi: Krishnadas Academy;2000.
+7. ↑ Monier Williams , Sanskrit – English Dictionary, Motilal Varanasi Publications, Reprint- 1997, Page no 625
+8. ↑ Monier Williams , Sanskrit – English Dictionary, Motilal Varanasi Publications, Reprint- 1997, Page no 1001
+9. ↑ Monier Williams , Sanskrit – English Dictionary, Motilal Varanasi Publications, Reprint- 1997, Page no 185
+10. ↑ Monier Williams , Sanskrit – English Dictionary, Motilal Varanasi Publications, Reprint- 1997, Page no 281
+11. ↑ Monier Williams , Sanskrit – English Dictionary, Motilal Varanasi Publications, Reprint- 1997, Page no 1106
+12. ↑ Monier Williams , Sanskrit – English Dictionary, Motilal Varanasi Publications, Reprint- 1997, Page no 1298
+13. ↑ Monier Williams , Sanskrit – English Dictionary, Motilal Varanasi Publications, Reprint- 1997, Page no 88
+14. ↑ Monier Williams , Sanskrit – English Dictionary, Motilal Varanasi Publications, Reprint- 1997, Page no 1073
+15. ↑ Monier Williams , Sanskrit – English Dictionary, Motilal Varanasi Publications, Reprint- 1997, Page no 1302
+16. ↑ Monier Williams , Sanskrit – English Dictionary, Motilal Varanasi Publications, Reprint- 1997, Page no 616
+17. ↑ Monier Williams , Sanskrit – English Dictionary, Motilal Varanasi Publications, Reprint- 1997, Page no 257
+18. ↑ Monier Williams , Sanskrit – English Dictionary, Motilal Varanasi Publications, Reprint- 1997, Page no 324
+19. ↑ Monier Williams , Sanskrit – English Dictionary, Motilal Varanasi Publications, Reprint- 1997, Page no 1091
+20. ↑ Monier Williams , Sanskrit – English Dictionary, Motilal Varanasi Publications, Reprint- 1997, Page no 861
+21. ↑ Monier Williams , Sanskrit – English Dictionary, Motilal Varanasi Publications, Reprint- 1997, Page no 428
+22. ↑ Monier Williams , Sanskrit – English Dictionary, Motilal Varanasi Publications, Reprint- 1997, Page no 858
+
+[REFERENCES / LINKS]
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#cite_ref-1
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#cite_ref-2
+3.0 : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#cite_ref-Susruta_3-0
+3.1 : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#cite_ref-Susruta_3-1
+3.2 : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#cite_ref-Susruta_3-2
+3.3 : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#cite_ref-Susruta_3-3
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#cite_ref-4
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#cite_ref-5
+6.0 : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#cite_ref-Hridaya_6-0
+6.1 : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#cite_ref-Hridaya_6-1
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#cite_ref-7
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#cite_ref-8
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#cite_ref-9
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#cite_ref-10
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#cite_ref-11
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#cite_ref-12
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#cite_ref-13
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#cite_ref-14
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#cite_ref-15
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#cite_ref-16
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#cite_ref-17
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#cite_ref-18
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#cite_ref-19
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#cite_ref-20
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#cite_ref-21
+↑ : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya#cite_ref-22
+
+
+[BLOCK 194: TEXT]
+----------------------------------------------------------------------
+Back to the Top
+
+
+[BLOCK 195: TEXT]
+----------------------------------------------------------------------
+NewPP limit report
+Cached time: 20261102211531
+Cache expiry: 86400
+Reduced expiry: false
+Complications: [vary‐revision‐id, show‐toc]
+CPU time usage: 0.091 seconds
+Real time usage: 0.213 seconds
+Preprocessor visited node count: 696/1000000
+Post‐expand include size: 2553/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 3/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 9987/5000000 bytes
+Lua time usage: 0.060/7 seconds
+Lua virtual size: 20336640/209715200 bytes
+Lua estimated memory usage: 0 bytes
+
+
+[BLOCK 196: TEXT]
+----------------------------------------------------------------------
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 153.563 1 -total
+96.74% 148.550 1 Template:Infobox
+1.13% 1.729 1 Template:CiteButton
+
+
+[BLOCK 197: TEXT]
+----------------------------------------------------------------------
+Saved in parser cache with key carakas1_carakasa:pcache:idhash:72-0!canonical and timestamp 20261102211531 and revision id 44485. Rendering was triggered because: diff-page
+
+
+[BLOCK 198: TEXT]
+----------------------------------------------------------------------
+Retrieved from "
+
+
+[BLOCK 199: TEXT]
+----------------------------------------------------------------------
+https://www.carakasamhitaonline.com/index.php?title=Ashtodariya_Adhyaya&oldid=44485
+
+
+[BLOCK 200: TEXT]
+----------------------------------------------------------------------
+"
+
+
+==========================================================================================
+END OF CHAPTER
+==========================================================================================

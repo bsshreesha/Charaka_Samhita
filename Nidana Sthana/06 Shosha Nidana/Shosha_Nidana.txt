@@ -1,0 +1,768 @@
+================================================================================
+CHARAKA SAMHITA
+SHOSHA NIDANA
+================================================================================
+
+Source URL: https://www.carakasamhitaonline.com/index.php?title=Shosha_Nidana
+
+
+--------------------------------------------------------------------------------
+
+SHOSHA NIDANA
+
+--------------------------------------------------------------------------------
+
+
+
+--------------------------------------------------------------------------------
+
+Nidana Sthana Chapter 6. Diagnosis and etiopathogenesis of Progressive wasting disease
+
+--------------------------------------------------------------------------------
+
+[TABLE]
+Section/Chapter | Nidana Sthana Chapter 6
+Preceding Chapter | Kushtha Nidana
+Succeeding Chapter | Unmada Nidana
+Other Sections | Sutra Sthana , Vimana Sthana , Sharira Sthana , Indriya Sthana , Chikitsa Sthana , Kalpa Sthana , Siddhi Sthana
+Translator and commentator | Singh R.H., Sodhi J.S
+Reviewer | Nimbalkar R., Ghadi R.
+Editors | Khandel S.K, Godatwar P., Deole Y.S. , Basisht G.
+Year of publication | 2020
+Publisher | Charak Samhita Research, Training and Skill Development Centre
+DOI | 10.47468/CSNE.2020.e01.s02.007
+
+--------------------------------------------------------------------------------
+
+Abstract
+
+--------------------------------------------------------------------------------
+
+This chapter describes the basics of etiopathogenesis of progressive wasting disease termed as shosha roga and its culmination in rajayakshma vis-à-vis pulmonary tuberculosis. Shosha is characterized by severe depletion of tissues (also called phthisis) which could be a precursor of tuberculosis as known today which occurs due to tubercular infection, phthisis and immune-compromised state. Over exertion (sahasa), suppression of natural urges (vegavidharana), pre-existing emaciation (kshaya), and wrong dietary habits (vishamashana) are the four primary causes of shosha. These four basic factors lead to progressive loss of strength (including immunity), vitiating the three doshas and culminating in rajayakshma, a major organic disease that seems to be similar to various similar progressively wasting diseases presenting characteristically with signs and symptoms of Pulmonary Tuberculosis as seen today and has been described in great clinical and therapeutic detail in Rajayakshma Chikitsa . Keywords : kshaya , shosha , yakshma , sahasa , visamashana , Nidanarthakara Roga Vyadhiksamatva , Ojakshaya , chronic wasting diseases, Immune defense, Rasayana , exertion, improper dietary habits, suppression of natural urges, depletion of tissue.
+
+--------------------------------------------------------------------------------
+
+
+
+--------------------------------------------------------------------------------
+
+CONTENTS
+
+--------------------------------------------------------------------------------
+
+[UL]
+• 1 Introduction
+• 2 Sanskrit text, Transliteration and English Translation 2.1 Four Causes of shosha 2.1.1 1. Overexertion 2.1.2 2. Suppression of natural urges 2.1.3 3. Depletion of tissues 2.1.4 3a.Excessive sexual indulgence* 2.1.5 4. Irregular meals/Improper meals 2.2 Prodromal symptoms 2.3 Eleven symptoms 2.4 Prognosis of disease 2.5 Summary
+• 3 Tattva Vimarsha (Fundamental Principles)
+• 4 Vidhi Vimarsha (Applied Inferences) 4.1 Ojas (vital essence of the body) 4.2 Ancient Ayurvedic leads in Microbiology 4.3 Research Topics on this Subject
+• 5 Further reading 5.1 Related Chapters
+
+--------------------------------------------------------------------------------
+
+INTRODUCTION
+
+--------------------------------------------------------------------------------
+
+There are three interrelated entities mentioned by Charak in three distinct chapters within Charak Samhita : Shosha Nidana [Cha.Sa. Nidana Sthana .6], rajayakshma [Cha.Sa. Chikitsa Sthana 8) and kshataksheena [Cha.Sa. Chikitsa Sthana 11).
+
+--------------------------------------------------------------------------------
+
+Shosha is the preparatory stage of gradual, generalized emaciation due to four distinct causative factors mentioned earlier which, if untreated or ignored, may lead to rajayakshma . One of the contributing factors of shosha is indicative of systemic depletion of dhatu occurring due to divergent causes. An important point to note here is that shosha is different from kshataksheena , a post-treatment stage of localized or generalized emaciation needing further intensive treatment.
+
+--------------------------------------------------------------------------------
+
+Another commonly used term for shosha is kshaya (emaciation). However, it is imperative to clarify here that while shosha and kshaya are contextually similar and synonymous to yakshma , the specific meaning in Charak Samhita is different for all the three stages of the disease. Ayurveda is not very stringent when it comes to discerning cause-effect. Cause and effect are largely considered a continuum. While discussing the issue of cause-effect relationship between kshaya-shosha-yakshma , the concept of nidanarthakara roga has also to be kept in mind where one known disease or a morbid state can play as the nidana of another disease. That is why, kshaya is sometimes mentioned as cause of shosha too. The word kshaya in this particular context refers to pre-existing kshaya . Kshaya is of two distinct types - anuloma kshaya and pratiloma kshaya . Anulomakshaya is caused by the initial depletion of the ojas rasa situated in the heart, while pratiloma kshaya occurs due to an excessive indulgence in sexual activities leading to the depletion of shukra dhatu which in turn leads to generalized vata vriddhi and vata induces shoshana of dhatus . Both these variants contribute to shoshana (qualitative and quantitative depletion of sharira dhatus or body tissues).
+
+--------------------------------------------------------------------------------
+
+Shosha and kshaya can be considered as independent clinical entities warranting independent strategies for diagnosis and treatment. Either of these may prove to be a nidanarthakara factor for the occurrence of rajayakshma (i.e., if shosha or kshaya are left untreated, could lead to rajayakshma ). Shosha is essentially a state of intractable emaciation, cachexia or consumption that could be equated to phthisis. It could be considered to be an intermediate state that may not necessarily exhibit any evidence of tubercular infection but because of persistent dhatu kshaya (depletion of tissues) it could be logically associated with an immunocompromised state. Some patients may catch infections that may manifest into a febrile state with probable bacteriological invasion warranting appropriate treatment on the lines of rajayakshma . Because shosha and kshaya are intermediary states that are more of diagnostic significance than of significance from a core treatment perspective. Charak wrote the chapter on shosha in Nidana Sthana , while on rajayakshma in Chikitsa Sthana with the same motive.
+
+--------------------------------------------------------------------------------
+
+It may appear that shosha and rajayakshma are synonymous because in this chapter there are brief descriptions of poorvarupa (preliminary signs) and ekadasha rupa (advanced stage) of yakshma . However, the manifestation of rajayakshma has been described in detail only in the Chikitsa Sthana .
+
+--------------------------------------------------------------------------------
+
+While the focus of this chapter is to delineate the views of Charak, Sushruta in his text differs in his views on the relationship between shosha and yakshma . While Charak considers them as dependent entities as mentioned above, Susruta considers shosha distinctly different disease that could manifest itself in any of seven different variants caused by seven different causative factors ( vyavaya or excessive sexual indulgence, shoka or sorrow, jara or rapid aging process, vyayama or excessive exercise, adhwagaman or excessive travelling, vrana or wound/trauma, and urakshata or chest injury.
+
+--------------------------------------------------------------------------------
+
+SANSKRIT TEXT, TRANSLITERATION AND ENGLISH TRANSLATION
+
+--------------------------------------------------------------------------------
+
+अथातःशोषनिदानंव्याख्यास्यामः||१||
+
+--------------------------------------------------------------------------------
+
+इतिहस्माहभगवानात्रेयः||२||
+
+--------------------------------------------------------------------------------
+
+AthÁtah ÐoÒanidÁnam vyÁkhyÁsyÁmah ||1||
+
+--------------------------------------------------------------------------------
+
+iti ha smÁha bhagavÁnÁtreyah ||2||
+
+--------------------------------------------------------------------------------
+
+Now we shall expound the chapter "Shosha Nidana" (Diagnosis and etiopathogenesis of Progressive wasting disease). Thus said Lord Atreya. [1-2]
+
+--------------------------------------------------------------------------------
+
+FOUR CAUSES OF SHOSHA
+
+--------------------------------------------------------------------------------
+
+इहखलुचत्वारिशोषस्यायतनानिभवन्ति|
+
+--------------------------------------------------------------------------------
+
+तद्यथा- साहसंसन्धारणंक्षयोविषमाशनमिति||३||
+
+--------------------------------------------------------------------------------
+
+Ih khalu catvÁri ÐoÒasyÁyatanÁni bhavanti
+
+--------------------------------------------------------------------------------
+
+tadyathÁ- sÁhasam sa¿dhÁranam kÒayo viÒamÁÐanamiti ||3||
+
+--------------------------------------------------------------------------------
+
+There are four causes of shosha : overexertion, suppression of urges, wasting, and irregular consumption of improper food articles [3].
+
+--------------------------------------------------------------------------------
+
+Each of these causes will be explained here in detail:
+
+--------------------------------------------------------------------------------
+
+1. OVEREXERTION
+
+--------------------------------------------------------------------------------
+
+तत्रसाहसंशोषस्यायतनमितियदुक्तंतदनुव्याख्यास्यामः-
+
+--------------------------------------------------------------------------------
+
+यदापुरुषोदुर्बलोहिसन्बलवतासहविगृह्णाति, अतिमहतावाधनुषाव्यायच्छति, जल्पतिवाऽप्यतिमात्रम्, अतिमात्रंवाभारमुद्वहति,
+अप्सुवाप्लवतेचातिदूरम्, उत्सादनपदाघातनेवाऽतिप्रगाढमासेवते, अतिप्रकृष्टंवाऽध्वानंद्रुतमभिपतति, अभिहन्यतेवा, अन्यद्वाकिञ्चिदेवंविधंविषममतिमात्रंवाव्यायामजातमारभते,
+तस्यातिमात्रेणकर्मणोरःक्षण्यते|
+
+--------------------------------------------------------------------------------
+
+तस्योरःक्षतमुपप्लवतेवायुः|
+
+--------------------------------------------------------------------------------
+
+सतत्रावस्थितःश्लेष्माणमुरःस्थमुपसङ्गृह्यपित्तंचदूषयन्विहरत्यूर्ध्वमधस्तिर्यक्च|
+
+--------------------------------------------------------------------------------
+
+तस्ययोंऽशःशरीरसन्धीनाविशतितेनास्यजृम्भाऽङ्गमर्दोज्वरश्चोपजायते, यस्त्वामाशयमभ्युपैतितेनरोगाभवन्तिउरस्याअरोचकश्चयःकण्ठमभिप्रपद्यतेकण्ठस्तेनोद्ध्वंस्यतेस्वरश्चावसीदति, यः
+प्राणवहानिस्रोतांस्यन्वेतितेनश्वासःप्रतिश्यायश्चजायते, यःशिरस्यवतिष्ठतेशिरस्तेनोपहन्यते|
+
+--------------------------------------------------------------------------------
+
+ततःक्षणनाच्चैवोरसोविषमगतित्वाच्चवायोःकण्ठस्यचोद्ध्वंसनात्कासःसततमस्यसञ्जायते,
+सकासप्रसङ्गादुरसिक्षतेशोणितंष्ठीवति, शोणितागमनाच्चास्यदौर्बल्यमुपजायते; एवमेतेसाहसप्रभवाःसाहसिकमुपद्रवाःस्पृशन्ति|
+
+--------------------------------------------------------------------------------
+
+ततःसउपशोषणैरेतैरुपद्रवैरुपद्रुतःशनैःशनैरुपशुष्यति|
+
+--------------------------------------------------------------------------------
+
+तस्मात्पुरुषोमतिमान्बलमात्मनःसमीक्ष्यतदनुरूपाणिकर्माण्यारभेतकर्तुं|
+
+--------------------------------------------------------------------------------
+
+बलसमाधानंहिशरीरं, शरीरमूलश्चपुरुषइति||४||
+
+--------------------------------------------------------------------------------
+
+भवतिचात्र-
+
+--------------------------------------------------------------------------------
+
+साहसंवर्जयेत्कर्मरक्षञ्जीवितमात्मनः|
+
+--------------------------------------------------------------------------------
+
+जीवन्हिपुरुषस्त्विष्टंकर्मणःफलमश्नुते||५||
+
+--------------------------------------------------------------------------------
+
+Tatra sÁhasam ÐoÒasyÁyatanamiti yaduktam tadanu vyÁkhyÁsyÁmah -
+
+--------------------------------------------------------------------------------
+
+yadÁ puruÒo durbalo hi san balavatÁ saha vigruhnÁti, atimahatÁ vÁ dhanuÒÁ vyÁyacachati,jalpativÁ~apyatimÁtram, atimÁtramvÁ bhÁramudvahati, apsuvÁ plavateca atidÚram, utsÁdanapadÁghÁtane vÁ~atipragÁ±hamÁsevate, atiprakruÒÔamvÁ~adhvÁnamdrutamabhipatati,abhihanyatevÁ, anyadvÁ kijcidevamvidhamviÒamam atimÁtramvÁ vyÁyÁmajÁtamÁrabhate, tasyÁtimÁtreÆakarmaÆorahkÒanyate|tasyorahkÒatamupaplavatevÁyuh |
+
+--------------------------------------------------------------------------------
+
+Sa tatravasthitah ÐleÒmÁÆam urahsthamupasagruhya pittam ca dÚÒayan viharaty Úrdhvamadhastiryak Ca |
+
+--------------------------------------------------------------------------------
+
+tasya yomaÐah ÐarÍrasandhÍnÁviÐati tenÁsya jªambhÁ angamardo jvaraÐcopajÁyate, yastvÁmÁÐayamabhyupaiti tena rogÁ bhavanti urasyÁ arocakaÐca yah kaÆÔhamabhiprapadyate kaÆÔhastenoddhvamsyate svaraÐcavasÍdati, yah prÁÆavahÁni srotÁmsyanveti tena ÐvÁsah pratiÐyÁyashca jÁyate, yah ÐirasyavatiÒÔhate Ðirastenopahanyate|
+
+--------------------------------------------------------------------------------
+
+tatah kÒaÆana ca caiv uraso viÒamagatitvÁcca vÁyoh kaÆÔhasya coddhvamsanÁt kÁsah satatamasya sa¿jÁyate, sakÁsaprasa¿gÁdurasi kÒhate ÐoÆitam ÒaÔhÍvati, ÐoÆitatÁgamanÁt ca asya dauªbalyamupajÁyate|
+
+--------------------------------------------------------------------------------
+
+evamete sÁhasaprabhavÁh sÁhasikamupadravÁh spªuÐanti |
+
+--------------------------------------------------------------------------------
+
+tatah sa upaÐoÒaÆairetairÚpadravairÚpadrutah Ðanaih ÐanairupaÐuÒyati |
+
+--------------------------------------------------------------------------------
+
+tasmÁt purÚÒo matimÁn balamÁtmanah samÍkÒya tadanurÚpÁÆi karmÁÆyÁrabheta kartu¿|
+
+--------------------------------------------------------------------------------
+
+balasamÁdhÁnam hi ÐarÍram, ÐarÍramÚlaÐca purÚÒa iti ||4||
+
+--------------------------------------------------------------------------------
+
+Bhavati cÁtra-
+
+--------------------------------------------------------------------------------
+
+sÁhasam varjayet karma rakÒatjÍvitamÁtmanah|
+
+--------------------------------------------------------------------------------
+
+jÍvan hi purÚÒastviÒÔam karmaÆah phalamaÐnute ||5||
+
+--------------------------------------------------------------------------------
+
+When a weak person fights against a strong one, or exercises with an excessively large (or weighty) bow (weapon), or speaks too much, or physically carries a lot of weight, or swims across a long distance in water, or is habitually subjected to forceful massage including kneading with feet, or sprints over a long distance, or is assaulted, or practices various complicated or excessive physical exercises, his lungs are “traumatized” due to excessive exertion. This aggravates vayu in the lung region, taking along kapha residing in the lungs while also affecting pitta , causing the vitiated doshas to spread upwards, downwards and obliquely. A portion of this afflicted dosha system that gets into body joints causes yawning, body ache, and fever. That which gets into the amashaya causes diseases of lungs and anorexia. That which gets into the throat causes irritation of the throat and hoarseness of voice. That which gets into the channels carrying vital breath (bronchial channels) causes dyspnea and coryza. And that which gets into the head produces distress in the head. Thus, due to wound in lungs, irregular movement of vayu causes a variety of diseases depending upon the organs it gets into. The lungs get damaged further, triggering conditions such as hemoptysis and consequently weakening the patient. This verse, therefore, advises the reader to engage in laborious activities appropriate to his strength and not overexert himself. [4-5]
+
+--------------------------------------------------------------------------------
+
+2. SUPPRESSION OF NATURAL URGES
+
+--------------------------------------------------------------------------------
+
+सन्धारणंशोषस्यायतनमितियदुक्तंतदनुव्याख्यास्यामः-
+
+--------------------------------------------------------------------------------
+
+यदापुरुषोराजसमीपेभर्तुःसमीपेवागुरोर्वापादमूलेद्यूतसभमन्यंवासतांसमाजंस्त्रीमध्यंवासमनुप्रविश्ययानैर्वाऽ
+प्युच्चावचैरभियान्भयात्प्रसङ्गाद्ध्रीमत्त्वाद्धृणित्वाद्वानिरुणद्ध्यागतान्वातमूत्रपुरीषवेगान्तदातस्यसन्धारणाद्वायुःप्रकोपमापद्यते, सप्रकुपितःपित्तश्लेष्माणौसमुदीर्योर्ध्वमधस्तिर्यक्चविहरति;
+ततश्चांशविशेषेणपूर्ववच्छरीरावयवविशेषंप्रविश्यशूलमुपजनयति, भिनत्तिपुरीषमुच्छोषयतिवा, पार्श्वेचातिरुजति, अंसाववमृद्गाति, कण्ठमुरश्चावधमति, शिरश्चोपहन्ति,
+कासंश्वासंज्वरंस्वरभेदंप्रतिश्यायंचोपजनयति|
+
+--------------------------------------------------------------------------------
+
+ततःसउपशोषणैरेतैरुपद्रवैरुपद्रुतःशनैःशनैरुपशुष्यति|
+
+--------------------------------------------------------------------------------
+
+तस्मात्पुरुषोमतिमानात्मनःशारीरेष्वेवयोगक्षेमकरेषुप्रयतेतविशेषेण; शरीरंह्यस्यमूलं, शरीरमूलश्चपुरुषोभवति||६||
+
+--------------------------------------------------------------------------------
+
+भवतिचात्र-
+
+--------------------------------------------------------------------------------
+
+सर्वमन्यत्परित्यज्यशरीरमनुपालयेत्|
+
+--------------------------------------------------------------------------------
+
+तदभावेहिभावानांसर्वाभावःशरीरिणाम्||७||
+
+--------------------------------------------------------------------------------
+
+sa¿dhÁranam ÐoÒasyÁyatanamiti yaduktam tadanuvyÁkhyÁsyÁmah -
+
+--------------------------------------------------------------------------------
+
+yadÁ purÚÒo rÁjasamÍpe bhartuh samÍpe vÁ gurorvÁ pÁdamÚle dyÚtasabhamanyam vÁ satÁm samÁjam strÍmadhyam vÁ samanupraviÐya yÁnairvÁ apyuccÁvacairabhiyÁn bhayÁt prasa¿gÁddhrÍmattvÁddhªuÆitvÁdvÁ nirÚÆaddhyÁgatÁn vÁtamÚtrapurÍÒavegÁn tadÁ tasya sa¿dhÁranÁdvÁyuh prakopamÁpadyate, sa prakupitah pittaÐleÒmÁÆau samudÍryordhvamadhastiryaka ca viharati|
+
+--------------------------------------------------------------------------------
+
+tataÐcÁ¿ÐaviÐeÒeÆa pÚrvavaccharÍrÁvayavaviÐeÒeÆam praviÐya ÐÚlamupajanayati, bhinatti purÍÒamucchoÒayati vÁ, pÁrÐve cÁtirujati, a¿sÁvavamªudgÁti, kaÆÔhamuraÐcÁvadhamati, shiraÐcopahanti, kÁsam ÐvÁsam jvaram svarabhedam pratiÐyÁyam copajanayati; tatah sa upaÐoÒaÆairetairÚpadravairÚpadrutah Ðanaih ÐanairÚpaÐuÒyati |
+
+--------------------------------------------------------------------------------
+
+tasmÁt purÚÒo matimÁnÁtmanah ÐÁrÍreÒveva yogakÒemakareÒu prayateta viÐeÒeÆa; ÐÁrÍram hyasya mÚlam, ÐÁrÍramÚlaÐca purÚÒo bhavati ||6||
+
+--------------------------------------------------------------------------------
+
+bhavati cÁtra-
+
+--------------------------------------------------------------------------------
+
+sarvamanyat parityajya ÐÁrÍramanupÁlayet |
+
+--------------------------------------------------------------------------------
+
+tadabhÁve hi bhÁvÁnÁm sarvÁbhÁvah ÐÁrÍriÆÁm ||7||
+
+--------------------------------------------------------------------------------
+
+When a person suppresses the urge to pass flatulence, urination, and bowel movement due to various reasons such as attending a royalty, being in a formal setting (in the company of sages, teachers, nobles, etc), being in the midst of women, society of gambling, or while traveling on uneven vehicle, or due to fear, environment, bashfulness or disgust, vayu gets vitiated due to suppression of urges. This vitiated vayu aggravates pitta and/or kapha , spreading upwards, downwards or obliquely depending upon the combination of afflicted doshas . As said earlier, when a portion gets into specific body parts, it causes pain, diarrhea or drying up of feces, excessive pain in sides of the chest, pain in the shoulders, irritation in throat and lungs, headache, cough, dyspnea, fever, hoarseness of voice and coryza. Thereafter, having been afflicted with these wasting complications, the patient gradually gets afflicted with shosha . Hence the wise should carefully observe the ways that promote and protect the body.
+
+--------------------------------------------------------------------------------
+
+Here is the verse: Setting all other things aside, one should protect the body, because in its absence there will be complete absence of all the bodily entities. [6-7]
+
+--------------------------------------------------------------------------------
+
+3. DEPLETION OF TISSUES
+
+--------------------------------------------------------------------------------
+
+क्षयःशोषस्यायतनमितियदुक्तंतदनुव्याख्यास्यामः-
+
+--------------------------------------------------------------------------------
+
+यदापुरुषोऽतिमात्रंशोकचिन्तापरिगतहृदयोभवति, ईर्ष्योत्कण्ठाभयक्रोधादिभिर्वासमाविश्यते, कृशोवासन्रूक्षान्नपानसेवीभवति, दुर्बलप्रकृतिरनाहारोऽल्पाहारोवाभवति, तदातस्यहृदयस्थायीरसःक्षयमुपैति; सतस्योपक्षयाच्छोषंप्राप्नोति, अप्रतीकाराच्चानुबध्यतेयक्ष्मणा |
+
+--------------------------------------------------------------------------------
+
+यथोपदेक्ष्यमाणरूपेण|८|
+
+--------------------------------------------------------------------------------
+
+kÒayah ÐoÒasyÁyatanamiti yaduktam tadanuvyÁkhyÁsyÁmah –
+
+--------------------------------------------------------------------------------
+
+yadÁpurÚÒoatimÁtram ÐokacintÁparigatahªidayo bhavati, ÍrÒyotkaÆÔhÁbhayakrodhÁdibhirvÁ samÁviÐyate, kªuÐo vÁ
+san rÚkÒÁnnapÁnasevÍ bhavati, durbalaprakªutiranÁhÁroalpÁhÁro vÁ bhavati, tadÁ tasya hªidayasthÁyÍ rasah kÒayamupaiti; sa tasyopakÒayÁcchoÒam prÁpnoti, apratÍkÁrÁccÁnubadhyate yakÒmaÆÁ |
+
+--------------------------------------------------------------------------------
+
+yathopadekÒyamÁÆarÚpeÆa |8|
+
+--------------------------------------------------------------------------------
+
+Now explained is depletion of tissues as the cause of shosha . When a person is suffering excessively from anxiety and grief, or from emotions like envy, fear, anger, etc., and if the person is also afflicted with a wasting disorder and/or using rough food and drinks, or if a congenitally weak person is subjected to fasting or malnutrition, his ojas gets diminished leading to shosha . Due to want of proper management and care, he could get afflicted with the disease having symptoms to be described later. [8]
+
+--------------------------------------------------------------------------------
+
+3A.EXCESSIVE SEXUAL INDULGENCE*
+
+--------------------------------------------------------------------------------
+
+यदावापुरुषोऽतिहर्षादतिप्रसक्तभावःस्त्रीष्वतिप्रसङ्गमारभते, तस्यातिमात्रप्रसङ्गाद्रेतःक्षयमेति|
+
+--------------------------------------------------------------------------------
+
+क्षयमपिचोपगच्छतिरेतसियदिमनःस्त्रीभ्योनैवास्यनिवर्तते, तस्यचातिप्रणीतसङ्कल्पस्यमैथुनमापद्यमानस्यनशुक्रंप्रवर्ततेऽतिमात्रोपक्षीणरेतस्त्वात्, तथाऽस्यवायुर्व्यायच्छमानशरीरस्यैवधमनीरनुप्रविश्यशोणितवाहिनीस्ताभ्यःशोणितंप्रच्यावयति, तच्छुक्रक्षयादस्यपुनःशुक्रमार्गेणशोणितंप्रवर्ततेवातानुसृतलिङ्गम्|
+
+--------------------------------------------------------------------------------
+
+अथास्यशुक्रक्षयाच्छोणितप्रवर्तनाच्चसन्धयःशिथिलीभवन्ति, रौक्ष्यमुपजायते, भूयःशरीरंदौर्बल्यमाविशतिवायुःप्रकोपमापद्यते; सप्रकुपितोवशिकंशरीरमनुसर्पन्नुदीर्यश्लेष्मपित्तेपरिशोषयतिमांसशोणिते, प्रच्यावयतिश्लेष्मपित्तेसंरुजतिपार्श्वे,
+अवमृद्गात्यंसौकण्ठमुद्ध्वंसति, शिरःश्लेष्माणमुपत्क्लेश्यप्रतिपूरयतिश्लेष्मणा, सन्धींश्चप्रपीडयन्करोत्यङ्गमर्दमरोचकाविपाकौच, पित्तश्लेष्मोत्क्लेशात्प्रतिलोमगत्वाच्चवायुर्ज्वरंकासंश्वासंस्वरभेदंप्रतिश्यायंचोपजनयति;सकासप्रसङ्गादुरसिक्षतेशोणितंष्ठीवति,शोणितगमनाच्चास्यदौर्बल्यमुपजायते, ततःसउपशोषणैरेतैरुपद्रवैरुपद्रुतःशनैःशनैरुपशुष्यति| तस्मात्पुरुषोमतिमानात्मनः|
+
+--------------------------------------------------------------------------------
+
+शरीरमनुरक्षञ्छुक्रमनुरक्षेत्| पराह्येषाफलनिर्वृत्तिराहारस्येति||८||
+
+--------------------------------------------------------------------------------
+
+भवतिचात्र-
+
+--------------------------------------------------------------------------------
+
+आहारस्यपरंधामशुक्रंतद्रक्ष्यमात्मनः|
+
+--------------------------------------------------------------------------------
+
+क्षयोह्यस्यबहून्रोगान्मरणंवानियच्छति||९||
+
+--------------------------------------------------------------------------------
+
+yadÁ vÁ purÚÒoatiharÒÁdatiprasaktabhÁvah strÍÒvatiprasa¿gamÁrabhate, tasyÁtimÁtraprasa¿gÁdretah kÒayameti |
+
+--------------------------------------------------------------------------------
+
+kÒayamapi copagacchati retasi yadi manah strÍbhyo naivÁsya nivartate, tasya cÁtipraÆÍtasa¿kalpasya maithunamÁpadyamÁnasya na Ðukram pravartateatimÁtropakÒÍÆaretastvÁt, tathÁ asya vÁyurvyÁyacchamÁnaÐÁrÍrasyaiva dhamanÍranupraviÐya ÐoÆitavÁhinÍstÁbhyah ÐoÆitam pracayÁvayati, tacchukrakÒayÁdasya punah ÐukramÁrgeÆa ÐoÆitam pravartate vÁtÁnusªutali¿gam |
+
+--------------------------------------------------------------------------------
+
+athÁsya ÐukrakÒayÁcchoÆitapravartanÁcca sandhayah ÐithilÍbhavanti, raukÒyamupajÁyate, bhÚyah ÐarÍram daurbalyamÁviÐati vÁyuh prakopamÁpadyate; saprakupito vaÐikam ÐarÍramanusarpannudÍrya ÐleÒmapitte pariÐoÒayati mÁ¿saÐoÆite, pracayÁvayati ÐleÒmapitte sa¿rujati pÁrÐve, avamªudgÁtya¿sau kaÆÔhamuddhva¿sati, Ðirah ÐleÒmÁÆamupatkleÐya pratipÚrayati ÐleÒmÁÆa, sandhÍ¿Ðca prapÍ±ayan karotya¿gamardamarocakÁvipÁkau ca, pittaÐleÒmotkleÐÁt pratilomagatvÁcca vÁyurjvaram kÁsam ÐvÁsam svarabhedam pratiÐyÁyam copajanayati; sa kÁsaprasa¿gÁdurasi kÒate ÐoÆitam ÒÔhÍvati, ÐoÆitagamanÁccÁsya daurbalyamupajÁyate, tatah sa upaÐoÒaÆairetairupadravairupadrutah Ðanaih ÐanairupaÐuÒyati |tasmÁt purÚÒo matimÁnÁtmanah ÐarÍramanurakÒat ÐukramanurakÒet |
+
+--------------------------------------------------------------------------------
+
+parÁ hyeÐÁ phalanirvªuttirÁhÁrasyeti ||8||
+
+--------------------------------------------------------------------------------
+
+bhavati cÁtra-
+
+--------------------------------------------------------------------------------
+
+ÁhÁrasya param dhÁma Ðukram tadrakÒyamÁtmanah |
+
+--------------------------------------------------------------------------------
+
+kÒayo hyasya bahÚn rogÁnmaraÆam vÁ niyacchati ||9||
+
+--------------------------------------------------------------------------------
+
+When a person indulges in excessive sexual intercourse habitually, his semen gets diminished. In spite of diminished semen, if he obsesses about sex mentally as well as physically and continues to engage in sexual acts with excessively determined passion, his semen is not discharged because of its already diminished state causing vayu to enter his blood vessels and blood getting discharged from the seminal passage. Now, due to loss of semen and hemorrhage, his joints loosen, the skin loses its suppleness and becomes rough or scaly, body weakens further and vayu gets vitiated. The vitiated vayu spreads in the body deficient of semen and blood, aggravating kapha and pitta and drying up the muscles and blood. Further, the vitiated vayu expels kapha and pitta , causing pain in the sides of the chest and shoulders, irritation of throat, aggravating kapha of the head and replacing it with the vitiated kapha expelled from their natural locations, causing pain in joints, body ache, anorexia and indigestion. Due to frequent cough the lungs get damaged and hemoptysis ensues, debilitating the patient further and afflicting him with wasting complications. If untreated, the patient gradually is afflicted with phthisis.
+
+--------------------------------------------------------------------------------
+
+Here is the verse: Semen is the final essence of one’s food hence it should be protected because its depletion leads to many diseases or even death. [8-9]
+
+--------------------------------------------------------------------------------
+
+- * This is not mentioned as a main cause of shosha in verse 3, but is a derivation of verses 8-9.
+
+--------------------------------------------------------------------------------
+
+4. IRREGULAR MEALS/IMPROPER MEALS
+
+--------------------------------------------------------------------------------
+
+विषमाशनंशोषस्यायतनमितियदुक्तं,तदनुव्याख्यास्यामः-
+
+--------------------------------------------------------------------------------
+
+यदापुरुषःपानाशनभक्ष्यलेह्योपयोगान्प्रकृतिकरणसंयोगराशिदेशकालोपयोगसंस्थोपशयविषमानासेवते, तदातस्यतेभ्योवातपित्तश्लेष्माणोवैषम्यमापद्यन्ते; तेविषमाःशरीरमनुसृत्ययदास्रोतसामयनमुखानिप्रतिवार्यावतिष्ठन्तेतदाजन्तुर्यद्यदाहारजातमाहरतितत्तदस्यमूत्रपुरीषमेवोपजायतेभूयिष्ठंनान्यस्तथाशरीरधातुः; सपुरीषोपष्टम्भाद्वर्तयति, तस्माच्छुष्यतोविशेषेणपुरीषमनुरक्ष्यंतथाऽन्येषामतिकृशदुर्बलानां; तस्यानाप्यायमानस्यविषमाशनोपचितादोषाःपृथक्पृथगुपद्रवैर्युञ्जन्तोभूयःशरीरमुपशोषयन्ति|
+
+--------------------------------------------------------------------------------
+
+तत्रवातःशूलमङ्गमर्दंकण्ठोद्ध्वंसनंपार्श्वसंरुजनमंसावमर्दंस्वरभेदंप्रतिश्यायंचोपजनयति; पित्तंज्वरमतीसारमन्तर्दाहंच; श्लेष्मातुप्रतिश्यायंशिरसोगुरुत्वमरोचकंकासंच, सकासप्रसङ्गादुरसिक्षतेशोणितंनिष्ठीवति,शोणितगमनाच्चास्यदौर्बल्यमुपजायते|
+
+--------------------------------------------------------------------------------
+
+एवमेतेविषमाशनोपचितास्त्रयोदोषाराजयक्ष्याणमभिनिर्वर्तयन्ति|
+
+--------------------------------------------------------------------------------
+
+सतैरुपशोषणैरुपद्रवैरुपद्रुतःशनैःशनैःशुष्यति|
+
+--------------------------------------------------------------------------------
+
+तस्मात्पुरुषोमतिमान्प्रकृतिकरणसंयोगराशिदेशकालोपयोगसंस्थोपशयादविषममाहारमाहरेत्||१०||
+
+--------------------------------------------------------------------------------
+
+भवतिचात्र-
+
+--------------------------------------------------------------------------------
+
+हिताशीस्यान्मिताशीस्यात्कालभोजीजितेन्द्रियः|
+
+--------------------------------------------------------------------------------
+
+पश्यन्रोगान्बहून्कष्टान्बुद्धिमान्विषमाशनात्||११||
+
+--------------------------------------------------------------------------------
+
+viÒamÁÐanam ÐoÒasyÁyatanamiti yaduktam tadanuvyÁkhyÁsyÁmah –
+
+--------------------------------------------------------------------------------
+
+yadÁ purÚÒah pÁnÁÐanabhakÒalehyopayogÁn,prakªtikaraÆasa¿yogarÁÐideÐakÁlopayogasa¿sthopaÐayaviÒamÁnÁsevate, tadÁ tasya tebhyo vÁtapittaÐleÒmaÆo vaiÒamyamÁpadyante; te viÒamÁh ÐarÍramanusªutya yadÁ srotasÁmayanamukhÁni prativÁryÁvatiÒÔhante tadÁ janturyadyadÁhÁrajÁtamÁharati tattadasya mÚtrapurÍÒamevopajÁyate bhÚyiÒÔham nÁnyastathÁ ÐarÍraadhÁtuh; sa purÍÒopaÒtambhÁdvartayati, tasmÁcchuÒyato viÐeÒeÆa purÍÒamanurakÒyam tathÁ anyeÒÁmatikªuÐadurbalÁnÁm; tasyÁnÁpyÁyamÁnasya viÒamÁÐanopacitÁ doÒÁh pªuthak pªuthagupadravairyu¿janto bhÚyah ÐarÍramupaÐoÒayanti|
+
+--------------------------------------------------------------------------------
+
+tatra vÁtah ÐÚlama¿gamardam kaÆÔhoddhva¿sanam pÁrÐvasa¿rujanama¿sÁvamardam svarabhedam pratiÐyÁyam copajanayati; pittam jvaramatÍsÁramantardÁham ca; ÐleÒmmÁ tu pratiÐyÁyam Ðiraso gurutvamarocakam kÁsam ca, sa kÁsaprasa¿gÁdurasi kÒate ÐoÆitam niÒÔhÍvati, ÐoÆitagamanÁccÁsya daurbalyamupajÁyate|
+
+--------------------------------------------------------------------------------
+
+evamete viÒamÁÐanopacitÁstrayo doÒÁ rÁjayakÒyÁÆamabhinirvartayanti |
+
+--------------------------------------------------------------------------------
+
+sa tairupaÐoÒaÆairupadravairupadrutah Ðanaih Ðanaih ÐuÒyati|
+
+--------------------------------------------------------------------------------
+
+tasmÁt purÚÒo matimÁn prakªtikaraÆasa¿yogarÁÐideÐakÁlopayogasa¿sthopaÐayaviÒamamÁhÁramÁharet ||10||
+
+--------------------------------------------------------------------------------
+
+bhavati cÁtra-
+
+--------------------------------------------------------------------------------
+
+hitÁÐÍ syÁnmitÁÐÍ syÁtkÁlabhojÍ jitendriyah |
+
+--------------------------------------------------------------------------------
+
+paÐyan rogÁn bahÚn kaÒtÁn buddhimÁn viÒamÁÐanÁt ||11||
+
+--------------------------------------------------------------------------------
+
+This verse talks of irregular diet as a cause of shosha . When a person takes food – drinkable, eatable, chewable and lickable – irregularly in terms of nature, preparation, combination, quantity, place, time, and various dietary rules (do’s and don’ts) appropriate for his constitution, his doshas get imbalanced. These imbalanced doshas spread in the body, obstructing the openings of various channels and the flow of dhatus . In such cases, the body survives on the support of malas . Hence mala should be protected, particularly in case where the patient has already been afflicted with phthisis and in cases where the individual is emaciated or very weak. The vitiated ' vata causes pain, body ache, irritation of throat, chest pain, pain in shoulders, hoarseness of voice and coryza. Vitiated pitta causes fever, diarrhea, internal heat and vitiated kapha causes coryza, heaviness of head, anorexia and cough. Due to frequent bouts of cough, lungs get damaged and hemoptysis ensues, consequently debilitating the patient further and causing shosha . Having been afflicted with these wasting complications, the patient gradually becomes very weak and gaunt.
+
+--------------------------------------------------------------------------------
+
+The final verse advises thus: Observing many troublesome diseases caused by irregular dieting, the wise should eat wholesome, measured and timely food with self-restraint. [10-11]
+
+--------------------------------------------------------------------------------
+
+एतैश्चतुर्भिःशोषस्यायतनैरुपसेवितैर्वातपित्तश्लेष्माणःप्रकोपमापद्यन्ते|
+
+--------------------------------------------------------------------------------
+
+तेप्रकुपितानानाविधैरुपद्रवैःशरीरमुपशोषयन्ति|
+
+--------------------------------------------------------------------------------
+
+तंसर्वरोगाणांकष्टतमत्वाद्राजयक्ष्माणमाचक्षतेभिषजः;
+
+--------------------------------------------------------------------------------
+
+यस्माद्वापूर्वमासीद्भगवतःसोमस्योडुराजस्यतस्माद्राजयक्ष्मेति||१२||
+
+--------------------------------------------------------------------------------
+
+EtaiÐca caturbhi ÐoÒasyÁyatanairÚpasevitairvÁtapittaÐleÒmÁÆah prakopamÁpadyante|
+
+--------------------------------------------------------------------------------
+
+Te prakupitÁ nÁnÁvidhairÚpadravaih ÐarÍramupaÐoÒayanti |
+
+--------------------------------------------------------------------------------
+
+tam sarvarogÁÆÁm kaÒtatamatvÁdrÁjayakÒmÁÆamÁcakÒate bhiÒajah; yasmÁdvÁ pÚrvamÁsÍdbhagavatahsomasyo±urÁjasya tasmÁdrÁjayakÒmeti ||12||
+
+--------------------------------------------------------------------------------
+
+Regular use of the four etiological factors of shosha vitiates the doshas . These vitiated doshas dry up the body while afflicting it with various complications. Physicians call it rajayakshma because it is most troublesome among all the diseases ( rajayakshma would literally translate to the “king of yakshmas ”) or because in vedic mythologies, it afflicted Lord Moon, the king of stars. [12]
+
+--------------------------------------------------------------------------------
+
+PRODROMAL SYMPTOMS
+
+--------------------------------------------------------------------------------
+
+तस्येमानिपूर्वरूपाणिभवन्ति; तद्यथा- प्रतिश्यायः, क्षवथुरभीक्ष्णं, श्लेष्मप्रसेकः, मुखमाधुर्यम्, अनन्नाभिलाषः, अन्नकालेचायासः, दोषदर्शनमदोषेष्वल्पदोषेषुवाभावेषुपात्रोदकान्नसूपापूपोपदंशपरिवेशकेषु, भुक्तवतश्चास्यहृल्लासः, तथोल्लेखनमप्याहारस्यान्तरान्तरा, मुखस्यपादयोश्चशोफःपाण्योश्चावेक्षणमत्यर्थम्, अक्ष्णोःश्वेतावभासताचातिमात्रं, बाह्वोश्चप्रमाणजिज्ञासा, स्त्रीकामता,निर्घृणित्वं, बीभत्सदर्शनताचास्यकाये,
+स्वप्नेचाभीक्ष्णंदर्शनमनुदकानामुदकस्थानानांशून्यानांचग्रामनगरनिगमजनपदानांशुष्कदग्धभग्नानांचवनानांकृकलासमयूरवानरशुकसर्पकाकोलूकादिभिः
+संस्पर्शनमधिरोहणंयानंवाश्वोष्ट्रखरवराहैःकेशास्थिभस्मतुषाङ्गारराशीनांचाधिरोहणमिति (शोषपूर्वरूपाणिभवन्ति)||१३||
+
+--------------------------------------------------------------------------------
+
+tasyemÁni pÚrvarÚpÁÆi bhavanti; tadyathÁ- pratiÐyÁyah, kÒavathurabhIkÒÆam, ÐleÒmaprasekah, mukhamÁdhuryam, anannÁbhilÁÒah, annakÁle cÁyÁsah, doÒadarÐanamadoÒeÒvalpadoÒeÒu vÁ bhÁveÒu pÁtrodakÁnnasÚpÁpÚpopada¿ÐapariveÐakeÒu, bhuktavataÐcÁsya hªullÁsah, tathollekhanamapyÁhÁrasyÁntarÁntarÁ, mukhasya pÁdayoÐca Ðophah pÁÆyoÐcÁvekÒaÆamatyartham, akÒÆoh ÐvetÁvabhÁsatÁ cÁtimÁtram, bÁhvoÐca pramÁÆajijúÁsÁ, strÍkÁmatÁ, nirghªuÆitvam, bIbhatsadarÐanatÁ cÁsya kÁye, svapne cÁbhIkÒÆam darÐanamanudakÁnÁmudakasthÁnÁnÁm ÐÚnyÁnÁm ca grÁmanagaranigamajanapadÁnÁm ÐuÒkadagdhabhagnÁnÁm ca vanÁnÁm kªukalÁsamayÚravÁnaraÐukasarpakÁkolÚkÁdibhih sa¿sparÐanamadhirohaÆam yÁnam vÁ ÐvoÒtrakharavarÁhaih keÐÁsthibhasmatuÒÁa¿gÁrarÁshÍnÁm cÁdhirohaÆamiti (ÐoÒapÚrvarÚpÁÆi bhavanti) ||13||
+
+--------------------------------------------------------------------------------
+
+Shosha ’s prodromal symptoms include coryza, frequent sneezing, excessive secretion of mucus, a sweet aftertaste in the mouth, aversion to food, exhaustion during meal time, finding fault with utensils, water, cereals, pulses flour preparations, spicy preparation and caterers who are free from fault or have a little fault. A person afflicted with shosha will experience nausea after meals, intermittent vomiting during meals, swellings in the face and feet, tendency of frequently looking at the hands, excessive whitishness in the eyes, curiosity about measurement of arms, longing for women, disgust, loathsome view of his body, frequent dreams of waterless/arid places as well as places such as deserted villages, cities, districts and regions, of forests dried, burnt and destroyed. Such a person would often be using vehicles drawn by, or coming in contact with, or riding animals like chameleon, peacock, monkey, parrot, serpent, crow, owl, dog, camel, ass and boar, and riding over heaps of hair, bones, ash, chaff and charcoal. [13]
+
+--------------------------------------------------------------------------------
+
+ELEVEN SYMPTOMS
+
+--------------------------------------------------------------------------------
+
+अतऊर्ध्वमेकादशरूपाणितस्यभवन्ति; तद्यथा- शिरसःपरिपूर्णत्वं, कासः, श्वासः, स्वरभेदः, श्लेष्मणश्छर्दनं, शोणितष्ठीवनं, पार्श्वसंरोजनम्, अंसावमर्दः, ज्वरः, अतीसारः, अरोचकश्चेति||१४||
+
+--------------------------------------------------------------------------------
+
+Ata ÚrdhvamekÁdaÐarÚpÁÆi tasya bhavanti; tadyathÁ- Ðirasah paripÚrÆatvam, kÁsah, ÐvÁsah, svarabhedah, ÐleÒmÁÆaÐchardanam, ÐoÆitaÒÔhÍvanam, pÁrÐvasa¿rojanam, a¿sÁvamardah, jvarah, atÍsÁrah, arocakaÐceti ||14||
+
+--------------------------------------------------------------------------------
+
+There are eleven typical symptoms of shosha (mentioned in this verse) such as fullness of head, cough, dyspnea, hoarseness of voice, vomiting of sputum, hemoptysis, chest-pain, pain in shoulders, fever, diarrhea, and anorexia. [14]
+
+--------------------------------------------------------------------------------
+
+PROGNOSIS OF DISEASE
+
+--------------------------------------------------------------------------------
+
+तत्रापरिक्षीणबलमांसशोणितोबलवानजातारिष्टःसर्वैरपिशोषलिङ्गैरुपद्रुतःसाध्योज्ञेयः| बलवानुपचितोहिसहत्वाद्व्याध्यौषधबलस्यकामंसुबहुलिङ्गोऽप्यल्पलिङ्गएवमन्तव्यः||१५||
+
+--------------------------------------------------------------------------------
+
+Tatra parikÒÍÆabalama¿saÐoÆito balavÁnajÁtÁriÒtah sarvairapi ÐoÒali¿gairÚpadrutah sÁdhyo jÆayah | balavÁnupacito hi sahatvÁdvyÁdhyauÒadhabalasya kÁmam subahuli¿goapyalpali¿ga eva mantavyah ||15||
+
+--------------------------------------------------------------------------------
+
+One having all the above symptoms of shosha should be considered curable in case his strength, muscles and blood are not wasted, he is strong and the fatal signs have not appeared. The strong and well-nourished, because of tolerance to intensity of disease and drugs, should be assumed to have fewer symptoms even if they have many, and treated accordingly. [15]
+
+--------------------------------------------------------------------------------
+
+दुर्बलंत्वतिक्षीणबलमांसशोणितमल्पलिङ्गमजातारिष्टमपिबहुलिङ्गंजातारिष्टंचविद्यात्, असहत्वाद्व्याध्यौषधबलस्य; तंपरिवर्जयेत्, क्षणेनैवहिप्रादुर्भवन्त्यरिष्टानि, अनिमित्तश्चारिष्टप्रादुर्भावइति||१६||
+
+--------------------------------------------------------------------------------
+
+Durbalam tvatikÒÍÆabalama¿saÐoÆitamalpali¿gamajÁtÁriÒtamapi bahuli¿gam jÁtÁriÒtam ca
+vidyÁt, asahatvÁdvyÁdhyauÒadhabalasya; tam parivarjayet, kÒaÆenaiva hi prÁdurbhavantyariÒtÁni, animittaÐcÁriÒtaprÁdurbhÁva iti ||16||
+
+--------------------------------------------------------------------------------
+
+On the contrary, the patient who is weak and has excessively diminished strength, muscles and blood should be taken as having numerous symptoms including the fatal ones, even if he has few symptoms and no fatal signs because of his intolerance to the intensity of disease and drugs. Hence he should be discarded (for treatment) because the fatal signs appear in a moment and without any apparent cause.[16]
+
+--------------------------------------------------------------------------------
+
+SUMMARY
+
+--------------------------------------------------------------------------------
+
+तत्रश्लोकः-
+समुत्थानंचलिङ्गंचयःशोषस्यावबुध्यते|
+पूर्वरूपंचतत्त्वेनसराज्ञःकर्तुमर्हति||१७||
+
+--------------------------------------------------------------------------------
+
+tatra Ðlokah-
+samutthÁnam ca li¿gam ca yah ÐoÒasyÁvabudhyate|
+pÚrvarÚpam ca tattvena sa rÁjÆah kartumarhati ||17||
+
+--------------------------------------------------------------------------------
+
+Now the (summing up) verse –
+
+--------------------------------------------------------------------------------
+
+He is capable of treating the king who knows, in essence, the etiology, symptoms and prodroma of shosha .
+
+--------------------------------------------------------------------------------
+
+Thus, ends the sixth chapter on diagnosis of shosha in Nidana Sthana in the treatise composed by Agnivesha and redacted by Charak. [16-17]
+
+--------------------------------------------------------------------------------
+
+TATTVA VIMARSHA (FUNDAMENTAL PRINCIPLES)
+
+--------------------------------------------------------------------------------
+
+[UL]
+• Wasting or emaciating conditions like shosha occur because of four factors: Sahasa (overexertion), Sandhaarana (suppression of natural urges), Kshaya (emaciation), and Vishamasana (Dietary error).
+
+--------------------------------------------------------------------------------
+
+[UL]
+• The common effect of the four factors is dhatu kshaya (loss of body tissue), especially rasa which is responsible for maintaining vyadhikshamatya (Immunity).
+
+--------------------------------------------------------------------------------
+
+[UL]
+• Sahajabala (Innate immunity) is fundamental to prognosis of the disease. If sahajabala is intact, the outcome of treatment is favorable, even if the symptoms are full blown.
+
+--------------------------------------------------------------------------------
+
+[UL]
+• Etiological factors, dosha vitiation and clinical features help in understanding the pathophysiology of the disease.
+
+--------------------------------------------------------------------------------
+
+VIDHI VIMARSHA (APPLIED INFERENCES)
+
+--------------------------------------------------------------------------------
+
+The point of significance in this chapter is the identification of the intermediary clinical state called shosha which is the precursor to rajayakshma , a pathological state warranting early diagnosis and treatment as a promotive health care strategy. Sushruta acknowledges the specific role of microbial infection through direct physical contacts as the real cause, while Charak emphasizes upon the role of pre-existing progressive weakness and emaciation accompanied with lowered vyadhikshamatva (poor immune strength) as some of the key causative factors responsible for the entire spectrum of the disease complex that includes shosha, kshaya, and rajayakshma . This fundamental idea for which Charak devotes one full chapter in Nidana Sthana is an original contribution of Charak, drawing specific attention to the fact that the host factor and host resistance against disease is more important than the causative microbial organism in case of contagious diseases like tuberculosis. It also endorses the Ayurvedic stand that the solution lies in enhancing or strengthening the immunity of the host and not merely in tackling the microorganisms afflicting the person. Use of antibiotics, as is prevalent in western medicine, is now dwindling because of their adverse side effects and rapidly emerging problems associated with drug resistance. In fact, there is now a growing consensus that an idea of an antibiotic war in medicine is anti-life and anti-health.
+
+--------------------------------------------------------------------------------
+
+The recent advances in biomedical sciences unfolding the shape and role of genome, epigenome and microbiome in human health have partly proven the generic fact that our genes, our environment and “friendly” microbes are our collective friends and are an integral part of our being. They are protective tool for the immune-enhancing through positive life style, healthy dietetics and regulated use of rasayana remedies. Rasayanas are described in Ayurveda for promotive and preventive health care as well as for promotion of longevity.
+
+--------------------------------------------------------------------------------
+
+Recent researches on rasayana drugs such as amalaki and ashwagandha have appeared in certain high impact journals. Lakhotia et al, in their 2012 study on drosophilia model, have recorded marked DNA repairing effects besides better maturation rate and healthier and longer life span in fruit flies treated with amalaki rasayana . Similarly, Kuboyama et al (2005) have reported that withanolide-A, isolated from the ashwagandha rasayana , has significant regenerative effect on neurons. Singh et al (2008) reported neuro-nutrient impact of Ayurvedic rasayana therapy while Jayprakash et al (2013) reported the neuroprotective role of ashwagandha in experimentally induced Parkinsonism. In view of the conceptual strength and the recent scientific studies now it could be suggested that rasayanas like amalaki, chyavanprasha and ashwagandha should be used in the management of shosha, kshaya and yakshma with great advantage, besides administration of other therapeutics described in Ayurvedic texts.
+
+--------------------------------------------------------------------------------
+
+As mentioned earlier, Ayurvedic texts propound the doctrine of an immunocompromised state as the precursor of chronic wasting diseases like shosha, kshaya and yakshma . Sushruta, while describing the samkramaka (contagious diseases) specially, observes that jwara , shosha, rajayakshma, abhisyanda or conjunctivitis, and kushtha (or dermatoses such as leprosy) spread from person to person by contact. The spread of such diseases may be prevented by avoiding personal contacts and by promoting vyadhiksamatva or immunity with the help of leading a healthy lifestyle, following good nutrition and through administration of rasayana therapy.
+
+--------------------------------------------------------------------------------
+
+OJAS (VITAL ESSENCE OF THE BODY)
+
+--------------------------------------------------------------------------------
+
+The Ayurvedic classics describe a unique hitherto-less-known concept of ojas (vital essence of the body) that is responsible for biological strength (including immunity). Ojas is the final product of tissue nourishment and is quintessential to all the seven dhatus namely rasa , rakta , mamsa , meda , asthi , majja , and shukra . Sushruta describes ojas as the param teja of the sapta dhatus and as the bala or biological strength of an individual. Ojas is of two kinds, namely, para ojas and apara ojas . Para ojas is subtle and present in very minute quantities in the heart while apara ojas is gross and as much as half an anjali (handful) in quantity spread all over the body. Para ojas is vital to life and any damage or vitiation of it may lead to instant death. Apara ojas is responsible for gross immune strength.
+
+--------------------------------------------------------------------------------
+
+The oja-bala ( ojas strength) derived from ojas has been categorized to be of three kinds: sahaja bala or primary natural immunity, kalaja bala or acquired immunity through environmental factors such as climate etc., and yuktikrit bala or artificially-induced acquired immunity. The classics prompt to utilize these three resources to enhance the bala/immunity in order to prevent all ailments especially chronic wasting diseases and contagious diseases, such as shosha, kshaya and yakshma .
+
+--------------------------------------------------------------------------------
+
+The texts describe three categories of bala-dosha or disorders of bala which are comparable to three categories of immune disorders such as :
+
+--------------------------------------------------------------------------------
+
+[OL]
+• Oja-vyapat (immune-aberrations and allergies),
+• Oja-visransa (dislodged immunity and autoimmune disorders), and
+• Oja-kshaya (immunodeficiency).
+
+--------------------------------------------------------------------------------
+
+There are specific methods and approaches to tackle the three categories of immune disorders.
+
+--------------------------------------------------------------------------------
+
+It cannot be overemphasized that while looking at the above mentioned ancient classical descriptions on ojabala and bala-dosha it seems immunology was already highly advanced in the Samhita period of Ayurveda and the knowledge in this field was almost comparable with the latest basic knowledge of immunology as known today.
+
+--------------------------------------------------------------------------------
+
+ANCIENT AYURVEDIC LEADS IN MICROBIOLOGY
+
+--------------------------------------------------------------------------------
+
+It will be pertinent to review the concept of microbiology and parasitology in Ayurvedic classics in the context of immunity and body resistance. Ojas , bala and vyadhikshamatva need to be adequate within the body for it to possess immunity. Though the role of microbes in pathology was not known in modern medicine 200 years ago, Ayurveda had a good knowledge of their role, albeit of a primitive nature. Ayurveda describes two kinds of organisms, namely prakrita (non-pathogenic) and vaikrita (pathogenic). Also described are two categories of pathogens/parasites, namely, external and internal. The internal organisms are mainly of three categories in terms of their natural environments: those that thrive on mucus ( shleshma ), those thriving in fecal matter, and those thriving in blood. Some of these, particularly the ones thriving in fecal matter seem to be intestinal parasites while others simulate microbes. The texts repeatedly advocate protecting surgical wounds from these organisms. There is also a clear description of vector borne diseases and that diseases such as leprosy, tuberculosis, conjunctivitis and fever as contagious diseases spread by contact with other patients or vectors.
+
+--------------------------------------------------------------------------------
+
+It is interesting to note that these ancient texts recognized the existence of “friendly” non-pathogenic organisms and their functions - something that is only now being considered the greatest discovery in microbiology .It is claimed by modern scientists that our living body is made up of 10 trillion somatic cells and is home to some 100 trillion friendly microbes. This “empire” of microbes is called Microbiome. Understanding the relationship between the microbiome and the human being, the animal and the environment - is as important as unravelling human genome. The microbiome is like a well structured organ with unique functions and hence needs to be protected in the same way as we protect our other vital organs like liver, heart or kidney. This recognition of the existence of these friendly prakrita (non-pathogenic organisms) by Ayurveda thousands of years ago is of great historical significance.
+
+--------------------------------------------------------------------------------
+
+RESEARCH TOPICS ON THIS SUBJECT
+
+--------------------------------------------------------------------------------
+
+[OL]
+• A literary and conceptual study to identify the nature and strength of Bala or immune strength of human body and its scope in prevention and treatment of various diseases and to evaluate its contemporary application.
+• Clinical and experimental studies on different rasayana remedies for their immunoenhancing effect in cases of kshaya,shosha and yakshma .
+• To develop precise diagnostic criteria for the three disease states described by Charak namely kshaya, shosha and yakshma including attempts to identify biomarkers, indicators and clinical rating scales to develop good diagnostic methodology to be used by Ayurvedic practitioners.
+
+--------------------------------------------------------------------------------
+
+
+
+--------------------------------------------------------------------------------
+
+FURTHER READING
+
+--------------------------------------------------------------------------------
+
+[OL]
+• Charak Samhita Vimana 7.9 on natural non-pathogenic organisms.
+• Chakrapani on Charak Samhita Vimana 7.9. “ÏarÍra- sahajÁstvaikÁh”
+• Charak Samhita Vimana 11.13 about the pathogenic organism that grow in blood, mucus and faeces.
+• Charak Samhita Vimana 7.11, Sushruta Uttara Tantra 54.19-20 and Vagbhata Nidana 14.51 stating that pathogens grown on blood are minute and are invisible.
+• Sushruta Samhita Nidana 5.33-34 on the mode of transmission of diseases from person to person.
+• Charak Samhita Nidana 3.6. Description on epidemics.
+• Lakhotia and associates Amalaki Rasayan in Drosophilia model
+• Kuboyama,T. etal (2005) Neuritic regeneration and synoptic reconstruction induced by Withanolide-A.British Jour.Pharmacol. 144/7:961-971
+• Singh,RH ; Narasimhamurthy,K and Singh,Girish (2008) Neuronutrient Impact of Ayurvedic Rasayana therapy in brain aging. Biogerontology 09:369-374.
+• Jay Prakash et al 2013 Neuroprotective role of Withania somnifera root extract in Moneb-paraquat induced mouse model of Parkinsonism. Neurochem Res. Feb. 2013
+
+--------------------------------------------------------------------------------
+
+RELATED CHAPTERS
+
+--------------------------------------------------------------------------------
+
+[UL]
+• Rajayakshma Chikitsa
+• Kshatakshina Chikitsa
+
+--------------------------------------------------------------------------------
+
+Send us your suggestions and feedback on this page.
+
+================================================================================
+END OF CHAPTER
+================================================================================

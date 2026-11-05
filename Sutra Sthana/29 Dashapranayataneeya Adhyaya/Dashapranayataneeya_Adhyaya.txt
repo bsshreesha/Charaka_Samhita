@@ -1,0 +1,944 @@
+==========================================================================================
+CHARAKA SAMHITA
+DASHAPRANAYATANEEYA ADHYAYA
+==========================================================================================
+
+Source URL: https://www.carakasamhitaonline.com/index.php?title=Dashapranayataneeya_Adhyaya
+Extraction Date: 2026-11-03T13:28:33
+Total Blocks: 125
+
+==========================================================================================
+
+
+[BLOCK 1: H1]
+----------------------------------------------------------------------
+Dashapranayataneeya Adhyaya
+
+
+[BLOCK 2: TEXT]
+----------------------------------------------------------------------
+From Charak Samhita
+
+
+[BLOCK 3: TEXT]
+----------------------------------------------------------------------
+Jump to navigation
+
+
+[BLOCK 4: TEXT]
+----------------------------------------------------------------------
+Jump to search
+
+
+[BLOCK 5: FIGURE]
+----------------------------------------------------------------------
+
+
+[REFERENCES / LINKS]
+ : https://www.charakasamhitauptodate.com/index.php?title=Special:CiteThisPage&page=Dashapranayataneeya_Adhyaya&id=44495&wpFormIdentifier=titleform
+
+[IMAGES]
+ : https://www.carakasamhitaonline.com/images/5/58/Cite.png
+
+
+[BLOCK 6: P]
+----------------------------------------------------------------------
+Sutra Sthana Chapter 29. The Ten Seats of Life Forces
+
+
+[BLOCK 7: TABLE]
+----------------------------------------------------------------------
+[COMPLETE TABLE]
+
+Row 1:
+Column 1: Section/Chapter
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Sutra Sthana Chapter 29
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 2:
+Column 1: Tetrad/Sub-section
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Sangrahadvaya
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 3:
+Column 1: Preceding Chapter
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Vividhashitapitiya Adhyaya
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 4:
+Column 1: Succeeding Chapter
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Arthedashmahamooliya Adhyaya
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 5:
+Column 1: Other Sections
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Nidana Sthana , Vimana Sthana , Sharira Sthana , Indriya Sthana , Chikitsa Sthana , Kalpa Sthana , Siddhi Sthana
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 6:
+Column 1: Translator and commentator
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Manohar P.R.
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 7:
+Column 1: Reviewer
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Paliwal M.
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 8:
+Column 1: Editors
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Patwardhan K., Deole Y.S. , Basisht G.
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 9:
+Column 1: Year of publication
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: 2020
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 10:
+Column 1: Publisher
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Charak Samhita Research, Training and Skill Development Centre
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 11:
+Column 1: DOI
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: 10.47468/CSNE.2020.e01.s01.031
+  Type: td, Rowspan: 1, Colspan: 1
+
+[REFERENCES / LINKS]
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+Vividhashitapitiya Adhyaya : https://www.carakasamhitaonline.com/index.php?title=Vividhashitapitiya_Adhyaya
+Arthedashmahamooliya Adhyaya : https://www.carakasamhitaonline.com/index.php?title=Arthedashmahamooliya_Adhyaya
+Nidana Sthana : https://www.carakasamhitaonline.com/index.php?title=Nidana_Sthana
+Vimana Sthana : https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana
+Sharira Sthana : https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana
+Indriya Sthana : https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana
+Chikitsa Sthana : https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana
+Kalpa Sthana : https://www.carakasamhitaonline.com/index.php?title=Kalpa_Sthana
+Siddhi Sthana : https://www.carakasamhitaonline.com/index.php?title=Siddhi_Sthana
+Deole Y.S. : https://www.carakasamhitaonline.com/index.php?title=Yogesh_Deole
+Basisht G. : https://www.carakasamhitaonline.com/index.php?title=Gopal_Basisht
+Charak Samhita Research, Training and Skill Development Centre : https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Skill_Development_Centre
+10.47468/CSNE.2020.e01.s01.031 : https://doi.org/10.47468/CSNE.2020.e01.s01.031
+
+
+[BLOCK 8: P]
+----------------------------------------------------------------------
+Abstract
+
+
+[BLOCK 9: P]
+----------------------------------------------------------------------
+As the name suggests, the chapter provides a brief description of the ten vital sites of life forces. The characteristics to define and distinguish between the qualified physician and the quack are detailed further. The qualified physician is said to be a “companion of the life forces” (pranabhisara) that dwell in the body, especially in the ten seats specified above. On the other hand, the quack is said to be a companion of diseases (roganamabhisara). In the process of enumerating the characteristics of the qualified physician, this chapter also gives a succinct summary of the entire Sutra Sthana, implying that it represents the core subjects and skills a physician needs to acquire. The behavior of the quack is then portrayed vividly, and the chapter concludes with an express warning to the patients to never fall prey to the quack. It is also made clear that the responsibility of licensing the qualified physicians and censuring the quacks rests with the King and the State.
+
+
+[BLOCK 10: P]
+----------------------------------------------------------------------
+Keywords : Ten seats of life forces, pranayatana , vital centers, qualities of pranabhisara , life saver physician, characteristics of rogabhisara (life destroyer), doctors, medical ethics, quack.
+
+[REFERENCES / LINKS]
+pranayatana : https://www.carakasamhitaonline.com/index.php?title=Pranayatana&action=edit&redlink=1
+pranabhisara : https://www.carakasamhitaonline.com/index.php?title=Pranabhisara&action=edit&redlink=1
+rogabhisara : https://www.carakasamhitaonline.com/index.php?title=Rogabhisara&action=edit&redlink=1
+
+
+[BLOCK 11: P]
+----------------------------------------------------------------------
+
+
+
+[BLOCK 12: H2]
+----------------------------------------------------------------------
+Contents
+
+
+[BLOCK 13: UL]
+----------------------------------------------------------------------
+1. 1 Introduction
+2. 2 Sanskrit text, Transliteration and English Translation 2.1 Ten principal seats of the life forces 2.2 Two types of doctors 2.3 Qualities of pranabhisara (who protects life forces) 2.4 Characteristics of rogabhisara (who creates diseases and destroys life forces) 2.5 Social hazards from quackery 2.6 Summary
+3. 3 Tattva Vimarsha (Fundamental Principles)
+4. 4 Vidhi Vimarsha (Applied Inferences) 4.1 Source of knowledge 4.2 Concepts of importance of prana 4.3 Shankha (temples) 4.4 Three marma 4.5 Kantha (throat) 4.6 Rakta (blood) 4.7 Shukra (reproductive potency) 4.8 Ojas 4.9 Guda (anus) 4.10 Indriya 4.11 Types of vaidya and medical ethics 4.12 Related chapters
+
+[REFERENCES / LINKS]
+1 Introduction : https://www.carakasamhitaonline.com/index.php?title=Dashapranayataneeya_Adhyaya#Introduction
+2 Sanskrit text, Transliteration and English Translation : https://www.carakasamhitaonline.com/index.php?title=Dashapranayataneeya_Adhyaya#Sanskrit_text,_Transliteration_and_English_Translation
+2.1 Ten principal seats of the life forces : https://www.carakasamhitaonline.com/index.php?title=Dashapranayataneeya_Adhyaya#Ten_principal_seats_of_the_life_forces
+2.2 Two types of doctors : https://www.carakasamhitaonline.com/index.php?title=Dashapranayataneeya_Adhyaya#Two_types_of_doctors
+2.3 Qualities of pranabhisara (who protects life forces) : https://www.carakasamhitaonline.com/index.php?title=Dashapranayataneeya_Adhyaya#Qualities_of_pranabhisara_(who_protects_life_forces)
+2.4 Characteristics of rogabhisara (who creates diseases and destroys life forces) : https://www.carakasamhitaonline.com/index.php?title=Dashapranayataneeya_Adhyaya#Characteristics_of_rogabhisara_(who_creates_diseases_and_destroys_life_forces)
+2.5 Social hazards from quackery : https://www.carakasamhitaonline.com/index.php?title=Dashapranayataneeya_Adhyaya#Social_hazards_from_quackery
+2.6 Summary : https://www.carakasamhitaonline.com/index.php?title=Dashapranayataneeya_Adhyaya#Summary
+3 Tattva Vimarsha (Fundamental Principles) : https://www.carakasamhitaonline.com/index.php?title=Dashapranayataneeya_Adhyaya#Tattva_Vimarsha_(Fundamental_Principles)
+4 Vidhi Vimarsha (Applied Inferences) : https://www.carakasamhitaonline.com/index.php?title=Dashapranayataneeya_Adhyaya#Vidhi_Vimarsha_(Applied_Inferences)
+4.1 Source of knowledge : https://www.carakasamhitaonline.com/index.php?title=Dashapranayataneeya_Adhyaya#Source_of_knowledge
+4.2 Concepts of importance of prana : https://www.carakasamhitaonline.com/index.php?title=Dashapranayataneeya_Adhyaya#Concepts_of_importance_of_prana
+4.3 Shankha (temples) : https://www.carakasamhitaonline.com/index.php?title=Dashapranayataneeya_Adhyaya#Shankha_(temples)
+4.4 Three marma : https://www.carakasamhitaonline.com/index.php?title=Dashapranayataneeya_Adhyaya#Three_marma
+4.5 Kantha (throat) : https://www.carakasamhitaonline.com/index.php?title=Dashapranayataneeya_Adhyaya#Kantha_(throat)
+4.6 Rakta (blood) : https://www.carakasamhitaonline.com/index.php?title=Dashapranayataneeya_Adhyaya#Rakta_(blood)
+4.7 Shukra (reproductive potency) : https://www.carakasamhitaonline.com/index.php?title=Dashapranayataneeya_Adhyaya#Shukra_(reproductive_potency)
+4.8 Ojas : https://www.carakasamhitaonline.com/index.php?title=Dashapranayataneeya_Adhyaya#Ojas
+4.9 Guda (anus) : https://www.carakasamhitaonline.com/index.php?title=Dashapranayataneeya_Adhyaya#Guda_(anus)
+4.10 Indriya : https://www.carakasamhitaonline.com/index.php?title=Dashapranayataneeya_Adhyaya#Indriya
+4.11 Types of vaidya and medical ethics : https://www.carakasamhitaonline.com/index.php?title=Dashapranayataneeya_Adhyaya#Types_of_vaidya_and_medical_ethics
+4.12 Related chapters : https://www.carakasamhitaonline.com/index.php?title=Dashapranayataneeya_Adhyaya#Related_chapters
+
+
+[BLOCK 14: H2]
+----------------------------------------------------------------------
+Introduction
+
+
+[BLOCK 15: P]
+----------------------------------------------------------------------
+Of the thirty chapters in the Sutra Sthana of the Charak Samhita , the last two (29 and 30) are “independent” chapters since they are not part of any tetrad (or cluster of four chapters clubbed together by a common theme), like the way the rest of the Sutra Sthana has been structured. The 29th chapter serves to summarize the Sutra Sthana while the 30th chapter gives an overview of the entire text itself. Partly, the name of the chapter derives from the reference to the seats of the life forces in the previous chapter. The thread of thought is as follows. For the reason that these vital points were mentioned in the previous chapter creates an occasion for their further elaboration in the next chapter. As the Sutra Sthana is on the verge of being concluded, the topic of the vital points is used imaginatively to focus on the purpose of studying this section of the book.
+
+[REFERENCES / LINKS]
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+Charak Samhita : https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+
+
+[BLOCK 16: P]
+----------------------------------------------------------------------
+There are two types of physicians in the world - the one who is qualified and other, who is an impostor. The qualified physician is one who has the certain knowledge of the self, the intellect, diseases, and the ten seats of the vital forces. Thus, the enumeration of the ten vital points is used to characterize the trained physician. The purpose of the Sutra Sthana is to lay the foundation for the creation of a competent physician. How can a physician gain competent knowledge about the ten seats of the life forces? The answer is, providing an elaborate listing of the core competencies that distinguishes a true physician from the fake, and more interestingly, answering what constitutes the core competence of the physician happens to be contents of the Sutra Sthana itself. Therefore, this chapter serves the purpose of also summarizing the contents of the Sutra Sthana . In fact, it is the blueprint of the whole text. Therefore, Vagbhaṭa explains that Sutra Sthana is so called because the subtle principles and concepts of Ayurveda are woven together in this section in such a way that it expands into the rest of the textbook. There is a saying in the tradition that if one master the essential chapters of the Sutra Sthana , one becomes a Vaidya already. The Ayurvedic approach to teaching a subject is holistic. Unlike a linear approach that would compartmentalize the subject into specific components, Ayurveda attempts to present the subject as a whole demonstrating the interconnections and relationships between the various components of a complex subject. Therefore, the Sutra Sthana captures the entire subject matter of Ayurveda . The remaining sections only elaborate what has already been described in a terse manner in the Sutra Sthana . Just like a seed contains all the parts of the plant and there are a simultaneous growth and expression of all the parts as it grows. Even so, the various concepts, theories, and practices of Ayurveda have to be learned in a holistic way. Sushruta uses the simile of a seed when he says his Samhita is designed to elaborate what is first comprehensively conveyed in a seed form. Sutra Sthana concludes by reviewing the contents of this section in the twenty-ninth chapter and by giving an overview of the whole treatise in the thirtieth chapter. The concept of the physician as a companion of the life forces is first introduced in an earlier chapter called Khuddakachatushpada . Though the word meaning pranabhisara means companion of life, it is interpreted in a different manner here. In the twenty-ninth chapter, the pranabhisara is one who has knowledge about the ten seats of the life forces as well as the intellect, senses, self and diseases. But in the ninth chapter, pranabhisara is one who has the knowledge of the text, its meaning, practical applications and the ability to teach practical skills to others. Chakrapani, the commentator, says that the pranabhisara is one who can hold back the life force that is on the verge of dissociating from the body. Essentially both these definitions mean the physician who is capable of saving the lives of the people.
+
+[REFERENCES / LINKS]
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+Khuddakachatushpada : https://www.carakasamhitaonline.com/index.php?title=Khuddakachatushpada
+
+
+[BLOCK 17: P]
+----------------------------------------------------------------------
+After defining the true physician, the text then goes on to characterize the quacks, the impostors who are said to be the harbingers of diseases. Their behavior is described graphically. The statement in this chapter that there are two kinds of physicians contradicts an earlier statement made in the eleventh chapter of the Sutra Sthana called Tistraishaniya , where three kinds of physicians are described and defined. When we examine these classifications closely it can be understood that there are two types of quacks - one who dresses up and tries to imitate a real physician ( chhadmadhara bhishaka ) and the other who declares association with a well-known physician ( siddhasadhita ) in a bid to project himself as a genuine physician. In the thirtieth chapter, the quacks are described in one category. It is interesting to note that there is some discussion on the regulation of the profession. The responsibility of censuring quacks is vested with the King/State. Therefore, the text bluntly states that quacks roam around in the world because of the oversight of the King. And for the reason that the state may not be effective in eliminating the quacks, the text also issues a public warning to the laity, beseeching them to identify quacks and to never partake of the clinical services offered by them.
+
+[REFERENCES / LINKS]
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+Tistraishaniya : https://www.carakasamhitaonline.com/index.php?title=Tistraishaniya
+
+
+[BLOCK 18: H2]
+----------------------------------------------------------------------
+Sanskrit text, Transliteration and English Translation
+
+
+[BLOCK 19: P]
+----------------------------------------------------------------------
+दशप्राणायतनीयाध्यायोपक्रमः
+
+
+[BLOCK 20: P]
+----------------------------------------------------------------------
+The narration of the chapter on the ten seats of the life forces begins
+
+
+[BLOCK 21: P]
+----------------------------------------------------------------------
+अथातो दशप्राणायतनीयमध्यायं व्याख्यास्यामः||१||
+
+
+[BLOCK 22: P]
+----------------------------------------------------------------------
+इति ह स्माह भगवानात्रेयः||२||
+
+
+[BLOCK 23: P]
+----------------------------------------------------------------------
+athātō daśaprāṇāyatanīyamadhyāyaṁ vyākhyāsyāmaḥ||1||
+
+
+[BLOCK 24: P]
+----------------------------------------------------------------------
+iti ha smāha bhagavānātrēyaḥ||2||
+
+
+[BLOCK 25: P]
+----------------------------------------------------------------------
+athAto dashaprANAyatanIyamadhyAyaM vyAkhyAsyAmaH||1||
+
+
+[BLOCK 26: P]
+----------------------------------------------------------------------
+iti ha smAha bhagavAnAtreyaH||2||
+
+
+[BLOCK 27: P]
+----------------------------------------------------------------------
+Now we shall expound the chapter "Dashapranayataneeya" (Ten principal seats of the life forces). Thus said Lord Atreya. [1-2]
+
+
+[BLOCK 28: H3]
+----------------------------------------------------------------------
+Ten principal seats of the life forces
+
+
+[BLOCK 29: P]
+----------------------------------------------------------------------
+दशैवायतनान्याहुः प्राणा येषु प्रतिष्ठिताः |
+शङ्खौ मर्मत्रयं कण्ठो रक्तं शुक्रौजसी गुदम्||३||
+
+
+[BLOCK 30: P]
+----------------------------------------------------------------------
+तानीन्द्रियाणि विज्ञानं चेतनाहेतुमामयान्|
+जानीते यः स वै विद्वान् प्राणाभिसर उच्यते||४||
+
+
+[BLOCK 31: P]
+----------------------------------------------------------------------
+daśaivāyatanānyāhuḥ prāṇā yēṣu pratiṣṭhitāḥ |
+śaṅkhau marmatrayaṁ kaṇṭhō raktaṁ śukraujasī gudam||3||
+
+
+[BLOCK 32: P]
+----------------------------------------------------------------------
+tānīndriyāṇi vijñānaṁ cētanāhētumāmayān|
+jānītē yaḥ sa vai vidvān prāṇābhisara ucyatē||4||
+
+
+[BLOCK 33: P]
+----------------------------------------------------------------------
+dashaivAyatanAnyAhuH prANA yeShu pratiShThitAH|
+sha~gkhau marmatrayaM kaNTho raktaM shukraujasI gudam||3||
+
+
+[BLOCK 34: P]
+----------------------------------------------------------------------
+tAnIndriyANi vij~jAnaM cetanAhetumAmayAn|
+jAnIte yaH sa vai vidvAn prANAbhisara ucyate||4||
+
+
+[BLOCK 35: P]
+----------------------------------------------------------------------
+There are surely ten principal seats in which the life forces are established. The two temples, the three vital organs, the throat, rakta dhatu (blood), shukra dhatu (reproductive fluid), oja (the vital fluid) and the anus. The learned person who knows these as well as the sensory and motor organs, intelligence, the cause of consciousness as well as diseases is known as the companion of the life forces. [3-4]
+
+[REFERENCES / LINKS]
+rakta dhatu : https://www.carakasamhitaonline.com/index.php?title=Rakta_dhatu
+shukra dhatu : https://www.carakasamhitaonline.com/index.php?title=Shukra_dhatu
+oja : https://www.carakasamhitaonline.com/index.php?title=Oja
+
+
+[BLOCK 36: P]
+----------------------------------------------------------------------
+Cross-reference: In Sankhya Sharira , Shankha (the temples) are replaced by nabhi and mamsa in the list of pranayatana.[Cha.Sa. Sharira Sthana 7/9]
+
+[REFERENCES / LINKS]
+Sankhya Sharira : https://www.carakasamhitaonline.com/index.php?title=Sankhya_Sharira
+Sharira Sthana : https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana
+
+
+[BLOCK 37: H3]
+----------------------------------------------------------------------
+Two types of doctors
+
+
+[BLOCK 38: P]
+----------------------------------------------------------------------
+द्विविधास्तु खलु भिषजो भवन्त्यग्निवेश! प्राणानामेकेऽभिसरा हन्तारो रोगाणां, रोगाणामेकेऽभिसरा हन्तारःप्राणानामिति||५||
+
+
+[BLOCK 39: P]
+----------------------------------------------------------------------
+dvividhāstu khalu bhiṣajō bhavantyagnivēśa! prāṇānāmēkē'bhisarā hantārō rōgāṇāṁ, rōgāṇāmēkē'bhisarāhantāraḥ prāṇānāmiti||5||
+
+
+[BLOCK 40: P]
+----------------------------------------------------------------------
+dvividhAstu khalu bhiShajo bhavantyagnivesha! prANAnAmeke~abhisarA hantAro rogANAM, rogANAmeke~abhisarAhantAraH prANAnAmiti||5||
+
+
+[BLOCK 41: P]
+----------------------------------------------------------------------
+Surely, there are two types of physicians, Agnivesha! One who is a companion of the life forces and destroyer of diseases, and the other who is the companion of diseases and destroyer of the life process. [5]
+
+
+[BLOCK 42: H3]
+----------------------------------------------------------------------
+Qualities of pranabhisara (who protects life forces)
+
+
+[BLOCK 43: P]
+----------------------------------------------------------------------
+एवंवादिनं भगवन्तमात्रेयमग्निवेश उवाच- भगवंस्ते कथमस्माभिर्वेदितव्या भवेयुरिति||६||
+
+
+[BLOCK 44: P]
+----------------------------------------------------------------------
+भगवानुवाच- य इमे कुलीनाः पर्यवदातश्रुताः परिदृष्टकर्माणो दक्षाः शुचयो जितहस्ता जितात्मानः सर्वोपकरणवन्तःसर्वेन्द्रियोपपन्नाः प्रकृतिज्ञाः प्रतिपत्तिज्ञाश्च ते ज्ञेयाः प्राणानामभिसरा हन्तारो रोगाणां; तथाविधा हि केवले शरीरज्ञानेशरीराभिनिर्वृत्तिज्ञाने प्रकृतिविकारज्ञाने च निःसंशयाः, सुखसाध्यकृच्छ्रसाध्ययाप्यप्रत्याख्येयानां च रोगाणांसमुत्थानपूर्वरूपलिङ्गवेदनोपशयविशेषज्ञाने व्यपगतसन्देहाः, त्रिविधस्यायुर्वेदसूत्रस्य ससङ्ग्रहव्याकरणस्यसत्रिविधौषधग्रामस्य प्रवक्तारः , पञ्चत्रिंशतो मूलफलानां चतुर्णां च स्नेहानां पञ्चानां च लवणानामष्टानां च मूत्राणामष्टानांच क्षीराणां क्षीरत्वग्वृक्षाणां च षण्णां शिरोविरेचनादेश्च पञ्चकर्माश्रयस्यौषधगणस्याष्टाविंशतेश्च यवागूनांद्वात्रिंशतश्चूर्णप्रदेहानां षण्णं च विरेचनशतानां पञ्चानां च कषायशतानां प्रयोक्तारः,स्वस्थवृत्तविहितभोजनपाननियमस्थानचङ्क्रमणशयनासनमात्राद्रव्याञ्जनधूमनावनाभ्यञ्जन-परिमार्जनवेगाविधारणविधारणव्यायामसात्म्येन्द्रियपरीक्षोपक्रमणसद्वृत्तकुशलाः , चतुष्पादोपगृहीते च भेषजे षोडशकलेसविनिश्चये सत्रिपर्येषणे सवातकलाकलज्ञाने व्यपगतसन्देहाः, चतुर्विधस्य च स्नेहस्य चतुर्विंशत्युपनयस्योपकल्पनीयस्य चतुःषष्टिपर्यन्तस्य च व्यवस्थापयितारः, बहुविधविधानयुक्तानां च स्नेह्यस्वेद्यवम्यविरेच्यविविधौषधोपचाराणां चकुशलाः, शिरोरोगादेर्दोषांशविकल्पजस्य च व्याधिसङ्ग्रहस्य सक्षयपिडकाविद्रधेस्त्रयाणां च शोफानांबहुविधशोफानुबन्धानामष्टचत्वारिंशतश्च रोगाधिकरणानां चत्वारिंशदुत्तरस्य च नानात्मजस्य व्याधिशतस्य तथाविगर्हितातिस्थूलातिकृशानां सहेतुलक्षणोपक्रमाणां स्वप्नस्य च हिताहितस्यास्वप्नातिस्वप्नस्य च सहेतूपक्रमस्य षण्णां चलङ्घनादीनामुपक्रमाणां सन्तर्पणापतर्पणजानां च रोगाणां सरूपप्रशमनानां शोणितजानां च व्याधीनां मदमूर्च्छायसन्न्यासानांच सकारणरूपौषधोपचाराणां कुशलाः, कुशलाश्चाहारविधिविनिश्चयस्य प्रकृत्याहिताहितानामाहारविकाराणामग्र्यसङ्ग्रहस्यासवानां च चतुरशीतेर्द्रव्यगुणकर्मविनिश्चयस्य रसानुरससंश्रयस्यसविकल्पवैरोधिकस्य द्वादशवर्गाश्रयस्य चान्नपानस्य सगुणप्रभावस्य सानुपानगुणस्य नवविधस्यार्थसङ्ग्रहस्याहारगतेश्चहिताहितोपयोगविशेषात्मकस्य च शुभाशुभविशेषस्य धात्वाश्रयाणां च रोगाणां सौषधसङ्ग्रहाणां दशानां च प्राणायतनानां यं चवक्ष्याम्यर्थेदशमहामूलीये त्रिंशत्तमाध्याये तत्र च कृत्स्नस्य तन्त्रोद्देशलक्षणस्य तन्त्रस्य चग्रहणधारणविज्ञानप्रयोगकर्मकार्यकालकर्तृकरणकुशलाः , कुशलाश्च स्मृतिमतिशास्त्रयुक्तिज्ञानस्यात्मनःशीलगुणैरविसंवादनेन च सम्पादनेन सर्वप्राणिषु चेतसो मैत्रस्य मातापितृभ्रातृबन्धुवत्, एवंयुक्ता भवन्त्यग्निवेश!प्राणानामभिसरा हन्तारो रोगाणामिति||७||
+
+
+[BLOCK 45: P]
+----------------------------------------------------------------------
+ēvaṁvādinaṁ bhagavantamātrēyamagnivēśa uvāca- bhagavaṁstē kathamasmābhirvēditavyā bhavēyuriti||6||
+bhagavānuvāca- ya imē kulīnāḥ paryavadātaśrutāḥ paridr̥ṣṭakarmāṇō dakṣāḥ śucayō jitahastā jitātmānaḥsarvōpakaraṇavantaḥ sarvēndriyōpapannāḥ prakr̥tijñāḥ pratipattijñāśca tē jñēyāḥ prāṇānāmabhisarā hantārōrōgāṇāṁ; tathāvidhā hi kēvalē śarīrajñānē śarīrābhinirvr̥ttijñānē prakr̥tivikārajñānē ca niḥsaṁśayāḥ,sukhasādhyakr̥cchrasādhyayāpyapratyākhyēyānāṁ ca rōgāṇāṁsamutthānapūrvarūpaliṅgavēdanōpaśayaviśēṣajñānē vyapagatasandēhāḥ, trividhasyāyurvēdasūtrasyasasaṅgrahavyākaraṇasya satrividhauṣadhagrāmasya pravaktāraḥ , pañcatriṁśatō mūlaphalānāṁ caturṇāṁ casnēhānāṁ pañcānāṁ ca lavaṇānāmaṣṭānāṁ ca mūtrāṇāmaṣṭānāṁ ca kṣīrāṇāṁ kṣīratvagvr̥kṣāṇāṁ ca ṣaṇṇāṁśirōvirēcanādēśca pañcakarmāśrayasyauṣadhagaṇasyāṣṭāviṁśatēśca yavāgūnāṁdvātriṁśataścūrṇapradēhānāṁ ṣaṇṇaṁ ca virēcanaśatānāṁ pañcānāṁ ca kaṣāyaśatānāṁ prayōktāraḥ,svasthavr̥ttavihitabhōjanapānaniyamasthānacaṅkramaṇaśayanāsanamātrādravyāñjanadhūmanāvanābhyañjana-parimārjanavēgāvidhāraṇavidhāraṇavyāyāmasātmyēndriyaparīkṣōpakramaṇasadvr̥ttakuśalāḥ ,catuṣpādōpagr̥hītē ca bhēṣajē ṣōḍaśakalē saviniścayē satriparyēṣaṇē savātakalākalajñānē vyapagatasandēhāḥ,caturvidhasya ca snēhasya caturviṁśatyupanayasyōpakalpanīyasya catuḥṣaṣṭiparyantasya cavyavasthāpayitāraḥ, bahuvidhavidhānayuktānāṁ ca snēhyasvēdyavamyavirēcyavividhauṣadhōpacārāṇāṁ cakuśalāḥ, śirōrōgādērdōṣāṁśavikalpajasya ca vyādhisaṅgrahasya sakṣayapiḍakāvidradhēstrayāṇāṁ ca śōphānāṁbahuvidhaśōphānubandhānāmaṣṭacatvāriṁśataśca rōgādhikaraṇānāṁ catvāriṁśaduttarasya ca nānātmajasyavyādhiśatasya tathā vigarhitātisthūlātikr̥śānāṁ sahētulakṣaṇōpakramāṇāṁ svapnasya cahitāhitasyāsvapnātisvapnasya ca sahētūpakramasya ṣaṇṇāṁ ca laṅghanādīnāmupakramāṇāṁsantarpaṇāpatarpaṇajānāṁ ca rōgāṇāṁ sarūpapraśamanānāṁ śōṇitajānāṁ ca vyādhīnāṁmadamūrcchāyasannyāsānāṁ ca sakāraṇarūpauṣadhōpacārāṇāṁ kuśalāḥ, kuśalāścāhāravidhiviniścayasyaprakr̥tyā hitāhitānāmāhāravikārāṇāmagryasaṅgrahasyāsavānāṁ ca caturaśītērdravyaguṇakarmaviniścayasyarasānurasasaṁśrayasya savikalpavairōdhikasya dvādaśavargāśrayasya cānnapānasya saguṇaprabhāvasyasānupānaguṇasya navavidhasyārthasaṅgrahasyāhāragatēśca hitāhitōpayōgaviśēṣātmakasya caśubhāśubhaviśēṣasya dhātvāśrayāṇāṁ ca rōgāṇāṁ sauṣadhasaṅgrahāṇāṁ daśānāṁ ca prāṇāyatanānāṁ yaṁ cavakṣyāmyarthēdaśamahāmūlīyē triṁśattamādhyāyē tatra ca kr̥tsnasya tantrōddēśalakṣaṇasya tantrasya cagrahaṇadhāraṇavijñānaprayōgakarmakāryakālakartr̥karaṇakuśalāḥ , kuśalāścasmr̥timatiśāstrayuktijñānasyātmanaḥ śīlaguṇairavisaṁvādanēna ca sampādanēna sarvaprāṇiṣu cētasō maitrasyamātāpitr̥bhrātr̥bandhuvat, ēvaṁyuktā bhavantyagnivēśa! prāṇānāmabhisarā hantārō rōgāṇāmiti||7||
+
+
+[BLOCK 46: P]
+----------------------------------------------------------------------
+evaMvAdinaM bhagavantamAtreyamagnivesha uvAca- bhagavaMste kathamasmAbhirveditavyA bhaveyuriti||6||
+
+
+[BLOCK 47: P]
+----------------------------------------------------------------------
+bhagavAnuvAca- ya ime kulInAH paryavadAtashrutAH paridRuShTakarmANo dakShAH shucayo jitahastA jitAtmAnaHsarvopakaraNavantaH sarvendriyopapannAH prakRutij~jAH pratipattij~jAshca te j~jeyAH prANAnAmabhisarA hantArorogANAM; tathAvidhA hi kevale sharIraj~jAne sharIrAbhinirvRuttij~jAne prakRutivikAraj~jAne ca niHsaMshayAH,sukhasAdhyakRucchrasAdhyayApyapratyAkhyeyAnAM ca rogANAMsamutthAnapUrvarUpali~ggavedanopashayavisheShaj~jAne vyapagatasandehAH, trividhasy Ayurvedas Utrasyasasa~ggrahavyAkaraNasya satrividhauShadhagrAmasya pravaktAraH , pa~jcatriMshato mUlaphalAnAM caturNAM casnehAnAM pa~jcAnAM ca lavaNAnAmaShTAnAM ca mUtrANAmaShTAnAM ca kShIrANAM kShIratvagvRukShANAM caShaNNAM shirovirecanAdeshca pa~jcakarmAshrayasyauShadhagaNasyAShTAviMshateshca yavAgUnAMdvAtriMshatashcUrNapradehAnAM ShaNNaM ca virecanashatAnAM pa~jcAnAM ca kaShAyashatAnAM prayoktAraH,svasthavRuttavihitabhojanapAnaniyamasthAnaca~gkramaNashayanAsanamAtrAdravyA~jjanadhUmanAvanAbhya~jjana-parimArjanavegAvidhAraNavidhAraNavyAyAmasAtmyendriyaparIkShopakramaNasadvRuttakushalAH ,catuShpAdopagRuhIte ca bheShaje ShoDashakale savinishcaye satriparyeShaNe savAtakalAkalaj~jAnevyapagatasandehAH, caturvidhasya ca snehasya caturviMshatyupanayasyopakalpanIyasya catuHShaShTiparyantasya ca vyavasthApayitAraH, bahuvidhavidhAnayuktAnAM ca snehyasvedyavamyavirecyavividhauShadhopacArANAM cakushalAH, shirorogAderdoShAMshavikalpajasya ca vyAdhisa~ggrahasya sakShayapiDakAvidradhestrayANAM cashophAnAM bahuvidhashophAnubandhAnAmaShTacatvAriMshatashca rogAdhikaraNAnAM catvAriMshaduttarasya canAnAtmajasya vyAdhishatasya tathA vigarhitAtisthUlAtikRushAnAM sahetulakShaNopakramANAM svapnasya cahitAhitasyAsvapnAtisvapnasya ca sahetUpakramasya ShaNNAM ca la~gghanAdInAmupakramANAMsantarpaNApatarpaNajAnAM ca rogANAM sarUpaprashamanAnAM shoNitajAnAM ca vyAdhInAMmadamUrcchAyasannyAsAnAM ca sakAraNarUpauShadhopacArANAM kushalAH, kushalAshcAhAravidhivinishcayasyaprakRutyA hitAhitAnAmAhAravikArANAmagryasa~ggrahasyAsavAnAM ca caturashIterdravyaguNakarmavinishcayasyarasAnurasasaMshrayasya savikalpavairodhikasya dvAdashavargAshrayasya cAnnapAnasya saguNaprabhAvasyasAnupAnaguNasya navavidhasyArthasa~ggrahasyAhAragateshca hitAhitopayogavisheShAtmakasya cashubhAshubhavisheShasya dhAtvAshrayANAM ca rogANAM sauShadhasa~ggrahANAM dashAnAM ca prANAyatanAnAMyaM ca vakShyAmyarthedashamahAmUlIye triMshattamAdhyAye tatra ca kRutsnasya tantroddeshalakShaNasya tantrasyaca grahaNadhAraNavij~jAnaprayogakarmakAryakAlakartRukaraNakushalAH, kushalAshcasmRutimatishAstrayuktij~jAnasyAtmanaH shIlaguNairavisaMvAdanena ca sampAdanena sarvaprANiShu cetaso maitrasyamAtApitRubhrAtRubandhuvat, evaMyuktA bhavantyagnivesha! prANAnAmabhisarA hantAro rogANAmiti||7||
+
+[REFERENCES / LINKS]
+Ayurvedas : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+
+
+[BLOCK 48: P]
+----------------------------------------------------------------------
+Hearing this statement from Lord Atreya, Agnivesha enquires, “O! Lord! How can we identify them?
+
+
+[BLOCK 49: P]
+----------------------------------------------------------------------
+Then the Lord spoke -
+
+
+[BLOCK 50: P]
+----------------------------------------------------------------------
+The one who is of eminent descent, reputed for skills in science and art of medicine, with adequate practical exposure, intelligent, adept, thinking benevolently, clean, who is in full control of his hands and able to perform therapeutic maneuvers, extremely skilled with his hands, having control over himself and the senses, possessing all necessary tools, possessing all sense organs, having adequate knowledge about the normal functions of the human body, and the ability to act as the situation demands. Besides these, a pranabhisara should possess the following skills:
+
+
+[BLOCK 51: UL]
+----------------------------------------------------------------------
+1. Indisputable knowledge about the following: Knowledge of the human body, knowledge of the growth and development of the human body, knowledge of the physiological and pathological states of the human being;
+2. Clear knowledge without any doubts regarding: Diseases that are easily curable, curable with difficulty, managed by palliative care and incurable diseases to be treated only after informing about the consequences
+3. Specific knowledge of etiology, prodromal symptoms, signs and symptoms and response to treatments for effective disease management
+4. The ability to explain: The threefold essence of Ayurveda in the form of etiology, symptomatology, and treatments in both concise and elaborate manner The threefold treatment in the form of rational, religious and spiritual interventions.
+5. Ability to clinically administer the thirty-five types of roots and fruits, four types of fats, five types of salts, eight types of urine, eight types of milk and laticiferous bark trees, six categories of medicines helpful in the five procedures like nasal errhines for cranial purge, twenty-eight types of medicated gruel, the thirty types of ointment powders, the five hundred herbs for decoctions.
+6. Having practical knowledge of foods, drinks, dietary rules, guidelines for standing, walking, sleeping, sitting, quantity, properties of substances, eye salve, medicated smoking, nasal medication, oil application, massage, attending to the natural urges, being in control of the emotional urges, exercise, habituations, the examination and regulation of sensory and motor organs and good conduct.
+7. Having doubtless knowledge of treatment comprising of four aspects (of healthcare) and sixteen qualities, diagnosis, the three pursuits of life, wealth and afterlife, the minute qualities of vata and the other two dosha ,
+8. Having the ability to compute and fix the four types of fats, their combinations ranging from twenty-four to sixty-four,
+9. Expertise in the multifaceted application of the various medicinal formulations for oleation, fomentation, emesis and purgation.
+10. Expertise in the knowledge of etiology, symptomatology and treatment of the group of diseases beginning with those afflicting the head, including, wasting, skin eruptions, abscess, the three types of edema and the various diseases that develop as a sequel to it numbering forty-eight, the forty diseases mentioned after that, the diseases caused by the dosha exclusively, numbering one hundred and the group of despicable individuals who are extremely obese or thin and so on.
+11. Expertise in the knowledge of sleep, what is wholesome and unwholesome of sleep, the causes and treatment of insomnia and excessive sleep, the six treatment protocols beginning with depletion and so on, the diseases caused by hyper nutrition and hyponutrition, with knowledge of symptomatology and treatments, along with diseases of the blood and intoxication, fainting and coma with knowledge of etiology, symptomatology and treatment.
+12. Expertise in prescribing the dietary regimens, the knowledge about the natural properties of food substances in terms of their wholesomeness and unwholesomeness as well the various food preparations, the items that are foremost in their respective domains of use, the eighty-four types of fermented preparations, the skill to determine the properties and pharmacological actions of substances, the various permutations and combinations of tastes and aftertastes of substances, the properties and utility of the foods and drinks described in twelve groups, the properties of the after drinks, the properties of the nine different parts of the various parts of the food sources, the fate of the various types of food that is consumed, the desirable and undesirable outcomes related to its wholesome and unwholesome use, the diseases that are seated in the tissues of the structural supports of the body along with the full array of medications, the ten principal seats of the life processes, and what will be explained further in the thirtieth chapter on the ten great vessels that emanate from the heart, the topics and definitions elaborated in the text, ability to grasp, retain, understand the meaning, practice, implement various treatment procedures, achieve the goal of balance of the body elements, understanding the right opportunity for treatment, skill as a physician, knowledge of the medicines, and
+13. (endowed with) memory, technical intelligence, applied knowledge of the sciences, being of good conduct, not contradicting oneself and acquiring thereby the mental friendship of all living beings like the relationship with one's mother, father, kith, and kin.
+
+[REFERENCES / LINKS]
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 52: P]
+----------------------------------------------------------------------
+These are the characteristics, O Agnivesha, of the companions of the life forces, and the eliminators of diseases. [7]
+
+
+[BLOCK 53: H3]
+----------------------------------------------------------------------
+Characteristics of rogabhisara (who creates diseases and destroys life forces)
+
+
+[BLOCK 54: P]
+----------------------------------------------------------------------
+अतो विपरीता रोगाणामभिसरा हन्तारः प्राणानां, भिषक्छद्मप्रतिच्छन्नाः कण्टकभूता लोकस्य प्रतिरूपकसधर्माणो राज्ञांप्रमादाच्चरन्ति राष्ट्राणि||८||
+
+
+[BLOCK 55: P]
+----------------------------------------------------------------------
+तेषामिदं विशेषविज्ञानं भवति- अत्यर्थं वैद्यवेशेन श्लाघमाना विशिखान्तरमनुचरन्ति कर्मलोभात्, श्रुत्वा चकस्यचिदातुर्यमभितः परिपतन्ति, संश्रवणे चास्यात्मनो वैद्यगुणानुच्चैर्वदन्ति, यश्चास्य वैद्यः प्रतिकर्म करोति तस्य चदोषान्मुहुर्मुहुरुदाहरन्ति, आतुरमित्राणि च प्रहर्षणोपजापोपसेवादिभिरिच्छन्त्यात्मीकर्तुं, स्वल्पेच्छुतां चात्मनः ख्यापयन्ति,कर्म चासाद्य मुहुर्मुहुरवलोकयन्ति दाक्ष्येणाज्ञानमात्मनः प्रच्छादयितुकामाः, व्याधिं चापावर्तयितुमशक्नुवतोव्याधितमेवानुपकरणमपरिचारकमनात्मवन्तमुपदिशन्ति , अन्तगतं चैनमभिसमीक्ष्यान्यमाश्रयन्ति देशमपदेशमात्मनःकृत्वा, प्राकृतजनसन्निपाते चात्मनः कौशलमकुशलवद्वर्णयन्ति, अधीरवच्च धैर्यमपवदन्ति धीराणां, विद्वज्जनसन्निपातं(चाभिसमीक्ष्य) प्रतिभयमिव कान्तारमध्वगाः परिहरन्ति दूरात्, यश्चैषां कश्चित् सूत्रावयवो भवत्युपयुक्तस्तमप्रकृतेप्रकृतान्तरे वा सततमुदाहरन्ति, न चानुयोगमिच्छन्त्यनुयोक्तुं वा, मृत्योरिव चानुयोगादुद्विजन्ते, न चैषामाचार्यः शिष्यःसब्रह्मचारी वैवादिको वा कश्चित् प्रज्ञायत इति||९||
+
+
+[BLOCK 56: P]
+----------------------------------------------------------------------
+atō viparītā rōgāṇāmabhisarā hantāraḥ prāṇānāṁ, bhiṣakchadmapraticchannāḥ kaṇṭakabhūtā lōkasyapratirūpakasadharmāṇō rājñāṁ pramādāccaranti rāṣṭrāṇi||8||
+
+
+[BLOCK 57: P]
+----------------------------------------------------------------------
+tēṣāmidaṁ viśēṣavijñānaṁ bhavati- atyarthaṁ vaidyavēśēna ślāghamānā viśikhāntaramanucarantikarmalōbhāt, śrutvā ca kasyacidāturyamabhitaḥ paripatanti, saṁśravaṇē cāsyātmanōvaidyaguṇānuccairvadanti, yaścāsya vaidyaḥ pratikarma karōti tasya ca dōṣānmuhurmuhurudāharanti,āturamitrāṇi ca praharṣaṇōpajāpōpasēvādibhiricchantyātmīkartuṁ, svalpēcchutāṁ cātmanaḥ khyāpayanti,karma cāsādya muhurmuhuravalōkayanti dākṣyēṇājñānamātmanaḥ pracchādayitukāmāḥ, vyādhiṁcāpāvartayitumaśaknuvatō vyādhitamēvānupakaraṇamaparicārakamanātmavantamupadiśanti ,antagataṁ cainamabhisamīkṣyānyamāśrayanti dēśamapadēśamātmanaḥ kr̥tvā, prākr̥tajanasannipātēcātmanaḥ kauśalamakuśalavadvarṇayanti, adhīravacca dhairyamapavadanti dhīrāṇāṁ,vidvajjanasannipātaṁ (cābhisamīkṣya) pratibhayamiva kāntāramadhvagāḥ pariharanti dūrāt, yaścaiṣāṁkaścit sūtrāvayavō bhavatyupayuktastamaprakr̥tē prakr̥tāntarē vā satatamudāharanti, nacānuyōgamicchantyanuyōktuṁ vā, mr̥tyōriva cānuyōgādudvijantē, na caiṣāmācāryaḥ śiṣyaḥ sabrahmacārīvaivādikō vā kaścit prajñāyata iti||9||
+
+
+[BLOCK 58: P]
+----------------------------------------------------------------------
+ato viparItA rogANAmabhisarA hantAraH prANAnAM, bhiShakchadmapraticchannAH kaNTakabhUtAlokasya pratirUpakasadharmANo rAj~jAM pramAdAccaranti rAShTrANi||8||
+
+
+[BLOCK 59: P]
+----------------------------------------------------------------------
+teShAmidaM visheShavij~jAnaM bhavati- atyarthaM vaidyaveshena shlAghamAnAvishikhAntaramanucaranti karmalobhAt, shrutvA ca kasyacidAturyamabhitaH paripatanti, saMshravaNecAsyAtmano vaidyaguNAnuccairvadanti, yashcAsya vaidyaH pratikarma karoti tasya cadoShAnmuhurmuhurudAharanti, AturamitrANi ca praharShaNopajApopasevAdibhiricchantyAtmIkartuM,svalpecchutAM cAtmanaH khyApayanti, karma cAsAdya muhurmuhuravalokayantidAkShyeNAj~jAnamAtmanaH pracchAdayitukAmAH, vyAdhiM cApAvartayitumashaknuvatovyAdhitamevAnupakaraNamaparicArakamanAtmavantamupadishanti [2] , antagataMcainamabhisamIkShyAnyamAshrayanti deshamapadeshamAtmanaH kRutvA, prAkRutajanasannipAtecAtmanaH kaushalamakushalavadvarNayanti, adhIravacca dhairyamapavadanti dhIrANAM,vidvajjanasannipAtaM (cAbhisamIkShya) pratibhayamiva kAntAramadhvagAH pariharanti dUrAt,yashcaiShAM kashcit sUtrAvayavo bhavatyupayuktastamaprakRute prakRutAntare vA satatamudAharanti,na cAnuyogamicchantyanuyoktuM vA, mRutyoriva cAnuyogAdudvijante, na caiShAmAcAryaH shiShyaHsabrahmacArI vaivAdiko vA kashcit praj~jAyata iti||9||
+
+
+[BLOCK 60: P]
+----------------------------------------------------------------------
+Contrary to this are the companions of disease, the killers of the life process, wearing the mask of a physician like a charlatan roams the country owing to the oversight of the King.
+
+
+[BLOCK 61: P]
+----------------------------------------------------------------------
+The specific characteristics of such people are given below -
+
+
+[BLOCK 62: P]
+----------------------------------------------------------------------
+Prompted by the greed to find a vocation for themselves, these persons make self-boosting claims about their medical skills and engage in some clinical practice. When they hear that someone is sick, they present themselves and make themselves heard, announcing their qualities as a physician in loud voices. They also make it a point to repeatedly highlight the faults of the physician who retaliates or becomes a competition for them. They try to befriend the associates and friends of the patients by making them happy, praising them and also serving them. They also emphasize that they expect very little for the services rendered. When they are confronted with a situation in which they have to function as a physician, they look here and there frantically trying to cover up their ignorance. Being unable to manage the disease, they blame the patient by saying that they do not have the necessary tools, or do not have assistants or are not disciplined. When the patient shows sign of succumbing to the disease, they relocate to another place excusing themselves. Amongst the common people, they brag about their skills in a contradictory manner revealing their lack of skills, exposing themselves as cowards, they downgrade the courage of the valiant persons. But when they see knowledgeable people, they move out of their way to avoid a confrontation just as wayfarers avoid thick forests out of fear. Whatever concepts they know, they constantly refer to them in inappropriate or altogether different contexts. They are fearful of any questions. They fear questions like death. Moreover, it is not possible to get any information about their teachers, disciples or colleagues or if mentioned, it is controversial. [8-9]
+
+
+[BLOCK 63: H3]
+----------------------------------------------------------------------
+Social hazards from quackery
+
+
+[BLOCK 64: P]
+----------------------------------------------------------------------
+भवन्ति चात्र-
+भिषक्छद्म प्रविश्यैवं व्याधितांस्तर्कयन्ति ये|
+वीतंसमिव संश्रित्य वने शाकुन्तिका द्विजान्||१०||
+
+
+[BLOCK 65: P]
+----------------------------------------------------------------------
+श्रुतदृष्टक्रियाकालमात्राज्ञानबहिष्कृताः|
+वर्जनीया हि ते मृत्योश्चरन्त्यनुचरा भुवि||११||
+
+
+[BLOCK 66: P]
+----------------------------------------------------------------------
+वृत्तिहेतोर्भिषङ्मानपूर्णान् मूर्खविशारदान्|
+वर्जयेदातुरो विद्वान् सर्पास्ते पीतमारुताः||१२||
+
+
+[BLOCK 67: P]
+----------------------------------------------------------------------
+ये तु शास्त्रविदो दक्षाः शुचयः कर्मकोविदाः|
+जितहस्ता जितात्मानस्तेभ्यो नित्यं कृतं नमः||१३||
+
+
+[BLOCK 68: P]
+----------------------------------------------------------------------
+bhavanti cātra-
+bhiṣakchadma praviśyaivaṁ vyādhitāṁstarkayanti yē|
+vītaṁsamiva saṁśritya vanē śākuntikā dvijān||10||
+
+
+[BLOCK 69: P]
+----------------------------------------------------------------------
+śrutadr̥ṣṭakriyākālamātrājñānabahiṣkr̥tāḥ|
+varjanīyā hi tē mr̥tyōścarantyanucarā bhuvi||11||
+
+
+[BLOCK 70: P]
+----------------------------------------------------------------------
+vr̥ttihētōrbhiṣaṅmānapūrṇān mūrkhaviśāradān|
+varjayēdāturō vidvān sarpāstē pītamārutāḥ||12||
+
+
+[BLOCK 71: P]
+----------------------------------------------------------------------
+yē tu śāstravidō dakṣāḥ śucayaḥ karmakōvidāḥ|
+jitahastā jitātmānastēbhyō nityaṁ kr̥taṁ namaḥ||13||
+
+
+[BLOCK 72: P]
+----------------------------------------------------------------------
+bhavanti cAtra-
+bhiShakchadma pravishyaivaM vyAdhitAMstarkayanti ye|
+vItaMsamiva saMshritya vane shAkuntikA dvijAn||10||
+
+
+[BLOCK 73: P]
+----------------------------------------------------------------------
+shrutadRuShTakriyAkAlamAtrAj~jAnabahiShkRutAH|
+varjanIyA hi te mRutyoshcarantyanucarA bhuvi||11||
+
+
+[BLOCK 74: P]
+----------------------------------------------------------------------
+vRuttihetorbhiSha~gmAnapUrNAn mUrkhavishAradAn|
+varjayedAturo vidvAn sarpAste pItamArutAH||12||
+
+
+[BLOCK 75: P]
+----------------------------------------------------------------------
+ye tu shAstravido dakShAH shucayaH karmakovidAH|
+jitahastA jitAtmAnastebhyo nityaM kRutaM namaH||13||
+
+
+[BLOCK 76: P]
+----------------------------------------------------------------------
+It has also been said -
+
+
+[BLOCK 77: P]
+----------------------------------------------------------------------
+Having adorned the mask of a physician, they move about trying to trap patients like bird catchers moving in the forests with cages in their hands.
+
+
+[BLOCK 78: P]
+----------------------------------------------------------------------
+Devoid of the knowledge of the text, practices, timing and dosage, these people should be avoided at all costs as they move along with death itself.
+
+
+[BLOCK 79: P]
+----------------------------------------------------------------------
+The patient should avoid such impostors posing themselves as physicians for the sake of livelihood, who are verily fools appearing as learned. They are like snakes who have drunk air and are starving for prey.
+
+
+[BLOCK 80: P]
+----------------------------------------------------------------------
+Eternal salutations to those physicians who are well versed in the texts, who are adept, pure and well versed in practice, who have complete control over their hands in performing skilled treatments and those who have self-control. [10-13]
+
+
+[BLOCK 81: H3]
+----------------------------------------------------------------------
+Summary
+
+
+[BLOCK 82: P]
+----------------------------------------------------------------------
+तत्र श्लोकः-
+दशप्राणायतनिके श्लोकस्थानार्थसङ्ग्रहः|
+द्विविधा भिषजश्चोक्ताः प्राणस्यायतनानि च||१४||
+
+
+[BLOCK 83: P]
+----------------------------------------------------------------------
+tatra ślōkaḥ-
+daśaprāṇāyatanikē ślōkasthānārthasaṅgrahaḥ|
+dvividhā bhiṣajaścōktāḥ prāṇasyāyatanāni ca||14||
+
+
+[BLOCK 84: P]
+----------------------------------------------------------------------
+tatra shlokaH-
+dashaprANAyatanike shlokasthAnArthasa~ggrahaH|
+dvividhA bhiShajashcoktAH prANasyAyatanAni ca||14||
+
+
+[BLOCK 85: P]
+----------------------------------------------------------------------
+The summarizing verses -
+
+
+[BLOCK 86: P]
+----------------------------------------------------------------------
+In the chapter titled “the ten seats of the life forces," the summary of the contents of the Sutra Sthana or Shloka Sthana , the two types of physicians and the ten seats of the life forces have been described. [14]
+
+[REFERENCES / LINKS]
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+
+
+[BLOCK 87: H2]
+----------------------------------------------------------------------
+Tattva Vimarsha (Fundamental Principles)
+
+
+[BLOCK 88: UL]
+----------------------------------------------------------------------
+1. The ten principal seats of life forces are the two temples, the three vital organs (heart, brain and urinary bladder including urinary system), the throat, rakta dhatu (blood), Shukra dhatu (reproductive fluid), Oja (the vital fluid) and the anus.
+2. The physician who is the companion of life forces shall know these as well as the sensory and motor organs, intelligence, the cause of consciousness as well as diseases.
+3. Pranabhisara vaidya having the enlisted qualities is the best physician who can protect the life forces. On the contrary, Rogabhisara destroys the life forces.
+
+[REFERENCES / LINKS]
+rakta dhatu : https://www.carakasamhitaonline.com/index.php?title=Rakta_dhatu
+Shukra dhatu : https://www.carakasamhitaonline.com/index.php?title=Shukra_dhatu
+Oja : https://www.carakasamhitaonline.com/index.php?title=Oja
+
+
+[BLOCK 89: H2]
+----------------------------------------------------------------------
+Vidhi Vimarsha (Applied Inferences)
+
+
+[BLOCK 90: H3]
+----------------------------------------------------------------------
+Source of knowledge
+
+
+[BLOCK 91: P]
+----------------------------------------------------------------------
+The author makes it clear at the beginning of each chapter that it is not essentially his views that are being codified but rather the views of the preceptor Atreya. The teaching becomes credible when it comes from an authentic source. When codified knowledge is transmitted, it is mandatory to reveal the source of information and also to confirm its authenticity. [2]
+
+
+[BLOCK 92: H3]
+----------------------------------------------------------------------
+Concepts of importance of prana
+
+[REFERENCES / LINKS]
+prana : https://www.carakasamhitaonline.com/index.php?title=Prana
+
+
+[BLOCK 93: P]
+----------------------------------------------------------------------
+It is a fundamental principle in Ayurveda that any medical intervention should not work against the prana of the individual as it can lead to a decrease in the quality of life, new diseases, reduction in life span or even death. When depletive therapies are done, it has been specified that it should not be antagonistic to the factors that support life - pranavirodhina chainam langhanenopapadayet . Thus, the knowledge of the seats of prana and the impact of treatments, injuries and other stresses on them is of utmost practical relevance to the physician. Any affliction to the seats of the life forces needs to be attended to promptly. Treatments succeed only when two factors are managed in the background. One is prana , and the other is bala . The text says that life is dependent on prana and strength is dependent on udana - visheshat jivitam prane udano balamuchyate (the life is seated in prana , while the strength in udana ).
+
+[REFERENCES / LINKS]
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+prana : https://www.carakasamhitaonline.com/index.php?title=Prana
+
+
+[BLOCK 94: P]
+----------------------------------------------------------------------
+In the Charak Samhita , it is mentioned in the Trimarmiya Siddhi that the mahamarmas should be protected with utmost vigilance. The protection of the mahamarmas which are the brain, heart, and bladder is known as mahamarmaparipalana . A thorough knowledge of the seats of the life force, as well as the interventions to protect them, enables the physician to protect the life and strength of the patient, without which, no treatment will succeed.
+
+[REFERENCES / LINKS]
+Charak Samhita : https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita
+Trimarmiya Siddhi : https://www.carakasamhitaonline.com/index.php?title=Trimarmiya_Siddhi
+
+
+[BLOCK 95: P]
+----------------------------------------------------------------------
+The entire body is the seat of the life forces. However, the ten seats described here are of utmost importance. It is not difficult to understand why these ten locations are considered to be the special seats of the life forces.
+
+
+[BLOCK 96: H3]
+----------------------------------------------------------------------
+Shankha (temples)
+
+
+[BLOCK 97: P]
+----------------------------------------------------------------------
+Epidural space, the outermost part of the spinal canal, houses the middle meningeal artery that serves to provide steady blood supply to the meninges. This region is covered by a very thin layer of skull which is also very weak in comparison to the rest of the skull. Any laceration of the middle meningeal artery – due to a trauma or blow to this region – could lead to blood pooling in the epidural space, and consequently, building up of pressure on brain tissues, causing an eventual death of brain cells due to oxygen deprivation.
+
+
+[BLOCK 98: H3]
+----------------------------------------------------------------------
+Three marma
+
+[REFERENCES / LINKS]
+marma : https://www.carakasamhitaonline.com/index.php?title=Marma
+
+
+[BLOCK 99: P]
+----------------------------------------------------------------------
+The depiction of the three vital organs viz., brain, heart, and bladder as the seats of the life force do not need much explanation. These organs are known as the trimarmas , and entire chapters have been devoted to these three vital marmas in the section on treatments ( Chikitsa Sthana ) and clinical success ( Siddhi Sthana ) explaining the various diseases that afflict these organs and how to manage them. Trimarma corresponds to the biomedical concept of the tripods of life, which are the brain, heart, and lungs. In Ayurveda , instead of lungs, the bladder including the kidneys constitutes one of the three vital organs that sustain life.
+
+[REFERENCES / LINKS]
+Chikitsa Sthana : https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana
+Siddhi Sthana : https://www.carakasamhitaonline.com/index.php?title=Siddhi_Sthana
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+
+
+[BLOCK 100: H3]
+----------------------------------------------------------------------
+Kantha (throat)
+
+
+[BLOCK 101: P]
+----------------------------------------------------------------------
+The word kantha means throat and also the neck. The throat is important because it is the common passage for food and air and choking can lead to asphyxiation and death. Apart from that, it is also the location of the voice box. If we extend the meaning to include the neck, then there are important blood vessels that connect to the head. The external carotid artery, the jugular vein, and vertebral arteries can suffer injuries leading to life-threatening situations. Injuries to the thoracic inlet are associated with high mortality.
+
+
+[BLOCK 102: H3]
+----------------------------------------------------------------------
+Rakta (blood)
+
+[REFERENCES / LINKS]
+Rakta : https://www.carakasamhitaonline.com/index.php?title=Rakta
+
+
+[BLOCK 103: P]
+----------------------------------------------------------------------
+The blood is no doubt synonymous with life itself. So much so that Ayurveda refers to bleeding as jivadana or taking away life. It is mentioned in the chapter called Vidhishonitiya that the life forces follow the blood. Qualitative and quantitative parameters of blood need to be maintained for life to be sustained.
+
+[REFERENCES / LINKS]
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+Vidhishonitiya : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya
+
+
+[BLOCK 104: H3]
+----------------------------------------------------------------------
+Shukra (reproductive potency)
+
+[REFERENCES / LINKS]
+Shukra : https://www.carakasamhitaonline.com/index.php?title=Shukra
+
+
+[BLOCK 105: P]
+----------------------------------------------------------------------
+Shukra , which is loosely translated as the semen, actually represents the potency of reproduction and renewal. It is concerned with the ability of life to renew itself, which is a challenge at the cellular level as well as the level of the organism. Life ceases to continue if it cannot renew itself. For this reason, the shukra is considered to be the seat of the life force.
+
+[REFERENCES / LINKS]
+Shukra : https://www.carakasamhitaonline.com/index.php?title=Shukra
+shukra : https://www.carakasamhitaonline.com/index.php?title=Shukra
+
+
+[BLOCK 106: H3]
+----------------------------------------------------------------------
+Ojas
+
+[REFERENCES / LINKS]
+Ojas : https://www.carakasamhitaonline.com/index.php?title=Ojas
+
+
+[BLOCK 107: P]
+----------------------------------------------------------------------
+Ojas is related to immunity and is a function that manifests when all the tissues and elements of the body are optimized for structural and functional integrity. Ojas is not one substance but a network of substances and functions that expresses as the innate immunity of the organism. It goes without words that an immune system is an essential tool for survival and adaptation. Coping with stress and life-threatening situations require a robust immune system, and therefore ojas is one of the prominent seats of the life forces.
+
+[REFERENCES / LINKS]
+Ojas : https://www.carakasamhitaonline.com/index.php?title=Ojas
+Ojas : https://www.carakasamhitaonline.com/index.php?title=Ojas
+ojas : https://www.carakasamhitaonline.com/index.php?title=Ojas
+
+
+[BLOCK 108: H3]
+----------------------------------------------------------------------
+Guda (anus)
+
+[REFERENCES / LINKS]
+Guda : https://www.carakasamhitaonline.com/index.php?title=Guda
+
+
+[BLOCK 109: P]
+----------------------------------------------------------------------
+Guda denotes the anus and also the rectum as such. Rectal injuries result from a variety of insults and cause a heterogeneous spectrum of injuries to patients. Historically, many of these injuries were devastating, with high morbidity and mortality. They often required an aggressive approach to treatment including fecal stream diversion, distal rectal washout, and presacral drainage. Contemporary surgical care and a better understanding of the management of these injuries have dramatically improved outcomes. Even a digital rectal examination can sometimes induce fainting by activating the vasovagal reflex.
+
+[REFERENCES / LINKS]
+Guda : https://www.carakasamhitaonline.com/index.php?title=Guda
+
+
+[BLOCK 110: H3]
+----------------------------------------------------------------------
+Indriya
+
+[REFERENCES / LINKS]
+Indriya : https://www.carakasamhitaonline.com/index.php?title=Indriya
+
+
+[BLOCK 111: P]
+----------------------------------------------------------------------
+After listing the ten seats of the life force, the text enumerates the sensory and motor organs which are the primary tools with which the body becomes aware of the external environment and makes adaptive responses. These are called as the indriya and much of their activities to ensure survival are autonomous. Vijnana represents the higher awareness which leads the individual to respond and adapt voluntarily to external stimuli. Atman is the experiencing self that witnesses the changing self and non-self that is experienced. The disease manifests when the organism fails to adapt to situations in the effort to preserve the life process. The genuine physician is one who has a deep insight into this process. [3-4]
+
+[REFERENCES / LINKS]
+indriya : https://www.carakasamhitaonline.com/index.php?title=Indriya
+Vijnana : https://www.carakasamhitaonline.com/index.php?title=Vijnana
+Atman : https://www.carakasamhitaonline.com/index.php?title=Atman
+
+
+[BLOCK 112: H3]
+----------------------------------------------------------------------
+Types of vaidya and medical ethics
+
+[REFERENCES / LINKS]
+vaidya : https://www.carakasamhitaonline.com/index.php?title=Vaidya
+
+
+[BLOCK 113: P]
+----------------------------------------------------------------------
+Two types of vaidya (doctors) viz. one who preserves and protects life forces and destroyer of diseases, and the other who produces diseases and destroyer of the life process are observed in the society. [5]
+
+[REFERENCES / LINKS]
+vaidya : https://www.carakasamhitaonline.com/index.php?title=Vaidya
+
+
+[BLOCK 114: P]
+----------------------------------------------------------------------
+Characteristics and medical ethics for a doctor to protect the health of patients are described in details. The principles of good clinical practices are observed in this description. [6-7]
+
+
+[BLOCK 115: P]
+----------------------------------------------------------------------
+The characteristics of a bad doctor are described in detail. This also suggests forbidden things to be avoided by good doctors. It also gives a lesson to the society that which doctors they should avoid. [8-9]
+
+
+[BLOCK 116: H3]
+----------------------------------------------------------------------
+Related chapters
+
+
+[BLOCK 117: P]
+----------------------------------------------------------------------
+Deerghanjiviteeya Adhyaya , Khuddakachatushpada Adhyaya , Sharira Sankhya Sharira Adhyaya , Trimarmiya Chikitsa Adhyaya , Trimarmiya Siddhi Adhyaya
+
+[REFERENCES / LINKS]
+Deerghanjiviteeya Adhyaya : https://www.carakasamhitaonline.com/index.php?title=Deerghanjiviteeya_Adhyaya
+Khuddakachatushpada Adhyaya : https://www.carakasamhitaonline.com/index.php?title=Khuddakachatushpada_Adhyaya
+Sharira Sankhya Sharira Adhyaya : https://www.carakasamhitaonline.com/index.php?title=Sharira_Sankhya_Sharira_Adhyaya
+Trimarmiya Chikitsa Adhyaya : https://www.carakasamhitaonline.com/index.php?title=Trimarmiya_Chikitsa_Adhyaya
+Trimarmiya Siddhi Adhyaya : https://www.carakasamhitaonline.com/index.php?title=Trimarmiya_Siddhi_Adhyaya
+
+
+[BLOCK 118: TEXT]
+----------------------------------------------------------------------
+Back to the Top
+
+
+[BLOCK 119: P]
+----------------------------------------------------------------------
+Send us your suggestions and feedback on this page.
+
+[REFERENCES / LINKS]
+Send us your suggestions and feedback on this page. : https://www.carakasamhitaonline.com/index.php?title=Special:ContactMe
+
+
+[BLOCK 120: TEXT]
+----------------------------------------------------------------------
+NewPP limit report
+Cached time: 20261103025622
+Cache expiry: 86400
+Reduced expiry: false
+Complications: [vary‐revision‐id, show‐toc]
+CPU time usage: 0.061 seconds
+Real time usage: 0.213 seconds
+Preprocessor visited node count: 231/1000000
+Post‐expand include size: 2613/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 3/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.060/7 seconds
+Lua virtual size: 20475904/209715200 bytes
+Lua estimated memory usage: 0 bytes
+
+
+[BLOCK 121: TEXT]
+----------------------------------------------------------------------
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 162.634 1 -total
+92.28% 150.078 1 Template:Infobox
+2.70% 4.396 1 Template:CiteButton
+
+
+[BLOCK 122: TEXT]
+----------------------------------------------------------------------
+Saved in parser cache with key carakas1_carakasa:pcache:idhash:86-0!canonical and timestamp 20261103025622 and revision id 44495. Rendering was triggered because: diff-page
+
+
+[BLOCK 123: TEXT]
+----------------------------------------------------------------------
+Retrieved from "
+
+
+[BLOCK 124: TEXT]
+----------------------------------------------------------------------
+https://www.carakasamhitaonline.com/index.php?title=Dashapranayataneeya_Adhyaya&oldid=44495
+
+
+[BLOCK 125: TEXT]
+----------------------------------------------------------------------
+"
+
+
+==========================================================================================
+END OF CHAPTER
+==========================================================================================

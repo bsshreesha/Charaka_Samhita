@@ -1,0 +1,2106 @@
+{
+    "source": "Charaka Samhita",
+    "chapter": "Chikitsaprabhritiya Adhyaya",
+    "chapter_id": "Chikitsaprabhritiya_Adhyaya",
+    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsaprabhritiya_Adhyaya",
+    "xpath": "//*[@id=\"content\"]",
+    "extraction_date": "2026-11-03T11:54:47",
+    "total_blocks": 192,
+    "total_tables": 1,
+    "total_headings": 20,
+    "total_paragraphs": 156,
+    "content": [
+        {
+            "type": "h1",
+            "text": "Chikitsaprabhritiya Adhyaya",
+            "html": "<h1 class=\"firstHeading mw-first-heading\" id=\"firstHeading\"><span class=\"mw-page-title-main\">Chikitsaprabhritiya Adhyaya</span></h1>",
+            "links": [],
+            "images": [],
+            "level": 1
+        },
+        {
+            "type": "text",
+            "text": "From Charak Samhita"
+        },
+        {
+            "type": "text",
+            "text": "Jump to navigation"
+        },
+        {
+            "type": "text",
+            "text": "Jump to search"
+        },
+        {
+            "type": "figure",
+            "text": "",
+            "html": "<figure class=\"mw-default-size mw-halign-right\" typeof=\"mw:File\"><a href=\"https://www.carakasamhitaonline.com/index.php?title=Special:CiteThisPage&amp;page=Chikitsaprabhritiya_Adhyaya&amp;id=44482&amp;wpFormIdentifier=titleform\" rel=\"nofollow\"><img class=\"mw-file-element\" decoding=\"async\" height=\"47\" src=\"/images/5/58/Cite.png\" width=\"180\"/></a><figcaption></figcaption></figure>",
+            "links": [
+                {
+                    "text": "",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Special:CiteThisPage&page=Chikitsaprabhritiya_Adhyaya&id=44482&wpFormIdentifier=titleform"
+                }
+            ],
+            "images": [
+                {
+                    "url": "https://www.carakasamhitaonline.com/images/5/58/Cite.png",
+                    "alt": "",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Sutra Sthana Chapter 16. Assessment and care in Panchakarma therapies",
+            "html": "<p><big><b>Sutra Sthana Chapter 16. Assessment and care in <a href=\"/index.php?title=Panchakarma\" title=\"Panchakarma\">Panchakarma</a> therapies</b></big>\n</p>",
+            "links": [
+                {
+                    "text": "Panchakarma",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Panchakarma"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "Section/Chapter",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Sutra Sthana Chapter 16",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Sutra Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Tetrad/Sub-section",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Kalpana Chatushka",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Preceding Chapter",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Upakalpaniya Adhyaya",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Upakalpaniya Adhyaya",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Upakalpaniya_Adhyaya"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Succeeding Chapter",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Kiyanta Shiraseeya Adhyaya",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Kiyanta Shiraseeya Adhyaya",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Kiyanta_Shiraseeya_Adhyaya"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Other Sections",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Nidana Sthana , Vimana Sthana , Sharira Sthana , Indriya Sthana , Chikitsa Sthana , Kalpa Sthana , Siddhi Sthana",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Nidana Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Nidana_Sthana"
+                            },
+                            {
+                                "text": "Vimana Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana"
+                            },
+                            {
+                                "text": "Sharira Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                            },
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            },
+                            {
+                                "text": "Chikitsa Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                            },
+                            {
+                                "text": "Kalpa Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Kalpa_Sthana"
+                            },
+                            {
+                                "text": "Siddhi Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Siddhi_Sthana"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Translator and commentator",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Murthy A.R.V., Magare R.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Reviewer",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Galib, Sabnis M.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Editors",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Mangalasseri P., Deole Y.S. , Basisht G.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Deole Y.S.",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Yogesh_Deole"
+                            },
+                            {
+                                "text": "Basisht G.",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Gopal_Basisht"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Year of publication",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "2020",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Publisher",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Charak Samhita Research, Training and Skill Development Centre",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Charak Samhita Research, Training and Skill Development Centre",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Skill_Development_Centre"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "DOI",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "10.47468/CSNE.2020.e01.s01.018",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "10.47468/CSNE.2020.e01.s01.018",
+                                "url": "https://doi.org/10.47468/CSNE.2020.e01.s01.018"
+                            }
+                        ]
+                    }
+                ]
+            ],
+            "html": "<table class=\"infobox\" style=\"width:22em\"><caption>Chikitsaprabhritiya Adhyaya</caption><tbody><tr><th scope=\"row\">Section/Chapter</th><td>\n<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> Chapter 16</td></tr><tr><th scope=\"row\">Tetrad/Sub-section</th><td>\n<i>Kalpana Chatushka</i></td></tr><tr><th scope=\"row\">Preceding Chapter</th><td>\n<a href=\"/index.php?title=Upakalpaniya_Adhyaya\" title=\"Upakalpaniya Adhyaya\">Upakalpaniya Adhyaya</a></td></tr><tr><th scope=\"row\">Succeeding Chapter</th><td>\n<a href=\"/index.php?title=Kiyanta_Shiraseeya_Adhyaya\" title=\"Kiyanta Shiraseeya Adhyaya\">Kiyanta Shiraseeya Adhyaya</a></td></tr><tr><th scope=\"row\">Other Sections</th><td>\n<a href=\"/index.php?title=Nidana_Sthana\" title=\"Nidana Sthana\">Nidana Sthana</a>, <a href=\"/index.php?title=Vimana_Sthana\" title=\"Vimana Sthana\">Vimana Sthana</a>, <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a>, <a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a>, <a href=\"/index.php?title=Chikitsa_Sthana\" title=\"Chikitsa Sthana\">Chikitsa Sthana</a>, <a href=\"/index.php?title=Kalpa_Sthana\" title=\"Kalpa Sthana\">Kalpa Sthana</a>, <a href=\"/index.php?title=Siddhi_Sthana\" title=\"Siddhi Sthana\">Siddhi Sthana</a></td></tr><tr><th scope=\"row\">Translator and commentator</th><td>\nMurthy A.R.V., Magare R.</td></tr><tr><th scope=\"row\">Reviewer</th><td>\nGalib, Sabnis M.</td></tr><tr><th scope=\"row\">Editors</th><td>\nMangalasseri P., <a href=\"/index.php?title=Yogesh_Deole\" title=\"Yogesh Deole\">Deole Y.S.</a>, <a href=\"/index.php?title=Gopal_Basisht\" title=\"Gopal Basisht\">Basisht G.</a></td></tr><tr><th scope=\"row\">Year of publication</th><td>\n2020</td></tr><tr><th scope=\"row\">Publisher</th><td>\n<a href=\"/index.php?title=Charak_Samhita_Research,_Training_and_Skill_Development_Centre\" title=\"Charak Samhita Research, Training and Skill Development Centre\">Charak Samhita Research, Training and Skill Development Centre</a></td></tr><tr><th scope=\"row\">DOI</th><td>\n<a class=\"external text\" href=\"https://doi.org/10.47468/CSNE.2020.e01.s01.018\" rel=\"nofollow\">10.47468/CSNE.2020.e01.s01.018</a></td></tr></tbody></table>",
+            "links": [
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "Upakalpaniya Adhyaya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Upakalpaniya_Adhyaya"
+                },
+                {
+                    "text": "Kiyanta Shiraseeya Adhyaya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kiyanta_Shiraseeya_Adhyaya"
+                },
+                {
+                    "text": "Nidana Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Nidana_Sthana"
+                },
+                {
+                    "text": "Vimana Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Chikitsa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                },
+                {
+                    "text": "Kalpa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kalpa_Sthana"
+                },
+                {
+                    "text": "Siddhi Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Siddhi_Sthana"
+                },
+                {
+                    "text": "Deole Y.S.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Yogesh_Deole"
+                },
+                {
+                    "text": "Basisht G.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Gopal_Basisht"
+                },
+                {
+                    "text": "Charak Samhita Research, Training and Skill Development Centre",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Skill_Development_Centre"
+                },
+                {
+                    "text": "10.47468/CSNE.2020.e01.s01.018",
+                    "url": "https://doi.org/10.47468/CSNE.2020.e01.s01.018"
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Abstract",
+            "html": "<p><big><b>Abstract</b></big>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "This chapter describes the management of conditions arising during therapies. The assessment of correct and incorrect administration of therapeutic procedures, along with its treatment interventions are described. It also enlists indications for therapeutic intervention and their benefits with details of post therapeutic dietary management. The applicability of the theory of natural destruction of causative factors of disease (svabhavoparamvada) is discussed, that emphasizes need of therapeutic interventions for fast recovery to health.",
+            "html": "<p style=\"text-align:justify;\">This chapter describes the management of conditions arising during therapies. The assessment of correct and incorrect administration of therapeutic procedures, along with its treatment interventions are described. It also enlists indications for therapeutic intervention and their benefits with details of post therapeutic dietary management. The applicability of the theory of natural destruction of causative factors of disease (svabhavoparamvada) is discussed, that emphasizes need of therapeutic interventions for fast recovery to health. </p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Keywords : Chikitsaprabhrita(equipped physician), bahudosha (signs of aggravated dosha ), samshodhana (purification therapy), vishuddha koshtha (purified bowel), svabhavoparamavada (theory of natural destruction), Panchakarma , patient care, assessment criteria of purification.",
+            "html": "<p><b>Keywords</b>: Chikitsaprabhrita(equipped physician), bahudosha (signs of aggravated <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a>), samshodhana (purification therapy),  vishuddha koshtha (purified bowel), svabhavoparamavada (theory of natural destruction),<a href=\"/index.php?title=Panchakarma\" title=\"Panchakarma\">Panchakarma</a>, patient care, assessment criteria of purification.\n</p>",
+            "links": [
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "Panchakarma",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Panchakarma"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "",
+            "html": "<p><br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Contents",
+            "html": "<h2 id=\"mw-toc-heading\">Contents</h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ul",
+            "text": "1 Introduction 2 Sanskrit text, Transliteration and English Translation 2.1 Signs of proper purification 2.2 Signs of inadequate purification 2.3 Signs of excess purification therapy 2.4 Signs of excess aggravated dosha and indications of purification therapy 2.5 Benefits of purification therapy 2.6 Prevention of recurrence of disease 2.7 Post purification measures 2.8 Treatment of excess and inadequate purification therapy 2.9 Swabhavoparama vada (theory of natural destruction) 2.10 Query by Agnivesha 2.11 Explanation by Punarvasu 2.12 Definition of chikitsa and the duty of a physician 2.13 Summary 3 Tattva Vimarsha (Fundamental Principles) 4 Vidhi Vimarsha (Applied Inferences) 4.1 Further reading",
+            "html": "<ul>\n<li class=\"toclevel-1 tocsection-1\"><a href=\"#Introduction\"><span class=\"tocnumber\">1</span> <span class=\"toctext\">Introduction</span></a></li>\n<li class=\"toclevel-1 tocsection-2\"><a href=\"#Sanskrit_text,_Transliteration_and_English_Translation\"><span class=\"tocnumber\">2</span> <span class=\"toctext\">Sanskrit text, Transliteration and English Translation</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-3\"><a href=\"#Signs_of_proper_purification\"><span class=\"tocnumber\">2.1</span> <span class=\"toctext\">Signs of proper purification</span></a></li>\n<li class=\"toclevel-2 tocsection-4\"><a href=\"#Signs_of_inadequate_purification\"><span class=\"tocnumber\">2.2</span> <span class=\"toctext\">Signs of inadequate purification</span></a></li>\n<li class=\"toclevel-2 tocsection-5\"><a href=\"#Signs_of_excess_purification_therapy\"><span class=\"tocnumber\">2.3</span> <span class=\"toctext\">Signs of excess purification therapy</span></a></li>\n<li class=\"toclevel-2 tocsection-6\"><a href=\"#Signs_of_excess_aggravated_dosha_and_indications_of_purification_therapy\"><span class=\"tocnumber\">2.4</span> <span class=\"toctext\">Signs of excess aggravated dosha and indications of purification therapy</span></a></li>\n<li class=\"toclevel-2 tocsection-7\"><a href=\"#Benefits_of_purification_therapy\"><span class=\"tocnumber\">2.5</span> <span class=\"toctext\">Benefits of purification therapy</span></a></li>\n<li class=\"toclevel-2 tocsection-8\"><a href=\"#Prevention_of_recurrence_of_disease\"><span class=\"tocnumber\">2.6</span> <span class=\"toctext\">Prevention of recurrence of disease</span></a></li>\n<li class=\"toclevel-2 tocsection-9\"><a href=\"#Post_purification_measures\"><span class=\"tocnumber\">2.7</span> <span class=\"toctext\">Post purification measures</span></a></li>\n<li class=\"toclevel-2 tocsection-10\"><a href=\"#Treatment_of_excess_and_inadequate_purification_therapy\"><span class=\"tocnumber\">2.8</span> <span class=\"toctext\">Treatment of excess and inadequate purification therapy</span></a></li>\n<li class=\"toclevel-2 tocsection-11\"><a href=\"#Swabhavoparama_vada_(theory_of_natural_destruction)\"><span class=\"tocnumber\">2.9</span> <span class=\"toctext\">Swabhavoparama vada (theory of natural destruction)</span></a></li>\n<li class=\"toclevel-2 tocsection-12\"><a href=\"#Query_by_Agnivesha\"><span class=\"tocnumber\">2.10</span> <span class=\"toctext\">Query by Agnivesha</span></a></li>\n<li class=\"toclevel-2 tocsection-13\"><a href=\"#Explanation_by_Punarvasu\"><span class=\"tocnumber\">2.11</span> <span class=\"toctext\">Explanation by Punarvasu</span></a></li>\n<li class=\"toclevel-2 tocsection-14\"><a href=\"#Definition_of_chikitsa_and_the_duty_of_a_physician\"><span class=\"tocnumber\">2.12</span> <span class=\"toctext\">Definition of <i>chikitsa</i> and the duty of a physician</span></a></li>\n<li class=\"toclevel-2 tocsection-15\"><a href=\"#Summary\"><span class=\"tocnumber\">2.13</span> <span class=\"toctext\">Summary</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-16\"><a href=\"#Tattva_Vimarsha_(Fundamental_Principles)\"><span class=\"tocnumber\">3</span> <span class=\"toctext\">Tattva Vimarsha (Fundamental Principles)</span></a></li>\n<li class=\"toclevel-1 tocsection-17\"><a href=\"#Vidhi_Vimarsha_(Applied_Inferences)\"><span class=\"tocnumber\">4</span> <span class=\"toctext\">Vidhi Vimarsha (Applied Inferences)</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-18\"><a href=\"#Further_reading\"><span class=\"tocnumber\">4.1</span> <span class=\"toctext\">Further reading</span></a></li>\n</ul>\n</li>\n</ul>",
+            "links": [
+                {
+                    "text": "1 Introduction",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsaprabhritiya_Adhyaya#Introduction"
+                },
+                {
+                    "text": "2 Sanskrit text, Transliteration and English Translation",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsaprabhritiya_Adhyaya#Sanskrit_text,_Transliteration_and_English_Translation"
+                },
+                {
+                    "text": "2.1 Signs of proper purification",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsaprabhritiya_Adhyaya#Signs_of_proper_purification"
+                },
+                {
+                    "text": "2.2 Signs of inadequate purification",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsaprabhritiya_Adhyaya#Signs_of_inadequate_purification"
+                },
+                {
+                    "text": "2.3 Signs of excess purification therapy",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsaprabhritiya_Adhyaya#Signs_of_excess_purification_therapy"
+                },
+                {
+                    "text": "2.4 Signs of excess aggravated dosha and indications of purification therapy",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsaprabhritiya_Adhyaya#Signs_of_excess_aggravated_dosha_and_indications_of_purification_therapy"
+                },
+                {
+                    "text": "2.5 Benefits of purification therapy",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsaprabhritiya_Adhyaya#Benefits_of_purification_therapy"
+                },
+                {
+                    "text": "2.6 Prevention of recurrence of disease",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsaprabhritiya_Adhyaya#Prevention_of_recurrence_of_disease"
+                },
+                {
+                    "text": "2.7 Post purification measures",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsaprabhritiya_Adhyaya#Post_purification_measures"
+                },
+                {
+                    "text": "2.8 Treatment of excess and inadequate purification therapy",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsaprabhritiya_Adhyaya#Treatment_of_excess_and_inadequate_purification_therapy"
+                },
+                {
+                    "text": "2.9 Swabhavoparama vada (theory of natural destruction)",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsaprabhritiya_Adhyaya#Swabhavoparama_vada_(theory_of_natural_destruction)"
+                },
+                {
+                    "text": "2.10 Query by Agnivesha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsaprabhritiya_Adhyaya#Query_by_Agnivesha"
+                },
+                {
+                    "text": "2.11 Explanation by Punarvasu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsaprabhritiya_Adhyaya#Explanation_by_Punarvasu"
+                },
+                {
+                    "text": "2.12 Definition of chikitsa and the duty of a physician",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsaprabhritiya_Adhyaya#Definition_of_chikitsa_and_the_duty_of_a_physician"
+                },
+                {
+                    "text": "2.13 Summary",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsaprabhritiya_Adhyaya#Summary"
+                },
+                {
+                    "text": "3 Tattva Vimarsha (Fundamental Principles)",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsaprabhritiya_Adhyaya#Tattva_Vimarsha_(Fundamental_Principles)"
+                },
+                {
+                    "text": "4 Vidhi Vimarsha (Applied Inferences)",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsaprabhritiya_Adhyaya#Vidhi_Vimarsha_(Applied_Inferences)"
+                },
+                {
+                    "text": "4.1 Further reading",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsaprabhritiya_Adhyaya#Further_reading"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "1 Introduction",
+                    "links": [
+                        {
+                            "text": "1 Introduction",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsaprabhritiya_Adhyaya#Introduction"
+                        }
+                    ]
+                },
+                {
+                    "text": "2 Sanskrit text, Transliteration and English Translation 2.1 Signs of proper purification 2.2 Signs of inadequate purification 2.3 Signs of excess purification therapy 2.4 Signs of excess aggravated dosha and indications of purification therapy 2.5 Benefits of purification therapy 2.6 Prevention of recurrence of disease 2.7 Post purification measures 2.8 Treatment of excess and inadequate purification therapy 2.9 Swabhavoparama vada (theory of natural destruction) 2.10 Query by Agnivesha 2.11 Explanation by Punarvasu 2.12 Definition of chikitsa and the duty of a physician 2.13 Summary",
+                    "links": [
+                        {
+                            "text": "2 Sanskrit text, Transliteration and English Translation",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsaprabhritiya_Adhyaya#Sanskrit_text,_Transliteration_and_English_Translation"
+                        },
+                        {
+                            "text": "2.1 Signs of proper purification",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsaprabhritiya_Adhyaya#Signs_of_proper_purification"
+                        },
+                        {
+                            "text": "2.2 Signs of inadequate purification",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsaprabhritiya_Adhyaya#Signs_of_inadequate_purification"
+                        },
+                        {
+                            "text": "2.3 Signs of excess purification therapy",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsaprabhritiya_Adhyaya#Signs_of_excess_purification_therapy"
+                        },
+                        {
+                            "text": "2.4 Signs of excess aggravated dosha and indications of purification therapy",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsaprabhritiya_Adhyaya#Signs_of_excess_aggravated_dosha_and_indications_of_purification_therapy"
+                        },
+                        {
+                            "text": "2.5 Benefits of purification therapy",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsaprabhritiya_Adhyaya#Benefits_of_purification_therapy"
+                        },
+                        {
+                            "text": "2.6 Prevention of recurrence of disease",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsaprabhritiya_Adhyaya#Prevention_of_recurrence_of_disease"
+                        },
+                        {
+                            "text": "2.7 Post purification measures",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsaprabhritiya_Adhyaya#Post_purification_measures"
+                        },
+                        {
+                            "text": "2.8 Treatment of excess and inadequate purification therapy",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsaprabhritiya_Adhyaya#Treatment_of_excess_and_inadequate_purification_therapy"
+                        },
+                        {
+                            "text": "2.9 Swabhavoparama vada (theory of natural destruction)",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsaprabhritiya_Adhyaya#Swabhavoparama_vada_(theory_of_natural_destruction)"
+                        },
+                        {
+                            "text": "2.10 Query by Agnivesha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsaprabhritiya_Adhyaya#Query_by_Agnivesha"
+                        },
+                        {
+                            "text": "2.11 Explanation by Punarvasu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsaprabhritiya_Adhyaya#Explanation_by_Punarvasu"
+                        },
+                        {
+                            "text": "2.12 Definition of chikitsa and the duty of a physician",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsaprabhritiya_Adhyaya#Definition_of_chikitsa_and_the_duty_of_a_physician"
+                        },
+                        {
+                            "text": "2.13 Summary",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsaprabhritiya_Adhyaya#Summary"
+                        }
+                    ]
+                },
+                {
+                    "text": "3 Tattva Vimarsha (Fundamental Principles)",
+                    "links": [
+                        {
+                            "text": "3 Tattva Vimarsha (Fundamental Principles)",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsaprabhritiya_Adhyaya#Tattva_Vimarsha_(Fundamental_Principles)"
+                        }
+                    ]
+                },
+                {
+                    "text": "4 Vidhi Vimarsha (Applied Inferences) 4.1 Further reading",
+                    "links": [
+                        {
+                            "text": "4 Vidhi Vimarsha (Applied Inferences)",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsaprabhritiya_Adhyaya#Vidhi_Vimarsha_(Applied_Inferences)"
+                        },
+                        {
+                            "text": "4.1 Further reading",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsaprabhritiya_Adhyaya#Further_reading"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Introduction",
+            "html": "<h2><span class=\"mw-headline\" id=\"Introduction\">Introduction</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "In continuation of the preceding Upakalpaniya Adhyaya this chapter elaborates on the remaining aspects of purification processes and their prerequisites which were not fully dealt there.The word prabhrita is derived from the verbal root bhr which suggests the sense of supporting, nourishing and offering. The term, chikitsaprabhrita is applied to mean that physician who is well equipped in terms of qualities and instruments and who can play proper supporting role in the management of diseases. The chapter emphasizes upon the need for a proficient and well equipped physician to ensure flawless treatment. The patient is also expected to be intelligent enough to be able to identify a good physician. The word virechana is used often for vamana and samshodhana as well. Clinical features of samyak yoga (appropriate application of a procedure), ayoga (under application) and atiyoga (over application), and their management, have also been described. Diseases, their therapeutic response (so that they do not reoccur) and management of post-therapy cachexia have also been addressed in this chapter. Svabhavaparamavada is a phenomenon of natural destruction of health and disease. There is a continuous process of degeneration and regeneration of body tissues. The process of regeneration is known to great extent but the cause of degeneration and death is not known.",
+            "html": "<p>In continuation of the preceding <a href=\"/index.php?title=Upakalpaniya_Adhyaya\" title=\"Upakalpaniya Adhyaya\">Upakalpaniya Adhyaya</a> this chapter elaborates on the remaining aspects of purification processes and their prerequisites which were not fully dealt there.The word <i>prabhrita</i> is derived from the verbal root <i>bhr</i> which suggests the sense of supporting, nourishing and offering. The term, <i>chikitsaprabhrita</i> is applied to mean that physician who is well equipped in terms of qualities and instruments and who can play proper supporting role in the management of diseases. The chapter emphasizes upon the need for a proficient and well equipped physician to ensure flawless treatment. The patient is also expected to be intelligent enough to be able to identify a good physician. The word <a href=\"/index.php?title=Virechana\" title=\"Virechana\">virechana</a> is used often for <a href=\"/index.php?title=Vamana\" title=\"Vamana\">vamana</a> and <i>samshodhana</i> as well. Clinical features of <i>samyak yoga</i> (appropriate application of a procedure), <i>ayoga</i> (under application) and <i>atiyoga</i> (over application), and their management, have also been described. Diseases, their therapeutic response (so that they do not reoccur) and management of post-therapy cachexia have also been addressed in this chapter. <i>Svabhavaparamavada</i> is a phenomenon of natural destruction of health and disease.  There is a continuous process of degeneration and regeneration of body tissues. The process of regeneration is known to great extent but the cause of degeneration and death is not known.\n</p>",
+            "links": [
+                {
+                    "text": "Upakalpaniya Adhyaya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Upakalpaniya_Adhyaya"
+                },
+                {
+                    "text": "virechana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Virechana"
+                },
+                {
+                    "text": "vamana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vamana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Sanskrit text, Transliteration and English Translation",
+            "html": "<h2><span id=\"Sanskrit_text.2C_Transliteration_and_English_Translation\"></span><span class=\"mw-headline\" id=\"Sanskrit_text,_Transliteration_and_English_Translation\">Sanskrit text, Transliteration and English Translation</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "अथातश्चिकित्साप्राभृतीयमध्यायं व्याख्यास्यामः||१||",
+            "html": "<p>अथातश्चिकित्साप्राभृतीयमध्यायं व्याख्यास्यामः||१|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "इति ह स्माह भगवानात्रेयः||२||",
+            "html": "<p>इति ह स्माह भगवानात्रेयः||२|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "athātaścikitsāprābhr̥tīyamadhyāyaṁ vyākhyāsyāmaḥ||1||",
+            "html": "<p>athātaścikitsāprābhr̥tīyamadhyāyaṁ vyākhyāsyāmaḥ||1|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "iti ha smāha bhagavānātrēyaḥ||2||",
+            "html": "<p>iti ha smāha bhagavānātrēyaḥ||2||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "athAtashcikitsAprAbhRutIyamadhyAyaM vyAkhyAsyAmaH||1||",
+            "html": "<p>athAtashcikitsAprAbhRutIyamadhyAyaM vyAkhyAsyAmaH||1|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "iti ha smAha bhagavAnAtreyaH||2||",
+            "html": "<p>iti ha smAha bhagavAnAtreyaH||2|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Now we shall expound the chapter \"Chikitsaprabhritiya\" (Assessment and care in Panchakarma therapies).” Thus said Lord Atreya.[1-2]",
+            "html": "<p>Now we shall expound the chapter \"Chikitsaprabhritiya\" (Assessment and care in <a href=\"/index.php?title=Panchakarma\" title=\"Panchakarma\">Panchakarma</a> therapies).”  Thus said Lord Atreya.[1-2]\n</p>",
+            "links": [
+                {
+                    "text": "Panchakarma",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Panchakarma"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "चिकित्साप्राभृतो धीमान् शास्त्रवान् कर्मतत्परः|\nनरं विरेचयति यं स योगात् सुखमश्नुते||३||",
+            "html": "<p>चिकित्साप्राभृतो धीमान् शास्त्रवान् कर्मतत्परः| \nनरं विरेचयति यं स योगात् सुखमश्नुते||३|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "यं वैद्यमानी त्वबुधो विरेचयति मानवम्|\nसोऽतियोगादयोगाच्च मानवो दुःखमश्नुते||४||",
+            "html": "<p>यं वैद्यमानी त्वबुधो विरेचयति मानवम्| \nसोऽतियोगादयोगाच्च मानवो दुःखमश्नुते||४||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "cikitsāprābhr̥tō dhīmān śāstravān karmatatparaḥ|\nnaraṁ virēcayati yaṁ sa yōgāt sukhamaśnutē||3||",
+            "html": "<p>cikitsāprābhr̥tō dhīmān śāstravān karmatatparaḥ| \nnaraṁ virēcayati yaṁ sa yōgāt sukhamaśnutē||3|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "yaṁ vaidyamānī tvabudhō virēcayati mānavam|\nsō'tiyōgādayōgācca mānavō duḥkhamaśnutē||4||",
+            "html": "<p>yaṁ vaidyamānī tvabudhō virēcayati mānavam| \nsō'tiyōgādayōgācca mānavō duḥkhamaśnutē||4||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "cikitsAprAbhRuto dhImAn shAstravAn karmatatparaH|\nnaraM virecayati yaM sa yogAt sukhamashnute||3||",
+            "html": "<p>cikitsAprAbhRuto dhImAn shAstravAn karmatatparaH| \nnaraM virecayati yaM sa yogAt sukhamashnute||3|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "yaM vaidyamAnI tvabudho virecayati mAnavam|\nso~atiyogAdayogAcca mAnavo duHkhamashnute||4||",
+            "html": "<p>yaM vaidyamAnI tvabudho virecayati mAnavam| \nso~atiyogAdayogAcca mAnavo duHkhamashnute||4|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "A qualified physician is the one who is well acquainted with the principles of treatment, is learned and skilled in the practice of Ayurveda , and is known for promptness of action. A patient obtaining treatment in the form of emesis or purgation from such a physician, becomes healthy and attains happiness. On the other hand, if the patient receives treatment from a pretentious & ignorant physician, he subjects himself to potential complications because of excessive or inadequate treatment. [3-4]",
+            "html": "<p>A qualified physician is the one who is well acquainted with the principles of treatment, is learned and skilled in the practice of  <a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a>, and is known for promptness of action. A patient obtaining treatment in the form of emesis or purgation from such a physician, becomes healthy and attains happiness. On the other hand, if the patient receives treatment from a pretentious &amp; ignorant physician, he subjects himself to potential complications because of excessive or inadequate treatment. [3-4]\n</p>",
+            "links": [
+                {
+                    "text": "Ayurveda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayurveda"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Signs of proper purification",
+            "html": "<h3><span class=\"mw-headline\" id=\"Signs_of_proper_purification\">Signs of proper purification</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "दौर्बल्यं लाघवं ग्लानिर्व्याधीनामणुता रुचिः|\nहृद्वर्णशुद्धिः क्षुत्तृष्णा काले वेगप्रवर्तनम्||५||",
+            "html": "<p>दौर्बल्यं लाघवं ग्लानिर्व्याधीनामणुता रुचिः| \nहृद्वर्णशुद्धिः क्षुत्तृष्णा काले वेगप्रवर्तनम्||५|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "बुद्धीन्द्रियमनःशुद्धिर्मारुतस्यानुलोमता|\nसम्यग्विरिक्तलिङ्गानि कायाग्नेश्चानुवर्तनम् ||६||",
+            "html": "<p>बुद्धीन्द्रियमनःशुद्धिर्मारुतस्यानुलोमता| \nसम्यग्विरिक्तलिङ्गानि कायाग्नेश्चानुवर्तनम्  ||६|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "daurbalyaṁ lāghavaṁ glānirvyādhīnāmaṇutā ruciḥ|\nhr̥dvarṇaśuddhiḥ kṣuttr̥ṣṇā kālē vēgapravartanam||5||",
+            "html": "<p>daurbalyaṁ lāghavaṁ glānirvyādhīnāmaṇutā ruciḥ| \nhr̥dvarṇaśuddhiḥ kṣuttr̥ṣṇā kālē vēgapravartanam||5|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "buddhīndriyamanaḥśuddhirmārutasyānulōmatā|\nsamyagviriktaliṅgāni kāyāgnēścānuvartanam ||6||",
+            "html": "<p>buddhīndriyamanaḥśuddhirmārutasyānulōmatā| \nsamyagviriktaliṅgāni kāyāgnēścānuvartanam  ||6|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "daurbalyaM lAghavaM glAnirvyAdhInAmaNutA ruciH|\nhRudvarNashuddhiH kShuttRuShNA kAle vegapravartanam||5||",
+            "html": "<p>daurbalyaM lAghavaM glAnirvyAdhInAmaNutA ruciH| \nhRudvarNashuddhiH kShuttRuShNA kAle vegapravartanam||5|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "buddhIndriyamanaHshuddhirmArutasyAnulomatA|\nsamyagviriktali~ggAni kAyAgneshcAnuvartanam ||6||",
+            "html": "<p>buddhIndriyamanaHshuddhirmArutasyAnulomatA| \nsamyagviriktali~ggAni kAyAgneshcAnuvartanam  ||6|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Weakness, lightness, fatigue, attenuation of diseases, improved taste perception, restoration of the functioning of heart, improved complexion, proper appetite and thirst, timely passage of natural urges, feeling of cleanliness in intellect, sense organs and mind, proper movement of vata , and proper digestion (including metabolic activities) are the signs and symptoms of correctly administered purification therapy. [5-6]",
+            "html": "<p>Weakness, lightness, fatigue, attenuation of diseases, improved taste perception, restoration of the functioning of heart, improved complexion, proper appetite and thirst, timely passage of natural urges, feeling of cleanliness in intellect, sense organs and mind, proper movement of <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a>, and proper digestion (including metabolic activities) are the signs and symptoms of correctly administered purification therapy. [5-6]\n</p>",
+            "links": [
+                {
+                    "text": "vata",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vata"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Signs of inadequate purification",
+            "html": "<h3><span class=\"mw-headline\" id=\"Signs_of_inadequate_purification\">Signs of inadequate purification</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "ष्ठीवनं हृदयाशुद्धिरुत्क्लेशः श्लेष्मपित्तयोः|\nआध्मानमरुचिश्छर्दिरदौर्बल्यमलाघवम्||७||",
+            "html": "<p>ष्ठीवनं हृदयाशुद्धिरुत्क्लेशः श्लेष्मपित्तयोः| \nआध्मानमरुचिश्छर्दिरदौर्बल्यमलाघवम्||७|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "जङ्घोरुसदनं तन्द्रा स्तैमित्यं पीनसागमः|\nलक्षणान्यविरिक्तानां मारुतस्य च निग्रहः||८||",
+            "html": "<p>जङ्घोरुसदनं तन्द्रा स्तैमित्यं पीनसागमः| \nलक्षणान्यविरिक्तानां मारुतस्य च निग्रहः||८|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "ṣṭhīvanaṁ hr̥dayāśuddhirutklēśaḥ ślēṣmapittayōḥ|\nādhmānamaruciśchardiradaurbalyamalāghavam||7||",
+            "html": "<p>ṣṭhīvanaṁ hr̥dayāśuddhirutklēśaḥ ślēṣmapittayōḥ| \nādhmānamaruciśchardiradaurbalyamalāghavam||7|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "jaṅghōrusadanaṁ tandrā staimityaṁ pīnasāgamaḥ|\nlakṣaṇānyaviriktānāṁ mārutasya ca nigrahaḥ||8||",
+            "html": "<p>jaṅghōrusadanaṁ tandrā staimityaṁ pīnasāgamaḥ| \nlakṣaṇānyaviriktānāṁ mārutasya ca nigrahaḥ||8|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "ShThIvanaM hRudayAshuddhirutkleshaH shleShmapittayoH|\nAdhmAnamarucishchardiradaurbalyamalAghavam||7||",
+            "html": "<p>ShThIvanaM hRudayAshuddhirutkleshaH shleShmapittayoH| \nAdhmAnamarucishchardiradaurbalyamalAghavam||7|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "ja~gghorusadanaM tandrA staimityaM pInasAgamaH|\nlakShaNAnyaviriktAnAM mArutasya ca nigrahaH||8||",
+            "html": "<p>ja~gghorusadanaM tandrA staimityaM pInasAgamaH| \nlakShaNAnyaviriktAnAM mArutasya ca nigrahaH||8|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Spitting or drooling, abnormal functioning of heart, precipitation ( utklesha ) of shleshma and pitta , distension of abdomen , anorexia, vomiting, debility, absence of lightness (heaviness or sluggishness), laxity in calf muscles and thighs, drowsiness , feeling as if covered with a wet hide ( staimitya ), onset of rhinitis and impediment to the function of vata are the signs and symptoms of inadequate purification. [7-8]",
+            "html": "<p>Spitting or drooling, abnormal functioning of heart, precipitation (<i>utklesha</i>) of <i>shleshma</i> and <a href=\"/index.php?title=Pitta\" title=\"Pitta\">pitta</a>, distension of  abdomen , anorexia, vomiting, debility, absence of lightness (heaviness or sluggishness), laxity in calf muscles and thighs, drowsiness , feeling as if covered with a wet hide (<i>staimitya</i>), onset of rhinitis and impediment to the function of <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a> are the signs and symptoms of inadequate purification. [7-8]\n</p>",
+            "links": [
+                {
+                    "text": "pitta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pitta"
+                },
+                {
+                    "text": "vata",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vata"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Signs of excess purification therapy",
+            "html": "<h3><span class=\"mw-headline\" id=\"Signs_of_excess_purification_therapy\">Signs of excess purification therapy</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "विट्पित्तकफवातानामागतानां यथाक्रमम्|\nपरं स्रवति यद्रक्तं मेदोमांसोदकोपमम्||९||",
+            "html": "<p>विट्पित्तकफवातानामागतानां यथाक्रमम्| \nपरं स्रवति यद्रक्तं मेदोमांसोदकोपमम्||९|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "निःश्लेष्मपित्तमुदकं शोणितं कृष्णमेव वा|\nतृष्यतो मारुतार्तस्य सोऽतियोगः प्रमुह्यतः||१०||",
+            "html": "<p>निःश्लेष्मपित्तमुदकं शोणितं कृष्णमेव वा| \nतृष्यतो मारुतार्तस्य सोऽतियोगः प्रमुह्यतः||१०|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "viṭpittakaphavātānāmāgatānāṁ yathākramam|\nparaṁ sravati yadraktaṁ mēdōmāṁsōdakōpamam||9||",
+            "html": "<p>viṭpittakaphavātānāmāgatānāṁ yathākramam| \nparaṁ sravati yadraktaṁ mēdōmāṁsōdakōpamam||9|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "niḥślēṣmapittamudakaṁ śōṇitaṁ kr̥ṣṇamēva vā|\ntr̥ṣyatō mārutārtasya sō'tiyōgaḥ pramuhyataḥ||10||",
+            "html": "<p>niḥślēṣmapittamudakaṁ śōṇitaṁ kr̥ṣṇamēva vā| \ntr̥ṣyatō mārutārtasya sō'tiyōgaḥ pramuhyataḥ||10|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "viTpittakaphavAtAnAmAgatAnAM yathAkramam|\nparaM sravati yadraktaM medomAMsodakopamam||9||",
+            "html": "<p>viTpittakaphavAtAnAmAgatAnAM yathAkramam| \nparaM sravati yadraktaM medomAMsodakopamam||9|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "niHshleShmapittamudakaM shoNitaM kRuShNameva vA|\ntRuShyato mArutArtasya so~atiyogaH pramuhyataH||10||",
+            "html": "<p>niHshleShmapittamudakaM shoNitaM kRuShNameva vA| \ntRuShyato mArutArtasya so~atiyogaH pramuhyataH||10||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Elimination of feces, pitta , kapha , and vata in succession, excessive discharge of blood that looks like fat and flesh (washed), supernatant water or watery excretion of black colored blood without kapha and pitta , excessive thirst affliction with vitiated vata and fainting are the signs and symptoms of overpurgation. [9-10]",
+            "html": "<p>Elimination of feces, <a href=\"/index.php?title=Pitta\" title=\"Pitta\">pitta</a>, <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a>, and <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a> in succession, excessive discharge of blood that looks like fat and flesh (washed), supernatant  water or watery excretion of black colored blood without <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a>  and <a href=\"/index.php?title=Pitta\" title=\"Pitta\">pitta</a>, excessive thirst affliction with vitiated <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a> and fainting are the signs and symptoms of overpurgation. [9-10]\n</p>",
+            "links": [
+                {
+                    "text": "pitta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pitta"
+                },
+                {
+                    "text": "kapha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kapha"
+                },
+                {
+                    "text": "vata",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vata"
+                },
+                {
+                    "text": "kapha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kapha"
+                },
+                {
+                    "text": "pitta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pitta"
+                },
+                {
+                    "text": "vata",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vata"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "वमनेऽतिकृते लिङ्गान्येतान्येव भवन्ति हि|\nऊर्ध्वगा वातरोगाश्च वाग्ग्रहश्चाधिको भवेत्||११||",
+            "html": "<p>वमनेऽतिकृते लिङ्गान्येतान्येव भवन्ति हि| \nऊर्ध्वगा वातरोगाश्च वाग्ग्रहश्चाधिको भवेत्||११|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "चिकित्साप्राभृतं तस्मादुपेयाच्छरणं नरः|\nयुञ्ज्याद् य एनमत्यन्तमायुषा च सुखेन च||१२||",
+            "html": "<p>चिकित्साप्राभृतं तस्मादुपेयाच्छरणं नरः| \nयुञ्ज्याद् य एनमत्यन्तमायुषा च सुखेन च||१२|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "vamanē'tikr̥tē liṅgānyētānyēva bhavanti hi|\nūrdhvagā vātarōgāśca vāggrahaścādhikō bhavēt||11||",
+            "html": "<p>vamanē'tikr̥tē liṅgānyētānyēva bhavanti hi| \nūrdhvagā vātarōgāśca vāggrahaścādhikō bhavēt||11|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "cikitsāprābhr̥taṁ tasmādupēyāccharaṇaṁ naraḥ|\nyuñjyād ya ēnamatyantamāyuṣā ca sukhēna ca||12||",
+            "html": "<p>cikitsāprābhr̥taṁ tasmādupēyāccharaṇaṁ naraḥ| \nyuñjyād ya ēnamatyantamāyuṣā ca sukhēna ca||12|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "vamane~atikRute li~ggAnyetAnyeva bhavanti hi|\nUrdhvagA vAtarogAshca vAggrahashcAdhiko bhavet||11||",
+            "html": "<p>vamane~atikRute li~ggAnyetAnyeva bhavanti hi| \nUrdhvagA vAtarogAshca vAggrahashcAdhiko bhavet||11|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "cikitsAprAbhRutaM tasmAdupeyAccharaNaM naraH|\nyu~jjyAd ya enamatyantamAyuShA ca sukhena ca||12||",
+            "html": "<p>cikitsAprAbhRutaM tasmAdupeyAccharaNaM naraH|  \nyu~jjyAd ya enamatyantamAyuShA ca sukhena ca||12||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "In case of excessive administration of emesis, the symptoms are identical to that observed in the case of purgation. In addition, overemesis may result in diseases of vata , affecting the upper part of the body and also causing impediment of speech. One should therefore approach such a qualified and well-versed physician for the administration of any purification therapy. [11-12]",
+            "html": "<p>In case of excessive administration of emesis, the symptoms are identical to that observed in the case of purgation. In addition, overemesis may result in diseases of <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a>, affecting the upper part of the body and also causing impediment of speech. One should therefore approach such a qualified and well-versed physician for the administration of any purification therapy. [11-12]\n</p>",
+            "links": [
+                {
+                    "text": "vata",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vata"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Signs of excess aggravated dosha and indications of purification therapy",
+            "html": "<h3><span class=\"mw-headline\" id=\"Signs_of_excess_aggravated_dosha_and_indications_of_purification_therapy\">Signs of excess aggravated <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> and indications of purification therapy</span></h3>",
+            "links": [
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                }
+            ],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "अविपाकोऽरुचिः स्थौल्यं पाण्डुता गौरवं क्लमः|\nपिडकाकोठकण्डूनां सम्भवोऽरतिरेव च||१३||",
+            "html": "<p>अविपाकोऽरुचिः स्थौल्यं पाण्डुता गौरवं क्लमः| \nपिडकाकोठकण्डूनां सम्भवोऽरतिरेव च||१३|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "आलस्यश्रमदौर्बल्यं दौर्गन्ध्यमवसादकः|\nश्लेष्मपित्तसमुत्क्लेशो निद्रानाशोऽतिनिद्रता||१४||",
+            "html": "<p>आलस्यश्रमदौर्बल्यं दौर्गन्ध्यमवसादकः| \nश्लेष्मपित्तसमुत्क्लेशो निद्रानाशोऽतिनिद्रता||१४|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "तन्द्रा क्लैब्यमबुद्धित्वमशस्तस्वप्नदर्शनम्|\nबलवर्णप्रणाशश्च तृप्यतो बृंहणैरपि||१५||",
+            "html": "<p>तन्द्रा क्लैब्यमबुद्धित्वमशस्तस्वप्नदर्शनम्| \nबलवर्णप्रणाशश्च तृप्यतो बृंहणैरपि||१५|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "बहुदोषस्य लिङ्गानि तस्मै संशोधनं हितम्|\nऊर्ध्वं चैवानुलोमं च यथादोषं यथाबलम्||१६||",
+            "html": "<p>बहुदोषस्य लिङ्गानि तस्मै संशोधनं हितम्| \nऊर्ध्वं चैवानुलोमं च यथादोषं यथाबलम्||१६|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "avipākō'ruciḥ sthaulyaṁ pāṇḍutā gauravaṁ klamaḥ|\npiḍakākōṭhakaṇḍūnāṁ sambhavō'ratirēva ca||13||",
+            "html": "<p>avipākō'ruciḥ sthaulyaṁ pāṇḍutā gauravaṁ klamaḥ| \npiḍakākōṭhakaṇḍūnāṁ sambhavō'ratirēva ca||13|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "ālasyaśramadaurbalyaṁ daurgandhyamavasādakaḥ|\nślēṣmapittasamutklēśō nidrānāśō'tinidratā||14||",
+            "html": "<p>ālasyaśramadaurbalyaṁ daurgandhyamavasādakaḥ| \nślēṣmapittasamutklēśō nidrānāśō'tinidratā||14|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "tandrā klaibyamabuddhitvamaśastasvapnadarśanam|\nbalavarṇapraṇāśaśca tr̥pyatō br̥ṁhaṇairapi||15||",
+            "html": "<p>tandrā klaibyamabuddhitvamaśastasvapnadarśanam| \nbalavarṇapraṇāśaśca tr̥pyatō br̥ṁhaṇairapi||15|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "bahudōṣasya liṅgāni tasmai saṁśōdhanaṁ hitam|\nūrdhvaṁ caivānulōmaṁ ca yathādōṣaṁ yathābalam||16||",
+            "html": "<p>bahudōṣasya liṅgāni tasmai saṁśōdhanaṁ hitam| \nūrdhvaṁ caivānulōmaṁ ca yathādōṣaṁ yathābalam||16|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "avipAko~aruciH sthaulyaM pANDutA gauravaM klamaH|\npiDakAkoThakaNDUnAM sambhavo~aratireva ca||13||",
+            "html": "<p>avipAko~aruciH sthaulyaM pANDutA gauravaM klamaH| \npiDakAkoThakaNDUnAM sambhavo~aratireva ca||13|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "AlasyashramadaurbalyaM daurgandhyamavasAdakaH|\nshleShmapittasamutklesho nidrAnAsho~atinidratA||14||",
+            "html": "<p>AlasyashramadaurbalyaM daurgandhyamavasAdakaH| \nshleShmapittasamutklesho nidrAnAsho~atinidratA||14|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "tandrA klaibyamabuddhitvamashastasvapnadarshanam|\nbalavarNapraNAshashca tRupyato bRuMhaNairapi||15||",
+            "html": "<p>tandrA klaibyamabuddhitvamashastasvapnadarshanam| \nbalavarNapraNAshashca tRupyato bRuMhaNairapi||15|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "bahudoShasya li~ggAni tasmai saMshodhanaM hitam|\nUrdhvaM caivAnulomaM ca yathAdoShaM yathAbalam||16||",
+            "html": "<p>bahudoShasya li~ggAni tasmai saMshodhanaM hitam| \nUrdhvaM caivAnulomaM ca yathAdoShaM yathAbalam||16|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Indigestion, anorexia, corpulence, anemia, heaviness, exhaustion, eruption of pimples and wheals (bumps or itchy sores), pruritis, sluggishness, indolence, weakness, foul smell of the body, lassitude, precipitation ( utklesha ) of kapha and pitta , sleeplessness or excessive drowsiness, impotency, impediment to intelligence, inauspicious dreams, and loss of strength and complexion in spite of taking nourishing diet and right therapy are the signs and symptoms of patients having excess of morbid dosha . An experienced, skilled physician would advise and administer purification therapy taking into consideration the dosha status and strength of the patient . [13-16]",
+            "html": "<p>Indigestion, anorexia, corpulence, anemia, heaviness, exhaustion, eruption of pimples and wheals (bumps or itchy sores), pruritis, sluggishness, indolence, weakness, foul smell of the body, lassitude, precipitation (<i>utklesha</i>) of <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a> and <a href=\"/index.php?title=Pitta\" title=\"Pitta\">pitta</a>, sleeplessness or excessive drowsiness, impotency, impediment to intelligence, inauspicious dreams, and loss of strength and complexion in spite of taking nourishing diet and right therapy are the signs and symptoms of patients having excess of morbid <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a>. An experienced, skilled physician would advise and administer purification therapy taking into consideration the <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> status and strength of the patient . [13-16]\n</p>",
+            "links": [
+                {
+                    "text": "kapha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kapha"
+                },
+                {
+                    "text": "pitta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pitta"
+                },
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Benefits of purification therapy",
+            "html": "<h3><span class=\"mw-headline\" id=\"Benefits_of_purification_therapy\">Benefits of purification therapy</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "एवं विशुद्धकोष्ठस्य कायाग्निरभिवर्धते|\nव्याधयश्चोपशाम्यन्ति प्रकृतिश्चानुवर्तते||१७||",
+            "html": "<p>एवं विशुद्धकोष्ठस्य कायाग्निरभिवर्धते| \nव्याधयश्चोपशाम्यन्ति प्रकृतिश्चानुवर्तते||१७|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "इन्द्रियाणि मनोबुद्धिर्वर्णश्चास्य प्रसीदति|\nबलं पुष्टिरपत्यं च वृषता चास्य जायते||१८||",
+            "html": "<p>इन्द्रियाणि मनोबुद्धिर्वर्णश्चास्य प्रसीदति| \nबलं पुष्टिरपत्यं च वृषता चास्य जायते||१८|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "जरां कृच्छ्रेण लभते चिरं जीवत्यनामयः|\nतस्मात् संशोधनं काले युक्तियुक्तं पिबेन्नरः||१९||",
+            "html": "<p>जरां कृच्छ्रेण लभते चिरं जीवत्यनामयः| \nतस्मात् संशोधनं काले युक्तियुक्तं पिबेन्नरः||१९|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "ēvaṁ viśuddhakōṣṭhasya kāyāgnirabhivardhatē|\nvyādhayaścōpaśāmyanti prakr̥tiścānuvartatē||17||",
+            "html": "<p>ēvaṁ viśuddhakōṣṭhasya kāyāgnirabhivardhatē| \nvyādhayaścōpaśāmyanti prakr̥tiścānuvartatē||17|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "indriyāṇi manōbuddhirvarṇaścāsya prasīdati|\nbalaṁ puṣṭirapatyaṁ ca vr̥ṣatā cāsya jāyatē||18||",
+            "html": "<p>indriyāṇi manōbuddhirvarṇaścāsya prasīdati| \nbalaṁ puṣṭirapatyaṁ ca vr̥ṣatā cāsya jāyatē||18|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "jarāṁ kr̥cchrēṇa labhatē ciraṁ jīvatyanāmayaḥ|\ntasmāt saṁśōdhanaṁ kālē yuktiyuktaṁ pibēnnaraḥ||19||",
+            "html": "<p>jarāṁ kr̥cchrēṇa labhatē ciraṁ jīvatyanāmayaḥ| \ntasmāt saṁśōdhanaṁ kālē yuktiyuktaṁ pibēnnaraḥ||19|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "evaM vishuddhakoShThasya kAyAgnirabhivardhate|\nvyAdhayashcopashAmyanti prakRutishcAnuvartate||17||",
+            "html": "<p>evaM vishuddhakoShThasya kAyAgnirabhivardhate| \nvyAdhayashcopashAmyanti prakRutishcAnuvartate||17|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "indriyANi manobuddhirvarNashcAsya prasIdati|\nbalaM puShTirapatyaM ca vRuShatA cAsya jAyate||18||",
+            "html": "<p>indriyANi manobuddhirvarNashcAsya prasIdati| \nbalaM puShTirapatyaM ca vRuShatA cAsya jAyate||18|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "jarAM kRucchreNa labhate ciraM jIvatyanAmayaH|\ntasmAt saMshodhanaM kAle yuktiyuktaM pibennaraH||19||",
+            "html": "<p>jarAM kRucchreNa labhate ciraM jIvatyanAmayaH| \ntasmAt saMshodhanaM kAle yuktiyuktaM pibennaraH||19||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Administration of therapies, leading to elimination of vitiated dosha , results in the following effects: enhancement of digestion / metabolism, pacification of diseases, restoration of normal health, improvement in clarity of sense organs, mind, intellect and complexion, promotion of strength, plumpness, progeny and virility, delayed ageing, and longevity. Therefore, one should take recourse to a skillfully administered purificatory therapy at an appropriate time. [17-19]",
+            "html": "<p>Administration of therapies, leading to elimination of vitiated <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a>, results in the following effects: enhancement of digestion / metabolism, pacification of diseases, restoration of normal health, improvement in clarity of sense organs, mind, intellect and complexion, promotion of strength, plumpness, progeny and virility, delayed ageing, and longevity. Therefore, one should take recourse to a skillfully administered purificatory therapy at an appropriate time. [17-19]\n</p>",
+            "links": [
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Prevention of recurrence of disease",
+            "html": "<h3><span class=\"mw-headline\" id=\"Prevention_of_recurrence_of_disease\">Prevention of recurrence of disease</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "दोषाः कदाचित् कुप्यन्ति जिता लङ्घनपाचनैः|\nजिताः संशोधनैर्ये तु न तेषां पुनरुद्भवः||२०||",
+            "html": "<p>दोषाः कदाचित् कुप्यन्ति जिता लङ्घनपाचनैः| \nजिताः संशोधनैर्ये तु न तेषां पुनरुद्भवः||२०|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "दोषाणां च द्रुमाणां च मूलेऽनुपहते सति|\nरोगाणां प्रसवानां च गतानामागतिर्ध्रुवा||२१||",
+            "html": "<p>दोषाणां च द्रुमाणां च मूलेऽनुपहते सति| \nरोगाणां प्रसवानां च गतानामागतिर्ध्रुवा||२१|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "dōṣāḥ kadācit kupyanti jitā laṅghanapācanaiḥ|\njitāḥ saṁśōdhanairyē tu na tēṣāṁ punarudbhavaḥ||20||",
+            "html": "<p>dōṣāḥ kadācit kupyanti jitā laṅghanapācanaiḥ| \njitāḥ saṁśōdhanairyē tu na tēṣāṁ punarudbhavaḥ||20|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "dōṣāṇāṁ ca drumāṇāṁ ca mūlē'nupahatē sati|\nrōgāṇāṁ prasavānāṁ ca gatānāmāgatirdhruvā||21||",
+            "html": "<p>dōṣāṇāṁ ca drumāṇāṁ ca mūlē'nupahatē sati| \nrōgāṇāṁ prasavānāṁ ca gatānāmāgatirdhruvā||21|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "doShAH kadAcit kupyanti jitA la~gghanapAcanaiH|\njitAH saMshodhanairye tu na teShAM punarudbhavaH||20||",
+            "html": "<p>doShAH kadAcit kupyanti jitA la~gghanapAcanaiH| \njitAH saMshodhanairye tu na teShAM punarudbhavaH||20|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "doShANAM ca drumANAM ca mUle~anupahate sati|\nrogANAM prasavAnAM ca gatAnAmAgatirdhruvA||21||",
+            "html": "<p>doShANAM ca drumANAM ca mUle~anupahate sati| \nrogANAM prasavAnAM ca gatAnAmAgatirdhruvA||21|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Morbid dosha relieved by fasting and digestive drugs may sometimes get aggravated again, but those that are evacuated by purification therapies do not recur. Dosha , like plants, if not uprooted completely, would recur or relapse almost certainly. [20-21]",
+            "html": "<p>Morbid <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> relieved by fasting and digestive drugs may sometimes get aggravated again, but those that are evacuated by purification therapies do not recur. <a href=\"/index.php?title=Dosha\" title=\"Dosha\">Dosha</a>, like plants, if not uprooted completely, would recur or relapse almost certainly. [20-21]\n</p>",
+            "links": [
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "Dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Post purification measures",
+            "html": "<h3><span class=\"mw-headline\" id=\"Post_purification_measures\">Post purification measures</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "भेषजक्षपिते पथ्यमाहारैरेव बृंहणम्|\nघृतमांसरसक्षीरहृद्ययूषोपसंहितैः||२२||",
+            "html": "<p>भेषजक्षपिते पथ्यमाहारैरेव बृंहणम्| \nघृतमांसरसक्षीरहृद्ययूषोपसंहितैः||२२|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "अभ्यङ्गोत्सादनैः स्नानैर्निरूहैः सानुवासनैः|\nतथा स लभते शर्म युज्यते चायुषा चिरम्||२३||",
+            "html": "<p>अभ्यङ्गोत्सादनैः स्नानैर्निरूहैः सानुवासनैः| \nतथा स लभते शर्म युज्यते चायुषा चिरम्||२३||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "bhēṣajakṣapitē pathyamāhārairēva br̥ṁhaṇam|\nghr̥tamāṁsarasakṣīrahr̥dyayūṣōpasaṁhitaiḥ||22||",
+            "html": "<p>bhēṣajakṣapitē pathyamāhārairēva br̥ṁhaṇam| \nghr̥tamāṁsarasakṣīrahr̥dyayūṣōpasaṁhitaiḥ||22|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "abhyaṅgōtsādanaiḥ snānairnirūhaiḥ sānuvāsanaiḥ|\ntathā sa labhatē śarma yujyatē cāyuṣā ciram||23||",
+            "html": "<p>abhyaṅgōtsādanaiḥ snānairnirūhaiḥ sānuvāsanaiḥ| \ntathā sa labhatē śarma yujyatē cāyuṣā ciram||23||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "bheShajakShapite pathyamAhAraireva bRuMhaNam|\nghRutamAMsarasakShIrahRudyayUShopasaMhitaiH||22||",
+            "html": "<p>bheShajakShapite pathyamAhAraireva bRuMhaNam| \nghRutamAMsarasakShIrahRudyayUShopasaMhitaiH||22|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "abhya~ggotsAdanaiH snAnairnirUhaiH sAnuvAsanaiH|\ntathA sa labhate sharma yujyate cAyuShA ciram||23||",
+            "html": "<p>abhya~ggotsAdanaiH snAnairnirUhaiH sAnuvAsanaiH| \ntathA sa labhate sharma yujyate cAyuShA ciram||23|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "For those weakened by purification therapy, restoration of one’s health could be done by prescribing a nourishing diet regimen that would include ghee , relishing soup (including preparations with meat), and milk. The patient should also be advised massage, bath, and evacuative and unctuous enema. This process of purification followed by rejuvenation or restoration of one’s health bestows happiness and longevity to the patient. [22-23]",
+            "html": "<p>For those weakened by purification therapy, restoration of one’s health could be done by prescribing a nourishing diet regimen that would include <i>ghee</i>, relishing soup (including preparations with meat), and milk. The patient should also be advised massage, bath, and evacuative and unctuous enema. This process of purification followed by rejuvenation or restoration of one’s health bestows happiness and longevity to the patient. [22-23]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Treatment of excess and inadequate purification therapy",
+            "html": "<h3><span class=\"mw-headline\" id=\"Treatment_of_excess_and_inadequate_purification_therapy\">Treatment of excess and inadequate purification therapy</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "अतियोगानुबद्धानां सर्पिःपानं प्रशस्यते|\nतैलं मधुरकैः सिद्धमथवाऽप्यनुवासनम्||२४||",
+            "html": "<p>अतियोगानुबद्धानां सर्पिःपानं प्रशस्यते| \nतैलं मधुरकैः सिद्धमथवाऽप्यनुवासनम्||२४|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "यस्य त्वयोगस्तं स्निग्धं पुनः संशोधयेन्नरम्|\nमात्राकालबलापेक्षी स्मरन् पूर्वमनुक्रमम्||२५||",
+            "html": "<p>यस्य त्वयोगस्तं स्निग्धं पुनः संशोधयेन्नरम्| \nमात्राकालबलापेक्षी स्मरन् पूर्वमनुक्रमम्||२५|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "स्नेहने स्वेदने शुद्धौ रोगाः संसर्जने च ये|\nजायन्तेऽमार्गविहिते तेषां सिद्धिषु साधनम्||२६||",
+            "html": "<p>स्नेहने स्वेदने शुद्धौ रोगाः संसर्जने च ये| \nजायन्तेऽमार्गविहिते तेषां सिद्धिषु साधनम्||२६||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "atiyōgānubaddhānāṁ sarpiḥpānaṁ praśasyatē|\ntailaṁ madhurakaiḥ siddhamathavā'pyanuvāsanam||24||",
+            "html": "<p>atiyōgānubaddhānāṁ sarpiḥpānaṁ praśasyatē| \ntailaṁ madhurakaiḥ siddhamathavā'pyanuvāsanam||24|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "yasya tvayōgastaṁ snigdhaṁ punaḥ saṁśōdhayēnnaram|\nmātrākālabalāpēkṣī smaran pūrvamanukramam||25||",
+            "html": "<p>yasya tvayōgastaṁ snigdhaṁ punaḥ saṁśōdhayēnnaram| \nmātrākālabalāpēkṣī smaran pūrvamanukramam||25|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "snēhanē svēdanē śuddhau rōgāḥ saṁsarjanē ca yē|\njāyantē'mārgavihitē tēṣāṁ siddhiṣu sādhanam||26||",
+            "html": "<p>snēhanē svēdanē śuddhau rōgāḥ saṁsarjanē ca yē| \njāyantē'mārgavihitē tēṣāṁ siddhiṣu sādhanam||26|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "atiyogAnubaddhAnAM sarpiHpAnaM prashasyate|\ntailaM madhurakaiH siddhamathavA~apyanuvAsanam||24||",
+            "html": "<p>atiyogAnubaddhAnAM sarpiHpAnaM prashasyate| \ntailaM madhurakaiH siddhamathavA~apyanuvAsanam||24|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "yasya tvayogastaM snigdhaM punaH saMshodhayennaram|\nmAtrAkAlabalApekShI smaran pUrvamanukramam||25||",
+            "html": "<p>yasya tvayogastaM snigdhaM punaH saMshodhayennaram| \nmAtrAkAlabalApekShI smaran pUrvamanukramam||25|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "snehane svedane shuddhau rogAH saMsarjane ca ye|\njAyante~amArgavihite teShAM siddhiShu sAdhanam||26||",
+            "html": "<p>snehane svedane shuddhau rogAH saMsarjane ca ye| \njAyante~amArgavihite teShAM siddhiShu sAdhanam||26|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "For those suffering from symptoms of excessive administration or application of purification activities, ingestion of ghee and oil processed with sweet drugs or anuvasana type of enema is prescribed.",
+            "html": "<p>For those suffering from symptoms of excessive administration or application of purification activities, ingestion of <i>ghee</i> and oil processed with sweet drugs or <i>anuvasana</i> type of enema is prescribed. \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "In cases of inadequate administration or application, one should be given oleation therapy followed by evacuative therapy again, considering the dose, time, strength of the patient and factors responsible for inadequate cleansing earlier. Management of disorders arising out of improper oleation, fomentation and purification therapies as well as post- purification dietetic regimen program is described subsequently in Siddhi Sthana (i.e., the Siddhi section of this treatise). [24-26]",
+            "html": "<p>In cases of inadequate administration or application, one should be given oleation therapy followed by evacuative therapy again, considering the dose, time, strength of the patient and factors responsible for inadequate cleansing earlier. Management of disorders arising out of improper oleation, fomentation and purification therapies as well as post- purification dietetic regimen program is described subsequently in <a href=\"/index.php?title=Siddhi_Sthana\" title=\"Siddhi Sthana\">Siddhi Sthana</a> (i.e., the Siddhi section of this treatise). [24-26]\n</p>",
+            "links": [
+                {
+                    "text": "Siddhi Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Siddhi_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Swabhavoparama vada (theory of natural destruction)",
+            "html": "<h3><span id=\"Swabhavoparama_vada_.28theory_of_natural_destruction.29\"></span><span class=\"mw-headline\" id=\"Swabhavoparama_vada_(theory_of_natural_destruction)\">Swabhavoparama vada (theory of natural destruction)</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "जायन्ते हेतुवैषम्याद्विषमा देहधातवः|\nहेतुसाम्यात् समास्तेषां स्वभावोपरमः सदा||२७||",
+            "html": "<p>जायन्ते  हेतुवैषम्याद्विषमा देहधातवः| \nहेतुसाम्यात् समास्तेषां स्वभावोपरमः सदा||२७||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "jāyantē hētuvaiṣamyādviṣamā dēhadhātavaḥ|\nhētusāmyāt samāstēṣāṁ svabhāvōparamaḥ sadā||27||",
+            "html": "<p>jāyantē  hētuvaiṣamyādviṣamā dēhadhātavaḥ| \nhētusāmyāt samāstēṣāṁ svabhāvōparamaḥ sadā||27|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "jAyante hetuvaiShamyAdviShamA dehadhAtavaH|\nhetusAmyAt samAsteShAM svabhAvoparamaH sadA||27||",
+            "html": "<p>jAyante  hetuvaiShamyAdviShamA dehadhAtavaH| \nhetusAmyAt samAsteShAM svabhAvoparamaH sadA||27|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Discordance of the causative factors results in disequilibrium of the tissue elements ( dhatu ) of the body. Conversely, concordance of tissue elements is restored by means of restoring the concordance of causative factors. However, the resolution / destruction of the existing always happens naturally in the course of time. [27]",
+            "html": "<p>Discordance of the causative factors results in disequilibrium of the tissue elements (<a href=\"/index.php?title=Dhatu\" title=\"Dhatu\">dhatu</a>) of the body. Conversely, concordance of tissue elements is restored by means of restoring the concordance of causative factors. However, the resolution / destruction of the existing always happens naturally in the course of time. [27]\n</p>",
+            "links": [
+                {
+                    "text": "dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "प्रवृत्तिहेतुर्भावानां न निरोधेऽस्ति कारणम्|\nकेचित्तत्रापि मन्यन्ते हेतुं हेतोरवर्तनम्||२८||",
+            "html": "<p>प्रवृत्तिहेतुर्भावानां न निरोधेऽस्ति कारणम्| \nकेचित्तत्रापि  मन्यन्ते हेतुं हेतोरवर्तनम्||२८||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "pravr̥ttihēturbhāvānāṁ na nirōdhē'sti kāraṇam|\nkēcittatrāpi manyantē hētuṁ hētōravartanam||28||",
+            "html": "<p>pravr̥ttihēturbhāvānāṁ na nirōdhē'sti kāraṇam| \nkēcittatrāpi  manyantē hētuṁ hētōravartanam||28||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "pravRuttiheturbhAvAnAM na nirodhe~asti kAraNam|\nkecittatrApi manyante hetuM hetoravartanam||28||",
+            "html": "<p>pravRuttiheturbhAvAnAM na nirodhe~asti kAraNam| \nkecittatrApi manyante hetuM hetoravartanam||28||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "There is always a cause for the manifestation of beings but none exists for their annihilation. However, some scholars are of the opinion that the noncontinuance of their causative factors is the very cause of their annihilation. [28]",
+            "html": "<p>There is always a cause for the manifestation of beings but none exists for their annihilation. However, some scholars are of the opinion that the noncontinuance of their causative factors is the very cause of their annihilation. [28]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Query by Agnivesha",
+            "html": "<h3><span class=\"mw-headline\" id=\"Query_by_Agnivesha\">Query by Agnivesha</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "एवमुक्तार्थमाचार्यमग्निवेशोऽभ्यभाषत|\nस्वभावोपरमे कर्म चिकित्साप्राभृतस्य किम्||२९||",
+            "html": "<p>एवमुक्तार्थमाचार्यमग्निवेशोऽभ्यभाषत| \nस्वभावोपरमे कर्म चिकित्साप्राभृतस्य किम्||२९|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "भेषजैर्विषमान् धातून् कान् समीकुरुते भिषक्|\nका वा चिकित्सा भगवन्! किमर्थं वा प्रयुज्यते||३०||",
+            "html": "<p>भेषजैर्विषमान् धातून् कान् समीकुरुते भिषक्| \nका वा चिकित्सा भगवन्! किमर्थं वा प्रयुज्यते||३०|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "ēvamuktārthamācāryamagnivēśō'bhyabhāṣata|\nsvabhāvōparamē karma cikitsāprābhr̥tasya kim||29||",
+            "html": "<p>ēvamuktārthamācāryamagnivēśō'bhyabhāṣata| \nsvabhāvōparamē karma cikitsāprābhr̥tasya kim||29|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "bhēṣajairviṣamān dhātūn kān samīkurutē bhiṣak|\nkā vā cikitsā bhagavan! kimarthaṁ vā prayujyatē||30||",
+            "html": "<p>bhēṣajairviṣamān dhātūn kān samīkurutē bhiṣak| \nkā vā cikitsā bhagavan! kimarthaṁ vā prayujyatē||30|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "evamuktArthamAcAryamagnivesho~abhyabhAShata|\nsvabhAvoparame karma cikitsAprAbhRutasya kim||29||",
+            "html": "<p>evamuktArthamAcAryamagnivesho~abhyabhAShata| \nsvabhAvoparame karma cikitsAprAbhRutasya kim||29|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "bheShajairviShamAn dhAtUn kAn samIkurute bhiShak|\nkA vA cikitsA bhagavan! kimarthaM vA prayujyate||30||",
+            "html": "<p>bheShajairviShamAn dhAtUn kAn samIkurute bhiShak| \nkA vA cikitsA bhagavan! kimarthaM vA prayujyate||30|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The master having thus given his version Agnivesha inquired- if the natural resolution (of disorders) be in the very nature of things then what is the necessity of a qualified physician? Which discordant body elements are harmonized by the physician by means of therapy? After all what does the treatment amount to? And what is its objective? [29-30]",
+            "html": "<p>The master having thus given his version Agnivesha inquired- if the natural resolution (of disorders) be in the very nature of things then what is the necessity of a qualified physician? Which discordant body elements are harmonized by the physician by means of therapy? After all what does the treatment amount to? And what is its objective? [29-30]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Explanation by Punarvasu",
+            "html": "<h3><span class=\"mw-headline\" id=\"Explanation_by_Punarvasu\">Explanation by Punarvasu</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "तच्छिष्यवचनं श्रुत्वा व्याजहार पुनर्वसुः|\nश्रूयतामत्र या सोम्य! युक्तिर्दृष्टा महर्षिभिः||३१||",
+            "html": "<p>तच्छिष्यवचनं श्रुत्वा व्याजहार पुनर्वसुः| \nश्रूयतामत्र या सोम्य! युक्तिर्दृष्टा महर्षिभिः||३१|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "न नाशकारणाभावाद्भावानां नाशकारणम्|\nज्ञायते नित्यगस्येव कालस्यात्ययकारणम्||३२||",
+            "html": "<p>न नाशकारणाभावाद्भावानां नाशकारणम्| \nज्ञायते नित्यगस्येव कालस्यात्ययकारणम्||३२|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "tacchiṣyavacanaṁ śrutvā vyājahāra punarvasuḥ|\nśrūyatāmatra yā sōmya! yuktirdr̥ṣṭā maharṣibhiḥ||31||",
+            "html": "<p>tacchiṣyavacanaṁ śrutvā vyājahāra punarvasuḥ| \nśrūyatāmatra yā sōmya! yuktirdr̥ṣṭā maharṣibhiḥ||31|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "na nāśakāraṇābhāvādbhāvānāṁ nāśakāraṇam|\njñāyatē nityagasyēva kālasyātyayakāraṇam||32||",
+            "html": "<p>na nāśakāraṇābhāvādbhāvānāṁ nāśakāraṇam| \njñāyatē nityagasyēva kālasyātyayakāraṇam||32|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "tacchiShyavacanaM shrutvA vyAjahAra punarvasuH|\nshrUyatAmatra yA somya! yuktirdRuShTA maharShibhiH||31||",
+            "html": "<p>tacchiShyavacanaM shrutvA vyAjahAra punarvasuH| \nshrUyatAmatra yA somya! yuktirdRuShTA maharShibhiH||31|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "na nAshakAraNAbhAvAdbhAvAnAM nAshakAraNam|\nj~jAyate nityagasyeva kAlasyAtyayakAraNam||32||",
+            "html": "<p>na nAshakAraNAbhAvAdbhAvAnAM nAshakAraNam| \nj~jAyate nityagasyeva kAlasyAtyayakAraNam||32|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Hearing these words from his disciple, Punarvasu responded, “Hear, oh gentle one! The rationale the great sages have given in this respect is that the cause of destruction of entities cannot be comprehended, because no such cause exists, just as in case of time, which is always in the process of swift movement automatically gets destroyed. Being transitory by nature, things perish even as they are born. [31-32]",
+            "html": "<p>Hearing these words from his disciple, Punarvasu responded, “Hear, oh gentle one! The rationale the great sages have given in this respect is that the cause of destruction of entities cannot be comprehended, because no such cause exists, just as in case of time, which is always in the process of swift movement automatically gets destroyed. Being transitory by nature, things perish even as they are born. [31-32]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "शीघ्रगत्वाद्यथा भूतस्तथा भावो विपद्यते|३३||",
+            "html": "<p>शीघ्रगत्वाद्यथा भूतस्तथा भावो विपद्यते|३३||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "निरोधे कारणं तस्य नास्ति नैवान्यथाक्रिया||३३||",
+            "html": "<p>निरोधे कारणं तस्य नास्ति नैवान्यथाक्रिया||३३|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "śīghragatvādyathā bhūtastathā bhāvō vipadyatē|33||",
+            "html": "<p>śīghragatvādyathā bhūtastathā bhāvō vipadyatē|33||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "nirōdhē kāraṇaṁ tasya nāsti naivānyathākriyā||33||",
+            "html": "<p>nirōdhē kāraṇaṁ tasya nāsti naivānyathākriyā||33|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "shIghragatvAdyathA bhUtastathA bhAvo vipadyate|33|",
+            "html": "<p>shIghragatvAdyathA bhUtastathA bhAvo vipadyate|33| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "nirodhe kAraNaM tasya nAsti naivAnyathAkriyA||33||",
+            "html": "<p>nirodhe kAraNaM tasya nAsti naivAnyathAkriyA||33|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "There is neither a cause for things to perish nor there is a possibility of bringing out a change in the innate tendency of destruction. [33]",
+            "html": "<p>There is neither a cause for things to perish nor there is a possibility of bringing out a change in the innate tendency of destruction. [33]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Definition of chikitsa and the duty of a physician",
+            "html": "<h3><span class=\"mw-headline\" id=\"Definition_of_chikitsa_and_the_duty_of_a_physician\">Definition of <i>chikitsa</i> and the duty of a physician</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "याभिः क्रियाभिर्जायन्ते शरीरे धातवः समाः|\nसा चिकित्सा विकाराणां कर्म तद्भिषजां स्मृतम्||३४||",
+            "html": "<p>याभिः  क्रियाभिर्जायन्ते शरीरे धातवः समाः| \nसा चिकित्सा विकाराणां कर्म तद्भिषजां स्मृतम्||३४|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "कथं शरीरे धातूनां वैषम्यं न भवेदिति|\nसमानां चानुबन्धः स्यादित्यर्थं क्रियते क्रिया||३५||",
+            "html": "<p>कथं शरीरे धातूनां वैषम्यं न भवेदिति| \nसमानां चानुबन्धः स्यादित्यर्थं क्रियते क्रिया||३५|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "yābhiḥ kriyābhirjāyantē śarīrē dhātavaḥ samāḥ|\nsā cikitsā vikārāṇāṁ karma tadbhiṣajāṁ smr̥tam||34||",
+            "html": "<p>yābhiḥ  kriyābhirjāyantē śarīrē dhātavaḥ samāḥ| \nsā cikitsā vikārāṇāṁ karma tadbhiṣajāṁ smr̥tam||34|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "kathaṁ śarīrē dhātūnāṁ vaiṣamyaṁ na bhavēditi|\nsamānāṁ cānubandhaḥ syādityarthaṁ kriyatē kriyā||35||",
+            "html": "<p>kathaṁ śarīrē dhātūnāṁ vaiṣamyaṁ na bhavēditi| \nsamānāṁ cānubandhaḥ syādityarthaṁ kriyatē kriyā||35|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "yAbhiH kriyAbhirjAyante sharIre dhAtavaH samAH|\nsA cikitsA vikArANAM karma tadbhiShajAM smRutam||34||",
+            "html": "<p>yAbhiH  kriyAbhirjAyante sharIre dhAtavaH samAH| \nsA cikitsA vikArANAM karma tadbhiShajAM smRutam||34|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "kathaM sharIre dhAtUnAM vaiShamyaM na bhavediti|\nsamAnAM cAnubandhaH syAdityarthaM kriyate kriyA||35||",
+            "html": "<p>kathaM sharIre dhAtUnAM vaiShamyaM na bhavediti| \nsamAnAM cAnubandhaH syAdityarthaM kriyate kriyA||35|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Therapeutics therefore consists of measures or operations by way of which concordance of the tissue elements can be sustained and this (achieving concordance of tissue elements) constitutes the duty of the physician. Therapy is administered with the sole objective of ensuring that no discordance prevails in tissue elements and that there is sustenance of continued concordance. [34-35]",
+            "html": "<p>Therapeutics therefore consists of measures or operations by way of which concordance of the tissue elements can be sustained and this (achieving concordance of tissue elements) constitutes the duty of the physician. Therapy is administered with the sole objective of ensuring that no discordance prevails in tissue elements and that there is sustenance of continued concordance. [34-35]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "त्यागाद्विषमहेतूनां समानां चोपसेवनात्|\nविषमा नानुबध्नन्ति जायन्ते धातवः समाः||३६||",
+            "html": "<p>त्यागाद्विषमहेतूनां समानां चोपसेवनात्| \nविषमा नानुबध्नन्ति जायन्ते धातवः समाः||३६|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "समैस्तु हेतुभिर्यस्माद्धातून् सञ्जनयेत् समान्|\nचिकित्साप्राभृतस्तस्माद्दाता देहसुखायुषाम्||३७||",
+            "html": "<p>समैस्तु हेतुभिर्यस्माद्धातून् सञ्जनयेत् समान्| \nचिकित्साप्राभृतस्तस्माद्दाता देहसुखायुषाम्||३७|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "धर्मस्यार्थस्य कामस्य नृलोकस्योभयस्य च|\nदाता सम्पद्यते वैद्यो दानाद्देहसुखायुषाम्||३८||",
+            "html": "<p>धर्मस्यार्थस्य कामस्य नृलोकस्योभयस्य च| \nदाता सम्पद्यते वैद्यो दानाद्देहसुखायुषाम्||३८|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "tyāgādviṣamahētūnāṁ samānāṁ cōpasēvanāt|\nviṣamā nānubadhnanti jāyantē dhātavaḥ samāḥ||36||",
+            "html": "<p>tyāgādviṣamahētūnāṁ samānāṁ cōpasēvanāt| \nviṣamā nānubadhnanti jāyantē dhātavaḥ samāḥ||36||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "samaistu hētubhiryasmāddhātūn sañjanayēt samān|\ncikitsāprābhr̥tastasmāddātā dēhasukhāyuṣām||37||",
+            "html": "<p>samaistu hētubhiryasmāddhātūn sañjanayēt samān| \ncikitsāprābhr̥tastasmāddātā dēhasukhāyuṣām||37|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "dharmasyārthasya kāmasya nr̥lōkasyōbhayasya ca|\ndātā sampadyatē vaidyō dānāddēhasukhāyuṣām||38||",
+            "html": "<p>dharmasyārthasya kāmasya nr̥lōkasyōbhayasya ca| \ndātā sampadyatē vaidyō dānāddēhasukhāyuṣām||38|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "tyAgAdviShamahetUnAM samAnAM copasevanAt|\nviShamA nAnubadhnanti jAyante dhAtavaH samAH||36||",
+            "html": "<p>tyAgAdviShamahetUnAM samAnAM copasevanAt| \nviShamA nAnubadhnanti jAyante dhAtavaH samAH||36|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "samaistu hetubhiryasmAddhAtUn sa~jjanayet samAn|\ncikitsAprAbhRutastasmAddAtA dehasukhAyuShAm||37||",
+            "html": "<p>samaistu hetubhiryasmAddhAtUn sa~jjanayet samAn| \ncikitsAprAbhRutastasmAddAtA dehasukhAyuShAm||37|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "dharmasyArthasya kAmasya nRulokasyobhayasya ca|\ndAtA sampadyate vaidyo dAnAddehasukhAyuShAm||38||",
+            "html": "<p>dharmasyArthasya kAmasya nRulokasyobhayasya ca| \ndAtA sampadyate vaidyo dAnAddehasukhAyuShAm||38|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "By abstaining from factors that give rise to discordance and practicing those that promote concordance, the discordant elements do not persist and concordance is maintained. As the well-equipped physician effects the production of balanced tissue elements by means of his expertise, he is regarded as the bestower of bodily health, happiness and longevity. By virtue of his aptitude to bestow physical happiness and longevity the physician is regarded as the donor of virtue, wealth and desires belonging to this mundane world and the world eternal. [36-38]",
+            "html": "<p>By abstaining from factors that give rise to discordance and practicing those that promote concordance, the discordant elements do not persist and concordance is maintained. As the well-equipped physician effects the production of balanced tissue elements by means of his expertise, he is regarded as the bestower of bodily health, happiness and longevity. By virtue of his aptitude to bestow physical happiness and longevity the physician is regarded as the donor of virtue, wealth and desires belonging to this mundane world and the world eternal. [36-38]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Summary",
+            "html": "<h3><span class=\"mw-headline\" id=\"Summary\">Summary</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "तत्र श्लोकाः-\nचिकित्साप्राभृतगुणो दोषो यश्चेतराश्रयः|\nयोगायोगातियोगानां लक्षणं शुद्धिसंश्रयम्||३९||",
+            "html": "<p>तत्र श्लोकाः- \nचिकित्साप्राभृतगुणो दोषो यश्चेतराश्रयः| \nयोगायोगातियोगानां लक्षणं शुद्धिसंश्रयम्||३९|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "बहुदोषस्य लिङ्गानि संशोधनगुणाश्च ये|\nचिकित्सासूत्रमात्रं च सिद्धिव्यापत्तिसंश्रयम्||४०||",
+            "html": "<p>बहुदोषस्य लिङ्गानि संशोधनगुणाश्च ये| \nचिकित्सासूत्रमात्रं च सिद्धिव्यापत्तिसंश्रयम्||४०|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "या च युक्तिश्चिकित्सायां यं चार्थं कुरुते भिषक्|\nचिकित्साप्राभृतेऽध्याये तत् सर्वमवदन्मुनिः||४१||",
+            "html": "<p>या च युक्तिश्चिकित्सायां यं चार्थं कुरुते भिषक्| \nचिकित्साप्राभृतेऽध्याये तत् सर्वमवदन्मुनिः||४१||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "tatra ślōkāḥ-\ncikitsāprābhr̥taguṇō dōṣō yaścētarāśrayaḥ|\nyōgāyōgātiyōgānāṁ lakṣaṇaṁ śuddhisaṁśrayam||39||",
+            "html": "<p>tatra ślōkāḥ- \ncikitsāprābhr̥taguṇō dōṣō yaścētarāśrayaḥ| \nyōgāyōgātiyōgānāṁ lakṣaṇaṁ śuddhisaṁśrayam||39|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "bahudōṣasya liṅgāni saṁśōdhanaguṇāśca yē|\ncikitsāsūtramātraṁ ca siddhivyāpattisaṁśrayam||40||",
+            "html": "<p>bahudōṣasya liṅgāni saṁśōdhanaguṇāśca yē| \ncikitsāsūtramātraṁ ca siddhivyāpattisaṁśrayam||40|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "yā ca yuktiścikitsāyāṁ yaṁ cārthaṁ kurutē bhiṣak|\ncikitsāprābhr̥tē'dhyāyē tat sarvamavadanmuniḥ||41||",
+            "html": "<p>yā ca yuktiścikitsāyāṁ yaṁ cārthaṁ kurutē bhiṣak| \ncikitsāprābhr̥tē'dhyāyē tat sarvamavadanmuniḥ||41|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "tatra shlokAH-\ncikitsAprAbhRutaguNo doSho yashcetarAshrayaH|\nyogAyogAtiyogAnAM lakShaNaM shuddhisaMshrayam||39||",
+            "html": "<p>tatra shlokAH- \ncikitsAprAbhRutaguNo doSho yashcetarAshrayaH| \nyogAyogAtiyogAnAM lakShaNaM shuddhisaMshrayam||39|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "bahudoShasya li~ggAni saMshodhanaguNAshca ye|\ncikitsAsUtramAtraM ca siddhivyApattisaMshrayam||40||",
+            "html": "<p>bahudoShasya li~ggAni saMshodhanaguNAshca ye| \ncikitsAsUtramAtraM ca siddhivyApattisaMshrayam||40|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "yA ca yuktishcikitsAyAM yaM cArthaM kurute bhiShak|\ncikitsAprAbhRute~adhyAye tat sarvamavadanmuniH||41||",
+            "html": "<p>yA ca yuktishcikitsAyAM yaM cArthaM kurute bhiShak| \ncikitsAprAbhRute~adhyAye tat sarvamavadanmuniH||41||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Benefits that accrue from the treatment received through a qualified physician as against that received through an unqualified one, the signs and symptoms of adequate, inadequate and excessive administration of evacuative therapies, the signs and symptoms of excessive morbidity, advantages of evacuative therapy, principles of treatment in successful and complicated conditions, the rationale of therapeutics and the intent with which the physician administers the therapy -all this has been described by the sage in this chapter on the “duties of a qualified physician.” [39-41]",
+            "html": "<p>Benefits that accrue from the treatment received through a qualified physician as against that received through an unqualified one, the signs and symptoms of adequate, inadequate and excessive administration of evacuative therapies, the signs and symptoms of excessive morbidity, advantages of evacuative therapy, principles of treatment in successful and complicated conditions, the rationale of therapeutics and the intent with which the physician administers the therapy -all this has been described by the sage in this chapter on the “duties of a qualified physician.” [39-41]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Thus, ends the sixteenth chapter on the “duties of a qualified physician” of the Sutra Sthana of the treatise composed by Agnivesha and redacted by Charak.",
+            "html": "<p>Thus, ends the sixteenth chapter on the “duties of a qualified physician” of the <a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> of the treatise composed by Agnivesha and redacted by Charak.\n</p>",
+            "links": [
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Here also ends the fourth tetrad on the “Therapeutical Processes.”",
+            "html": "<p>Here also ends the fourth tetrad on the “Therapeutical Processes.”\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Tattva Vimarsha (Fundamental Principles)",
+            "html": "<h2><span id=\"Tattva_Vimarsha_.28Fundamental_Principles.29\"></span><span class=\"mw-headline\" id=\"Tattva_Vimarsha_(Fundamental_Principles)\">Tattva Vimarsha (Fundamental Principles)</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ul",
+            "text": "A skillful physician is critical to the successful administration of a Panchakarma therapy and a patient who can identify such a physician is of equal importance. The proper administration of purification therapy is important to achieve positive health benefits, uprooting the disease and preventing recurrence. Discordance of the causative factors results in disequilibrium of the tissue elements ( dhatu ) of the body. Conversely, concordance of tissue elements is restored by means of restoring the concordance of causative factors. The resolution / destruction of the existing always happen naturally in the course of time. There is always a cause for the manifestation of beings, but there is no cause for their annihilation. Ayurvedic treatment is aimed towards creating balance in dosha and dhatu and sustaining it. The skilled physician should make all efforts to normalize the tissues of the body.",
+            "html": "<ul><li>A skillful physician is critical to the successful administration of a <a href=\"/index.php?title=Panchakarma\" title=\"Panchakarma\">Panchakarma</a> therapy and a patient who can identify such a physician is of equal importance.</li>\n<li>The proper administration of purification therapy is important to achieve positive health benefits, uprooting the disease and preventing recurrence.</li>\n<li>Discordance of the causative factors results in disequilibrium of the tissue elements (<a href=\"/index.php?title=Dhatu\" title=\"Dhatu\">dhatu</a>) of the body. Conversely, concordance of tissue elements is restored by means of restoring the concordance of causative factors.</li>\n<li>The resolution / destruction of the existing always happen naturally in the course of time.</li>\n<li>There is always a cause for the manifestation of beings, but there is no cause for their annihilation.</li>\n<li>Ayurvedic treatment is aimed towards creating balance in <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> and <a href=\"/index.php?title=Dhatu\" title=\"Dhatu\">dhatu</a> and sustaining it.</li>\n<li>The skilled physician should make all efforts to normalize the tissues of the body.</li></ul>",
+            "links": [
+                {
+                    "text": "Panchakarma",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Panchakarma"
+                },
+                {
+                    "text": "dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu"
+                },
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "A skillful physician is critical to the successful administration of a Panchakarma therapy and a patient who can identify such a physician is of equal importance.",
+                    "links": [
+                        {
+                            "text": "Panchakarma",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Panchakarma"
+                        }
+                    ]
+                },
+                {
+                    "text": "The proper administration of purification therapy is important to achieve positive health benefits, uprooting the disease and preventing recurrence.",
+                    "links": []
+                },
+                {
+                    "text": "Discordance of the causative factors results in disequilibrium of the tissue elements ( dhatu ) of the body. Conversely, concordance of tissue elements is restored by means of restoring the concordance of causative factors.",
+                    "links": [
+                        {
+                            "text": "dhatu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu"
+                        }
+                    ]
+                },
+                {
+                    "text": "The resolution / destruction of the existing always happen naturally in the course of time.",
+                    "links": []
+                },
+                {
+                    "text": "There is always a cause for the manifestation of beings, but there is no cause for their annihilation.",
+                    "links": []
+                },
+                {
+                    "text": "Ayurvedic treatment is aimed towards creating balance in dosha and dhatu and sustaining it.",
+                    "links": [
+                        {
+                            "text": "dosha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                        },
+                        {
+                            "text": "dhatu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu"
+                        }
+                    ]
+                },
+                {
+                    "text": "The skilled physician should make all efforts to normalize the tissues of the body.",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Vidhi Vimarsha (Applied Inferences)",
+            "html": "<h2><span id=\"Vidhi_Vimarsha_.28Applied_Inferences.29\"></span><span class=\"mw-headline\" id=\"Vidhi_Vimarsha_(Applied_Inferences)\">Vidhi Vimarsha (Applied Inferences)</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ul",
+            "text": "The physician should be especially skilled in therapeutic emesis vamana and therapeutic purgation virechana procedures. If the patient develops weight loss and debility after purification therapy, he should be given a rejuvenation treatment in the form of a nourishing dietary regimen that includes ghee, meat soup, milk, appetizing broth, massage and medicated enema. Treatment for condition of excess purification (atiyoga) involves a regimen of medicated ghee and an oleation enema with oil prepared from vitality enhancer drugs (jeevaniya dravya). Treatment for condition of insufficient/less purification (ayoga) considers analyzing mistakes made in the earlier procedure and repeating the procedure with correct doses or measures of drugs, while factoring in seasonal effects, and the physical constitution of the patient. Details of the procedures are given in Siddhi Sthana . The purpose of understanding the theory of natural destruction of causative factors of disease (svabhaavaparamavada) is to understand the cause and effect relationship between health and disease. The factors that cause abnormality in tissues, when removed, lead to a healthy state. Diet ( Ahara ) with the same qualities as those of the tissues enhance or strengthen the qualities of the tissues, while diet with opposite qualities will decrease it. Regeneration and degeneration of body tissues is a continuous process. A healthy diet and other regimens help in maintaining longevity. However, the cause of death is unknown. A skilled physician helps in maintaining the normal tissues and provides a healthy life with longevity. This helps in attaining four objectives of life viz. virtue(dharma), wealth (artha), gratification(kama) and emancipation(moksha).",
+            "html": "<ul><li>The physician should be especially skilled in therapeutic emesis <a href=\"/index.php?title=Vamana\" title=\"Vamana\">vamana</a> and therapeutic purgation <a href=\"/index.php?title=Virechana\" title=\"Virechana\">virechana</a> procedures.</li>\n<li>If the patient develops weight loss and debility after purification therapy, he should be given a rejuvenation treatment in the form of a nourishing dietary regimen that includes ghee, meat soup, milk, appetizing broth, massage and medicated enema.</li>\n<li>Treatment for condition of excess purification (atiyoga) involves a regimen of medicated ghee and an oleation enema with oil prepared from vitality enhancer drugs (jeevaniya dravya).</li>\n<li>Treatment for condition of insufficient/less purification (ayoga) considers analyzing mistakes made in the earlier procedure and repeating the procedure with correct doses or measures of drugs,  while factoring in seasonal effects,  and the physical constitution of the patient.</li>\n<li>Details of the procedures are given in <a href=\"/index.php?title=Siddhi_Sthana\" title=\"Siddhi Sthana\">Siddhi Sthana</a>.</li>\n<li>The purpose of understanding the theory of natural destruction of causative factors of disease (svabhaavaparamavada) is to understand the cause and effect relationship between health and disease. The factors that cause abnormality in tissues, when removed, lead to a healthy state. Diet (<a href=\"/index.php?title=Ahara\" title=\"Ahara\">Ahara</a>) with the same qualities as those of the tissues enhance or strengthen the qualities of the tissues, while diet with opposite qualities will decrease it. Regeneration and degeneration of body tissues is a continuous process. A healthy diet and other regimens help in maintaining longevity. However, the cause of death is unknown.</li>\n<li>A skilled physician helps in maintaining the normal tissues and provides a healthy life with longevity. This helps in attaining four objectives of life viz. virtue(dharma), wealth (artha), gratification(kama) and emancipation(moksha).</li></ul>",
+            "links": [
+                {
+                    "text": "vamana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vamana"
+                },
+                {
+                    "text": "virechana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Virechana"
+                },
+                {
+                    "text": "Siddhi Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Siddhi_Sthana"
+                },
+                {
+                    "text": "Ahara",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ahara"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "The physician should be especially skilled in therapeutic emesis vamana and therapeutic purgation virechana procedures.",
+                    "links": [
+                        {
+                            "text": "vamana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vamana"
+                        },
+                        {
+                            "text": "virechana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Virechana"
+                        }
+                    ]
+                },
+                {
+                    "text": "If the patient develops weight loss and debility after purification therapy, he should be given a rejuvenation treatment in the form of a nourishing dietary regimen that includes ghee, meat soup, milk, appetizing broth, massage and medicated enema.",
+                    "links": []
+                },
+                {
+                    "text": "Treatment for condition of excess purification (atiyoga) involves a regimen of medicated ghee and an oleation enema with oil prepared from vitality enhancer drugs (jeevaniya dravya).",
+                    "links": []
+                },
+                {
+                    "text": "Treatment for condition of insufficient/less purification (ayoga) considers analyzing mistakes made in the earlier procedure and repeating the procedure with correct doses or measures of drugs, while factoring in seasonal effects, and the physical constitution of the patient.",
+                    "links": []
+                },
+                {
+                    "text": "Details of the procedures are given in Siddhi Sthana .",
+                    "links": [
+                        {
+                            "text": "Siddhi Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Siddhi_Sthana"
+                        }
+                    ]
+                },
+                {
+                    "text": "The purpose of understanding the theory of natural destruction of causative factors of disease (svabhaavaparamavada) is to understand the cause and effect relationship between health and disease. The factors that cause abnormality in tissues, when removed, lead to a healthy state. Diet ( Ahara ) with the same qualities as those of the tissues enhance or strengthen the qualities of the tissues, while diet with opposite qualities will decrease it. Regeneration and degeneration of body tissues is a continuous process. A healthy diet and other regimens help in maintaining longevity. However, the cause of death is unknown.",
+                    "links": [
+                        {
+                            "text": "Ahara",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ahara"
+                        }
+                    ]
+                },
+                {
+                    "text": "A skilled physician helps in maintaining the normal tissues and provides a healthy life with longevity. This helps in attaining four objectives of life viz. virtue(dharma), wealth (artha), gratification(kama) and emancipation(moksha).",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "",
+            "html": "<p><br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Further reading",
+            "html": "<h3><span class=\"mw-headline\" id=\"Further_reading\">Further reading</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "ol",
+            "text": "Sushruta, Sushruta Samhita, Nibadha Samgraha commentary by Dalhana, Chaukhamba Orientelia, 6th edition, Varanasi, 1997 quotations from Sutra Sthana chapter 41/6, chapter 21, chapter 6/13 Kashyapa, Kashyapa Samhita, Khila Sthana 5/6-7, Chaukhamba Orientalia, Varanasi Vagbhata, Ashtanga Hridaya, , Chaukhamba Amarabharati Prakashan, 2nd edition, Varanasi Sutra Sthana 12/ 24",
+            "html": "<ol><li>Sushruta, Sushruta Samhita,  Nibadha Samgraha commentary by Dalhana, Chaukhamba Orientelia, 6th edition, Varanasi, 1997 quotations from Sutra Sthana chapter 41/6, chapter 21, chapter 6/13</li>\n<li>Kashyapa, Kashyapa Samhita, Khila Sthana 5/6-7, Chaukhamba Orientalia, Varanasi</li>\n<li>Vagbhata, Ashtanga Hridaya, , Chaukhamba Amarabharati Prakashan, 2nd  edition, Varanasi Sutra Sthana 12/ 24</li></ol>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Sushruta, Sushruta Samhita, Nibadha Samgraha commentary by Dalhana, Chaukhamba Orientelia, 6th edition, Varanasi, 1997 quotations from Sutra Sthana chapter 41/6, chapter 21, chapter 6/13",
+                    "links": []
+                },
+                {
+                    "text": "Kashyapa, Kashyapa Samhita, Khila Sthana 5/6-7, Chaukhamba Orientalia, Varanasi",
+                    "links": []
+                },
+                {
+                    "text": "Vagbhata, Ashtanga Hridaya, , Chaukhamba Amarabharati Prakashan, 2nd edition, Varanasi Sutra Sthana 12/ 24",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Send us your suggestions and feedback on this page.",
+            "html": "<p><big><b><a href=\"/index.php?title=Special:ContactMe\" title=\"Special:ContactMe\">Send us your suggestions and feedback on this page.</a></b></big>\n</p>",
+            "links": [
+                {
+                    "text": "Send us your suggestions and feedback on this page.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Special:ContactMe"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "text",
+            "text": "Back to the Top"
+        },
+        {
+            "type": "text",
+            "text": "NewPP limit report\nCached time: 20261102092946\nCache expiry: 86400\nReduced expiry: false\nComplications: [vary‐revision‐id, show‐toc]\nCPU time usage: 0.096 seconds\nReal time usage: 0.317 seconds\nPreprocessor visited node count: 237/1000000\nPost‐expand include size: 2635/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 3/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nLua time usage: 0.140/7 seconds\nLua virtual size: 20480000/209715200 bytes\nLua estimated memory usage: 0 bytes"
+        },
+        {
+            "type": "text",
+            "text": "Transclusion expansion time report (%,ms,calls,template)\n100.00% 290.780 1 -total\n97.06% 282.218 1 Template:Infobox\n1.84% 5.349 1 Template:CiteButton"
+        },
+        {
+            "type": "text",
+            "text": "Saved in parser cache with key carakas1_carakasa:pcache:idhash:70-0!canonical and timestamp 20261102092946 and revision id 44482. Rendering was triggered because: diff-page"
+        },
+        {
+            "type": "text",
+            "text": "Retrieved from \""
+        },
+        {
+            "type": "text",
+            "text": "https://www.carakasamhitaonline.com/index.php?title=Chikitsaprabhritiya_Adhyaya&oldid=44482"
+        },
+        {
+            "type": "text",
+            "text": "\""
+        }
+    ],
+    "html_sha256": "de78b083bca2329bf3a319dafd67437a0991e61f060ccffded5390c142b4f173"
+}

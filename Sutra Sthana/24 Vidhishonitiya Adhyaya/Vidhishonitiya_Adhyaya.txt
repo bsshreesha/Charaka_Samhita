@@ -1,0 +1,3212 @@
+==========================================================================================
+CHARAKA SAMHITA
+VIDHISHONITIYA ADHYAYA
+==========================================================================================
+
+Source URL: https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya
+Extraction Date: 2026-11-03T12:10:12
+Total Blocks: 510
+
+==========================================================================================
+
+
+[BLOCK 1: H1]
+----------------------------------------------------------------------
+Vidhishonitiya Adhyaya
+
+
+[BLOCK 2: TEXT]
+----------------------------------------------------------------------
+From Charak Samhita
+
+
+[BLOCK 3: TEXT]
+----------------------------------------------------------------------
+Jump to navigation
+
+
+[BLOCK 4: TEXT]
+----------------------------------------------------------------------
+Jump to search
+
+
+[BLOCK 5: FIGURE]
+----------------------------------------------------------------------
+
+
+[REFERENCES / LINKS]
+ : https://www.charakasamhitauptodate.com/index.php?title=Special:CiteThisPage&page=Vidhishonitiya_Adhyaya&id=44981&wpFormIdentifier=titleform
+
+[IMAGES]
+ : https://www.carakasamhitaonline.com/images/5/58/Cite.png
+
+
+[BLOCK 6: P]
+----------------------------------------------------------------------
+Sutra Sthana Chapter 24. Characteristics of Shonita (Blood), its vitiation and disorders
+
+
+[BLOCK 7: TABLE]
+----------------------------------------------------------------------
+[COMPLETE TABLE]
+
+Row 1:
+Column 1: Section/Chapter
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Sutra Sthana Chapter 24
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 2:
+Column 1: Tetrad/Sub-section
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Yojana Chatushka
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 3:
+Column 1: Preceding Chapter
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Santarpaniya Adhyaya
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 4:
+Column 1: Succeeding Chapter
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Yajjah Purushiyaadhyaya
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 5:
+Column 1: Other Sections
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Nidana Sthana , Vimana Sthana , Sharira Sthana , Indriya Sthana , Chikitsa Sthana , Kalpa Sthana , Siddhi Sthana
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 6:
+Column 1: Translator and commentator
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Bharadwaj P.K., Sharma A.K.
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 7:
+Column 1: Reviewer
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Byadgi P.S.
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 8:
+Column 1: Editors
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Dwivedi R.B., Deole Y.S. , Basisht G.
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 9:
+Column 1: Year of publication
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: 2020
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 10:
+Column 1: Publisher
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Charak Samhita Research, Training and Skill Development Centre
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 11:
+Column 1: DOI
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: 10.47468/CSNE.2020.e01.s01.026
+  Type: td, Rowspan: 1, Colspan: 1
+
+[REFERENCES / LINKS]
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+Santarpaniya Adhyaya : https://www.carakasamhitaonline.com/index.php?title=Santarpaniya_Adhyaya
+Yajjah Purushiyaadhyaya : https://www.carakasamhitaonline.com/index.php?title=Yajjah_Purushiya
+Nidana Sthana : https://www.carakasamhitaonline.com/index.php?title=Nidana_Sthana
+Vimana Sthana : https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana
+Sharira Sthana : https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana
+Indriya Sthana : https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana
+Chikitsa Sthana : https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana
+Kalpa Sthana : https://www.carakasamhitaonline.com/index.php?title=Kalpa_Sthana
+Siddhi Sthana : https://www.carakasamhitaonline.com/index.php?title=Siddhi_Sthana
+Deole Y.S. : https://www.carakasamhitaonline.com/index.php?title=Yogesh_Deole
+Basisht G. : https://www.carakasamhitaonline.com/index.php?title=Gopal_Basisht
+Charak Samhita Research, Training and Skill Development Centre : https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Skill_Development_Centre
+10.47468/CSNE.2020.e01.s01.026 : https://doi.org/10.47468/CSNE.2020.e01.s01.026
+
+
+[BLOCK 8: P]
+----------------------------------------------------------------------
+Abstract
+
+
+[BLOCK 9: P]
+----------------------------------------------------------------------
+Blood is important for maintaining vitality of individuals. It is also the most important factor in patho-physiology of any disease as it carries vitiated dosha leading to disease . This chapter focuses on rakta dhatu (blood tissue), delineating the characteristic features of pure blood as well as the factors influencing the formation of blood. Pure blood (Shuddha rakta) is formed by following proper dietary habits. Therefore, characteristics of pure blood, the causative factors for vitiation of blood, dosha specific features of vitiated blood, their treatment and procedure of bloodletting are described in this chapter. Since blood plays an important role in the treatment of cerebrovascular diseases, a description of ailments such as mada (intoxication/confusion), murchha (syncope), and sanyasa (coma), their pathology and courses of treatment, and mind’s role in the pathogenesis of some of these diseases have also been provided. Keywords : Rakta , rakta visravana, sanyasa sangyavahi srotas, vegetative state, shonita, sadyaphala kriya, sangyaprabodhanam, pure blood, blood vitiating factors, coma, syncope, intoxication, drug addiction.
+
+[REFERENCES / LINKS]
+disease : https://www.carakasamhitaonline.com/index.php?title=Vyadhi
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+disease : https://www.carakasamhitaonline.com/index.php?title=Vyadhi
+rakta dhatu : https://www.carakasamhitaonline.com/index.php?title=Rakta_dhatu
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+Rakta : https://www.carakasamhitaonline.com/index.php?title=Rakta
+
+
+[BLOCK 10: P]
+----------------------------------------------------------------------
+
+
+
+[BLOCK 11: H2]
+----------------------------------------------------------------------
+Contents
+
+
+[BLOCK 12: UL]
+----------------------------------------------------------------------
+1. 1 Introduction
+2. 2 Sanskrit text, Transliteration and English Translation 2.1 Formation of pure blood 2.2 Effects of pure blood on body 2.3 Causes of blood vitiation 2.4 Diseases due to vitiation of blood 2.5 Management of blood vitiation disorders 2.6 Extent of bloodletting 2.7 Dosha-specific features of vitiated blood 2.8 Characteristics of pure blood 2.9 Diet after bloodletting 2.10 Characteristics of a person with pure blood 2.11 Causative factors and pathogenesis of mada (intoxication), murchcha (syncope) and sanyasa(coma) 2.12 Dosha specific features of mada (intoxication) 2.13 Specific features of dosha dominant murchcha (syncope) 2.14 Sanyasa (coma) 2.15 Various treatments of mada and murchcha 2.16 Summary
+3. 3 Tattva Vimarsha (Fundamental Principles)
+4. 4 Vidhi Vimarsha (Applied Inferences) 4.1 Examination of normal blood 4.2 Characteristic features of a person with normal blood tissue 4.3 Dosha specific features of blood 4.4 Causes of vitiation of blood 4.5 Clinical features of abnormal blood 4.6 Principles of treatment 4.7 Intoxication (mada), Syncope (murchha) and Coma (sanyasa) 4.7.1 Intoxication (mada) 4.7.1.1 Pathogenesis 4.7.1.2 Stages of intoxication (mada) 4.7.1.3 Types and dosha specific features of intoxication (mada) 4.7.1.4 Prognosis 4.7.2 Syncope (murchha) 4.7.2.1 Pathogenesis 4.7.2.2 Premonitory symptoms 4.7.2.3 Types and Features of Syncope (murchha) 4.7.3 Coma (sanyasa) 4.7.3.1 Diagnostic tests 4.7.3.2 Prognosis 4.7.3.3 Management 4.8 Case reports 4.9 Effect of seasonal variations in blood physiology 4.10 Contemporary views 4.11 Future research areas
+5. 5 Related chapters
+6. 6 References
+
+[REFERENCES / LINKS]
+1 Introduction : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#Introduction
+2 Sanskrit text, Transliteration and English Translation : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#Sanskrit_text,_Transliteration_and_English_Translation
+2.1 Formation of pure blood : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#Formation_of_pure_blood
+2.2 Effects of pure blood on body : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#Effects_of_pure_blood_on_body
+2.3 Causes of blood vitiation : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#Causes_of_blood_vitiation
+2.4 Diseases due to vitiation of blood : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#Diseases_due_to_vitiation_of_blood
+2.5 Management of blood vitiation disorders : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#Management_of_blood_vitiation_disorders
+2.6 Extent of bloodletting : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#Extent_of_bloodletting
+2.7 Dosha-specific features of vitiated blood : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#Dosha-specific_features_of_vitiated_blood
+2.8 Characteristics of pure blood : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#Characteristics_of_pure_blood
+2.9 Diet after bloodletting : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#Diet_after_bloodletting
+2.10 Characteristics of a person with pure blood : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#Characteristics_of_a_person_with_pure_blood
+2.11 Causative factors and pathogenesis of mada (intoxication), murchcha (syncope) and sanyasa(coma) : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#Causative_factors_and_pathogenesis_of_mada_(intoxication),_murchcha_(syncope)_and_sanyasa(coma)
+2.12 Dosha specific features of mada (intoxication) : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#Dosha_specific_features_of_mada_(intoxication)
+2.13 Specific features of dosha dominant murchcha (syncope) : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#Specific_features_of_dosha_dominant_murchcha_(syncope)
+2.14 Sanyasa (coma) : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#Sanyasa_(coma)
+2.15 Various treatments of mada and murchcha : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#Various_treatments_of_mada_and_murchcha
+2.16 Summary : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#Summary
+3 Tattva Vimarsha (Fundamental Principles) : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#Tattva_Vimarsha_(Fundamental_Principles)
+4 Vidhi Vimarsha (Applied Inferences) : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#Vidhi_Vimarsha_(Applied_Inferences)
+4.1 Examination of normal blood : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#Examination_of_normal_blood
+4.2 Characteristic features of a person with normal blood tissue : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#Characteristic_features_of_a_person_with_normal_blood_tissue
+4.3 Dosha specific features of blood : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#Dosha_specific_features_of_blood
+4.4 Causes of vitiation of blood : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#Causes_of_vitiation_of_blood
+4.5 Clinical features of abnormal blood : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#Clinical_features_of_abnormal_blood
+4.6 Principles of treatment : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#Principles_of_treatment
+4.7 Intoxication (mada), Syncope (murchha) and Coma (sanyasa) : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#Intoxication_(mada),_Syncope_(murchha)_and_Coma_(sanyasa)
+4.7.1 Intoxication (mada) : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#Intoxication_(mada)
+4.7.1.1 Pathogenesis : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#Pathogenesis
+4.7.1.2 Stages of intoxication (mada) : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#Stages_of_intoxication_(mada)
+4.7.1.3 Types and dosha specific features of intoxication (mada) : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#Types_and_dosha_specific_features_of_intoxication_(mada)
+4.7.1.4 Prognosis : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#Prognosis
+4.7.2 Syncope (murchha) : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#Syncope_(murchha)
+4.7.2.1 Pathogenesis : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#Pathogenesis_2
+4.7.2.2 Premonitory symptoms : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#Premonitory_symptoms
+4.7.2.3 Types and Features of Syncope (murchha) : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#Types_and_Features_of_Syncope_(murchha)
+4.7.3 Coma (sanyasa) : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#Coma_(sanyasa)
+4.7.3.1 Diagnostic tests : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#Diagnostic_tests
+4.7.3.2 Prognosis : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#Prognosis_2
+4.7.3.3 Management : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#Management
+4.8 Case reports : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#Case_reports
+4.9 Effect of seasonal variations in blood physiology : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#Effect_of_seasonal_variations_in_blood_physiology
+4.10 Contemporary views : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#Contemporary_views
+4.11 Future research areas : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#Future_research_areas
+5 Related chapters : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#Related_chapters
+6 References : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#References
+
+
+[BLOCK 13: H2]
+----------------------------------------------------------------------
+Introduction
+
+
+[BLOCK 14: P]
+----------------------------------------------------------------------
+In the previous chapters of Yojana Chatushka (tetrad on management protocol), procedures for the management of disorders caused due to vitiation of three dosha were described. In continuation, the present chapter describes the management principles of disorders due to shonita (blood) vitiation. Formation of pure blood is very important for survival because blood is vital for sustaining life [1,2]. Origin, development, and survival of the body depend on blood [3]. Various etiological factors for vitiation of rakta have been explained in this chapter. Vitiated rakta causes various diseases e.g. stomatitis, redness in the eye, etc. If cold (or hot) and rough (or unctuous) dravyas are used for treatment without response, raktaja vikara(blood disorder) should be the reason. The line of treatment for raktaja vikara constitutes courses of treatment for raktapitta (i.e., prescribed for cases of vitiated pitta such as purgation and fasting, along with bloodletting). The physical appearance of pure blood has been described to be of golden colors, like red lotus, firefly, lakh ( laksha ), the fruit of gunja (Abrus precatorius Linn.). Any deviation from these could be explained to be due to vikaras or disorders. Some of the prominent blood-related disorders such as mada (intoxication), murchcha (syncope) and sanyasa (coma) have therefore been described in this chapter. Their etiopathogenesis, types, symptoms and grades of severity - in this sequence - have been explained, along with some suggested courses of treatment. In the case of mada and murchcha , purificatory measures ( Panchakarma ) have been suggested, while for sanyasa , an emergency treatment ( atyayika chikitsa ) should be followed.
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+rakta : https://www.carakasamhitaonline.com/index.php?title=Rakta
+rakta : https://www.carakasamhitaonline.com/index.php?title=Rakta
+Panchakarma : https://www.carakasamhitaonline.com/index.php?title=Panchakarma
+
+
+[BLOCK 15: H2]
+----------------------------------------------------------------------
+Sanskrit text, Transliteration and English Translation
+
+
+[BLOCK 16: P]
+----------------------------------------------------------------------
+अथातो विधिशोणितीयमध्यायं व्याख्यास्यामः ||१||
+
+
+[BLOCK 17: P]
+----------------------------------------------------------------------
+इति ह स्माह भगवानात्रेयः||२||
+
+
+[BLOCK 18: P]
+----------------------------------------------------------------------
+athātō vidhiśōṇitīyamadhyāyaṁ vyākhyāsyāmaḥ ||1||
+
+
+[BLOCK 19: P]
+----------------------------------------------------------------------
+iti ha smāha bhagavānātrēyaḥ||2||
+
+
+[BLOCK 20: P]
+----------------------------------------------------------------------
+athAto vidhishoNitIyamadhyAyaM vyAkhyAsyAmaH ||1||
+
+
+[BLOCK 21: P]
+----------------------------------------------------------------------
+iti ha smAha bhagavAnAtreyaH||2||
+
+
+[BLOCK 22: P]
+----------------------------------------------------------------------
+Now we shall expound the chapter "Vidhishonitiya" (Characteristics of Shonita (Blood), its vitiation and disorders). Thus said Lord Atreya. [1-2]
+
+
+[BLOCK 23: H3]
+----------------------------------------------------------------------
+Formation of pure blood
+
+
+[BLOCK 24: P]
+----------------------------------------------------------------------
+विधिना शोणितं जातं शुद्धं भवति देहिनाम्|
+
+
+[BLOCK 25: P]
+----------------------------------------------------------------------
+देशकालौकसात्म्यानां विधिर्यः सम्प्रकाशितः||३||
+
+
+[BLOCK 26: P]
+----------------------------------------------------------------------
+vidhinā śōṇitaṁ jātaṁ śuddhaṁ bhavati dēhinām|
+
+
+[BLOCK 27: P]
+----------------------------------------------------------------------
+dēśakālaukasātmyānāṁ vidhiryaḥ samprakāśitaḥ||3||
+
+
+[BLOCK 28: P]
+----------------------------------------------------------------------
+vidhinA shoNitaM jAtaM shuddhaM bhavati dehinAm|
+
+
+[BLOCK 29: P]
+----------------------------------------------------------------------
+deshakAlaukasAtmyAnAM vidhiryaH samprakAshitaH||3||
+
+
+[BLOCK 30: P]
+----------------------------------------------------------------------
+Pure blood is formed in harmony with place, time, and adaptation, as said earlier. (C.Su.6) [3]
+
+
+[BLOCK 31: H3]
+----------------------------------------------------------------------
+Effects of pure blood on body
+
+
+[BLOCK 32: P]
+----------------------------------------------------------------------
+तद्विशुद्धं हि रुधिरं बलवर्णसुखायुषा|
+
+
+[BLOCK 33: P]
+----------------------------------------------------------------------
+युनक्ति प्राणिनं प्राणः शोणितं ह्यनुवर्तते||४||
+
+
+[BLOCK 34: P]
+----------------------------------------------------------------------
+tadviśuddhaṁ hi rudhiraṁ balavarṇasukhāyuṣā|
+
+
+[BLOCK 35: P]
+----------------------------------------------------------------------
+yunakti prāṇinaṁ prāṇaḥ śōṇitaṁ hyanuvartatē||4||
+
+
+[BLOCK 36: P]
+----------------------------------------------------------------------
+tadvishuddhaM hi rudhiraM balavarNasukhAyuShA|
+
+
+[BLOCK 37: P]
+----------------------------------------------------------------------
+yunakti prANinaM prANaH shoNitaM hyanuvartate||4||
+
+
+[BLOCK 38: P]
+----------------------------------------------------------------------
+That pure blood provides the individual with strength, complexion, happiness, and life. Because vitality of life depends on blood. [4]
+
+
+[BLOCK 39: H3]
+----------------------------------------------------------------------
+Causes of blood vitiation
+
+
+[BLOCK 40: P]
+----------------------------------------------------------------------
+प्रदुष्टबहुतीक्ष्णोष्णैर्मद्यैरन्यैश्च तद्विधैः|
+
+
+[BLOCK 41: P]
+----------------------------------------------------------------------
+तथाऽतिलवणक्षारैरम्लैः कटुभिरेव च||५||
+
+
+[BLOCK 42: P]
+----------------------------------------------------------------------
+कुलत्थमाषनिष्पावतिलतैलनिषेवणैः|
+
+
+[BLOCK 43: P]
+----------------------------------------------------------------------
+पिण्डालुमूलकादीनां हरितानां च सर्वशः||६||
+
+
+[BLOCK 44: P]
+----------------------------------------------------------------------
+जलजानूपबैलानां प्रसहानां च सेवनात्|
+
+
+[BLOCK 45: P]
+----------------------------------------------------------------------
+दध्यम्लमस्तुसुक्तानां सुरासौवीरकस्य च||७||
+
+
+[BLOCK 46: P]
+----------------------------------------------------------------------
+विरुद्धानामुपक्लिन्नपूतीनां भक्षणेन च|
+
+
+[BLOCK 47: P]
+----------------------------------------------------------------------
+भुक्त्वा दिवा प्रस्वपतां द्रवस्निग्धगुरूणि च||८||
+
+
+[BLOCK 48: P]
+----------------------------------------------------------------------
+अत्यादानं तथा क्रोधं भजतां चातपानलौ|
+
+
+[BLOCK 49: P]
+----------------------------------------------------------------------
+छर्दिवेगप्रतीघातात् काले चानवसेचनात्||९||
+
+
+[BLOCK 50: P]
+----------------------------------------------------------------------
+श्रमाभिघातसन्तापैरजीर्णाध्यशनैस्तथा|
+
+
+[BLOCK 51: P]
+----------------------------------------------------------------------
+शरत्कालस्वभावाच्च शोणितं सम्प्रदुष्यति||१०||
+
+
+[BLOCK 52: P]
+----------------------------------------------------------------------
+praduṣṭabahutīkṣṇōṣṇairmadyairanyaiśca tadvidhaiḥ|
+
+
+[BLOCK 53: P]
+----------------------------------------------------------------------
+tathā'tilavaṇakṣārairamlaiḥ kaṭubhirēva ca||5||
+
+
+[BLOCK 54: P]
+----------------------------------------------------------------------
+kulatthamāṣaniṣpāvatilatailaniṣēvaṇaiḥ|
+
+
+[BLOCK 55: P]
+----------------------------------------------------------------------
+piṇḍālumūlakādīnāṁ haritānāṁ ca sarvaśaḥ||6||
+
+
+[BLOCK 56: P]
+----------------------------------------------------------------------
+jalajānūpabailānāṁ prasahānāṁ ca sēvanāt|
+
+
+[BLOCK 57: P]
+----------------------------------------------------------------------
+dadhyamlamastusuktānāṁ surāsauvīrakasya ca||7||
+
+
+[BLOCK 58: P]
+----------------------------------------------------------------------
+viruddhānāmupaklinnapūtīnāṁ bhakṣaṇēna ca|
+
+
+[BLOCK 59: P]
+----------------------------------------------------------------------
+bhuktvā divā prasvapatāṁ dravasnigdhagurūṇi ca||8||
+
+
+[BLOCK 60: P]
+----------------------------------------------------------------------
+atyādānaṁ tathā krōdhaṁ bhajatāṁ cātapānalau|
+
+
+[BLOCK 61: P]
+----------------------------------------------------------------------
+chardivēgapratīghātāt kālē cānavasēcanāt||9||
+
+
+[BLOCK 62: P]
+----------------------------------------------------------------------
+śramābhighātasantāpairajīrṇādhyaśanaistathā|
+
+
+[BLOCK 63: P]
+----------------------------------------------------------------------
+śaratkālasvabhāvācca śōṇitaṁ sampraduṣyati||10||
+
+
+[BLOCK 64: P]
+----------------------------------------------------------------------
+praduShTabahutIkShNoShNairmadyairanyaishca tadvidhaiH|
+
+
+[BLOCK 65: P]
+----------------------------------------------------------------------
+tathA~atilavaNakShArairamlaiH kaTubhireva ca||5||
+
+
+[BLOCK 66: P]
+----------------------------------------------------------------------
+kulatthamAShaniShpAvatilatailaniShevaNaiH|
+
+
+[BLOCK 67: P]
+----------------------------------------------------------------------
+piNDAlumUlakAdInAM haritAnAM ca sarvashaH||6||
+
+
+[BLOCK 68: P]
+----------------------------------------------------------------------
+jalajAnUpabailAnAM prasahAnAM ca sevanAt|
+
+
+[BLOCK 69: P]
+----------------------------------------------------------------------
+dadhyamlamastusuktAnAM surAsauvIrakasya ca||7||
+
+
+[BLOCK 70: P]
+----------------------------------------------------------------------
+viruddhAnAmupaklinnapUtInAM bhakShaNena ca|
+
+
+[BLOCK 71: P]
+----------------------------------------------------------------------
+bhuktvA divA prasvapatAM dravasnigdhagurUNi ca||8||
+
+
+[BLOCK 72: P]
+----------------------------------------------------------------------
+atyAdAnaM tathA krodhaM bhajatAM cAtapAnalau|
+
+
+[BLOCK 73: P]
+----------------------------------------------------------------------
+chardivegapratIghAtAt kAle cAnavasecanAt||9||
+
+
+[BLOCK 74: P]
+----------------------------------------------------------------------
+shramAbhighAtasantApairajIrNAdhyashanaistathA|
+
+
+[BLOCK 75: P]
+----------------------------------------------------------------------
+sharatkAlasvabhAvAcca shoNitaM sampraduShyati||10||
+
+
+[BLOCK 76: P]
+----------------------------------------------------------------------
+The blood is vitiated due to the following causes:
+
+
+[BLOCK 77: P]
+----------------------------------------------------------------------
+By habitual intake of spoiled or unsuitable food and/or liquids, overeating, acidic or pungent liquor and other similar drinks, too much salty, alkaline substances, sour and pungent food, kulatha (Dolichos biflorus Linn.), masha (Phaseolus mungo Linn.), nishpava (Dolichos lablab Linn.), tila taila (Sesamum indicum Linn. oils), pindalu (Randia uliginosa DC.), radish and all green (leafy) vegetables, meat of aquatic and marshy animals, burrowing animals and those that snatch birds, excessive intake of curd, sour whey (curd-water), vinegars and other sour fermented liquids, consuming decomposed, putrid food with opposite properties excessive sleeping during the day especially after taking liquids, unctuous and heavy food, excessive anger, excessive exposure to the sun and the wind, suppression of the natural urges like vomiting, avoidance of blood-letting in prescribed time (autumn), too much exertion, injury, heat, indigestion, taking meal during indigestion and due to natural pattern in autumn season.[5-10]
+
+
+[BLOCK 78: H3]
+----------------------------------------------------------------------
+Diseases due to vitiation of blood
+
+
+[BLOCK 79: P]
+----------------------------------------------------------------------
+ततः शोणितजा रोगाः प्रजायन्ते पृथग्विधाः|
+
+
+[BLOCK 80: P]
+----------------------------------------------------------------------
+मुखपाकोऽक्षिरागश्च पूतिघ्राणास्यगन्धिता||११||
+
+
+[BLOCK 81: P]
+----------------------------------------------------------------------
+गुल्मोपकुशवीसर्परक्तपित्तप्रमीलकाः|
+
+
+[BLOCK 82: P]
+----------------------------------------------------------------------
+विद्रधी रक्तमेहश्च प्रदरो वातशोणितम्||१२||
+
+
+[BLOCK 83: P]
+----------------------------------------------------------------------
+वैवर्ण्यमग्निसादश्च पिपासा गुरुगात्रता|
+
+
+[BLOCK 84: P]
+----------------------------------------------------------------------
+सन्तापश्चातिदौर्बल्यमरुचिः शिरसश्च रुक्||१३||
+
+
+[BLOCK 85: P]
+----------------------------------------------------------------------
+विदाहश्चान्नपानस्य तिक्ताम्लोद्गिरणं क्लमः|
+
+
+[BLOCK 86: P]
+----------------------------------------------------------------------
+क्रोधप्रचुरता बुद्धेः सम्मोहो लवणास्यता||१४||
+
+
+[BLOCK 87: P]
+----------------------------------------------------------------------
+स्वेदः शरीरदौर्गन्ध्यं मदः कम्पः स्वरक्षयः|
+
+
+[BLOCK 88: P]
+----------------------------------------------------------------------
+तन्द्रानिद्रातियोगश्च तमसश्चातिदर्शनम्||१५||
+
+
+[BLOCK 89: P]
+----------------------------------------------------------------------
+कण्ड्वरुःकोठपिडकाकुष्ठचर्मदलादयः|
+
+
+[BLOCK 90: P]
+----------------------------------------------------------------------
+विकाराः सर्व एवैते विज्ञेयाः शोणिताश्रयाः||१६||
+
+
+[BLOCK 91: P]
+----------------------------------------------------------------------
+शीतोष्णस्निग्धरूक्षाद्यैरुपक्रान्ताश्च ये गदाः|
+
+
+[BLOCK 92: P]
+----------------------------------------------------------------------
+सम्यक् साध्या न सिध्यन्ति रक्तजांस्तान् विभावयेत्||१७||
+
+
+[BLOCK 93: P]
+----------------------------------------------------------------------
+tataḥ śōṇitajā rōgāḥ prajāyantē pr̥thagvidhāḥ|
+
+
+[BLOCK 94: P]
+----------------------------------------------------------------------
+mukhapākō'kṣirāgaśca pūtighrāṇāsyagandhitā||11||
+
+
+[BLOCK 95: P]
+----------------------------------------------------------------------
+gulmōpakuśavīsarparaktapittapramīlakāḥ|
+
+
+[BLOCK 96: P]
+----------------------------------------------------------------------
+vidradhī raktamēhaśca pradarō vātaśōṇitam||12||
+
+
+[BLOCK 97: P]
+----------------------------------------------------------------------
+vaivarṇyamagnisādaśca pipāsā gurugātratā|
+
+
+[BLOCK 98: P]
+----------------------------------------------------------------------
+santāpaścātidaurbalyamaruciḥ śirasaśca ruk||13||
+
+
+[BLOCK 99: P]
+----------------------------------------------------------------------
+vidāhaścānnapānasya tiktāmlōdgiraṇaṁ klamaḥ|
+
+
+[BLOCK 100: P]
+----------------------------------------------------------------------
+krōdhapracuratā buddhēḥ sammōhō lavaṇāsyatā||14||
+
+
+[BLOCK 101: P]
+----------------------------------------------------------------------
+svēdaḥ śarīradaurgandhyaṁ madaḥ kampaḥ svarakṣayaḥ|
+
+
+[BLOCK 102: P]
+----------------------------------------------------------------------
+tandrānidrātiyōgaśca tamasaścātidarśanam||15||
+
+
+[BLOCK 103: P]
+----------------------------------------------------------------------
+kaṇḍvaruḥkōṭhapiḍakākuṣṭhacarmadalādayaḥ|
+
+
+[BLOCK 104: P]
+----------------------------------------------------------------------
+vikārāḥ sarva ēvaitē vijñēyāḥ śōṇitāśrayāḥ||16||
+
+
+[BLOCK 105: P]
+----------------------------------------------------------------------
+śītōṣṇasnigdharūkṣādyairupakrāntāśca yē gadāḥ|
+
+
+[BLOCK 106: P]
+----------------------------------------------------------------------
+samyak sādhyā na sidhyanti raktajāṁstān vibhāvayēt||17 ||
+
+
+[BLOCK 107: P]
+----------------------------------------------------------------------
+tataH shoNitajA rogAH prajAyante pRuthagvidhAH|
+
+
+[BLOCK 108: P]
+----------------------------------------------------------------------
+mukhapAko~akShirAgashca pUtighrANAsyagandhitA||11||
+
+
+[BLOCK 109: P]
+----------------------------------------------------------------------
+gulmopakushavIsarparaktapittapramIlakAH|
+
+
+[BLOCK 110: P]
+----------------------------------------------------------------------
+vidradhI raktamehashca pradaro vAtashoNitam||12||
+
+
+[BLOCK 111: P]
+----------------------------------------------------------------------
+vaivarNyamagnisAdashca pipAsA gurugAtratA|
+
+
+[BLOCK 112: P]
+----------------------------------------------------------------------
+santApashcAtidaurbalyamaruciH shirasashca ruk||13||
+
+
+[BLOCK 113: P]
+----------------------------------------------------------------------
+vidAhashcAnnapAnasya tiktAmlodgiraNaM klamaH|
+
+
+[BLOCK 114: P]
+----------------------------------------------------------------------
+krodhapracuratA buddheH sammoho lavaNAsyatA||14||
+
+
+[BLOCK 115: P]
+----------------------------------------------------------------------
+svedaH sharIradaurgandhyaM madaH kampaH svarakShayaH|
+
+
+[BLOCK 116: P]
+----------------------------------------------------------------------
+tandrAnidrAtiyogashca tamasashcAtidarshanam||15||
+
+
+[BLOCK 117: P]
+----------------------------------------------------------------------
+kaNDvaruHkoThapiDakAkuShThacarmadalAdayaH|
+
+
+[BLOCK 118: P]
+----------------------------------------------------------------------
+vikArAH sarva evaite vij~jeyAH shoNitAshrayAH||16||
+
+
+[BLOCK 119: P]
+----------------------------------------------------------------------
+shItoShNasnigdharUkShAdyairupakrAntAshca ye gadAH|
+
+
+[BLOCK 120: P]
+----------------------------------------------------------------------
+samyak sAdhyA na sidhyanti raktajAMstAn vibhAvayet||17||
+
+
+[BLOCK 121: P]
+----------------------------------------------------------------------
+The above mentioned dietary habits or lifestyle choices cause various diseases that should be considered blood disorders, such as stomatitis, redness in eyes, foul smell in nose and mouth, gulma (lump abdomen), upakusha (inflammation of gum leads to falling of teeth), erysipelas, bleeding disorder, sleepiness, abscess, hematuria, menorrhagia, vatarakta , discoloration of skin, loss of digestive power, thirst, heaviness in body, pyrexia, extreme debility, anorexia, headache, burning sensation after meals, bitter and sour eructation, physical and mental exhaustion, excessive anger, state of confusion, saline taste in mouth, sweating, fetid odor in body, narcosis, tremors, decreased voice, drowsiness, excessive sleep and feeling of darkness, itching, pustules, patches, boils, leprosy, thick skin, etc. The diseases, which, in spite of being curable, are not alleviated after treatment with any of six therapies like cold-hot, unctuous-rough etc. should be considered as caused by (impure) blood. [11-17]
+
+
+[BLOCK 122: H3]
+----------------------------------------------------------------------
+Management of blood vitiation disorders
+
+
+[BLOCK 123: P]
+----------------------------------------------------------------------
+कुर्याच्छोणितरोगेषु रक्तपित्तहरीं क्रियाम्|
+
+
+[BLOCK 124: P]
+----------------------------------------------------------------------
+विरेकमुपवासं च स्रावणं शोणितस्य च||१८||
+
+
+[BLOCK 125: P]
+----------------------------------------------------------------------
+kuryācchōṇitarōgēṣu raktapittaharīṁ kriyām|
+
+
+[BLOCK 126: P]
+----------------------------------------------------------------------
+virēkamupavāsaṁ ca srāvaṇaṁ śōṇitasya ca||18||
+
+
+[BLOCK 127: P]
+----------------------------------------------------------------------
+kuryAcchoNitarogeShu raktapittaharIM kriyAm|
+
+
+[BLOCK 128: P]
+----------------------------------------------------------------------
+virekamupavAsaM ca srAvaNaM shoNitasya ca||18||
+
+
+[BLOCK 129: P]
+----------------------------------------------------------------------
+Treatment for blood disorder is as per raktapitta with therapeutic purgation, fasting and bloodletting. [18]
+
+
+[BLOCK 130: H3]
+----------------------------------------------------------------------
+Extent of bloodletting
+
+
+[BLOCK 131: P]
+----------------------------------------------------------------------
+बलदोषप्रमाणाद्वा विशुद्ध्या रुधिरस्य वा|
+
+
+[BLOCK 132: P]
+----------------------------------------------------------------------
+रुधिरं स्रावयेज्जन्तोराशयं प्रसमीक्ष्य वा||१९||
+
+
+[BLOCK 133: P]
+----------------------------------------------------------------------
+baladōṣapramāṇādvā viśuddhyā rudhirasya vā|
+
+
+[BLOCK 134: P]
+----------------------------------------------------------------------
+rudhiraṁ srāvayējjantōrāśayaṁ prasamīkṣya vā||19||
+
+
+[BLOCK 135: P]
+----------------------------------------------------------------------
+baladoShapramANAdvA vishuddhyA rudhirasya vA|
+
+
+[BLOCK 136: P]
+----------------------------------------------------------------------
+rudhiraM srAvayejjantorAshayaM prasamIkShya vA||19||
+
+
+[BLOCK 137: P]
+----------------------------------------------------------------------
+Bloodletting should be done considering the strength of the person, dosha , location of the disease, and until pure blood starts to flow out.[19]
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 138: H3]
+----------------------------------------------------------------------
+Dosha -specific features of vitiated blood
+
+[REFERENCES / LINKS]
+Dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 139: P]
+----------------------------------------------------------------------
+अरुणाभं भवेद्वाताद्विशदं फेनिलं तनु|
+
+
+[BLOCK 140: P]
+----------------------------------------------------------------------
+पित्तात् पीतासितं रक्तं स्त्यायत्यौष्ण्याच्चिरेण च||२०||
+
+
+[BLOCK 141: P]
+----------------------------------------------------------------------
+ईषत्पाण्डु कफाद्दुष्टं पिच्छिलं तन्तुमद्घनम्|
+
+
+[BLOCK 142: P]
+----------------------------------------------------------------------
+संसृष्टलिङ्गं संसर्गात्त्रिलिङ्गं ||२१||
+
+
+[BLOCK 143: P]
+----------------------------------------------------------------------
+aruṇābhaṁ bhavēdvātādviśadaṁ phēnilaṁ tanu|
+
+
+[BLOCK 144: P]
+----------------------------------------------------------------------
+pittāt pītāsitaṁ raktaṁ styāyatyauṣṇyāccirēṇa ca||20||
+
+
+[BLOCK 145: P]
+----------------------------------------------------------------------
+īṣatpāṇḍu kaphādduṣṭaṁ picchilaṁ tantumadghanam|
+
+
+[BLOCK 146: P]
+----------------------------------------------------------------------
+saṁsr̥ṣṭaliṅgaṁ saṁsargāttriliṅgaṁ sānnipātikam||21||
+
+
+[BLOCK 147: P]
+----------------------------------------------------------------------
+aruNAbhaM bhavedvAtAdvishadaM phenilaM tanu|
+
+
+[BLOCK 148: P]
+----------------------------------------------------------------------
+pittAt pItAsitaM raktaM styAyatyauShNyAccireNa ca||20||
+
+
+[BLOCK 149: P]
+----------------------------------------------------------------------
+IShatpANDu kaphAdduShTaM picchilaM tantumadghanam|
+
+
+[BLOCK 150: P]
+----------------------------------------------------------------------
+saMsRuShTali~ggaM saMsargAttrili~ggaM sAnnipAtikam||21||
+
+
+[BLOCK 151: P]
+----------------------------------------------------------------------
+Due to vitiated vata, blood becomes arunabham (reddish), non-slimy, frothy and thin. Due to vitiated pitta , it becomes yellow or blackish, with delayed coagulation because of heat. Due to vitiated kapha it is slightly pale, slimy, fibrous and more viscous. In the case of combination of vitiated doshas , it acquires mixed characters and in sannipata , has symptoms of all the three doshas .[20-21]
+
+
+[BLOCK 152: H3]
+----------------------------------------------------------------------
+Characteristics of pure blood
+
+
+[BLOCK 153: P]
+----------------------------------------------------------------------
+तपनीयेन्द्रगोपाभं पद्मालक्तकसन्निभम्|
+
+
+[BLOCK 154: P]
+----------------------------------------------------------------------
+गुञ्जाफलसवर्णं च विशुद्धं विद्धि शोणितम्||२२||
+
+
+[BLOCK 155: P]
+----------------------------------------------------------------------
+tapanīyēndragōpābhaṁ padmālaktakasannibham|
+
+
+[BLOCK 156: P]
+----------------------------------------------------------------------
+guñjāphalasavarṇaṁ ca viśuddhaṁ viddhi śōṇitam||22||
+
+
+[BLOCK 157: P]
+----------------------------------------------------------------------
+tapanIyendragopAbhaM padmAlaktakasannibham|
+
+
+[BLOCK 158: P]
+----------------------------------------------------------------------
+gu~jjAphalasavarNaM ca vishuddhaM viddhi shoNitam||22||
+
+
+[BLOCK 159: P]
+----------------------------------------------------------------------
+Blood should be regarded as pure when its color resembles red-gold, firefly, red lotus, laksha (lac-resinous material) and gunja fruit (Abrus precatorius Linn.).[22]
+
+
+[BLOCK 160: H3]
+----------------------------------------------------------------------
+Diet after bloodletting
+
+
+[BLOCK 161: P]
+----------------------------------------------------------------------
+नात्युष्णशीतं लघु दीपनीयं रक्तेऽपनीते हितमन्नपानम्|
+
+
+[BLOCK 162: P]
+----------------------------------------------------------------------
+तदा शरीरं ह्यनवस्थितासृगग्निर्विशेषेण च रक्षितव्यः||२३||
+
+
+[BLOCK 163: P]
+----------------------------------------------------------------------
+nātyuṣṇaśītaṁ laghu dīpanīyaṁ raktē'panītē hitamannapānam|
+
+
+[BLOCK 164: P]
+----------------------------------------------------------------------
+tadā śarīraṁ hyanavasthitāsr̥gagnirviśēṣēṇa ca rakṣitavyaḥ||23||
+
+
+[BLOCK 165: P]
+----------------------------------------------------------------------
+nAtyuShNashItaM laghu dIpanIyaM rakte~apanIte hitamannapAnam|
+
+
+[BLOCK 166: P]
+----------------------------------------------------------------------
+tadA sharIraM hyanavasthitAsRugagnirvisheSheNa ca rakShitavyaH||23||
+
+
+[BLOCK 167: P]
+----------------------------------------------------------------------
+After bloodletting, it is beneficial to take diet that is neither too hot nor cold, is light (to digest), and is appetizing. During this period, the body is vulnerable to relapse of various other forms of blood-related diseases, so the agni (digestive power) should be protected with care. [23]
+
+[REFERENCES / LINKS]
+agni : https://www.carakasamhitaonline.com/index.php?title=Agni
+
+
+[BLOCK 168: H3]
+----------------------------------------------------------------------
+Characteristics of a person with pure blood
+
+
+[BLOCK 169: P]
+----------------------------------------------------------------------
+प्रसन्नवर्णेन्द्रियमिन्द्रियार्थानिच्छन्तमव्याहतपक्तृवेगम्|
+
+
+[BLOCK 170: P]
+----------------------------------------------------------------------
+सुखान्वितं तु(पु)ष्टिबलोपपन्नं विशुद्धरक्तं पुरुषं वदन्ति||२४||
+
+
+[BLOCK 171: P]
+----------------------------------------------------------------------
+prasannavarṇēndriyamindriyārthānicchantamavyāhatapaktr̥vēgam|
+
+
+[BLOCK 172: P]
+----------------------------------------------------------------------
+sukhānvitaṁ tu(pu)ṣṭibalōpapannaṁ viśuddharaktaṁ puruṣaṁ vadanti||24||
+
+
+[BLOCK 173: P]
+----------------------------------------------------------------------
+prasannavarNendriyamindriyArthAnicchantamavyAhatapaktRuvegam|
+
+
+[BLOCK 174: P]
+----------------------------------------------------------------------
+sukhAnvitaM tu(pu)ShTibalopapannaM vishuddharaktaM puruShaM vadanti||24||
+
+
+[BLOCK 175: P]
+----------------------------------------------------------------------
+A person should be considered as having pure blood if he has glowing complexion, well-functioning sense organs, and is cheerful. A person with unvitiated blood has normal digestion and unobstructed natural urges, is happy and is endowed with saturation and strength. [24]
+
+
+[BLOCK 176: H3]
+----------------------------------------------------------------------
+Causative factors and pathogenesis of mada (intoxication), murchcha (syncope) and sanyasa(coma)
+
+
+[BLOCK 177: P]
+----------------------------------------------------------------------
+यदा तु रक्तवाहीनि रससञ्ज्ञावहानि च|
+
+
+[BLOCK 178: P]
+----------------------------------------------------------------------
+पृथक् पृथक् समस्ता वा स्रोतांसि कुपिता मलाः||२५||
+
+
+[BLOCK 179: P]
+----------------------------------------------------------------------
+मलिनाहारशीलस्य रजोमोहावृतात्मनः|
+
+
+[BLOCK 180: P]
+----------------------------------------------------------------------
+प्रतिहत्यावतिष्ठन्ते जायन्ते व्याधयस्तदा||२६||
+
+
+[BLOCK 181: P]
+----------------------------------------------------------------------
+मदमूर्च्छायसन्न्यासास्तेषां विद्याद्विचक्षणः|
+
+
+[BLOCK 182: P]
+----------------------------------------------------------------------
+यथोत्तरं बलाधिक्यं हेतुलिङ्गोपशान्तिषु||२७||
+
+
+[BLOCK 183: P]
+----------------------------------------------------------------------
+दुर्बलं चेतसः स्थानं यदा वायुः प्रपद्यते|
+
+
+[BLOCK 184: P]
+----------------------------------------------------------------------
+मनो विक्षोभयञ्जन्तोः सञ्ज्ञां सम्मोहयेत्तदा||२८||
+
+
+[BLOCK 185: P]
+----------------------------------------------------------------------
+पित्तमेवं कफश्चैवं मनो विक्षोभयन्नृणाम्|
+
+
+[BLOCK 186: P]
+----------------------------------------------------------------------
+सञ्ज्ञां नयत्याकुलतां विशेषश्चात्र वक्ष्यते||२९||
+
+
+[BLOCK 187: P]
+----------------------------------------------------------------------
+yadā tu raktavāhīni rasasañjñāvahāni ca|
+
+
+[BLOCK 188: P]
+----------------------------------------------------------------------
+pr̥thak pr̥thak samastā vā srōtāṁsi kupitā malāḥ||25||
+
+
+[BLOCK 189: P]
+----------------------------------------------------------------------
+malināhāraśīlasya rajōmōhāvr̥tātmanaḥ|
+
+
+[BLOCK 190: P]
+----------------------------------------------------------------------
+pratihatyāvatiṣṭhantē jāyantē vyādhayastadā||26||
+
+
+[BLOCK 191: P]
+----------------------------------------------------------------------
+madamūrcchāyasannyāsāstēṣāṁ vidyādvicakṣaṇaḥ|
+
+
+[BLOCK 192: P]
+----------------------------------------------------------------------
+yathōttaraṁ balādhikyaṁ hētuliṅgōpaśāntiṣu||27||
+
+
+[BLOCK 193: P]
+----------------------------------------------------------------------
+durbalaṁ cētasaḥ sthānaṁ yadā vāyuḥ prapadyatē|
+
+
+[BLOCK 194: P]
+----------------------------------------------------------------------
+manō vikṣōbhayañjantōḥ sañjñāṁ sammōhayēttadā||28||
+
+
+[BLOCK 195: P]
+----------------------------------------------------------------------
+pittamēvaṁ kaphaścaivaṁ manō vikṣōbhayannr̥ṇām|
+
+
+[BLOCK 196: P]
+----------------------------------------------------------------------
+sañjñāṁ nayatyākulatāṁ viśēṣaścātra vakṣyatē||29||
+
+
+[BLOCK 197: P]
+----------------------------------------------------------------------
+yadA tu raktavAhIni rasasa~jj~jAvahAni ca|
+
+
+[BLOCK 198: P]
+----------------------------------------------------------------------
+pRuthak pRuthak samastA vA srotAMsi kupitA malAH||25||
+
+
+[BLOCK 199: P]
+----------------------------------------------------------------------
+malinAhArashIlasya rajomohAvRutAtmanaH|
+
+
+[BLOCK 200: P]
+----------------------------------------------------------------------
+pratihatyAvatiShThante jAyante vyAdhayastadA||26||
+
+
+[BLOCK 201: P]
+----------------------------------------------------------------------
+madamUrcchAyasannyAsAsteShAM vidyAdvicakShaNaH|
+
+
+[BLOCK 202: P]
+----------------------------------------------------------------------
+yathottaraM balAdhikyaM hetuli~ggopashAntiShu||27||
+
+
+[BLOCK 203: P]
+----------------------------------------------------------------------
+durbalaM cetasaH sthAnaM yadA vAyuH prapadyate|
+
+
+[BLOCK 204: P]
+----------------------------------------------------------------------
+mano vikShobhaya~jjantoH sa~jj~jAM sammohayettadA||28||
+
+
+[BLOCK 205: P]
+----------------------------------------------------------------------
+pittamevaM kaphashcaivaM mano vikShobhayannRuNAm|
+
+
+[BLOCK 206: P]
+----------------------------------------------------------------------
+sa~jj~jAM nayatyAkulatAM visheShashcAtra vakShyate||29||
+
+
+[BLOCK 207: P]
+----------------------------------------------------------------------
+When a person indulges in spoiled food and unhealthy habits, he develops a clouded sensorium with rajas and tamas qualities. The vitiated dosha , singly or in combination, reside and obstruct the channels that carry rakta , rasa (plasma), and consciousness. This leads to various diseases such as mada (intoxication), murchcha (syncope), and sanyasa (coma) which are etiologically, symptomatically and therapeutically progressive. Vitiated dosha distress the mind and alter the sensorium leading to further impairment of consciousness. [25-29]
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+rakta : https://www.carakasamhitaonline.com/index.php?title=Rakta
+rasa : https://www.carakasamhitaonline.com/index.php?title=Rasa
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 208: H3]
+----------------------------------------------------------------------
+Dosha specific features of mada (intoxication)
+
+[REFERENCES / LINKS]
+Dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 209: P]
+----------------------------------------------------------------------
+सक्तानल्पद्रुताभाषं चलस्खलितचेष्टितम्|
+
+
+[BLOCK 210: P]
+----------------------------------------------------------------------
+विद्याद्वातमदाविष्टं रूक्षश्यावारुणाकृतिम्||३०||
+
+
+[BLOCK 211: P]
+----------------------------------------------------------------------
+सक्रोधपरुषाभाषं सम्प्रहारकलिप्रियम्|
+
+
+[BLOCK 212: P]
+----------------------------------------------------------------------
+विद्यात् पित्तमदाविष्टं रक्तपीतासिताकृतिम्||३१||
+
+
+[BLOCK 213: P]
+----------------------------------------------------------------------
+स्वल्पासम्बद्धवचनं तन्द्रालस्यसमन्वितम्|
+
+
+[BLOCK 214: P]
+----------------------------------------------------------------------
+विद्यात् कफमदाविष्टं पाण्डुं प्रध्यानतत्परम्||३२||
+
+
+[BLOCK 215: P]
+----------------------------------------------------------------------
+सर्वाण्येतानि रूपाणि सन्निपातकृते मदे|३३|
+
+
+[BLOCK 216: P]
+----------------------------------------------------------------------
+saktānalpadrutābhāṣaṁ calaskhalitacēṣṭitam |
+
+
+[BLOCK 217: P]
+----------------------------------------------------------------------
+vidyādvātamadāviṣṭaṁ rūkṣaśyāvāruṇākr̥tim||30||
+
+
+[BLOCK 218: P]
+----------------------------------------------------------------------
+sakrōdhaparuṣābhāṣaṁ samprahārakalipriyam|
+
+
+[BLOCK 219: P]
+----------------------------------------------------------------------
+vidyāt pittamadāviṣṭaṁ raktapītāsitākr̥tim||31||
+
+
+[BLOCK 220: P]
+----------------------------------------------------------------------
+svalpāsambaddhavacanaṁ tandrālasyasamanvitam|
+
+
+[BLOCK 221: P]
+----------------------------------------------------------------------
+vidyāt kaphamadāviṣṭaṁ pāṇḍuṁ pradhyānatatparam||32||
+
+
+[BLOCK 222: P]
+----------------------------------------------------------------------
+sarvāṇyētāni rūpāṇi sannipātakr̥tē madē|33|
+
+
+[BLOCK 223: P]
+----------------------------------------------------------------------
+saktAnalpadrutAbhAShaM calaskhalitaceShTitam |
+
+
+[BLOCK 224: P]
+----------------------------------------------------------------------
+vidyAdvAtamadAviShTaM rUkShashyAvAruNAkRutim||30||
+
+
+[BLOCK 225: P]
+----------------------------------------------------------------------
+sakrodhaparuShAbhAShaM samprahArakalipriyam|
+
+
+[BLOCK 226: P]
+----------------------------------------------------------------------
+vidyAt pittamadAviShTaM raktapItAsitAkRutim||31||
+
+
+[BLOCK 227: P]
+----------------------------------------------------------------------
+svalpAsambaddhavacanaM tandrAlasyasamanvitam|
+
+
+[BLOCK 228: P]
+----------------------------------------------------------------------
+vidyAt kaphamadAviShTaM pANDuM pradhyAnatatparam||32||
+
+
+[BLOCK 229: P]
+----------------------------------------------------------------------
+sarvANyetAni rUpANi sannipAtakRute made|33|
+
+
+[BLOCK 230: P]
+----------------------------------------------------------------------
+The person should be diagnosed as suffering from vatika mada , if his speech is excessive and fast, movement is unstable, and face is rough, reddish or blackish. A person with angry and harsh tongue, quarrelsome, tends to be physical with a red, yellow and black face should be known to be suffering from paittika mada . The one affected with kaphaja mada speaks less with incoherence, seems drowsy and lethargic, is pale and is continuously in a state of anxiety. In sannipataja mada , all these features are found in combination. [30-33]
+
+[REFERENCES / LINKS]
+kaphaja : https://www.carakasamhitaonline.com/index.php?title=Kapha
+
+
+[BLOCK 231: P]
+----------------------------------------------------------------------
+जायते शाम्यति क्षिप्रं मदो मद्यमदाकृतिः||३३||
+
+
+[BLOCK 232: P]
+----------------------------------------------------------------------
+jāyatē śāmyati kṣipraṁ madō madyamadākr̥tiḥ||33||
+
+
+[BLOCK 233: P]
+----------------------------------------------------------------------
+jAyate shAmyati kShipraM mado madyamadAkRutiH||33||
+
+
+[BLOCK 234: P]
+----------------------------------------------------------------------
+The mada state arises and subsides quickly like alcoholic narcosis. [33]
+
+
+[BLOCK 235: P]
+----------------------------------------------------------------------
+यश्च मद्यकृतः प्रोक्तो विषजो रौधिरश्च यः|
+
+
+[BLOCK 236: P]
+----------------------------------------------------------------------
+सर्व एते मदा नर्ते वातपित्तकफत्रयात्||३४||
+
+
+[BLOCK 237: P]
+----------------------------------------------------------------------
+yaśca madyakr̥taḥ prōktō viṣajō raudhiraśca yaḥ|
+
+
+[BLOCK 238: P]
+----------------------------------------------------------------------
+sarva ētē madā nartē vātapittakaphatrayāt||34||
+
+
+[BLOCK 239: P]
+----------------------------------------------------------------------
+yashca madyakRutaH prokto viShajo raudhirashca yaH|
+
+
+[BLOCK 240: P]
+----------------------------------------------------------------------
+sarva ete madA narte vAtapittakaphatrayAt||34||
+
+
+[BLOCK 241: P]
+----------------------------------------------------------------------
+All types of narcosis are caused by alcoholic drinks, poisons or by vitiation of blood. It can be concluded that all types of narcosis are caused by nothing but the vitiation of the three dosha viz. vata , pitta and kapha . [34]
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+
+
+[BLOCK 242: H3]
+----------------------------------------------------------------------
+Specific features of dosha dominant murchcha (syncope)
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 243: P]
+----------------------------------------------------------------------
+नीलं वा यदि वा कृष्णमाकाशमथवाऽरुणम्|
+
+
+[BLOCK 244: P]
+----------------------------------------------------------------------
+पश्यंस्तमः प्रविशति शीघ्रं च प्रतिबुध्यते ||३५||
+
+
+[BLOCK 245: P]
+----------------------------------------------------------------------
+वेपथुश्चाङ्गमर्दश्च प्रपीडा हृदयस्य च|
+
+
+[BLOCK 246: P]
+----------------------------------------------------------------------
+कार्श्यं श्यावारुणा च्छायामूर्च्छाये वातसम्भवे||३६||
+
+
+[BLOCK 247: P]
+----------------------------------------------------------------------
+रक्तं हरितवर्णं वा वियत् पीतमथापि वा|
+
+
+[BLOCK 248: P]
+----------------------------------------------------------------------
+पश्यंस्तमः प्रविशति सस्वेदः प्रतिबुध्यते||३७||
+
+
+[BLOCK 249: P]
+----------------------------------------------------------------------
+सपिपासः ससन्तापो रक्तपीताकुलेक्षणः|
+
+
+[BLOCK 250: P]
+----------------------------------------------------------------------
+सम्भिन्नवर्चाः पीताभो मूर्च्छाये पित्तसम्भवे||३८||
+
+
+[BLOCK 251: P]
+----------------------------------------------------------------------
+मेघसङ्काशमाकाशमावृतं वा तमोघनैः|
+
+
+[BLOCK 252: P]
+----------------------------------------------------------------------
+पश्यंस्तमः प्रविशति चिराच्च प्रतिबुध्यते||३९||
+
+
+[BLOCK 253: P]
+----------------------------------------------------------------------
+गुरुभिः प्रावृतैरङ्गैर्यथैवार्द्रेण चर्मणा|
+
+
+[BLOCK 254: P]
+----------------------------------------------------------------------
+सप्रसेकः सहृल्लासो मूर्च्छाये कफसम्भवे||४०||
+
+
+[BLOCK 255: P]
+----------------------------------------------------------------------
+सर्वाकृतिः सन्निपातादपस्मार इवागतः|
+
+
+[BLOCK 256: P]
+----------------------------------------------------------------------
+स जन्तुं पातयत्याशु विना बीभत्सचेष्टितैः||४१||
+
+
+[BLOCK 257: P]
+----------------------------------------------------------------------
+nīlaṁ vā yadi vā kr̥ṣṇamākāśamathavā'ruṇam|
+
+
+[BLOCK 258: P]
+----------------------------------------------------------------------
+paśyaṁstamaḥ praviśati śīghraṁ ca pratibudhyatē ||35||
+
+
+[BLOCK 259: P]
+----------------------------------------------------------------------
+vēpathuścāṅgamardaśca prapīḍā hr̥dayasya ca|
+
+
+[BLOCK 260: P]
+----------------------------------------------------------------------
+kārśyaṁ śyāvāruṇā cchāyāmūrcchāyē vātasambhavē||36||
+
+
+[BLOCK 261: P]
+----------------------------------------------------------------------
+raktaṁ haritavarṇaṁ vā viyat pītamathāpi vā|
+
+
+[BLOCK 262: P]
+----------------------------------------------------------------------
+paśyaṁstamaḥ praviśati sasvēdaḥ pratibudhyatē||37||
+
+
+[BLOCK 263: P]
+----------------------------------------------------------------------
+sapipāsaḥ sasantāpō raktapītākulēkṣaṇaḥ|
+
+
+[BLOCK 264: P]
+----------------------------------------------------------------------
+sambhinnavarcāḥ pītābhō mūrcchāyē pittasambhavē||38||
+
+
+[BLOCK 265: P]
+----------------------------------------------------------------------
+mēghasaṅkāśamākāśamāvr̥taṁ vā tamōghanaiḥ|
+
+
+[BLOCK 266: P]
+----------------------------------------------------------------------
+paśyaṁstamaḥ praviśati cirācca pratibudhyatē||39||
+
+
+[BLOCK 267: P]
+----------------------------------------------------------------------
+gurubhiḥ prāvr̥tairaṅgairyathaivārdrēṇa carmaṇā|
+
+
+[BLOCK 268: P]
+----------------------------------------------------------------------
+saprasēkaḥ sahr̥llāsō mūrcchāyē kaphasambhavē||40||
+
+
+[BLOCK 269: P]
+----------------------------------------------------------------------
+sarvākr̥tiḥ sannipātādapasmāra ivāgataḥ|
+
+
+[BLOCK 270: P]
+----------------------------------------------------------------------
+sa jantuṁ pātayatyāśu vinā bībhatsacēṣṭitaiḥ||41||
+
+
+[BLOCK 271: P]
+----------------------------------------------------------------------
+nIlaM vA yadi vA kRuShNamAkAshamathavA~aruNam|
+
+
+[BLOCK 272: P]
+----------------------------------------------------------------------
+pashyaMstamaH pravishati shIghraM ca pratibudhyate ||35||
+
+
+[BLOCK 273: P]
+----------------------------------------------------------------------
+vepathushcA~ggamardashca prapIDA hRudayasya ca|
+
+
+[BLOCK 274: P]
+----------------------------------------------------------------------
+kArshyaM shyAvAruNA cchAyAmUrcchAye vAtasambhave||36||
+
+
+[BLOCK 275: P]
+----------------------------------------------------------------------
+raktaM haritavarNaM vA viyat pItamathApi vA|
+
+
+[BLOCK 276: P]
+----------------------------------------------------------------------
+pashyaMstamaH pravishati sasvedaH pratibudhyate||37||
+
+
+[BLOCK 277: P]
+----------------------------------------------------------------------
+sapipAsaH sasantApo raktapItAkulekShaNaH|
+
+
+[BLOCK 278: P]
+----------------------------------------------------------------------
+sambhinnavarcAH pItAbho mUrcchAye pittasambhave||38||
+
+
+[BLOCK 279: P]
+----------------------------------------------------------------------
+meghasa~gkAshamAkAshamAvRutaM vA tamoghanaiH|
+
+
+[BLOCK 280: P]
+----------------------------------------------------------------------
+pashyaMstamaH pravishati cirAcca pratibudhyate||39||
+
+
+[BLOCK 281: P]
+----------------------------------------------------------------------
+gurubhiH prAvRutaira~ggairyathaivArdreNa carmaNA|
+
+
+[BLOCK 282: P]
+----------------------------------------------------------------------
+saprasekaH sahRullAso mUrcchAye kaphasambhave||40||
+
+
+[BLOCK 283: P]
+----------------------------------------------------------------------
+sarvAkRutiH sannipAtAdapasmAra ivAgataH|
+
+
+[BLOCK 284: P]
+----------------------------------------------------------------------
+sa jantuM pAtayatyAshu vinA bIbhatsaceShTitaiH||41||
+
+
+[BLOCK 285: P]
+----------------------------------------------------------------------
+In vatika murchcha , the patient becomes unconscious after seeing the sky as blue, black or reddish and regains consciousness quickly. Other symptoms include trembling, body-ache, excessive pain in the cardiac region, emaciation, and blackish and reddish luster.
+In paittika murchcha , unconciousness comes after seeing the sky as red, green or yellow, and recovery is accompanied by sweating. There are also symptoms like thirst, pyrexia, red or yellow distressed eyes, loose motion, and yellowish pallor.
+
+
+[BLOCK 286: P]
+----------------------------------------------------------------------
+The patient of kaphaja murchcha gets unconscious after seeing the sky covered in clouds or covered with deep darkness and recovers after a long time. He generally finds his body parts feel heavy and wrapped in wet hide. He also suffers from excessive salivation and nausea.
+
+[REFERENCES / LINKS]
+kaphaja : https://www.carakasamhitaonline.com/index.php?title=Kapha
+
+
+[BLOCK 287: P]
+----------------------------------------------------------------------
+Sannipataja murchcha has characters of all the above types and the patient suffers from (epilepsy-like) bouts of paroxysm, with the difference that in this murchcha the patient falls unconscious without violent or revolting movements.[35-41]
+
+
+[BLOCK 288: H3]
+----------------------------------------------------------------------
+Sanyasa (coma)
+
+
+[BLOCK 289: P]
+----------------------------------------------------------------------
+दोषेषु मदमूर्च्छायाः कृतवेगेषु देहिनाम्|
+
+
+[BLOCK 290: P]
+----------------------------------------------------------------------
+स्वयमेवोपशाम्यन्ति सन्न्यासो नौषधैर्विना||४२||
+
+
+[BLOCK 291: P]
+----------------------------------------------------------------------
+वाग्देहमनसां चेष्टामाक्षिप्यातिबला मलाः|
+
+
+[BLOCK 292: P]
+----------------------------------------------------------------------
+सन्न्यस्यन्त्यबलं जन्तुं प्राणायतनसंश्रिताः||४३||
+
+
+[BLOCK 293: P]
+----------------------------------------------------------------------
+स ना सन्न्याससन्न्यस्तः काष्ठीभूतो मृतोपमः|
+
+
+[BLOCK 294: P]
+----------------------------------------------------------------------
+प्राणैर्वियुज्यते शीघ्रं मुक्त्वा सद्यःफलाः क्रियाः||४४||
+
+
+[BLOCK 295: P]
+----------------------------------------------------------------------
+दुर्गेऽम्भसि यथा मज्जद्भाजनं त्वरया बुधः|
+
+
+[BLOCK 296: P]
+----------------------------------------------------------------------
+गृह्णीयात्तलमप्राप्तं तथा सन्न्यासपीडितम्||४५||
+
+
+[BLOCK 297: P]
+----------------------------------------------------------------------
+अञ्जनान्यवपीडाश्च धूमाः प्रधमनानि च|
+
+
+[BLOCK 298: P]
+----------------------------------------------------------------------
+सूचीभिस्तोदनं शस्तं दाहः पीडा नखान्तरे||४६||
+
+
+[BLOCK 299: P]
+----------------------------------------------------------------------
+लुञ्चनं केशलोम्नां च दन्तैर्दशनमेव च|
+
+
+[BLOCK 300: P]
+----------------------------------------------------------------------
+आत्मगुप्तावघर्षश्च हितं तस्यावबोधने||४७||
+
+
+[BLOCK 301: P]
+----------------------------------------------------------------------
+सम्मूर्च्छितानि तीक्ष्णानि मद्यानि विविधानि च|
+
+
+[BLOCK 302: P]
+----------------------------------------------------------------------
+प्रभूतकटुयुक्तानि तस्यास्ये गालयेन्मुहुः||४८||
+
+
+[BLOCK 303: P]
+----------------------------------------------------------------------
+मातुलुङ्गरसं तद्वन्महौषधसमायुतम्|
+
+
+[BLOCK 304: P]
+----------------------------------------------------------------------
+तद्वत्सौवर्चलं दद्याद्युक्तं मद्याम्लकाञ्जिकैः||४९||
+
+
+[BLOCK 305: P]
+----------------------------------------------------------------------
+हिङ्गूषणसमायुक्तं यावत् सञ्ज्ञाप्रबोधनम्|
+
+
+[BLOCK 306: P]
+----------------------------------------------------------------------
+प्रबुद्धसञ्ज्ञमन्नैश्च लघुभिस्तमुपाचरेत्||५०||
+
+
+[BLOCK 307: P]
+----------------------------------------------------------------------
+विस्मापनैः स्मारणैश्च प्रियश्रुतिभिरेव च|
+
+
+[BLOCK 308: P]
+----------------------------------------------------------------------
+पटुभिर्गीतवादित्रशब्दैश्चित्रैश्च दर्शनैः||५१||
+
+
+[BLOCK 309: P]
+----------------------------------------------------------------------
+स्रंसनोल्लेखनैर्धूमैरञ्जनैः कवलग्रहैः|
+
+
+[BLOCK 310: P]
+----------------------------------------------------------------------
+शोणितस्यावसेकैश्च व्यायामोद्घर्षणैस्तथा||५२||
+
+
+[BLOCK 311: P]
+----------------------------------------------------------------------
+प्रबुद्धसञ्ज्ञं मतिमाननुबन्धमुपक्रमेत्|
+
+
+[BLOCK 312: P]
+----------------------------------------------------------------------
+तस्य संरक्षितव्यं हि मनः प्रलयहेतुतः||५३||
+
+
+[BLOCK 313: P]
+----------------------------------------------------------------------
+dōṣēṣu madamūrcchāyāḥ kr̥tavēgēṣu dēhinām|
+
+
+[BLOCK 314: P]
+----------------------------------------------------------------------
+svayamēvōpaśāmyanti sannyāsō nauṣadhairvinā||42||
+
+
+[BLOCK 315: P]
+----------------------------------------------------------------------
+vāgdēhamanasāṁ cēṣṭāmākṣipyātibalā malāḥ|
+
+
+[BLOCK 316: P]
+----------------------------------------------------------------------
+sannyasyantyabalaṁ jantuṁ prāṇāyatanasaṁśritāḥ||43||
+
+
+[BLOCK 317: P]
+----------------------------------------------------------------------
+sa nā sannyāsasannyastaḥ kāṣṭhībhūtō mr̥tōpamaḥ|
+
+
+[BLOCK 318: P]
+----------------------------------------------------------------------
+prāṇairviyujyatē śīghraṁ muktvā sadyaḥphalāḥ kriyāḥ||44||
+
+
+[BLOCK 319: P]
+----------------------------------------------------------------------
+durgē'mbhasi yathā majjadbhājanaṁ tvarayā budhaḥ|
+
+
+[BLOCK 320: P]
+----------------------------------------------------------------------
+gr̥hṇīyāttalamaprāptaṁ tathā sannyāsapīḍitam||45||
+
+
+[BLOCK 321: P]
+----------------------------------------------------------------------
+añjanānyavapīḍāśca dhūmāḥ pradhamanāni ca|
+
+
+[BLOCK 322: P]
+----------------------------------------------------------------------
+sūcībhistōdanaṁ śastaṁ dāhaḥ pīḍā nakhāntarē||46||
+
+
+[BLOCK 323: P]
+----------------------------------------------------------------------
+luñcanaṁ kēśalōmnāṁ ca dantairdaśanamēva ca|
+
+
+[BLOCK 324: P]
+----------------------------------------------------------------------
+ātmaguptāvagharṣaśca hitaṁ tasyāvabōdhanē||47||
+
+
+[BLOCK 325: P]
+----------------------------------------------------------------------
+sammūrcchitāni tīkṣṇāni madyāni vividhāni ca|
+
+
+[BLOCK 326: P]
+----------------------------------------------------------------------
+prabhūtakaṭuyuktāni tasyāsyē gālayēnmuhuḥ||48||
+
+
+[BLOCK 327: P]
+----------------------------------------------------------------------
+mātuluṅgarasaṁ tadvanmahauṣadhasamāyutam|
+
+
+[BLOCK 328: P]
+----------------------------------------------------------------------
+tadvatsauvarcalaṁ dadyādyuktaṁ madyāmlakāñjikaiḥ||49||
+
+
+[BLOCK 329: P]
+----------------------------------------------------------------------
+hiṅgūṣaṇasamāyuktaṁ yāvat sañjñāprabōdhanam|
+
+
+[BLOCK 330: P]
+----------------------------------------------------------------------
+prabuddhasañjñamannaiśca laghubhistamupācarēt||50||
+
+
+[BLOCK 331: P]
+----------------------------------------------------------------------
+vismāpanaiḥ smāraṇaiśca priyaśrutibhirēva ca|
+
+
+[BLOCK 332: P]
+----------------------------------------------------------------------
+paṭubhirgītavāditraśabdaiścitraiśca darśanaiḥ||51||
+
+
+[BLOCK 333: P]
+----------------------------------------------------------------------
+sraṁsanōllēkhanairdhūmairañjanaiḥ kavalagrahaiḥ|
+
+
+[BLOCK 334: P]
+----------------------------------------------------------------------
+śōṇitasyāvasēkaiśca vyāyāmōdgharṣaṇaistathā||52||
+
+
+[BLOCK 335: P]
+----------------------------------------------------------------------
+prabuddhasañjñaṁ matimānanubandhamupakramēt|
+
+
+[BLOCK 336: P]
+----------------------------------------------------------------------
+tasya aṁrakṣitavyaṁ hi manaḥ pralayahētutaḥ||53||
+
+
+[BLOCK 337: P]
+----------------------------------------------------------------------
+doSheShu madamUrcchAyAH kRutavegeShu dehinAm|
+
+
+[BLOCK 338: P]
+----------------------------------------------------------------------
+svayamevopashAmyanti sannyAso nauShadhairvinA||42||
+
+
+[BLOCK 339: P]
+----------------------------------------------------------------------
+vAgdehamanasAM ceShTAmAkShipyAtibalA malAH|
+
+
+[BLOCK 340: P]
+----------------------------------------------------------------------
+sannyasyantyabalaM jantuM prANAyatanasaMshritAH||43||
+
+
+[BLOCK 341: P]
+----------------------------------------------------------------------
+sa nA sannyAsasannyastaH kAShThIbhUto mRutopamaH|
+
+
+[BLOCK 342: P]
+----------------------------------------------------------------------
+prANairviyujyate shIghraM muktvA sadyaHphalAH kriyAH||44||
+
+
+[BLOCK 343: P]
+----------------------------------------------------------------------
+durge~ambhasi yathA majjadbhAjanaM tvarayA budhaH|
+
+
+[BLOCK 344: P]
+----------------------------------------------------------------------
+gRuhNIyAttalamaprAptaM tathA sannyAsapIDitam||45||
+
+
+[BLOCK 345: P]
+----------------------------------------------------------------------
+a~jjanAnyavapIDAshca dhUmAH pradhamanAni ca|
+
+
+[BLOCK 346: P]
+----------------------------------------------------------------------
+sUcIbhistodanaM shastaM dAhaH pIDA nakhAntare||46||
+
+
+[BLOCK 347: P]
+----------------------------------------------------------------------
+lu~jcanaM keshalomnAM ca dantairdashanameva ca|
+
+
+[BLOCK 348: P]
+----------------------------------------------------------------------
+AtmaguptAvagharShashca hitaM tasyAvabodhane||47||
+
+
+[BLOCK 349: P]
+----------------------------------------------------------------------
+sammUrcchitAni tIkShNAni madyAni vividhAni ca|
+
+
+[BLOCK 350: P]
+----------------------------------------------------------------------
+prabhUtakaTuyuktAni tasyAsye gAlayenmuhuH||48||
+
+
+[BLOCK 351: P]
+----------------------------------------------------------------------
+mAtulu~ggarasaM tadvanmahauShadhasamAyutam|
+
+
+[BLOCK 352: P]
+----------------------------------------------------------------------
+tadvatsauvarcalaM dadyAdyuktaM madyAmlakA~jjikaiH||49||
+
+
+[BLOCK 353: P]
+----------------------------------------------------------------------
+hi~ggUShaNasamAyuktaM yAvat sa~jj~jAprabodhanam|
+
+
+[BLOCK 354: P]
+----------------------------------------------------------------------
+prabuddhasa~jj~jamannaishca laghubhistamupAcaret||50||
+
+
+[BLOCK 355: P]
+----------------------------------------------------------------------
+vismApanaiH smAraNaishca priyashrutibhireva ca|
+
+
+[BLOCK 356: P]
+----------------------------------------------------------------------
+paTubhirgItavAditrashabdaishcitraishca darshanaiH||51||
+
+
+[BLOCK 357: P]
+----------------------------------------------------------------------
+sraMsanollekhanairdhUmaira~jjanaiH kavalagrahaiH|
+
+
+[BLOCK 358: P]
+----------------------------------------------------------------------
+shoNitasyAvasekaishca vyAyAmodgharShaNaistathA||52||
+
+
+[BLOCK 359: P]
+----------------------------------------------------------------------
+prabuddhasa~jj~jaM matimAnanubandhamupakramet|
+
+
+[BLOCK 360: P]
+----------------------------------------------------------------------
+tasya saMrakShitavyaM hi manaH pralayahetutaH||53||
+
+
+[BLOCK 361: P]
+----------------------------------------------------------------------
+Mada and murchcha subside on their own when the vitiated doshas subside. However, sanyasa (coma) does not subside without medical treatment. In weak patients, when vitiated doshas move into a vital organ (i.e. brain and heart) and start affecting speech, physical movement, and the mind, coma ensues. A person affected with coma appears to be in a vegetative state or seems dead. Death can occur if prompt and effective treatment is not given. The physician should manage a comatose patient just as a wise person recovers a utensil sinking in deep water quickly before it settles down in the bottom.
+
+
+[BLOCK 362: P]
+----------------------------------------------------------------------
+To make someone recover from coma, the use of collyriums, drops, smokes, blowing, needling, burning, causing pain by making the patient lie on a nail-bed, plucking the hair on the head and body of the patient, biting the patient, rubbing with hairy fruits of atmagupta (Mucuna prurita Hook.) is recommended and considered effective. Besides, various types of strong alcoholic drinks mixed with plenty of pungent substances should be poured into the mouth of the patient suffering from murchcha (syncope). Similarly, the juice of matulunga rasa (citrus medica) mixed with dry ginger, sauvarchala (black salt), hingu (ie. resinous of material Ferula foetida Regel), wine, and sour juice or vinegar should be administered for helping someone regain consciousness.
+
+
+[BLOCK 363: P]
+----------------------------------------------------------------------
+When the patient regains consciousness, he should be given a light diet and should be entertained with interesting stories or anecdotes, memoirs, pleasing talks, enchanting songs, and live music, and colorful scenery. Moreover, he should be treated with purgation, emesis, smoking, collyriums, gargles, bloodletting, exercise and rubbing over the body. His mind should be protected well from the causes of distress or confusion. [42-53]
+
+
+[BLOCK 364: H3]
+----------------------------------------------------------------------
+Various treatments of mada and murchcha
+
+
+[BLOCK 365: P]
+----------------------------------------------------------------------
+स्नेहस्वेदोपपन्नानां यथादोषं यथाबलम्|
+
+
+[BLOCK 366: P]
+----------------------------------------------------------------------
+पञ्च कर्माणि कुर्वीत मूर्च्छायेषु मदेषु च||५४||
+
+
+[BLOCK 367: P]
+----------------------------------------------------------------------
+अष्टाविंशत्यौषधस्य तथा तिक्तस्य सर्पिषः|
+
+
+[BLOCK 368: P]
+----------------------------------------------------------------------
+प्रयोगः शस्यते तद्वन्महतः षट्पलस्य वा||५५||
+
+
+[BLOCK 369: P]
+----------------------------------------------------------------------
+त्रिफलायाः प्रयोगो वा सघृतक्षौद्रशर्करः|
+
+
+[BLOCK 370: P]
+----------------------------------------------------------------------
+शिलाजतुप्रयोगो वा प्रयोगः पयसोऽपि वा||५६||
+
+
+[BLOCK 371: P]
+----------------------------------------------------------------------
+पिप्पलीनां प्रयोगो वा पयसा चित्रकस्य वा|
+
+
+[BLOCK 372: P]
+----------------------------------------------------------------------
+रसायनानां कौम्भस्य सर्पिषो वा प्रशस्यते||५७||
+
+
+[BLOCK 373: P]
+----------------------------------------------------------------------
+रक्तावसेकाच्छास्त्राणां सतां सत्त्ववतामपि|
+
+
+[BLOCK 374: P]
+----------------------------------------------------------------------
+सेवनान्मदमूर्च्छायाः प्रशाम्यन्ति शरीरिणाम्||५८||
+
+
+[BLOCK 375: P]
+----------------------------------------------------------------------
+snēhasvēdōpapannānāṁ yathādōṣaṁ yathābalam|
+
+
+[BLOCK 376: P]
+----------------------------------------------------------------------
+pañca karmāṇi kurvīta mūrcchāyēṣu madēṣu ca||54||
+
+
+[BLOCK 377: P]
+----------------------------------------------------------------------
+aṣṭāviṁśatyauṣadhasya tathā tiktasya sarpiṣaḥ|
+
+
+[BLOCK 378: P]
+----------------------------------------------------------------------
+prayōgaḥ śasyatē tadvanmahataḥ ṣaṭpalasya vā||55||
+
+
+[BLOCK 379: P]
+----------------------------------------------------------------------
+triphalāyāḥ prayōgō vā saghr̥takṣaudraśarkaraḥ|
+
+
+[BLOCK 380: P]
+----------------------------------------------------------------------
+śilājatuprayōgō vā prayōgaḥ payasō'pi vā||56||
+
+
+[BLOCK 381: P]
+----------------------------------------------------------------------
+pippalīnāṁ prayōgō vā payasā citrakasya vā|
+
+
+[BLOCK 382: P]
+----------------------------------------------------------------------
+rasāyanānāṁ kaumbhasya sarpiṣō vā praśasyatē||57||
+
+
+[BLOCK 383: P]
+----------------------------------------------------------------------
+raktāvasēkācchāstrāṇāṁ satāṁ sattvavatāmapi|
+
+
+[BLOCK 384: P]
+----------------------------------------------------------------------
+sēvanānmadamūrcchāyāḥ praśāmyanti śarīriṇām||58||
+
+
+[BLOCK 385: P]
+----------------------------------------------------------------------
+snehasvedopapannAnAM yathAdoShaM yathAbalam|
+
+
+[BLOCK 386: P]
+----------------------------------------------------------------------
+pa~jca karmANi kurvIta mUrcchAyeShu madeShu ca||54||
+
+
+[BLOCK 387: P]
+----------------------------------------------------------------------
+aShTAviMshatyauShadhasya tathA tiktasya sarpiShaH|
+
+
+[BLOCK 388: P]
+----------------------------------------------------------------------
+prayogaH shasyate tadvanmahataH ShaTpalasya vA||55||
+
+
+[BLOCK 389: P]
+----------------------------------------------------------------------
+triphalAyAH prayogo vA saghRutakShaudrasharkaraH|
+
+
+[BLOCK 390: P]
+----------------------------------------------------------------------
+shilAjatuprayogo vA prayogaH payaso~api vA||56||
+
+
+[BLOCK 391: P]
+----------------------------------------------------------------------
+pippalInAM prayogo vA payasA citrakasya vA|
+
+
+[BLOCK 392: P]
+----------------------------------------------------------------------
+rasAyanAnAM kaumbhasya sarpiSho vA prashasyate||57||
+
+
+[BLOCK 393: P]
+----------------------------------------------------------------------
+raktAvasekAcchAstrANAM satAM sattvavatAmapi|
+
+
+[BLOCK 394: P]
+----------------------------------------------------------------------
+sevanAnmadamUrcchAyAH prashAmyanti sharIriNAm||58||
+
+
+[BLOCK 395: P]
+----------------------------------------------------------------------
+In the cases of mada and murchcha , patients should be subjected to five (evacuative) measures, after proper oleation and fomentation, according to the dosha and strength of the person and the disease. Likewise, the administration of paniya-kalyana ghrita , tiktashatpala ghrita or mahatikta ghrita is recommended. The use of triphala with ghrita , honey and sugar, shilajatu, milk, pippali (Piper longum) or chitraka (Plumbago zeylanica Linn.) with milk, rasayana, and kaumbha (ten year old) ghrita are also beneficial.
+
+
+[BLOCK 396: P]
+----------------------------------------------------------------------
+Mada and murchcha are alleviated by bloodletting and constantly keeping the patient regaled with anecdotes from the scriptures, and in the company of noble and intelligent persons. [54-58]
+
+
+[BLOCK 397: H3]
+----------------------------------------------------------------------
+Summary
+
+
+[BLOCK 398: P]
+----------------------------------------------------------------------
+तत्र श्लोकौ-
+
+
+[BLOCK 399: P]
+----------------------------------------------------------------------
+विशुद्धं चाविशुद्धं च शोणितं तस्य हेतवः|
+
+
+[BLOCK 400: P]
+----------------------------------------------------------------------
+रक्तप्रदोषजा रोगास्तेषु रोगेषु चौषधम्||५९||
+
+
+[BLOCK 401: P]
+----------------------------------------------------------------------
+मदमूर्च्छायसन्न्यासहेतुलक्षणभेषजम्|
+
+
+[BLOCK 402: P]
+----------------------------------------------------------------------
+विधिशोणितकेऽध्याये सर्वमेतत् प्रकाशितम्||६०||
+
+
+[BLOCK 403: P]
+----------------------------------------------------------------------
+tatra ślōkau-
+
+
+[BLOCK 404: P]
+----------------------------------------------------------------------
+viśuddhaṁ cāviśuddhaṁ ca śōṇitaṁ tasya hētavaḥ|
+
+
+[BLOCK 405: P]
+----------------------------------------------------------------------
+raktapradōṣajā rōgāstēṣu rōgēṣu cauṣadham||59||
+
+
+[BLOCK 406: P]
+----------------------------------------------------------------------
+madamūrcchāyasannyāsahētulakṣaṇabhēṣajam|
+
+
+[BLOCK 407: P]
+----------------------------------------------------------------------
+vidhiśōṇitakē'dhyāyē sarvamētat prakāśitam||60||
+
+
+[BLOCK 408: P]
+----------------------------------------------------------------------
+tatra shlokau-
+
+
+[BLOCK 409: P]
+----------------------------------------------------------------------
+vishuddhaM cAvishuddhaM ca shoNitaM tasya hetavaH|
+
+
+[BLOCK 410: P]
+----------------------------------------------------------------------
+raktapradoShajA rogAsteShu rogeShu cauShadham||59||
+
+
+[BLOCK 411: P]
+----------------------------------------------------------------------
+madamUrcchAyasannyAsahetulakShaNabheShajam|
+
+
+[BLOCK 412: P]
+----------------------------------------------------------------------
+vidhishoNitake~adhyAye sarvametat prakAshitam||60||
+
+
+[BLOCK 413: P]
+----------------------------------------------------------------------
+Now the (summing up) verses-
+
+
+[BLOCK 414: P]
+----------------------------------------------------------------------
+Characteristics of pure and impure blood, its causes, disorders of blood and their treatment, causes, symptoms and treatment of mada, murchcha and sanyasa – all this has been described in the chapter on properly formed blood etc.
+Diseases with variable state of consciousness, from confusion to coma have been described in this chapter. [59-60]
+
+
+[BLOCK 415: H2]
+----------------------------------------------------------------------
+Tattva Vimarsha (Fundamental Principles)
+
+
+[BLOCK 416: UL]
+----------------------------------------------------------------------
+1. Formation of pure blood depends upon the place, time, diet, and lifestyle. [3]
+2. Pureblood is one of ten vital components of the body. [4]
+3. Katu ,(pungent) amla (sour), lavana (salty), ushna (hot) foods, excessive anger, excessive food, exposure to sun & fire, trauma and autumn season are main causes of raktaja vikara. All diet and lifestyle factors responsible for pitta vitiation can cause vitiation of blood. [5-10]
+
+[REFERENCES / LINKS]
+raktaja : https://www.carakasamhitaonline.com/index.php?title=Rakta
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+
+
+[BLOCK 417: UL]
+----------------------------------------------------------------------
+1. Treatment of blood vitiation disorders is like raktapitta with purgation, fasting, and bloodletting. [18]
+2. The extent of bloodletting is decided according to the severity of the disease, location of the disease, and strength of the patient.[19]
+3. Vata and pitta increase bleeding and delay blood-clotting while kapha does the opposite.[20-21]
+4. A person should take digestion-enhancing diet consisting of shali (red rice), moong (green gram), etc. to strengthen digestive power after bloodletting. [23]
+5. Mada, murchcha , and sanyasa are caused due to vitiated doshas as well as rajas and tamas, which impair and obstruct rasavaha , raktavaha , and sangyavahi srotas . They are responsible for various states of consciousness. Altered sensorium and consciousness are caused by consumption of contaminated diet and conduct. Mind and body are equally involved in the pathology of intoxication, syncope, and coma. [25-29]
+6. Mada and madatyaya are clinically interchangeable. All types of narcosis and intoxication are caused by the vitiation of the three doshas .[34]
+7. Murchcha is a transient loss of consciousness with prodromal visual hallucinations specific to vata , pitta ,and kapha . [35-41]
+8. Mada and murchcha are mostly self-limiting conditions in which spontaneous recovery occurs most of the time. Sanyasa requires intensive management. [42-53]
+9. Purification of channels through Panchakarma is indicated before administration of drugs.[54-58]
+
+[REFERENCES / LINKS]
+Vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+rasavaha : https://www.carakasamhitaonline.com/index.php?title=Rasa
+raktavaha : https://www.carakasamhitaonline.com/index.php?title=Rakta
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+Panchakarma : https://www.carakasamhitaonline.com/index.php?title=Panchakarma
+
+
+[BLOCK 418: H2]
+----------------------------------------------------------------------
+Vidhi Vimarsha (Applied Inferences)
+
+
+[BLOCK 419: P]
+----------------------------------------------------------------------
+Chapter on formation of blood and its disorders (Vidhishonitiya Adhyaya)
+
+
+[BLOCK 420: P]
+----------------------------------------------------------------------
+Blood tissue ( rakta dhatu ) is essential component of life. It is continuously circulated throughout the body and supplies oxygen and nutrients to cells. Formation of blood mainly depends upon the food that is in accordance with the habitat (desha), season and time (kala) and suitability ( satmya ) of the individual. The normal formation and circulation of blood maintains equilibrium in the cardio-vascular system and end organs. Any kind of abnormality like impaired growth and development of blood cells, inflammation, trauma, changes in oncotic pressure, internal bleeding leads to disequilibrium and disease. Advanced modern technologies are helpful to identify and diagnose exact nature of abnormalities. However, the causative factors for these abnormalities need more research and analysis. This chapter opens new windows to learn about causes of abnormalities, non-invasive observational methods of assessment, its role in cerebrovascular disorders like syncope and coma.
+
+[REFERENCES / LINKS]
+rakta dhatu : https://www.carakasamhitaonline.com/index.php?title=Rakta_dhatu
+satmya : https://www.carakasamhitaonline.com/index.php?title=Satmya
+
+
+[BLOCK 421: H3]
+----------------------------------------------------------------------
+Examination of normal blood
+
+
+[BLOCK 422: P]
+----------------------------------------------------------------------
+The normalcy of blood is assessed on the basis of its observational features.
+
+
+[BLOCK 423: P]
+----------------------------------------------------------------------
+The normal blood resembles the color of heated red gold, firefly (indragopa), red lotus, lac (laksha) or Abrus precatorius fruit (gunja).[Cha.Sa. Sutra Sthana 24/22] As blood cells mature, their red color may change to different shades from heated gold to gunja color. Different dosha and body constitution (deha prakriti ) may also be responsible for different shades of red color of blood. [ 1 ] The color of human blood resembles to that of sheep and rabbit.
+
+[REFERENCES / LINKS]
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+prakriti : https://www.carakasamhitaonline.com/index.php?title=Prakriti
+[ 1 ] : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_note-1
+
+
+[BLOCK 424: H3]
+----------------------------------------------------------------------
+Characteristic features of a person with normal blood tissue
+
+
+[BLOCK 425: P]
+----------------------------------------------------------------------
+The person having normal blood, possesses good complexion, clarity of sense organs, cheerful nature, normal digestion, unobstructed natural urges and has good strength. [Cha.Sa. Sutra Sthana 24/24] It can be inferred that blood plays key role in maintaining these physiological functions.
+
+[REFERENCES / LINKS]
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+
+
+[BLOCK 426: P]
+----------------------------------------------------------------------
+Contemporary physiology states that the color of blood depends on hemoglobin percentage (Hb%). The clotting time represents coagulation, and packed cell volume etc.can be viewed in terms of thickness of blood. [ 2 ]
+
+[REFERENCES / LINKS]
+[ 2 ] : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_note-DhamleM-2
+
+
+[BLOCK 427: H3]
+----------------------------------------------------------------------
+Dosha specific features of blood
+
+[REFERENCES / LINKS]
+Dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 428: P]
+----------------------------------------------------------------------
+When the blood tissue is vitiated by dosha , it shows following features.
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 429: TABLE]
+----------------------------------------------------------------------
+[COMPLETE TABLE]
+
+Row 1:
+Column 1: Dosha
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Features
+  Type: th, Rowspan: 1, Colspan: 1
+
+Row 2:
+Column 1: Vata
+  Type: td, Rowspan: 1, Colspan: 1
+Column 2: Reddish, non-slimy, frothy and thin
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 3:
+Column 1: Pitta
+  Type: td, Rowspan: 1, Colspan: 1
+Column 2: Yellow/blackish, delayed coagulation
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 4:
+Column 1: Kapha
+  Type: td, Rowspan: 1, Colspan: 1
+Column 2: Slight pale, slimy, fibrous, viscous
+  Type: td, Rowspan: 1, Colspan: 1
+
+[REFERENCES / LINKS]
+Dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+Dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+Vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+Pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+Kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+
+
+[BLOCK 430: P]
+----------------------------------------------------------------------
+[Cha.Sa. Sutra Sthana 24/20]
+
+[REFERENCES / LINKS]
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+
+
+[BLOCK 431: P]
+----------------------------------------------------------------------
+If the blood is vitiated by more than one dosha , it shows mixed features. The features can be inferred on the basis of pathological parameters like packed cell volume, coagulations factors and viscosity. Robust research is required to establish the relation between dosha specific changes in blood tissue.
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 432: P]
+----------------------------------------------------------------------
+When the blood is vitiated, it can cause various diseases ranging from mouth ulcer to coma. [ 2 ]
+
+[REFERENCES / LINKS]
+[ 2 ] : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_note-DhamleM-2
+
+
+[BLOCK 433: H3]
+----------------------------------------------------------------------
+Causes of vitiation of blood
+
+
+[BLOCK 434: P]
+----------------------------------------------------------------------
+Dietary causes:
+
+
+[BLOCK 435: UL]
+----------------------------------------------------------------------
+1. Habitual intake of spoiled or unsuitable food and/or liquids
+2. Overeating
+3. Acidic or pungent liquor and other similar drinks
+4. Too much salty, alkaline substances, sour and pungent food
+5. Dolichos biflorus Linn. (Kulatha)
+6. Phaseolus mungo Linn. (Masha)
+7. Dolichos lablab Linn. (Nishpava)
+8. Sesamum indicum Linn. oils (Tila taila)
+9. Randia uliginosa DC. (Pindalu)
+10. Radish and all green (leafy) vegetables
+11. Meat of aquatic and marshy animals, burrowing animals and those animals that snatch birds
+12. Excessive intake of curd, sour whey (curd-water), vinegars and other sour fermented liquids
+13. Consuming decomposed, putrid food with contradictory properties
+14. Untreated indigestion
+15. Taking meal during indigestion
+
+
+[BLOCK 436: P]
+----------------------------------------------------------------------
+Lifestyle causes:
+
+
+[BLOCK 437: UL]
+----------------------------------------------------------------------
+1. Excessive sleeping during daytime especially after taking liquids, unctuous and heavy food
+2. Excessive exposure to the sun and wind
+3. Suppression of the natural urges like vomiting
+4. Avoidance of blood-letting at appropriate indicated time or in the autumn season when the blood is affected due to natural aggravation of pitta dosha
+5. Excess exertion
+6. Injury
+7. Exposure to heat
+
+[REFERENCES / LINKS]
+pitta dosha : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha
+
+
+[BLOCK 438: P]
+----------------------------------------------------------------------
+Mental factors:
+
+
+[BLOCK 439: UL]
+----------------------------------------------------------------------
+1. Excessive anger
+
+
+[BLOCK 440: P]
+----------------------------------------------------------------------
+Environmental conditions:
+
+
+[BLOCK 441: UL]
+----------------------------------------------------------------------
+1. Autumn season due to natural aggravation of pitta dosha [Cha.Sa. Sutra Sthana 24/5-10]
+
+[REFERENCES / LINKS]
+pitta dosha : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+
+
+[BLOCK 442: H3]
+----------------------------------------------------------------------
+Clinical features of abnormal blood
+
+
+[BLOCK 443: P]
+----------------------------------------------------------------------
+Abnormalities in the blood can be diagnosed by observing following clinical features in an individual. These features suggest involvement of organs and body systems affected by abnormal blood.
+
+
+[BLOCK 444: UL]
+----------------------------------------------------------------------
+1. Stomatitis
+2. Redness in eyes
+3. Foul smell in nose and mouth (halitosis)
+4. Abdominal lump (gulma)
+5. Gingivitis, periodontitis and tooth loss (upakusha)
+6. Erysipelas (visarpa)
+7. Bleeding disorders
+8. Sleepiness
+9. Abscess
+10. Hematuria
+11. Menorrhagia
+12. Vatarakta
+13. Discoloration of skin
+14. Poor digestive capacity
+15. Excess thirst
+16. Heaviness in body
+17. Increased body temperature and mental irritation
+18. Extreme debility
+19. Anorexia
+20. Headache
+21. Burning sensation after meals
+22. Bitter and sour eructation
+23. Physical and mental exhaustion
+24. Excessive anger
+25. State of confusion
+26. Saline taste in mouth
+27. Excess sweating
+28. Fetid body odor
+29. Narcosis or intoxication
+30. Tremors
+31. Feeble voice
+32. Drowsiness
+33. Hypersomnia
+34. Fainting and black outs
+35. Pruritus
+36. Pustules
+37. Boils
+38. Skin disorders
+39. Thick skin as in scleroderma and ichthyosis vulgaris
+40. All diseases that are not relieved by conventional treatment
+
+
+[BLOCK 445: H3]
+----------------------------------------------------------------------
+Principles of treatment
+
+
+[BLOCK 446: P]
+----------------------------------------------------------------------
+The principles of treatment of these conditions include one or all of the following depending upon the clinical condition.
+
+
+[BLOCK 447: UL]
+----------------------------------------------------------------------
+1. The principles applied for pacification of pitta dosha and rakta dhatu . These are described in management of bleeding disorders (raktapitta) in fourth chapter of section on therapeutics ( Chikitsa Sthana ).
+2. Therapeutic purgation ( virechana )
+3. Fasting (upavasa)
+4. Blood letting ( rakta mokshana )
+
+[REFERENCES / LINKS]
+pitta dosha : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha
+rakta dhatu : https://www.carakasamhitaonline.com/index.php?title=Rakta_dhatu
+Chikitsa Sthana : https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+rakta mokshana : https://www.carakasamhitaonline.com/index.php?title=Rakta_mokshana
+
+
+[BLOCK 448: H3]
+----------------------------------------------------------------------
+Intoxication (mada), Syncope (murchha) and Coma (sanyasa)
+
+
+[BLOCK 449: P]
+----------------------------------------------------------------------
+If these treatments are not followed at appropriate time, then the abnormal blood can lead to severe disorders like intoxication, syncope and coma. These three are progressive stages of diseases due to vitiation of blood. Intoxication (mada) state may arise due to consumption of alcohol, poisoning or due to vitiation of blood. The person may be semiconscious or in an altered state of consciousness. [Su.Sa.Sutra Sthana.11/19] [ 3 ] In murchcha, the person may be unconscious but involuntary physical movements might be present.[Su.Sa.Nidhana Sthana.1/23] [ 3 ] Sanyasa is a condition in which the person will remain unconscious and also there won’t be any physical movements.[Cha.Sa. Sharira Sthana 1/154]
+
+[REFERENCES / LINKS]
+[ 3 ] : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_note-Susruta-3
+[ 3 ] : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_note-Susruta-3
+Sharira Sthana : https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana
+
+
+[BLOCK 450: H4]
+----------------------------------------------------------------------
+Intoxication (mada)
+
+
+[BLOCK 451: H5]
+----------------------------------------------------------------------
+Pathogenesis
+
+
+[BLOCK 452: P]
+----------------------------------------------------------------------
+If an individual continuously indulges in stale foods and unhealthy/unhygienic habits, the dosha are vitiated at physical and mental level. His mind gets afflicted with raja and tama . The vitiated dosha obstructs channels carrying nutrient fluid ( rasa ), blood ( rakta ) and consciousness (sanjna). This causes altered state of consciousness resulting in intoxication (mada), syncope (murchcha) and coma (sanyasa). [Cha.Sa. Sutra Sthana 24/24-29] Weak minded persons are more susceptible if exposed to vitiation of tri dosha ( vata / pitta / kapha ) separately or in combination. [Cha.Sa. Sutra Sthana 24/28]
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+raja : https://www.carakasamhitaonline.com/index.php?title=Raja
+tama : https://www.carakasamhitaonline.com/index.php?title=Tama
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+rasa : https://www.carakasamhitaonline.com/index.php?title=Rasa
+rakta : https://www.carakasamhitaonline.com/index.php?title=Rakta
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+
+
+[BLOCK 453: H5]
+----------------------------------------------------------------------
+Stages of intoxication (mada)
+
+
+[BLOCK 454: P]
+----------------------------------------------------------------------
+Three stages of intoxication (mada) are mentioned. In initial stage the person will be over enthusiastic. [Su.Sa.Uttara Sthana. 47/11] [ 3 ] In the second stage person may talk irrelevantly and will be in delusion stage. In the final stage the person lies unconscious. He may loose his ability to perform any physical action. [Su.Sa.Uttara Sthana. 47/12] [ 3 ]
+
+[REFERENCES / LINKS]
+[ 3 ] : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_note-Susruta-3
+[ 3 ] : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_note-Susruta-3
+
+
+[BLOCK 455: H5]
+----------------------------------------------------------------------
+Types and dosha specific features of intoxication (mada)
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 456: TABLE]
+----------------------------------------------------------------------
+[COMPLETE TABLE]
+
+Row 1:
+Column 1: Dosha
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Features of intoxication
+  Type: th, Rowspan: 1, Colspan: 1
+
+Row 2:
+Column 1: Vata
+  Type: td, Rowspan: 1, Colspan: 1
+Column 2: Excessive and fast speech; unstable movements; rough, reddish or blackish skin discoloration
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 3:
+Column 1: Pitta
+  Type: td, Rowspan: 1, Colspan: 1
+Column 2: Angry; uses harsh words; quarrelsome; reddish, yellowish or blackish skin discoloration
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 4:
+Column 1: Kapha
+  Type: td, Rowspan: 1, Colspan: 1
+Column 2: Incoherent speech; drowsy and lethargic; pale appearance
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 5:
+Column 1: Sannipata
+  Type: td, Rowspan: 1, Colspan: 1
+Column 2: Mixed symptoms
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 6:
+Column 1: Blood ( rakta )
+  Type: td, Rowspan: 1, Colspan: 1
+Column 2: Stiffness of body parts, fixed gaze [A.Hr. Nidhana Sthana. 6/28] [ 4 ]
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 7:
+Column 1: Alcohol (madya)
+  Type: td, Rowspan: 1, Colspan: 1
+Column 2: Features similar to pitta dominant type, abnormal movements of body parts, abnormal speech, abnormal voice [A.Hr. Nidhana Sthana. 6/29] [ 4 ]
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 8:
+Column 1: Poison (visha)
+  Type: td, Rowspan: 1, Colspan: 1
+Column 2: Tremors and excessive sleep [A.Hr. Nidhana Sthana 6/29] [ 4 ]
+  Type: td, Rowspan: 1, Colspan: 1
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+Dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+Vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+Pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+Kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+Sannipata : https://www.carakasamhitaonline.com/index.php?title=Sannipata
+rakta : https://www.carakasamhitaonline.com/index.php?title=Rakta
+[ 4 ] : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_note-Hridaya-4
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+[ 4 ] : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_note-Hridaya-4
+[ 4 ] : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_note-Hridaya-4
+
+
+[BLOCK 457: P]
+----------------------------------------------------------------------
+[Cha.Sa. Sutra Sthana 24/30-33]
+
+[REFERENCES / LINKS]
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+
+
+[BLOCK 458: H5]
+----------------------------------------------------------------------
+Prognosis
+
+
+[BLOCK 459: P]
+----------------------------------------------------------------------
+Intoxication (mada) caused by poison is most difficult to treat among all types. [A.Hr. Nidhana Sthana 6/29] [ 4 ] The transient episodes of other types of intoxication (mada) and syncope (murchha) subside without any medical treatment. However, treatment is required to prevent recurrent episodes and progression in all these disorders.
+
+[REFERENCES / LINKS]
+[ 4 ] : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_note-Hridaya-4
+
+
+[BLOCK 460: H4]
+----------------------------------------------------------------------
+Syncope (murchha)
+
+
+[BLOCK 461: P]
+----------------------------------------------------------------------
+The obstruction of channel of consciousness by aggravated dosha lead to sudden aggravation of tamas . This results in cessation of feeling of happiness. The person falls down just like a log of wood. [Su.Sa.Uttara Sthana. 46/6] [ 3 ] This is a transient state of unconsciousness. The person awakes after the episode of aggravation of dosha is over.
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+tamas : https://www.carakasamhitaonline.com/index.php?title=Tamas
+[ 3 ] : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_note-Susruta-3
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 462: H5]
+----------------------------------------------------------------------
+Pathogenesis
+
+
+[BLOCK 463: P]
+----------------------------------------------------------------------
+Weak or emaciated person with excessive vitiation of dosha are susceptible. If these persons indulge in incompatible food, suppression of natural urges, or if afflicted by injuries; then the excessively aggravated dosha affect sensory organs and mind. This results in sudden loss of consciousness. [Su.Sa.Uttara Sthana.46/4] [ 3 ] The predominant dosha in the pathogenesis of murchha is pitta . [Su.Sa.Uttara Sthana.46/8] [ 3 ]
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+[ 3 ] : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_note-Susruta-3
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+[ 3 ] : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_note-Susruta-3
+
+
+[BLOCK 464: H5]
+----------------------------------------------------------------------
+Premonitory symptoms
+
+
+[BLOCK 465: P]
+----------------------------------------------------------------------
+Pain in chest, excessive yawning, exhaustion, loss of strength and consciousness. [Su.Sa.Uttara Sthana.46/5] [ 3 ]
+
+[REFERENCES / LINKS]
+[ 3 ] : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_note-Susruta-3
+
+
+[BLOCK 466: H5]
+----------------------------------------------------------------------
+Types and Features of Syncope (murchha)
+
+
+[BLOCK 467: TABLE]
+----------------------------------------------------------------------
+[COMPLETE TABLE]
+
+Row 1:
+Column 1: Types
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Features
+  Type: th, Rowspan: 1, Colspan: 1
+
+Row 2:
+Column 1: Vata dosha
+  Type: td, Rowspan: 1, Colspan: 1
+Column 2: Irregular and unpredictable pattern of unconsciousness. While losing consciousness, he may feel bluish, blackish or reddish discoloration of surroundings. [Cha.Sa. Sutra Sthana 24/35-36] Tremors, pain in chest and body ache may also present.
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 3:
+Column 1: Pitta dosha
+  Type: td, Rowspan: 1, Colspan: 1
+Column 2: Regains consciousness associated with sweating, feeling of warmth, thirst, reddish yellow discoloration of eyes and may pass loose stools. [Cha.Sa. Sutra Sthana 24/37-38][A.Hr. Nidhana Sthana 6/32] [ 4 ]
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 4:
+Column 1: Kapha dosha
+  Type: td, Rowspan: 1, Colspan: 1
+Column 2: Regains consciousness slowly, feels as if body is covered with thick blanket, salivation and nausea. [Cha.Sa. Sutra Sthana 24/39-40] [A.Hr. Nidhana Sthana 6/35] [ 4 ]
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 5:
+Column 1: Sannipata
+  Type: td, Rowspan: 1, Colspan: 1
+Column 2: Symptoms resembles epilepsy (apasmara) but devoid of irregular body movements. [Cha.Sa. Sutra Sthana 24/41][A.Hr. Nidhana Sthana 6/35] [ 4 ]
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 6:
+Column 1: Blood ( rakta )
+  Type: td, Rowspan: 1, Colspan: 1
+Column 2: Stiffness of body parts, fixed gaze and feeble respiration. [Su.Sa.Uttara Sthana 46/11] [ 3 ]
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 7:
+Column 1: Alcohol (Madya)
+  Type: td, Rowspan: 1, Colspan: 1
+Column 2: Irrelevant speech, altered state of mind, irregular movements of body parts. [Su.Sa.Uttara Sthana 46/12] [ 3 ]
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 8:
+Column 1: Visha
+  Type: td, Rowspan: 1, Colspan: 1
+Column 2: Tremors, sleep, thirst and body stiffness. [Su.Sa.Uttara Sthana 46/13] [ 3 ]
+  Type: td, Rowspan: 1, Colspan: 1
+
+[REFERENCES / LINKS]
+Vata dosha : https://www.carakasamhitaonline.com/index.php?title=Vata_dosha
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+Pitta dosha : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+[ 4 ] : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_note-Hridaya-4
+Kapha dosha : https://www.carakasamhitaonline.com/index.php?title=Kapha_dosha
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+[ 4 ] : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_note-Hridaya-4
+Sannipata : https://www.carakasamhitaonline.com/index.php?title=Sannipata
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+[ 4 ] : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_note-Hridaya-4
+rakta : https://www.carakasamhitaonline.com/index.php?title=Rakta
+[ 3 ] : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_note-Susruta-3
+[ 3 ] : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_note-Susruta-3
+[ 3 ] : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_note-Susruta-3
+
+
+[BLOCK 468: H4]
+----------------------------------------------------------------------
+Coma (sanyasa)
+
+
+[BLOCK 469: P]
+----------------------------------------------------------------------
+The excessively aggravated dosha affect speech, body and mind. They are lodged in heart (hridaya) and result in cessation of all body activities with absolute loss of consciousness. This condition is coma (sanyasa). [Cha.Sa. Sutra Sthana 24/42] This is a prolonged episode of unconsciousness.
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+
+
+[BLOCK 470: H5]
+----------------------------------------------------------------------
+Diagnostic tests
+
+
+[BLOCK 471: P]
+----------------------------------------------------------------------
+A variety of blood tests like complete blood count, blood smear, blood type, Coomb's test, blood culture, mixing study, bone marrow biopsy are available to diagnose the quality of blood tissue. Angiography, computed tomography scan, magnetic resonance imaging techniques are useful to diagnose abnormalities in blood vessels and blood circulation. Utilization of these diagnostic tools is helpful in knowing precise nature of pathological events in syncope and coma.
+
+
+[BLOCK 472: H5]
+----------------------------------------------------------------------
+Prognosis
+
+
+[BLOCK 473: P]
+----------------------------------------------------------------------
+Immediate medical intervention is needed for coma (sanyasa). [A.Hr. Nidhana Sthana 6/36] Medical treatment is required to prevent recurrent episodes of disease and correct vitiation of blood tissues.
+
+
+[BLOCK 474: P]
+----------------------------------------------------------------------
+Metabolic acidosis and alkalosis should be considered to gain an understanding of blood disorders (raktaja vikara). Electrolyte imbalances should be evaluated for the keen diagnosis of mada, murchcha, and sanyasa. [59-60]
+
+
+[BLOCK 475: H5]
+----------------------------------------------------------------------
+Management
+
+
+[BLOCK 476: P]
+----------------------------------------------------------------------
+The first aim of treatments mentioned are under emergency medical care is regaining consciousness. It includes stimulating and irritant therapies. Sensory stimuli by pricking with needle, applying potent collyrium etc. are used to check the level of consciousness. The drugs used are strong and penetrating in nature.
+
+
+[BLOCK 477: P]
+----------------------------------------------------------------------
+After regaining the consciousness, the treatment should be continued to prevent the remission. This includes purification procedures like emesis ( vamana ), purgation ( virechana ), bloodletting ( raktamoksha ) etc. After that rejuvenating therapy ( rasayana ) is also advised. Medicated ghee processed with herbs is used for this purpose. The lipoidal nature of ghee (cow’s ghee) makes it an effective vehicle for carrying the active principles of processed drugs and it can easily cross the blood brain barrier. [ 5 ]
+
+[REFERENCES / LINKS]
+vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+raktamoksha : https://www.carakasamhitaonline.com/index.php?title=Raktamoksha
+rasayana : https://www.carakasamhitaonline.com/index.php?title=Rasayana
+[ 5 ] : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_note-5
+
+
+[BLOCK 478: H3]
+----------------------------------------------------------------------
+Case reports
+
+
+[BLOCK 479: P]
+----------------------------------------------------------------------
+Case 1:
+
+
+[BLOCK 480: P]
+----------------------------------------------------------------------
+A sixty one year old female patient in state of coma was treated successively through Ayurveda treatment. Initially the GCS score of patient was 3. Nasal medication ( nasya ) with trikatu powder was administered for seven days followed by seven days of inhalation of medicated smoke (dhumapana). The GCS score was improved to 11 after the treatment. Smell sensation projects to higher cortical area and to the limbic system. Drugs administered in powder form may stimulate the limbic system, hypothalamus and thalamus. This in turn may activate the reticular activating system which provokes higher degree of consciousness. [ 6 ]
+
+[REFERENCES / LINKS]
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+nasya : https://www.carakasamhitaonline.com/index.php?title=Nasya
+[ 6 ] : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_note-6
+
+
+[BLOCK 481: P]
+----------------------------------------------------------------------
+Case 2:
+
+
+[BLOCK 482: P]
+----------------------------------------------------------------------
+An elderly male patient diagnosed with grade-3 hepatic encephalopathy in comatose state was treated with Ayurvedic medicines. The medicines like siddha makaradhwaja, brihad vata chintamani rasa, a proprietary syrup of extract of Phyllanthus niruri, and a proprietary syrup of hepatoprotective and cholegouge herbs were administered through Ryle's tube. Reorientation was started in the patient after 5 hours of initiation of the Ayurvedic therapy. The clinical parameters and pathological biomarkers gradually improved in a period of fifteen days. This case provides scope of ayurvedic interventions in critical care. [ 7 ]
+
+[REFERENCES / LINKS]
+[ 7 ] : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_note-7
+
+
+[BLOCK 483: P]
+----------------------------------------------------------------------
+Case 3, 4 and 5:
+
+
+[BLOCK 484: P]
+----------------------------------------------------------------------
+A case series on efficacy of functional medicine approach to treat traumatic brain injuries (TBI) was published. It included two cases of teenagers suffered TBI due to motor vehicle accidents in separate events. These patients showed significant improvement and recovered from comatose state after treatment through functional medicine approach. Another case of military veteran was diagnosed with post traumatic stress disorder (PTSD) and post concussion syndrome (PCS) due to blast injury. He completely recovered from PTSD with the help of hyperbaric oxygen therapy (HBOT). The functional medicine approach includes use of acupuncture, Ayurveda , chiropractic manipulation, detoxification programs, herbal and homeopathic supplements, specialized diets, massage, meditation and mindfulness practices, neurobiofeedback, nutritional supplements, t'ai chi, and yoga. Nutritional therapy and HBOT showed improvement in these cases. [ 8 ]
+
+[REFERENCES / LINKS]
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+[ 8 ] : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_note-8
+
+
+[BLOCK 485: P]
+----------------------------------------------------------------------
+Case 6:
+
+
+[BLOCK 486: P]
+----------------------------------------------------------------------
+A 68 year old male patient with a history of hypertension for 10 years, alcoholic liver disease, cirrhosis and adenocarcinoma stomach was treated with ayurvedic treatments. He was in comatose state after suffering from seizures, cerebrovascular stroke due to intracranial hemorrhage and hemiplegia. The patient was treated with medicines like Sutendra rasayana with honey, Arpisa rasayana, a combination of Phyllanthus emblica (dhatri), raktapachaka and Alhagi maurorum Medik.(dhamasa). Tapyadi loha, swarna raja vangeshwara rasa, haridra ghana, kukkuta nakhi, rasa sindura with honey. The patient regained consciousness in three to four days and was relived of major symptoms. He survived for more than one and half years. [ 9 ]
+
+[REFERENCES / LINKS]
+[ 9 ] : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_note-UpendraD-9
+
+
+[BLOCK 487: P]
+----------------------------------------------------------------------
+Case 7:
+
+
+[BLOCK 488: P]
+----------------------------------------------------------------------
+A thirty year old male patient suffered from road traffic accident. He was in coma due to traumatic brain injury. The injury included 10x,2x deep lacerated wound on right side forehead, brain contusion at frontal lobe and intraventricular bleeding on right side. In addition to the conventional treatment, the patient was treated with Ayurvedic medicines like Swarna sindoora (30 mg) mixed with haridra ghana and honey applying on gums of patient. The patient became semiconscious in two days and improved in orientation, too. The patient was further treated with Yogendra rasa (60 mg). He regained consciousness and recovered completely. [ 9 ]
+
+[REFERENCES / LINKS]
+[ 9 ] : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_note-UpendraD-9
+
+
+[BLOCK 489: P]
+----------------------------------------------------------------------
+Case 8:
+
+
+[BLOCK 490: P]
+----------------------------------------------------------------------
+A 43 year old male patient suffered from skull and facial bones fractures due to road traffic accident 10 years ago. He suffered from epilepsy and was taking treatment. The patient reported history of excess mental stress, excess fasting, anorexia and anger. He suffered from convulsions and became unconscious due to intracerebral hemorrhage of 7.9 x 5.6 cm size in right temporo-parietal region. The patient was treated with Ayurvedic medicines like Sindura bhushana mixed with Haridra ghana every four hourly applied on gums. Medicated water processed with gold (Suvarna siddha jala) and green gram soup was given to patient through Ryle’s tube. Jaymangal rasa and Guduchi ghana was added to treat fever. The fever subsided in one day and subsequently the patient started maintaining oxygen levels. The life support system was taken off. The orientation and consciousness improved significantly in a week of treatment. Arpisa rasayana, Jaymangal rasa, vara, and raktapachaka medicines were continued for next two weeks, till complete recovery of the patient. Significant clinical improvement in neurological functions were observed in this patient. [ 9 ]
+
+[REFERENCES / LINKS]
+[ 9 ] : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_note-UpendraD-9
+
+
+[BLOCK 491: H3]
+----------------------------------------------------------------------
+Effect of seasonal variations in blood physiology
+
+
+[BLOCK 492: P]
+----------------------------------------------------------------------
+A research work was conducted to study effect of seasonal variations on clinical features of blood vitiation described in this chapter. The research also included observations on hematological parameters. The study concluded that significant increase in clinical features of blood vitiation was observed in autumn season (sharad ritu) as compared to rainy season (varsha ritu) and early winters (hemant ritu). Mild seasonal variations were observed in hematological parameters like total red blood cells, white blood cell count, erythrocyte sedimentation rate, absolute eosinophil count, serum cholesterol. A large sample study is required to derive a concrete conclusion.
+
+
+[BLOCK 493: H3]
+----------------------------------------------------------------------
+Contemporary views
+
+
+[BLOCK 494: P]
+----------------------------------------------------------------------
+Advanced medical technology has enhanced the understanding of microscopic nature of blood tissue, its components and all physical characteristics. The features described in Ayurveda text describe macroscopic changes related to affecting dosha . However, there is much scope of research in bridging the gaps between concepts of these two biomedical sciences.
+
+[REFERENCES / LINKS]
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 495: P]
+----------------------------------------------------------------------
+Some researchers state that the clinical features are similar to the state of disorders due to change in blood pressure leading to hypertension. Some researchers opine that the pathogenesis and features of mada, murchcha and sanyasa show many similarities with shock due to severe hypotension. [ 10 ]
+
+[REFERENCES / LINKS]
+[ 10 ] : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_note-10
+
+
+[BLOCK 496: H3]
+----------------------------------------------------------------------
+Future research areas
+
+
+[BLOCK 497: UL]
+----------------------------------------------------------------------
+1. Role of causative factors described in this chapter in hematological disorders and disorders of cardio vascular system
+2. Understanding exact pathological and microscopic nature of vitiation of blood and relation with dosha specific changes
+3. Influence of seasonal changes on blood physiology
+4. Epigenetic changes in blood tissue and its patho-physiological understanding
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 498: H2]
+----------------------------------------------------------------------
+Related chapters
+
+
+[BLOCK 499: UL]
+----------------------------------------------------------------------
+1. Raktapitta Nidana
+2. Raktapitta Chikitsa
+3. Rakta dhatu
+4. Raktamokshana
+
+[REFERENCES / LINKS]
+Raktapitta Nidana : https://www.carakasamhitaonline.com/index.php?title=Raktapitta_Nidana
+Raktapitta Chikitsa : https://www.carakasamhitaonline.com/index.php?title=Raktapitta_Chikitsa
+Rakta dhatu : https://www.carakasamhitaonline.com/index.php?title=Rakta_dhatu
+Raktamokshana : https://www.carakasamhitaonline.com/index.php?title=Raktamokshana
+
+
+[BLOCK 500: P]
+----------------------------------------------------------------------
+Send us your suggestions and feedback on this page.
+
+[REFERENCES / LINKS]
+Send us your suggestions and feedback on this page. : https://www.carakasamhitaonline.com/index.php?title=Special:ContactMe
+
+
+[BLOCK 501: H2]
+----------------------------------------------------------------------
+References
+
+
+[BLOCK 502: OL]
+----------------------------------------------------------------------
+1. ↑ Shaikh Tahamim, Comparative study of Vidhisonitiyam adhyaya of Caraka Samhita and Sonitavarniniyam adhyaya of Susruta samhita with special reference to raktaprasadana and raktasarata. Department of Basic principles. IPGT&RA, GAU Jamnagar. 2014
+2. ↑ 2.0 2.1 Dhamle Madhumati, The study of yojana chatushka of Charaka and yojana for the management of Raktasrita vyadi (Hypertension). Department of Basic principles. IPGT&RA, GAU Jamnagar. 2001
+3. ↑ 3.00 3.01 3.02 3.03 3.04 3.05 3.06 3.07 3.08 3.09 3.10 Sushruta. Sushruta Samhita. Edited by Jadavaji Trikamji Aacharya. 8th ed. Varanasi: Chaukhambha Orientalia;2005.
+4. ↑ 4.0 4.1 4.2 4.3 4.4 4.5 4.6 Vagbhata. Ashtanga Hridayam. Edited by Harishastri Paradkar Vaidya. 1st ed. Varanasi: Krishnadas Academy;2000.
+5. ↑ Karandikar YS, Bansude AS, Angadi EA. Comparison between the Effect of Cow Ghee and Butter on Memory and Lipid Profile of Wistar Rats. J Clin Diagn Res. 2016;10(9):FF11-FF15. doi:10.7860/JCDR/2016/19457.8512
+6. ↑ Rajkala SR, PD Patil, AB Thakar. Efficacy of Nasya (nasal medication) in coma: A case study. Ans Sci Life. 2016 Apr-Jun;35(4):232-5. Doi: 10.4103/0257-7941. 188188.
+7. ↑ Rastogi S, Srivastav PS. Ayurveda in critical care: Illustrating Ayurvedic intervention in a case of hepatic encephalopathy. Ayu. 2011;32(3):345-348. doi:10.4103/0974-8520.93911
+8. ↑ Richer AC. Functional Medicine Approach to Traumatic Brain Injury. Med Acupunct. 2017;29(4):206-214. doi:10.1089/acu.2017.1217
+9. ↑ 9.0 9.1 9.2 Dixit Upendra. Video lecture on management of emergency conditions through Ayurveda delivered on October 09, 2021 available from https://fb.watch/8KdF2UmL_8/
+10. ↑ Soumya P. Viswan, Rashmi R. A critical review on hypotension and its management from Ayurvedic perspective. Int. J. Res. Ayurveda Pharm. 2020;11(5):114-120 http://dx.doi.org/10.7897/2277-4343.1105152
+
+[REFERENCES / LINKS]
+↑ : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_ref-1
+2.0 : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_ref-DhamleM_2-0
+2.1 : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_ref-DhamleM_2-1
+3.00 : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_ref-Susruta_3-0
+3.01 : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_ref-Susruta_3-1
+3.02 : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_ref-Susruta_3-2
+3.03 : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_ref-Susruta_3-3
+3.04 : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_ref-Susruta_3-4
+3.05 : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_ref-Susruta_3-5
+3.06 : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_ref-Susruta_3-6
+3.07 : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_ref-Susruta_3-7
+3.08 : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_ref-Susruta_3-8
+3.09 : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_ref-Susruta_3-9
+3.10 : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_ref-Susruta_3-10
+4.0 : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_ref-Hridaya_4-0
+4.1 : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_ref-Hridaya_4-1
+4.2 : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_ref-Hridaya_4-2
+4.3 : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_ref-Hridaya_4-3
+4.4 : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_ref-Hridaya_4-4
+4.5 : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_ref-Hridaya_4-5
+4.6 : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_ref-Hridaya_4-6
+↑ : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_ref-5
+↑ : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_ref-6
+↑ : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_ref-7
+↑ : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_ref-8
+9.0 : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_ref-UpendraD_9-0
+9.1 : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_ref-UpendraD_9-1
+9.2 : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_ref-UpendraD_9-2
+https://fb.watch/8KdF2UmL_8/ : https://fb.watch/8KdF2UmL_8/
+↑ : https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya#cite_ref-10
+http://dx.doi.org/10.7897/2277-4343.1105152 : http://dx.doi.org/10.7897/2277-4343.1105152
+
+
+[BLOCK 503: P]
+----------------------------------------------------------------------
+
+
+
+[BLOCK 504: TEXT]
+----------------------------------------------------------------------
+Back to the Top
+
+
+[BLOCK 505: TEXT]
+----------------------------------------------------------------------
+NewPP limit report
+Cached time: 20261102070913
+Cache expiry: 86400
+Reduced expiry: false
+Complications: [vary‐revision‐id, show‐toc]
+CPU time usage: 0.102 seconds
+Real time usage: 0.292 seconds
+Preprocessor visited node count: 663/1000000
+Post‐expand include size: 2607/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 3/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 9414/5000000 bytes
+Lua time usage: 0.070/7 seconds
+Lua virtual size: 20340736/209715200 bytes
+Lua estimated memory usage: 0 bytes
+
+
+[BLOCK 506: TEXT]
+----------------------------------------------------------------------
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 202.061 1 -total
+92.61% 187.130 1 Template:Infobox
+0.81% 1.627 1 Template:CiteButton
+
+
+[BLOCK 507: TEXT]
+----------------------------------------------------------------------
+Saved in parser cache with key carakas1_carakasa:pcache:idhash:80-0!canonical and timestamp 20261102070913 and revision id 44981. Rendering was triggered because: diff-page
+
+
+[BLOCK 508: TEXT]
+----------------------------------------------------------------------
+Retrieved from "
+
+
+[BLOCK 509: TEXT]
+----------------------------------------------------------------------
+https://www.carakasamhitaonline.com/index.php?title=Vidhishonitiya_Adhyaya&oldid=44981
+
+
+[BLOCK 510: TEXT]
+----------------------------------------------------------------------
+"
+
+
+==========================================================================================
+END OF CHAPTER
+==========================================================================================

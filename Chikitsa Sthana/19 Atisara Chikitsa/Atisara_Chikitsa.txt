@@ -1,0 +1,2678 @@
+================================================================================
+CHARAKA SAMHITA
+ATISARA CHIKITSA
+================================================================================
+
+Source URL: https://www.carakasamhitaonline.com/index.php?title=Atisara_Chikitsa
+
+
+--------------------------------------------------------------------------------
+
+ATISARA CHIKITSA
+
+--------------------------------------------------------------------------------
+
+
+
+--------------------------------------------------------------------------------
+
+Chikitsa Sthana Chapter 19. Management of Atisara (diarrhea and associated disorders)
+
+--------------------------------------------------------------------------------
+
+[TABLE]
+Section/Chapter | Chikitsa Sthana Chapter 19
+Preceding Chapter | Kasa Chikitsa
+Succeeding Chapter | Chhardi Chikitsa
+Other Sections | Sutra Sthana , Nidana Sthana , Vimana Sthana , Sharira Sthana , Indriya Sthana , Kalpa Sthana , Siddhi Sthana
+Translator and commentator | Byadgi P.S., Dube N.
+Reviewer | Prasad B.S.
+Editors | Singh G., Goyal M., Deole Y.S. , Basisht G.
+Year of publication | 2020
+Publisher | Charak Samhita Research, Training and Skill Development Centre
+DOI | 10.47468/CSNE.2020.e01.s06.020
+
+--------------------------------------------------------------------------------
+
+Abstract
+
+--------------------------------------------------------------------------------
+
+The chapter on Atisara Chikitsa (management of diarrhea) traces the historical origin of the disorder since the Vedic period and attributes it to eating of heavy and hot foods specially meat products. There are six types of diarrhea, three of which are caused by single dosha ( vataja , pittaja and kaphaja ) while a fourth is caused by the combination of all the three dosha . The fifth and sixth types are caused due to psychological factors such as fear and grief. Some of these variants could be further classified based on their constituents, e.g., vataja atisara (diarrhea caused due to vata dosha ) is further divided into ama and nirama atisara (with or without mucoid substances diarrhea) and it has been emphasized not to stop the lose motions in initial or ama stage. The etiology, pathology, signs and symptoms of each of these six types of diarrhea, along with their prognosis have been detailed here.The principles of treatment and complications associated with diarrhea, such as bleeding, suppuration, ulceration and prolapsed anus are also described along with various measures to tackle the problems effectively. Sangrahi (astringent or anti-diarrheals) therapies are not advisable in the initial stage of the disease because of presence of ama inside the body. Instead, mild laxative should be given to eliminate the accumulated dosha . Diarrhea should be allowed to continue and should not be stopped by constipating or bowel binding drugs. The patients shall be managed with light to digest, nutritive and liquid diet regimen which enhances the power of agni as well as it helps to stop diarrhea.
+
+--------------------------------------------------------------------------------
+
+Keywords : atisara, diarrhea, ama, nirama, sangrahi treatment, pichcha basti .
+
+--------------------------------------------------------------------------------
+
+
+
+--------------------------------------------------------------------------------
+
+CONTENTS
+
+--------------------------------------------------------------------------------
+
+[UL]
+• 1 Introduction
+• 2 Sanskrit Text, Transliteration and English Translation 2.1 Query by Agnivesha 2.2 Historical origins of atisara 2.3 Vataja atisara 2.4 Pittaja atisara 2.5 Kaphaja atisara 2.6 Sannipataja atisara 2.7 Signs and symptoms of sannipataja atisara 2.8 Guidelines for starting treatment 2.9 Exogenous (psychological) diarrhea 2.10 Management of exogenous (psychological) diarrhea 2.11 Principles of treatment 2.12 Recipes of pramathya 2.13 Diet and drinks for atisara patient 2.14 Treatment of vataja atisara 2.15 Management of diarrhea associated with pain 2.16 Treatment of pravahika (dysentery) 2.17 Treatment of varcha-kshaya (scanty formation of stool) 2.18 Treatment of prolapse of rectum 2.19 Changeri ghritam 2.20 Chavyadi ghritam 2.21 Anuvasana basti in prolapse of rectum 2.22 Management of strangulated prolapsed rectum 2.23 Use of medicated milk 2.24 Treatment of pittaja atisara 2.25 Recipes for pittaja atisara 2.26 Administration of milk 2.27 Piccha basti (slimy medicated enema) 2.28 Raktatisara (bloody diarrhoea) 2.29 Treatment of raktatisara 2.30 Measures to alleviate bleeding in raktatisara 2.31 Treatment of sannipataja atisara 2.32 Hemostatic recipes 2.33 Treatment of anal suppuration 2.34 Pichcha-basti(mucilaginous enema) for dysentery 2.35 Medicated enema and recipes of linctus 2.36 Suppuration of anal sphincters 2.37 Treatment of kaphaja atisara 2.38 Management of complications of atisara 2.39 Piccha-basti and anuvasana-basti 2.40 Need for immediate control of vata 2.41 Principle of treatment of sannipataja atisara 2.42 Summary
+• 3 Tattva Vimarsha (Fundamental Principles)
+• 4 Vidhi Vimarsha (Applied Inferences ) 4.1 Acute (sudden onset) diarrhea 4.2 Chronic (or relapsing) diarrhea [ 1 ] 4.3 Pathophysiological factors of endogenous diarrhea 4.4 Management protocol of endogenous diarrhea 4.4.1 Assessment of strength of patient 4.4.2 Subjective and objective parameters 4.5 Prevention of atisara 4.5.1 Atisara can be prevented by following measures 4.5.2 Current clinical management in Ayurveda practice 4.5.3 Researches on atisara and medicines 4.6 Management of exogenous diarrhea/ atisara 4.7 Important guidelines and precautions for diarrhea management 4.8 List of research on review of atisara 4.9 Research Areas 4.10 Further reading
+• 5 References
+
+--------------------------------------------------------------------------------
+
+INTRODUCTION
+
+--------------------------------------------------------------------------------
+
+Grahani and atisara - both manifest due to the vitiation of agni and share common features of impairment of digestion resulting in indigestion and loose motions. Therefore, this chapter should logically precede or succeed the chapter on grahani . But it is described three chapters after that on grahani . The reason for this unusual sequencing of these topics is that since pandu is a common symptom and sequelae of the malabsorption syndrome ( grahani ), the chapter on pandu follows grahani . Now, dyspnea ( shwasa ) is a major symptom of pandu, and thus, follows the chapter on pandu . Similarly, chapter on kasa (cough) follows shwasa because of their relationship. That explains the sequencing of grahani and atisara in Charak Samhita .
+
+--------------------------------------------------------------------------------
+
+Ayurveda considers atisara as a defense mechanism of the body to eject out any toxic material from it. Therefore, it is recommended that in amaja (or initial) state loose motions should not be checked. After evacuation of toxins from the body, fasting and digestive drugs are prescribed as a cure for milder forms of diarrhea. However, for other types of diarrhea, various preparations, diet and basti are advised. Piccha basti (mucilegue type of medicated enema) is prescribed particularly if blood accompanies the stool. Appropriate treatments for ulcer, suppuration of anus and prolapse of anus are dealt with, since these accompany the more complex forms of diarrhea.
+
+--------------------------------------------------------------------------------
+
+Atisara leads to the depletion of water and beneficial salts, causing dehydration in the body. This provokes vata , and therefore requires taking special care of vata , particularly if, the atisara is caused by all the three dosha . Hydration of the body by means of oral administration of milk, buttermilk and various liquid preparations is advised. Goat’s milk is very useful in bloody diarrhea.The treatment of cholera and other dehydrating diarrheal diseases was revolutionized by the promotion of oral rehydration solution (ORS), the efficacy of which depends on the fact that glucose-facilitated absorption of sodium and water in the small intestine remains intact in the presence of cholera toxin. Where indicated, appropriate antimicrobial agents can shorten the duration of illness from 3–4 days to 24–36 h, hence it should be started depending on the course of illness. Adequate prophylaxis measures should be taken to prevent the infectious diarrhoea.
+
+--------------------------------------------------------------------------------
+
+SANSKRIT TEXT, TRANSLITERATION AND ENGLISH TRANSLATION
+
+--------------------------------------------------------------------------------
+
+अथातोऽतीसारचिकित्सितं व्याख्यास्यामः||१||
+
+--------------------------------------------------------------------------------
+
+इति ह स्माह भगवानात्रेयः||२||
+
+--------------------------------------------------------------------------------
+
+athātō'tīsāracikitsitaṁ vyākhyāsyāmaḥ||1||
+
+--------------------------------------------------------------------------------
+
+iti ha smāha bhagavānātrēyaḥ||2||
+
+--------------------------------------------------------------------------------
+
+athAto~atIsAracikitsitaM vyAkhyAsyAmaH||1||
+
+--------------------------------------------------------------------------------
+
+iti ha smAha bhagavAnAtreyaH||2||
+
+--------------------------------------------------------------------------------
+
+Now we shall expound the chapter "Atisara chikitsa" (Management of diarrhea and associated disorders). Thus said Lord Atreya. [1-2]
+
+--------------------------------------------------------------------------------
+
+QUERY BY AGNIVESHA
+
+--------------------------------------------------------------------------------
+
+भगवन्तंखल्वात्रेयंकृताह्निकंहुताग्निहोत्रमासीनमृषिगणपरिवृतमुत्तरेहिमवतःपार्श्वेविनयादुपेत्याभिवाद्यचाग्निवेशउवाच-
+भगवन्! अतीसारस्यप्रागुत्पत्तिनिमित्तलक्षणोपशमनानिप्रजानुग्रहार्थमाख्यातुमर्हसीति ||३||
+
+--------------------------------------------------------------------------------
+
+bhagavantaṁ khalvātrēyaṁ kr̥tāhnikaṁ hutāgnihōtramāsīnamr̥ṣigaṇaparivr̥tamuttarē himavataḥ pārśvēvinayādupētyābhivādya cāgnivēśa uvāca
+bhagavan! atīsārasya prāgutpattinimittalakṣaṇōpaśamanāniprajānugrahārthamākhyātumarhasīti||3||
+
+--------------------------------------------------------------------------------
+
+bhagavantaM khalvAtreyaM kRutAhnikaM hutAgnihotramAsInamRuShigaNaparivRutamuttare himavataHpArshve vinayAdupetyAbhivAdya cAgnivesha uvAca-
+bhagavan! atIsArasyaprAgutpattinimittalakShaNopashamanAni prajAnugrahArthamAkhyAtumarhasIti||3||
+
+--------------------------------------------------------------------------------
+
+On one occasion, when Lord Atreya was sitting on the northern slope of the Himalayas surrounded by the sages after completing his daily worship and oblations to the fire, Agnivesha approached him, offered his humble salutations to him, and requested him to expound the origin, etiology, signs and symptoms, and treatment of atisara (diarrhea) for the well-being of humanity [3]
+
+--------------------------------------------------------------------------------
+
+HISTORICAL ORIGINS OF ATISARA
+
+--------------------------------------------------------------------------------
+
+अथभगवान्पुनर्वसुरात्रेयस्तदग्निवेशवचनमनुनिशम्योवाच- श्रूयतामग्निवेश! सर्वमेतदखिलेनव्याख्यायमानम् | आदिकालेखलुयज्ञेषुपशवःसमालभनीयाबभूवुर्नालम्भायप्रक्रियन्तेस्म | ततोदक्षयज्ञंप्रत्यवरकालंमनोःपुत्राणांनरिष्यन्नाभागेक्ष्वाकुनृगशर्यात्यादीनांक्रतुषुपशूनामेवाभ्यनुज्ञानात्पशवःप्रोक्षणमवापुः | अतश्चप्रत्यवरकालंपृषध्रेणदीर्घसत्रेणयजतापशूनामलाभाद्गवामालम्भःप्रवर्तितः | तंदृष्ट्वाप्रव्यथिताभूतगणाः, तेषांचोपयोगादुपाकृतानांगवांगौरवादौष्ण्यादसात्म्यत्वादशस्तोपयोगाच्चोपहताग्नीनामुपहतमनसां[१]चातीसारःपूर्वमुत्पन्नःपृषध्रयज्ञे ||४||
+
+--------------------------------------------------------------------------------
+
+atha bhagavān punarvasurātrēyastadagnivēśavacanamanuniśamyōvāca- śrūyatāmagnivēśa!sarvamētadakhilēna vyākhyāyamānam| ādikālē khalu yajñēṣu paśavaḥ samālabhanīyā babhūvurnālambhāya prakriyantē sma| tatō dakṣayajñaṁ pratyavarakālaṁ manōḥ putrāṇāṁ nariṣyannābhāgēkṣvākunr̥gaśaryātyādīnāṁ kratuṣupaśūnāmēvābhyanujñānāt paśavaḥ prōkṣaṇamavāpuḥ| ataśca pratyavarakālaṁ pr̥ṣadhrēṇa dīrghasatrēṇa yajatā paśūnāmalābhādgavāmālambhaḥ pravartitaḥ| taṁ dr̥ṣṭvā pravyathitā bhūtagaṇāḥ, tēṣāṁ cōpayōgādupākr̥tānāṁ gavāṁgauravādauṣṇyādasātmyatvādaśastōpayōgāccōpahatāgnīnāmupahatamanasāṁ [1] cātīsāraḥpūrvamutpannaḥ pr̥ṣadhrayajñē||4||
+
+--------------------------------------------------------------------------------
+
+atha bhagavAn punarvasurAtreyastadagniveshavacanamanunishamyovAca- shrUyatAmagnivesha!sarvametadakhilena vyAkhyAyamAnam| AdikAle khalu yaj~jeShu pashavaH samAlabhanIyA babhUvurnAlambhAya prakriyante sma| tato dakShayaj~jaM pratyavarakAlaM manoH putrANAMnariShyannAbhAgekShvAkunRugasharyAtyAdInAM kratuShu pashUnAmevAbhyanuj~jAnAt pashavaHprokShaNamavApuH| atashca pratyavarakAlaM pRuShadhreNa dIrghasatreNa yajatA pashUnAmalAbhAdgavAmAlambhaHpravartitaH| taM dRuShTvA pravyathitA bhUtagaNAH, teShAM copayogAdupAkRutAnAM gavAMgauravAdauShNyAdasAtmyatvAdashastopayogAccopahatAgnInAmupahatamanasAM [1] cAtIsAraHpUrvamutpannaH pRuShadhrayaj~je||4||
+
+--------------------------------------------------------------------------------
+
+After consideration of the above submission of Agnivesha, Lord Punarvasu said, “O Agnivesha, listen to me. I shall give a detailed response to your question.
+
+--------------------------------------------------------------------------------
+
+In the Vedic age/ancient times, sacrificial animals used to get released in the wild soon after the recitation of the sacrificial mantras, and these animals were not killed during the course of the sacrifice ( yajna ). However, in the subsequent periods following the reign of Daksha Prajapati, the sons of Manu named Narishyana, Nabhag, Ikshvaku, Nriga, and Sharyati, sacrifice of these animals became a part of the yajna (sacrificial ritual) at their instinctive acquiescence. After that, during the sacrifice over a long course of time performed by Prushadra (name of a king), as goats were not obtainable, even the sacred cows were also offered up for sacrifice. This deviation bewildered (or disturbed) all of humanity leading to grief. When the flesh of these sanctified cows were eaten, by the heavy, hot and incompatible to human nature properties of their flesh, as well as the use of what was not prescribed by the scriptures, the people started suffering from the loss of their ability to digest and losing their mental equilibrium, resulting in atisara (diarrhea). Thus, diarrhea originated from the yajna performed by Prushadhra [4]
+
+--------------------------------------------------------------------------------
+
+VATAJA ATISARA
+
+--------------------------------------------------------------------------------
+
+अथावरकालंवातलस्यवातातपव्यायामात्रनिषेविणोरूक्षाल्पप्रमिताशिनस्तीक्ष्णमद्यव्यवायनित्यस्योदावर्तयतश्चवेगान्वायुःप्रकोपमापद्यते, पक्ताचोपहन्यते; सवायुःकुपितोऽग्नावुपहतेमूत्रस्वेदौपुरीषाशयमुपहृत्य, ताभ्यांपुरीषंद्रवीकृत्य, अतीसारायप्रकल्पते | तस्यरूपाणि- विज्जलमामंविप्लुतमवसादिरूक्षंद्रवंसशूलमामगन्धमीषच्छब्दमशब्दंवाविबद्धमूत्रवातमतिसार्यतेपुरीषं, वायुश्चान्तःकोष्ठेसशब्दशूलस्तिर्यक्चरतिविबद्धइत्यामातिसारोवातात् | पक्वंवाविबद्धमल्पाल्पंसशब्दंसशूलफेनपिच्छापरिकर्तिकंहृष्टरोमाविनिःश्वसञ्शुष्कमुखःकट्यूरुत्रिकजानुपृष्ठपार्श्वशूलीभ्रष्टगुदोमुहुर्मुहुर्विग्रथितमुपवेश्यतेपुरीषंवातात्; तमाहुरनुग्रथितमित्येके, वातानुग्रथितवर्चस्त्वात् ||५||
+
+--------------------------------------------------------------------------------
+
+athāvarakālaṁ vātalasya vātātapavyāyāmātimātraniṣēviṇōrūkṣālpapramitāśinastīkṣṇamadyavyavāyanityasyōdāvartayataśca vēgān vāyuḥ prakōpamāpadyatē, paktācōpahanyatē; sa vāyuḥ kupitō'gnāvupahatē mūtrasvēdau purīṣāśayamupahr̥tya, tābhyāṁ purīṣaṁdravīkr̥tya, atīsārāya prakalpatē| tasya rūpāṇivijjalamāmaṁ viplutamavasādi rūkṣaṁ dravaṁ saśūlamāmagandhamīṣacchabdamaśabdaṁvā vibaddhamūtravātamatisāryatē purīṣaṁ, vāyuścāntaḥkōṣṭhē saśabdaśūlastiryak carati vibaddhaityāmātisārō vātāt| pakvaṁ vā vibaddhamalpālpaṁ saśabdaṁ saśūlaphēnapicchāparikartikaṁ hr̥ṣṭarōmā viniḥśvasañśuṣkamukhaḥ kaṭyūrutrikajānupr̥ṣṭhapārśvaśūlī bhraṣṭagudō muhurmuhurvigrathitamupavēśyatē purīṣaṁvātāt; tamāhuranugrathitamityēkē, vātānugrathitavarcastvāt||5||
+
+--------------------------------------------------------------------------------
+
+athAvarakAlaM vAtalasya vAtAtapavyAyAmAtimAtraniSheviNorUkShAlpapramitAshinastIkShNamadyavyavAyanityasyodAvartayatashca vegAn vAyuHprakopamApadyate, paktA copahanyate; sa vAyuH kupito~agnAvupahate mUtrasvedaupurIShAshayamupahRutya, tAbhyAM purIShaM dravIkRutya, atIsArAya prakalpate| tasya rUpANi- vijjalamAmaM viplutamavasAdi rUkShaM dravaMsashUlamAmagandhamIShacchabdamashabdaM vA vibaddhamUtravAtamatisAryate purIShaM,vAyushcAntaHkoShThe sashabdashUlastiryak carati vibaddha ityAmAtisAro vAtAt| pakvaM vA vibaddhamalpAlpaM sashabdaM sashUlaphenapicchAparikartikaM hRuShTaromA viniHshvasa~jshuShkamukhaH kaTyUrutrikajAnupRuShThapArshvashUlI bhraShTagudomuhurmuhurvigrathitamupaveshyate purIShaM vAtAt; tamAhuranugrathitamityeke,vAtAnugrathitavarcastvAt||5||
+
+--------------------------------------------------------------------------------
+
+[UL]
+• Vata dominant atisara occurs if a person with vata dominant constitution indulges in following: Exposure to strong wind, excess sunlight, and physical exercise;
+• Indulgence in dry and rough or less quantities of food ( pramitashana ) or irregular meals or strong alcoholic drinks or excessive sexual intercourse; and
+• Suppression of natural urges.
+
+--------------------------------------------------------------------------------
+
+The above factors aggravate vata , afflicting the power of digestion (or, reducing the agni ). With the depletion of agni , the aggravated vata forces urine and sweat to the colon ( purishashaya ), liquefying the stool and manifesting vataja atisara.
+
+--------------------------------------------------------------------------------
+
+Vataja amaja atisara (early stages of vataja atisara):
+
+--------------------------------------------------------------------------------
+
+The early signs and symptoms of vataja amaja atisara are as follows:
+
+--------------------------------------------------------------------------------
+
+[UL]
+• The stool is slimy and has mucus ( ama );
+• The stool floats on water;
+• The stool, when placed over the earth, gets soaked;
+• The stool is rough (i.e., not oily) and liquid;
+• Evacuation of stool is accompanied with colic pain;
+• The stool smells like undigested food;
+• Evacuation of stool is associated with little or no sound;
+• Evacuation of the stool is not accompanied with flatus and urine; and
+• The aggravated vata (flatus) moves in the koshtha (gastrointestinal tract) obliquely along with gurgling sound, causing colic pain.
+
+--------------------------------------------------------------------------------
+
+The above mentioned signs and symptoms pertain to the ama stage (primary or immature stage) of the vataja atisara.
+
+--------------------------------------------------------------------------------
+
+Vataja niramaja atisara (advanced stage of vataja atisara):
+
+--------------------------------------------------------------------------------
+
+In the pakva stage (advanced or mature stage) of vataja atisara, the signs and symptoms manifested are as follows:
+
+--------------------------------------------------------------------------------
+
+[UL]
+• The patient evacuates hard stool in small quantities;
+• The evacuation of stool is associated with sound and colic pain;
+• The stool is frothy and slimy;
+• The patient suffers from griping pain, horripilation, groaning, dryness of the mouth, pain in the lumbar region, thighs, sacral region, knees, back and sides of the chest, and prolapse of the rectum; and
+• Evacuates scybalous stool frequently.
+
+--------------------------------------------------------------------------------
+
+According to some physicians, this type of diarrhea is also called anugrathita-atisara because of evacuation the scybalous stool. [5]
+
+--------------------------------------------------------------------------------
+
+PITTAJA ATISARA
+
+--------------------------------------------------------------------------------
+
+पित्तलस्यपुनरम्ललवणकटुकक्षारोष्णतीक्ष्णातिमात्रनिषेविणःप्रतताग्निसूर्यसन्तापोष्णमारुतोपहतगात्रस्यक्रोधेर्ष्याबहुलस्यपित्तंप्रकोपमापद्यते | तत्प्रकुपितंद्रवत्वादूष्माणमुपहत्यपुरीषाशयविसृतमौष्ण्याद्द्रवत्वात्सरत्वाच्चभित्त्वापुरीषमतिसारायप्रकल्पते | तस्यरूपाणि- हारिद्रंहरितंनीलंकृष्णंरक्तपित्तोपहितमतिदुर्गन्धमतिसार्यते[१]पुरीषं, तृष्णादाह स्वेद मूर्च्छाशूलब्रध्नसन्तापपाकपरीतइतिपित्तातिसारः ||६||
+
+--------------------------------------------------------------------------------
+
+pittalasya punaramlalavaṇakaṭukakṣārōṣṇatīkṣṇātimātraniṣēviṇaḥpratatāgnisūryasantāpōṣṇamārutōpahatagātrasya krōdhērṣyābahulasya pittaṁ prakōpamāpadyatē| tat prakupitaṁ dravatvādūṣmāṇamupahatya purīṣāśayavisr̥tamauṣṇyād dravatvāt saratvācca bhittvāpurīṣamatisārāya prakalpatē| tasya rūpāṇi- hāridraṁ haritaṁ nīlaṁ
+kr̥ṣṇaṁ raktapittōpahitamatidurgandhamatisāryatē [1] purīṣaṁ,tr̥ṣṇādāhasvēdamūrcchāśūlabradhnasantāpapākaparīta iti pittātisāraḥ||6||
+
+--------------------------------------------------------------------------------
+
+pittalasya punaramlalavaNakaTukakShAroShNatIkShNAtimAtraniSheviNaHpratatAgnisUryasantApoShNamArutopahatagAtrasya krodherShyAbahulasya pittaM prakopamApadyate| tat prakupitaM dravatvAdUShmANamupahatya purIShAshayavisRutamauShNyAd dravatvAt saratvAccabhittvA purIShamatisArAya prakalpate| tasya rUpANi- hAridraM haritaM nIlaM
+kRuShNaM raktapittopahitamatidurgandhamatisAryate [1] purIShaM,tRuShNAdAhasvedamUrcchAshUlabradhnasantApapAkaparIta iti pittAtisAraH||6||
+
+--------------------------------------------------------------------------------
+
+A person of pittaja constitution, by indulging in the following etiological factors, gets afflicted by pittaja atisara:
+
+--------------------------------------------------------------------------------
+
+[UL]
+• Excessive intake of sour, saline, pungent, alkaline ( kshara ), hot and sharp ( teekshna ) ingredients;
+• Affliction of the body by excessive exposure to the heat of strong fire, hot rays of the sun and hot wind; and
+• Excessive disposition to negative emotions such as anger, jealousy, etc.
+
+--------------------------------------------------------------------------------
+
+Due to the above mentioned factors, pitta gets aggravated, in turn suppressing the power of agni (digestion) on account of its liquidity and reaches the colon, disintegrates the stool because of its heat, liquidity and mobility leading to the manifestation of pittaja atisara.
+
+--------------------------------------------------------------------------------
+
+The signs and symptoms of pittaja atisara are as follows:
+
+--------------------------------------------------------------------------------
+
+[UL]
+• The patient experiences frequent loose motions which are either yellow, green, blue or black in color;
+• The stool is mixed with blood and bile, and is excessively foul smelling;
+• The patient suffers from morbid thirst, burning sensation, excessive sweating, fainting, colic pain and hot sensation; and
+• There is suppuration of the anus [6]
+
+--------------------------------------------------------------------------------
+
+KAPHAJA ATISARA
+
+--------------------------------------------------------------------------------
+
+श्लेष्मलस्यतुगुरुमधुरशीतस्निग्धोपसेविनःसम्पूरकस्याचिन्तयतोदिवास्वप्नपरस्यालसस्यश्लेष्माप्रकोपमापद्यते | सस्वभावाद्गुरुमधुरशीतस्निग्धःस्रस्तोऽग्निमुपहत्य सौम्यस्वभावात्पुरीषाशयमुपहत्यो पक्लेद्यपुरीषमतिसारायकल्पते | तस्यरूपाणि- स्निग्धंश्वेतंपिच्छिलंतन्तुमदामंगुरुदुर्गन्धंश्लेष्मोपहितमनुबद्धशूलमल्पाल्पमभीक्ष्णमतिसार्यतेसप्रवाहिकं, गुरूदरगुदबस्तिवङ्क्षणदेशःकृतेऽप्यकृतसञ्ज्ञःसलोमहर्षःसोत्क्लेशोनिद्रालस्यपरीतःसदनोऽन्नद्वेषीचेतिश्लेष्मातिसारः ||७||
+
+--------------------------------------------------------------------------------
+
+ślēṣmalasya tu gurumadhuraśītasnigdhōpasēvinaḥ sampūrakasyācintayatō divāsvapnaparasyālasasyaślēṣmā prakōpamāpadyatē| sa svabhāvād gurumadhuraśītasnigdhaḥ srastō'gnimupahatya saumyasvabhāvātpurīṣāśayamupahatyōpaklēdya purīṣamatisārāya kalpatē| tasya rūpāṇi- snigdhaṁ śvētaṁ picchilaṁ tantumadāmaṁ guru durgandhaṁślēṣmōpahitamanubaddhaśūlamalpālpamabhīkṣṇamatisāryatē sapravāhikaṁ,gurūdaragudabastivaṅkṣaṇadēśaḥ kr̥tē'pyakr̥tasañjñaḥ salōmaharṣaḥ sōtklēśō nidrālasyaparītaḥsadanō'nnadvēṣī cēti ślēṣmātisāraḥ||7||
+
+--------------------------------------------------------------------------------
+
+shleShmalasya tu gurumadhurashItasnigdhopasevinaH sampUrakasyAcintayatodivAsvapnaparasyAlasasya shleShmA prakopamApadyate| sa svabhAvAd gurumadhurashItasnigdhaH srasto~agnimupahatya saumyasvabhAvAtpurIShAshayamupahatyopakledya purIShamatisArAya kalpate| tasya rUpANi- snigdhaM shvetaM picchilaM tantumadAmaM guru durgandhaMshleShmopahitamanubaddhashUlamalpAlpamabhIkShNamatisAryate sapravAhikaM,gurUdaragudabastiva~gkShaNadeshaH kRute~apyakRutasa~jj~jaH salomaharShaH sotkleshonidrAlasyaparItaH sadano~annadveShI ceti shleShmAtisAraH||7||
+
+--------------------------------------------------------------------------------
+
+A person of kaphaja type of constitution indulging in the following factors experiences the manifestation of kaphaja atisara:
+
+--------------------------------------------------------------------------------
+
+[UL]
+• Consumption of heavy, sweet, cold and unctuous ingredients in excess;
+• Inactivity of the mind and indolence; and
+• Habitually sleeping during the day time.
+
+--------------------------------------------------------------------------------
+
+Because of the above mentioned factors, kapha gets aggravated. It moves downwards due to its nature (i.e heavy, sweet, cold and unctuous) and afflicts the agni (power of digestion) on account of its natural cooling property (which is contradictory to the heating effect of agni ). Thereafter, having arrived at the colon, it liquefies the stool to cause kaphaja atisara.
+
+--------------------------------------------------------------------------------
+
+The signs and symptoms of kaphaja atisara (diarrhea) are as follows:
+
+--------------------------------------------------------------------------------
+
+[UL]
+• The stool is unctuous, white, slimy, fibrous, mixed with mucus as well as undigested food particles, heavy, foul-smelling and mixed with phlegm;
+• The patient suffers from continuous, griping, colic pain
+• The patient evacuates stool frequently in small quantities;
+• The patient suffers from heaviness in the abdomen, in the region of urinary bladder and in the pelvic region;
+• The patient feels the urge for passing stool even after having evacuated; and
+• Suffers from horripilation, nausea, excessive sleep, indolence, prostration and dislike for food.
+
+--------------------------------------------------------------------------------
+
+These are the specific features of kaphaja atisara. [7]
+
+--------------------------------------------------------------------------------
+
+SANNIPATAJA ATISARA
+
+--------------------------------------------------------------------------------
+
+अतिशीतस्निग्धरूक्षोष्णगुरुखरकठिनविषमविरुद्धासात्म्यभोजनादभोजनात्कालातीतभोजनाद्यत्किञ्चिदभ्यवहरणात्प्रदुष्टमद्यपानीयपानादतिमद्यपानादसंशोधनात्प्रतिकर्मणां
+विषमगमनादनुपचाराज्ज्वलनादित्यपवनसलिलातिसेवनादस्वप्ना-दतिस्वप्नाद्वेगविधारणादृतुविपर्ययादयथाबलमारम्भाद्भयशोकचित्तोद्वेगातियोगात्कृमि
+शोषज्वरार्शोविकारातिकर्षणाद्वाव्यापन्नाग्नेस्त्रयोदोषाः
+प्रकुपिताभूयएवाग्निमुपहत्यपक्वाशयमनुप्रविश्यातीसारंसर्वदोषलिङ्गंजनयन्ति ||८||
+
+--------------------------------------------------------------------------------
+
+atiśītasnigdharūkṣōṣṇagurukharakaṭhinaviṣamaviruddhāsātmyabhōjanādabhōjanāt kālātītabhōjanādyatkiñcidabhyavaharaṇāt praduṣṭamadyapānīyapānādatimadyapānādasaṁśōdhanāt pratikarmaṇāṁviṣamagamanādanupacārājjvalanādityapavanasalilātisēvanādasvapnā-datisvapnādvēgavidhāraṇādr̥tuviparyayādayathābalamārambhādbhayaśōkacittōdvēgātiyōgātkr̥miśōṣajvarārśōvikārātikarṣaṇādvā vyāpannāgnēstrayō dōṣāḥ prakupitā bhūya ēvāgnimupahatyapakvāśayamanupraviśyātīsāraṁ sarvadōṣaliṅgaṁ janayanti||8||
+
+--------------------------------------------------------------------------------
+
+atishItasnigdharUkShoShNagurukharakaThinaviShamaviruddhAsAtmyabhojanAdabhojanAtkAlAtItabhojanAd yatki~jcidabhyavaharaNAtpraduShTamadyapAnIyapAnAdatimadyapAnAdasaMshodhanAt pratikarmaNAMviShamagamanAdanupacArAjjvalanAdityapavanasalilAtisevanAdasvapnA-datisvapnAdvegavidhAraNAdRutuviparyayAdayathAbalamArambhAdbhayashokacittodvegAtiyogAtkRumishoShajvarArshovikArAtikarShaNAdvA vyApannAgnestrayo doShAH prakupitA bhUyaevAgnimupahatya pakvAshayamanupravishyAtIsAraM sarvadoShali~ggaM janayanti||8||
+
+--------------------------------------------------------------------------------
+
+The causative factors of sannipataja atisara (diarrhea caused by the simultaneous vitiation of all the three dosha ) are as follows:
+
+--------------------------------------------------------------------------------
+
+[UL]
+• Intake of excessively cold, unctuous, ununctuous, hot, heavy, coarse and hard ingredients;
+• Intake of irregular meals, ingredients of food having mutually contradictory properties and unwholesome food;
+• Intake of food long after the scheduled time;
+• Intake of food without caring for its wholesomeness or otherwise;
+• Drinking alcohol and other drinks which are “polluted”, toxic or harmful;
+• Drinking alcohol in excess;
+• Not resorting to elimination therapies (in appropriate seasons);
+• Inappropriate administration or non-administration of therapeutics;
+• Excessive exposure to fire, hot rays of the sun, strong wind and bath etc., in strong current of water;
+• Not sleeping or sleeping in excess;
+• Suppression of natural urges;
+• Not resorting to appropriate regimens during different seasons,
+• Over-courageous attitude;
+• Excessive exposure to fear, grief and anxiety; and
+• Excessive emaciation due to worm-infection, consumption, fever and piles (bleeding).
+
+--------------------------------------------------------------------------------
+
+Because of the above mentioned causative factors, agni (power of digestion) gets vitiated as a result of which all the three dosha get aggravated. These aggravated dosha in turn further afflict the agni , and having entered into pakvashaya (colon) cause sannipataja atisara . [8]
+
+--------------------------------------------------------------------------------
+
+SIGNS AND SYMPTOMS OF SANNIPATAJA ATISARA
+
+--------------------------------------------------------------------------------
+
+अपिचशोणितादीन्धातूनतिप्रकृष्टं[१]दूषयन्तोधातुदोषस्वभावकृतानतीसारवर्णानुपदर्शयन्ति | तत्रशोणितादिषुधातुष्वतिप्रदुष्टेषुहारिद्रहरितनीलमाञ्जिष्ठमांसधावनसन्निकाशंरक्तंकृष्णंश्वेतंवराहभेदःसदृशमनुबद्धवेदनमवेदनंवासमासव्यत्यासादुपवेश्यतेशकृद्ग्रथितमामंसकृत्, सकृदपिपक्वमनतिक्षीणमांसशोणितबलोमन्दाग्निर्विहतमुखरसश्च; तादृशमातुरंकृच्छ्रसाध्यंविद्यात् | एभिर्वर्णैरतिसार्यमाणंसोपद्रवमातुरमसाध्योऽयमितिप्रत्याचक्षीत; तद्यथा- पक्वशोणिताभं[२]यकृत्खण्डोपमंमेदोमांसोदकसन्निकाशंदधिघृतमज्जतैलवसाक्षीरवेसवाराभमतिनीलमतिरक्तमतिकृष्णमुदकमिवाच्छंपुनर्मेचकाभमतिस्निग्धं
+हरितनीलकषायवर्णंकर्बुरमाविलंपिच्छिलंतन्तुमदामंचन्द्रकोपगतमतिकुणपपूतिपूयगन्ध्यामाममत्स्यगन्धिमक्षिकाकान्तं[३]कुथितबहुधातुस्रावमल्पपुरीषमपुरीषंवाऽतिसार्यमाणं
+तृष्णादाहज्वरभ्रमतमकहिक्काश्वासानुबन्धमतिवेदनमवेदनंवास्रस्तपक्वगुदंपतितगुदवलिंमुक्तनालमतिक्षीणबलमांसशोणितं
+सर्वपर्वास्थिशूलिनमरोचकारतिप्रलापसम्मोहपरीतंसहसोपरतविकारमतिसारिणमचिकित्स्यंविद्यात्; इतिसन्निपातातिसारः ||९||
+
+--------------------------------------------------------------------------------
+
+api ca śōṇitādīn dhātūnatiprakr̥ṣṭaṁ [1] dūṣayantō dhātudōṣasvabhāvakr̥tānatīsāravarṇānupadarśayanti| tatra śōṇitādiṣu dhātuṣvatipraduṣṭēṣu hāridraharitanīlamāñjiṣṭhamāṁsadhāvanasannikāśaṁ raktaṁkr̥ṣṇaṁ śvētaṁ varāhabhēdaḥsadr̥śamanubaddhavēdanamavēdanaṁ vā samāsavyatyāsādupavēśyatēśakr̥d grathitamāmaṁ sakr̥t, sakr̥dapi
+pakvamanatikṣīṇamāṁsaśōṇitabalō mandāgnirvihatamukharasaśca;tādr̥śamāturaṁ kr̥cchrasādhyaṁ vidyāt| ēbhirvarṇairatisāryamāṇaṁ sōpadravamāturamasādhyō'yamiti pratyācakṣīta; tadyathā- pakvaśōṇitābhaṁ[2] yakr̥tkhaṇḍōpamaṁ mēdōmāṁsōdakasannikāśaṁdadhighr̥tamajjatailavasākṣīravēsavārābhamatinīlamatiraktamatikr̥ṣṇamudakamivācchaṁpunarmēcakābhamatisnigdhaṁ haritanīlakaṣāyavarṇaṁ karburamāvilaṁ picchilaṁ tantumadāmaṁcandrakōpagatamatikuṇapapūtipūyagandhyāmāmamatsyagandhi makṣikākāntaṁ [3]kuthitabahudhātusrāvamalpapurīṣamapurīṣaṁ vā'tisāryamāṇaṁtr̥ṣṇādāhajvarabhramatamakahikkāśvāsānubandhamativēdanamavēdanaṁ vā srastapakvagudaṁpatitagudavaliṁ muktanālamatikṣīṇabalamāṁsaśōṇitaṁsarvaparvāsthiśūlinamarōcakāratipralāpasammōhaparītaṁ sahasōparatavikāramatisāriṇamacikitsyaṁvidyāt; iti sannipātātisāraḥ||9||
+
+--------------------------------------------------------------------------------
+
+api ca shoNitAdIn dhAtUnatiprakRuShTaM [1] dUShayantodhAtudoShasvabhAvakRutAnatIsAravarNAnupadarshayanti| tatra shoNitAdiShu dhAtuShvatipraduShTeShu hAridraharitanIlamA~jjiShThamAMsadhAvanasannikAshaMraktaM kRuShNaM shvetaM varAhabhedaHsadRushamanubaddhavedanamavedanaM vAsamAsavyatyAsAdupaveshyate shakRud grathitamAmaM sakRut, sakRudapipakvamanatikShINamAMsashoNitabalo mandAgnirvihatamukharasashca; tAdRushamAturaMkRucchrasAdhyaM vidyAt| ebhirvarNairatisAryamANaM sopadravamAturamasAdhyo~ayamiti pratyAcakShIta; tadyathA-pakvashoNitAbhaM [2] yakRutkhaNDopamaM medomAMsodakasannikAshaMdadhighRutamajjatailavasAkShIravesavArAbhamatinIlamatiraktamatikRuShNamudakamivAcchaMpunarmecakAbhamatisnigdhaM haritanIlakaShAyavarNaM karburamAvilaM picchilaM tantumadAmaMcandrakopagatamatikuNapapUtipUyagandhyAmAmamatsyagandhi makShikAkAntaM [3]kuthitabahudhAtusrAvamalpapurIShamapurIShaM vA~atisAryamANaMtRuShNAdAhajvarabhramatamakahikkAshvAsAnubandhamativedanamavedanaM vA srastapakvagudaMpatitagudavaliM muktanAlamatikShINabalamAMsashoNitaMsarvaparvAsthishUlinamarocakAratipralApasammohaparItaM sahasoparatavikAramatisAriNamacikitsyaMvidyAt; iti sannipAtAtisAraH||9||
+
+--------------------------------------------------------------------------------
+
+The three aggravated dosha cause excessive vitiation of dhatu (tissue elements, e.g., rakta (blood)), resulting in the appearance of different colors (in the stool). The nature of these colors depends upon the nature of the vitiated dhatu and dosha .
+
+--------------------------------------------------------------------------------
+
+If the dhatu like rakta ] are excessively vitiated then the following signs and symptoms are manifested:
+
+--------------------------------------------------------------------------------
+
+[UL]
+• The patient passes stool having yellow (like the color of turmeric), green, blue, reddish (like the color of manjistha ), pink (like the color of water in which meat is washed), red, black, white and yellowish (like the color of pig-fat) in color;
+• The patient suffers from continuous pain or may be free from any pain (in the abdomen). The above mentioned signs and symptoms may be manifested in their entirety or only some of these may be manifested.
+• Sometimes, the patient may pass scybalous stool, sometimes it may be mixed with mucus ( ama ) and sometimes, the stool may be free from mucus ( pakva );
+• There is depletion of the muscle tissue, blood and strength;
+• The power of digestion ( agni ) of the patient is suppressed; and
+• There is impairment of the taste in the mouth of the patient.
+
+--------------------------------------------------------------------------------
+
+Such a patient is difficult to cure ( krichchra-sadhya ).
+
+--------------------------------------------------------------------------------
+
+The patient becomes incurable ( asadhya ), if the diarrhea is associated with the colors and complications as follows:
+
+--------------------------------------------------------------------------------
+
+[UL]
+• The color of stool is like dark blood (melena), piece of liver, appearance like washing of fat or flesh, curd,ghee, marrow, fat, milk and vesavara (minced meat); or dark blue, dark red, dark black, or clear like water.
+• The stool is exceedingly greasy; or green, blue, saffron color;
+• Certain patients passes the stool with turbidity, slimy, fibrous, mixed with mucus and spotted with chandraka (colored patches circular in shape and shining like moon);
+• The stool has exceedingly bad smell like that of a dead body or it is exceedingly putrid in smell or the stool bears the smell of undigested products or it is like (raw) fish;
+• The stool attracts flies in excess;
+• The stool contains slough and tissue elements in excess;
+• The stool contains less or no fecal matter;
+• The patient continuously suffers from morbid thirst, burning sensation, fever, giddiness, fainting, hiccup, asthma, excessive pain or no pain;
+• There is prolapse and inflammation of the anal canal or the anal sphincters come out of their sites or the whole of the rectum comes out ( mukta-nala );
+• There is excessive loss of strength, muscle tissue and blood;
+• There is pain in all the joints and bones; and
+• There is sudden cessation of the signs and symptoms of the disease.
+
+--------------------------------------------------------------------------------
+
+Such a patient should be rejected for the treatment (as it is incurable). [9]
+
+--------------------------------------------------------------------------------
+
+GUIDELINES FOR STARTING TREATMENT
+
+--------------------------------------------------------------------------------
+
+तमसाध्यतामसम्प्राप्तंचिकित्सेद्यथाप्रधानोपक्रमेणहेतूपशयदोषविशेषपरीक्षयाचेति ||१०||
+
+--------------------------------------------------------------------------------
+
+tamasādhyatāmasamprāptaṁ cikitsēd yathāpradhānōpakramēṇa hētūpaśayadōṣaviśēṣaparīkṣayācēti||10||
+
+--------------------------------------------------------------------------------
+
+tamasAdhyatAmasamprAptaM cikitsed yathApradhAnopakrameNa hetUpashayadoShavisheShaparIkShayAceti||10||
+
+--------------------------------------------------------------------------------
+
+The patient who has not yet reached the stage of absolute incurability should be properly treated after the examination of causative factors, upashaya (pacifying factors) and nature of the aggravation of specific dosha . In this condition, the most aggravated dosha should be treated in the beginning followed by the treatment of the other less aggravated dosha . [10]
+
+--------------------------------------------------------------------------------
+
+EXOGENOUS (PSYCHOLOGICAL) DIARRHEA
+
+--------------------------------------------------------------------------------
+
+आगन्तूद्वावतीसारौमानसौभयशोकजौ | तत्तयोर्लक्षणंवायोर्यदतीसारलक्षणम् ||११||
+
+--------------------------------------------------------------------------------
+
+āgantū dvāvatīsārau mānasau bhayaśōkajau| tattayōrlakṣaṇaṁ vāyōryadatīsāralakṣaṇam||11||
+
+--------------------------------------------------------------------------------
+
+AgantU dvAvatIsArau mAnasau bhayashokajau| tattayorlakShaNaM vAyoryadatIsAralakShaNam||11||
+
+--------------------------------------------------------------------------------
+
+The exogenous type of atisara (diarrhea) is of mental origin and is of two types. One of these is caused by fear and the other is caused by grief. Their signs and symptoms are similar to those of the vatika type of atisara . Thus atisara or diarrhea is of two types, viz., nija or endogenous (like vataja , pittaja , kaphaja and sannipataja atisara and agantuja/manasa or exogenous [11]
+
+--------------------------------------------------------------------------------
+
+MANAGEMENT OF EXOGENOUS (PSYCHOLOGICAL) DIARRHEA
+
+--------------------------------------------------------------------------------
+
+मारुतोभयशोकाभ्यांशीघ्रंहिपरिकुप्यति | तयोःक्रियावातहरीहर्षणाश्वासनानिच ||१२||
+
+--------------------------------------------------------------------------------
+
+इत्युक्ताःषडतीसाराः, साध्यानांसाधनंत्वतः | प्रवक्ष्याम्यनुपूर्वेणयथावत्तन्निबोधत ||१३||
+
+--------------------------------------------------------------------------------
+
+mārutō bhayaśōkābhyāṁ śīghraṁ hi parikupyati| tayōḥ kriyā vātaharī harṣaṇāśvāsanāni ca||12||
+
+--------------------------------------------------------------------------------
+
+ityuktāḥ ṣaḍatīsārāḥ, sādhyānāṁ sādhanaṁ tvataḥ| pravakṣyāmyanupūrvēṇa yathāvattannibōdhata||13||
+
+--------------------------------------------------------------------------------
+
+mAruto bhayashokAbhyAM shIghraM hi parikupyati| tayoH kriyA vAtaharI harShaNAshvAsanAni ca||12||
+
+--------------------------------------------------------------------------------
+
+ityuktAH ShaDatIsArAH, sAdhyAnAM sAdhanaM tvataH| pravakShyAmyanupUrveNa yathAvattannibodhata||13||
+
+--------------------------------------------------------------------------------
+
+The following therapies help to cure agantuja/manasa or exogenous:
+
+--------------------------------------------------------------------------------
+
+Both fear and grief causes aggravation of vata instantaneously. Vata alleviating drugs and therapies should be administered for the treatment of exogenous atisara . The patient suffering from diarrhea caused by fear ( bhayaja ) should be exhilarated. The patient suffering from diarrhea caused by shoka (grief) should be consoled [12-13]
+
+--------------------------------------------------------------------------------
+
+PRINCIPLES OF TREATMENT
+
+--------------------------------------------------------------------------------
+
+दोषाःसन्निचितायस्यविदग्धाहारमूर्च्छिताः | अतीसारायकल्पन्तेभूयस्तान्सम्प्रवर्तयेत् ||१४||
+
+--------------------------------------------------------------------------------
+
+नतुसङ्ग्रहणंदेयंपूर्वमामातिसारिणे | विबध्यमानाःप्राग्दोषाजनयन्त्यामयान्बहून् ||१५||
+
+--------------------------------------------------------------------------------
+
+दण्डकालसकाध्मानग्रहण्यर्शोगदांस्तथा | शोथपाण्ड्वामयप्लीहकुष्ठगुल्मोदरज्वरान् ||१६||
+
+--------------------------------------------------------------------------------
+
+तस्मादुपेक्षेतोत्क्लिष्टान्वर्तमानान्स्वयंमलान् | कृच्छ्रंवावहतांदद्यादभयांसम्प्रवर्तिनीम् ||१७||
+
+--------------------------------------------------------------------------------
+
+तयाप्रवाहितेदोषेप्रशाम्यत्युदरामयः | जायतेदेहलघुताजठराग्निश्चवर्धते ||१८||
+
+--------------------------------------------------------------------------------
+
+प्रमथ्यांमध्यदोषाणांदद्याद्दीपनपाचनीम् | लङ्घनंचाल्पदोषाणांप्रशस्तमतिसारिणाम् ||१९||
+
+--------------------------------------------------------------------------------
+
+dōṣāḥ sannicitā yasya vidagdhāhāramūrcchitāḥ| atīsārāya kalpantē bhūyastān sampravartayēt||14||
+
+--------------------------------------------------------------------------------
+
+na tu saṅgrahaṇaṁ dēyaṁ pūrvamāmātisāriṇē| vibadhyamānāḥ prāgdōṣā janayantyāmayān bahūn||15||
+
+--------------------------------------------------------------------------------
+
+daṇḍakālasakādhmānagrahaṇyarśōgadāṁstathā| śōthapāṇḍvāmayaplīhakuṣṭhagulmōdarajvarān||16||
+
+--------------------------------------------------------------------------------
+
+tasmādupēkṣētōtkliṣṭān vartamānān svayaṁ malān| kr̥cchraṁ vā vahatāṁ dadyādabhayāṁ sampravartinīm||17||
+
+--------------------------------------------------------------------------------
+
+tayā pravāhitē dōṣē praśāmyatyudarāmayaḥ| jāyatē dēhalaghutā jaṭharāgniśca vardhatē||18||
+
+--------------------------------------------------------------------------------
+
+pramathyāṁ madhyadōṣāṇāṁ dadyāddīpanapācanīm| laṅghanaṁ cālpadōṣāṇāṁ praśastamatisāriṇām||19||
+
+--------------------------------------------------------------------------------
+
+doShAH sannicitA yasya vidagdhAhAramUrcchitAH| atIsArAya kalpante bhUyastAn sampravartayet||14||
+
+--------------------------------------------------------------------------------
+
+na tu sa~ggrahaNaM deyaM pUrvamAmAtisAriNe| vibadhyamAnAH prAgdoShA janayantyAmayAn bahUn||15||
+
+--------------------------------------------------------------------------------
+
+daNDakAlasakAdhmAnagrahaNyarshogadAMstathA| shothapANDvAmayaplIhakuShThagulmodarajvarAn||16||
+
+--------------------------------------------------------------------------------
+
+tasmAdupekShetotkliShTAn vartamAnAn svayaM malAn| kRucchraM vA vahatAM dadyAdabhayAM sampravartinIm||17||
+
+--------------------------------------------------------------------------------
+
+tayA pravAhite doShe prashAmyatyudarAmayaH| jAyate dehalaghutA jaTharAgnishca vardhate||18||
+
+--------------------------------------------------------------------------------
+
+pramathyAM madhyadoShANAM dadyAddIpanapAcanIm| la~gghanaM cAlpadoShANAM prashastamatisAriNAm||19||
+
+--------------------------------------------------------------------------------
+
+The following principles of treatment are used in management of atisara :
+
+--------------------------------------------------------------------------------
+
+[UL]
+• When the diarrhea is caused by the accumulated (aggravated) dosha impelled by vidagdha (fermentation of undigested) food, the patient should be given laxative to eliminate the dosha .
+• In the initial state i.e. ama (primary or immature) of diarrhea, stopping or binding therapies are never indicated.
+• Administration of such bowel-binding therapies in the initial stage obstructs the movement and elimination of the already aggravated dosha leading to complications like dandakalasaka (obstruction to intestinal peristalsis), adhmana (flatulence), grahani roga (digestive disorders like sprue syndrome), piles, fistula-in-ano, edema, anemia, splenic disorders, kushtha (obstinate skin diseases including leprosy), gulma (abdominal lumps), udara roga (obstinate abdominal diseases including ascites) and fever.
+• Hence, the physician should ignore the downward movement of the detached ( utklishta ) morbid matter, which is moving downwards on its own.
+• Diarrhea should be allowed to continue and should not be stopped by constipating medicines.
+• If the diarrhea is associated with griping pain (difficulty in evacuating), then haritaki should be given as a mild laxative.
+• Once the morbid matter is eliminated through downward movement then this abdominal disease (diarrhea) gets cured, the body becomes light and the power of agni becomes strong.
+• Moderately aggravated dosha should be managed by pramathya (a type of decoction of drugs) which stimulates the power of digestion ( dipana ) and which is carminative ( pachana ) should be administered. Slightly aggravated dosha should be managed by langhana (fasting therapy) [14-19].
+
+--------------------------------------------------------------------------------
+
+RECIPES OF PRAMATHYA
+
+--------------------------------------------------------------------------------
+
+पिप्पलीनागरंधान्यंभूतीकमभयावचा | ह्रीवेरंभद्रमुस्तानिबिल्वंनागरधान्यकम् ||२०||
+
+--------------------------------------------------------------------------------
+
+पृश्निपर्णीश्वदंष्ट्राचसमङ्गाकण्टकारिका | तिस्रःप्रमथ्याविहिताःश्लोकार्धैरतिसारिणाम् ||२१||
+
+--------------------------------------------------------------------------------
+
+वचाप्रतिविषाभ्यांवामुस्तपर्पटकेनवा | ह्रीवेरशृङ्गवेराभ्यांपक्वंवापाययेज्जलम् ||२२||
+
+--------------------------------------------------------------------------------
+
+pippalī nāgaraṁ dhānyaṁ bhūtīkamabhayā vacā| hrīvēraṁ bhadramustāni bilvaṁ nāgaradhānyakam||20||
+
+--------------------------------------------------------------------------------
+
+pr̥śniparṇī śvadaṁṣṭrā ca samaṅgā kaṇṭakārikā| tisraḥ pramathyā vihitāḥ ślōkārdhairatisāriṇām||21||
+
+--------------------------------------------------------------------------------
+
+vacāprativiṣābhyāṁ vā mustaparpaṭakēna vā| hrīvēraśr̥ṅgavērābhyāṁ pakvaṁ vā pāyayējjalam||22||
+
+--------------------------------------------------------------------------------
+
+pippalI nAgaraM dhAnyaM bhUtIkamabhayA vacA| hrIveraM bhadramustAni bilvaM nAgaradhAnyakam||20||
+
+--------------------------------------------------------------------------------
+
+pRushniparNI shvadaMShTrA ca sama~ggA kaNTakArikA| tisraH pramathyA vihitAH shlokArdhairatisAriNAm||21||
+
+--------------------------------------------------------------------------------
+
+vacAprativiShAbhyAM vA mustaparpaTakena vA| hrIverashRu~ggaverAbhyAM pakvaM vA pAyayejjalam||22||
+
+--------------------------------------------------------------------------------
+
+Three recipes of pramathya which are useful in the treatment of diarrhea are as follow:
+
+--------------------------------------------------------------------------------
+
+[UL]
+• Decoction of pippali, nagara, dhanyaka, bhutika, abhaya and vacha for vataja atisara
+• Decoction of hrivera, bhadra-musta, bilva, nagara and dhanyaka for pittaja atisara )
+• Decoction of prashniparni, svadamstra, samanga and kantakarika for kaphaja atisara
+• Decoction of vacha and prativisha for vataja atisara
+• Decoction of musta and parpataka for pittaja atisara
+• Decoction of hrivera and sringavera for kaphaja atisara
+
+--------------------------------------------------------------------------------
+
+[Note: Decoction should be prepared as per the procedure described for sandanga-paniya in C.S.Ci.3-145.] [20-22]
+
+--------------------------------------------------------------------------------
+
+DIET AND DRINKS FOR ATISARA PATIENT
+
+--------------------------------------------------------------------------------
+
+युक्तेऽन्नकालेक्षुत्क्षामंलघून्यन्नानिभोजयेत् | तथासशीघ्रमाप्नोतिरुचिमग्निबलंबलम् ||२३||
+
+--------------------------------------------------------------------------------
+
+तक्रेणावन्तिसोमेनयवाग्वातर्पणेनवा | सुरयामधुनाचादौयथासात्म्यमुपाचरेत् ||२४||
+
+--------------------------------------------------------------------------------
+
+यवागूभिर्विलेपीभिःखडैर्यूषैरसौदनैः | दीपनग्राहिसंयुक्तैःक्रमश्चस्यादतःपरम् ||२५||
+
+--------------------------------------------------------------------------------
+
+yuktē'nnakālē kṣutkṣāmaṁ laghūnyannāni bhōjayēt| tathā sa śīghramāpnōti rucimagnibalaṁ balam||23||
+
+--------------------------------------------------------------------------------
+
+takrēṇāvantisōmēna yavāgvā tarpaṇēna vā| surayā madhunā cādau yathāsātmyamupācarēt||24||
+
+--------------------------------------------------------------------------------
+
+yavāgūbhirvilēpībhiḥ khaḍairyūṣai rasaudanaiḥ| dīpanagrāhisaṁyuktaiḥ kramaśca syādataḥ param||25||
+
+--------------------------------------------------------------------------------
+
+yukte~annakAle kShutkShAmaM laghUnyannAni bhojayet| tathA sa shIghramApnoti rucimagnibalaM balam||23||
+
+--------------------------------------------------------------------------------
+
+takreNAvantisomena yavAgvA tarpaNena vA| surayA madhunA cAdau yathAsAtmyamupAcaret||24||
+
+--------------------------------------------------------------------------------
+
+yavAgUbhirvilepIbhiH khaDairyUShai rasaudanaiH| dIpanagrAhisaMyuktaiH kramashca syAdataH param||25||
+
+--------------------------------------------------------------------------------
+
+[UL]
+• At appropriate meal time, if the patient feels hungry, light food should be given to eat. It enhances the appetite and stimulates agni and as a result the strength is promoted immediately.
+• Depending upon the wholesomeness ( satmya ) of the patient, light food along with buttermilk or kanji (a sour drink), yavagu (thick gruel), tarpana (roasted flour of serials mixed with water), or alcoholic drink or honey should be given. Then gradually yavagu (thick gruel), vilepi (a sticky gruel), khanda (a sour appetiser), yusha (vegetable soup) and boiled rice mixed with meat soup which are prepared by adding digestive, stimulants and astringent (constipative) drugs should be given.
+
+--------------------------------------------------------------------------------
+
+Ingredients which are dipana (digestive stimulant) and grahi (constipating) are described in [Cha. Sa. Sutra Sthana 4/9 ] should be administered [23-25]
+
+--------------------------------------------------------------------------------
+
+TREATMENT OF VATAJA ATISARA
+
+--------------------------------------------------------------------------------
+
+शालपर्णींपृश्निपर्णींबृहतींकण्टकारिकाम् | बलांश्वदंष्ट्रांबिल्वानिपाठांनागरधान्यकम् ||२६||
+
+--------------------------------------------------------------------------------
+
+शटींपलाशंहपुषांवचांजीरकपिप्पलीम् | यवानींपिप्पलीमूलंचित्रकंहस्तिपिप्पलीम् ||२७||
+
+--------------------------------------------------------------------------------
+
+वृक्षाम्लंदाडिमाम्लंचसहिङ्गुबिडसैन्धवम् | प्रयोजयेदन्नपानेविधिनासूपकल्पितम् ||२८||
+
+--------------------------------------------------------------------------------
+
+वातश्लेष्महरोह्येषगणोदीपनपाचनः | ग्राहीबल्योरोचनश्चतस्माच्छस्तोऽतिसारिणाम् ||२९||
+
+--------------------------------------------------------------------------------
+
+śālaparṇīṁ pr̥śniparṇīṁ br̥hatīṁ kaṇṭakārikām| balāṁ śvadaṁṣṭrāṁ bilvāni pāṭhāṁ nāgaradhānyakam||26||
+
+--------------------------------------------------------------------------------
+
+śaṭīṁ palāśaṁ hapuṣāṁ vacāṁ jīrakapippalīm| yavānīṁ pippalīmūlaṁ citrakaṁ hastipippalīm||27||
+
+--------------------------------------------------------------------------------
+
+vr̥kṣāmlaṁ dāḍimāmlaṁ ca sahiṅgu biḍasaindhavam| prayōjayēdannapānē vidhinā sūpakalpitam||28||
+
+--------------------------------------------------------------------------------
+
+vātaślēṣmaharō hyēṣa gaṇō dīpanapācanaḥ| grāhī balyō rōcanaśca tasmācchastō'tisāriṇām||29||
+
+--------------------------------------------------------------------------------
+
+shAlaparNIM pRushniparNIM bRuhatIM kaNTakArikAm| balAM shvadaMShTrAM bilvAni pAThAM nAgaradhAnyakam||26||
+
+--------------------------------------------------------------------------------
+
+shaTIM palAshaM hapuShAM vacAM jIrakapippalIm| yavAnIM pippalImUlaM citrakaM hastipippalIm||27||
+
+--------------------------------------------------------------------------------
+
+vRukShAmlaM dADimAmlaM ca sahi~ggu biDasaindhavam| prayojayedannapAne vidhinA sUpakalpitam||28||
+
+--------------------------------------------------------------------------------
+
+vAtashleShmaharo hyeSha gaNo dIpanapAcanaH| grAhI balyo rocanashca tasmAcchasto~atisAriNAm||29||
+
+--------------------------------------------------------------------------------
+
+The following drugs are useful for the cure of vataja atisara(diarrhea):
+
+--------------------------------------------------------------------------------
+
+[UL]
+• Shalaparni, prashniparni, brhati, kantakarika, bala, svadamstra, bilva, patha, nagara, dhanyaka, shati, palasha, hapusha, vacha, jiraka, pippali, yavani, pippali-mula, chitraka, hastipippali, vrikshamla, sour pomegranate, hingu, vida and saindhava -these ingredients should be appropriately used in processing food preparations.
+• Drugs belonging to the vata and kapha ' alleviative group and those drugs which are dipana (digestive stimulant), pachana (carminative), grahi (constipating), balya (promoter of strength) and rochana (appetizer) should be prescribed. [26-29]
+
+--------------------------------------------------------------------------------
+
+MANAGEMENT OF DIARRHEA ASSOCIATED WITH PAIN
+
+--------------------------------------------------------------------------------
+
+आमेपरिणतेयस्तुविबद्धमतिसार्यते | सशूलपिच्छमल्पाल्पंबहुशःसप्रवाहिकम् ||३०||
+
+--------------------------------------------------------------------------------
+
+यूषेणमूलकानांतंबदराणामथापिवा | उपोदिकायाःक्षीरिण्यायवान्यावास्तुकस्यवा ||३१||
+
+--------------------------------------------------------------------------------
+
+सुवर्चलायाश्चञ्चोर्वाशाकेनावल्गुजस्यवा | शट्याःकर्कारुकाणांवाजीवन्त्याश्चिर्भटस्यवा ||३२||
+
+--------------------------------------------------------------------------------
+
+लोणिकायाःसपाठायाःशुष्कशाकेनवापुनः | दधिदाडिमसिद्धेनबहुस्नेहेनभोजयेत् ||३३||
+
+--------------------------------------------------------------------------------
+
+āmē pariṇatē yastu vibaddhamatisāryatē| saśūlapicchamalpālpaṁ bahuśaḥ sapravāhikam||30||
+
+--------------------------------------------------------------------------------
+
+yūṣēṇa mūlakānāṁ taṁ badarāṇāmathāpi vā| upōdikāyāḥ kṣīriṇyā yavānyā vāstukasya vā||31||
+
+--------------------------------------------------------------------------------
+
+suvarcalāyāścañcōrvā śākēnāvalgujasya vā| śaṭyāḥ karkārukāṇāṁ vā jīvantyāścirbhaṭasya vā||32||
+
+--------------------------------------------------------------------------------
+
+lōṇikāyāḥ sapāṭhāyāḥ śuṣkaśākēna vā punaḥ| dadhidāḍimasiddhēna bahusnēhēna bhōjayēt||33||
+
+--------------------------------------------------------------------------------
+
+Ame pariNate yastu vibaddhamatisAryate| sashUlapicchamalpAlpaM bahushaH sapravAhikam||30||
+
+--------------------------------------------------------------------------------
+
+yUSheNa mUlakAnAM taM badarANAmathApi vA| upodikAyAH kShIriNyA yavAnyA vAstukasya vA||31||
+
+--------------------------------------------------------------------------------
+
+suvarcalAyAshca~jcorvA shAkenAvalgujasya vA| shaTyAH karkArukANAM vA jIvantyAshcirbhaTasya vA||32||
+
+--------------------------------------------------------------------------------
+
+loNikAyAH sapAThAyAH shuShkashAkena vA punaH| dadhidADimasiddhena bahusnehena bhojayet||33||
+
+--------------------------------------------------------------------------------
+
+After the maturity of ama (product of indigestion), if the patient experiences loose motions along with scybalous feces associated with colic pain and mucus very frequently in small quantities, and if there is griping pain, then he should be given food along with the soup of mulaka, badara, upodikā, kshirini, yavāni, vāstuka, suvarchala, chanchu ( nadika ), leaves of avalguja, shati, karkaruka, jivanti, chirbhata (karkati), lonika, patha or shushka-shaka ( kasamarda according to Chakrapani). These soups should be cooked along with curd (yogurt) and dadima , and added with ghee in copious quantities [30-33]
+
+--------------------------------------------------------------------------------
+
+TREATMENT OF PRAVAHIKA (DYSENTERY)
+
+--------------------------------------------------------------------------------
+
+कल्कःस्याद्बालबिल्वानांतिलकल्कश्चतत्समः | दध्नःसरोऽम्लस्नेहाद्यःखडोहन्यात्प्रवाहिकाम् ||३४||
+
+--------------------------------------------------------------------------------
+
+kalkaḥ syādbālabilvānāṁ tilakalkaśca tatsamaḥ| dadhnaḥ sarō'mlasnēhādyaḥ khaḍō hanyāt pravāhikām||34||
+
+--------------------------------------------------------------------------------
+
+kalkaH syAdbAlabilvAnAM tilakalkashca tatsamaH| dadhnaH saro~amlasnehAdyaH khaDo hanyAt pravAhikAm||34||
+
+--------------------------------------------------------------------------------
+
+The following khada (a sour appetizer) cures pravahika (dysentery):
+
+--------------------------------------------------------------------------------
+
+[UL]
+• It is prepared by adding the paste of tender fruits of bilva , equal quantities of the paste of sesame, cream of sour curd and copious quantities of ghee [34].
+
+--------------------------------------------------------------------------------
+
+TREATMENT OF VARCHA-KSHAYA (SCANTY FORMATION OF STOOL)
+
+--------------------------------------------------------------------------------
+
+यवानांमुद्गमाषाणांशालीनांचतिलस्यच | कोलानांबालबिल्वानांधान्ययूषंप्रकल्पयेत् ||३५||
+
+--------------------------------------------------------------------------------
+
+ऐकध्यंयमकेभृष्टंदधिदाडिमसारिकम् | वर्चःक्षयेशुष्कमुखंशाल्यन्नंतेनभोजयेत् ||३६||
+
+--------------------------------------------------------------------------------
+
+दध्नःसरंवायमकेभृष्टंसगुडनागरम् | सुरांवायमकेभृष्टांव्यञ्जनार्थेप्रदापयेत् ||३७||
+
+--------------------------------------------------------------------------------
+
+फलाम्लंयमकेभृष्टंयूषंगृञ्जनकस्यवा | लोपाकरसमम्लंवास्निग्धाम्लंकच्छपस्यवा ||३८||
+
+--------------------------------------------------------------------------------
+
+बर्हितित्तिरिदक्षाणांवर्तकानांतथारसाः | स्निग्धाम्लाःशालयश्चाग्र्यावर्चःक्षयरुजापहाः ||३९||
+
+--------------------------------------------------------------------------------
+
+अन्तराधिरसंपूत्वारक्तंमेषस्यचोभयम् | पचेद्दाडिमसाराम्लंसधान्यस्नेहनागरम् ||४०||
+
+--------------------------------------------------------------------------------
+
+ओदनं[१]रक्तशालीनांतेनाद्यात्प्रपिबेच्चतत् | तथावर्चःक्षयकृतैर्व्याधिभिर्विप्रमुच्यते ||४१||
+
+--------------------------------------------------------------------------------
+
+yavānāṁ mudgamāṣāṇāṁ śālīnāṁ ca tilasya ca| kōlānāṁ bālabilvānāṁ dhānyayūṣaṁ prakalpayēt||35||
+
+--------------------------------------------------------------------------------
+
+aikadhyaṁ yamakē bhr̥ṣṭaṁ dadhidāḍimasārikam| varcaḥkṣayē śuṣkamukhaṁ śālyannaṁ tēna bhōjayēt||36||
+
+--------------------------------------------------------------------------------
+
+dadhnaḥ saraṁ vā yamakē bhr̥ṣṭaṁ saguḍanāgaram| surāṁ vā yamakē bhr̥ṣṭāṁ vyañjanārthē pradāpayēt||37||
+
+--------------------------------------------------------------------------------
+
+phalāmlaṁ yamakē bhr̥ṣṭaṁ yūṣaṁ gr̥ñjanakasya vā| lōpākarasamamlaṁ vā snigdhāmlaṁ kacchapasya vā||38||
+
+--------------------------------------------------------------------------------
+
+barhitittiridakṣāṇāṁ vartakānāṁ tathā rasāḥ| snigdhāmlāḥ śālayaścāgryā varcaḥkṣayarujāpahāḥ||39||
+
+--------------------------------------------------------------------------------
+
+antarādhirasaṁ pūtvā raktaṁ mēṣasya cōbhayam| pacēddāḍimasārāmlaṁ sadhānyasnēhanāgaram||40||
+
+--------------------------------------------------------------------------------
+
+ōdanaṁ [1] raktaśālīnāṁ tēnādyāt prapibēcca tat| tathā varcaḥkṣayakr̥tairvyādhibhirvipramucyatē||41||
+
+--------------------------------------------------------------------------------
+
+yavAnAM mudgamAShANAM shAlInAM ca tilasya ca| kolAnAM bAlabilvAnAM dhAnyayUShaM prakalpayet||35||
+
+--------------------------------------------------------------------------------
+
+aikadhyaM yamake bhRuShTaM dadhidADimasArikam| varcaHkShaye shuShkamukhaM shAlyannaM tena bhojayet||36||
+
+--------------------------------------------------------------------------------
+
+dadhnaH saraM vA yamake bhRuShTaM saguDanAgaram| surAM vA yamake bhRuShTAM vya~jjanArthe pradApayet||37||
+
+--------------------------------------------------------------------------------
+
+phalAmlaM yamake bhRuShTaM yUShaM gRu~jjanakasya vA| lopAkarasamamlaM vA snigdhAmlaM kacchapasya vA||38||
+
+--------------------------------------------------------------------------------
+
+barhitittiridakShANAM vartakAnAM tathA rasAH| snigdhAmlAH shAlayashcAgryA varcaHkShayarujApahAH||39||
+
+--------------------------------------------------------------------------------
+
+antarAdhirasaM pUtvA raktaM meShasya cobhayam| paceddADimasArAmlaM sadhAnyasnehanAgaram||40||
+
+--------------------------------------------------------------------------------
+
+odanaM [1] raktashAlInAM tenAdyAt prapibecca tat| tathA varcaHkShayakRutairvyAdhibhirvipramucyate||41||
+
+--------------------------------------------------------------------------------
+
+If there is varcha-kshaya (scanty stool), then the patient should be given the following recipes:
+
+--------------------------------------------------------------------------------
+
+[UL]
+• If there is varcha-kshaya (scanty stool) and dryness of the mouth, then the patient should be given dhanya-yusha (a type of soup prepared of cereals and pulses) made of yava, mudga, masha , and shali type of rice, sesame seeds, kola and tender fruits of bilva , sizzled with yamaka (ghee and oil) taken together with curd and the extract of dadima . One should take boiled shāli rice along with this soup.
+• Cream of curd sizzled with ghee and oil, and mixed with jaggery and shunthi , alcohol sizzled with ghee and oil, sour fruits sizzled with ghee and oil, soup of granjanaka , meat soup of lopaka added with sour ingredients, meat soup of kachchapa added with ghee and sour ingredients, or the soup of the meat of barhi, tittiri, daksha or vartaka . These soups should be used as vyanjana (side-dish).
+• The red variety of shali rice boiled by adding ghee and sour ingredients.
+• The meat soup of the trunk of sheep should be added with its blood and sizzled by adding the extract of dadima, dhanya , ghee and nagara . This soup should be used for boiling red variety of shali rice. Intake of this cooked rice and drinking this soup make the patient free from the ailments caused by varcha-kshaya (scanty stool) [35-41]
+
+--------------------------------------------------------------------------------
+
+TREATMENT OF PROLAPSE OF RECTUM
+
+--------------------------------------------------------------------------------
+
+गुदनिःसरणेशूलेपानमम्लस्यसर्पिषः | प्रशस्यतेनिरामाणामथवाऽप्यनुवासनम् ||४२||
+
+--------------------------------------------------------------------------------
+
+gudaniḥsaraṇē śūlē pānamamlasya sarpiṣaḥ| praśasyatē nirāmāṇāmathavā'pyanuvāsanam||42||
+
+--------------------------------------------------------------------------------
+
+gudaniHsaraNe shUle pAnamamlasya sarpiShaH| prashasyate nirAmANAmathavA~apyanuvAsanam||42||
+
+--------------------------------------------------------------------------------
+
+If there is prolapse of rectum and colic pain, and if the diarrhea is free from ama , then the patient should be given medicated ghee prepared with sour drugs or anuvasana (unctuous enema). [42]
+
+--------------------------------------------------------------------------------
+
+CHANGERI GHRITAM
+
+--------------------------------------------------------------------------------
+
+चाङ्गेरीकोलदध्यम्लनागरक्षारसंयुतम् | घृतमुत्क्वथितंपेयंगुदभ्रंशरुजापहम् ||४३|| इतिचाङ्गेरीघृतम् |
+
+--------------------------------------------------------------------------------
+
+cāṅgērīkōladadhyamlanāgarakṣārasaṁyutam| ghr̥tamutkvathitaṁ pēyaṁ gudabhraṁśarujāpaham||43|| iti cāṅgērīghr̥tam|
+
+--------------------------------------------------------------------------------
+
+cA~ggerIkoladadhyamlanAgarakShArasaMyutam| ghRutamutkvathitaM peyaM gudabhraMsharujApaham||43|| iti cA~ggerIghRutam|
+
+--------------------------------------------------------------------------------
+
+Ghee should be cooked with the juice of changeri , decoction of kola and sour curd, and the paste of nagara and kshara (alkali preparation). Intake of this medicated ghee cures ailments caused by prolapse of rectum. Thus, ends the description of changeri-ghrita [43].
+
+--------------------------------------------------------------------------------
+
+CHAVYADI GHRITAM
+
+--------------------------------------------------------------------------------
+
+सचव्यपिप्पलीमूलंसव्योषविडदाडिमम् | पेयमम्लंघृतंयुक्त्यासधान्याजाजिचित्रकम् ||४४||
+
+--------------------------------------------------------------------------------
+
+इतिगुदभ्रंशेचव्यादिघृतम् |
+
+--------------------------------------------------------------------------------
+
+sacavyapippalīmūlaṁ savyōṣaviḍadāḍimam| pēyamamlaṁ ghr̥taṁ yuktyā sadhānyājājicitrakam||44||
+
+--------------------------------------------------------------------------------
+
+iti gudabhraṁśē cavyādighr̥tam|
+
+--------------------------------------------------------------------------------
+
+sacavyapippalImUlaM savyoShaviDadADimam| peyamamlaM ghRutaM yuktyA sadhAnyAjAjicitrakam||44||
+
+--------------------------------------------------------------------------------
+
+iti gudabhraMshe cavyAdighRutam|
+
+--------------------------------------------------------------------------------
+
+Ghee should be cooked with the sour ingredients (juice of changeri , decoction of kola and sour curd), and the pastes of chavya , pippali-mula, shunthi, pippali, maricha, vida and dadima . Intake of this medicated ghee should be done along with dhanya, ajaji and chitraka in appropriate quantities (for curing prolapse of rectum)
+
+--------------------------------------------------------------------------------
+
+Thus, ends the description of chavyadi -ghrita for prolapsed rectum [44].
+
+--------------------------------------------------------------------------------
+
+ANUVASANA BASTI IN PROLAPSE OF RECTUM
+
+--------------------------------------------------------------------------------
+
+दशमूलोपसिद्धंवासबिल्वमनुवासनम् | शटीशताह्वाबिल्वैर्वावचयाचित्रकेणवा ||४५||
+
+--------------------------------------------------------------------------------
+
+इतिगुदभ्रंशेऽनुवासनम्
+
+--------------------------------------------------------------------------------
+
+daśamūlōpasiddhaṁ vā sabilvamanuvāsanam| śaṭīśatāhvābilvairvā vacayā citrakēṇa vā||45||
+
+--------------------------------------------------------------------------------
+
+iti gudabhraṁśē'nuvāsanam|
+
+--------------------------------------------------------------------------------
+
+dashamUlopasiddhaM vA sabilvamanuvAsanam| shaTIshatAhvAbilvairvA vacayA citrakeNa vA||45||
+
+--------------------------------------------------------------------------------
+
+iti gudabhraMshe~anuvAsanam|
+
+--------------------------------------------------------------------------------
+
+For the cure of prolapse rectum, anuvasana basti (oil-based enema therapy) should be administered with the following recipes:
+
+--------------------------------------------------------------------------------
+
+[UL]
+• Dashamoola cooked with fat;
+• Bilva cooked with fat:
+• Shati, shatahva or bilva cooked in fat;
+• Vacha cooked with fat; and
+• Chitraka cooked with fat [45].
+
+--------------------------------------------------------------------------------
+
+MANAGEMENT OF STRANGULATED PROLAPSED RECTUM
+
+--------------------------------------------------------------------------------
+
+स्तब्धभ्रष्टगुदेपूर्वंस्नेहस्वेदौप्रयोजयेत् | सुस्विन्नंतंमृदूभूतंपिचुनासम्प्रवेशयेत् ||४६||
+
+--------------------------------------------------------------------------------
+
+stabdhabhraṣṭagudē pūrvaṁ snēhasvēdau prayōjayēt| susvinnaṁ taṁ mr̥dūbhūtaṁ picunā sampravēśayēt||46||
+
+--------------------------------------------------------------------------------
+
+stabdhabhraShTagude pUrvaM snehasvedau prayojayet| susvinnaM taM mRudUbhUtaM picunA sampraveshayet||46||
+
+--------------------------------------------------------------------------------
+
+If the prolapsed rectum becomes stiff or strangulated, and does not go inside of its own, then oil should be applied over it and fomentation should be given. Thereafter, when the prolapsed rectum is well fomented and has become soft, then with the help of a cotton pad (or pad made of thick cloth) it should be pushed inside and restored to its original place [46].
+
+--------------------------------------------------------------------------------
+
+USE OF MEDICATED MILK
+
+--------------------------------------------------------------------------------
+
+विबद्धवातवर्चास्तुबहुशूलप्रवाहिकः | सरक्तपिच्छस्तृष्णार्तःक्षीरसौहित्यमर्हति ||४७||
+
+--------------------------------------------------------------------------------
+
+यमकस्योपरिक्षीरंधारोष्णंवापिबेन्नरः | शृतमेरण्डमूलेनबालबिल्वेनवापयः[१] ||४८||
+
+--------------------------------------------------------------------------------
+
+एवंक्षीरप्रयोगेणरक्तंपिच्छाचशाम्यति | शूलंप्रवाहिकाचैवविबन्धश्चोपशाम्यति ||४९||
+
+--------------------------------------------------------------------------------
+
+vibaddhavātavarcāstu bahuśūlapravāhikaḥ| saraktapicchastr̥ṣṇārtaḥ kṣīrasauhityamarhati||47||
+
+--------------------------------------------------------------------------------
+
+yamakasyōpari kṣīraṁ dhārōṣṇaṁ vā pibēnnaraḥ| śr̥tamēraṇḍamūlēna bālabilvēna vā payaḥ [1] ||48||
+
+--------------------------------------------------------------------------------
+
+ēvaṁ kṣīraprayōgēṇa raktaṁ picchā ca śāmyati| śūlaṁ pravāhikā caiva vibandhaścōpaśāmyati||49||
+
+--------------------------------------------------------------------------------
+
+vibaddhavAtavarcAstu bahushUlapravAhikaH| saraktapicchastRuShNArtaH kShIrasauhityamarhati||47||
+
+--------------------------------------------------------------------------------
+
+yamakasyopari kShIraM dhAroShNaM vA pibennaraH| shRutameraNDamUlena bAlabilvena vA payaH [1] ||48||
+
+--------------------------------------------------------------------------------
+
+evaM kShIraprayogeNa raktaM picchA ca shAmyati| shUlaM pravAhikA caiva vibandhashcopashAmyati||49||
+
+--------------------------------------------------------------------------------
+
+If the movement of flatus and stool is blocked(constipated), if the patient suffers from various kinds of pain, if the patient passes blood and mucus, and if the patient is thirsty, then adequate quantity of milk should be administered. Such a patient should be given yamaka (ghee and oil mixed together), and thereafter, lukewarm milk collected directly from the udder ( dharoshna ).
+
+--------------------------------------------------------------------------------
+
+Milk boiled with the root of castor or tender fruit of bilva may also be given in the above mentioned condition. By the intake of the recipes of medicated ghee mentioned above, bleeding and mucus discharge from the anus stops. These recipes also cure colic pain, dysentery and constipation [47-49]
+
+--------------------------------------------------------------------------------
+
+TREATMENT OF PITTAJA ATISARA
+
+--------------------------------------------------------------------------------
+
+पित्तातिसारंपुनर्निदानोपशयाकृतिभिरामान्वयमुपलभ्ययथाबलंलङ्घनपाचनाभ्यामुपाचरेत् | तृष्यतस्तुमुस्तपर्पटकोशीरसारिवाचन्दनकिराततिक्तकोदीच्यवारिभिरुपचारः | लङ्घितस्यचाहारकालेबलातिबलासूर्पपर्णीशालपर्णीपृश्निपर्णीबृहतीकण्टकारिकाशतावरीश्वदंष्ट्रानिर्यूहसंयुक्तेनयथासात्म्यंयवागूमण्डादिनातर्पणादिनावाक्रमेणोपचारः | मुद्गमसूरहरेणुमकुष्ठकाढकीयूषैर्वालावकपिञ्जलशशहरिणैणकालपुच्छकरसैरीषदम्लैरनम्लैर्वाक्रमशोऽग्निंसन्धुक्षयेत् | अनुबन्धेत्वस्यदीपनीयपाचनीयोपशमनीयसङ्ग्रहणीयान्योगान्सम्प्रयोजयेदिति ||५०||
+
+--------------------------------------------------------------------------------
+
+pittātisāraṁ punarnidānōpaśayākr̥tibhirāmānvayamupalabhya yathābalaṁlaṅghanapācanābhyāmupācarēt| tr̥ṣyatastu mustaparpaṭakōśīrasārivācandanakirātatiktakōdīcyavāribhirupacāraḥ| laṅghitasya cāhārakālēbalātibalāsūrpaparṇīśālaparṇīpr̥śniparṇībr̥hatīkaṇṭakārikāśatāvarīśvadaṁṣṭrāniryūhasaṁyuktēnayathāsātmyaṁ yavāgūmaṇḍādinā tarpaṇādinā vā kramēṇōpacāraḥ| mudgamasūraharēṇumakuṣṭhakāḍhakīyūṣairvālāvakapiñjalaśaśahariṇaiṇakālapucchakarasairīṣadamlairanamlairvā kramaśō'gniṁ sandhukṣayēt| anubandhē tvasya dīpanīyapācanīyōpaśamanīyasaṅgrahaṇīyān yōgān samprayōjayēditi||50||
+
+--------------------------------------------------------------------------------
+
+pittAtisAraM punarnidAnopashayAkRutibhirAmAnvayamupalabhya yathAbalaMla~gghanapAcanAbhyAmupAcaret| tRuShyatastu mustaparpaTakoshIrasArivAcandanakirAtatiktakodIcyavAribhirupacAraH| la~gghitasya cAhArakAlebalAtibalAsUrpaparNIshAlaparNIpRushniparNIbRuhatIkaNTakArikAshatAvarIshvadaMShTrAniryUhasaMyuktenayathAsAtmyaM yavAgUmaNDAdinA tarpaNAdinA vA krameNopacAraH| mudgamasUrahareNumakuShThakADhakIyUShairvAlAvakapi~jjalashashahariNaiNakAlapucchakarasairIShadamlairanamlairvA kramasho~agniM sandhukShayet| anubandhe tvasya dIpanIyapAcanIyopashamanIyasa~ggrahaNIyAn yogAn samprayojayediti||50||
+
+--------------------------------------------------------------------------------
+
+For the cure of pittaja atisara, the following therapy should be administered:
+
+--------------------------------------------------------------------------------
+
+[UL]
+• If pittaja atisara (diarrhea) patient is also afflicted with ama which can be determined by causative factors, upachaya (habituation), and signs and symptoms, then the patient should be given langhana (fasting therapy) and pachana (carminative therapy) appropriate to the strength of the patient.
+• If the patient is thirsty, then the decoction of musta, parpataka, ushira, sariva, chandana, kiratatiktaka and udichya should be given to drink.
+• After the proper fasting therapy, during meal time, the patient should be gradually given yavagu (thick gruel), manda (a type of thin gruel) and tarpana (roasted flour of cereals added with water) or decoction prepared (according to the procedure suggested for shadanga-paniya [Cha.Sa. Chikitsa Sthana 3/ 145-146] of bala, atibala, surpa-parni ( mudga-parni and mansa-parni ), shala-parni, prashni-parni, brahati, kantakari, shatavari and shvadanshtra .
+
+--------------------------------------------------------------------------------
+
+[UL]
+• Agni (power of digestion) should be stimulated gradually with the vegetable soup of mudga, masura, harenu, makustha and adhaki or with the soup of the meat of lava, kapinjala, shasha, harina, ena and kalapuchcha . These vegetable soups and meat soups may or may not be sour.
+
+--------------------------------------------------------------------------------
+
+[UL]
+• If the pittaja atisara persists even after the administration of the above mentioned measures, then the patient should be treated with recipes which are dipaniya (digestive stimulant), pachaniya (carminative), upashamaniya ( dosha -alleviator) and sangrahaniya (constipating). [50]
+
+--------------------------------------------------------------------------------
+
+RECIPES FOR PITTAJA ATISARA
+
+--------------------------------------------------------------------------------
+
+सक्षौद्रातिविषंपिष्ट्वावत्सकस्यफलत्वचम् | पिबेत्पित्तातिसारघ्नंतण्डुलोदकसंयुतम् ||५१||
+
+--------------------------------------------------------------------------------
+
+किराततिक्तकोमुस्तंवत्सकःसरसाञ्जनः | बिल्वंदारुहरिद्रात्वक्ह्रीबेरंसदुरालभम् ||५२||
+
+--------------------------------------------------------------------------------
+
+चन्दनंचमृणालंचनागरंलोध्रमुत्पलम् | तिलामोचरसोलोध्रंसमङ्गाकमलोत्पलम् ||५३||
+
+--------------------------------------------------------------------------------
+
+उत्पलंधातकीपुष्पंदाडिमत्वङ्महौषधम् | कट्फलंनागरंपाठाजम्ब्वाम्रास्थिदुरालभाः ||५४||
+
+--------------------------------------------------------------------------------
+
+योगाःषडेतेसक्षौद्रास्तण्डुलोदकसंयुताः | पेयाःपित्तातिसारघ्नाःश्लोकार्धेननिदर्शिताः ||५५||
+
+--------------------------------------------------------------------------------
+
+जीर्णोषधानांशस्यन्तेयथायोगंप्रकल्पितैः | रसैःसाङ्ग्राहिकैर्युक्ताःपुराणारक्तशालयः ||५६||
+
+--------------------------------------------------------------------------------
+
+sakṣaudrātiviṣaṁ piṣṭvā vatsakasya phalatvacam| pibēt pittātisāraghnaṁ taṇḍulōdakasaṁyutam||51||
+
+--------------------------------------------------------------------------------
+
+kirātatiktakō mustaṁ vatsakaḥ sarasāñjanaḥ| bilvaṁ dāruharidrā tvak hrībēraṁ sadurālabham||52||
+
+--------------------------------------------------------------------------------
+
+candanaṁ ca mr̥ṇālaṁ ca nāgaraṁ lōdhramutpalam| tilā mōcarasō lōdhraṁ samaṅgā kamalōtpalam||53||
+
+--------------------------------------------------------------------------------
+
+utpalaṁ dhātakīpuṣpaṁ dāḍimatvaṅmahauṣadham| kaṭphalaṁ nāgaraṁ pāṭhā jambvāmrāsthidurālabhāḥ||54||
+
+--------------------------------------------------------------------------------
+
+yōgāḥ ṣaḍētē sakṣaudrāstaṇḍulōdakasaṁyutāḥ| pēyāḥ pittātisāraghnāḥ ślōkārdhēna nidarśitāḥ||55||
+
+--------------------------------------------------------------------------------
+
+jīrṇōṣadhānāṁ śasyantē yathāyōgaṁ prakalpitaiḥ| rasaiḥ sāṅgrāhikairyuktāḥ purāṇā raktaśālayaḥ||56||
+
+--------------------------------------------------------------------------------
+
+sakShaudrAtiviShaM piShTvA vatsakasya phalatvacam| pibet pittAtisAraghnaM taNDulodakasaMyutam||51||
+
+--------------------------------------------------------------------------------
+
+kirAtatiktako mustaM vatsakaH sarasA~jjanaH| bilvaM dAruharidrA tvak hrIberaM sadurAlabham||52||
+
+--------------------------------------------------------------------------------
+
+candanaM ca mRuNAlaM ca nAgaraM lodhramutpalam| tilA mocaraso lodhraM sama~ggA kamalotpalam||53||
+
+--------------------------------------------------------------------------------
+
+utpalaM dhAtakIpuShpaM dADimatva~gmahauShadham| kaTphalaM nAgaraM pAThA jambvAmrAsthidurAlabhAH||54||
+
+--------------------------------------------------------------------------------
+
+yogAH ShaDete sakShaudrAstaNDulodakasaMyutAH| peyAH pittAtisAraghnAH shlokArdhena nidarshitAH||55||
+
+--------------------------------------------------------------------------------
+
+jIrNoShadhAnAM shasyante yathAyogaM prakalpitaiH| rasaiH sA~ggrAhikairyuktAH purANA raktashAlayaH||56||
+
+--------------------------------------------------------------------------------
+
+The following recipes are useful in curing pittaja atisara:
+
+--------------------------------------------------------------------------------
+
+[UL]
+• The fruit and bark of vatsaka should be added with ativisha and honey. It should be taken along with rice-water ( tandulodaka ).
+
+--------------------------------------------------------------------------------
+
+The following recipes should be taken along with honey and rice-water ( tandulodaka ).
+
+--------------------------------------------------------------------------------
+
+[UL]
+• Powder of kiratatiktaka, musta, vatsaka and rasanjana .
+• Powder of bilva, dāruharidra, tvak, hribera and duralabha
+• Powder of chandana, mranāla, nagara, lodhra and utpala
+• Powder of tila, mocha-rasa, lodhra, samanga, kamala and utpala
+• Powder of utpala, dhataki (flower), dadima,tvak and mahaushadha
+• Katphala, nagara, patha, seed-pulp of jambu and amra , and duralabha . Once the above mentioned recipes are digested, the patient should be given to eat red variety of rice harvested in earlier seasons, along with appropriately cooked meat-soup added with constipating drugs [51-56]
+
+--------------------------------------------------------------------------------
+
+ADMINISTRATION OF MILK
+
+--------------------------------------------------------------------------------
+
+पित्तातिसारोदीपाग्नेःक्षिप्रंसमुपशाम्यति | अजाक्षीरप्रयोगेणबलंवर्णश्चवर्धते ||५७||
+
+--------------------------------------------------------------------------------
+
+बहुदोषस्यदीप्ताग्नेःसप्राणस्यनतिष्ठति | पैत्तिकोयद्यतीसारःपयसातंविरेचयेत् ||५८||
+
+--------------------------------------------------------------------------------
+
+पलाशफलनिर्यूहंपयसासहपाययेत् | ततोऽनुपाययेत्कोष्णंक्षीरमेवयथाबलम् ||५९||
+
+--------------------------------------------------------------------------------
+
+प्रवाहितेतेनमलेप्रशाम्यत्युदरामयः | पलाशवत्प्रयोज्यावात्रायमाणाविशोधिनी ||६०||
+
+--------------------------------------------------------------------------------
+
+सांसर्ग्यांक्रियमाणायांशूलंयद्यनुवर्तते | स्रुतदोषस्यतंशीघ्रंयथावदनुवासयेत् ||६१||
+
+--------------------------------------------------------------------------------
+
+शतपुष्पावरीभ्यांचपयसामधुकेनच | तैलपादंघृतंसिद्धंसबिल्वमनुवासनम् ||६२||
+
+--------------------------------------------------------------------------------
+
+pittātisārō dīpāgnēḥ kṣipraṁ samupaśāmyati| ajākṣīraprayōgēṇa balaṁ varṇaśca vardhatē||57||
+
+--------------------------------------------------------------------------------
+
+bahudōṣasya dīptāgnēḥ saprāṇasya na tiṣṭhati| paittikō yadyatīsāraḥ payasā taṁ virēcayēt||58||
+
+--------------------------------------------------------------------------------
+
+palāśaphalaniryūhaṁ payasā saha pāyayēt| tatō'nupāyayēt kōṣṇaṁ kṣīramēva yathābalam||59||
+
+--------------------------------------------------------------------------------
+
+pravāhitē tēna malē praśāmyatyudarāmayaḥ| palāśavat prayōjyā vā trāyamāṇā viśōdhinī||60||
+
+--------------------------------------------------------------------------------
+
+sāṁsargyāṁ kriyamāṇāyāṁ śūlaṁ yadyanuvartatē| srutadōṣasya taṁ śīghraṁ yathāvadanuvāsayēt||61||
+
+--------------------------------------------------------------------------------
+
+śatapuṣpāvarībhyāṁ ca payasā madhukēna ca| tailapādaṁ ghr̥taṁ siddhaṁ sabilvamanuvāsanam||62||
+
+--------------------------------------------------------------------------------
+
+pittAtisAro dIpAgneH kShipraM samupashAmyati| ajAkShIraprayogeNa balaM varNashca vardhate||57||
+
+--------------------------------------------------------------------------------
+
+bahudoShasya dIptAgneH saprANasya na tiShThati| paittiko yadyatIsAraH payasA taM virecayet||58||
+
+--------------------------------------------------------------------------------
+
+palAshaphalaniryUhaM payasA saha pAyayet| tato~anupAyayet koShNaM kShIrameva yathAbalam||59||
+
+--------------------------------------------------------------------------------
+
+pravAhite tena male prashAmyatyudarAmayaH| palAshavat prayojyA vA trAyamANA vishodhinI||60||
+
+--------------------------------------------------------------------------------
+
+sAMsargyAM kriyamANAyAM shUlaM yadyanuvartate| srutadoShasya taM shIghraM yathAvadanuvAsayet||61||
+
+--------------------------------------------------------------------------------
+
+shatapuShpAvarIbhyAM ca payasA madhukena ca| tailapAdaM ghRutaM siddhaM sabilvamanuvAsanam||62||
+
+--------------------------------------------------------------------------------
+
+[UL]
+• Goat-milk administered to a patient having strong power of digestion cures pittaja atisara and promotes strength as well as complexion.
+• Due to excessive aggravation of dosha , if the pittaja atisara is not cured and if the patient has strong power of digestion and vitality, then laxative therapy with milk should be given.
+• Decoction of the fruit of palasha along with milk should be given. Later, depending upon the strength of the patient, lukewarm milk should be given. This will restore bowel movement and control the atisara . Decoction of trayamana along with milk should be given. Later, depending upon the strength of the patient lukewarm milk should be given. This will restore bowel movement and control the atisara .
+
+--------------------------------------------------------------------------------
+
+Anuvasana basti (medicated untuous enema):
+
+--------------------------------------------------------------------------------
+
+[UL]
+• During the course of sansarjana-krama (gradual administration of light food) after purification therapy if the colic pain persists, then anuvasana basti therapy should be administered immediately because morbid matter is already eliminated.
+
+--------------------------------------------------------------------------------
+
+Satapushpadi ghee is advised for anuvasana basti [57-62].
+
+--------------------------------------------------------------------------------
+
+PICCHA BASTI (SLIMY MEDICATED ENEMA)
+
+--------------------------------------------------------------------------------
+
+कृतानुवासनस्यास्यकृतसंसर्जनस्यच | वर्ततेयद्यतीसारःपिच्छाबस्तिरतःपरम् ||६३||
+
+--------------------------------------------------------------------------------
+
+परिवेष्ट्यकुशैरार्द्रैरार्द्रवृन्तानिशाल्मलेः | कृष्णमृत्तिकयाऽऽलिप्यस्वेदयेद्गोमयाग्निना ||६४||
+
+--------------------------------------------------------------------------------
+
+सुशुष्कांमृत्तिकांज्ञात्वातानिवृन्तानिशाल्मलेः | शृतेपयसिमृद्नीयादापोथ्योलूखलेततः ||६५||
+
+--------------------------------------------------------------------------------
+
+पिण्डंमुष्टिसमंप्रस्थेतत्पूतंतैलसर्पिषोः | स्नेहितं[१]मात्रयायुक्तंकल्केनमधुकस्यच ||६६||
+
+--------------------------------------------------------------------------------
+
+बस्तिमभ्यक्तगात्रायदद्यात्प्रत्यागतेततः | स्नात्वाभुञ्जीतपयसाजाङ्गलानांरसेनवा ||६७||
+
+--------------------------------------------------------------------------------
+
+पित्तातिसारज्वरशोथगुल्मजीर्णातिसारग्रहणीप्रदोषान् | जयत्ययंशीघ्रमतिप्रवृद्धान्विरेचनास्थापनयोश्चबस्तिः[२] ||६८||
+
+--------------------------------------------------------------------------------
+
+kr̥tānuvāsanasyāsya kr̥tasaṁsarjanasya ca| vartatē yadyatīsāraḥ picchābastirataḥ param||63||
+
+--------------------------------------------------------------------------------
+
+parivēṣṭya kuśairārdrairārdravr̥ntāni śālmalēḥ| kr̥ṣṇamr̥ttikayā lipya svēdayēdgōmayāgninā||64||
+
+--------------------------------------------------------------------------------
+
+suśuṣkāṁ mr̥ttikāṁ jñātvā tāni vr̥ntāni śālmalēḥ| śr̥tē payasi mr̥dnīyādāpōthyōlūkhalē tataḥ||65||
+
+--------------------------------------------------------------------------------
+
+piṇḍaṁ muṣṭisamaṁ prasthē tat pūtaṁ tailasarpiṣōḥ| snēhitaṁ [1] mātrayā yuktaṁ kalkēna madhukasya ca||66||
+
+--------------------------------------------------------------------------------
+
+bastimabhyaktagātrāya dadyāt pratyāgatē tataḥ| snātvā bhuñjīta payasā jāṅgalānāṁ rasēna vā||67||
+
+--------------------------------------------------------------------------------
+
+pittātisārajvaraśōthagulmajīrṇātisāragrahaṇīpradōṣān| jayatyayaṁ śīghramatipravr̥ddhān virēcanāsthāpanayōśca bastiḥ [2] ||68||
+
+--------------------------------------------------------------------------------
+
+kRutAnuvAsanasyAsya kRutasaMsarjanasya ca| vartate yadyatIsAraH picchAbastirataH param||63||
+
+--------------------------------------------------------------------------------
+
+pariveShTya kushairArdrairArdravRuntAni shAlmaleH| kRuShNamRuttikayA~a~alipya svedayedgomayAgninA||64||
+
+--------------------------------------------------------------------------------
+
+sushuShkAM mRuttikAM j~jAtvA tAni vRuntAni shAlmaleH| shRute payasi mRudnIyAdApothyolUkhale tataH||65||
+
+--------------------------------------------------------------------------------
+
+piNDaM muShTisamaM prasthe tat pUtaM tailasarpiShoH| snehitaM [1] mAtrayA yuktaM kalkena madhukasya ca||66||
+
+--------------------------------------------------------------------------------
+
+bastimabhyaktagAtrAya dadyAt pratyAgate tataH| snAtvA bhu~jjIta payasA jA~ggalAnAM rasena vA||67||
+
+--------------------------------------------------------------------------------
+
+pittAtisArajvarashothagulmajIrNAtisAragrahaNIpradoShAn| jayatyayaM shIghramatipravRuddhAn virecanAsthApanayoshca bastiH [2] ||68||
+
+--------------------------------------------------------------------------------
+
+If diarrhea persists in spite of the administration of anuvasana basti and observing the samsarjana-krama (gradual administration of lighter to heavier food) then piccha basti (mucilaginous type of medicated enema) should be given.
+
+--------------------------------------------------------------------------------
+
+Green stalks of shalmali should be covered with green kusha and tied. This bundle is then smeared with the mud of black soil and placed over cow-dung fire. After the mud is dried up, the stalks of shalmali is removed. These stalks are then triturated in a pestle and mortar. One mushti ( pala or handful) of this paste should be mixed with one prastha of boiled milk and filtered. In this milk, oil, ghee and paste of madhuka are added in adequate quantity. This recipe is used for the medicated enema to be given to the patient after massaging the body with oil. When the nasty material comes out, the patient should take bath and thereafter take food along with either milk or the meat soup of the wild animals. This piccha- basti (mucilaginous enema) cures paittika type of diarrhea, fever, edema, gulma (abdominal lumps), chronic diarrhea, grahani (digestive disorders) and the acute complications of purgation as well as of asthapana basti [63-68]
+
+--------------------------------------------------------------------------------
+
+RAKTATISARA (BLOODY DIARRHOEA)
+
+--------------------------------------------------------------------------------
+
+पित्तातिसारीयस्त्वेतांक्रियांमुक्त्वानिषेवते | पित्तलान्यन्नपानानितस्यपित्तंमहाबलम् ||६९||
+
+--------------------------------------------------------------------------------
+
+कुर्याद्रक्तातिसारंतुरक्तमाशुप्रदूषयेत् | तृष्णांशूलंविदाहंचगुदपाकंचदारुणम् ||७०||
+
+--------------------------------------------------------------------------------
+
+pittātisārī yastvētāṁ kriyāṁ muktvā niṣēvatē| pittalānyannapānāni tasya pittaṁ mahābalam||69||
+
+--------------------------------------------------------------------------------
+
+kuryādraktātisāraṁ tu raktamāśu pradūṣayēt| tr̥ṣṇāṁ śūlaṁ vidāhaṁ ca gudapākaṁ ca dāruṇam||70||
+
+--------------------------------------------------------------------------------
+
+pittAtisArI yastvetAM kriyAM muktvA niShevate| pittalAnyannapAnAni tasya pittaM mahAbalam||69||
+
+--------------------------------------------------------------------------------
+
+kuryAdraktAtisAraM tu raktamAshu pradUShayet| tRuShNAM shUlaM vidAhaM ca gudapAkaM ca dAruNam||70||
+
+--------------------------------------------------------------------------------
+
+If a pittaja atisara patient does not follow the therapeutic measures and resorts to such foods and drinks which cause aggravation of pitta , then the excessively provoked pitta causes raktatisara and instantaneous vitiation of rakta (blood). This leads to serious complications like morbid thirst, colic pain, burning sensation and suppuration of the anus. It can also manifest itself directly on account of excessive aggravation of pitta and vitiation of blood [69-70]
+
+--------------------------------------------------------------------------------
+
+TREATMENT OF RAKTATISARA
+
+--------------------------------------------------------------------------------
+
+तत्रच्छागंपयःशस्तंशीतंसमधुशर्करम् | पानार्थंभोजनार्थंचगुदप्रक्षालनेतथा ||७१||
+
+--------------------------------------------------------------------------------
+
+ओदनंरक्तशालीनांपयसातेनभोजयेत् | रसैःपारावतादीनांघृतभृष्टैःसशर्करैः ||७२||
+
+--------------------------------------------------------------------------------
+
+शशपक्षिमृगाणांचशीतानांधन्वचारिणाम् | रसैरनम्लैःसघृतैर्भोजयेत्तंसशर्करैः ||७३||
+
+--------------------------------------------------------------------------------
+
+रुधिरंमार्गमाजंवाघृतभृष्टंप्रशस्यते | काश्मर्यफलयूषोवाकिञ्चिदम्लःसशर्करः ||७४||
+
+--------------------------------------------------------------------------------
+
+नीलोत्पलंमोचरसंसमङ्गापद्मकेशरम् | अजाक्षीरयुतंदद्याज्जीर्णेचपयसौदनम् ||७५||
+
+--------------------------------------------------------------------------------
+
+दुर्बलंपाययित्वावातस्यैवोपरिभोजयेत् | प्राग्भक्तंनवनीतंवादद्यात्समधुशर्करम् ||७६||
+
+--------------------------------------------------------------------------------
+
+tatra cchāgaṁ payaḥ śastaṁ śītaṁ samadhuśarkaram| pānārthaṁ bhōjanārthaṁ ca gudaprakṣālanē tathā||71||
+
+--------------------------------------------------------------------------------
+
+ōdanaṁ raktaśālīnāṁ payasā tēna bhōjayēt| rasaiḥ pārāvatādīnāṁ ghr̥tabhr̥ṣṭaiḥ saśarkaraiḥ||72||
+
+--------------------------------------------------------------------------------
+
+śaśapakṣimr̥gāṇāṁ ca śītānāṁ dhanvacāriṇām| rasairanamlaiḥ saghr̥tairbhōjayēttaṁ saśarkaraiḥ||73||
+
+--------------------------------------------------------------------------------
+
+rudhiraṁ mārgamājaṁ vā ghr̥tabhr̥ṣṭaṁ praśasyatē| kāśmaryaphalayūṣō vā kiñcidamlaḥ saśarkaraḥ||74||
+
+--------------------------------------------------------------------------------
+
+nīlōtpalaṁ mōcarasaṁ samaṅgā padmakēśaram| ajākṣīrayutaṁ dadyājjīrṇē ca payasaudanam||75||
+
+--------------------------------------------------------------------------------
+
+durbalaṁ pāyayitvā vā tasyaivōpari bhōjayēt| prāgbhaktaṁ navanītaṁ vā dadyāt samadhuśarkaram||76||
+
+--------------------------------------------------------------------------------
+
+tatra cchAgaM payaH shastaM shItaM samadhusharkaram| pAnArthaM bhojanArthaM ca gudaprakShAlane tathA||71||
+
+--------------------------------------------------------------------------------
+
+odanaM raktashAlInAM payasA tena bhojayet| rasaiH pArAvatAdInAM ghRutabhRuShTaiH sasharkaraiH||72||
+
+--------------------------------------------------------------------------------
+
+shashapakShimRugANAM ca shItAnAM dhanvacAriNAm| rasairanamlaiH saghRutairbhojayettaM sasharkaraiH||73||
+
+--------------------------------------------------------------------------------
+
+rudhiraM mArgamAjaM vA ghRutabhRuShTaM prashasyate| kAshmaryaphalayUSho vA ki~jcidamlaH sasharkaraH||74||
+
+--------------------------------------------------------------------------------
+
+nIlotpalaM mocarasaM sama~ggA padmakesharam| ajAkShIrayutaM dadyAjjIrNe ca payasaudanam||75||
+
+--------------------------------------------------------------------------------
+
+durbalaM pAyayitvA vA tasyaivopari bhojayet| prAgbhaktaM navanItaM vA dadyAt samadhusharkaram||76||
+
+--------------------------------------------------------------------------------
+
+For the treatment of raktatisara , the following therapy should be administered:
+
+--------------------------------------------------------------------------------
+
+[UL]
+• Goat’s milk is very useful. It should be used, when cooled, with honey and sugar for drink, along with food, and for washing the anal region.
+• Goat’s milk along with the boiled rice of red variety of shali should be given.
+• The boiled rice may also be given along with the soup of the meat of paravata , etc., sizzled with ghee and mixed with sugar. The soup of the meat having cooling effect like that of rabbits, birds and deer inhabiting deserts should be sizzled with ghee, mixed with sugar should be given. It may be ensured that these soups are free from any sour ingredients.
+• The blood of deer or goat, sizzled with ghee is also very useful.
+• The soup of the fruits of kashmarya , made slightly sour and mixed with sugar should be given.
+• The powder of nilotpala, mocharasa, samanga and padmakeshara should be administered along with the goat’s milk. After the digestion of this potion, the patient should be given rice with milk. If the patient is weak, then food can be given to him even before the above mentioned potion is digested.
+• Butter along with honey and sugar may be given before meals [71-76].
+
+--------------------------------------------------------------------------------
+
+MEASURES TO ALLEVIATE BLEEDING IN RAKTATISARA
+
+--------------------------------------------------------------------------------
+
+प्राश्यक्षीरोत्थितंसर्पिःकपिञ्जलरसाशनः | त्र्यहादारोग्यमाप्नोतिपयसाक्षीरभुक्तथा ||७७||
+
+--------------------------------------------------------------------------------
+
+पीत्वाशतावरीकल्कंपयसाक्षीरभुग्जयेत् | रक्तातिसारंपीत्वावातयासिद्धंघृतंनरः ||७८||
+
+--------------------------------------------------------------------------------
+
+घृतंयवागूमण्डेनकुटजस्यफलैःशृतम् | पेयंतस्यानुपातव्यापेयारक्तोपशान्तये ||७९||
+
+--------------------------------------------------------------------------------
+
+prāśya kṣīrōtthitaṁ sarpiḥ kapiñjalarasāśanaḥ| tryahādārōgyamāpnōti payasā kṣīrabhuk tathā||77||
+
+--------------------------------------------------------------------------------
+
+pītvā śatāvarīkalkaṁ payasā kṣīrabhugjayēt| raktātisāraṁ pītvā vā tayā siddhaṁ ghr̥taṁ naraḥ||78||
+
+--------------------------------------------------------------------------------
+
+ghr̥taṁ yavāgūmaṇḍēna kuṭajasya phalaiḥ śr̥tam| pēyaṁ tasyānu pātavyā pēyā raktōpaśāntayē||79||
+
+--------------------------------------------------------------------------------
+
+prAshya kShIrotthitaM sarpiH kapi~jjalarasAshanaH| tryahAdArogyamApnoti payasA kShIrabhuk tathA||77||
+
+--------------------------------------------------------------------------------
+
+pItvA shatAvarIkalkaM payasA kShIrabhugjayet| raktAtisAraM pItvA vA tayA siddhaM ghRutaM naraH||78||
+
+--------------------------------------------------------------------------------
+
+ghRutaM yavAgUmaNDena kuTajasya phalaiH shRutam| peyaM tasyAnu pAtavyA peyA raktopashAntaye||79||
+
+--------------------------------------------------------------------------------
+
+[UL]
+• After taking ghee collected from the cream of milk along with milk, the patient should take the meat soup of kapinjala . During this therapy, he should take milk in adequate quantity. It cures raktatisara in three days.
+• While consuming milk as food (drink), the patient should take the paste of shatavari mixed with milk. He may also take ghee boiled with the paste of shatavari .
+• Consumption of ghee cooked by adding the paste of fruits of kutaja , along with the scum (upper part) of yavagu , and followed by intake of peya (thin gruel) is advised [77-79].
+
+--------------------------------------------------------------------------------
+
+TREATMENT OF SANNIPATAJA ATISARA
+
+--------------------------------------------------------------------------------
+
+त्वक्चदारुहरिद्रायाःकुटजस्यफलानिच | पिप्पलीशृङ्गवेरंचद्राक्षाकटुकरोहिणी ||८०||
+
+--------------------------------------------------------------------------------
+
+षड्भिरेतैर्घृतंसिद्धंपेयामण्डावचारितम् | अतीसारंजयेच्छीघ्रंत्रिदोषमपिदारुणम् ||८१||
+
+--------------------------------------------------------------------------------
+
+tvak ca dāruharidrāyāḥ kuṭajasya phalāni ca| pippalī śr̥ṅgavēraṁ ca drākṣā kaṭukarōhiṇī||80||
+
+--------------------------------------------------------------------------------
+
+ṣaḍbhirētairghr̥taṁ siddhaṁ pēyāmaṇḍāvacāritam| atīsāraṁ jayēcchīghraṁ tridōṣamapi dāruṇam||81||
+
+--------------------------------------------------------------------------------
+
+tvak ca dAruharidrAyAH kuTajasya phalAni ca| pippalI shRu~ggaveraM ca drAkShA kaTukarohiNI||80||
+
+--------------------------------------------------------------------------------
+
+ShaDbhiretairghRutaM siddhaM peyAmaNDAvacAritam| atIsAraM jayecchIghraM tridoShamapi dAruNam||81||
+
+--------------------------------------------------------------------------------
+
+Ghee should be cooked by adding the six drugs, viz., the bark of daru-haridra , fruits of kutaja, pippali, shringavera, draksa and katukarohini . Intake of peya (thin gruel) and manda (very thin gruel) along with this medicated ghee cures a serious type of diarrhea even if caused by sannipata (simultaneous aggravation of all the three dosha ).[80-81]
+
+--------------------------------------------------------------------------------
+
+HEMOSTATIC RECIPES
+
+--------------------------------------------------------------------------------
+
+कृष्णमृन्मधुकंशङ्खंरुधिरंतण्डुलोदकम् | पीतमेकत्रसक्षौद्रंरक्तसङ्ग्रहणंपरम् ||८२||
+
+--------------------------------------------------------------------------------
+
+पीतःप्रियङ्गुकाकल्कःसक्षौद्रस्तण्डुलाम्भसा | रक्तस्रावंजयेच्छीघ्रंधन्वमांसरसाशिनः ||८३||
+
+--------------------------------------------------------------------------------
+
+कल्कस्तिलानांकृष्णानांशर्करापञ्चभागिकः | आजेनपयसापीतःसद्योरक्तंनियच्छति ||८४||
+
+--------------------------------------------------------------------------------
+
+पलंवत्सकबीजस्यश्रपयित्वारसंपिबेत् | योरसाशीजयेच्छीघ्रंसपैत्तंजठरामयम् ||८५||
+
+--------------------------------------------------------------------------------
+
+पीत्वासशर्कराक्षौद्रंचन्दनंतण्डुलाम्भसा | दाहतृष्णाप्रमेहेभ्योरक्तस्रावाच्चमुच्यते ||८६||
+
+--------------------------------------------------------------------------------
+
+kr̥ṣṇamr̥nmadhukaṁ śaṅkhaṁ rudhiraṁ taṇḍulōdakam| pītamēkatra sakṣaudraṁ raktasaṅgrahaṇaṁ param||82||
+
+--------------------------------------------------------------------------------
+
+pītaḥ priyaṅgukākalkaḥ sakṣaudrastaṇḍulāmbhasā| raktasrāvaṁ jayēcchīghraṁ dhanvamāṁsarasāśinaḥ||83||
+
+--------------------------------------------------------------------------------
+
+kalkastilānāṁ kr̥ṣṇānāṁ śarkarāpañcabhāgikaḥ| ājēna payasā pītaḥ sadyō raktaṁ niyacchati||84||
+
+--------------------------------------------------------------------------------
+
+palaṁ vatsakabījasya śrapayitvā rasaṁ pibēt| yō rasāśī jayēcchīghraṁ sa paittaṁ jaṭharāmayam||85||
+
+--------------------------------------------------------------------------------
+
+pītvā saśarkarākṣaudraṁ candanaṁ taṇḍulāmbhasā| dāhatr̥ṣṇāpramēhēbhyō raktasrāvācca mucyatē||86||
+
+--------------------------------------------------------------------------------
+
+kRuShNamRunmadhukaM sha~gkhaM rudhiraM taNDulodakam| pItamekatra sakShaudraM raktasa~ggrahaNaM param||82||
+
+--------------------------------------------------------------------------------
+
+pItaH priya~ggukAkalkaH sakShaudrastaNDulAmbhasA| raktasrAvaM jayecchIghraM dhanvamAMsarasAshinaH||83||
+
+--------------------------------------------------------------------------------
+
+kalkastilAnAM kRuShNAnAM sharkarApa~jcabhAgikaH| Ajena payasA pItaH sadyo raktaM niyacchati||84||
+
+--------------------------------------------------------------------------------
+
+palaM vatsakabIjasya shrapayitvA rasaM pibet| yo rasAshI jayecchIghraM sa paittaM jaTharAmayam||85||
+
+--------------------------------------------------------------------------------
+
+pItvA sasharkarAkShaudraM candanaM taNDulAmbhasA| dAhatRuShNApramehebhyo raktasrAvAcca mucyate||86||
+
+--------------------------------------------------------------------------------
+
+[UL]
+• Intake of krishnamrita (black earth), madhuka, shankha, rudhira (blood or kesara ) and rice-water, mixed with honey controls bleeding instantaneously.
+• The paste of priyangu should be added with rice-water ( tandulambu ). Intake of this, while taking the soup of the meat of animals inhabiting arid zone, in food, controls bleeding instantaneously.
+• One part of the paste of the black variety of tila should be added with four parts of sugar. Intake of this potion along with the goat’s milk checks bleeding instantaneously.
+• Intake of the decoction of the seeds of vatsaka , while taking meat-soup as food, cures pittaja disorders of abdomen ( jathara ).
+• Intake of chandana along with rice-water, mixed with sugar and honey cures burning sensation, morbid thirst, prameha and bleeding [82-86].
+
+--------------------------------------------------------------------------------
+
+TREATMENT OF ANAL SUPPURATION
+
+--------------------------------------------------------------------------------
+
+गुदोबहुभिरुत्थानैर्यस्यपित्तेनपच्यते | सेचयेत्तंसुशीतेनपटोलमधुकाम्बुना ||८७||
+
+--------------------------------------------------------------------------------
+
+पञ्चवल्कमधूकानांरसैरिक्षुरसैर्घृतैः | छागैर्गव्यैःपयोभिर्वाशर्कराक्षौद्रसंयुतैः ||८८||
+
+--------------------------------------------------------------------------------
+
+प्रक्षालनानांकल्कैर्वाससर्पिष्कैःप्रलेपयेत् | एषांवासुकृतैश्चूर्णैस्तंगुदंप्रतिसारयेत् ||८९||
+
+--------------------------------------------------------------------------------
+
+धातकीलोध्रचूर्णैर्वासमांशैःप्रतिसारयेत् | तथास्रवतिनोरक्तंगुदंतैःप्रतिसारितम् ||९०||
+
+--------------------------------------------------------------------------------
+
+पक्वताप्रशमंयातिवेदनाचोपशाम्यति | यथोक्तैःसेचनैःशीतैःशोणितेऽतिस्रवत्यपि ||९१||
+
+--------------------------------------------------------------------------------
+
+गुदवङ्क्षणकट्यूरुसेचयेद्घृतभावितम् | चन्दनाद्येनतैलेनशतधौतेनसर्पिषा ||९२||
+
+--------------------------------------------------------------------------------
+
+कार्पाससङ्गृहीतेनसेचयेद्गुदवङ्क्षणम् |९३|
+
+--------------------------------------------------------------------------------
+
+gudō bahubhirutthānairyasya pittēna pacyatē| sēcayēttaṁ suśītēna paṭōlamadhukāmbunā||87||
+
+--------------------------------------------------------------------------------
+
+pañcavalkamadhūkānāṁ rasairikṣurasairghr̥taiḥ| chāgairgavyaiḥ payōbhirvā śarkarākṣaudrasaṁyutaiḥ||88||
+
+--------------------------------------------------------------------------------
+
+prakṣālanānāṁ kalkairvā sasarpiṣkaiḥ pralēpayēt| ēṣāṁ vā sukr̥taiścūrṇaistaṁ gudaṁ prAtisārayēt||89||
+
+--------------------------------------------------------------------------------
+
+dhātakīlōdhracūrṇairvā samāṁśaiḥ prAtisārayēt| tathā sravati nō raktaṁ gudaṁ taiḥ pratisāritam||90||
+
+--------------------------------------------------------------------------------
+
+pakvatā praśamaṁ yāti vēdanā cōpaśāmyati| yathōktaiḥ sēcanaiḥ śītaiḥ śōṇitē'tisravatyapi||91||
+
+--------------------------------------------------------------------------------
+
+gudavaṅkṣaṇakaṭyūru sēcayēdghr̥tabhāvitam| candanādyēna tailēna śatadhautēna sarpiṣā||92||
+
+--------------------------------------------------------------------------------
+
+kārpāsasaṅgr̥hītēna sēcayēdgudavaṅkṣaṇam|93|
+
+--------------------------------------------------------------------------------
+
+gudo bahubhirutthAnairyasya pittena pacyate| secayettaM sushItena paTolamadhukAmbunA||87||
+
+--------------------------------------------------------------------------------
+
+pa~jcavalkamadhUkAnAM rasairikShurasairghRutaiH| chAgairgavyaiH payobhirvA sharkarAkShaudrasaMyutaiH||88||
+
+--------------------------------------------------------------------------------
+
+prakShAlanAnAM kalkairvA sasarpiShkaiH pralepayet| eShAM vA sukRutaishcUrNaistaM gudaM pratisArayet||89||
+
+--------------------------------------------------------------------------------
+
+dhAtakIlodhracUrNairvA samAMshaiH pratisArayet| tathA sravati no raktaM gudaM taiH pratisAritam||90||
+
+--------------------------------------------------------------------------------
+
+pakvatA prashamaM yAti vedanA copashAmyati| yathoktaiH secanaiH shItaiH shoNite~atisravatyapi||91||
+
+--------------------------------------------------------------------------------
+
+gudava~gkShaNakaTyUru secayedghRutabhAvitam| candanAdyena tailena shatadhautena sarpiShA||92||
+
+--------------------------------------------------------------------------------
+
+kArpAsasa~ggRuhItena secayedgudava~gkShaNam|93|
+
+--------------------------------------------------------------------------------
+
+Aggravated pitta suppurates the anus due to frequent evacuation of stool. The anus of such a patient should be sprinkled and applied with the following recipes which stops bleeding and pacifies suppuration and pain.
+
+--------------------------------------------------------------------------------
+
+[UL]
+• Exceedingly cold decoction of patola and madhuka
+• Decoction of pancha-valkala (barks of nyagrodha, udumbara, ashvattha, parisa and plaksha ) or sugar-cane juice. Milk or ghee of goat or cow mixed with sugar and honey. The paste of drugs mentioned above for washing (sprinkling over) the anus may be mixed with ghee and applied over the suppurated anus. The powder of the above mentioned drugs may also be used for pratisarana (dusting) over the suppurated anus.
+• The powder of dhataki and lodhra , taken in equal quantities, may be used for dusting over the suppurated anus.
+• If there is excessive bleeding (from the anus), the cold decoction of the above mentioned drugs should be impregnated with ghee, and sprinkled over the anal region, pelvic region, lumbar region and thighs.
+• Excessive bleeding should be controlled with a cotton pad soaked with chandanadya-taila [Cha.Sa. Chikitsa Sthana 3-258] or satadhauta-ghrita (ghee washed with cold water for one hundred times), and the oil or ghee; squeeze this pad over the anal and pelvic regions [87-92 ½]
+
+--------------------------------------------------------------------------------
+
+PICHCHA- BASTI (MUCILAGINOUS ENEMA) FOR DYSENTERY
+
+--------------------------------------------------------------------------------
+
+अल्पाल्पंबहुशोरक्तंसशूलमुपवेश्यते ||९३||
+
+--------------------------------------------------------------------------------
+
+यदावायुर्विबद्धश्चकृच्छ्रंचरतिवानवा | पिञ्छाबस्तिंतदातस्ययथोक्तमुपकल्पयेत् ||९४||
+
+--------------------------------------------------------------------------------
+
+प्रपौण्डरीकसिद्धेनसर्पिषाचानुवासयेत् | प्रायशोदुर्बलगुदाश्चिरकालातिसारिणः ||९५||
+
+--------------------------------------------------------------------------------
+
+तस्मादभीक्ष्णशस्तेषांगुदेस्नेहंप्रयोजयेत् |९६|
+
+--------------------------------------------------------------------------------
+
+alpālpaṁ bahuśō raktaṁ saśūlamupavēśyatē||93||
+
+--------------------------------------------------------------------------------
+
+yadā vāyurvibaddhaśca kr̥cchraṁ carati vā na vā| picchābastiṁ tadā tasya yathōktamupakalpayēt||94||
+
+--------------------------------------------------------------------------------
+
+prapauṇḍarīkasiddhēna sarpiṣā cānuvāsayēt| prāyaśō durbalagudāścirakālātisāriṇaḥ||95||
+
+--------------------------------------------------------------------------------
+
+tasmādabhīkṣṇaśastēṣāṁ gudē snēhaṁ prayōjayēt|96|
+
+--------------------------------------------------------------------------------
+
+alpAlpaM bahusho raktaM sashUlamupaveshyate||93||
+
+--------------------------------------------------------------------------------
+
+yadA vAyurvibaddhashca kRucchraM carati vA na vA| picchAbastiM tadA tasya yathoktamupakalpayet||94||
+
+--------------------------------------------------------------------------------
+
+prapauNDarIkasiddhena sarpiShA cAnuvAsayet| prAyasho durbalagudAshcirakAlAtisAriNaH||95||
+
+--------------------------------------------------------------------------------
+
+tasmAdabhIkShNashasteShAM gude snehaM prayojayet|96|
+
+--------------------------------------------------------------------------------
+
+When the movement of the aggravated vata (flatus) gets obstructed or moves with difficulty or seizing of vata inside the abdomen, then the patient voids blood frequently in small quantities which is associated with pain. Piccha- basti should be administered to such patients. This type of patient may also be managed by anuvasana basti given with medicated ghee prepared with prapaundarika . Because of chronic diarrhea, the anus of the patient generally becomes weak. Therefore cotton soaked in medicated ghee should be inserted into the anus frequently or anuvasana basti with medicated ghee is given [93-95½ ].
+
+--------------------------------------------------------------------------------
+
+MEDICATED ENEMA AND RECIPES OF LINCTUS
+
+--------------------------------------------------------------------------------
+
+पवनोऽतिप्रवृत्तोहिस्वेस्थानेलभतेऽधिकम् ||९६||
+
+--------------------------------------------------------------------------------
+
+बलंतस्यसपित्तस्यजयार्थेबस्तिरुत्तमः | रक्तंविट्सहितंपूर्वंपश्चाद्वायोऽतिसार्यते ||९७||
+
+--------------------------------------------------------------------------------
+
+शतावरीघृतंतस्यलेहार्थमुपकल्पयेत् | शर्करार्धांशिकंलीढंनवनीतंनवोद्धृतम् ||९८||
+
+--------------------------------------------------------------------------------
+
+क्षौद्रपादंजयेच्छीघ्रंतंविकारंहिताशिनः | न्यग्रोधोदुम्बराश्वत्थशुङ्गानापोथ्यवासयेत् ||९९||
+
+--------------------------------------------------------------------------------
+
+अहोरात्रंजलेतप्तेघृतंतेनाम्भसापचेत् | तदर्धशर्करायुक्तंलिह्यात्सक्षौद्रपादिकम् ||१००||
+
+--------------------------------------------------------------------------------
+
+अधोवायदिवाऽप्यूर्ध्वंयस्यरक्तंप्रवर्तते |१०१|
+
+--------------------------------------------------------------------------------
+
+pavanō'tipravr̥ttō hi svē sthānē labhatē'dhikam||96||
+
+--------------------------------------------------------------------------------
+
+balaṁ tasya sapittasya jayārthē bastiruttamaḥ| raktaṁ viṭsahitaṁ pūrvaṁ paścādvā yō'tisāryatē||97||
+
+--------------------------------------------------------------------------------
+
+śatāvarīghr̥taṁ tasya lēhārthamupakalpayēt| śarkarārdhāṁśikaṁ līḍhaṁ navanītaṁ navōddhr̥tam||98||
+
+--------------------------------------------------------------------------------
+
+kṣaudrapādaṁ jayēcchīghraṁ taṁ vikāraṁ hitāśinaḥ| nyagrōdhōdumbarāśvatthaśuṅgānāpōthya vāsayēt||99||
+
+--------------------------------------------------------------------------------
+
+ahōrātraṁ jalē taptē ghr̥taṁ tēnāmbhasā pacēt| tadardhaśarkarāyuktaṁ lihyāt sakṣaudrapādikam||100||
+
+--------------------------------------------------------------------------------
+
+adhō vā yadi vā'pyūrdhvaṁ yasya raktaṁ pravartatē|101|
+
+--------------------------------------------------------------------------------
+
+pavano~atipravRutto hi sve sthAne labhate~adhikam||96||
+
+--------------------------------------------------------------------------------
+
+balaM tasya sapittasya jayArthe bastiruttamaH| raktaM viTsahitaM pUrvaM pashcAdvA yo~atisAryate||97||
+
+--------------------------------------------------------------------------------
+
+shatAvarIghRutaM tasya lehArthamupakalpayet| sharkarArdhAMshikaM lIDhaM navanItaM navoddhRutam||98||
+
+--------------------------------------------------------------------------------
+
+kShaudrapAdaM jayecchIghraM taM vikAraM hitAshinaH| nyagrodhodumbarAshvatthashu~ggAnApothya vAsayet||99||
+
+--------------------------------------------------------------------------------
+
+ahorAtraM jale tapte ghRutaM tenAmbhasA pacet| tadardhasharkarAyuktaM lihyAt sakShaudrapAdikam||100||
+
+--------------------------------------------------------------------------------
+
+adho vA yadi vA~apyUrdhvaM yasya raktaM pravartate|101|
+
+--------------------------------------------------------------------------------
+
+[UL]
+• The aggravated vata becomes stronger in its own site in atisara patients. For the pacification of aggravated vata associated with pitta (which takes place in bloody diarrhea), basti (both the anuvasana and niruha types) is the best therapy.
+• If bleeding takes place before evacuating the stool or after evacuation of stool (i.e., a case of raktatisara ), then shatavari-ghrita [Cha.Sa. Chikitsa Sthana 30/64-69] in the form of linctus should be given.
+• Intake of freshly collected butter along with half the quantity of sugar and one fourth quantity of honey cures the above mentioned ailments. While taking this potion, the patient should take wholesome food. Adventitious roots of nyagrodha, udumbara and ashvattha should be crushed and kept soaked in hot water for twenty four hours. Ghee should be cooked along with this water. This medicated ghee should be added with half the quantity of sugar and one fourth in quantity of honey, and taken in the form of linctus. It cures raktatisara , associated with bleeding either before or after the passing of stool [96-100½]
+
+--------------------------------------------------------------------------------
+
+SUPPURATION OF ANAL SPHINCTERS
+
+--------------------------------------------------------------------------------
+
+यस्त्वेवंदुर्बलोमोहात्पित्तलान्येवसेवते ||१०१||
+
+--------------------------------------------------------------------------------
+
+दारुणंसवलीपाकंप्राप्यशीघ्रंविपद्यते |१०२|
+
+--------------------------------------------------------------------------------
+
+yastvēvaṁ durbalō mōhāt pittalānyēva sēvatē||101||
+
+--------------------------------------------------------------------------------
+
+dāruṇaṁ sa valīpākaṁ prāpya śīghraṁ vipadyatē|102|
+
+--------------------------------------------------------------------------------
+
+yastvevaM durbalo mohAt pittalAnyeva sevate||101||
+
+--------------------------------------------------------------------------------
+
+dAruNaM sa valIpAkaM prApya shIghraM vipadyate|102|
+
+--------------------------------------------------------------------------------
+
+A patient who has become weak because of raktatisara , if indulges in pitta -aggravating ingredients out of ignorance, then the anal sphincters gets suppurated. This is a serious condition leading to instantaneous death [101½].
+
+--------------------------------------------------------------------------------
+
+TREATMENT OF KAPHAJA ATISARA
+
+--------------------------------------------------------------------------------
+
+श्लेष्मातिसारेप्रथमंहितंलङ्घनपाचनम् ||१०२||
+
+--------------------------------------------------------------------------------
+
+योज्यश्चामातिसारघ्नोयथोक्तोदीपनोगणः | लङ्घितस्यानुपूर्व्यांचकृतायांननिवर्तते ||१०३||
+
+--------------------------------------------------------------------------------
+
+कफजोयद्यतीसारःकफघ्नैस्तमुपाचरेत् | बिल्वंकर्कटिकामुस्तमभयाविश्वभेषजम् ||१०४||
+
+--------------------------------------------------------------------------------
+
+वचाविडङ्गंभूतीकंधान्यकंदेवदारुच | कुष्ठंसातिविषापाठाचव्यंकटुकरोहिणी ||१०५||
+
+--------------------------------------------------------------------------------
+
+पिप्पलीपिप्पलीमूलंचित्रकंहस्तिपिप्पली | योगाञ्छ्लोकार्धविहितांश्चतुरस्तान्प्रयोजयेत् ||१०६||
+
+--------------------------------------------------------------------------------
+
+शृताञ्छ्लेष्मातिसारेषुकायाग्निबलवर्धनान् | अजाजीमसितांपाठांनागरंमरिचानिच ||१०७||
+
+--------------------------------------------------------------------------------
+
+धातकीद्विगुणंदद्यान्मातुलुङ्गरसाप्लुतम् | रसाञ्जनंसातिविषंकुटजस्यफलानिच ||१०८||
+
+--------------------------------------------------------------------------------
+
+धातकीद्विगुणंदद्यात्पातुंसक्षौद्रनागरम् | धातकीनागरंबिल्वंलोध्रंपद्मस्यकेशरम् ||१०९||
+
+--------------------------------------------------------------------------------
+
+जम्बूत्वङ्नागरंधान्यंपाठामोचरसोबला | समङ्गाधातकीबिल्वमध्यंजम्ब्वाम्रयोस्त्वचः ||११०||
+
+--------------------------------------------------------------------------------
+
+कपित्थानिविडङ्गानिनागरंमरिचानिच | चाङ्गेरीकोलतक्राम्लांश्चतुरस्तान्कफोत्तरे ||१११||
+
+--------------------------------------------------------------------------------
+
+श्लोकार्धविहितान्दद्यात्सस्नेहलवणान्खडान् | कपित्थमध्यंलीढ्वातुसव्योषक्षौद्रशर्करम् ||११२||
+
+--------------------------------------------------------------------------------
+
+कट्फलंमधुयुक्तंवामुच्यतेजठरामयात् |११३|
+
+--------------------------------------------------------------------------------
+
+ślēṣmātisārē prathamaṁ hitaṁ laṅghanapācanam||102||
+
+--------------------------------------------------------------------------------
+
+yōjyaścāmātisāraghnō yathōktō dīpanō gaṇaḥ| laṅghitasyānupūrvyāṁ ca kr̥tāyāṁ na nivartatē||103||
+
+--------------------------------------------------------------------------------
+
+kaphajō yadyatīsāraḥ kaphaghnaistamupācarēt bilvaṁ karkaṭikā mustamabhayā viśvabhēṣajam||104||
+
+--------------------------------------------------------------------------------
+
+vacā viḍaṅgaṁ bhūtīkaṁ dhānyakaṁ dēvadāru ca| kuṣṭhaṁ sātiviṣā pāṭhā cavyaṁ kaṭukarōhiṇī||105||
+
+--------------------------------------------------------------------------------
+
+pippalī pippalīmūlaṁ citrakaṁ hastipippalī| yōgāñchlōkārdhavihitāṁścaturastān prayōjayēt||106||
+
+--------------------------------------------------------------------------------
+
+śr̥tāñchlēṣmātisārēṣu kāyāgnibalavardhanān| ajājīmasitāṁ pāṭhāṁ nāgaraṁ maricāni ca||107||
+
+--------------------------------------------------------------------------------
+
+dhātakīdviguṇaṁ dadyānmātuluṅgarasāplutam| rasāñjanaṁ sātiviṣaṁ kuṭajasya phalāni ca||108||
+
+--------------------------------------------------------------------------------
+
+dhātakīdviguṇaṁ dadyāt pātuṁ sakṣaudranāgaram| dhātakī nāgaraṁ bilvaṁ lōdhraṁ padmasya kēśaram||109||
+
+--------------------------------------------------------------------------------
+
+jambūtvaṅnāgaraṁ dhānyaṁ pāṭhā mōcarasō balā| samaṅgā dhātakī bilvamadhyaṁ jambvāmrayōstvacaḥ||110||
+
+--------------------------------------------------------------------------------
+
+kapitthāni viḍaṅgāni nāgaraṁ maricāni ca| cāṅgērīkōlatakrāmlāṁścaturastān kaphōttarē||111||
+
+--------------------------------------------------------------------------------
+
+ślōkārdhavihitān dadyāt sasnēhalavaṇān khaḍān| kapitthamadhyaṁ līḍhvā tu savyōṣakṣaudraśarkaram||112||
+
+--------------------------------------------------------------------------------
+
+kaṭphalaṁ madhuyuktaṁ vā mucyatē jaṭharāmayāt|113|
+
+--------------------------------------------------------------------------------
+
+shleShmAtisAre prathamaM hitaM la~gghanapAcanam||102||
+
+--------------------------------------------------------------------------------
+
+yojyashcAmAtisAraghno yathokto dIpano gaNaH| la~gghitasyAnupUrvyAM ca kRutAyAM na nivartate||103||
+
+--------------------------------------------------------------------------------
+
+kaphajo yadyatIsAraH kaphaghnaistamupAcaret|104|
+
+--------------------------------------------------------------------------------
+
+bilvaM karkaTikA mustamabhayA vishvabheShajam||104||
+
+--------------------------------------------------------------------------------
+
+vacA viDa~ggaM bhUtIkaM dhAnyakaM devadAru ca| kuShThaM sAtiviShA pAThA cavyaM kaTukarohiNI||105||
+
+--------------------------------------------------------------------------------
+
+pippalI pippalImUlaM citrakaM hastipippalI| yogA~jchlokArdhavihitAMshcaturastAn prayojayet||106||
+
+--------------------------------------------------------------------------------
+
+shRutA~jchleShmAtisAreShu kAyAgnibalavardhanAn| ajAjImasitAM pAThAM nAgaraM maricAni ca||107||
+
+--------------------------------------------------------------------------------
+
+dhAtakIdviguNaM dadyAnmAtulu~ggarasAplutam| rasA~jjanaM sAtiviShaM kuTajasya phalAni ca||108||
+
+--------------------------------------------------------------------------------
+
+dhAtakIdviguNaM dadyAt pAtuM sakShaudranAgaram| dhAtakI nAgaraM bilvaM lodhraM padmasya kesharam||109||
+
+--------------------------------------------------------------------------------
+
+jambUtva~gnAgaraM dhAnyaM pAThA mocaraso balA| sama~ggA dhAtakI bilvamadhyaM jambvAmrayostvacaH||110||
+
+--------------------------------------------------------------------------------
+
+kapitthAni viDa~ggAni nAgaraM maricAni ca| cA~ggerIkolatakrAmlAMshcaturastAn kaphottare||111||
+
+--------------------------------------------------------------------------------
+
+shlokArdhavihitAn dadyAt sasnehalavaNAn khaDAn| kapitthamadhyaM lIDhvA tu savyoShakShaudrasharkaram||112||
+
+--------------------------------------------------------------------------------
+
+kaTphalaM madhuyuktaM vA mucyate jaTharAmayAt|113|
+
+--------------------------------------------------------------------------------
+
+For the cure of kaphaja atisara, following therapy and recipes should be administered:
+
+--------------------------------------------------------------------------------
+
+[UL]
+• Fasting ( langhana ) and carminative ( pachana ) therapies should be administered in the beginning.
+• The group of drugs which stimulates the power of digestion ( dipana -gana) which is prescribed for the treatment of ama-atisara should be given.
+• If the kaphaja atisara persists even after the administration of the above mentioned measures, then the patient should be given kapha alleviating therapies.
+• The following four decoctions cure kaphaja atisara as well as promotes kayagni (power of digestion and metabolism) Decoction of bilva, karkatika, musta, abhaya and vishva-bheshaja ( shunthi ) Decoction of vacha, vidanga, bhutika, dhanyaka and devadaru Decoction of kushtha, ativisha, pātha, chavya and katukarohini Decoction of pippali, pippali-mula, chitraka and gajapippali
+• Administration of the recipe containing one part each of black variety of ajaji, pachana, nagara and maricha and two parts of dhataki along with profuse quantity of lime juice.
+• One part each of rasanjana, ativisha and fruits of kutaja , and two parts of dhataki should be added with honey and ginger. This potion should be given to drink.
+• For the treatment of kaphaja atisara, the following four recipes should be given in the form of khada (a type of sour drink which stimulates the power of digestion). Dhataki, nagara, bilva, lodhra and padmakesara ; bark of jambu, nagara, dhanya, patha, mocha-rasa and bala ; samanga, dhataki, pulp of bilva and the bark of jambu and amra ; and kapittha, vidanga, nagara and maricha .
+
+--------------------------------------------------------------------------------
+
+The above mentioned recipes should be added with the sour juice of changeri and kola and butter-milk and given to the patient after adding ghee and salt.
+
+--------------------------------------------------------------------------------
+
+[UL]
+• Intake of the pulp of kapittha along with shunthi, pippali, maricha, honey and sugar, or katphala along with honey cures diseases of digestive system ( jathara ).
+• Intake of pippali along with honey, or butter-milk added with the powder of chitraka or the powder of the tender fruits of bilva cures diseases of digestive system [102-112½].
+
+--------------------------------------------------------------------------------
+
+MANAGEMENT OF COMPLICATIONS OF ATISARA
+
+--------------------------------------------------------------------------------
+
+कणांमधुयुतांपीत्वातक्रंपीत्वासचित्रकम् ||११३||
+
+--------------------------------------------------------------------------------
+
+जग्ध्वावाबालबिल्वानिमुच्यतेजठरामयात् | बालबिल्वंगुडंतैलंपिप्पलींविश्वभेषजम् | लिह्याद्वातेप्रतिहतेसशूलःसप्रवाहिकः ||११४||
+
+--------------------------------------------------------------------------------
+
+भोज्यंमूलकषायेणवातघ्नैश्चोपसेवनैः | वातातिसारविहितैर्यूषैर्मांसरसैःखडैः ||११५||
+
+--------------------------------------------------------------------------------
+
+पूर्वोक्तमम्लसर्पिर्वाषट्पलंवायथाबलम् | पुराणंवाघृतंदद्याद्यवागूमण्डमिश्रितम् ||११६||
+
+--------------------------------------------------------------------------------
+
+kaṇāṁ madhuyutāṁ pītvā takraṁ pītvā sacitrakam||113||
+
+--------------------------------------------------------------------------------
+
+jagdhvā vā bālabilvāni mucyatē jaṭharāmayāt| bālabilvaṁ guḍaṁ tailaṁ pippalīṁ viśvabhēṣajam| lihyādvātē pratihatē saśūlaḥ sapravāhikaḥ||114||
+
+--------------------------------------------------------------------------------
+
+bhōjyaṁ mūlakaṣāyēṇa vātaghnaiścōpasēvanaiḥ| vātātisāravihitairyūṣairmāṁsarasaiḥ khaḍaiḥ||115||
+
+--------------------------------------------------------------------------------
+
+pūrvōktamamlasarpirvā ṣaṭpalaṁ vā yathābalam| purāṇaṁ vā ghr̥taṁ dadyādyavāgūmaṇḍamiśritam||116||
+
+--------------------------------------------------------------------------------
+
+kaNAM madhuyutAM pItvA takraM pItvA sacitrakam||113||
+
+--------------------------------------------------------------------------------
+
+jagdhvA vA bAlabilvAni mucyate jaTharAmayAt| bAlabilvaM guDaM tailaM pippalIM vishvabheShajam| lihyAdvAte pratihate sashUlaH sapravAhikaH||114||
+
+--------------------------------------------------------------------------------
+
+bhojyaM mUlakaShAyeNa vAtaghnaishcopasevanaiH| vAtAtisAravihitairyUShairmAMsarasaiH khaDaiH||115||
+
+--------------------------------------------------------------------------------
+
+pUrvoktamamlasarpirvA ShaTpalaM vA yathAbalam| purANaM vA ghRutaM dadyAdyavAgUmaNDamishritam||116||
+
+--------------------------------------------------------------------------------
+
+[UL]
+• If the movement of vata (flatus) is obstructed resulting in colic pain and dysentery, then the patient should be given tender fruits of bilva , jaggery, oil, pippali and shunthi .
+• Diet prepared with vata alleviating ingredients along with the vegetable soup, meat soup and khada (a type of sour drink) described under vataja atisara should be given.
+• Sour medicated ghee like changeri ghrita or shatpala ghrita [Cha.Sa. Chikitsa Sthana 5/ 147-148 ] or (ten years) old ghee mixed with yavagu (thick gruel) and manda (thin gruel) should be given [113-116].
+
+--------------------------------------------------------------------------------
+
+PICCHA- BASTI AND ANUVASANA- BASTI
+
+--------------------------------------------------------------------------------
+
+वातश्लेष्मविबन्धेवाकफेवाऽतिस्रवत्यपि | शूलेप्रवाहिकायांवापिच्छाबस्तिंप्रयोजयेत् ||११७||
+
+--------------------------------------------------------------------------------
+
+पिप्पलीबिल्वकुष्ठानांशताह्वावचयोरपि | कल्कैःसलवणैर्युक्तंपूर्वोक्तंसन्निधापयेत् ||११८||
+
+--------------------------------------------------------------------------------
+
+प्रत्यागतेसुखंस्नातंकृताहारंदिनात्यये | बिल्वतैलेनमतिमान्सुखोष्णेनानुवासयेत् ||११९||
+
+--------------------------------------------------------------------------------
+
+वचान्तैरथवाकल्कैस्तैलंपक्त्वाऽनुवासयेत् | बहुशःकफवातार्तस्तथासलभतेसुखम् ||१२०||
+
+--------------------------------------------------------------------------------
+
+vātaślēṣmavibandhē vā kaphē vā'tisravatyapi| śūlē pravāhikāyāṁ vā picchābastiṁ prayōjayēt||117||
+
+--------------------------------------------------------------------------------
+
+pippalībilvakuṣṭhānāṁ śatāhvāvacayōrapi| kalkaiḥ salavaṇairyuktaṁ pūrvōktaṁ sannidhāpayēt||118||
+
+--------------------------------------------------------------------------------
+
+pratyāgatē sukhaṁ snātaṁ kr̥tāhāraṁ dinātyayē| bilvatailēna matimānsukhōṣṇēnānuvāsayēt||119||
+
+--------------------------------------------------------------------------------
+
+vacāntairathavā kalkaistailaṁ paktvā'nuvāsayēt| bahuśaḥ kaphavātārtastathā sa labhatē sukham||120||
+
+--------------------------------------------------------------------------------
+
+vAtashleShmavibandhe vA kaphe vA~atisravatyapi| shUle pravAhikAyAM vA picchAbastiM prayojayet||117||
+
+--------------------------------------------------------------------------------
+
+pippalIbilvakuShThAnAM shatAhvAvacayorapi| kalkaiH salavaNairyuktaM pUrvoktaM sannidhApayet||118||
+
+--------------------------------------------------------------------------------
+
+pratyAgate sukhaM snAtaM kRutAhAraM dinAtyaye| bilvatailena matimAnsukhoShNenAnuvAsayet||119||
+
+--------------------------------------------------------------------------------
+
+vacAntairathavA kalkaistailaM paktvA~anuvAsayet| bahushaH kaphavAtArtastathA sa labhate sukham||120||
+
+--------------------------------------------------------------------------------
+
+For the cure of kaphaja and vataja -predominant atisara , the following therapy and recipes should be administered:
+
+--------------------------------------------------------------------------------
+
+[UL]
+• If vata and kapha are obstructed in the mahasrotas , if there is excessive evacuation of kapha (mucus) and if there is colic pain as well as dysentery, then piccha- basti (mucilaginous enema) should be administered.
+• Piccha- basti should be prepared of the paste of pippali, bilva, kustha, shatahva and vacha by adding salt.
+• Patient feels comfortable after the ingredients of pichcha- basti come out of the rectum and then patient should be advised to take bath followed by intake of food. Anuvasana basti with lukewarm oil of bilva [Cha.Sa. Siddhi Sthana 4/ 4-7] should be given in the afternoon.The anuvasana basti can also be given frequently with the oil cooked with the paste of pippali, bilva, kushtha, shatahva and vacha [117-120].
+
+--------------------------------------------------------------------------------
+
+NEED FOR IMMEDIATE CONTROL OF VATA
+
+--------------------------------------------------------------------------------
+
+स्वेस्थानेमारुतोऽवश्यंवर्धतेकफसङ्क्षये | सवृद्धःसहसाहन्यात्तस्मात्तंत्वरयाजयेत् ||१२१||
+
+--------------------------------------------------------------------------------
+
+svē sthānē mārutō'vaśyaṁ vardhatē kaphasaṅkṣayē| sa vr̥ddhaḥ sahasā hanyāttasmāttaṁ tvarayā jayēt||121||
+
+--------------------------------------------------------------------------------
+
+sve sthAne mAruto~avashyaM vardhate kaphasa~gkShaye| sa vRuddhaH sahasA hanyAttasmAttaM tvarayA jayet||121||
+
+--------------------------------------------------------------------------------
+
+When kapha gets reduced because of the above mentioned therapeutic measures, the vata undoubtedly gets aggravated in its own location (colon). This aggravated vata may cause instantaneous death and hence should be controlled without delay [121]
+
+--------------------------------------------------------------------------------
+
+PRINCIPLE OF TREATMENT OF SANNIPATAJA ATISARA
+
+--------------------------------------------------------------------------------
+
+वातस्यानुजयेत्पित्तं, पित्तस्यानुजयेत्कफम् | त्रयाणांवाजयेत्पूर्वंयोभवेद्बलवत्तमः ||१२२||
+
+--------------------------------------------------------------------------------
+
+vātasyānu jayēt pittaṁ, pittasyānu jayēt kapham| trayāṇāṁ vā jayēt pūrvaṁ yō bhavēdbalavattamaḥ||122||
+
+--------------------------------------------------------------------------------
+
+vAtasyAnu jayet pittaM, pittasyAnu jayet kapham| trayANAM vA jayet pUrvaM yo bhavedbalavattamaH||122||
+
+--------------------------------------------------------------------------------
+
+For the cure of sannipataja atisara, following therapy and recipes should be administered:
+
+--------------------------------------------------------------------------------
+
+[UL]
+• The aggravated vata should be pacified first followed by the alleviation of the aggravated pitta followed by alleviation of kapha .
+• Alternatively, the most aggravated one should be controlled first followed by the treatment of the remaining two dosha [122].
+
+--------------------------------------------------------------------------------
+
+SUMMARY
+
+--------------------------------------------------------------------------------
+
+तत्रश्लोकः-
+
+--------------------------------------------------------------------------------
+
+प्रागुत्पत्तिनिमित्तानिलक्षणंसाध्यतानच | क्रियाचावस्थिकीसिद्धानिर्दिष्टाह्यतिसारिणाम् ||१२३||
+
+--------------------------------------------------------------------------------
+
+tatra ślōkaḥ-
+
+--------------------------------------------------------------------------------
+
+prāgutpattinimittāni lakṣaṇaṁ sādhyatā na ca| kriyā cāvasthikī siddhā nirdiṣṭā hyatisāriṇām||123||
+
+--------------------------------------------------------------------------------
+
+tatra shlokaH-
+
+--------------------------------------------------------------------------------
+
+prAgutpattinimittAni lakShaNaM sAdhyatA na ca| kriyA cAvasthikI siddhA nirdiShTA hyatisAriNAm||123||
+
+--------------------------------------------------------------------------------
+
+In this chapter, the following topics in respect of the patient suffering from atisara (diarrhea) are described:
+
+--------------------------------------------------------------------------------
+
+[UL]
+• Historical origin of atisara
+• Etiology of different types of atisara
+• Signs and symptoms of atisara
+• Curability and incurability of atisara
+• Effective treatment for different stages of atisara [123].
+
+--------------------------------------------------------------------------------
+
+इत्यग्निवेशकृतेतन्त्रेचरकप्रतिसंस्कृतेचिकित्सास्थानेऽतिसारचिकित्सितंनामैकोनविंशोऽध्यायः ||१९||
+
+--------------------------------------------------------------------------------
+
+ityagnivēśakr̥tē tantrē carakapratisaṁskr̥tē cikitsāsthānē'tisāracikitsitaṁ nāmaikōnaviṁśō'dhyāyaḥ||19||
+
+--------------------------------------------------------------------------------
+
+Thus, ends the nineteenth chapter of Chikitsa Sthana (section on the treatment of diseases) dealing with the treatment of atisara (diarrhea) in the work of Agnivesha as redacted by Charak [19]
+
+--------------------------------------------------------------------------------
+
+TATTVA VIMARSHA (FUNDAMENTAL PRINCIPLES)
+
+--------------------------------------------------------------------------------
+
+[UL]
+• Atisara is caused by intake of heavy to digest, excessively hot and food that is incompatible to the body, impairment of agni and mind. The body reacts to expel out the incompatible material out of gut in the form of atisara .
+• There are five categories of etio-pathological factors for atisara :
+
+--------------------------------------------------------------------------------
+
+[OL]
+• Reduced agni ,
+• Vitiated vata and its sub types samana and apana .
+• Vitiated body fluids.
+• Vitiated purishavaha srotas (lower gastro-intestinal tract) and organs of excretion.
+• Fear and grief (mental).
+
+--------------------------------------------------------------------------------
+
+[UL]
+• Interaction of Prakriti (basic constitution) and the diet and lifestyle of similar properties (as that of dosha Prakriti ) makes the person susceptible for atisara .
+• The exogenous factors like consumption of intoxicating beverages, exposure to krimi (bacteria and parasites), other diseases like shosha, jwara, arsha influence all the above factors and three dosha to cause sannipatik atisara (diarrhea) which includes bloody diarrhea.
+• If spicy, hot, dry food in large quantity is ingested when agni is low, undigested food becomes waste product and samana vata sends it to excretory channels where apana vayu increases the motility of purishavaha srotas to excretes these large waste products, frequently.
+• To fill this vacuum created by expulsion of wastes, the body fluids shift to the gut and get expelled out as atisara /diarrhea causing dehydration.Thus after involvement of purishavaha srotasa ( lower GIT), udakavaha srotasa (body fluids) is also predominantly involved in pathogenesis of atisara .
+• Fear and grief are two important mental factors leading to atisara . The presentation and treatment of this atisara is similar to vata dominant atisara . The fear shall be treated with harshana (exhilaration) treatment and grief shall be treated with ashwasana (consolation) therapy.
+• The endogenous atisara shall be treated after proper assessment of dominant dosha , causative factors and pacifying factors,
+• At the initial stage of atisara when undigested food is being expelled, stambhan (anti diarrheal treatment) is strictly contraindicated. If stambhana is given, it leads to various complications. Mild laxatives like haritaki shall be administered for evacuating the mala (accumulated undigested wastes). Deepana and pachana (stimulation of agni for digestion and metabolism) should be given with light nutritive liquid foods. After restoration of agni , stambhana is given and care should taken to keep vata balanced.
+• In case of prolapse of rectum, medicated ghee processed with sour herbs or anuvasana (unctuous enema) is prescribed.
+• Various states of atisara like that mixed with mucous, blood, associated with colic pain shall be treated with pichcha basti (mucilaginous enema).
+• When kapha gets reduced because of the above mentioned therapeutic measures, the vata is aggravated in its own location (colon). This aggravated vata must be immediately treated as it may cause instantaneous death.
+• In case of sannipataja atisara , at first the aggravated vata shall be pacified followed by pitta and kapha . Alternatively, the most aggravated one should be controlled first followed by the treatment of the remaining two dosha .
+
+--------------------------------------------------------------------------------
+
+VIDHI VIMARSHA (APPLIED INFERENCES )
+
+--------------------------------------------------------------------------------
+
+The disease atisara resembles the clinical condition of diarrhea and is defined as the passage of frequent, liquid stools (usually of more than 200 g of stool) daily. In the most severe instances of atisara , incontinence is a commonly observed symptom. Diarrhea, among adults, could broadly be categorized as sudden onset(acute), or chronic diarrhea that could last for 14 days or more.
+
+--------------------------------------------------------------------------------
+
+ACUTE (SUDDEN ONSET) DIARRHEA
+
+--------------------------------------------------------------------------------
+
+This is most common variant and in over 90% of cases is infectious, caused due to ingestion of contaminated food or water. Other causes may include drug induced especially antibiotics, diverticulitis, ischemia, radiation enterocholitis, food allergies or initial presentation of various gastrointestinal diseases.
+
+--------------------------------------------------------------------------------
+
+CHRONIC (OR RELAPSING) DIARRHEA [ 1 ]
+
+--------------------------------------------------------------------------------
+
+Defined as loose stools (occurring three or more times a day) that last for weeks. A most common variant is the Irritable Bowel Syndrome (IBS). Chronic diarrhea could be a symptom of an inflammatory bowel disease like Crohn's Disease, ulcerative colitis, malabsorption syndrome, metabolic or endocrine disorders, food allergies, laxative abuse, neoplasm, or reaction to certain medications.
+
+--------------------------------------------------------------------------------
+
+Careful assessment of the patient's medical history, physical examination, CBC, electrolytes, stool and urine examination are initial tests advised to help assess the underlying causes. Further specialised investigations may be needed depending upon the condition of patient.
+
+--------------------------------------------------------------------------------
+
+PATHOPHYSIOLOGICAL FACTORS OF ENDOGENOUS DIARRHEA
+
+--------------------------------------------------------------------------------
+
+[UL]
+• Dosha : Vata dominant three dosha
+• Dhatu (vitiated factors): Udaka (body fluid), Rasa dhatu
+• Mala kriya affected: Purisha (defecation)
+• Status of agni : Manda (poor)
+• Origin of disease: Pakwashaya (large intestine)
+• Sites of vitiation: large intestine
+• Sites of clinical presentation: rectum and anus
+• Srotasa involved: Purishavaha srotasa and udakavaha srotasa
+• Type of samprapti: atipravritti (excess discharge)
+
+--------------------------------------------------------------------------------
+
+MANAGEMENT PROTOCOL OF ENDOGENOUS DIARRHEA
+
+--------------------------------------------------------------------------------
+
+ASSESSMENT OF STRENGTH OF PATIENT
+
+--------------------------------------------------------------------------------
+
+Excess dehydration in case of diarrhea can lead to serious complications. Hence the strength of the patient should be assessed first for severity of dehydration. This helps to design treatment protocol. Vital parameters including pulse rate, its volume, blood pressure, heart rate shall be examined.
+
+--------------------------------------------------------------------------------
+
+SUBJECTIVE AND OBJECTIVE PARAMETERS
+
+--------------------------------------------------------------------------------
+
+Frequency of bowel more than three times a day with stool weight less than 200 grams with more watery content are considered as diarrhea. The quantity is less in vata dominance, medium in pitta dominance and more in kapha dominant. Frequency is more in vata dominance, medium in pitta dominance and less in kapha dominance. The consistency of stool also differs according to dosha dominance as described in the text. Purisha pariksha (stool examination) is researched further in view of frequency, consistency, smell, its specific gravity in water to determine the ama and nirama status of purisha .
+
+--------------------------------------------------------------------------------
+
+PREVENTION OF ATISARA
+
+--------------------------------------------------------------------------------
+
+ATISARA CAN BE PREVENTED BY FOLLOWING MEASURES
+
+--------------------------------------------------------------------------------
+
+[OL]
+• Avoiding causative factors
+• Strengthening agni (digestive processes) by following dietary rules
+• Observing body purification treatments as per Prakriti and season
+
+--------------------------------------------------------------------------------
+
+CURRENT CLINICAL MANAGEMENT IN AYURVEDA PRACTICE
+
+--------------------------------------------------------------------------------
+
+[UL]
+• Principles of treatment : deepana , grahi, pachana , buttermilk
+• Main drugs : kutaja, ahiphena, bhanga, bhallataka, bilva
+
+--------------------------------------------------------------------------------
+
+[TABLE]
+Type | Formulation | Dose | Time | Anupana
+Vata and kapha dominant | Jatiphaladi–bhallataka guti | 60-120 mg | Before meals, two times | Buttermilk
+Sanjivani vati | 60-250 mg | Before meals | Buttermilk
+Pitta and kapha dominant | Kutaja kalpa | 60-120 mg | Before meals, two times | Ricewater with Buttermilk
+Raktaja | Shatavaryadi kwatha | 25-40 ml | Empty stomach | -
+Pravahika (dysentry) | Isabgola seeds (cold effusion with sugar) | 5-10 ml | Morning and night, two times | -
+Ahiphena kalpa | 125-250 mg | Morning and night, two times | kutajavaleha
+Kutaja parpati | 250-1000 mg | Empty stomach | Honey
+Chronic | Dhanya panchaka churna | 10-25 mg | Between meals | Bilvavaleha
+Shatpala ghee | 10-25 ml | Before meals | Buttermilk or hot water
+Bilwadi tailam | 10-25 grams | Before meals | Buttermilk
+
+--------------------------------------------------------------------------------
+
+RESEARCHES ON ATISARA AND MEDICINES
+
+--------------------------------------------------------------------------------
+
+A combination of musta (cyperus rotundus), ativisha (aconitum heterophyllum), kutaja (holarrhena antidysenterica), chitraka (plumbago zeylanica) and bilva (Aegle marmelos) was found effective in management of atisara . [ 2 ]
+
+--------------------------------------------------------------------------------
+
+Kutaja is widely used and first preferred drug in management of atisara . It is mainly indicated in conditions of vitiated kapha - pitta and as a sangrahi (styptic) and shoshana (absorbent)(Charak sutra 25/40). In an in-vitro study, sterile double dilution aqueous extract of kutaja was found effective to inhibit growth of E. coli, staphylococcus aureus, salmonella Typhi. [ 3 ] Thus kutaja can be used for all purpose in management of atisara .
+
+--------------------------------------------------------------------------------
+
+Nitin Salve and Debendranath Mishra studied the botanical identification of plants described in text Madhava chikitsa for the treatment of diarrhea. [ 4 ]
+
+--------------------------------------------------------------------------------
+
+The conditions like ulcerative colitis, irritable bowel syndrome, acute diarrhea are considered under the umbrella of atisara .
+
+--------------------------------------------------------------------------------
+
+In a study on 43 patients of ulcerative colitis, Patel M.V.et.al observed 80% reduction in signs and symptoms of ulcerative colitis by Ayurvedic treatment. The treatment included udumbara kwatha combination of lodhra, musta, nagakeshara,mukta panchamrita rasa, kutaja ghana vati and udumbara kwatha basti . It also highlighted disease modifying effect and reduction in use of steroidal drugs in the patients. [ 5 ]
+
+--------------------------------------------------------------------------------
+
+A study found that a combination of nagarmotha (Cyperus rotundus L.), indrayava (Holarrhena antidysenterica (L.) Wall.), nagakeshara (Mesua ferrea L.), madhuyashti (Glycyrrhiza glabra L.), and amalaki (Emblica officinalis Gaertn.) powders, along with dadimashtaka choorna, shankha bhasma, mustarista and dhanyapanchaka kvatha showed significant response in case of pravahika (irritable bowel syndrome). [ 6 ]
+
+--------------------------------------------------------------------------------
+
+In another study, bilwadileha showed significant relief in management of irritable bowel syndrome. [ 7 ]
+
+--------------------------------------------------------------------------------
+
+In a study, vatasakadi syrup was observed 70 % effective in treatment of atisara in children as compared to bala-chaturbhadra syrup. [ 8 ]
+
+--------------------------------------------------------------------------------
+
+MANAGEMENT OF EXOGENOUS DIARRHEA/ ATISARA
+
+--------------------------------------------------------------------------------
+
+[OL]
+• Diarrhea due to mental factors: These patients need counseling along with therapeutic management of diarrhea as discussed above.
+• Infectious diarrhea or bacterial food poisoning: The practitioner/physician should proceed with the treatment of the disease with information obtained from the history, stool examination, and evaluation of dehydration severity.
+• Watery diarrhea usually indicates a defect in water absorption. However, there are other categories of watery diarrhea caused due to the dysregulation of intestinal function, endocrine dysfunction (including hypothyroidism), tumors (by obstructing bowel). Another category of watery diarrhea is idiopathic secretory diarrhea. These categories largely are termed chronic inflammatory diarrhea. Based on the result of examining the patient’s history thoroughly, the physician should prescribe a course of treatment as well as dietary regimen. [ 9 ]
+• Fatty diarrhea, like watery diarrhea, indicates poor absorption of fat and other nutrients
+• Dysentery (passage of bloody stools) or fever (>37.8°C) should be treated with antibacterial drugs
+• Vomiting, minimal diarrhea should be treated with Bismuth subsalicylate.
+• Diarrhea in infants (<2 years old) should be treated with fluids and electrolytes (oral rehydration solution, pedialyte, lytren); continue feeding, especially with breast milk; seek medical attention for moderate dehydration, fever lasting >24 h, bloody stools, or diarrhea lasting more than several days.
+
+--------------------------------------------------------------------------------
+
+Note
+
+--------------------------------------------------------------------------------
+
+Loperamide should not be used by patients with fever or dysentery because its use may prolong diarrhea in patients with infection due to Shigella or other invasive organisms.
+
+--------------------------------------------------------------------------------
+
+IMPORTANT GUIDELINES AND PRECAUTIONS FOR DIARRHEA MANAGEMENT
+
+--------------------------------------------------------------------------------
+
+The World Health Organization , beginning 2002, recommended a “reduced osmolarity/reduced-salt” Oral Rehydration Solution (ORS) to adequately rehydrate the patient, which is key to treating any case of diarrhea. [ 10 ] The Centers for Disease Control and Prevention (CDC) considers rehydration as “the cornerstone of treatment of cholera”. [ 11 ] CDC also recommends other treatment alternatives, based on recent studies in Bangladesh and other areas affected by cholera, such as zinc treatment. [ 12 ] Severe cases need to take a recourse of antibiotics, though there are instances of resistance to tetracycline and other antimicrobial agents . [ 13 ]
+
+--------------------------------------------------------------------------------
+
+LIST OF RESEARCH ON REVIEW OF ATISARA
+
+--------------------------------------------------------------------------------
+
+[OL]
+• Uikey R, Kar AC. A review on Purisha Pariksha in Ayurveda . AYU [serial online] 2015 [cited 2018 Jun 12];36:125-9. Available from: http://www.ayujournal.org/text.asp?2015/36/2/125/175536
+• Patil Dhiraj, Babel Sadhana, Chitte Sanjay. Atisaar (Diarrhea): A Review based on Ayurveda and modern perspective. WJPMR, 2017,3(7), 227-229 available from http://www.wjpmr.com/ downloaded on 12/06/2018
+• S Durgalakshmi, Pious Uthara Anu, Ajantha. An Overview on Nidana Panchaka of Atisara (Diarrhea). IAMJ: Volume 3(8); August. 2015 available from http://www.iamj.in/current_issue/images/upload/2419_2425.pdf downloaded on 12/06/2018
+
+--------------------------------------------------------------------------------
+
+RESEARCH AREAS
+
+--------------------------------------------------------------------------------
+
+[UL]
+• Though there are many anti-diarrheal and ant-dysentery medicines are available in conventional systems of medicine, the immediate stoppage of diarrhoea may lead to complications as mentioned in the text. Therefore a survey study is needed to examine the prevalence of such complications caused by stoppage of diarrhea.
+• The rehydrating effect of pramathya (decoctions), peya (liquid gruel), sour processing media like dadima, changeri, buttermilk used in the treatment of atisara need to be investigated further.
+• More researches are needed to study effect of Ayurveda medicines in chronic diarrhea and psycho somatic disease like irritable bowel syndrome.
+
+--------------------------------------------------------------------------------
+
+
+
+--------------------------------------------------------------------------------
+
+FURTHER READING
+
+--------------------------------------------------------------------------------
+
+[OL]
+• Charak Samhita (700 BC) with English Translation and Critical exposition (Volume IV). Sharma R.K. and Dash B., Chaukhambha Sanskrit Series Office, Varanasi.pages-202-242
+• Valiathan, M.S. (2009): Legacy of Charak, Sushruta, Vagbhata, Orient Longman, Chennai.
+• Sushruta. Sushruta Samhita. Volume III, Uttarasthana, translated by Prof. K.R. Srikatha Murthy, Varanasi, Chaukhambha Orientalia; 2005.p.223-250.
+• Parameswarappa’s ĀyurvedÍya Vikriti Vijñāna and Roga Vijñāna by Dr. P.S. Byadgi. Volume II, pages-431-446
+• Davidson’s Principles of practice of medicine, 21th Ed. (2007) Ed. by Nicholas A. Boon., Nicki R. College, Brain R. Walker, Pub. Churchill Livingstone Elsevier, London Elsevier. Pages-302-304
+• Harrison’s principles of internal medicine 17th Ed. (2008) Ed. by Fauci Kasper D.L., A.S., Longo D.L., Braunwal Eugene, Hauser S.J., Jameson J.L.. Joseph Loscalzo., Pub. MacGraw-Hill USA, Chapter 128. Acute Infectious Diarrheal Diseases and Bacterial Food Poisoning
+• Harrison’s principles of internal medicine 17th Ed. (2008) Ed. by Fauci Kasper D.L., A.S., Longo D.L., Braunwal Eugene, Hauser S.J., Jameson J.L.. Joseph Loscalzo., Pub. MacGraw-Hill USA, Vol.-2, Chapter 338.
+
+--------------------------------------------------------------------------------
+
+Send us your suggestions and feedback on this page.
+
+--------------------------------------------------------------------------------
+
+REFERENCES
+
+--------------------------------------------------------------------------------
+
+[OL]
+• ↑ Patient Education: Chronic Diarrhea among adults, UptoDate
+( https://www.uptodate.com/contents/chronic-diarrhea-in-adults-beyond-the-basics?topicRef=4021&source=see_link )
+• ↑ Sridhar B.N., Gopakumar K., Jaya N. Mustadi yoga-A new preparation for treatment of atisara. Aryavaidyan,10(4).May-July 1997;222-225.
+• ↑ Shrivastava Niraj, Saxena Varsha. Antibacterial activity of Kutaja(Holarrhena antidysenterica Linn.) in childhood diarrhea:-In vitro study. The Pharma Innovation Journal 2015;4(4):97-99 .
+• ↑ Nitin Salve, Debendranath Mishra. Botanical identification of plants described in text Madhava chikitsa for the treatment of diarrhoea. Anc Sci Life.2016 Apr-Jun:35(4):195-200
+• ↑ Patel M.V.,Patel K.B., Gupta S.N. Effects of Ayurvedic treatment on forty three patients of ulcerative colitis. AYU,Oct-Dec 2010,31(4), 478-481.
+• ↑ Pooja BA, Bhatted S. Ayurvedic management of Pravahika – A case report. Ayu 2015;36:410-2.
+• ↑ Tiwari R, Pandya DH, Baghel MS. Clinical evaluation of Bilvadileha in the management of irritable bowel syndrome. AYU [serial online] 2013 [cited 2018 Jun 12];34:368-72. Available from: http://www.ayujournal.org/text.asp?2013/34/4/368/127717
+• ↑ Shah Kiran. A Comparative Study of Vatsakadi Syrup & Balachaturbhadra Syrup in Management Balatisara with reference to Diarrhea, Int. J. Ayu. Alt. Med., 2014; 2(1):28-33.
+• ↑ Schiller Lawrence, Sellin Joseph, Pardi Darrell, Chronic Diarrhea:Diagnosis and Management, Clinical Gastroenterology and Hepatology, 2017, 15:182-193
+• ↑ WHO Press Release, 8 May 2002, http://www.who.int/mediacentre/news/releases/release35/en/
+• ↑ https://www.cdc.gov/cholera/treatment/rehydration-therapy.html
+• ↑ https://www.cdc.gov/cholera/treatment/zinc-treatment.html
+• ↑ https://www.cdc.gov/cholera/treatment/antibiotic-treatment.html
+
+================================================================================
+END OF CHAPTER
+================================================================================

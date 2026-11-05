@@ -1,8 +1,10 @@
 from flask import Flask, jsonify, request, render_template
 from flask_cors import CORS
+from werkzeug.exceptions import HTTPException
 import logging
 import os
 import re
+import traceback
 
 from charaka_backend.config import GITHUB_REPOSITORY, GITHUB_BRANCH
 from charaka_backend.repository import build_index, load_index
@@ -14,44 +16,47 @@ app.logger.setLevel(logging.INFO)
 
 
 def current_index():
-    """Load the existing index; build it only if it is missing."""
+    """Load the generated corpus index; build only when it is absent."""
     index = load_index()
-
     if index is None:
-        app.logger.warning("Search index not found. Building it now.")
+        app.logger.warning("Index is missing; attempting a build.")
         build_index()
         index = load_index()
 
     if index is None:
         raise RuntimeError(
-            "The search index is unavailable. Run the index build command "
-            "during deployment and check the Render build logs."
+            "Search index is missing or could not be loaded. "
+            "Check the Render build logs and the configured index path."
         )
-
     return index
 
 
 @app.get("/")
 def home():
-    # The templates/index.html file must exist in the templates folder.
     return render_template("index.html")
 
 
 @app.get("/api/health")
 def health():
+    """This route must return health information, never the search instructions."""
     try:
         index = load_index()
         return jsonify({
             "status": "ok",
+            "service": "Charaka Samhita Symptom Reference API",
             "repository": GITHUB_REPOSITORY,
             "branch": GITHUB_BRANCH,
             "index_ready": index is not None,
             "chapter_count": index.get("chapter_count", 0) if index else 0,
+            "passage_count": len(index.get("passages", [])) if index else 0,
             "failed_chapters": index.get("failed_chapters", []) if index else [],
         }), 200
     except Exception:
-        app.logger.exception("Health check failed")
-        return jsonify({"status": "error", "message": "Health check failed."}), 500
+        app.logger.exception("Health endpoint failed")
+        return jsonify({
+            "status": "error",
+            "message": "Health check could not inspect the index. Check Render logs."
+        }), 500
 
 
 @app.post("/api/index/rebuild")
@@ -59,9 +64,11 @@ def rebuild_index():
     try:
         manifest = build_index(force=True)
         return jsonify({"status": "built", "manifest": manifest}), 200
-    except Exception as exc:
+    except Exception:
         app.logger.exception("Index rebuild failed")
-        return jsonify({"error": str(exc)}), 502
+        return jsonify({
+            "error": "Index rebuild failed. Check the Render service logs."
+        }), 500
 
 
 @app.get("/api/symptoms")
@@ -69,15 +76,13 @@ def symptoms():
     try:
         from charaka_backend.search import ALIASES
         return jsonify({"symptoms": sorted(ALIASES.keys())}), 200
-    except Exception as exc:
-        app.logger.exception("Could not load symptom terms")
-        return jsonify({"error": str(exc)}), 500
+    except Exception:
+        app.logger.exception("Could not load symptom aliases")
+        return jsonify({"error": "Could not load symptom suggestions."}), 500
 
 
 @app.route("/api/search", methods=["GET", "POST"])
 def search():
-    # Visiting this URL in a browser sends GET. Explain how to use the API
-    # instead of returning an unhelpful 405 response.
     if request.method == "GET":
         return jsonify({
             "service": "Charaka Samhita Symptom Reference API",
@@ -94,58 +99,59 @@ def search():
             },
             "instruction": (
                 "Open the application homepage to use the practitioner interface, "
-                "or send a POST request with a JSON symptoms field to this endpoint."
+                "or send a POST request with a JSON symptoms field."
             )
         }), 200
 
     payload = request.get_json(silent=True)
-
     if not isinstance(payload, dict):
         return jsonify({
-            "error": "Expected a JSON object.",
+            "error": "Expected a JSON request body.",
             "example": {"symptoms": ["fever", "thirst"]}
         }), 400
 
-    symptoms = payload.get("symptoms", [])
-
-    if isinstance(symptoms, str):
-        # Allow free text containing many symptoms.
-        symptoms = [
+    symptoms_value = payload.get("symptoms", [])
+    if isinstance(symptoms_value, str):
+        symptoms_value = [
             item.strip()
             for item in re.split(
-                r"[,;\\n\\r]+|\\s+\\band\\b\\s+",
-                symptoms,
+                r"[,;\n\r]+|\s+\band\b\s+",
+                symptoms_value,
                 flags=re.IGNORECASE
             )
             if item.strip()
         ]
 
-    if not isinstance(symptoms, list):
+    if not isinstance(symptoms_value, list):
         return jsonify({
-            "error": "The symptoms field must be free text or a list of text items."
+            "error": "The symptoms field must be a string or a list of strings."
         }), 400
 
-    symptoms = [str(item).strip() for item in symptoms if str(item).strip()]
-
-    if not symptoms:
+    symptoms_value = [
+        str(item).strip()
+        for item in symptoms_value
+        if str(item).strip()
+    ]
+    if not symptoms_value:
         return jsonify({"error": "Please enter at least one symptom."}), 400
 
     try:
         index = current_index()
-
         try:
             limit = max(1, min(int(payload.get("limit", 25)), 100))
         except (TypeError, ValueError):
             limit = 25
 
-        results = search_passages(
-            index.get("passages", []),
-            symptoms,
-            limit
-        )
+        passages = index.get("passages", [])
+        if not isinstance(passages, list):
+            raise TypeError(
+                "The loaded index has an unexpected format: 'passages' is not a list."
+            )
+
+        results = search_passages(passages, symptoms_value, limit)
 
         return jsonify({
-            "query": {"symptoms": symptoms},
+            "query": {"symptoms": symptoms_value},
             "result_count": len(results),
             "results": results,
             "primary_reference": results[0] if results else None,
@@ -158,17 +164,50 @@ def search():
             )
         }), 200
 
-    except Exception as exc:
-        app.logger.exception("Symptom search failed")
+    except Exception:
+        # Full traceback goes to Render logs; do not return HTML or leak stack traces.
+        app.logger.exception("POST /api/search failed")
         return jsonify({
-            "error": "The symptom search could not be completed.",
-            "details": str(exc)
+            "error": "The server could not complete the symptom search.",
+            "hint": "Open /api/health and inspect the Render service logs for the traceback."
         }), 500
+
+
+@app.errorhandler(404)
+def not_found(_error):
+    return jsonify({"error": "API route or page not found.", "path": request.path}), 404
+
+
+@app.errorhandler(405)
+def method_not_allowed(_error):
+    return jsonify({
+        "error": "HTTP method not allowed for this endpoint.",
+        "path": request.path,
+        "method": request.method
+    }), 405
+
+
+@app.errorhandler(HTTPException)
+def handle_http_exception(error):
+    return jsonify({
+        "error": error.name,
+        "message": error.description,
+        "path": request.path
+    }), error.code
+
+
+@app.errorhandler(Exception)
+def handle_unexpected_exception(error):
+    app.logger.exception("Unhandled application exception: %s", error)
+    return jsonify({
+        "error": "Unexpected server error.",
+        "hint": "Check the Render service logs for the full traceback."
+    }), 500
 
 
 if __name__ == "__main__":
     app.run(
-        host=os.getenv("FLASK_HOST", "0.0.0.0"),
+        host="0.0.0.0",
         port=int(os.getenv("PORT", os.getenv("FLASK_PORT", "5000"))),
-        debug=os.getenv("FLASK_DEBUG", "false").lower() == "true"
+        debug=False
     )

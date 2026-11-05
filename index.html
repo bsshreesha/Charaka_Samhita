@@ -1,0 +1,282 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#173d32"><title>Charaka | Knowledge Assistant</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Noto+Serif+Devanagari:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root{--g:#173d32;--g2:#285b48;--sage:#eaf1eb;--gold:#c69b52;--ink:#20332a;--muted:#718078;--line:#e5ebe5;--paper:#f6f8f5}
+*{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font:14px "DM Sans",sans-serif}
+.navbar{height:64px;background:#fff;border-bottom:1px solid var(--line);position:sticky;top:0;z-index:5}
+.mark{width:38px;height:38px;border-radius:12px;background:var(--g);color:#f4e4c2;display:grid;place-items:center;font-size:20px}
+.brand{font-size:17px;font-weight:700;color:var(--g);line-height:1.1}.subbrand{font-size:9px;letter-spacing:1.3px;text-transform:uppercase;color:var(--muted)}
+.hero{background:linear-gradient(120deg,#173d32,#2e654e);color:white;border-radius:20px;padding:25px;position:relative;overflow:hidden}
+.hero:after{content:"चरक";position:absolute;right:18px;bottom:-26px;font:120px "Noto Serif Devanagari";color:#ffffff0d}
+.eyebrow{font-size:10px;letter-spacing:1.6px;text-transform:uppercase;color:#e2c58e;font-weight:700}
+.hero h1{font-size:clamp(25px,5vw,35px);font-weight:600;letter-spacing:-.8px;margin:9px 0}.hero p{color:#dce9df;max-width:620px;line-height:1.7;margin:0}
+.layout{display:grid;grid-template-columns:minmax(270px,345px) minmax(0,1fr);gap:18px;align-items:start}
+.panel{background:white;border:1px solid var(--line);border-radius:17px;box-shadow:0 5px 20px #173d3208;overflow:hidden}
+.panelhead{padding:18px 19px 13px;border-bottom:1px solid var(--line)}.panelbody{padding:18px 19px}
+.kicker{font-size:10px;letter-spacing:1.2px;text-transform:uppercase;color:var(--muted);font-weight:700}
+.form-label{font-size:12px;font-weight:700;color:#42564b;margin-bottom:6px}.form-select,.form-control{border-color:#dce5dc;border-radius:10px;padding:10px 11px;font-size:13px;box-shadow:none!important}.form-select:focus,.form-control:focus{border-color:#6c9b7e}
+.btn-main{background:var(--g);color:white;border:0;border-radius:10px;padding:12px;font-size:13px;font-weight:700}.btn-main:hover{background:var(--g2);color:white}
+.chip{border:1px solid #dce6dc;background:#fff;color:#53665a;border-radius:30px;padding:7px 12px;font-size:11px}.chip.active{background:var(--g);color:white;border-color:var(--g)}
+.hint{font-size:11px;color:var(--muted);line-height:1.55}
+.resulthead{padding:17px 20px;border-bottom:1px solid var(--line);display:flex;justify-content:space-between;align-items:center;gap:10px}
+.tag{display:inline-block;background:var(--sage);color:var(--g);border-radius:20px;padding:5px 9px;font-size:10px;font-weight:700}
+.results{padding:18px}.empty{text-align:center;padding:50px 20px;color:var(--muted)}.emptyicon{width:52px;height:52px;background:var(--sage);border-radius:16px;display:grid;place-items:center;color:var(--g);font-size:22px;margin:0 auto 14px}
+.record{border:1px solid var(--line);border-radius:14px;padding:16px;margin-bottom:12px}.record:last-child{margin-bottom:0}.recordtitle{font-weight:700;color:var(--g);font-size:14px}
+.verse{font:18px/1.9 "Noto Serif Devanagari",serif;color:#263e32;white-space:pre-wrap}.copy{font-size:13px;line-height:1.8;color:#46574c;white-space:pre-wrap}
+.label{font-size:10px;text-transform:uppercase;letter-spacing:1px;font-weight:700;color:#927849;margin:15px 0 7px}
+.source{font-size:11px;color:#47775a;text-decoration:none}.source:hover{text-decoration:underline}
+.notice{background:#fff8e9;border:1px solid #f0e2c2;border-radius:11px;padding:11px 13px;color:#725b31;font-size:11px;line-height:1.6}
+footer{font-size:10px;color:#87938b;line-height:1.6}
+@media(max-width:767px){.navbar{height:59px}.hero{padding:20px 18px;border-radius:17px}.hero:after{font-size:88px}.layout{grid-template-columns:1fr;gap:13px}.panelhead{padding:15px}.panelbody{padding:15px}.results{padding:13px}.verse{font-size:17px}.container{padding-left:13px;padding-right:13px}}
+</style></head><body>
+<nav class="navbar"><div class="container h-100 d-flex align-items-center justify-content-between">
+<div class="d-flex align-items-center gap-2"><div class="mark"><i class="bi bi-flower1"></i></div><div><div class="brand">Charaka</div><div class="subbrand">Knowledge assistant</div></div></div>
+<div class="small text-secondary"><span id="dot" style="color:#c69b52">●</span> <span id="connection">Connecting to text library</span></div></div></nav>
+<main class="container py-4 pb-5">
+<section class="hero mb-4"><div class="eyebrow">Charaka Samhita · Practitioner workspace</div><h1>Explore the wisdom.<br>Review the source.</h1><p>Start with the patient's reported symptoms. Explore matching Charaka Samhita passages, then review their diagnostic and therapeutic context with source links.</p></section>
+<div class="layout">
+<section class="panel"><div class="panelhead"><div class="kicker mb-1">Clinical enquiry</div><strong>What would you like to explore?</strong><div class="hint mt-1">Select details below. No microphone, downloads or patient images needed.</div></div>
+<div class="panelbody">
+<div class="mb-3"><label class="form-label">Sthana / source section</label><select id="sth" class="form-select"><option value="all">All available sections</option><option value="Chikitsa">Chikitsa Sthana · Therapeutics</option><option value="Nidana">Nidana Sthana · Diagnosis</option><option value="Sutra">Sutra Sthana · Principles</option></select></div>
+<div class="mb-3"><label class="form-label">Adhyaya / chapter</label><select id="chapter" class="form-select"><option value="">Any chapter</option></select></div>
+<div class="mb-3"><label class="form-label">Disease / disorder / clinical topic <span class="fw-normal text-secondary">(optional)</span></label><select id="condition" class="form-select"><option value="">Select a topic</option><option>Jwara</option><option>Raktapitta</option><option>Gulma</option><option>Prameha</option><option>Kushtha</option><option>Rajayakshma</option><option>Unmada</option><option>Apasmara</option><option>Shwasa</option><option>Kasa</option><option>Atisara</option><option>Chhardi</option><option>Arsha</option><option>Grahani</option><option>Pandu</option><option>Vatarakta</option><option>Vatavyadhi</option><option>Trishna</option><option>Udara</option><option>Visarpa</option></select></div>
+<div class="mb-3"><label class="form-label">1. Patient symptoms / clinical features <span class="text-danger">*</span></label>
+<select id="symptomChoice" class="form-select"><option value="">Choose a symptom</option>
+<option>Jwara / fever</option><option>Daha / burning sensation</option><option>Trishna / excessive thirst</option>
+<option>Kasa / cough</option><option>Shwasa / breathlessness</option><option>Chhardi / vomiting</option>
+<option>Atisara / diarrhoea</option><option>Aruchi / loss of appetite</option><option>Ajirna / indigestion</option>
+<option>Shoola / pain</option><option>Shotha / swelling</option><option>Kandu / itching</option>
+<option>Gaurava / heaviness</option><option>Alasya / fatigue</option><option>Nidranasha / disturbed sleep</option>
+<option>Mutrakrichra / difficulty urinating</option><option> Daha / burning micturition</option>
+</select><button type="button" id="addSymptom" class="btn btn-sm btn-light border mt-2">Add symptom</button>
+<div id="selectedSymptoms" class="d-flex flex-wrap gap-2 mt-2"></div><div class="hint mt-1">Start here. Select every relevant symptom; results are ranked by how many selected symptoms are supported by nearby source text.</div></div>
+<div class="mb-3"><label class="form-label">Dosha involvement</label><div class="d-flex flex-wrap gap-2" id="doshas"><button type="button" class="chip" data-d="Vata">Vata</button><button type="button" class="chip" data-d="Pitta">Pitta</button><button type="button" class="chip" data-d="Kapha">Kapha</button><button type="button" class="chip" data-d="Tridosha">Tridosha</button></div></div>
+<div class="mb-3"><label class="form-label">Additional keyword <span class="fw-normal text-secondary">(optional)</span></label><input id="keyword" class="form-control" placeholder="e.g. nidana, samprapti, chikitsa"></div>
+<button id="search" class="btn btn-main w-100"><i class="bi bi-search me-2"></i>Find shlokas matching symptoms</button>
+<div class="d-flex justify-content-between align-items-center mt-3"><span class="hint" id="count">Loading source records…</span><button id="reset" class="btn btn-link btn-sm p-0 text-decoration-none">Reset</button></div>
+<div class="notice mt-3"><b>Clinical note:</b> This is a source-based reference aid, not an automated diagnosis or prescription. Verify original context and apply qualified clinical judgement. Do not delay emergency assessment.</div>
+</div></section>
+<section class="panel"><div class="resulthead"><div><div class="kicker mb-1">Reference results</div><strong id="heading">Your Charaka study space</strong></div><span class="tag" id="hits">Awaiting enquiry</span></div>
+<div id="results" class="results"><div class="empty"><div class="emptyicon"><i class="bi bi-journal-medical"></i></div><b class="text-dark">Your references will appear here</b><p class="hint mt-2">Select one or more symptoms first. Matching Sanskrit shlokas and their source explanations will appear here.</p></div></div>
+</section></div><footer class="text-center mt-4">Charaka Samhita reference interface · Educational and professional use · Consult the cited source chapter.</footer>
+</main>
+<script>
+(() => {
+"use strict";
+const REPO="bsshreesha/Charaka_Samhita";
+const API=`https://api.github.com/repos/${REPO}`;
+const RAW=`https://raw.githubusercontent.com/${REPO}/`;
+const state={branch:"main",records:[],doshas:new Set(),symptoms:new Set()};
+// Literal Sanskrit/English search variants only; these are not clinical mappings.
+const symptomAliases={
+ "Jwara / fever":["jwara","jvara","fever"],
+ "Daha / burning sensation":["daha","burning sensation","burning"],
+ "Trishna / excessive thirst":["trishna","trsna","thirst","excessive thirst"],
+ "Kasa / cough":["kasa","kaasa","cough"],
+ "Shwasa / breathlessness":["shwasa","svasa","shvasa","breathlessness","dyspnoea","dyspnea"],
+ "Chhardi / vomiting":["chhardi","chardi","vomiting","emesis"],
+ "Atisara / diarrhoea":["atisara","diarrhoea","diarrhea"],
+ "Aruchi / loss of appetite":["aruchi","loss of appetite","poor appetite"],
+ "Ajirna / indigestion":["ajirna","ajeerna","indigestion"],
+ "Shoola / pain":["shoola","shula","pain"],
+ "Shotha / swelling":["shotha","swelling","oedema","edema"],
+ "Kandu / itching":["kandu","itching","pruritus"],
+ "Gaurava / heaviness":["gaurava","heaviness"],
+ "Alasya / fatigue":["alasya","fatigue","lassitude"],
+ "Nidranasha / disturbed sleep":["nidranasha","disturbed sleep","insomnia"],
+ "Mutrakrichra / difficulty urinating":["mutrakrichra","mutrakrcchra","difficulty urinating","painful urination"],
+ " Daha / burning micturition":["daha","burning micturition","burning urination"]
+};
+const $=id=>document.getElementById(id);
+const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const norm=s=>String(s??"").normalize("NFC").toLowerCase()
+ .normalize("NFD").replace(/[\u0300-\u036f]/g,"")
+ .replace(/[āá]/g,"a").replace(/[īí]/g,"i").replace(/[ūú]/g,"u")
+ .replace(/[ṛṝ]/g,"r").replace(/[ṣś]/g,"sh").replace(/ṃ|ṁ/g,"m")
+ .replace(/[ṅñṇ]/g,"n").replace(/[ṭ]/g,"t").replace(/[ḍ]/g,"d");
+const clean=s=>String(s??"").replace(/\s+/g," ").trim();
+const sectionOf=path=>path.split("/")[0]||"";
+const chapterOf=path=>path.split("/")[1]||"";
+async function json(url){const r=await fetch(url);if(!r.ok)throw Error(`GitHub returned ${r.status} for ${url}`);return r.json();}
+function flattenText(block){
+ if(!block)return "";
+ if(typeof block.text==="string")return clean(block.text);
+ if(Array.isArray(block.rows))return block.rows.map(row=>row.map(cell=>cell.text||"").join(" | ")).join("\n");
+ return "";
+}
+function buildRecords(doc,path){
+ const section=sectionOf(path), chapter=doc.chapter||chapterOf(path);
+ const blocks=Array.isArray(doc.content)?doc.content:[];
+ const out=[]; let headingStack=[];
+ for(let i=0;i<blocks.length;i++){
+  const b=blocks[i]||{}, type=String(b.type||"").toLowerCase(), txt=flattenText(b);
+  if(/^h[1-6]$/.test(type)){
+   const level=Number(type.slice(1)); headingStack=headingStack.filter(x=>x.level<level);
+   if(txt)headingStack.push({level,text:txt});
+   continue;
+  }
+  if(!txt || !["p","li","ul","ol","blockquote","table","pre"].includes(type))continue;
+  const isSanskrit=/[\u0900-\u097F]/.test(txt);
+  const isRoman=/[a-zA-Z]/.test(txt) && /[āīūṛṝṣśṃṁṅñṇṭḍ]/i.test(txt);
+  const isEnglish=/[a-zA-Z]/.test(txt) && !isRoman;
+  const context=headingStack.map(x=>x.text).join(" › ");
+  // Keep paragraph-level source blocks. Pair verse sequence in a post-pass.
+  out.push({section,chapter,context,index:i,type,text:txt,isSanskrit,isRoman,isEnglish,path,url:doc.url||"",source:doc.source||"Charaka Samhita"});
+ }
+ // Attach adjacent transliteration and translation blocks to the nearest Sanskrit block.
+ const consumed=new Set(), records=[];
+ for(let n=0;n<out.length;n++){
+  const b=out[n]; if(!b.isSanskrit || consumed.has(n))continue;
+  let translit="",translation="",related=[];
+  for(let k=n+1;k<Math.min(n+5,out.length);k++){
+   const q=out[k];
+   if(q.context!==b.context && q.index-b.index>3)break;
+   if(q.isSanskrit)break;
+   if(!translit && q.isRoman){translit=q.text;consumed.add(k);continue;}
+   if(!translation && q.isEnglish){translation=q.text;consumed.add(k);break;}
+  }
+  const nearbyText=out.slice(Math.max(0,n-2),Math.min(out.length,n+5))
+   .filter(q=>q.context===b.context).map(q=>q.text).join(" ");
+  records.push({...b,shloka:b.text,transliteration:translit,translation,nearbyText,related});
+  consumed.add(n);
+ }
+ // Add substantive English and Roman sections too, so symptom concepts can retrieve them
+ // even when a particular paragraph has no adjacent Sanskrit verse.
+ for(let n=0;n<out.length;n++){
+  const b=out[n]; if(consumed.has(n))continue;
+  if(b.isEnglish || b.isRoman){
+   const nearbyText=out.slice(Math.max(0,n-2),Math.min(out.length,n+3))
+    .filter(q=>q.context===b.context).map(q=>q.text).join(" ");
+   records.push({...b,shloka:"",transliteration:b.isRoman?b.text:"",translation:b.isEnglish?b.text:"",nearbyText});
+  }
+ }
+ return records;
+}
+async function load(){
+ let tree;
+ for(const branch of ["main","master"]){
+  try{const data=await json(`${API}/git/trees/${branch}?recursive=1`);tree=data.tree||[];state.branch=branch;break;}catch(e){}
+ }
+ if(!tree)throw Error("The public Charaka Samhita repository could not be reached.");
+ const files=tree.filter(f=>f.type==="blob"&&/\.json$/i.test(f.path)&&["Chikitsa Sthana","Nidana Sthana","Sutra Sthana"].includes(sectionOf(f.path)));
+ if(!files.length)throw Error("No chapter JSON files were found in the three Sthana folders.");
+ $("count").textContent=`Loading ${files.length} chapter files…`;
+ for(let i=0;i<files.length;i+=5){
+  const docs=await Promise.all(files.slice(i,i+5).map(async f=>{
+   try{
+    const d=await json(RAW+state.branch+"/"+f.path);
+    if(!d||!Array.isArray(d.content))return [];
+    return buildRecords(d,f.path);
+   }catch(e){console.warn("Skipped source file:",f.path,e);return [];}
+  }));
+  state.records.push(...docs.flat());
+  $("count").textContent=`Indexed ${Math.min(i+5,files.length)} of ${files.length} chapters…`;
+ }
+ if(!state.records.length)throw Error("Chapter JSON files were reached, but no content blocks could be indexed.");
+ const chapters=[...new Set(state.records.map(r=>r.chapter))].sort((a,b)=>a.localeCompare(b));
+ $("chapter").innerHTML='<option value="">Any chapter</option>'+chapters.map(c=>`<option>${esc(c)}</option>`).join("");
+ $("connection").textContent="Charaka library ready";$("dot").style.color="#398b59";
+ $("count").textContent=`${state.records.length.toLocaleString()} searchable text blocks · ${files.length} JSON chapters`;
+}
+function terms(s){return norm(s).split(/[^a-z0-9\u0900-\u097f]+/).filter(x=>x.length>1);}
+function runSearch(){
+ const sec=$("sth").value,chap=$("chapter").value;
+ const selectedSymptoms=[...state.symptoms];
+ const topic=$("condition").value, keyword=$("keyword").value;
+ const selectedDoshas=[...state.doshas];
+ if(!selectedSymptoms.length && !topic && !keyword && !chap){
+  show("Please select at least one patient symptom first. You can optionally add a disease/topic, dosha, keyword or chapter.");
+  return;
+ }
+ const symptomGroups=selectedSymptoms.map(label=>({
+  label,aliases:(symptomAliases[label]||[label]).map(norm)
+ }));
+ const scored=state.records.map(r=>{
+  if(sec!=="all"&&r.section!==sec)return null;
+  if(chap&&r.chapter!==chap)return null;
+  const searchable=norm([r.text,r.shloka,r.transliteration,r.translation,
+   r.nearbyText,r.context,r.chapter].join(" "));
+  const matchedSymptoms=symptomGroups.filter(group=>
+   group.aliases.some(alias=>alias&&searchable.includes(alias))
+  );
+  if(selectedSymptoms.length&&!matchedSymptoms.length)return null;
+  const topicTerms=terms(topic), keywordTerms=terms(keyword);
+  const doshaTerms=selectedDoshas.map(norm);
+  const matchedTopic=topicTerms.filter(t=>searchable.includes(t));
+  const matchedKeyword=keywordTerms.filter(t=>searchable.includes(t));
+  const matchedDoshas=doshaTerms.filter(t=>searchable.includes(t));
+  let score=matchedSymptoms.length*10+matchedTopic.length*2+
+   matchedKeyword.length*2+matchedDoshas.length*2;
+  if(r.shloka)score+=3;
+  if(r.translation)score+=1;
+  return {...r,score,matchedSymptoms:matchedSymptoms.map(x=>x.label),
+   matchedTopic,matchedKeyword,matchedDoshas};
+ }).filter(Boolean);
+ scored.sort((a,b)=>b.matchedSymptoms.length-a.matchedSymptoms.length||
+  b.score-a.score||a.chapter.localeCompare(b.chapter)||a.index-b.index);
+ const verseRows=selectedSymptoms.length?scored.filter(r=>r.shloka):scored;
+ const rows=verseRows.length?verseRows:scored;
+ render(rows.slice(0,36),rows.length,selectedSymptoms);
+}
+function show(message){
+ $("heading").textContent="Enquiry needed";$("hits").textContent="No search";
+ $("results").innerHTML=`<div class="empty"><div class="emptyicon"><i class="bi bi-info-circle"></i></div><p>${esc(message)}</p></div>`;
+}
+function render(rows,total,selectedSymptoms){
+ const title=[...state.symptoms].join(", ")||$("condition").value||
+  $("chapter").value||"Selected references";
+ $("heading").textContent=title;
+ $("hits").textContent=`${total} source matches`;
+ if(!rows.length){
+  $("results").innerHTML='<div class="empty"><div class="emptyicon"><i class="bi bi-search"></i></div><b class="text-dark">No matching shloka was found in the indexed text</b><p class="hint mt-2">The selected symptoms did not produce a source-supported Sanskrit verse in the loaded chapters. Try another spelling or a broader symptom. The application will not invent a verse or infer a treatment.</p></div>';
+  return;
+ }
+ const groups=[["Nidana Sthana","Diagnostic context"],["Chikitsa Sthana","Chikitsa references"],["Sutra Sthana","Foundational references"]];
+ let html='<div class="notice mb-3"><b>How these results were selected:</b> each card contains a source Sanskrit passage whose own text or nearby explanation contains one or more selected symptom terms/variants. Results matching more selected symptoms appear first. This is literal text retrieval, not semantic clinical validation or diagnosis.</div>';
+ for(const [section,label] of groups){
+  const list=rows.filter(r=>r.section===section);if(!list.length)continue;
+  html+=`<div class="kicker mt-3 mb-2">${esc(label)} · ${list.length}</div>`;
+  html+=list.map(r=>{
+   const sourceUrl=`https://github.com/${REPO}/blob/${state.branch}/${r.path.split("/").map(encodeURIComponent).join("/")}`;
+   let card=`<article class="record"><div class="d-flex gap-2 flex-wrap mb-2"><span class="tag">${esc(section)}</span><span class="tag">${r.shloka?"Sanskrit shloka":"Source passage"}</span></div><div class="recordtitle">${esc(r.chapter)}</div>`;
+   if(r.context)card+=`<div class="hint mt-1">${esc(r.context)}</div>`;
+   if(r.matchedSymptoms?.length)card+=`<div class="mt-2"><span class="kicker">Matched symptom evidence</span><div class="d-flex flex-wrap gap-1 mt-1">${r.matchedSymptoms.map(s=>`<span class="tag">${esc(s)}</span>`).join("")}</div></div>`;
+   if(r.shloka)card+=`<div class="label">Sanskrit shloka</div><div class="verse">${esc(r.shloka)}</div>`;
+   if(r.transliteration)card+=`<div class="label">Transliteration</div><div class="copy">${esc(r.transliteration)}</div>`;
+   if(r.translation)card+=`<div class="label">English translation / explanation from source</div><div class="copy">${esc(r.translation)}</div>`;
+   if(!r.shloka&&!r.translation&&!r.transliteration)card+=`<div class="copy">${esc(r.text)}</div>`;
+   card+=`<div class="border-top mt-3 pt-3 d-flex justify-content-between gap-2 align-items-center"><span class="hint text-truncate">${esc(r.path)}</span><a class="source" href="${sourceUrl}" target="_blank" rel="noopener">Verify original chapter <i class="bi bi-box-arrow-up-right"></i></a></div></article>`;
+   return card;
+  }).join("");
+ }
+ if(total>rows.length)html+=`<p class="hint text-center mt-3">Showing ${rows.length} of ${total} matching passages.</p>`;
+ $("results").innerHTML=html;
+}
+document.querySelectorAll("[data-d]").forEach(b=>b.addEventListener("click",()=>{
+ const d=b.dataset.d;state.doshas.has(d)?(state.doshas.delete(d),b.classList.remove("active")):(state.doshas.add(d),b.classList.add("active"));
+}));
+$("search").addEventListener("click",runSearch);
+["condition","keyword"].forEach(id=>$(id).addEventListener("keydown",e=>{if(e.key==="Enter")runSearch();}));
+$("addSymptom").addEventListener("click",()=>{
+ const v=$("symptomChoice").value;if(!v)return;state.symptoms.add(v);$("symptomChoice").value="";
+ $("selectedSymptoms").innerHTML=[...state.symptoms].map(x=>`<button type="button" class="chip active" data-sym="${esc(x)}">${esc(x)} ×</button>`).join("");
+ $("selectedSymptoms").querySelectorAll("[data-sym]").forEach(b=>b.addEventListener("click",()=>{state.symptoms.delete(b.dataset.sym);b.remove();}));
+});
+$("reset").addEventListener("click",()=>{
+ ["sth","chapter","condition","keyword","symptomChoice"].forEach(id=>$(id).value=id==="sth"?"all":"");
+ state.symptoms.clear();$("selectedSymptoms").innerHTML="";state.doshas.clear();
+ document.querySelectorAll("[data-d]").forEach(b=>b.classList.remove("active"));
+ $("heading").textContent="Your Charaka study space";$("hits").textContent="Awaiting enquiry";
+ $("results").innerHTML='<div class="empty"><div class="emptyicon"><i class="bi bi-journal-medical"></i></div><b class="text-dark">Your references will appear here</b><p class="hint mt-2">Select one or more symptoms first to retrieve source-matched shlokas.</p></div>';
+});
+load().catch(e=>{
+ console.error(e);$("connection").textContent="Library connection issue";$("dot").style.color="#bd684d";$("count").textContent="Source not loaded";
+ $("results").innerHTML=`<div class="empty"><div class="emptyicon"><i class="bi bi-cloud-slash"></i></div><b class="text-dark">Could not load Charaka chapters</b><p class="hint mt-2">${esc(e.message)}</p><p class="hint">The app expects chapter JSON documents with a top-level <code>content</code> array, as present in the repository samples.</p></div>`;
+});
+})();
+</script></body></html>

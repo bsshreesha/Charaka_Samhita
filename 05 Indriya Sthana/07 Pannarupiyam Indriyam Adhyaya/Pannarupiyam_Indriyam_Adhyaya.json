@@ -1,0 +1,3401 @@
+{
+    "source": "Charaka Samhita",
+    "chapter": "Pannarupiyam Indriyam Adhyaya",
+    "chapter_id": "Pannarupiyam_Indriyam_Adhyaya",
+    "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya",
+    "xpath": "//*[@id=\"content\"]",
+    "extraction_date": "2026-11-12T15:23:41",
+    "total_blocks": 183,
+    "total_tables": 5,
+    "total_headings": 25,
+    "total_paragraphs": 136,
+    "content": [
+        {
+            "type": "h1",
+            "text": "Pannarupiyam Indriyam Adhyaya",
+            "html": "<h1 class=\"firstHeading mw-first-heading\" id=\"firstHeading\"><span class=\"mw-page-title-main\">Pannarupiyam Indriyam Adhyaya</span></h1>",
+            "links": [],
+            "images": [],
+            "level": 1
+        },
+        {
+            "type": "text",
+            "text": "From Charak Samhita"
+        },
+        {
+            "type": "text",
+            "text": "Jump to navigation"
+        },
+        {
+            "type": "text",
+            "text": "Jump to search"
+        },
+        {
+            "type": "figure",
+            "text": "",
+            "html": "<figure class=\"mw-default-size mw-halign-right\" typeof=\"mw:File\"><a href=\"https://www.charakasamhitauptodate.com/index.php?title=Special:CiteThisPage&amp;page=Pannarupiyam_Indriyam_Adhyaya&amp;id=44529&amp;wpFormIdentifier=titleform\" rel=\"nofollow\"><img class=\"mw-file-element\" decoding=\"async\" height=\"47\" src=\"/images/5/58/Cite.png\" width=\"180\"/></a><figcaption></figcaption></figure>",
+            "links": [
+                {
+                    "text": "",
+                    "url": "https://www.charakasamhitauptodate.com/index.php?title=Special:CiteThisPage&page=Pannarupiyam_Indriyam_Adhyaya&id=44529&wpFormIdentifier=titleform"
+                }
+            ],
+            "images": [
+                {
+                    "url": "https://www.carakasamhitaonline.com/images/5/58/Cite.png",
+                    "alt": "",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Indriya Sthana Chapter 7.Fatal signs of changes in shadows, complexion, and luster",
+            "html": "<p><big><b><a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> Chapter 7.Fatal signs of changes in shadows, complexion, and luster</b></big>\n</p>",
+            "links": [
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "Section/Chapter",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Indriya Sthana Chapter 7",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Preceding Chapter",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Katamanisharireeyam Indriyam Adhyaya",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Katamanisharireeyam Indriyam Adhyaya",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Succeeding Chapter",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Avakshiraseeyam Indriyam Adhyaya",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Avakshiraseeyam Indriyam Adhyaya",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Other Sections",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Sutra Sthana , Nidana Sthana , Vimana Sthana , Sharira Sthana , Chikitsa Sthana , Kalpa Sthana , Siddhi Sthana",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Sutra Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                            },
+                            {
+                                "text": "Nidana Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Nidana_Sthana"
+                            },
+                            {
+                                "text": "Vimana Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana"
+                            },
+                            {
+                                "text": "Sharira Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                            },
+                            {
+                                "text": "Chikitsa Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                            },
+                            {
+                                "text": "Kalpa Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Kalpa_Sthana"
+                            },
+                            {
+                                "text": "Siddhi Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Siddhi_Sthana"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Translator and commentator",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Byadgi P.S, Singh A.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Reviewer",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Babu S.P.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Editors",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Khandel S.K., Babu S.P., Deole Y.S. , Basisht G.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Deole Y.S.",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Yogesh_Deole"
+                            },
+                            {
+                                "text": "Basisht G.",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Gopal_Basisht"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Year of publication",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "2020",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Publisher",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Charak Samhita Research, Training and Skill Development Centre",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Charak Samhita Research, Training and Skill Development Centre",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Skill_Development_Centre"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "DOI",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "10.47468/CSNE.2020.e01.s05.008",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "10.47468/CSNE.2020.e01.s05.008",
+                                "url": "https://doi.org/10.47468/CSNE.2020.e01.s05.008"
+                            }
+                        ]
+                    }
+                ]
+            ],
+            "html": "<table class=\"infobox\" style=\"width:22em\"><caption>Pannarupiyam Indriyam Adhyaya</caption><tbody><tr><th scope=\"row\">Section/Chapter</th><td>\n<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> Chapter 7</td></tr><tr><th scope=\"row\">Preceding Chapter</th><td>\n<a href=\"/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya\" title=\"Katamanisharireeyam Indriyam Adhyaya\">Katamanisharireeyam Indriyam Adhyaya</a></td></tr><tr><th scope=\"row\">Succeeding Chapter</th><td>\n<a href=\"/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya\" title=\"Avakshiraseeyam Indriyam Adhyaya\">Avakshiraseeyam Indriyam Adhyaya</a></td></tr><tr><th scope=\"row\">Other Sections</th><td>\n<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a>, <a href=\"/index.php?title=Nidana_Sthana\" title=\"Nidana Sthana\">Nidana Sthana</a>,  <a href=\"/index.php?title=Vimana_Sthana\" title=\"Vimana Sthana\">Vimana Sthana</a>,  <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a>, <a href=\"/index.php?title=Chikitsa_Sthana\" title=\"Chikitsa Sthana\">Chikitsa Sthana</a>, <a href=\"/index.php?title=Kalpa_Sthana\" title=\"Kalpa Sthana\">Kalpa Sthana</a>, <a href=\"/index.php?title=Siddhi_Sthana\" title=\"Siddhi Sthana\">Siddhi Sthana</a></td></tr><tr><th scope=\"row\">Translator and commentator</th><td>\nByadgi P.S, Singh A.</td></tr><tr><th scope=\"row\">Reviewer</th><td>\nBabu S.P.</td></tr><tr><th scope=\"row\">Editors</th><td>\nKhandel S.K., Babu S.P., <a href=\"/index.php?title=Yogesh_Deole\" title=\"Yogesh Deole\">Deole Y.S.</a>, <a href=\"/index.php?title=Gopal_Basisht\" title=\"Gopal Basisht\">Basisht G.</a></td></tr><tr><th scope=\"row\">Year of publication</th><td>\n2020</td></tr><tr><th scope=\"row\">Publisher</th><td>\n<a href=\"/index.php?title=Charak_Samhita_Research,_Training_and_Skill_Development_Centre\" title=\"Charak Samhita Research, Training and Skill Development Centre\">Charak Samhita Research, Training and Skill Development Centre</a></td></tr><tr><th scope=\"row\">DOI</th><td>\n<a class=\"external text\" href=\"https://doi.org/10.47468/CSNE.2020.e01.s05.008\" rel=\"nofollow\">10.47468/CSNE.2020.e01.s05.008</a></td></tr></tbody></table>",
+            "links": [
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Katamanisharireeyam Indriyam Adhyaya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya"
+                },
+                {
+                    "text": "Avakshiraseeyam Indriyam Adhyaya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "Nidana Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Nidana_Sthana"
+                },
+                {
+                    "text": "Vimana Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                },
+                {
+                    "text": "Chikitsa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                },
+                {
+                    "text": "Kalpa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kalpa_Sthana"
+                },
+                {
+                    "text": "Siddhi Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Siddhi_Sthana"
+                },
+                {
+                    "text": "Deole Y.S.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Yogesh_Deole"
+                },
+                {
+                    "text": "Basisht G.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Gopal_Basisht"
+                },
+                {
+                    "text": "Charak Samhita Research, Training and Skill Development Centre",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Skill_Development_Centre"
+                },
+                {
+                    "text": "10.47468/CSNE.2020.e01.s05.008",
+                    "url": "https://doi.org/10.47468/CSNE.2020.e01.s05.008"
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Abstract",
+            "html": "<p><big><b>Abstract</b></big>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The seventh chapter Pannarupiyam Indriyam Adhyaya deals with the loss of shadow image in eyes, changes in complexion and luster indicative of imminent death. Difference between shadow and luster is also explained in this chapter with characteristic features of shadows pertaining to each of pancha mahabhuta . The chapter focuses on fatal prognostic features related to complexion and luster.",
+            "html": "<p style=\"text-align:justify;\">The seventh chapter <a class=\"mw-selflink selflink\">Pannarupiyam Indriyam Adhyaya</a> deals with the loss of shadow image in eyes, changes in complexion and luster indicative of imminent death. Difference between shadow and luster is also explained in this chapter with characteristic features of shadows pertaining to each of <a href=\"/index.php?title=Pancha_mahabhuta\" title=\"Pancha mahabhuta\">pancha mahabhuta</a>. The chapter focuses on fatal prognostic features related to complexion and luster. </p>",
+            "links": [
+                {
+                    "text": "pancha mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pancha_mahabhuta"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Keywords: shadow image, complexion, luster, chhaya , varna , prabha , pupuliary reaction, signs of death.",
+            "html": "<p><b>Keywords:</b> shadow image, complexion, luster, <a href=\"/index.php?title=Chhaya\" title=\"Chhaya\">chhaya</a>, <a href=\"/index.php?title=Varna\" title=\"Varna\">varna</a>, <a href=\"/index.php?title=Prabha\" title=\"Prabha\">prabha</a>, pupuliary reaction, signs of death. \n</p>",
+            "links": [
+                {
+                    "text": "chhaya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chhaya"
+                },
+                {
+                    "text": "varna",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Varna"
+                },
+                {
+                    "text": "prabha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prabha"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "",
+            "html": "<p><br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Contents",
+            "html": "<h2 id=\"mw-toc-heading\">Contents</h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ul",
+            "text": "1 Introduction 2 Sanskrit text, Transliteration and English Translation 2.1 Loss of shadow image in eyes or pupillary reaction 2.2 Features of fatal prognosis based on shadows 2.2.1 Deformities observed in shadow 2.2.2 Assessment parameters of shadow 2.3 Features of Shadow of Pancha Mahabhuta 2.3.1 Table 1: Shadows of Pancha Mahabhuta 2.4 Types of prabha (luster) 2.5 Difference between Chhaya (shadow) and Prabha(luster) 2.6 Bad prognositc signs in various diseases 2.7 Summary 3 Tattva Vimarsha (Fundamental Principles) 4 Vidhi Vimarsha (Applied Inferences) 4.1 Role of Pancha mahabhuta in complexion and luster 4.1.1 Role of tejas and agni in luster 4.1.2 Assessment of complexion and shadows and their relation with pancha mahabhuta 4.2 Difference in Chhaya (complexion) and Prabha (luster) 4.3 Signs of bad prognosis 4.4 Sign of imminent death 4.5 Poor prognostic features and relevant disease pathologies 4.6 Parapsycholoigical approach 5 References",
+            "html": "<ul>\n<li class=\"toclevel-1 tocsection-1\"><a href=\"#Introduction\"><span class=\"tocnumber\">1</span> <span class=\"toctext\">Introduction</span></a></li>\n<li class=\"toclevel-1 tocsection-2\"><a href=\"#Sanskrit_text,_Transliteration_and_English_Translation\"><span class=\"tocnumber\">2</span> <span class=\"toctext\">Sanskrit text, Transliteration and English Translation</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-3\"><a href=\"#Loss_of_shadow_image_in_eyes_or_pupillary_reaction\"><span class=\"tocnumber\">2.1</span> <span class=\"toctext\">Loss of shadow image in eyes or pupillary reaction</span></a></li>\n<li class=\"toclevel-2 tocsection-4\"><a href=\"#Features_of_fatal_prognosis_based_on_shadows\"><span class=\"tocnumber\">2.2</span> <span class=\"toctext\">Features of fatal prognosis based on shadows</span></a>\n<ul>\n<li class=\"toclevel-3 tocsection-5\"><a href=\"#Deformities_observed_in_shadow\"><span class=\"tocnumber\">2.2.1</span> <span class=\"toctext\">Deformities observed in shadow</span></a></li>\n<li class=\"toclevel-3 tocsection-6\"><a href=\"#Assessment_parameters_of_shadow\"><span class=\"tocnumber\">2.2.2</span> <span class=\"toctext\">Assessment parameters of shadow</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-2 tocsection-7\"><a href=\"#Features_of_Shadow_of_Pancha_Mahabhuta\"><span class=\"tocnumber\">2.3</span> <span class=\"toctext\">Features of Shadow of Pancha Mahabhuta</span></a>\n<ul>\n<li class=\"toclevel-3 tocsection-8\"><a href=\"#Table_1:_Shadows_of_Pancha_Mahabhuta\"><span class=\"tocnumber\">2.3.1</span> <span class=\"toctext\">Table 1: Shadows of Pancha Mahabhuta</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-2 tocsection-9\"><a href=\"#Types_of_prabha_(luster)\"><span class=\"tocnumber\">2.4</span> <span class=\"toctext\">Types of prabha (luster)</span></a></li>\n<li class=\"toclevel-2 tocsection-10\"><a href=\"#Difference_between_Chhaya_(shadow)_and_Prabha(luster)\"><span class=\"tocnumber\">2.5</span> <span class=\"toctext\">Difference between Chhaya (shadow) and Prabha(luster)</span></a></li>\n<li class=\"toclevel-2 tocsection-11\"><a href=\"#Bad_prognositc_signs_in_various_diseases\"><span class=\"tocnumber\">2.6</span> <span class=\"toctext\">Bad prognositc signs in various diseases</span></a></li>\n<li class=\"toclevel-2 tocsection-12\"><a href=\"#Summary\"><span class=\"tocnumber\">2.7</span> <span class=\"toctext\">Summary</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-13\"><a href=\"#Tattva_Vimarsha_(Fundamental_Principles)\"><span class=\"tocnumber\">3</span> <span class=\"toctext\">Tattva Vimarsha (Fundamental Principles)</span></a></li>\n<li class=\"toclevel-1 tocsection-14\"><a href=\"#Vidhi_Vimarsha_(Applied_Inferences)\"><span class=\"tocnumber\">4</span> <span class=\"toctext\">Vidhi Vimarsha (Applied Inferences)</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-15\"><a href=\"#Role_of_Pancha_mahabhuta_in_complexion_and_luster\"><span class=\"tocnumber\">4.1</span> <span class=\"toctext\">Role of Pancha mahabhuta in complexion and luster</span></a>\n<ul>\n<li class=\"toclevel-3 tocsection-16\"><a href=\"#Role_of_tejas_and_agni_in_luster\"><span class=\"tocnumber\">4.1.1</span> <span class=\"toctext\">Role of tejas and agni in luster</span></a></li>\n<li class=\"toclevel-3 tocsection-17\"><a href=\"#Assessment_of_complexion_and_shadows_and_their_relation_with_pancha_mahabhuta\"><span class=\"tocnumber\">4.1.2</span> <span class=\"toctext\">Assessment of complexion and shadows and their relation with pancha mahabhuta</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-2 tocsection-18\"><a href=\"#Difference_in_Chhaya_(complexion)_and_Prabha_(luster)\"><span class=\"tocnumber\">4.2</span> <span class=\"toctext\">Difference in Chhaya (complexion) and Prabha (luster)</span></a></li>\n<li class=\"toclevel-2 tocsection-19\"><a href=\"#Signs_of_bad_prognosis\"><span class=\"tocnumber\">4.3</span> <span class=\"toctext\">Signs of  bad prognosis</span></a></li>\n<li class=\"toclevel-2 tocsection-20\"><a href=\"#Sign_of_imminent_death\"><span class=\"tocnumber\">4.4</span> <span class=\"toctext\">Sign of imminent death</span></a></li>\n<li class=\"toclevel-2 tocsection-21\"><a href=\"#Poor_prognostic_features_and_relevant_disease_pathologies\"><span class=\"tocnumber\">4.5</span> <span class=\"toctext\">Poor prognostic features and relevant disease pathologies</span></a></li>\n<li class=\"toclevel-2 tocsection-22\"><a href=\"#Parapsycholoigical_approach\"><span class=\"tocnumber\">4.6</span> <span class=\"toctext\">Parapsycholoigical approach</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-23\"><a href=\"#References\"><span class=\"tocnumber\">5</span> <span class=\"toctext\">References</span></a></li>\n</ul>",
+            "links": [
+                {
+                    "text": "1 Introduction",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#Introduction"
+                },
+                {
+                    "text": "2 Sanskrit text, Transliteration and English Translation",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#Sanskrit_text,_Transliteration_and_English_Translation"
+                },
+                {
+                    "text": "2.1 Loss of shadow image in eyes or pupillary reaction",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#Loss_of_shadow_image_in_eyes_or_pupillary_reaction"
+                },
+                {
+                    "text": "2.2 Features of fatal prognosis based on shadows",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#Features_of_fatal_prognosis_based_on_shadows"
+                },
+                {
+                    "text": "2.2.1 Deformities observed in shadow",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#Deformities_observed_in_shadow"
+                },
+                {
+                    "text": "2.2.2 Assessment parameters of shadow",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#Assessment_parameters_of_shadow"
+                },
+                {
+                    "text": "2.3 Features of Shadow of Pancha Mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#Features_of_Shadow_of_Pancha_Mahabhuta"
+                },
+                {
+                    "text": "2.3.1 Table 1: Shadows of Pancha Mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#Table_1:_Shadows_of_Pancha_Mahabhuta"
+                },
+                {
+                    "text": "2.4 Types of prabha (luster)",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#Types_of_prabha_(luster)"
+                },
+                {
+                    "text": "2.5 Difference between Chhaya (shadow) and Prabha(luster)",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#Difference_between_Chhaya_(shadow)_and_Prabha(luster)"
+                },
+                {
+                    "text": "2.6 Bad prognositc signs in various diseases",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#Bad_prognositc_signs_in_various_diseases"
+                },
+                {
+                    "text": "2.7 Summary",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#Summary"
+                },
+                {
+                    "text": "3 Tattva Vimarsha (Fundamental Principles)",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#Tattva_Vimarsha_(Fundamental_Principles)"
+                },
+                {
+                    "text": "4 Vidhi Vimarsha (Applied Inferences)",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#Vidhi_Vimarsha_(Applied_Inferences)"
+                },
+                {
+                    "text": "4.1 Role of Pancha mahabhuta in complexion and luster",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#Role_of_Pancha_mahabhuta_in_complexion_and_luster"
+                },
+                {
+                    "text": "4.1.1 Role of tejas and agni in luster",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#Role_of_tejas_and_agni_in_luster"
+                },
+                {
+                    "text": "4.1.2 Assessment of complexion and shadows and their relation with pancha mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#Assessment_of_complexion_and_shadows_and_their_relation_with_pancha_mahabhuta"
+                },
+                {
+                    "text": "4.2 Difference in Chhaya (complexion) and Prabha (luster)",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#Difference_in_Chhaya_(complexion)_and_Prabha_(luster)"
+                },
+                {
+                    "text": "4.3 Signs of bad prognosis",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#Signs_of_bad_prognosis"
+                },
+                {
+                    "text": "4.4 Sign of imminent death",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#Sign_of_imminent_death"
+                },
+                {
+                    "text": "4.5 Poor prognostic features and relevant disease pathologies",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#Poor_prognostic_features_and_relevant_disease_pathologies"
+                },
+                {
+                    "text": "4.6 Parapsycholoigical approach",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#Parapsycholoigical_approach"
+                },
+                {
+                    "text": "5 References",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#References"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "1 Introduction",
+                    "links": [
+                        {
+                            "text": "1 Introduction",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#Introduction"
+                        }
+                    ]
+                },
+                {
+                    "text": "2 Sanskrit text, Transliteration and English Translation 2.1 Loss of shadow image in eyes or pupillary reaction 2.2 Features of fatal prognosis based on shadows 2.2.1 Deformities observed in shadow 2.2.2 Assessment parameters of shadow 2.3 Features of Shadow of Pancha Mahabhuta 2.3.1 Table 1: Shadows of Pancha Mahabhuta 2.4 Types of prabha (luster) 2.5 Difference between Chhaya (shadow) and Prabha(luster) 2.6 Bad prognositc signs in various diseases 2.7 Summary",
+                    "links": [
+                        {
+                            "text": "2 Sanskrit text, Transliteration and English Translation",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#Sanskrit_text,_Transliteration_and_English_Translation"
+                        },
+                        {
+                            "text": "2.1 Loss of shadow image in eyes or pupillary reaction",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#Loss_of_shadow_image_in_eyes_or_pupillary_reaction"
+                        },
+                        {
+                            "text": "2.2 Features of fatal prognosis based on shadows",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#Features_of_fatal_prognosis_based_on_shadows"
+                        },
+                        {
+                            "text": "2.2.1 Deformities observed in shadow",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#Deformities_observed_in_shadow"
+                        },
+                        {
+                            "text": "2.2.2 Assessment parameters of shadow",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#Assessment_parameters_of_shadow"
+                        },
+                        {
+                            "text": "2.3 Features of Shadow of Pancha Mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#Features_of_Shadow_of_Pancha_Mahabhuta"
+                        },
+                        {
+                            "text": "2.3.1 Table 1: Shadows of Pancha Mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#Table_1:_Shadows_of_Pancha_Mahabhuta"
+                        },
+                        {
+                            "text": "2.4 Types of prabha (luster)",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#Types_of_prabha_(luster)"
+                        },
+                        {
+                            "text": "2.5 Difference between Chhaya (shadow) and Prabha(luster)",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#Difference_between_Chhaya_(shadow)_and_Prabha(luster)"
+                        },
+                        {
+                            "text": "2.6 Bad prognositc signs in various diseases",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#Bad_prognositc_signs_in_various_diseases"
+                        },
+                        {
+                            "text": "2.7 Summary",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#Summary"
+                        }
+                    ]
+                },
+                {
+                    "text": "3 Tattva Vimarsha (Fundamental Principles)",
+                    "links": [
+                        {
+                            "text": "3 Tattva Vimarsha (Fundamental Principles)",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#Tattva_Vimarsha_(Fundamental_Principles)"
+                        }
+                    ]
+                },
+                {
+                    "text": "4 Vidhi Vimarsha (Applied Inferences) 4.1 Role of Pancha mahabhuta in complexion and luster 4.1.1 Role of tejas and agni in luster 4.1.2 Assessment of complexion and shadows and their relation with pancha mahabhuta 4.2 Difference in Chhaya (complexion) and Prabha (luster) 4.3 Signs of bad prognosis 4.4 Sign of imminent death 4.5 Poor prognostic features and relevant disease pathologies 4.6 Parapsycholoigical approach",
+                    "links": [
+                        {
+                            "text": "4 Vidhi Vimarsha (Applied Inferences)",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#Vidhi_Vimarsha_(Applied_Inferences)"
+                        },
+                        {
+                            "text": "4.1 Role of Pancha mahabhuta in complexion and luster",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#Role_of_Pancha_mahabhuta_in_complexion_and_luster"
+                        },
+                        {
+                            "text": "4.1.1 Role of tejas and agni in luster",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#Role_of_tejas_and_agni_in_luster"
+                        },
+                        {
+                            "text": "4.1.2 Assessment of complexion and shadows and their relation with pancha mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#Assessment_of_complexion_and_shadows_and_their_relation_with_pancha_mahabhuta"
+                        },
+                        {
+                            "text": "4.2 Difference in Chhaya (complexion) and Prabha (luster)",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#Difference_in_Chhaya_(complexion)_and_Prabha_(luster)"
+                        },
+                        {
+                            "text": "4.3 Signs of bad prognosis",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#Signs_of_bad_prognosis"
+                        },
+                        {
+                            "text": "4.4 Sign of imminent death",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#Sign_of_imminent_death"
+                        },
+                        {
+                            "text": "4.5 Poor prognostic features and relevant disease pathologies",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#Poor_prognostic_features_and_relevant_disease_pathologies"
+                        },
+                        {
+                            "text": "4.6 Parapsycholoigical approach",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#Parapsycholoigical_approach"
+                        }
+                    ]
+                },
+                {
+                    "text": "5 References",
+                    "links": [
+                        {
+                            "text": "5 References",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#References"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Introduction",
+            "html": "<h2><span class=\"mw-headline\" id=\"Introduction\">Introduction</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "If there is any distortion in the image of the examiner reflected as a shadow in the pupil of the patient, should be considered as a sign of imminent death of the patient. Nimittanurupa vikriti (image pertaining to death) will serve as a yard stick to measure the span of life. The chapter deals with clinical observations of changes in skin complexion, pupillary reactions and their relevant prognosis.",
+            "html": "<p>If there is any distortion in the image of the examiner reflected as a shadow in the pupil of the patient, should be considered as a sign of imminent death of the patient. <i>Nimittanurupa vikriti</i> (image pertaining to death) will serve as a yard stick to measure the span of life. The chapter deals with clinical observations of changes in skin complexion, pupillary reactions and their relevant prognosis. \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The Sanskrit word \"panna\" means destruction or deterioration. Hence the chapter deals with the deterioration of complexion due to various disease pathologies leading to bad prognosis and death.",
+            "html": "<p>The Sanskrit word \"panna\" means destruction or deterioration. Hence the chapter deals with the deterioration of complexion due to various disease pathologies leading to bad prognosis and death. \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Sanskrit text, Transliteration and English Translation",
+            "html": "<h2><span id=\"Sanskrit_text.2C_Transliteration_and_English_Translation\"></span><span class=\"mw-headline\" id=\"Sanskrit_text,_Transliteration_and_English_Translation\">Sanskrit text, Transliteration and English Translation</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "अथातः पन्नरूपीयमिन्द्रियं व्याख्यास्यामः||१||",
+            "html": "<p>अथातः पन्नरूपीयमिन्द्रियं व्याख्यास्यामः||१||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "इति ह स्माह भगवानात्रेयः||२||",
+            "html": "<p>इति ह स्माह भगवानात्रेयः||२|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "athātaḥ pannarūpīyamindriyaṁ vyākhyāsyāmaḥ||1||",
+            "html": "<p>athātaḥ pannarūpīyamindriyaṁ vyākhyāsyāmaḥ||1|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "iti ha smāha bhagavānātrēyaḥ||2||",
+            "html": "<p>iti ha smāha bhagavānātrēyaḥ||2||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "athAtaH pannarUpIyamindriyaM vyAkhyAsyAmaH||1||",
+            "html": "<p>athAtaH pannarUpIyamindriyaM vyAkhyAsyAmaH||1|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "iti ha smAha bhagavAnAtreyaH||2||",
+            "html": "<p>iti ha smAha bhagavAnAtreyaH||2|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Now we shall expound the chapter \"Pannarupiyam Indriyam \" (Fatal signs of changes in shadows, complexion, and luster). Thus said Lord Atreya.[1-2]",
+            "html": "<p>Now we shall expound the chapter \"Pannarupiyam Indriyam \" (Fatal signs of changes in shadows, complexion, and luster). Thus said Lord Atreya.[1-2] \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Note: The chapter deals with the signs of imminent death as indicated by the distortion of the image reflected in the pupil.",
+            "html": "<p>Note: The chapter deals with the signs of imminent death as indicated by the distortion of the image reflected in the pupil.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Loss of shadow image in eyes or pupillary reaction",
+            "html": "<h3><span class=\"mw-headline\" id=\"Loss_of_shadow_image_in_eyes_or_pupillary_reaction\">Loss of shadow image in eyes or pupillary reaction</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "दृष्ट्यां यस्य विजानीयात् पन्नरूपां कुमारिकाम्| प्रतिच्छायामयीमक्ष्णोर्नैनमिच्छेच्चिकित्सितुम्||३||",
+            "html": "<p>दृष्ट्यां यस्य विजानीयात् पन्नरूपां कुमारिकाम्| <br/>\nप्रतिच्छायामयीमक्ष्णोर्नैनमिच्छेच्चिकित्सितुम्||३|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "dr̥ṣṭyāṁ yasya vijānīyāt pannarūpāṁ kumārikām| praticchāyāmayīmakṣṇōrnainamicchēccikitsitum||3||",
+            "html": "<p>dr̥ṣṭyāṁ yasya vijānīyāt pannarūpāṁ kumārikām| <br/>\npraticchāyāmayīmakṣṇōrnainamicchēccikitsitum||3|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "dRuShTyAM yasya vijAnIyAt pannarUpAM kumArikAm| praticchAyAmayImakShNornainamiccheccikitsitum||3||",
+            "html": "<p>dRuShTyAM yasya vijAnIyAt pannarUpAM kumArikAm| <br/>\npraticchAyAmayImakShNornainamiccheccikitsitum||3|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The condition in which loss of shadow image is observed in the pupil (eyes) of the patient, should be discarded for treatment.[3]",
+            "html": "<p>The condition in which loss of shadow image is observed in the pupil (eyes) of the patient, should be discarded for treatment.[3]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Features of fatal prognosis based on shadows",
+            "html": "<h3><span class=\"mw-headline\" id=\"Features_of_fatal_prognosis_based_on_shadows\">Features of fatal prognosis based on shadows</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "ज्योत्स्नायामातपे दीपे सलिलादर्शयोरपि| अङ्गेषु विकृता यस्य च्छाया प्रेतस्तथैव सः||४||",
+            "html": "<p>ज्योत्स्नायामातपे दीपे सलिलादर्शयोरपि| <br/>\nअङ्गेषु विकृता यस्य च्छाया प्रेतस्तथैव  सः||४|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "jyōtsnāyāmātapē dīpē salilādarśayōrapi| aṅgēṣu vikr̥tā yasya cchāyā prētastathaiva saḥ||4||",
+            "html": "<p>jyōtsnāyāmātapē dīpē salilādarśayōrapi| <br/>\naṅgēṣu vikr̥tā yasya cchāyā prētastathaiva saḥ||4||<br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "jyotsnAyAmAtape dIpe salilAdarshayorapi| a~ggeShu vikRutA yasya cchAyA pretastathaiva saH||4||",
+            "html": "<p>jyotsnAyAmAtape dIpe salilAdarshayorapi| <br/>\na~ggeShu vikRutA yasya cchAyA pretastathaiva saH||4||<br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "If any sorts of deformity observed in body parts in the shadow of the person in moonlight, sunlight, light of a lamp, water or mirror. He should be considered as dead. [4]",
+            "html": "<p>If any sorts of deformity observed in body parts in the shadow of the person in moonlight, sunlight, light of a lamp, water or mirror. He should be considered as dead. [4]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h4",
+            "text": "Deformities observed in shadow",
+            "html": "<h4><span class=\"mw-headline\" id=\"Deformities_observed_in_shadow\">Deformities observed in shadow</span></h4>",
+            "links": [],
+            "images": [],
+            "level": 4
+        },
+        {
+            "type": "p",
+            "text": "छिन्ना भिन्नाऽऽकुला च्छाया हीना वाऽप्यधिकाऽपि वा| नष्टा तन्वी द्विधा च्छिन्ना विकृता विशिरा च या||५||",
+            "html": "<p>छिन्ना भिन्नाऽऽकुला च्छाया हीना वाऽप्यधिकाऽपि वा| <br/>\nनष्टा तन्वी द्विधा च्छिन्ना विकृता विशिरा च या||५|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "एताश्चान्याश्च याः काश्चित् प्रतिच्छाया विगर्हिताः| सर्वा मुमूर्षतां ज्ञेया न चेल्लक्ष्यनिमित्तजाः||६||",
+            "html": "<p>एताश्चान्याश्च याः काश्चित् प्रतिच्छाया विगर्हिताः| <br/>\nसर्वा मुमूर्षतां ज्ञेया न चेल्लक्ष्यनिमित्तजाः||६|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "chinnā bhinnā kulā cchāyā hīnā vā'pyadhikā'pi vā| naṣṭā tanvī dvidhā cchinnā vikr̥tā viśirā ca yā||5||",
+            "html": "<p>chinnā bhinnā<i>kulā cchāyā hīnā vā'pyadhikā'pi vā| <br/></i>\nnaṣṭā tanvī dvidhā cchinnā vikr̥tā viśirā ca yā||5|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "ētāścānyāśca yāḥ kāścit praticchāyā vigarhitāḥ| sarvā mumūrṣatāṁ jñēyā na cēllakṣyanimittajāḥ||6||",
+            "html": "<p>ētāścānyāśca yāḥ kāścit praticchāyā vigarhitāḥ| <br/>\nsarvā mumūrṣatāṁ jñēyā na cēllakṣyanimittajāḥ||6||<br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "chinnA bhinnA~a~akulA cchAyA hInA vA~apyadhikA~api vA| naShTA tanvI dvidhA cchinnA vikRutA vishirA ca yA||5||",
+            "html": "<p>chinnA bhinnA~a~akulA cchAyA hInA vA~apyadhikA~api vA| <br/>\nnaShTA tanvI dvidhA cchinnA vikRutA vishirA ca yA||5|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "etAshcAnyAshca yAH kAshcit praticchAyA vigarhitAH| sarvA mumUrShatAM j~jeyA na cellakShyanimittajAH||6||",
+            "html": "<p>etAshcAnyAshca yAH kAshcit praticchAyA vigarhitAH| <br/>\nsarvA mumUrShatAM j~jeyA na cellakShyanimittajAH||6||<br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Observation of shadow of a patient as broken, torn, hazy, devoid of certain organs, seeing excess organs, not conspicuous, bifurcated, deformed and without head, such other similar abnormal shadows if develops without any apparent cause it is considered as severe morbidity.[5-6]",
+            "html": "<p>Observation of shadow of a patient as broken, torn, hazy, devoid of certain organs, seeing excess organs, not conspicuous, bifurcated, deformed and without head, such other similar abnormal shadows if develops without any apparent cause it is considered as severe morbidity.[5-6]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h4",
+            "text": "Assessment parameters of shadow",
+            "html": "<h4><span class=\"mw-headline\" id=\"Assessment_parameters_of_shadow\">Assessment parameters of shadow</span></h4>",
+            "links": [],
+            "images": [],
+            "level": 4
+        },
+        {
+            "type": "p",
+            "text": "संस्थानेन प्रमाणेन वर्णेन प्रभया तथा| छाया विवर्तते यस्य स्वस्थोऽपि प्रेत एव सः||७||",
+            "html": "<p>संस्थानेन प्रमाणेन वर्णेन प्रभया तथा| <br/>\nछाया विवर्तते यस्य स्वस्थोऽपि प्रेत एव सः||७|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "saṁsthānēna pramāṇēna varṇēna prabhayā tathā| chāyā vivartatē yasya svasthō'pi prēta ēva saḥ||7||",
+            "html": "<p>saṁsthānēna pramāṇēna varṇēna prabhayā tathā| <br/>\nchāyā vivartatē yasya svasthō'pi prēta ēva saḥ||7||<br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "saMsthAnena pramANena varNena prabhayA tathA| chAyA vivartate yasya svastho~api preta eva saH||7||",
+            "html": "<p>saMsthAnena pramANena varNena prabhayA tathA| <br/>\nchAyA vivartate yasya svastho~api preta eva saH||7||<br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Distortion of shadow in respect of changes in shape, measurement, colour and lustre should be considered as ominous sign even in healthy individual.[7]",
+            "html": "<p>Distortion of shadow in respect of changes in shape, measurement, colour and lustre should be considered as ominous sign even in healthy individual.[7]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "संस्थानमाकृतिर्ज्ञेया सुषमा विषमा च सा| मध्यमल्पं महच्चोक्तं प्रमाणं त्रिविधं नृणाम्||८||",
+            "html": "<p>संस्थानमाकृतिर्ज्ञेया सुषमा विषमा च सा| <br/>\nमध्यमल्पं महच्चोक्तं प्रमाणं त्रिविधं नृणाम्||८|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "प्रतिप्रमाणसंस्थाना जलादर्शातपादिषु| छाया या सा प्रतिच्छाया च्छाया वर्णप्रभाश्रया||९||",
+            "html": "<p>प्रतिप्रमाणसंस्थाना जलादर्शातपादिषु| <br/>\nछाया या सा प्रतिच्छाया च्छाया वर्णप्रभाश्रया||९||<br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "saṁsthānamākr̥tirjñēyā suṣamā viṣamā ca sā| madhyamalpaṁ mahaccōktaṁ pramāṇaṁ trividhaṁ nr̥ṇām||8||",
+            "html": "<p>saṁsthānamākr̥tirjñēyā suṣamā viṣamā ca sā|<br/> \nmadhyamalpaṁ mahaccōktaṁ pramāṇaṁ trividhaṁ nr̥ṇām||8|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "pratipramāṇasaṁsthānā jalādarśātapādiṣu| chāyā yā sā praticchāyā cchāyā varṇaprabhāśrayā||9||",
+            "html": "<p>pratipramāṇasaṁsthānā jalādarśātapādiṣu| <br/>\nchāyā yā sā praticchāyā cchāyā varṇaprabhāśrayā||9||<br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "saMsthAnamAkRutirj~jeyA suShamA viShamA ca sA| madhyamalpaM mahaccoktaMpramANaM trividhaM nRuNAm||8||",
+            "html": "<p>saMsthAnamAkRutirj~jeyA suShamA viShamA ca sA| <br/>\nmadhyamalpaM mahaccoktaMpramANaM trividhaM nRuNAm||8|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "pratipramANasaMsthAnA jalAdarshAtapAdiShu| chAyA yA sA praticchAyA cchAyA varNaprabhAshrayA||9||",
+            "html": "<p>pratipramANasaMsthAnA jalAdarshAtapAdiShu| <br/>\nchAyA yA sA praticchAyA cchAyA varNaprabhAshrayA||9|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The term sansthana means shape which may be symmetrical or asymmetrical.\nMeasurement is of three kinds namely short, medium, and large The image reflected in water, mirror, etc., corresponding to the measurement and shape of the body of the individual is known as praticchhaya which is nothing but reflected shadow based on the complexion and luster of the individual.[8-9]",
+            "html": "<p>The term <i>sansthana</i> means shape which may be symmetrical or asymmetrical.\nMeasurement is of three kinds namely short, medium, and large The image reflected in water, mirror, etc., corresponding to the measurement and shape of the body of the individual is known as <i>praticchhaya</i> which is nothing but reflected shadow based on the complexion and luster of the individual.[8-9]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Features of Shadow of Pancha Mahabhuta",
+            "html": "<h3><span class=\"mw-headline\" id=\"Features_of_Shadow_of_Pancha_Mahabhuta\">Features of Shadow of <a class=\"mw-redirect\" href=\"/index.php?title=Pancha_Mahabhuta\" title=\"Pancha Mahabhuta\">Pancha Mahabhuta</a></span></h3>",
+            "links": [
+                {
+                    "text": "Pancha Mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pancha_Mahabhuta"
+                }
+            ],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "खादीनां पञ्च पञ्चानां छाया विविधलक्षणाः| नाभसी निर्मला नीला सस्नेहा सप्रभेव च||१०||",
+            "html": "<p>खादीनां पञ्च पञ्चानां छाया विविधलक्षणाः| <br/>\nनाभसी निर्मला नीला सस्नेहा सप्रभेव च||१०|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "रूक्षा श्यावारुणा या तु वायवी सा हतप्रभा| विशुद्धरक्ता त्वाग्नेयी दीप्ताभा दर्शनप्रिया||११||",
+            "html": "<p>रूक्षा श्यावारुणा या तु वायवी सा हतप्रभा| <br/>\nविशुद्धरक्ता त्वाग्नेयी दीप्ताभा दर्शनप्रिया||११|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "शुद्धवैदूर्यविमला सुस्निग्धा चाम्भसी मता| स्थिरा स्निग्धा घना श्लक्ष्णा श्यामा श्वेता च पार्थिवी||१२||",
+            "html": "<p>शुद्धवैदूर्यविमला सुस्निग्धा चाम्भसी मता| <br/>\nस्थिरा स्निग्धा  घना श्लक्ष्णा श्यामा श्वेता च पार्थिवी||१२|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "वायवी गर्हिता त्वासां चतस्रः स्युः सुखोदयाः | वायवी तु विनाशाय क्लेशाय महतेऽपि वा||१३||",
+            "html": "<p>वायवी गर्हिता त्वासां चतस्रः स्युः सुखोदयाः  | <br/>\nवायवी तु विनाशाय क्लेशाय महतेऽपि वा||१३|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "khādīnāṁ pañca pañcānāṁ chāyā vividhalakṣaṇāḥ| nābhasī nirmalā nīlā sasnēhā saprabhēva ca||10||",
+            "html": "<p>khādīnāṁ pañca pañcānāṁ chāyā vividhalakṣaṇāḥ| <br/>\nnābhasī nirmalā nīlā sasnēhā saprabhēva ca||10|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "rūkṣā śyāvāruṇā yā tu vāyavī sā hataprabhā| viśuddharaktā tvāgnēyī dīptābhā darśanapriyā||11||",
+            "html": "<p>rūkṣā śyāvāruṇā yā tu vāyavī sā hataprabhā| <br/>\nviśuddharaktā tvāgnēyī dīptābhā darśanapriyā||11|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "śuddhavaidūryavimalā susnigdhā cāmbhasī matā| sthirā snigdhā ghanā ślakṣṇā śyāmā śvētā ca pārthivī||12||",
+            "html": "<p>śuddhavaidūryavimalā susnigdhā cāmbhasī matā| <br/>\nsthirā snigdhā  ghanā ślakṣṇā śyāmā śvētā ca pārthivī||12|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "vāyavī garhitā tvāsāṁ catasraḥ syuḥ sukhōdayāḥ | vāyavī tu vināśāya klēśāya mahatē'pi vā||13||",
+            "html": "<p>vāyavī garhitā tvāsāṁ catasraḥ syuḥ sukhōdayāḥ | <br/>\nvāyavī tu vināśāya klēśāya mahatē'pi vā||13|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "khAdInAM pa~jca pa~jcAnAM chAyA vividhalakShaNAH| nAbhasI nirmalA nIlA sasnehA saprabheva ca||10||",
+            "html": "<p>khAdInAM pa~jca pa~jcAnAM chAyA vividhalakShaNAH| <br/>\nnAbhasI nirmalA nIlA sasnehA saprabheva ca||10|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "rUkShA shyAvAruNA yA tu vAyavI sA hataprabhA| vishuddharaktA tvAgneyI dIptAbhA darshanapriyA||11||",
+            "html": "<p>rUkShA shyAvAruNA yA tu vAyavI sA hataprabhA| <br/>\nvishuddharaktA tvAgneyI dIptAbhA darshanapriyA||11||<br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "shuddhavaidUryavimalA susnigdhA cAmbhasI matA| sthirA snigdhAghanA shlakShNA shyAmA shvetA ca pArthivI||12||",
+            "html": "<p>shuddhavaidUryavimalA susnigdhA cAmbhasI matA| <br/>\nsthirA snigdhAghanA shlakShNA shyAmA shvetA ca pArthivI||12|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "vAyavI garhitA tvAsAM catasraH syuH sukhodayAH | vAyavI tu vinAshAya kleshAya mahate~api vA||13||",
+            "html": "<p>vAyavI garhitA tvAsAM catasraH syuH sukhodayAH  | <br/>\nvAyavI tu vinAshAya kleshAya mahate~api vA||13||<br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The following are the distinctive characteristic features of shadows pertaining to each of the five great elements [table 1].",
+            "html": "<p>The following are the distinctive characteristic features of shadows pertaining to each of the five great elements [table 1].\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h4",
+            "text": "Table 1: Shadows of Pancha Mahabhuta",
+            "html": "<h4><span class=\"mw-headline\" id=\"Table_1:_Shadows_of_Pancha_Mahabhuta\">Table 1: Shadows of <a class=\"mw-redirect\" href=\"/index.php?title=Pancha_Mahabhuta\" title=\"Pancha Mahabhuta\">Pancha Mahabhuta</a></span></h4>",
+            "links": [
+                {
+                    "text": "Pancha Mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pancha_Mahabhuta"
+                }
+            ],
+            "images": [],
+            "level": 4
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "S.No",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "th",
+                        "text": "Mahabhuta",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Mahabhuta",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Mahabhuta"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "th",
+                        "text": "Distinctive characteristic features of shadows",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "1",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Akasha mahabhuta",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Akasha mahabhuta",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Clear , blue, unctuous and lustrous shadow",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "2.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Vayu mahabhuta",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Vayu mahabhuta",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Dry, brown, and reddish",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "3.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Agni mahabhuta",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Agni mahabhuta",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Bright red, brilliant and pleasing to the eyes",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "4.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Jala mahabhuta",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Jala mahabhuta",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Jala_mahabhuta"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Clear like cat’s eye, and excessive unctuous",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "5.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Prithvi mahabhuta",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Prithvi mahabhuta",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Stable, unctuous, compact, smooth, black and white",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ]
+            ],
+            "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th rowspan=\"1\">S.No\n</th>\n<th rowspan=\"1\"><a class=\"mw-redirect\" href=\"/index.php?title=Mahabhuta\" title=\"Mahabhuta\">Mahabhuta</a>\n</th>\n<th rowspan=\"1\">Distinctive characteristic features of shadows\n</th></tr>\n<tr>\n<td>1</td>\n<td><a href=\"/index.php?title=Akasha_mahabhuta\" title=\"Akasha mahabhuta\">Akasha mahabhuta</a></td>\n<td>Clear , blue, unctuous and lustrous shadow\n</td></tr>\n<tr>\n<td>2.</td>\n<td><a href=\"/index.php?title=Vayu_mahabhuta\" title=\"Vayu mahabhuta\">Vayu mahabhuta</a></td>\n<td>Dry, brown, and reddish\n</td></tr>\n<tr>\n<td>3.</td>\n<td><a href=\"/index.php?title=Agni_mahabhuta\" title=\"Agni mahabhuta\">Agni mahabhuta</a></td>\n<td>Bright red, brilliant and pleasing to the eyes\n</td></tr>\n<tr>\n<td>4.</td>\n<td><a href=\"/index.php?title=Jala_mahabhuta\" title=\"Jala mahabhuta\">Jala mahabhuta</a></td>\n<td>Clear like cat’s eye, and excessive unctuous\n</td></tr>\n<tr>\n<td>5.</td>\n<td><a href=\"/index.php?title=Prithvi_mahabhuta\" title=\"Prithvi mahabhuta\">Prithvi mahabhuta</a></td>\n<td>Stable, unctuous, compact, smooth, black and white\n</td></tr>\n</tbody></table>",
+            "links": [
+                {
+                    "text": "Mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahabhuta"
+                },
+                {
+                    "text": "Akasha mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta"
+                },
+                {
+                    "text": "Vayu mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta"
+                },
+                {
+                    "text": "Agni mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta"
+                },
+                {
+                    "text": "Jala mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Jala_mahabhuta"
+                },
+                {
+                    "text": "Prithvi mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta"
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "The shadow pertaining to vayu mahabhuta is of inferior in nature whereas the remaining four are indicative of pleasure and happiness. Vayu mahabhuta shadows indicative of great calamities and miseries.[10-13]",
+            "html": "<p>The shadow pertaining to <a href=\"/index.php?title=Vayu_mahabhuta\" title=\"Vayu mahabhuta\">vayu mahabhuta</a> is of inferior in nature whereas the remaining four are indicative of pleasure and happiness. <a href=\"/index.php?title=Vayu_mahabhuta\" title=\"Vayu mahabhuta\">Vayu mahabhuta</a> shadows indicative of great calamities and miseries.[10-13]\n</p>",
+            "links": [
+                {
+                    "text": "vayu mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta"
+                },
+                {
+                    "text": "Vayu mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Types of prabha (luster)",
+            "html": "<h3><span id=\"Types_of_prabha_.28luster.29\"></span><span class=\"mw-headline\" id=\"Types_of_prabha_(luster)\">Types of <a href=\"/index.php?title=Prabha\" title=\"Prabha\">prabha</a> (luster)</span></h3>",
+            "links": [
+                {
+                    "text": "prabha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prabha"
+                }
+            ],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "स्यात्तैजसी प्रभा सर्वा सा तु सप्तविधा स्मृता| रक्ता पीता सिता श्यावा हरिता पाण्डुराऽसिता||१४||",
+            "html": "<p>स्यात्तैजसी प्रभा सर्वा सा तु सप्तविधा स्मृता| <br/>\nरक्ता पीता सिता श्यावा हरिता पाण्डुराऽसिता||१४|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "तासां याः स्युर्विकासिन्यः स्निग्धाश्च विपुलाश्च याः| ताः शुभा रूक्षमलिनाः सङ्क्षिप्ताश्चाशुभोदयाः ||१५||",
+            "html": "<p>तासां याः स्युर्विकासिन्यः स्निग्धाश्च विपुलाश्च याः| <br/>\nताः शुभा रूक्षमलिनाः सङ्क्षिप्ताश्चाशुभोदयाः  ||१५|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "syāttaijasī prabhā sarvā sā tu saptavidhā smr̥tā| raktā pītā sitā śyāvā haritā pāṇḍurā'sitā||14||",
+            "html": "<p>syāttaijasī prabhā sarvā sā tu saptavidhā smr̥tā| <br/>\nraktā pītā sitā śyāvā haritā pāṇḍurā'sitā||14|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "tāsāṁ yāḥ syurvikāsinyaḥ snigdhāśca vipulāśca yāḥ| tāḥ śubhā rūkṣamalināḥ saṅkṣiptāścāśubhōdayāḥ ||15||",
+            "html": "<p>tāsāṁ yāḥ syurvikāsinyaḥ snigdhāśca vipulāśca yāḥ| <br/>\ntāḥ śubhā rūkṣamalināḥ saṅkṣiptāścāśubhōdayāḥ ||15|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "syAttaijasI prabhA sarvA sA tu saptavidhA smRutA| raktA pItA sitA shyAvA haritA pANDurA~asitA||14||",
+            "html": "<p>syAttaijasI prabhA sarvA sA tu saptavidhA smRutA| <br/>\nraktA pItA sitA shyAvA haritA pANDurA~asitA||14|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "tAsAM yAH syurvikAsinyaH snigdhAshca vipulAshca yAH| tAH shubhA rUkShamalinAH sa~gkShiptAshcAshubhodayAH||15||",
+            "html": "<p>tAsAM yAH syurvikAsinyaH snigdhAshca vipulAshca yAH| <br/>\ntAH shubhA rUkShamalinAH sa~gkShiptAshcAshubhodayAH||15|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "All varieties of luster are constituted of tejas mahabhuta . They are classified as seven type’s namely red, yellow, white, brown, green, pale yellowish and black. Of them which are emanative, unctuous, and dense are auspicious and those others which are dry, dirty and thin are inauspicious.[14-15]",
+            "html": "<p>All varieties of  luster are constituted of <a class=\"mw-redirect\" href=\"/index.php?title=Tejas_mahabhuta\" title=\"Tejas mahabhuta\">tejas mahabhuta</a>. They are classified as seven type’s namely red, yellow, white, brown, green, pale yellowish and black. Of them which are emanative, unctuous, and dense are auspicious and those others which are dry, dirty and thin are inauspicious.[14-15]\n</p>",
+            "links": [
+                {
+                    "text": "tejas mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tejas_mahabhuta"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Difference between Chhaya (shadow) and Prabha (luster)",
+            "html": "<h3><span id=\"Difference_between_Chhaya_.28shadow.29_and_Prabha.28luster.29\"></span><span class=\"mw-headline\" id=\"Difference_between_Chhaya_(shadow)_and_Prabha(luster)\">Difference between <a href=\"/index.php?title=Chhaya\" title=\"Chhaya\">Chhaya</a> (shadow) and <a href=\"/index.php?title=Prabha\" title=\"Prabha\">Prabha</a>(luster)</span></h3>",
+            "links": [
+                {
+                    "text": "Chhaya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chhaya"
+                },
+                {
+                    "text": "Prabha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prabha"
+                }
+            ],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "वर्णमाक्रामति च्छाया भास्तु वर्णप्रकाशिनी| आसन्ना लक्ष्यते च्छाया भाः प्रकृष्टा प्रकाशते||१६||",
+            "html": "<p>वर्णमाक्रामति च्छाया भास्तु  वर्णप्रकाशिनी| <br/>\nआसन्ना लक्ष्यते च्छाया भाः प्रकृष्टा  प्रकाशते||१६||<br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "नाच्छायो नाप्रभः कश्चिद्विशेषाश्चिह्नयन्ति तु| नृणां शुभाशुभोत्पत्तिं काले छायाप्रभाश्रयाः||१७||",
+            "html": "<p>नाच्छायो नाप्रभः कश्चिद्विशेषाश्चिह्नयन्ति तु| <br/>\nनृणां शुभाशुभोत्पत्तिं काले छायाप्रभाश्रयाः||१७|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "varṇamākrāmati cchāyā bhāstu varṇaprakāśinī| āsannā lakṣyatē cchāyā bhāḥ prakr̥ṣṭā prakāśatē||16||",
+            "html": "<p>varṇamākrāmati cchāyā bhāstu  varṇaprakāśinī| <br/>\nāsannā lakṣyatē cchāyā bhāḥ prakr̥ṣṭā  prakāśatē||16|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "nācchāyō nāprabhaḥ kaścidviśēṣāścihnayanti tu| nr̥ṇāṁ śubhāśubhōtpattiṁ kālē chāyāprabhāśrayāḥ||17||",
+            "html": "<p>nācchāyō nāprabhaḥ kaścidviśēṣāścihnayanti tu| <br/>\nnr̥ṇāṁ śubhāśubhōtpattiṁ kālē chāyāprabhāśrayāḥ||17||<br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "varNamAkrAmati cchAyA bhAstu varNaprakAshinI| AsannA lakShyate cchAyA bhAH prakRuShTA prakAshate||16||",
+            "html": "<p>varNamAkrAmati cchAyA bhAstu  varNaprakAshinI| <br/>\nAsannA lakShyate cchAyA bhAH prakRuShTA  prakAshate||16|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "nAcchAyo nAprabhaH kashcidvisheShAshcihnayanti tu| nRuNAM shubhAshubhotpattiM kAle chAyAprabhAshrayAH||17||",
+            "html": "<p>nAcchAyo nAprabhaH kashcidvisheShAshcihnayanti tu| <br/>\nnRuNAM shubhAshubhotpattiM kAle chAyAprabhAshrayAH||17|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The shadow decreases the complexion of the body whereas the luster illuminates. The shadow can be observed from nearby whereas luster illuminates from a distance. There is nothing devoid of luster or shadow. Certain distinctive features of the shadow and the luster when mature indicates emergence of inauspicious or auspicious results in relation to human beings. [16-17]",
+            "html": "<p>The shadow decreases the complexion of the body whereas the luster illuminates. The shadow can be observed from nearby whereas luster illuminates from a distance. There is nothing devoid of luster or shadow. Certain distinctive features of the shadow and the luster when mature indicates emergence of inauspicious or auspicious results in relation to human beings. [16-17]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Bad prognositc signs in various diseases",
+            "html": "<h3><span class=\"mw-headline\" id=\"Bad_prognositc_signs_in_various_diseases\">Bad prognositc signs in various diseases</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "कामलाऽक्ष्णोर्मुखं पूर्णं शङ्खयोर्मुक्तमांसता| सन्त्रासश्चोष्णगात्रत्वं यस्य तं परिवर्जयेत्||१८||",
+            "html": "<p>कामलाऽक्ष्णोर्मुखं पूर्णं शङ्खयोर्मुक्तमांसता| <br/>\nसन्त्रासश्चोष्णगात्रत्वं  यस्य तं परिवर्जयेत्||१८|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "उत्थाप्यमानः शयनात् प्रमोहं याति यो नरः| मुहुर्मुहुर्न सप्ताहं स जीवति विकत्थनः ||१९||",
+            "html": "<p>उत्थाप्यमानः शयनात् प्रमोहं याति यो नरः| <br/>\nमुहुर्मुहुर्न सप्ताहं स जीवति विकत्थनः ||१९|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "संसृष्टा व्याधयो यस्य प्रतिलोमानुलोमगाः| व्यापन्ना ग्रहणी प्रायः सोऽर्धमासं न जीवति||२०||",
+            "html": "<p>संसृष्टा व्याधयो यस्य प्रतिलोमानुलोमगाः| <br/>\nव्यापन्ना ग्रहणी प्रायः सोऽर्धमासं न जीवति||२०|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "kāmalā'kṣṇōrmukhaṁ pūrṇaṁ śaṅkhayōrmuktamāṁsatā| santrāsaścōṣṇagātratvaṁ yasya taṁ parivarjayēt||18||",
+            "html": "<p>kāmalā'kṣṇōrmukhaṁ pūrṇaṁ śaṅkhayōrmuktamāṁsatā| <br/>\nsantrāsaścōṣṇagātratvaṁ  yasya taṁ parivarjayēt||18|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "utthāpyamānaḥ śayanāt pramōhaṁ yāti yō naraḥ| muhurmuhurna saptāhaṁ sa jīvati vikatthanaḥ ||19||",
+            "html": "<p>utthāpyamānaḥ śayanāt pramōhaṁ yāti yō naraḥ| <br/>\nmuhurmuhurna saptāhaṁ sa jīvati vikatthanaḥ  ||19|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "saṁsr̥ṣṭā vyādhayō yasya pratilōmānulōmagāḥ| vyāpannā grahaṇī prāyaḥ sō'rdhamāsaṁ na jīvati||20||",
+            "html": "<p>saṁsr̥ṣṭā vyādhayō yasya pratilōmānulōmagāḥ| <br/>\nvyāpannā grahaṇī prāyaḥ sō'rdhamāsaṁ na jīvati||20|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "kAmalA~akShNormukhaM pUrNaM sha~gkhayormuktamAMsatA| santrAsashcoShNagAtratvaM yasya taM parivarjayet||18||",
+            "html": "<p>kAmalA~akShNormukhaM pUrNaM sha~gkhayormuktamAMsatA| <br/>\nsantrAsashcoShNagAtratvaM  yasya taM parivarjayet||18|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "utthApyamAnaH shayanAt pramohaM yAti yo naraH| muhurmuhurna saptAhaM sa jIvati vikatthanaH ||19||",
+            "html": "<p>utthApyamAnaH shayanAt pramohaM yAti yo naraH| <br/>\nmuhurmuhurna saptAhaM sa jIvati vikatthanaH  ||19|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "saMsRuShTA vyAdhayo yasya pratilomAnulomagAH| vyApannA grahaNI prAyaH so~ardhamAsaM na jIvati||20||",
+            "html": "<p>saMsRuShTA vyAdhayo yasya pratilomAnulomagAH| <br/>\nvyApannA grahaNI prAyaH so~ardhamAsaM na jIvati||20|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Patient who is suffering from kamala , swelling of face, wasting in temples and terrifying appearance with high fever such patient should be discarded for management.",
+            "html": "<p>Patient who is suffering from <a href=\"/index.php?title=Kamala\" title=\"Kamala\">kamala</a>, swelling of face, wasting in temples and terrifying appearance with high fever such patient should be discarded for management.\n</p>",
+            "links": [
+                {
+                    "text": "kamala",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kamala"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Patient who faints again and again while being lifted from bed cannot survive for a week.\nThe patient afflicted with multiple doshas having movements in upward, downward both directions along with disordered grahani (Duodenum and Small intestine) cannot survive for longer than for a fortnight.[18-20]",
+            "html": "<p>Patient who faints again and again while being lifted from bed cannot survive for a week.\nThe patient afflicted with multiple <i>doshas</i> having movements  in upward, downward both directions along with disordered <a class=\"mw-redirect\" href=\"/index.php?title=Grahani\" title=\"Grahani\">grahani</a>(Duodenum and Small intestine) cannot survive for longer than for a fortnight.[18-20]\n</p>",
+            "links": [
+                {
+                    "text": "grahani",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Grahani"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "उपरुद्धस्य रोगेण कर्शितस्याल्पमश्नतः| बहु मूत्रपुरीषं स्याद्यस्य तं परिवर्जयेत्||२१||",
+            "html": "<p>उपरुद्धस्य रोगेण कर्शितस्याल्पमश्नतः| <br/>\nबहु मूत्रपुरीषं स्याद्यस्य तं परिवर्जयेत्||२१|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "दुर्बलो बहु भुङ्क्ते यः प्राग्भुक्तादन्नमातुरः | अल्पमूत्रपुरीषश्च यथा प्रेतस्तथैव सः||२२||",
+            "html": "<p>दुर्बलो बहु भुङ्क्ते यः प्राग्भुक्तादन्नमातुरः  | <br/>\nअल्पमूत्रपुरीषश्च यथा प्रेतस्तथैव सः||२२|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "इष्टं च गुणसम्पन्नमन्नमश्नाति यो नरः| शश्वच्च बलवर्णाभ्यां हीयते न स जीवति||२३||",
+            "html": "<p>इष्टं च गुणसम्पन्नमन्नमश्नाति  यो नरः| <br/>\nशश्वच्च बलवर्णाभ्यां हीयते न स जीवति||२३|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "प्रकूजति प्रश्वसिति शिथिलं चातिसार्यते| बलहीनः पिपासार्तः शुष्कास्यो न स जीवति||२४||",
+            "html": "<p>प्रकूजति प्रश्वसिति शिथिलं चातिसार्यते| <br/>\nबलहीनः पिपासार्तः शुष्कास्यो न स जीवति||२४|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "ह्रस्वं च यः प्रश्वसिति व्याविद्धं स्पन्दते च यः| मृतमेव तमात्रेयो व्याचचक्षे पुनर्वसुः||२५||",
+            "html": "<p>ह्रस्वं च यः प्रश्वसिति व्याविद्धं स्पन्दते च यः| <br/>\nमृतमेव तमात्रेयो व्याचचक्षे पुनर्वसुः||२५|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "ऊर्ध्वं च यः प्रश्वसिति श्लेष्मणा चाभिभूयते| हीनवर्णबलाहारो यो नरो न स जीवति||२६||",
+            "html": "<p>ऊर्ध्वं च यः प्रश्वसिति श्लेष्मणा चाभिभूयते| <br/>\nहीनवर्णबलाहारो यो नरो न स जीवति||२६|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "uparuddhasya rōgēṇa karśitasyālpamaśnataḥ| bahu mūtrapurīṣaṁ syādyasya taṁ parivarjayēt||21||",
+            "html": "<p>uparuddhasya rōgēṇa karśitasyālpamaśnataḥ| <br/>\nbahu mūtrapurīṣaṁ syādyasya taṁ parivarjayēt||21|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "durbalō bahu bhuṅktē yaḥ prāgbhuktādannamāturaḥ | alpamūtrapurīṣaśca yathā prētastathaiva saḥ||22||",
+            "html": "<p>durbalō bahu bhuṅktē yaḥ prāgbhuktādannamāturaḥ  | <br/>\nalpamūtrapurīṣaśca yathā prētastathaiva saḥ||22|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "iṣṭaṁ ca guṇasampannamannamaśnāti yō naraḥ| śaśvacca balavarṇābhyāṁ hīyatē na sa jīvati||23||",
+            "html": "<p>iṣṭaṁ ca guṇasampannamannamaśnāti  yō naraḥ| <br/>\nśaśvacca balavarṇābhyāṁ hīyatē na sa jīvati||23|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "prakūjati praśvasiti śithilaṁ cātisāryatē| balahīnaḥ pipāsārtaḥ śuṣkāsyō na sa jīvati||24||",
+            "html": "<p>prakūjati praśvasiti śithilaṁ cātisāryatē| <br/>\nbalahīnaḥ pipāsārtaḥ śuṣkāsyō na sa jīvati||24|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "hrasvaṁ ca yaḥ praśvasiti vyāviddhaṁ spandatē ca yaḥ| mr̥tamēva tamātrēyō vyācacakṣē punarvasuḥ||25||",
+            "html": "<p>hrasvaṁ ca yaḥ praśvasiti vyāviddhaṁ spandatē ca yaḥ| <br/>\nmr̥tamēva tamātrēyō vyācacakṣē punarvasuḥ||25|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "ūrdhvaṁ ca yaḥ praśvasiti ślēṣmaṇā cābhibhūyatē| hīnavarṇabalāhārō yō narō na sa jīvati||26||",
+            "html": "<p>ūrdhvaṁ ca yaḥ praśvasiti ślēṣmaṇā cābhibhūyatē| <br/>\nhīnavarṇabalāhārō yō narō na sa jīvati||26|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "uparuddhasya rogeNa karshitasyAlpamashnataH| bahu mUtrapurIShaM syAdyasya taM parivarjayet||21||",
+            "html": "<p>uparuddhasya rogeNa karshitasyAlpamashnataH| <br/>\nbahu mUtrapurIShaM syAdyasya taM parivarjayet||21|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "durbalo bahu bhu~gkte yaH prAgbhuktAdannamAturaH | alpamUtrapurIShashca yathA pretastathaiva saH||22||",
+            "html": "<p>durbalo bahu bhu~gkte yaH prAgbhuktAdannamAturaH  | <br/>\nalpamUtrapurIShashca yathA pretastathaiva saH||22|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "iShTaM ca guNasampannamannamashnAti yo naraH| shashvacca balavarNAbhyAM hIyate na sa jIvati||23||",
+            "html": "<p>iShTaM ca guNasampannamannamashnAti yo naraH| <br/>\nshashvacca balavarNAbhyAM hIyate na sa jIvati||23|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "prakUjati prashvasiti shithilaM cAtisAryate| balahInaH pipAsArtaH shuShkAsyo na sa jIvati||24||",
+            "html": "<p>prakUjati prashvasiti shithilaM cAtisAryate| <br/>\nbalahInaH pipAsArtaH shuShkAsyo na sa jIvati||24|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "hrasvaM ca yaH prashvasiti vyAviddhaM spandate ca yaH| mRutameva tamAtreyo vyAcacakShe punarvasuH||25||",
+            "html": "<p>hrasvaM ca yaH prashvasiti vyAviddhaM spandate ca yaH| <br/>\nmRutameva tamAtreyo vyAcacakShe punarvasuH||25|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "UrdhvaM ca yaH prashvasiti shleShmaNA cAbhibhUyate| hInavarNabalAhAro yo naro na sa jIvati||26||",
+            "html": "<p>UrdhvaM ca yaH prashvasiti shleShmaNA cAbhibhUyate| <br/>\nhInavarNabalAhAro yo naro na sa jIvati||26||<br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Consumption of little quantity of food by emaciated person but excretes large amount of urine and stool should be discarded for management.",
+            "html": "<p>Consumption of little quantity of food by emaciated person but excretes large amount of urine and stool should be discarded for management. \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Consumption of excess quantity of food by weak patient but passes scanty urine and stool should be considered as ghost or almost dead.\nIn spite of taking suitable diet if person constantly loose strength and complexion indicates bad prognosis.\nIf a person who is weak, thirsty and having dryness of mouth, if suffers from groaning, dyspnea and diarrhea, then it should not be treated because he will not survive.",
+            "html": "<p>Consumption of excess quantity of food by weak patient but passes scanty urine and stool should be considered as ghost or almost dead.\nIn spite of taking suitable diet if person constantly loose strength and complexion indicates bad prognosis.\nIf a person who is weak, thirsty and having dryness of mouth, if suffers from groaning, dyspnea and diarrhea, then it should not be treated because he will not survive.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "If patient is suffering from shallow respiration with irregular twitching in the body is said to be severe fatal condition like almost dead.\nPerson who is suffering from respiratory distress with abundance of kapha along with diminution of complexion, strength and less intake of food will not survive for longer.[21-26]",
+            "html": "<p>If patient is suffering from shallow respiration with irregular twitching in the body is said to be severe fatal condition like almost dead.\nPerson who is suffering from respiratory distress with abundance of <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a> along with diminution of complexion, strength and less intake of food will not survive for longer.[21-26]\n</p>",
+            "links": [
+                {
+                    "text": "kapha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kapha"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "ऊर्ध्वाग्रे नयने यस्य मन्ये चारतकम्पने| बलहीनः पिपासार्तः शुष्कास्यो न स जीवति||२७||",
+            "html": "<p>ऊर्ध्वाग्रे नयने यस्य मन्ये  चारतकम्पने| <br/>\nबलहीनः पिपासार्तः शुष्कास्यो न स जीवति||२७|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "यस्य गण्डावुपचितौ ज्वरकासौ च दारुणौ| शूली प्रद्वेष्टि चाप्यन्नं तस्मिन् कर्म न सिध्यति||२८||",
+            "html": "<p>यस्य गण्डावुपचितौ ज्वरकासौ च दारुणौ| <br/>\nशूली प्रद्वेष्टि चाप्यन्नं तस्मिन् कर्म न सिध्यति||२८|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "व्यावृत्तमूर्धजिह्वास्यो भ्रुवौ यस्य च विच्युते| कण्टकैश्चाचिता जिह्वा यथा प्रेतस्तथैव सः||२९||",
+            "html": "<p>व्यावृत्तमूर्धजिह्वास्यो  भ्रुवौ यस्य च विच्युते| <br/>\nकण्टकैश्चाचिता जिह्वा यथा प्रेतस्तथैव सः||२९|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "शेफश्चात्यर्थमुत्सिक्तं निःसृतौ वृषणौ भृशम्| अतश्चैव विपर्यासो विकृत्या प्रेतलक्षणम्||३०||",
+            "html": "<p>शेफश्चात्यर्थमुत्सिक्तं निःसृतौ वृषणौ भृशम्| <br/>\nअतश्चैव विपर्यासो विकृत्या प्रेतलक्षणम्||३०|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "निचितं यस्य मांसं स्यात्त्वगस्थिष्वेव दृश्यते| क्षीणस्यानश्नतस्तस्य मासमायुः परं भवेत्||३१||",
+            "html": "<p>निचितं यस्य मांसं स्यात्त्वगस्थिष्वेव  दृश्यते| <br/>\nक्षीणस्यानश्नतस्तस्य मासमायुः परं भवेत्||३१|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "ūrdhvāgrē nayanē yasya manyē cāratakampanē| balahīnaḥ pipāsārtaḥ śuṣkāsyō na sa jīvati||27||",
+            "html": "<p>ūrdhvāgrē nayanē yasya manyē  cāratakampanē| <br/>\nbalahīnaḥ pipāsārtaḥ śuṣkāsyō na sa jīvati||27|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "yasya gaṇḍāvupacitau jvarakāsau ca dāruṇau| śūlī pradvēṣṭi cāpyannaṁ tasmin karma na sidhyati||28||",
+            "html": "<p>yasya gaṇḍāvupacitau jvarakāsau ca dāruṇau| <br/>\nśūlī pradvēṣṭi cāpyannaṁ tasmin karma na sidhyati||28|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "vyāvr̥ttamūrdhajihvāsyō bhruvau yasya ca vicyutē| kaṇṭakaiścācitā jihvā yathā prētastathaiva saḥ||29||",
+            "html": "<p>vyāvr̥ttamūrdhajihvāsyō  bhruvau yasya ca vicyutē| <br/>\nkaṇṭakaiścācitā jihvā yathā prētastathaiva saḥ||29|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "śēphaścātyarthamutsiktaṁ niḥsr̥tau vr̥ṣaṇau bhr̥śam| ataścaiva viparyāsō vikr̥tyā prētalakṣaṇam||30||",
+            "html": "<p>śēphaścātyarthamutsiktaṁ niḥsr̥tau vr̥ṣaṇau bhr̥śam| <br/>\nataścaiva viparyāsō vikr̥tyā prētalakṣaṇam||30|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "nicitaṁ yasya māṁsaṁ syāttvagasthiṣvēva dr̥śyatē| kṣīṇasyānaśnatastasya māsamāyuḥ paraṁ bhavēt||31||",
+            "html": "<p>nicitaṁ yasya māṁsaṁ syāttvagasthiṣvēva  dr̥śyatē| <br/>\nkṣīṇasyānaśnatastasya māsamāyuḥ paraṁ bhavēt||31|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "UrdhvAgre nayane yasya manye cAratakampane| balahInaH pipAsArtaH shuShkAsyo na sa jIvati||27||",
+            "html": "<p>UrdhvAgre nayane yasya manye  cAratakampane| <br/>\nbalahInaH pipAsArtaH shuShkAsyo na sa jIvati||27|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "yasya gaNDAvupacitau jvarakAsau ca dAruNau| shUlI pradveShTi cApyannaM tasmin karma na sidhyati||28||",
+            "html": "<p>yasya gaNDAvupacitau jvarakAsau ca dAruNau| <br/>\nshUlI pradveShTi cApyannaM tasmin karma na sidhyati||28|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "vyAvRuttamUrdhajihvAsyo bhruvau yasya ca vicyute| kaNTakaishcAcitA jihvA yathA pretastathaiva saH||29||",
+            "html": "<p>vyAvRuttamUrdhajihvAsyo  bhruvau yasya ca vicyute| <br/>\nkaNTakaishcAcitA jihvA yathA pretastathaiva saH||29|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "shephashcAtyarthamutsiktaM niHsRutau vRuShaNau bhRusham| atashcaiva viparyAso vikRutyA pretalakShaNam||30||",
+            "html": "<p>shephashcAtyarthamutsiktaM niHsRutau vRuShaNau bhRusham| <br/>\natashcaiva viparyAso vikRutyA pretalakShaNam||30|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "nicitaM yasya mAMsaM syAttvagasthiShveva dRushyate| kShINasyAnashnatastasya mAsamAyuH paraM bhavet||31||",
+            "html": "<p>nicitaM yasya mAMsaM syAttvagasthiShveva  dRushyate| <br/>\nkShINasyAnashnatastasya mAsamAyuH paraM bhavet||31|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "A weak, thirsty and dryness of mouth suffers from rigid and upward look of the eyes and persistent throbbing of the carotid region of the neck, will not survive for long.",
+            "html": "<p>A weak, thirsty and dryness of mouth suffers from rigid and upward look of the eyes and persistent throbbing of the carotid region of the neck, will not survive for long.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "If an emaciated person having prominent cheeks along with high fever, severe cough, colic and dislike for food will not cure from his ailments because no treatment suits him.",
+            "html": "<p>If an emaciated person having prominent cheeks along with high fever, severe cough, colic and dislike for food will not cure from his ailments because no treatment suits him.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "If there is a distortion of the head, tongue and face, drooping of eye brows and appearance of thorny coat over tongue, don’t treat such patients due to its ominous nature.",
+            "html": "<p>If there is a distortion of the head, tongue and face, drooping of eye brows and appearance of thorny coat over tongue, don’t treat such patients due to its ominous nature.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Whose penis is excessively long along with pendulous testicles or vice versa, such signs are indicative of death of a patient immediately.\nIn emaciated individual whose muscles are excessively undergone wasting with remnants of skin and bone does not survive more than one month.[27-31]",
+            "html": "<p>Whose penis is excessively long along with pendulous testicles or vice versa, such signs are indicative of death of a patient immediately.\nIn emaciated individual whose muscles are excessively undergone wasting with remnants of skin and bone does not survive more than one month.[27-31]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Summary",
+            "html": "<h3><span class=\"mw-headline\" id=\"Summary\">Summary</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "तत्र श्लोकः- इदं लिङ्गमरिष्टाख्यमनेकमभिजज्ञिवान्| आयुर्वेदविदित्याख्यां लभते कुशलो जनः||३२||",
+            "html": "<p>तत्र श्लोकः- <br/>\nइदं लिङ्गमरिष्टाख्यमनेकमभिजज्ञिवान्| <br/>\nआयुर्वेदविदित्याख्यां लभते कुशलो जनः||३२||<br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "tatra ślōkaḥ- idaṁ liṅgamariṣṭākhyamanēkamabhijajñivān| āyurvēdavidityākhyāṁ labhatē kuśalō janaḥ||32||",
+            "html": "<p>tatra ślōkaḥ- <br/>\nidaṁ liṅgamariṣṭākhyamanēkamabhijajñivān| <br/>\nāyurvēdavidityākhyāṁ labhatē kuśalō janaḥ||32||<br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "tatra shlokaH- idaM li~ggamariShTAkhyamanekamabhijaj~jivAn| Ayurvedavidity AkhyAM labhate kushalo janaH||32||",
+            "html": "<p>tatra shlokaH- <br/>\nidaM li~ggamariShTAkhyamanekamabhijaj~jivAn| <br/>\n<a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurvedavidity</a>AkhyAM labhate kushalo janaH||32||<br/>\n</p>",
+            "links": [
+                {
+                    "text": "Ayurvedavidity",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayurveda"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "To summarize:",
+            "html": "<p>To summarize:\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Who is well versed with the observation of above signs and symptoms which indicates imminent death, is entitled to be known as intelligent physician. [32]",
+            "html": "<p>Who is well versed with the observation of above signs and symptoms which indicates imminent death, is entitled to be known as intelligent physician. [32]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Tattva Vimarsha (Fundamental Principles)",
+            "html": "<h2><span id=\"Tattva_Vimarsha_.28Fundamental_Principles.29\"></span><span class=\"mw-headline\" id=\"Tattva_Vimarsha_(Fundamental_Principles)\"><a href=\"/index.php?title=Tattva_Vimarsha\" title=\"Tattva Vimarsha\">Tattva Vimarsha</a> (Fundamental Principles)</span></h2>",
+            "links": [
+                {
+                    "text": "Tattva Vimarsha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tattva_Vimarsha"
+                }
+            ],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ul",
+            "text": "Shadow image in pupils, changes in complexion and luster should be examined to assess prognosis. Perception of distorted images of body parts or their absence are ominous signs.",
+            "html": "<ul><li>Shadow image in pupils, changes in complexion and luster should be examined to assess prognosis.</li>\n<li>Perception of distorted images of body parts or their absence are ominous signs.</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Shadow image in pupils, changes in complexion and luster should be examined to assess prognosis.",
+                    "links": []
+                },
+                {
+                    "text": "Perception of distorted images of body parts or their absence are ominous signs.",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Vidhi Vimarsha (Applied Inferences)",
+            "html": "<h2><span id=\"Vidhi_Vimarsha_.28Applied_Inferences.29\"></span><span class=\"mw-headline\" id=\"Vidhi_Vimarsha_(Applied_Inferences)\"><a class=\"mw-redirect\" href=\"/index.php?title=Vidhi_Vimarsha\" title=\"Vidhi Vimarsha\">Vidhi Vimarsha</a> (Applied Inferences)</span></h2>",
+            "links": [
+                {
+                    "text": "Vidhi Vimarsha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vidhi_Vimarsha"
+                }
+            ],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "The Sanskrit word Pannarupi implies something whose form or aspect has disappeared. Pannarupam , the word, has been derived from apannarupam, implies ill-formed or confused in respect of shape. Any alterations in chhaya (complexion) and prabha (luster) denotes the ominous sign for the patient.",
+            "html": "<p>The Sanskrit word <i>Pannarupi</i> implies something whose form or aspect has disappeared. <i>Pannarupam</i> , the word, has been derived from <i>apannarupam,</i> implies ill-formed or confused in respect of shape. Any alterations in <a href=\"/index.php?title=Chhaya\" title=\"Chhaya\">chhaya</a> (complexion) and <a href=\"/index.php?title=Prabha\" title=\"Prabha\">prabha</a> (luster) denotes the ominous sign for the patient. \n</p>",
+            "links": [
+                {
+                    "text": "chhaya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chhaya"
+                },
+                {
+                    "text": "prabha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prabha"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Role of Pancha mahabhuta in complexion and luster",
+            "html": "<h3><span class=\"mw-headline\" id=\"Role_of_Pancha_mahabhuta_in_complexion_and_luster\">Role of <a href=\"/index.php?title=Pancha_mahabhuta\" title=\"Pancha mahabhuta\">Pancha mahabhuta</a> in complexion and luster</span></h3>",
+            "links": [
+                {
+                    "text": "Pancha mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pancha_mahabhuta"
+                }
+            ],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Following cross references are important to be re-visited to assess the role of pancha mahabhuta , especially tejas mahabhuta in complexion and luster.",
+            "html": "<p>Following cross references are important to be re-visited to assess the role of <a href=\"/index.php?title=Pancha_mahabhuta\" title=\"Pancha mahabhuta\">pancha mahabhuta</a>, especially <a class=\"mw-redirect\" href=\"/index.php?title=Tejas_mahabhuta\" title=\"Tejas mahabhuta\">tejas mahabhuta</a> in complexion and luster. \n</p>",
+            "links": [
+                {
+                    "text": "pancha mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pancha_mahabhuta"
+                },
+                {
+                    "text": "tejas mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tejas_mahabhuta"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "ul",
+            "text": "Qualities of Pancha mahabhuta are: Qualities of Akasha are sound, auditory organ, all orifices and distinctness. Qualities of Vayu are touch tactile organ, all activities, movements in all body parts and lightness. Qualities of Tejas are vision, visual organ, complexion, heat, splendor, digestion, intolerance, sharpness and valor. Qualities of Apa are taste, gustatory organ, all liquidity, heaviness, coldness, unctuousness and semen and Qualities of Prithvi (i.e., those that have qualities of the prithvi element) are- smell, olfactory organ, hardness and heaviness. [Su. Sa. Sharira Sthana 1/19] [ 1 ]",
+            "html": "<ul><li>Qualities of <a href=\"/index.php?title=Pancha_mahabhuta\" title=\"Pancha mahabhuta\">Pancha mahabhuta</a> are:\n<ul><li>Qualities of <a class=\"mw-redirect\" href=\"/index.php?title=Akasha\" title=\"Akasha\">Akasha</a> are sound, auditory organ, all orifices and distinctness.</li>\n<li>Qualities of <a class=\"mw-redirect\" href=\"/index.php?title=Vayu\" title=\"Vayu\">Vayu</a> are  touch tactile organ, all activities, movements in all body parts and lightness.</li>\n<li>Qualities of <a class=\"mw-redirect\" href=\"/index.php?title=Tejas\" title=\"Tejas\">Tejas</a> are  vision, visual organ, complexion, heat, splendor, digestion, intolerance, sharpness and valor.</li>\n<li>Qualities of <a class=\"mw-redirect\" href=\"/index.php?title=Apa\" title=\"Apa\">Apa</a> are taste, gustatory organ, all liquidity, heaviness, coldness, unctuousness and semen and</li>\n<li>Qualities of <a class=\"mw-redirect\" href=\"/index.php?title=Prithvi\" title=\"Prithvi\">Prithvi</a> (i.e., those that have qualities of the <a class=\"mw-redirect\" href=\"/index.php?title=Prithvi\" title=\"Prithvi\">prithvi</a> element) are- smell, olfactory organ, hardness and heaviness. [Su. Sa. Sharira Sthana 1/19]<sup class=\"reference\" id=\"cite_ref-Sushruta_1-0\"><a href=\"#cite_note-Sushruta-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup></li></ul></li></ul>",
+            "links": [
+                {
+                    "text": "Pancha mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pancha_mahabhuta"
+                },
+                {
+                    "text": "Akasha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha"
+                },
+                {
+                    "text": "Vayu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu"
+                },
+                {
+                    "text": "Tejas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tejas"
+                },
+                {
+                    "text": "Apa",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Apa"
+                },
+                {
+                    "text": "Prithvi",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi"
+                },
+                {
+                    "text": "prithvi",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi"
+                },
+                {
+                    "text": "[ 1 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#cite_note-Sushruta-1"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Qualities of Pancha mahabhuta are: Qualities of Akasha are sound, auditory organ, all orifices and distinctness. Qualities of Vayu are touch tactile organ, all activities, movements in all body parts and lightness. Qualities of Tejas are vision, visual organ, complexion, heat, splendor, digestion, intolerance, sharpness and valor. Qualities of Apa are taste, gustatory organ, all liquidity, heaviness, coldness, unctuousness and semen and Qualities of Prithvi (i.e., those that have qualities of the prithvi element) are- smell, olfactory organ, hardness and heaviness. [Su. Sa. Sharira Sthana 1/19] [ 1 ]",
+                    "links": [
+                        {
+                            "text": "Pancha mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pancha_mahabhuta"
+                        },
+                        {
+                            "text": "Akasha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha"
+                        },
+                        {
+                            "text": "Vayu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu"
+                        },
+                        {
+                            "text": "Tejas",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Tejas"
+                        },
+                        {
+                            "text": "Apa",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Apa"
+                        },
+                        {
+                            "text": "Prithvi",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi"
+                        },
+                        {
+                            "text": "prithvi",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi"
+                        },
+                        {
+                            "text": "[ 1 ]",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#cite_note-Sushruta-1"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h4",
+            "text": "Role of tejas and agni in luster",
+            "html": "<h4><span class=\"mw-headline\" id=\"Role_of_tejas_and_agni_in_luster\">Role of <a class=\"mw-redirect\" href=\"/index.php?title=Tejas\" title=\"Tejas\">tejas</a> and <a href=\"/index.php?title=Agni\" title=\"Agni\">agni</a> in luster</span></h4>",
+            "links": [
+                {
+                    "text": "tejas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tejas"
+                },
+                {
+                    "text": "agni",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni"
+                }
+            ],
+            "images": [],
+            "level": 4
+        },
+        {
+            "type": "ul",
+            "text": "Tejas mahabhuta promote luster complexion, strength, energy, power, digestive fire, and vitality. It also alleviates all vata dosha dominant diseases and sustains youthful age. [Su. Sa. Chikitsa Sthana 38/50] [ 1 ] The normal rasa dhatu converted to reddish color by pitta is rakta dhatu and its equilibrium brings health. [Su.Sa. Sutra Sthana 14/5] [ 1 ]",
+            "html": "<ul><li><a class=\"mw-redirect\" href=\"/index.php?title=Tejas_mahabhuta\" title=\"Tejas mahabhuta\">Tejas mahabhuta</a> promote  luster complexion, strength, energy, power, digestive fire, and vitality. It also alleviates all <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a> <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> dominant diseases and sustains youthful age. [Su. Sa. Chikitsa Sthana 38/50]<sup class=\"reference\" id=\"cite_ref-Sushruta_1-1\"><a href=\"#cite_note-Sushruta-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup> The normal <a href=\"/index.php?title=Rasa_dhatu\" title=\"Rasa dhatu\">rasa dhatu</a> converted to reddish color by <a href=\"/index.php?title=Pitta\" title=\"Pitta\">pitta</a> is <a href=\"/index.php?title=Rakta_dhatu\" title=\"Rakta dhatu\">rakta dhatu</a> and its equilibrium brings health. [Su.Sa. Sutra Sthana 14/5]<sup class=\"reference\" id=\"cite_ref-Sushruta_1-2\"><a href=\"#cite_note-Sushruta-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup></li></ul>",
+            "links": [
+                {
+                    "text": "Tejas mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tejas_mahabhuta"
+                },
+                {
+                    "text": "vata",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vata"
+                },
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "[ 1 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#cite_note-Sushruta-1"
+                },
+                {
+                    "text": "rasa dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa_dhatu"
+                },
+                {
+                    "text": "pitta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pitta"
+                },
+                {
+                    "text": "rakta dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rakta_dhatu"
+                },
+                {
+                    "text": "[ 1 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#cite_note-Sushruta-1"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Tejas mahabhuta promote luster complexion, strength, energy, power, digestive fire, and vitality. It also alleviates all vata dosha dominant diseases and sustains youthful age. [Su. Sa. Chikitsa Sthana 38/50] [ 1 ] The normal rasa dhatu converted to reddish color by pitta is rakta dhatu and its equilibrium brings health. [Su.Sa. Sutra Sthana 14/5] [ 1 ]",
+                    "links": [
+                        {
+                            "text": "Tejas mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Tejas_mahabhuta"
+                        },
+                        {
+                            "text": "vata",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vata"
+                        },
+                        {
+                            "text": "dosha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                        },
+                        {
+                            "text": "[ 1 ]",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#cite_note-Sushruta-1"
+                        },
+                        {
+                            "text": "rasa dhatu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa_dhatu"
+                        },
+                        {
+                            "text": "pitta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pitta"
+                        },
+                        {
+                            "text": "rakta dhatu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Rakta_dhatu"
+                        },
+                        {
+                            "text": "[ 1 ]",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#cite_note-Sushruta-1"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Tejas element is the causative factor of complexion when at the time of conception, it is predominantly associated with apa element, it makes the fetus fair- complexioned, predominance in prithvi elements causes black one. That in prithvi and akasha elements gives to black- sky complexion while predominance in apa and akasha elements makes fair-sky complexion of fetus. If tejas does not reach the visual organ, it makes the fetus born blind, the same associated with blood makes red eyed, that associated with pitta and kapha makes yellow- eyed and white-eyed respectively, if associated with vata it causes deformity in eyes.",
+            "html": "<p><a class=\"mw-redirect\" href=\"/index.php?title=Tejas\" title=\"Tejas\">Tejas</a> element is the causative factor of complexion when at the time of conception, it is predominantly associated with <a class=\"mw-redirect\" href=\"/index.php?title=Apa\" title=\"Apa\">apa</a> element, it makes the fetus fair- complexioned, predominance in <a class=\"mw-redirect\" href=\"/index.php?title=Prithvi\" title=\"Prithvi\">prithvi</a> elements causes black one. That in <a class=\"mw-redirect\" href=\"/index.php?title=Prithvi\" title=\"Prithvi\">prithvi</a> and <a class=\"mw-redirect\" href=\"/index.php?title=Akasha\" title=\"Akasha\">akasha</a> elements gives to black- sky complexion while predominance in <a class=\"mw-redirect\" href=\"/index.php?title=Apa\" title=\"Apa\">apa</a> and <a class=\"mw-redirect\" href=\"/index.php?title=Akasha\" title=\"Akasha\">akasha</a> elements makes fair-sky complexion of fetus. If <a class=\"mw-redirect\" href=\"/index.php?title=Tejas\" title=\"Tejas\">tejas</a> does not reach the visual organ, it makes the fetus born blind, the same associated with blood makes red eyed, that associated with <a href=\"/index.php?title=Pitta\" title=\"Pitta\">pitta</a> and <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a> makes yellow- eyed and white-eyed respectively, if associated with <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a> it causes deformity in eyes.\n</p>",
+            "links": [
+                {
+                    "text": "Tejas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tejas"
+                },
+                {
+                    "text": "apa",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Apa"
+                },
+                {
+                    "text": "prithvi",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi"
+                },
+                {
+                    "text": "prithvi",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi"
+                },
+                {
+                    "text": "akasha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha"
+                },
+                {
+                    "text": "apa",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Apa"
+                },
+                {
+                    "text": "akasha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha"
+                },
+                {
+                    "text": "tejas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tejas"
+                },
+                {
+                    "text": "pitta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pitta"
+                },
+                {
+                    "text": "kapha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kapha"
+                },
+                {
+                    "text": "vata",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vata"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Agni is the primary factor for sustenance of life, color, strength, health, enthusiasm, plumpness, complexion, ojas , tejas , and prana .",
+            "html": "<p><a href=\"/index.php?title=Agni\" title=\"Agni\">Agni</a> is the primary factor for sustenance of life, color, strength, health, enthusiasm, plumpness, complexion, <a href=\"/index.php?title=Ojas\" title=\"Ojas\">ojas</a>, <a class=\"mw-redirect\" href=\"/index.php?title=Tejas\" title=\"Tejas\">tejas</a>, and <a href=\"/index.php?title=Prana\" title=\"Prana\">prana</a>.\n</p>",
+            "links": [
+                {
+                    "text": "Agni",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni"
+                },
+                {
+                    "text": "ojas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ojas"
+                },
+                {
+                    "text": "tejas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tejas"
+                },
+                {
+                    "text": "prana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h4",
+            "text": "Assessment of complexion and shadows and their relation with pancha mahabhuta",
+            "html": "<h4><span class=\"mw-headline\" id=\"Assessment_of_complexion_and_shadows_and_their_relation_with_pancha_mahabhuta\">Assessment of complexion and shadows and their relation with <a href=\"/index.php?title=Pancha_mahabhuta\" title=\"Pancha mahabhuta\">pancha mahabhuta</a></span></h4>",
+            "links": [
+                {
+                    "text": "pancha mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pancha_mahabhuta"
+                }
+            ],
+            "images": [],
+            "level": 4
+        },
+        {
+            "type": "p",
+            "text": "The changes in complexion and shadows can be assessed upon various parameters. This can indicate the dominance of specific mahabhuta . The characteristics are as shown in table 2 below.",
+            "html": "<p>The changes in complexion and shadows can be assessed upon various parameters. This can indicate the dominance of specific <a class=\"mw-redirect\" href=\"/index.php?title=Mahabhuta\" title=\"Mahabhuta\">mahabhuta</a>. The characteristics are as shown in table 2 below. \n</p>",
+            "links": [
+                {
+                    "text": "mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahabhuta"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "Parameter",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "th",
+                        "text": "Akasha mahabhuta",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Akasha mahabhuta",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "th",
+                        "text": "Vayu mahabhuta",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Vayu mahabhuta",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "th",
+                        "text": "Agni mahabhuta",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Agni mahabhuta",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "th",
+                        "text": "Jala mahabhuta",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Jala mahabhuta",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Jala_mahabhuta"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "th",
+                        "text": "Prithvi mahabhuta",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Prithvi mahabhuta",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Color",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Neela (blue)",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Shyava-aruna (grayish red)",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Rakta (red)",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Vaidurya(cat’s eye)",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Shyama Shweta (Shy colour or white)",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Luminosity",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Saprabha (lustrous)",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Hataprabha(Lustreless)",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Diptabha (illuminating)",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "--",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "--",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Brightness",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Pure",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "--",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "--",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Like pure vaidurya(cat’s eye)",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Unctuous",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Transparency",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "--",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "--",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Vishudhdha (purely transparent)",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Shuddha(Transparent)",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "--",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Hydration & Elasticity",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Slightly unctuous",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Dried",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "--",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Good unction",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Unctuous",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Homogeneity",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "--",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "--",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Darshanapriya (charming)",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "--",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Shlakshna (smooth)",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Firmness",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "--",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "--",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "--",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "--",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Sthira (stable) and ghana(solid)",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ]
+            ],
+            "html": "<table class=\"wikitable\">\n<caption>Table 2: <a class=\"mw-redirect\" href=\"/index.php?title=Mahabhuta\" title=\"Mahabhuta\">Mahabhuta</a> and their characteristics related to <a href=\"/index.php?title=Chhaya\" title=\"Chhaya\">chhaya</a> (skin complexions)\n</caption>\n<tbody><tr>\n<th>Parameter</th>\n<th><a href=\"/index.php?title=Akasha_mahabhuta\" title=\"Akasha mahabhuta\">Akasha mahabhuta</a></th>\n<th><a href=\"/index.php?title=Vayu_mahabhuta\" title=\"Vayu mahabhuta\">Vayu mahabhuta</a></th>\n<th><a href=\"/index.php?title=Agni_mahabhuta\" title=\"Agni mahabhuta\">Agni mahabhuta</a></th>\n<th><a href=\"/index.php?title=Jala_mahabhuta\" title=\"Jala mahabhuta\">Jala mahabhuta</a></th>\n<th><a href=\"/index.php?title=Prithvi_mahabhuta\" title=\"Prithvi mahabhuta\">Prithvi mahabhuta</a>\n</th></tr>\n<tr>\n<td>Color</td>\n<td>Neela (blue)</td>\n<td>Shyava-aruna (grayish red)</td>\n<td>Rakta (red)</td>\n<td>Vaidurya(cat’s  eye)</td>\n<td>Shyama Shweta (Shy colour or white)\n</td></tr>\n<tr>\n<td>Luminosity</td>\n<td>Saprabha (lustrous)</td>\n<td>Hataprabha(Lustreless)</td>\n<td>Diptabha (illuminating)</td>\n<td>--</td>\n<td>--\n</td></tr>\n<tr>\n<td>Brightness</td>\n<td>Pure</td>\n<td>--</td>\n<td>--</td>\n<td>Like pure vaidurya(cat’s eye)</td>\n<td>Unctuous\n</td></tr>\n<tr>\n<td>Transparency</td>\n<td>--</td>\n<td>--</td>\n<td>Vishudhdha (purely transparent)</td>\n<td>Shuddha(Transparent)</td>\n<td>--\n</td></tr>\n<tr>\n<td>Hydration &amp; Elasticity</td>\n<td>Slightly unctuous</td>\n<td>Dried</td>\n<td>--</td>\n<td>Good unction</td>\n<td>Unctuous\n</td></tr>\n<tr>\n<td>Homogeneity</td>\n<td>--</td>\n<td>--</td>\n<td>Darshanapriya (charming)</td>\n<td>--</td>\n<td>Shlakshna (smooth)\n</td></tr>\n<tr>\n<td>Firmness</td>\n<td>--</td>\n<td>--</td>\n<td>--</td>\n<td>--</td>\n<td>Sthira (stable) and  ghana(solid)\n</td></tr>\n</tbody></table>",
+            "links": [
+                {
+                    "text": "Mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahabhuta"
+                },
+                {
+                    "text": "chhaya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chhaya"
+                },
+                {
+                    "text": "Akasha mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta"
+                },
+                {
+                    "text": "Vayu mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta"
+                },
+                {
+                    "text": "Agni mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta"
+                },
+                {
+                    "text": "Jala mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Jala_mahabhuta"
+                },
+                {
+                    "text": "Prithvi mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta"
+                }
+            ]
+        },
+        {
+            "type": "h3",
+            "text": "Difference in Chhaya (complexion) and Prabha (luster)",
+            "html": "<h3><span id=\"Difference_in_Chhaya_.28complexion.29_and_Prabha_.28luster.29\"></span><span class=\"mw-headline\" id=\"Difference_in_Chhaya_(complexion)_and_Prabha_(luster)\">Difference in <a href=\"/index.php?title=Chhaya\" title=\"Chhaya\">Chhaya</a> (complexion) and <a href=\"/index.php?title=Prabha\" title=\"Prabha\">Prabha</a> (luster)</span></h3>",
+            "links": [
+                {
+                    "text": "Chhaya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chhaya"
+                },
+                {
+                    "text": "Prabha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prabha"
+                }
+            ],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "The following table 3 depicts difference between complexion and luster. This is helpful for assessment of disease pathologies and prognosis.",
+            "html": "<p>The following table 3 depicts difference between complexion and luster. This is helpful for assessment of disease pathologies and prognosis.  \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "Chhaya",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Chhaya",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Chhaya"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "th",
+                        "text": "Prabha",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Prabha",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Prabha"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Dependent on Varna and Prabha",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Illuminates Varna and it is independent",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Easily detectable when the person in nearer",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Illuminates from a distance",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Five types based on mahabhuta",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "mahabhuta",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Mahabhuta"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Seven types based upon color",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Originates from any mahabhuta",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "mahabhuta",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Mahabhuta"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Originates from ‘ tejas only",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "tejas",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Tejas"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Denotes skin complexion",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Denotes skin radiance or luminance or AURA",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Can be measured or differentiated by using various scales like ‘Fitzpatrick skin type scale’, ‘Luschan’s chromatic scale’, C.L.B.T (skin colour, luminance, brightness and transparency) etc;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Can be measured by using ‘Optical method having three parameters like Complexion / diffusion’ (Cd), Complexion / reflection (Cr), Complexion / specular position (Csp), and C.L.B.T etc;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ]
+            ],
+            "html": "<table class=\"wikitable\">\n<caption>Table 3: Difference between <a href=\"/index.php?title=Chhaya\" title=\"Chhaya\">Chhaya</a> and <a href=\"/index.php?title=Prabha\" title=\"Prabha\">Prabha</a>\n</caption>\n<tbody><tr>\n<th><a href=\"/index.php?title=Chhaya\" title=\"Chhaya\">Chhaya</a></th>\n<th><a href=\"/index.php?title=Prabha\" title=\"Prabha\">Prabha</a>\n</th></tr>\n<tr>\n<td>Dependent on Varna and Prabha</td>\n<td>Illuminates Varna and it is independent\n</td></tr>\n<tr>\n<td>Easily detectable when the person in nearer</td>\n<td>Illuminates from a distance\n</td></tr>\n<tr>\n<td>Five types based on <a class=\"mw-redirect\" href=\"/index.php?title=Mahabhuta\" title=\"Mahabhuta\">mahabhuta</a></td>\n<td>Seven types based upon color\n</td></tr>\n<tr>\n<td>Originates from any <a class=\"mw-redirect\" href=\"/index.php?title=Mahabhuta\" title=\"Mahabhuta\">mahabhuta</a></td>\n<td>Originates from ‘<a class=\"mw-redirect\" href=\"/index.php?title=Tejas\" title=\"Tejas\">tejas</a> only\n</td></tr>\n<tr>\n<td>Denotes skin complexion</td>\n<td>Denotes skin radiance or luminance or AURA\n</td></tr>\n<tr>\n<td>Can be measured or differentiated by using various scales like ‘Fitzpatrick skin type scale’, ‘Luschan’s chromatic scale’, C.L.B.T (skin colour, luminance, brightness and transparency) etc;</td>\n<td>Can be measured by using ‘Optical method having three parameters like Complexion / diffusion’ (Cd), Complexion / reflection (Cr), Complexion / specular position (Csp), and C.L.B.T etc;\n</td></tr>\n</tbody></table>",
+            "links": [
+                {
+                    "text": "Chhaya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chhaya"
+                },
+                {
+                    "text": "Prabha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prabha"
+                },
+                {
+                    "text": "Chhaya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chhaya"
+                },
+                {
+                    "text": "Prabha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prabha"
+                },
+                {
+                    "text": "mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahabhuta"
+                },
+                {
+                    "text": "mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahabhuta"
+                },
+                {
+                    "text": "tejas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tejas"
+                }
+            ]
+        },
+        {
+            "type": "h3",
+            "text": "Signs of bad prognosis",
+            "html": "<h3><span class=\"mw-headline\" id=\"Signs_of_bad_prognosis\">Signs of  bad prognosis</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "To see things devoid of their real characteristics - e.g., bright things looking dull and lusterless - indicates impending death of the patient. The process of dying usually begins well before death actually occurs. Death is a personal journey that each individual approaches in their own unique way. Nothing is concrete, nothing is set in stone. There are many paths one can take on this journey but all lead to the same destination. As one comes close to death, a process begins; a journey from the known life of this world to the unknown of what lies ahead. As that process begins, a person starts on a mental path of discovery, comprehending that death will indeed occur and believing in their own mortality. The journey ultimately leads to the physical departure from the body.",
+            "html": "<p>To see things devoid of their real characteristics  - e.g., bright things looking dull and lusterless - indicates impending death of the patient. The  process of dying usually begins well before death actually occurs. Death is a personal journey that each individual approaches in their own unique way. Nothing is concrete, nothing is set in stone. There are many paths one can take on this journey but all lead to the same destination. As one comes close to death, a process begins; a journey from the known life of this world to the unknown of what lies ahead. As that process begins, a person starts on a mental path of discovery, comprehending that death will indeed occur and believing in their own mortality. The journey ultimately leads to the physical departure from the body.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Sign of imminent death",
+            "html": "<h3><span class=\"mw-headline\" id=\"Sign_of_imminent_death\">Sign of imminent death</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "ol",
+            "text": "Patient who is suffering from kamala , swelling in face, wasting in temples, and terrifying appearance with high fever has grave prognosis. Patient who faints again and again while being lifted from bed may not survive for a week. This is the time during the journey that one begins to sleep most of the time. Disorientation is common and altered senses of perception can be expected. One may experience delusions, such as fearing hidden enemies or feeling invincible. The dying person may also experience hallucinations, sometimes seeing or speaking to people that are not there or died in the past. Some may see this as the veil being lifted between this life and the next. The person may pick at their sheets and clothing in a state of agitation. Movements and actions may seem aimless and make no sense to others. They are moving further away from life to this earth. At the end of life, patients often lose interest in eating and drinking because the body is conserving its energy and no longer requires the same level of nourishment. It is important to let each individual decide how much, even if it is little or nothing, that he or she wishes to eat or drink. Family members should not force food or drink, as it will only make their loved one feel uncomfortable or upset. Near the end of life, patients no longer feel hunger pangs and forcing them to eat may actually cause nausea and abdominal pain. Eventually, the patient may become entirely unable to swallow food and fluids. Frequent mouth care will be given to help prevent dry mouth. When the body prepares to die, a decrease in urine production and loss of bladder and bowel control are noted. The urine may appear dark because the patient is not as hydrated and there is less circulation in the kidneys. Fluids may collect in a dying person’s throat and lungs. Because he or she is unable to swallow or cough up this fluid, he or she may make a gurgling noise. The noise may be worrisome to family members, but it is common and rarely uncomfortable for the patient. Elevating and repositioning the head may help to relieve some of the congestion. As cardiac output and intravascular volume decrease at the end of life, there will be evidence of diminished peripheral blood perfusion. Tachycardia, hypotension, peripheral cooling, peripheral and central cyanosis, and mottling of the skin (livedo reticularis) are expected. Venous blood may pool along dependent skin surfaces. Urine output falls as perfusion of the kidneys diminishes.",
+            "html": "<ol><li>Patient who is suffering from <a href=\"/index.php?title=Kamala\" title=\"Kamala\">kamala</a>, swelling in face, wasting in temples, and terrifying appearance with high fever has grave prognosis.</li>\n<li>Patient who faints again and again while being lifted from bed may not survive for a week. This is the time during the journey that one begins to sleep most of the time. Disorientation is common and altered senses of perception can be expected. One may experience delusions, such as fearing hidden enemies or feeling invincible. The dying person may also experience hallucinations, sometimes seeing or speaking to people that are not there or died in the past. Some may see this as the veil being lifted between this life and the next. The person may pick at their sheets and clothing in a state of agitation. Movements and actions may seem aimless and make no sense to others. They are moving further away from life to this earth.</li>\n<li>At the end of life, patients often lose interest in eating and drinking because the body is conserving its energy and no longer requires the same level of nourishment. It is important to let each individual decide how much, even if it is little or nothing, that he or she wishes to eat or drink. Family members should not force food or drink, as it will only make their loved one feel uncomfortable or upset. Near the end of life, patients no longer feel hunger pangs and forcing them to eat may actually cause nausea and abdominal pain. Eventually, the patient may become entirely unable to swallow food and fluids. Frequent mouth care will be given to help prevent dry mouth.</li>\n<li>When the body prepares to die, a decrease in urine production and loss of bladder and bowel control are noted. The urine may appear dark because the patient is not as hydrated and there is less circulation in the kidneys.</li>\n<li>Fluids may collect in a dying person’s throat and lungs. Because he or she is unable to swallow or cough up this fluid, he or she may make a gurgling noise. The noise may be worrisome to family members, but it is common and rarely uncomfortable for the patient. Elevating and repositioning the head may help to relieve some of the congestion.</li>\n<li>As cardiac output and intravascular volume decrease at the end of life, there will be evidence of diminished peripheral blood perfusion. Tachycardia, hypotension, peripheral cooling, peripheral and central cyanosis, and mottling of the skin (livedo reticularis) are expected. Venous blood may pool along dependent skin surfaces. Urine output falls as perfusion of the kidneys diminishes.</li></ol>",
+            "links": [
+                {
+                    "text": "kamala",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kamala"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Patient who is suffering from kamala , swelling in face, wasting in temples, and terrifying appearance with high fever has grave prognosis.",
+                    "links": [
+                        {
+                            "text": "kamala",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Kamala"
+                        }
+                    ]
+                },
+                {
+                    "text": "Patient who faints again and again while being lifted from bed may not survive for a week. This is the time during the journey that one begins to sleep most of the time. Disorientation is common and altered senses of perception can be expected. One may experience delusions, such as fearing hidden enemies or feeling invincible. The dying person may also experience hallucinations, sometimes seeing or speaking to people that are not there or died in the past. Some may see this as the veil being lifted between this life and the next. The person may pick at their sheets and clothing in a state of agitation. Movements and actions may seem aimless and make no sense to others. They are moving further away from life to this earth.",
+                    "links": []
+                },
+                {
+                    "text": "At the end of life, patients often lose interest in eating and drinking because the body is conserving its energy and no longer requires the same level of nourishment. It is important to let each individual decide how much, even if it is little or nothing, that he or she wishes to eat or drink. Family members should not force food or drink, as it will only make their loved one feel uncomfortable or upset. Near the end of life, patients no longer feel hunger pangs and forcing them to eat may actually cause nausea and abdominal pain. Eventually, the patient may become entirely unable to swallow food and fluids. Frequent mouth care will be given to help prevent dry mouth.",
+                    "links": []
+                },
+                {
+                    "text": "When the body prepares to die, a decrease in urine production and loss of bladder and bowel control are noted. The urine may appear dark because the patient is not as hydrated and there is less circulation in the kidneys.",
+                    "links": []
+                },
+                {
+                    "text": "Fluids may collect in a dying person’s throat and lungs. Because he or she is unable to swallow or cough up this fluid, he or she may make a gurgling noise. The noise may be worrisome to family members, but it is common and rarely uncomfortable for the patient. Elevating and repositioning the head may help to relieve some of the congestion.",
+                    "links": []
+                },
+                {
+                    "text": "As cardiac output and intravascular volume decrease at the end of life, there will be evidence of diminished peripheral blood perfusion. Tachycardia, hypotension, peripheral cooling, peripheral and central cyanosis, and mottling of the skin (livedo reticularis) are expected. Venous blood may pool along dependent skin surfaces. Urine output falls as perfusion of the kidneys diminishes.",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "h3",
+            "text": "Poor prognostic features and relevant disease pathologies",
+            "html": "<h3><span class=\"mw-headline\" id=\"Poor_prognostic_features_and_relevant_disease_pathologies\">Poor prognostic features and relevant disease pathologies</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "The prognostic features described in this chapter can be observed in various disease pathologies as shown in table 4. [ 2 ] There is a wide scope of research to study the exact clinical correlation of the features and underlying disease pathologies.",
+            "html": "<p>The prognostic features described in this chapter can be observed in various disease pathologies as shown in table 4. <sup class=\"reference\" id=\"cite_ref-2\"><a href=\"#cite_note-2\"><span class=\"cite-bracket\">[</span>2<span class=\"cite-bracket\">]</span></a></sup> There is a wide scope of research to study the exact clinical correlation of the features and underlying disease pathologies. \n</p>",
+            "links": [
+                {
+                    "text": "[ 2 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#cite_note-2"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "Reference verse",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "th",
+                        "text": "Relevant disease or pathology",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Cha.Sa. Indriya Sthana 7/18",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Hepatic encephalopathy; Cirrhosis of liver; Infective hepatitis; Hepatocellular carcinoma; Hepatoblastoma;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Cha.Sa. Indriya Sthana 7/19",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Central vertigo; Vertebro basilar insufficiency; Cerebrovascular accidents; Carotid artery stenosis;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Cha.Sa. Indriya Sthana 7/20",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Carcinomas with secondary or distal metastases; Various autoimmune, neuromuscular, muscular dystrophies; Bleeding disorders; Malabsorption syndromes; Small intestinal bacterial overgrowth (SIBO)",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Cha.Sa. Indriya Sthana 7/21-22",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "End stage renal disease (ESRD); Acute kidney injury (AKI); Carcinomas; Malabsorption syndrome; Thyrotoxicosis; Fecal impaction; Intestinal (complete or partial) obstruction; Pelvic neoplasms; End stage liver disease (ESLD); Hypercatabolic syndrome;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Cha.Sa. Indriya Sthana 7/23",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Hypercatabolic syndrome; Thyrotoxicosis; Carcinomas; Cachexia; Sarcopenia;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Cha.Sa. Indriya Sthana 7/24",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Hypovolemic shock; Metabolic acidosis; Diabetic ketoacidosis; Fluid and electrolyte imbalance in hypovolemia; Cerebral hypoperfusion;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Cha.Sa. Indriya Sthana 7/25",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Delirium (increased psychomotor activity subtype or hyperactive); Status epilepticus; Cerebral hypoperfusion;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Cha.Sa. Indriya Sthana 7/26",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Pulmonary edema; Lung cancer; Pulmonary embolism; Pulmonary cachexia; Pulmonary tuberculosis;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Cha.Sa. Indriya Sthana 7/27",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Cerebral hypo perfusion; Cerebral ischemia; Perinaud’s syndrome; Oculogyric crisis; Stenosis or aneurysm or kinking or atherosclerosis or dissection of carotid artery;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Cha.Sa. Indriya Sthana 7/28",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Mumps; Diphtheria; Bilateral parotid tuberculosis; Other neoplastic or infectious diseases of salivary glands;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Cha.Sa. Indriya Sthana 7/29",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Idiopathic facial paresis; Bell’s palsy;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Cha.Sa. Indriya Sthana 7/30",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Acquired cryptorchidism; Testicular atrophy in carcinoma; Buried penis; Penile carcinoma;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Cha.Sa. Indriya Sthana 7/31",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Cancer cachexia; Sarcopenia; Muscular dystrophies or hypertrophies",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ]
+            ],
+            "html": "<table class=\"wikitable\">\n<caption>Table 4:Reference verse and probable relevant pathology\n</caption>\n<tbody><tr>\n<th>Reference verse</th>\n<th>Relevant disease or pathology\n</th></tr>\n<tr>\n<td>Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 7/18</td>\n<td>Hepatic encephalopathy; Cirrhosis of liver; Infective hepatitis; Hepatocellular carcinoma; Hepatoblastoma;\n</td></tr>\n<tr>\n<td>Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 7/19</td>\n<td>Central vertigo; Vertebro basilar insufficiency; Cerebrovascular accidents; Carotid artery stenosis;\n</td></tr>\n<tr>\n<td>Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 7/20</td>\n<td>Carcinomas with secondary or distal metastases; Various autoimmune, neuromuscular, muscular dystrophies; Bleeding disorders; Malabsorption syndromes; Small intestinal bacterial overgrowth (SIBO)\n</td></tr>\n<tr>\n<td>Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 7/21-22</td>\n<td>End stage renal disease (ESRD); Acute kidney injury (AKI); Carcinomas; Malabsorption syndrome; Thyrotoxicosis; Fecal impaction; Intestinal (complete or partial) obstruction; Pelvic neoplasms; End stage liver disease (ESLD); Hypercatabolic syndrome;\n</td></tr>\n<tr>\n<td>Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 7/23</td>\n<td>Hypercatabolic syndrome; Thyrotoxicosis; Carcinomas; Cachexia; Sarcopenia;\n</td></tr>\n<tr>\n<td>Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 7/24</td>\n<td>Hypovolemic shock; Metabolic acidosis; Diabetic ketoacidosis; Fluid and electrolyte imbalance in hypovolemia; Cerebral hypoperfusion;\n</td></tr>\n<tr>\n<td>Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 7/25</td>\n<td>Delirium (increased psychomotor activity subtype or hyperactive); Status epilepticus; Cerebral hypoperfusion;\n</td></tr>\n<tr>\n<td>Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 7/26</td>\n<td>Pulmonary edema; Lung cancer; Pulmonary embolism; Pulmonary cachexia; Pulmonary tuberculosis;\n</td></tr>\n<tr>\n<td>Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 7/27</td>\n<td>Cerebral hypo perfusion; Cerebral ischemia; Perinaud’s syndrome; Oculogyric crisis; Stenosis or aneurysm or kinking or atherosclerosis or dissection of carotid artery;\n</td></tr>\n<tr>\n<td>Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 7/28</td>\n<td>Mumps; Diphtheria; Bilateral parotid tuberculosis; Other neoplastic or infectious diseases of salivary glands;\n</td></tr>\n<tr>\n<td>Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 7/29</td>\n<td>Idiopathic facial paresis; Bell’s palsy;\n</td></tr>\n<tr>\n<td>Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 7/30</td>\n<td>Acquired cryptorchidism; Testicular atrophy in carcinoma; Buried penis; Penile carcinoma;\n</td></tr>\n<tr>\n<td>Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 7/31</td>\n<td>Cancer cachexia; Sarcopenia; Muscular dystrophies or hypertrophies\n</td></tr>\n</tbody></table>",
+            "links": [
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                }
+            ]
+        },
+        {
+            "type": "h3",
+            "text": "Parapsycholoigical approach",
+            "html": "<h3><span class=\"mw-headline\" id=\"Parapsycholoigical_approach\">Parapsycholoigical approach</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "In parapsychology and many forms of spiritual practice, an aura is a field of subtle, luminous radiation surrounding a person or object (like the halo or aureola in religious art). [ 3 ] , [ 4 ]",
+            "html": "<p>In parapsychology and many forms of spiritual practice, an aura is a field of subtle, luminous radiation surrounding a person or object (like the halo or aureola in religious art). <sup class=\"reference\" id=\"cite_ref-3\"><a href=\"#cite_note-3\"><span class=\"cite-bracket\">[</span>3<span class=\"cite-bracket\">]</span></a></sup>, <sup class=\"reference\" id=\"cite_ref-4\"><a href=\"#cite_note-4\"><span class=\"cite-bracket\">[</span>4<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 3 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#cite_note-3"
+                },
+                {
+                    "text": "[ 4 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#cite_note-4"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Acknowledgement: The contributors acknowledge support of Dr. M. Prasad and Dr.G.Kshama for providing tables 2,3 and 4 from their published article referred in this chapter.",
+            "html": "<p><b>Acknowledgement:</b> The contributors acknowledge support of Dr. M. Prasad and Dr.G.Kshama for providing tables 2,3 and 4 from their published article referred in this chapter.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Send us your suggestions and feedback on this page.",
+            "html": "<p><big><b><a href=\"/index.php?title=Special:ContactMe\" title=\"Special:ContactMe\">Send us your suggestions and feedback on this page.</a></b></big>\n</p>",
+            "links": [
+                {
+                    "text": "Send us your suggestions and feedback on this page.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Special:ContactMe"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "References",
+            "html": "<h2><span class=\"mw-headline\" id=\"References\">References</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ol",
+            "text": "↑ 1.0 1.1 1.2 Sushruta. Sushruta Samhita. Edited by Jadavaji Trikamji Aacharya. 8th ed. Varanasi: Chaukhambha Orientalia;2005. ↑ Mamidi P. et.al., Pannarupeeyam of Charaka Indriya Sthana- An Explorative Study, Int. J. Ayu. Alt. Med., 2019; 7(6): 223-235 ↑ Aura (paranormal); From Wikipedia, the free encyclopedia; available at http://en.wikipedia.org/wiki/Aura_(paranormal) ↑ How to see and READ the AURA: Part 1; available at http://www.thiaoouba.com/seeau.htm",
+            "html": "<ol class=\"references\">\n<li id=\"cite_note-Sushruta-1\"><span class=\"mw-cite-backlink\">↑ <sup><a href=\"#cite_ref-Sushruta_1-0\">1.0</a></sup> <sup><a href=\"#cite_ref-Sushruta_1-1\">1.1</a></sup> <sup><a href=\"#cite_ref-Sushruta_1-2\">1.2</a></sup></span> <span class=\"reference-text\"> Sushruta. Sushruta Samhita. Edited by Jadavaji Trikamji Aacharya. 8th ed. Varanasi: Chaukhambha Orientalia;2005.</span>\n</li>\n<li id=\"cite_note-2\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-2\">↑</a></span> <span class=\"reference-text\">Mamidi P. et.al., Pannarupeeyam of Charaka Indriya Sthana- An Explorative Study, Int. J. Ayu. Alt. Med., 2019; 7(6): 223-235</span>\n</li>\n<li id=\"cite_note-3\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-3\">↑</a></span> <span class=\"reference-text\">Aura (paranormal); From Wikipedia, the free encyclopedia; available at <a class=\"external free\" href=\"http://en.wikipedia.org/wiki/Aura_(paranormal)\" rel=\"nofollow\">http://en.wikipedia.org/wiki/Aura_(paranormal)</a></span>\n</li>\n<li id=\"cite_note-4\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-4\">↑</a></span> <span class=\"reference-text\">How to see and READ the AURA: Part 1; available at <a class=\"external free\" href=\"http://www.thiaoouba.com/seeau.htm\" rel=\"nofollow\">http://www.thiaoouba.com/seeau.htm</a></span>\n</li>\n</ol>",
+            "links": [
+                {
+                    "text": "1.0",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#cite_ref-Sushruta_1-0"
+                },
+                {
+                    "text": "1.1",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#cite_ref-Sushruta_1-1"
+                },
+                {
+                    "text": "1.2",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#cite_ref-Sushruta_1-2"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#cite_ref-2"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#cite_ref-3"
+                },
+                {
+                    "text": "http://en.wikipedia.org/wiki/Aura_(paranormal)",
+                    "url": "http://en.wikipedia.org/wiki/Aura_(paranormal)"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#cite_ref-4"
+                },
+                {
+                    "text": "http://www.thiaoouba.com/seeau.htm",
+                    "url": "http://www.thiaoouba.com/seeau.htm"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "↑ 1.0 1.1 1.2 Sushruta. Sushruta Samhita. Edited by Jadavaji Trikamji Aacharya. 8th ed. Varanasi: Chaukhambha Orientalia;2005.",
+                    "links": [
+                        {
+                            "text": "1.0",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#cite_ref-Sushruta_1-0"
+                        },
+                        {
+                            "text": "1.1",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#cite_ref-Sushruta_1-1"
+                        },
+                        {
+                            "text": "1.2",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#cite_ref-Sushruta_1-2"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Mamidi P. et.al., Pannarupeeyam of Charaka Indriya Sthana- An Explorative Study, Int. J. Ayu. Alt. Med., 2019; 7(6): 223-235",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#cite_ref-2"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Aura (paranormal); From Wikipedia, the free encyclopedia; available at http://en.wikipedia.org/wiki/Aura_(paranormal)",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#cite_ref-3"
+                        },
+                        {
+                            "text": "http://en.wikipedia.org/wiki/Aura_(paranormal)",
+                            "url": "http://en.wikipedia.org/wiki/Aura_(paranormal)"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ How to see and READ the AURA: Part 1; available at http://www.thiaoouba.com/seeau.htm",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya#cite_ref-4"
+                        },
+                        {
+                            "text": "http://www.thiaoouba.com/seeau.htm",
+                            "url": "http://www.thiaoouba.com/seeau.htm"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "text": "Back to the Top"
+        },
+        {
+            "type": "text",
+            "text": "NewPP limit report\nCached time: 20261111120246\nCache expiry: 86400\nReduced expiry: false\nComplications: [vary‐revision‐id, show‐toc]\nCPU time usage: 0.079 seconds\nReal time usage: 0.241 seconds\nPreprocessor visited node count: 519/1000000\nPost‐expand include size: 2531/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 3/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 2375/5000000 bytes\nLua time usage: 0.080/7 seconds\nLua virtual size: 20467712/209715200 bytes\nLua estimated memory usage: 0 bytes"
+        },
+        {
+            "type": "text",
+            "text": "Transclusion expansion time report (%,ms,calls,template)\n100.00% 177.477 1 -total\n97.06% 172.256 1 Template:Infobox\n0.91% 1.610 1 Template:CiteButton"
+        },
+        {
+            "type": "text",
+            "text": "Saved in parser cache with key carakas1_carakasa:pcache:idhash:3223-0!canonical and timestamp 20261111120246 and revision id 44529. Rendering was triggered because: diff-page"
+        },
+        {
+            "type": "text",
+            "text": "Retrieved from \""
+        },
+        {
+            "type": "text",
+            "text": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya&oldid=44529"
+        },
+        {
+            "type": "text",
+            "text": "\""
+        }
+    ],
+    "html_sha256": "8d72c3aa1a67fa1f9e2a7064c0f2df2d2384053c9abb5d0349eb8681c30d4274"
+}

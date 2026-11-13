@@ -1,0 +1,2853 @@
+{
+    "source": "Charaka Samhita",
+    "chapter": "Trividha Roga Vishesha Vijnaniya Vimana",
+    "chapter_id": "Trividha_Roga_Vishesha_Vijnaniya_Vimana",
+    "url": "https://www.carakasamhitaonline.com/index.php?title=Trividha_Roga_Vishesha_Vijnaniya_Vimana",
+    "xpath": "//*[@id=\"content\"]",
+    "extraction_date": "2026-11-12T14:36:00",
+    "total_blocks": 195,
+    "total_tables": 1,
+    "total_headings": 29,
+    "total_paragraphs": 94,
+    "content": [
+        {
+            "type": "h1",
+            "text": "Trividha Roga Vishesha Vijnaniya Vimana",
+            "html": "<h1 class=\"firstHeading mw-first-heading\" id=\"firstHeading\"><span class=\"mw-page-title-main\">Trividha Roga Vishesha Vijnaniya Vimana</span></h1>",
+            "links": [],
+            "images": [],
+            "level": 1
+        },
+        {
+            "type": "text",
+            "text": "From Charak Samhita"
+        },
+        {
+            "type": "text",
+            "text": "Jump to navigation"
+        },
+        {
+            "type": "text",
+            "text": "Jump to search"
+        },
+        {
+            "type": "figure",
+            "text": "",
+            "html": "<figure class=\"mw-default-size mw-halign-right\" typeof=\"mw:File\"><a href=\"https://www.charakasamhitauptodate.com/index.php?title=Special:CiteThisPage&amp;page=Trividha_Roga_Vishesha_Vijnaniya_Vimana&amp;id=45193&amp;wpFormIdentifier=titleform\" rel=\"nofollow\"><img class=\"mw-file-element\" decoding=\"async\" height=\"47\" src=\"/images/5/58/Cite.png\" width=\"180\"/></a><figcaption></figcaption></figure>",
+            "links": [
+                {
+                    "text": "",
+                    "url": "https://www.charakasamhitauptodate.com/index.php?title=Special:CiteThisPage&page=Trividha_Roga_Vishesha_Vijnaniya_Vimana&id=45193&wpFormIdentifier=titleform"
+                }
+            ],
+            "images": [
+                {
+                    "url": "https://www.carakasamhitaonline.com/images/5/58/Cite.png",
+                    "alt": "",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Vimana Sthana Chapter 4. Three methods for knowledge of disease",
+            "html": "<p><big><b>Vimana Sthana Chapter 4. Three methods for knowledge of disease </b></big>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "Section/Chapter",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Vimana Sthana Chapter 4",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Vimana Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Preceding Chapter",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Janapadodhvansaniya Vimana",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Janapadodhvansaniya Vimana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Janapadodhvansaniya_Vimana"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Succeeding Chapter",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Sroto Vimana",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Sroto Vimana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Sroto_Vimana"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Other Sections",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Sutra Sthana , Nidana Sthana , Sharira Sthana , Indriya Sthana , Chikitsa Sthana , Kalpa Sthana , Siddhi Sthana",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Sutra Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                            },
+                            {
+                                "text": "Nidana Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Nidana_Sthana"
+                            },
+                            {
+                                "text": "Sharira Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                            },
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            },
+                            {
+                                "text": "Chikitsa Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                            },
+                            {
+                                "text": "Kalpa Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Kalpa_Sthana"
+                            },
+                            {
+                                "text": "Siddhi Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Siddhi_Sthana"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Translator and commentator",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Dwivedi R.B., Gujarathi R.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Reviewer",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Paliwal M., Sapra U.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Editors",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Pol A., Deole Y.S. , Basisht G.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Deole Y.S.",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Yogesh_Deole"
+                            },
+                            {
+                                "text": "Basisht G.",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Gopal_Basisht"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Year of publication",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "2020",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Publisher",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Charak Samhita Research, Training and Skill Development Centre",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Charak Samhita Research, Training and Skill Development Centre",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Skill_Development_Centre"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "DOI",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "10.47468/CSNE.2020.e01.s03.005",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "10.47468/CSNE.2020.e01.s03.005",
+                                "url": "https://doi.org/10.47468/CSNE.2020.e01.s03.005"
+                            }
+                        ]
+                    }
+                ]
+            ],
+            "html": "<table class=\"infobox\" style=\"width:22em\"><caption>Trividha Roga Vishesha Vijnaniya Vimana</caption><tbody><tr><th scope=\"row\">Section/Chapter</th><td>\n<a href=\"/index.php?title=Vimana_Sthana\" title=\"Vimana Sthana\">Vimana Sthana</a> Chapter 4</td></tr><tr><th scope=\"row\">Preceding Chapter</th><td>\n<a href=\"/index.php?title=Janapadodhvansaniya_Vimana\" title=\"Janapadodhvansaniya Vimana\">Janapadodhvansaniya Vimana</a></td></tr><tr><th scope=\"row\">Succeeding Chapter</th><td>\n<a href=\"/index.php?title=Sroto_Vimana\" title=\"Sroto Vimana\">Sroto Vimana</a></td></tr><tr><th scope=\"row\">Other Sections</th><td>\n<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a>, <a href=\"/index.php?title=Nidana_Sthana\" title=\"Nidana Sthana\">Nidana Sthana</a>,  <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a>,  <a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a>, <a href=\"/index.php?title=Chikitsa_Sthana\" title=\"Chikitsa Sthana\">Chikitsa Sthana</a>, <a href=\"/index.php?title=Kalpa_Sthana\" title=\"Kalpa Sthana\">Kalpa Sthana</a>, <a href=\"/index.php?title=Siddhi_Sthana\" title=\"Siddhi Sthana\">Siddhi Sthana</a></td></tr><tr><th scope=\"row\">Translator and commentator</th><td>\nDwivedi R.B., Gujarathi R.</td></tr><tr><th scope=\"row\">Reviewer</th><td>\nPaliwal M., Sapra U.</td></tr><tr><th scope=\"row\">Editors</th><td>\nPol A., <a href=\"/index.php?title=Yogesh_Deole\" title=\"Yogesh Deole\">Deole Y.S.</a>, <a href=\"/index.php?title=Gopal_Basisht\" title=\"Gopal Basisht\">Basisht G.</a></td></tr><tr><th scope=\"row\">Year of publication</th><td>\n2020</td></tr><tr><th scope=\"row\">Publisher</th><td>\n<a href=\"/index.php?title=Charak_Samhita_Research,_Training_and_Skill_Development_Centre\" title=\"Charak Samhita Research, Training and Skill Development Centre\">Charak Samhita Research, Training and Skill Development Centre</a></td></tr><tr><th scope=\"row\">DOI</th><td>\n<a class=\"external text\" href=\"https://doi.org/10.47468/CSNE.2020.e01.s03.005\" rel=\"nofollow\">10.47468/CSNE.2020.e01.s03.005</a></td></tr></tbody></table>",
+            "links": [
+                {
+                    "text": "Vimana Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana"
+                },
+                {
+                    "text": "Janapadodhvansaniya Vimana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Janapadodhvansaniya_Vimana"
+                },
+                {
+                    "text": "Sroto Vimana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sroto_Vimana"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "Nidana Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Nidana_Sthana"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Chikitsa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                },
+                {
+                    "text": "Kalpa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kalpa_Sthana"
+                },
+                {
+                    "text": "Siddhi Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Siddhi_Sthana"
+                },
+                {
+                    "text": "Deole Y.S.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Yogesh_Deole"
+                },
+                {
+                    "text": "Basisht G.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Gopal_Basisht"
+                },
+                {
+                    "text": "Charak Samhita Research, Training and Skill Development Centre",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Skill_Development_Centre"
+                },
+                {
+                    "text": "10.47468/CSNE.2020.e01.s03.005",
+                    "url": "https://doi.org/10.47468/CSNE.2020.e01.s03.005"
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Abstract",
+            "html": "<p><big><b>Abstract</b></big>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "This chapter deals with three methods of clinical examinations useful for understanding specific characteristics of diseases. These three methods are aptopadesha (authoritative instructions), pratyaksha (direct observation) and anumana (inference). These methods play a pivotal role not only in the diagnosis of a disease, but also in understanding whatever is knowable. In the beginning, one should faithfully go through the available authoritative literature available in that field of study. As per the guidelines of the literature, the physician should then proceed to perceive the direct observations, by his own senses. Many aspects of an ailment which are not perceivable by senses can be inferred by logic based on scriptures and by consulting experts. In this chapter, a set of assessment criteria has been provided for each method including pointers that help in determining what is to be examined by which method, how should something be examined, and what is to be inferred and on what basis, along with the authoritative sources of knowledge. Keywords : Aptopadesha , Pratyaksha , Anumana , Pramana , Diagnosis, Authoritative instructions, Direct observations, inference, examination methods and tools.",
+            "html": "<p style=\"text-align:justify;\">This chapter deals with three methods of clinical examinations useful for understanding specific characteristics of diseases. These three methods are <a href=\"/index.php?title=Aptopadesha\" title=\"Aptopadesha\">aptopadesha</a> (authoritative instructions), <a href=\"/index.php?title=Pratyaksha_pramana\" title=\"Pratyaksha pramana\">pratyaksha</a> (direct observation) and <a href=\"/index.php?title=Anumana_pramana\" title=\"Anumana pramana\">anumana</a> (inference). These methods play a pivotal role not only in the diagnosis of a disease, but also in understanding whatever is knowable. In the beginning, one should faithfully go through the available authoritative literature available in that field of study. As per the guidelines of the literature, the physician should then proceed to perceive the direct observations, by his own senses. Many aspects of an ailment which are not perceivable by senses can be inferred by logic based on scriptures and by consulting experts. In this chapter, a set of assessment criteria has been provided for each method including pointers that help in determining what is to be examined by which method, how should something be examined, and what is to be inferred and on what basis, along with the authoritative sources of knowledge. <br/>\n<b>Keywords</b>: <a href=\"/index.php?title=Aptopadesha\" title=\"Aptopadesha\">Aptopadesha</a>, <a href=\"/index.php?title=Pratyaksha_pramana\" title=\"Pratyaksha pramana\">Pratyaksha</a>, <a href=\"/index.php?title=Anumana_pramana\" title=\"Anumana pramana\">Anumana</a>, <a href=\"/index.php?title=Pramana\" title=\"Pramana\">Pramana</a>, Diagnosis, Authoritative instructions, Direct observations, inference, examination methods and tools.\n</p>",
+            "links": [
+                {
+                    "text": "aptopadesha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Aptopadesha"
+                },
+                {
+                    "text": "pratyaksha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pratyaksha_pramana"
+                },
+                {
+                    "text": "anumana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Anumana_pramana"
+                },
+                {
+                    "text": "Aptopadesha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Aptopadesha"
+                },
+                {
+                    "text": "Pratyaksha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pratyaksha_pramana"
+                },
+                {
+                    "text": "Anumana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Anumana_pramana"
+                },
+                {
+                    "text": "Pramana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pramana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Contents",
+            "html": "<h2 id=\"mw-toc-heading\">Contents</h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ul",
+            "text": "1 Introduction 2 Sanskrit Text, Transliteration and English Translation 2.1 Three methods for knowledge of disease 2.2 Criteria of knowledge of disease 2.3 Knowledge by direct perception 2.3.1 The following should be examined by auscultation 2.3.2 The following are perceived by auditory measures 2.3.3 By tactile perceptions 2.3.4 By visual examination 2.3.5 Gustatory examinations can be inferred by following observations 2.3.6 By olfactory examinations 2.3.7 Knowledge by inference 2.4 Importance of three fold examination 2.5 Summary 3 Tattva Vimarsha (Fundamental Principles) 4 Vidhi Vimarsha (Applied Inferences) 4.1 Methods of clinical examination 4.1.1 Authoritative instructions (Aptopadesha) 4.1.2 Direct perception (Pratyaksha) 4.1.3 Inference 4.2 Updates from Ayurveda texts 4.3 Contemporary methods 4.4 Principles of knowledge of new diseases (anukta vyadhi) 4.5 Fundamental principles of clinical research 4.6 Scope of further research 4.7 Related chapters 5 Further reading",
+            "html": "<ul>\n<li class=\"toclevel-1 tocsection-1\"><a href=\"#Introduction\"><span class=\"tocnumber\">1</span> <span class=\"toctext\">Introduction</span></a></li>\n<li class=\"toclevel-1 tocsection-2\"><a href=\"#Sanskrit_Text,_Transliteration_and_English_Translation\"><span class=\"tocnumber\">2</span> <span class=\"toctext\">Sanskrit Text, Transliteration and English Translation</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-3\"><a href=\"#Three_methods_for_knowledge_of_disease\"><span class=\"tocnumber\">2.1</span> <span class=\"toctext\">Three methods for knowledge of disease</span></a></li>\n<li class=\"toclevel-2 tocsection-4\"><a href=\"#Criteria_of_knowledge_of_disease\"><span class=\"tocnumber\">2.2</span> <span class=\"toctext\">Criteria of knowledge of disease</span></a></li>\n<li class=\"toclevel-2 tocsection-5\"><a href=\"#Knowledge_by_direct_perception\"><span class=\"tocnumber\">2.3</span> <span class=\"toctext\">Knowledge by direct perception</span></a>\n<ul>\n<li class=\"toclevel-3 tocsection-6\"><a href=\"#The_following_should_be_examined_by_auscultation\"><span class=\"tocnumber\">2.3.1</span> <span class=\"toctext\">The following should be examined by auscultation</span></a></li>\n<li class=\"toclevel-3 tocsection-7\"><a href=\"#The_following_are_perceived_by_auditory_measures\"><span class=\"tocnumber\">2.3.2</span> <span class=\"toctext\">The following are perceived by auditory measures</span></a></li>\n<li class=\"toclevel-3 tocsection-8\"><a href=\"#By_tactile_perceptions\"><span class=\"tocnumber\">2.3.3</span> <span class=\"toctext\">By tactile perceptions</span></a></li>\n<li class=\"toclevel-3 tocsection-9\"><a href=\"#By_visual_examination\"><span class=\"tocnumber\">2.3.4</span> <span class=\"toctext\">By visual examination</span></a></li>\n<li class=\"toclevel-3 tocsection-10\"><a href=\"#Gustatory_examinations_can_be_inferred_by_following_observations\"><span class=\"tocnumber\">2.3.5</span> <span class=\"toctext\">Gustatory examinations can be inferred by following observations</span></a></li>\n<li class=\"toclevel-3 tocsection-11\"><a href=\"#By_olfactory_examinations\"><span class=\"tocnumber\">2.3.6</span> <span class=\"toctext\">By olfactory examinations</span></a></li>\n<li class=\"toclevel-3 tocsection-12\"><a href=\"#Knowledge_by_inference\"><span class=\"tocnumber\">2.3.7</span> <span class=\"toctext\">Knowledge by inference</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-2 tocsection-13\"><a href=\"#Importance_of_three_fold_examination\"><span class=\"tocnumber\">2.4</span> <span class=\"toctext\">Importance of three fold examination</span></a></li>\n<li class=\"toclevel-2 tocsection-14\"><a href=\"#Summary\"><span class=\"tocnumber\">2.5</span> <span class=\"toctext\">Summary</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-15\"><a href=\"#Tattva_Vimarsha_(Fundamental_Principles)\"><span class=\"tocnumber\">3</span> <span class=\"toctext\">Tattva Vimarsha (Fundamental Principles)</span></a></li>\n<li class=\"toclevel-1 tocsection-16\"><a href=\"#Vidhi_Vimarsha_(Applied_Inferences)\"><span class=\"tocnumber\">4</span> <span class=\"toctext\">Vidhi Vimarsha (Applied Inferences)</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-17\"><a href=\"#Methods_of_clinical_examination\"><span class=\"tocnumber\">4.1</span> <span class=\"toctext\">Methods of clinical examination</span></a>\n<ul>\n<li class=\"toclevel-3 tocsection-18\"><a href=\"#Authoritative_instructions_(Aptopadesha)\"><span class=\"tocnumber\">4.1.1</span> <span class=\"toctext\">Authoritative instructions (Aptopadesha)</span></a></li>\n<li class=\"toclevel-3 tocsection-19\"><a href=\"#Direct_perception_(Pratyaksha)\"><span class=\"tocnumber\">4.1.2</span> <span class=\"toctext\">Direct perception (Pratyaksha)</span></a></li>\n<li class=\"toclevel-3 tocsection-20\"><a href=\"#Inference\"><span class=\"tocnumber\">4.1.3</span> <span class=\"toctext\">Inference</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-2 tocsection-21\"><a href=\"#Updates_from_Ayurveda_texts\"><span class=\"tocnumber\">4.2</span> <span class=\"toctext\">Updates from Ayurveda texts</span></a></li>\n<li class=\"toclevel-2 tocsection-22\"><a href=\"#Contemporary_methods\"><span class=\"tocnumber\">4.3</span> <span class=\"toctext\">Contemporary methods</span></a></li>\n<li class=\"toclevel-2 tocsection-23\"><a href=\"#Principles_of_knowledge_of_new_diseases_(anukta_vyadhi)\"><span class=\"tocnumber\">4.4</span> <span class=\"toctext\">Principles of knowledge of new diseases (anukta vyadhi)</span></a></li>\n<li class=\"toclevel-2 tocsection-24\"><a href=\"#Fundamental_principles_of_clinical_research\"><span class=\"tocnumber\">4.5</span> <span class=\"toctext\">Fundamental principles of clinical research</span></a></li>\n<li class=\"toclevel-2 tocsection-25\"><a href=\"#Scope_of_further_research\"><span class=\"tocnumber\">4.6</span> <span class=\"toctext\">Scope of further research</span></a></li>\n<li class=\"toclevel-2 tocsection-26\"><a href=\"#Related_chapters\"><span class=\"tocnumber\">4.7</span> <span class=\"toctext\">Related chapters</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-27\"><a href=\"#Further_reading\"><span class=\"tocnumber\">5</span> <span class=\"toctext\">Further reading</span></a></li>\n</ul>",
+            "links": [
+                {
+                    "text": "1 Introduction",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Trividha_Roga_Vishesha_Vijnaniya_Vimana#Introduction"
+                },
+                {
+                    "text": "2 Sanskrit Text, Transliteration and English Translation",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Trividha_Roga_Vishesha_Vijnaniya_Vimana#Sanskrit_Text,_Transliteration_and_English_Translation"
+                },
+                {
+                    "text": "2.1 Three methods for knowledge of disease",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Trividha_Roga_Vishesha_Vijnaniya_Vimana#Three_methods_for_knowledge_of_disease"
+                },
+                {
+                    "text": "2.2 Criteria of knowledge of disease",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Trividha_Roga_Vishesha_Vijnaniya_Vimana#Criteria_of_knowledge_of_disease"
+                },
+                {
+                    "text": "2.3 Knowledge by direct perception",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Trividha_Roga_Vishesha_Vijnaniya_Vimana#Knowledge_by_direct_perception"
+                },
+                {
+                    "text": "2.3.1 The following should be examined by auscultation",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Trividha_Roga_Vishesha_Vijnaniya_Vimana#The_following_should_be_examined_by_auscultation"
+                },
+                {
+                    "text": "2.3.2 The following are perceived by auditory measures",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Trividha_Roga_Vishesha_Vijnaniya_Vimana#The_following_are_perceived_by_auditory_measures"
+                },
+                {
+                    "text": "2.3.3 By tactile perceptions",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Trividha_Roga_Vishesha_Vijnaniya_Vimana#By_tactile_perceptions"
+                },
+                {
+                    "text": "2.3.4 By visual examination",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Trividha_Roga_Vishesha_Vijnaniya_Vimana#By_visual_examination"
+                },
+                {
+                    "text": "2.3.5 Gustatory examinations can be inferred by following observations",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Trividha_Roga_Vishesha_Vijnaniya_Vimana#Gustatory_examinations_can_be_inferred_by_following_observations"
+                },
+                {
+                    "text": "2.3.6 By olfactory examinations",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Trividha_Roga_Vishesha_Vijnaniya_Vimana#By_olfactory_examinations"
+                },
+                {
+                    "text": "2.3.7 Knowledge by inference",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Trividha_Roga_Vishesha_Vijnaniya_Vimana#Knowledge_by_inference"
+                },
+                {
+                    "text": "2.4 Importance of three fold examination",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Trividha_Roga_Vishesha_Vijnaniya_Vimana#Importance_of_three_fold_examination"
+                },
+                {
+                    "text": "2.5 Summary",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Trividha_Roga_Vishesha_Vijnaniya_Vimana#Summary"
+                },
+                {
+                    "text": "3 Tattva Vimarsha (Fundamental Principles)",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Trividha_Roga_Vishesha_Vijnaniya_Vimana#Tattva_Vimarsha_(Fundamental_Principles)"
+                },
+                {
+                    "text": "4 Vidhi Vimarsha (Applied Inferences)",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Trividha_Roga_Vishesha_Vijnaniya_Vimana#Vidhi_Vimarsha_(Applied_Inferences)"
+                },
+                {
+                    "text": "4.1 Methods of clinical examination",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Trividha_Roga_Vishesha_Vijnaniya_Vimana#Methods_of_clinical_examination"
+                },
+                {
+                    "text": "4.1.1 Authoritative instructions (Aptopadesha)",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Trividha_Roga_Vishesha_Vijnaniya_Vimana#Authoritative_instructions_(Aptopadesha)"
+                },
+                {
+                    "text": "4.1.2 Direct perception (Pratyaksha)",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Trividha_Roga_Vishesha_Vijnaniya_Vimana#Direct_perception_(Pratyaksha)"
+                },
+                {
+                    "text": "4.1.3 Inference",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Trividha_Roga_Vishesha_Vijnaniya_Vimana#Inference"
+                },
+                {
+                    "text": "4.2 Updates from Ayurveda texts",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Trividha_Roga_Vishesha_Vijnaniya_Vimana#Updates_from_Ayurveda_texts"
+                },
+                {
+                    "text": "4.3 Contemporary methods",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Trividha_Roga_Vishesha_Vijnaniya_Vimana#Contemporary_methods"
+                },
+                {
+                    "text": "4.4 Principles of knowledge of new diseases (anukta vyadhi)",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Trividha_Roga_Vishesha_Vijnaniya_Vimana#Principles_of_knowledge_of_new_diseases_(anukta_vyadhi)"
+                },
+                {
+                    "text": "4.5 Fundamental principles of clinical research",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Trividha_Roga_Vishesha_Vijnaniya_Vimana#Fundamental_principles_of_clinical_research"
+                },
+                {
+                    "text": "4.6 Scope of further research",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Trividha_Roga_Vishesha_Vijnaniya_Vimana#Scope_of_further_research"
+                },
+                {
+                    "text": "4.7 Related chapters",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Trividha_Roga_Vishesha_Vijnaniya_Vimana#Related_chapters"
+                },
+                {
+                    "text": "5 Further reading",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Trividha_Roga_Vishesha_Vijnaniya_Vimana#Further_reading"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "1 Introduction",
+                    "links": [
+                        {
+                            "text": "1 Introduction",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Trividha_Roga_Vishesha_Vijnaniya_Vimana#Introduction"
+                        }
+                    ]
+                },
+                {
+                    "text": "2 Sanskrit Text, Transliteration and English Translation 2.1 Three methods for knowledge of disease 2.2 Criteria of knowledge of disease 2.3 Knowledge by direct perception 2.3.1 The following should be examined by auscultation 2.3.2 The following are perceived by auditory measures 2.3.3 By tactile perceptions 2.3.4 By visual examination 2.3.5 Gustatory examinations can be inferred by following observations 2.3.6 By olfactory examinations 2.3.7 Knowledge by inference 2.4 Importance of three fold examination 2.5 Summary",
+                    "links": [
+                        {
+                            "text": "2 Sanskrit Text, Transliteration and English Translation",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Trividha_Roga_Vishesha_Vijnaniya_Vimana#Sanskrit_Text,_Transliteration_and_English_Translation"
+                        },
+                        {
+                            "text": "2.1 Three methods for knowledge of disease",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Trividha_Roga_Vishesha_Vijnaniya_Vimana#Three_methods_for_knowledge_of_disease"
+                        },
+                        {
+                            "text": "2.2 Criteria of knowledge of disease",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Trividha_Roga_Vishesha_Vijnaniya_Vimana#Criteria_of_knowledge_of_disease"
+                        },
+                        {
+                            "text": "2.3 Knowledge by direct perception",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Trividha_Roga_Vishesha_Vijnaniya_Vimana#Knowledge_by_direct_perception"
+                        },
+                        {
+                            "text": "2.3.1 The following should be examined by auscultation",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Trividha_Roga_Vishesha_Vijnaniya_Vimana#The_following_should_be_examined_by_auscultation"
+                        },
+                        {
+                            "text": "2.3.2 The following are perceived by auditory measures",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Trividha_Roga_Vishesha_Vijnaniya_Vimana#The_following_are_perceived_by_auditory_measures"
+                        },
+                        {
+                            "text": "2.3.3 By tactile perceptions",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Trividha_Roga_Vishesha_Vijnaniya_Vimana#By_tactile_perceptions"
+                        },
+                        {
+                            "text": "2.3.4 By visual examination",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Trividha_Roga_Vishesha_Vijnaniya_Vimana#By_visual_examination"
+                        },
+                        {
+                            "text": "2.3.5 Gustatory examinations can be inferred by following observations",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Trividha_Roga_Vishesha_Vijnaniya_Vimana#Gustatory_examinations_can_be_inferred_by_following_observations"
+                        },
+                        {
+                            "text": "2.3.6 By olfactory examinations",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Trividha_Roga_Vishesha_Vijnaniya_Vimana#By_olfactory_examinations"
+                        },
+                        {
+                            "text": "2.3.7 Knowledge by inference",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Trividha_Roga_Vishesha_Vijnaniya_Vimana#Knowledge_by_inference"
+                        },
+                        {
+                            "text": "2.4 Importance of three fold examination",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Trividha_Roga_Vishesha_Vijnaniya_Vimana#Importance_of_three_fold_examination"
+                        },
+                        {
+                            "text": "2.5 Summary",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Trividha_Roga_Vishesha_Vijnaniya_Vimana#Summary"
+                        }
+                    ]
+                },
+                {
+                    "text": "3 Tattva Vimarsha (Fundamental Principles)",
+                    "links": [
+                        {
+                            "text": "3 Tattva Vimarsha (Fundamental Principles)",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Trividha_Roga_Vishesha_Vijnaniya_Vimana#Tattva_Vimarsha_(Fundamental_Principles)"
+                        }
+                    ]
+                },
+                {
+                    "text": "4 Vidhi Vimarsha (Applied Inferences) 4.1 Methods of clinical examination 4.1.1 Authoritative instructions (Aptopadesha) 4.1.2 Direct perception (Pratyaksha) 4.1.3 Inference 4.2 Updates from Ayurveda texts 4.3 Contemporary methods 4.4 Principles of knowledge of new diseases (anukta vyadhi) 4.5 Fundamental principles of clinical research 4.6 Scope of further research 4.7 Related chapters",
+                    "links": [
+                        {
+                            "text": "4 Vidhi Vimarsha (Applied Inferences)",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Trividha_Roga_Vishesha_Vijnaniya_Vimana#Vidhi_Vimarsha_(Applied_Inferences)"
+                        },
+                        {
+                            "text": "4.1 Methods of clinical examination",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Trividha_Roga_Vishesha_Vijnaniya_Vimana#Methods_of_clinical_examination"
+                        },
+                        {
+                            "text": "4.1.1 Authoritative instructions (Aptopadesha)",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Trividha_Roga_Vishesha_Vijnaniya_Vimana#Authoritative_instructions_(Aptopadesha)"
+                        },
+                        {
+                            "text": "4.1.2 Direct perception (Pratyaksha)",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Trividha_Roga_Vishesha_Vijnaniya_Vimana#Direct_perception_(Pratyaksha)"
+                        },
+                        {
+                            "text": "4.1.3 Inference",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Trividha_Roga_Vishesha_Vijnaniya_Vimana#Inference"
+                        },
+                        {
+                            "text": "4.2 Updates from Ayurveda texts",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Trividha_Roga_Vishesha_Vijnaniya_Vimana#Updates_from_Ayurveda_texts"
+                        },
+                        {
+                            "text": "4.3 Contemporary methods",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Trividha_Roga_Vishesha_Vijnaniya_Vimana#Contemporary_methods"
+                        },
+                        {
+                            "text": "4.4 Principles of knowledge of new diseases (anukta vyadhi)",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Trividha_Roga_Vishesha_Vijnaniya_Vimana#Principles_of_knowledge_of_new_diseases_(anukta_vyadhi)"
+                        },
+                        {
+                            "text": "4.5 Fundamental principles of clinical research",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Trividha_Roga_Vishesha_Vijnaniya_Vimana#Fundamental_principles_of_clinical_research"
+                        },
+                        {
+                            "text": "4.6 Scope of further research",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Trividha_Roga_Vishesha_Vijnaniya_Vimana#Scope_of_further_research"
+                        },
+                        {
+                            "text": "4.7 Related chapters",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Trividha_Roga_Vishesha_Vijnaniya_Vimana#Related_chapters"
+                        }
+                    ]
+                },
+                {
+                    "text": "5 Further reading",
+                    "links": [
+                        {
+                            "text": "5 Further reading",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Trividha_Roga_Vishesha_Vijnaniya_Vimana#Further_reading"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Introduction",
+            "html": "<h2><span class=\"mw-headline\" id=\"Introduction\">Introduction</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "Ayurveda has emphasized the importance, need and application of examination, and has stressed that even truth should be examined first and only then should be accepted. In Sutra Sthana , Chapter 11, four methods of examination of all existing and non-existing subjects of knowledge to be examined have been given.[Cha.Sa. Sutra Sthana 11/17] These four specific methods of examination are aptopadesha (knowledge from authoritative person and scriptures), Pratyaksha (direct observation), Anumana (inference) and yukti (logic based interpretation). For clinical examination of a patient, yukti pramana is included in Anumana because inference should be included in tarka (logic) and yukti [Cha.Sa. Vimana Sthana 4/3-4]. The author did not feel the need for yukti to be done separately in clinical experiment, therefore three-fold ( trividha ) method of examination has been described.",
+            "html": "<p><a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a> has emphasized the importance, need and application of examination, and has stressed that even truth should be examined first and only then should be accepted. In <a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a>, Chapter 11, four methods of examination of all existing and non-existing subjects of knowledge to be examined have been given.[Cha.Sa. <a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 11/17] These four specific methods of examination are <a href=\"/index.php?title=Aptopadesha\" title=\"Aptopadesha\">aptopadesha</a> (knowledge from authoritative person and scriptures), <a href=\"/index.php?title=Pratyaksha_pramana\" title=\"Pratyaksha pramana\">Pratyaksha</a> (direct observation), <a href=\"/index.php?title=Anumana_pramana\" title=\"Anumana pramana\">Anumana</a> (inference) and <a href=\"/index.php?title=Yukti_pramana\" title=\"Yukti pramana\">yukti</a> (logic based interpretation). For clinical examination of a patient, <a href=\"/index.php?title=Yukti_pramana\" title=\"Yukti pramana\">yukti pramana</a> is included in <a href=\"/index.php?title=Anumana_pramana\" title=\"Anumana pramana\">Anumana</a> because inference should be included in <i>tarka</i> (logic) and <a href=\"/index.php?title=Yukti_pramana\" title=\"Yukti pramana\">yukti</a> [Cha.Sa. <a href=\"/index.php?title=Vimana_Sthana\" title=\"Vimana Sthana\">Vimana Sthana</a> 4/3-4]. The author did not feel the need for <a href=\"/index.php?title=Yukti_pramana\" title=\"Yukti pramana\">yukti</a> to be done separately in clinical experiment, therefore three-fold (<i>trividha</i>) method of examination has been described. \n</p>",
+            "links": [
+                {
+                    "text": "Ayurveda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayurveda"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "aptopadesha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Aptopadesha"
+                },
+                {
+                    "text": "Pratyaksha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pratyaksha_pramana"
+                },
+                {
+                    "text": "Anumana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Anumana_pramana"
+                },
+                {
+                    "text": "yukti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Yukti_pramana"
+                },
+                {
+                    "text": "yukti pramana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Yukti_pramana"
+                },
+                {
+                    "text": "Anumana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Anumana_pramana"
+                },
+                {
+                    "text": "yukti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Yukti_pramana"
+                },
+                {
+                    "text": "Vimana Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana"
+                },
+                {
+                    "text": "yukti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Yukti_pramana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "There are, however, limitations to these tools because all the three examinations should be applied, though sequentially (described later in the chapter), since one cannot rely completely on any one of these examinations. A wise physician should use all three tools together for a thorough assessment of the disease and then reach the final diagnosis. A physician who understands and exercises such practice does not commit any mistake in the treatment of the patients. [Cha.Sa. Vimana Sthana 4/11]",
+            "html": "<p>There are, however, limitations to these tools because all the three examinations should be applied, though sequentially (described later in the chapter), since one cannot rely completely on any one of these examinations. A wise physician should use all three tools together for a thorough assessment of the disease and then reach the final diagnosis. A physician who understands and exercises such practice does not commit any mistake in the treatment of the patients. [Cha.Sa. <a href=\"/index.php?title=Vimana_Sthana\" title=\"Vimana Sthana\">Vimana Sthana</a> 4/11] \n</p>",
+            "links": [
+                {
+                    "text": "Vimana Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "It is also interesting to know that these three methods of examination have been defined (with little difference) in Sutra Sthana 11th chapter Tistraishaniya too. On the basis of critical analysis of the subject, it could be opined that the description of three examination methods in Vimana Sthana is much more scientific and applicable in clinical methods while the description of Sutra Sthana chapter Tistraishaniya is applicable in other fields.",
+            "html": "<p>It is also interesting to know that these three methods of examination have been defined (with little difference) in <a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 11th chapter <a class=\"mw-redirect\" href=\"/index.php?title=Tistraishaniya\" title=\"Tistraishaniya\">Tistraishaniya</a> too. On the basis of critical analysis of the subject, it could be opined that the description of three examination methods in <a href=\"/index.php?title=Vimana_Sthana\" title=\"Vimana Sthana\">Vimana Sthana</a> is much more scientific and applicable in clinical methods while the description of <a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> chapter <a class=\"mw-redirect\" href=\"/index.php?title=Tistraishaniya\" title=\"Tistraishaniya\">Tistraishaniya</a> is applicable in other fields.\n</p>",
+            "links": [
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "Tistraishaniya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tistraishaniya"
+                },
+                {
+                    "text": "Vimana Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "Tistraishaniya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tistraishaniya"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Sanskrit Text, Transliteration and English Translation",
+            "html": "<h2><span id=\"Sanskrit_Text.2C_Transliteration_and_English_Translation\"></span><span class=\"mw-headline\" id=\"Sanskrit_Text,_Transliteration_and_English_Translation\">Sanskrit Text, Transliteration and English Translation</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "अथातस्त्रिविधरोगविशेषविज्ञानीयं विमानं व्याख्यास्यामः||१||",
+            "html": "<p>अथातस्त्रिविधरोगविशेषविज्ञानीयं विमानं व्याख्यास्यामः||१|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "इति ह स्माह भगवानात्रेयः||२||",
+            "html": "<p>इति ह स्माह भगवानात्रेयः||२|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "athātastrividharōgaviśēṣavijñānīyaṁ vimānaṁ vyākhyāsyāmaḥ||1||",
+            "html": "<p>athātastrividharōgaviśēṣavijñānīyaṁ vimānaṁ vyākhyāsyāmaḥ||1||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "iti ha smāha bhagavānātrēyaḥ||2||",
+            "html": "<p>iti ha smāha bhagavānātrēyaḥ||2||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "athAtastrividharogavisheShavij~jAnIyaM vimAnaM vyAkhyAsyAmaH||1||",
+            "html": "<p>athAtastrividharogavisheShavij~jAnIyaM vimAnaM vyAkhyAsyAmaH||1||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "iti ha smAha bhagavAnAtreyaH||2||",
+            "html": "<p>iti ha smAha bhagavAnAtreyaH||2||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Now we shall expound the chapter \"Trividha Roga Vishesha Vijnaniya Vimana\" (Three methods for knowledge of disease). Thus said Lord Atreya. [1-2]",
+            "html": "<p>Now we shall expound the chapter \"Trividha Roga Vishesha Vijnaniya Vimana\" (Three methods for knowledge of disease). Thus said Lord Atreya. [1-2]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Three methods for knowledge of disease",
+            "html": "<h3><span class=\"mw-headline\" id=\"Three_methods_for_knowledge_of_disease\">Three methods for knowledge of disease</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "त्रिविधं खलु रोगविशेषविज्ञानं भवति; तद्यथा आप्तोपदेशः, प्रत्यक्षम्, अनुमानं चेति||३||",
+            "html": "<p>त्रिविधं खलु रोगविशेषविज्ञानं भवति; तद्यथा आप्तोपदेशः, प्रत्यक्षम्, अनुमानं चेति||३||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "trividhaṁ khalu rōgaviśēṣavijñānaṁ bhavati; tadyathā āptōpadēśaḥ, pratyakṣam, anumānaṁ cēti||3||",
+            "html": "<p>trividhaṁ khalu rōgaviśēṣavijñānaṁ bhavati; tadyathā āptōpadēśaḥ, pratyakṣam, anumānaṁ cēti||3|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "trividhaM khalu rogavisheShavij~jAnaM bhavati; tadyathA AptopadeshaH, pratyakSham, anumAnaMceti||3||",
+            "html": "<p>trividhaM khalu rogavisheShavij~jAnaM bhavati; tadyathA AptopadeshaH, pratyakSham, anumAnaMceti||3||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Specific features of diseases can be determined in three ways – by means of aptopadesha (authoritative instruction), Pratyaksha (direct observation), and Anumana (inference). [3]",
+            "html": "<p>Specific features of diseases can be determined in three ways – by means of <a href=\"/index.php?title=Aaptopadesha_pramana\" title=\"Aaptopadesha pramana\">aptopadesha</a> (authoritative instruction), <a href=\"/index.php?title=Pratyaksha_pramana\" title=\"Pratyaksha pramana\">Pratyaksha</a> (direct observation), and <a href=\"/index.php?title=Anumana_pramana\" title=\"Anumana pramana\">Anumana</a> (inference). [3]\n</p>",
+            "links": [
+                {
+                    "text": "aptopadesha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Aaptopadesha_pramana"
+                },
+                {
+                    "text": "Pratyaksha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pratyaksha_pramana"
+                },
+                {
+                    "text": "Anumana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Anumana_pramana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "तत्राप्तोपदेशो नामाप्तवचनम्|",
+            "html": "<p>तत्राप्तोपदेशो नामाप्तवचनम्| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "आप्ता ह्यवितर्कस्मृतिविभागविदो निष्प्रीत्युपतापदर्शिनश्च| तेषामेवङ्गुणयोगाद्यद्वचनं तत् प्रमाणम्| अप्रमाणं पुनर्मत्तोन्मत्तमूर्खरक्तदुष्टादुष्टवचनमिति ;",
+            "html": "<p>आप्ता ह्यवितर्कस्मृतिविभागविदो निष्प्रीत्युपतापदर्शिनश्च| तेषामेवङ्गुणयोगाद्यद्वचनं तत् प्रमाणम्| अप्रमाणं पुनर्मत्तोन्मत्तमूर्खरक्तदुष्टादुष्टवचनमिति ; \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "प्रत्यक्षं तु खलु तद्यत् स्वयमिन्द्रियैर्मनसा चोपलभ्यते|",
+            "html": "<p>प्रत्यक्षं तु खलु तद्यत् स्वयमिन्द्रियैर्मनसा चोपलभ्यते| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "अनुमानं खलु तर्को युक्त्यपेक्षः||४||",
+            "html": "<p>अनुमानं खलु तर्को युक्त्यपेक्षः||४||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "tatrāptōpadēśō nāmāptavacanam|",
+            "html": "<p>tatrāptōpadēśō nāmāptavacanam| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "āptā hyavitarkasmr̥tivibhāgavidō niṣprītyupatāpadarśinaśca| tēṣāmēvaṅguṇayōgādyadvacanaṁ tat pramāṇam| apramāṇaṁ punarmattōnmattamūrkharaktaduṣṭāduṣṭavacanamiti ;",
+            "html": "<p>āptā hyavitarkasmr̥tivibhāgavidō niṣprītyupatāpadarśinaśca| tēṣāmēvaṅguṇayōgādyadvacanaṁ tat pramāṇam| apramāṇaṁ punarmattōnmattamūrkharaktaduṣṭāduṣṭavacanamiti ; \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "pratyakṣaṁ tu khalu tadyat svayamindriyairmanasā cōpalabhyatē|",
+            "html": "<p>pratyakṣaṁ tu khalu tadyat svayamindriyairmanasā cōpalabhyatē| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "anumānaṁ khalu tarkō yuktyapēkṣaḥ||4||",
+            "html": "<p>anumānaṁ khalu tarkō yuktyapēkṣaḥ||4||   \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "tatrAptopadesho nAmAptavacanam|\nAptA hyavitarkasmRutivibhAgavido niShprItyupatApadarshinashca|\nteShAmeva~gguNayogAdyadvacanaM tat pramANam|\napramANaM punarmattonmattamUrkharaktaduShTAduShTavacanamiti ;",
+            "html": "<p>tatrAptopadesho nAmAptavacanam| \nAptA hyavitarkasmRutivibhAgavido niShprItyupatApadarshinashca| \nteShAmeva~gguNayogAdyadvacanaM tat pramANam| \napramANaM punarmattonmattamUrkharaktaduShTAduShTavacanamiti  ; \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "pratyakShaM tu khalu tadyatsvayamindriyairmanasA copalabhyate|",
+            "html": "<p>pratyakShaM tu khalu tadyatsvayamindriyairmanasA  copalabhyate| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "anumAnaM khalu tarko yuktyapekShaH||4||",
+            "html": "<p>anumAnaM khalu tarko yuktyapekShaH||4||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Authoritative instructions are the teachings of apta (persons who are the most reliable). Apta are free from doubts, their memory is unimpaired, they know things in their entirety by determinate experience. They see things without any attachment or affection ( nishpriti and nirupatapa ). Because of these qualities, what they say is authentic. On the other hand, statements- true or false- made by intoxicated, mad, illiterate people and people with attachments are not to be considered as authoritative.",
+            "html": "<p>Authoritative instructions are the teachings of apta (persons who are the most reliable). Apta are free from doubts, their memory is unimpaired, they know things in their entirety by determinate experience. They see things without any attachment or affection (<i>nishpriti</i> and <i>nirupatapa</i>). Because of these qualities, what they say is authentic. On the other hand, statements- true or false- made by intoxicated, mad, illiterate people and people with attachments are not to be considered as authoritative. \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Pratyaksha or direct observation is that which is comprehensible by an individual through his own senses and mind.",
+            "html": "<p><a href=\"/index.php?title=Pratyaksha_pramana\" title=\"Pratyaksha pramana\">Pratyaksha</a> or direct observation is that which is comprehensible by an individual through his own senses and mind. \n</p>",
+            "links": [
+                {
+                    "text": "Pratyaksha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pratyaksha_pramana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Anumana or inference is the indirect knowledge based on Yukti i.e. reasoning, logic and experiments . [4]",
+            "html": "<p><a href=\"/index.php?title=Anumana_pramana\" title=\"Anumana pramana\">Anumana</a> or inference is the indirect knowledge based on <a href=\"/index.php?title=Yukti_pramana\" title=\"Yukti pramana\">Yukti i.e. reasoning, logic and experiments</a>. [4]\n</p>",
+            "links": [
+                {
+                    "text": "Anumana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Anumana_pramana"
+                },
+                {
+                    "text": "Yukti i.e. reasoning, logic and experiments",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Yukti_pramana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "त्रिविधेन खल्वनेन ज्ञानसमुदायेन पूर्वं परीक्ष्य रोगं सर्वथा सर्वमथोत्तरकालमध्यवसानमदोषं भवति, न हि ज्ञानावयवेन कृत्स्ने ज्ञेये ज्ञानमुत्पद्यते|",
+            "html": "<p>त्रिविधेन खल्वनेन ज्ञानसमुदायेन पूर्वं परीक्ष्य रोगं सर्वथा सर्वमथोत्तरकालमध्यवसानमदोषं भवति, न हि ज्ञानावयवेन कृत्स्ने ज्ञेये ज्ञानमुत्पद्यते| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "त्रिविधे त्वस्मिन् ज्ञानसमुदये पूर्वमाप्तोपदेशाज्ज्ञानं, ततः प्रत्यक्षानुमानाभ्यां परीक्षोपपद्यते|",
+            "html": "<p>त्रिविधे त्वस्मिन् ज्ञानसमुदये पूर्वमाप्तोपदेशाज्ज्ञानं, ततः प्रत्यक्षानुमानाभ्यां परीक्षोपपद्यते| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "किं ह्यनुपदिष्टं पूर्वं यत्तत् प्रत्यक्षानुमानाभ्यां परीक्षमाणो विद्यात्|",
+            "html": "<p>किं ह्यनुपदिष्टं पूर्वं यत्तत् प्रत्यक्षानुमानाभ्यां परीक्षमाणो विद्यात्| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "तस्माद्द्विविधा परीक्षा ज्ञानवतां प्रत्यक्षम्, अनुमानं च;त्रिविधा वा सहोपदेशेन||५||",
+            "html": "<p>तस्माद्द्विविधा परीक्षा ज्ञानवतां प्रत्यक्षम्, अनुमानं च;त्रिविधा वा सहोपदेशेन||५||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "trividhēna khalvanēna jñānasamudāyēna pūrvaṁ parīkṣya rōgaṁ sarvathā sarvamathōttarakālamadhyavasānamadōṣaṁ bhavati, na hi jñānāvayavēna kr̥tsnē jñēyē jñānamutpadyatē| trividhē tvasmin jñānasamudayē pūrvamāptōpadēśājjñānaṁ, tataḥ pratyakṣānumānābhyāṁ parīkṣōpapadyatē| kiṁ hyanupadiṣṭaṁ pūrvaṁ yattat pratyakṣānumānābhyāṁ parīkṣamāṇō vidyāt| tasmāddvividhā parīkṣā jñānavatāṁ pratyakṣam, anumānaṁ ca; trividhā vā sahōpadēśēna||5||",
+            "html": "<p>trividhēna khalvanēna jñānasamudāyēna pūrvaṁ parīkṣya rōgaṁ sarvathā sarvamathōttarakālamadhyavasānamadōṣaṁ bhavati, na hi jñānāvayavēna kr̥tsnē jñēyē jñānamutpadyatē| trividhē tvasmin jñānasamudayē pūrvamāptōpadēśājjñānaṁ, tataḥ pratyakṣānumānābhyāṁ parīkṣōpapadyatē| kiṁ hyanupadiṣṭaṁ pūrvaṁ yattat pratyakṣānumānābhyāṁ parīkṣamāṇō vidyāt| tasmāddvividhā parīkṣā jñānavatāṁ pratyakṣam, anumānaṁ ca; trividhā vā sahōpadēśēna||5||  \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "trividhena khalvanena j~jAnasamudAyena pUrvaM parIkShya rogaM sarvathAsarvamathottarakAlamadhyavasAnamadoShaM bhavati, na hi j~jAnAvayavena kRutsne j~jeyej~jAnamutpadyate|\ntrividhe tvasmin j~jAnasamudaye pUrvamAptopadeshAjj~jAnaM, tataH pratyakShAnumAnAbhyAMparIkShopapadyate|\nkiM hyanupadiShTaM pUrvaM yattat pratyakShAnumAnAbhyAM parIkShamANo vidyAt|\ntasmAddvividhA parIkShA j~jAnavatAM pratyakSham, anumAnaM ca; trividhA vA sahopadeshena||5||",
+            "html": "<p>trividhena khalvanena j~jAnasamudAyena pUrvaM parIkShya rogaM sarvathAsarvamathottarakAlamadhyavasAnamadoShaM  bhavati, na hi j~jAnAvayavena kRutsne j~jeyej~jAnamutpadyate| \ntrividhe tvasmin j~jAnasamudaye pUrvamAptopadeshAjj~jAnaM, tataH pratyakShAnumAnAbhyAMparIkShopapadyate| \nkiM hyanupadiShTaM pUrvaM yattat pratyakShAnumAnAbhyAM parIkShamANo vidyAt| \ntasmAddvividhA parIkShA j~jAnavatAM pratyakSham, anumAnaM ca; trividhA vA sahopadeshena||5||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "First of all, one should examine the various aspects of diseases by employing all the three pramanas (i.e., the three methods of examination). Observations made on the nature of the disease thereafter are infallible. One cannot acquire authoritative knowledge about anything in all its aspects simply by examining it through a part of these “sources of knowledge”. Of all the sources of knowledge one should acquire knowledge in the beginning through authoritative instructions and, thereafter proceed to examine a thing through Pratyaksha (direct observations), and Anumana (inference). What is to be examined by “direct observations” and inference unless something can be studied prima facie. Hence, all the three methods of examination are always to be used in the sequence viz. aptopadesha , Pratyaksha and Anumana . In other words, it could be said that if a physician possesses the textual knowledge ( Aptopadesha ) then, for him, there are only two methods of examinations. [5]",
+            "html": "<p>First of all, one should examine the various aspects of diseases by employing all the three <i><a href=\"/index.php?title=Pramana\" title=\"Pramana\">pramanas</a></i> (i.e., the three methods of examination). Observations made on the nature of the disease thereafter are infallible. One cannot acquire authoritative knowledge about anything in all its aspects simply by examining it through a part of these “sources of knowledge”. Of all the sources of knowledge one should acquire knowledge in the beginning through authoritative instructions and, thereafter proceed to examine a thing through <a href=\"/index.php?title=Pratyaksha_pramana\" title=\"Pratyaksha pramana\">Pratyaksha</a> (direct observations), and <a href=\"/index.php?title=Anumana_pramana\" title=\"Anumana pramana\">Anumana</a> (inference). What is to be examined by “direct observations” and inference unless something can be studied prima facie. Hence, all the three methods of examination are always to be used in the sequence viz. <a href=\"/index.php?title=Aaptopadesha_pramana\" title=\"Aaptopadesha pramana\">aptopadesha</a>, <a href=\"/index.php?title=Pratyaksha_pramana\" title=\"Pratyaksha pramana\">Pratyaksha</a><i> and</i> <a href=\"/index.php?title=Anumana_pramana\" title=\"Anumana pramana\">Anumana</a><i>.</i> In other words, it could be said that if a physician possesses the textual knowledge (<a href=\"/index.php?title=Aaptopadesha_pramana\" title=\"Aaptopadesha pramana\">Aptopadesha</a> ) then, for him, there are only two methods of examinations.<i> [5]</i>\n</p>",
+            "links": [
+                {
+                    "text": "pramanas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pramana"
+                },
+                {
+                    "text": "Pratyaksha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pratyaksha_pramana"
+                },
+                {
+                    "text": "Anumana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Anumana_pramana"
+                },
+                {
+                    "text": "aptopadesha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Aaptopadesha_pramana"
+                },
+                {
+                    "text": "Pratyaksha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pratyaksha_pramana"
+                },
+                {
+                    "text": "Anumana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Anumana_pramana"
+                },
+                {
+                    "text": "Aptopadesha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Aaptopadesha_pramana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Criteria of knowledge of disease",
+            "html": "<h3><span class=\"mw-headline\" id=\"Criteria_of_knowledge_of_disease\">Criteria of knowledge of disease</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "तत्रेदमुपदिशन्ति बुद्धिमन्तः- रोगमेकैकमेवम्प्रकोपणमेवंयोनिमेवमुत्थानमेवमात्मानमेवमधिष्ठानमेवंवेदनमेवं संस्थानमेवंशब्द\nस्पर्शरूपरसगन्धमेवमुपद्रवमेवंवृद्धिस्थानक्षयसमन्वितमेवमुदर्क मेवन्नामानमेवंयोगं विद्यात्; तस्मिन्नियं प्रतीकारार्था प्रवृत्तिरथवा निवृत्तिरित्युपदेशाज्ज्ञायते||६||",
+            "html": "<p>तत्रेदमुपदिशन्ति बुद्धिमन्तः- रोगमेकैकमेवम्प्रकोपणमेवंयोनिमेवमुत्थानमेवमात्मानमेवमधिष्ठानमेवंवेदनमेवं संस्थानमेवंशब्द\nस्पर्शरूपरसगन्धमेवमुपद्रवमेवंवृद्धिस्थानक्षयसमन्वितमेवमुदर्क मेवन्नामानमेवंयोगं विद्यात्; तस्मिन्नियं प्रतीकारार्था प्रवृत्तिरथवा निवृत्तिरित्युपदेशाज्ज्ञायते||६||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "tatrēdamupadiśanti buddhimantaḥ- rōgamēkaikamēvamprakōpaṇamēvaṁyōnimēvamutthānamēvamātmānamēvamadhiṣṭhānamēvaṁvēdanamēvaṁ saṁsthānamēvaṁśabdasparśarūparasagandhamēvamupadravamēvaṁvr̥ddhisthānakṣayasamanvitamēvamudarka mēvannāmānamēvaṁyōgaṁ vidyāt; tasminniyaṁ pratīkārārthā pravr̥ttirathavā nivr̥ttirityupadēśājjñāyatē||6||",
+            "html": "<p>tatrēdamupadiśanti buddhimantaḥ- rōgamēkaikamēvamprakōpaṇamēvaṁyōnimēvamutthānamēvamātmānamēvamadhiṣṭhānamēvaṁvēdanamēvaṁ saṁsthānamēvaṁśabdasparśarūparasagandhamēvamupadravamēvaṁvr̥ddhisthānakṣayasamanvitamēvamudarka mēvannāmānamēvaṁyōgaṁ vidyāt; tasminniyaṁ pratīkārārthā pravr̥ttirathavā nivr̥ttirityupadēśājjñāyatē||6||   \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "tatredamupadishanti buddhimantaH-rogamekaikamevamprakopaNamevaMyonimevamutthAnamevamAtmAnamevamadhiShThAnamevaMvedanamevaMsaMsthAnamevaMshabdasparsharUparasagandham evamupadravamevaMvRuddhisthAnakShayasamanvitamevamudarkamevannAmAnamevaMyogaM vidyAt; tasminniyaM pratIkArArthA pravRuttirathavA nivRuttirityupadeshAjj~jAyate||6||",
+            "html": "<p>tatredamupadishanti buddhimantaH-rogamekaikamevamprakopaNamevaMyonimevamutthAnamevamAtmAnamevamadhiShThAnamevaMvedanamevaMsaMsthAnamevaMshabdasparsharUparasagandham<br/>evamupadravamevaMvRuddhisthAnakShayasamanvitamevamudarkamevannAmAnamevaMyogaM vidyAt; tasminniyaM pratIkArArthA pravRuttirathavA nivRuttirityupadeshAjj~jAyate||6||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Using the aptopadesha method of examination, one acquires knowledge as described here using the following terms that wise men, or apta , use to understand a disease:",
+            "html": "<p>Using the <a href=\"/index.php?title=Aaptopadesha_pramana\" title=\"Aaptopadesha pramana\">aptopadesha</a> method of examination, one  acquires knowledge as described here using the following terms that wise men, or <i>apta</i>, use to understand a disease:\n</p>",
+            "links": [
+                {
+                    "text": "aptopadesha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Aaptopadesha_pramana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "ul",
+            "text": "Prakopanam : provoking factors, viz. process of the vitiation of the doshas",
+            "html": "<ul><li><i>Prakopanam</i> : provoking factors, viz. process of the vitiation of the <a href=\"/index.php?title=Dosha\" title=\"Dosha\">doshas</a></li></ul>",
+            "links": [
+                {
+                    "text": "doshas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Prakopanam : provoking factors, viz. process of the vitiation of the doshas",
+                    "links": [
+                        {
+                            "text": "doshas",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Yoni : Source of doshas",
+            "html": "<ul><li><i>Yoni</i>: Source of <a href=\"/index.php?title=Dosha\" title=\"Dosha\">doshas</a></li></ul>",
+            "links": [
+                {
+                    "text": "doshas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Yoni : Source of doshas",
+                    "links": [
+                        {
+                            "text": "doshas",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Uthanam : onset of a disease",
+            "html": "<ul><li><i>Uthanam</i>: onset of a disease</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Uthanam : onset of a disease",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Atmanam : The cardinal sign and symptoms.",
+            "html": "<ul><li><i>Atmanam</i>: The cardinal sign and symptoms.</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Atmanam : The cardinal sign and symptoms.",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Adhishthanam : Site, which could be the body or the mind or both",
+            "html": "<ul><li><i>Adhishthanam</i>: Site, which could be the body or the mind or both</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Adhishthanam : Site, which could be the body or the mind or both",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Vedanam : signs and symptoms",
+            "html": "<ul><li><i>Vedanam</i>: signs and symptoms</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Vedanam : signs and symptoms",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Sansthanam (location): amashaya, pakwashaya, avayava vishesha, or in micro channels",
+            "html": "<ul><li><i>Sansthanam</i> (location): <i>amashaya, pakwashaya, avayava vishesha,</i> or in micro channels</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Sansthanam (location): amashaya, pakwashaya, avayava vishesha, or in micro channels",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Shabda, sparsha, rupa, rasa, gandham (five senses): Altered sensorium.",
+            "html": "<ul><li><i>Shabda, sparsha, rupa, rasa, gandham</i>(five senses): Altered sensorium.</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Shabda, sparsha, rupa, rasa, gandham (five senses): Altered sensorium.",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Updravam : Complications",
+            "html": "<ul><li><i>Updravam</i>: Complications</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Updravam : Complications",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Vriddhi sthana kshayam (Increased, decreased, balanced): Whether dosha , dhatu and mala are increased, decreased, or in balance",
+            "html": "<ul><li><i>Vriddhi sthana kshayam</i> (Increased, decreased, balanced): Whether <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a><i>,</i> <a href=\"/index.php?title=Dhatu\" title=\"Dhatu\">dhatu</a> and mala are increased, decreased, or in balance</li></ul>",
+            "links": [
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Vriddhi sthana kshayam (Increased, decreased, balanced): Whether dosha , dhatu and mala are increased, decreased, or in balance",
+                    "links": [
+                        {
+                            "text": "dosha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                        },
+                        {
+                            "text": "dhatu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Udarakam : Prognosis",
+            "html": "<ul><li><i>Udarakam</i>: Prognosis</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Udarakam : Prognosis",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Namanam : Nomenclature",
+            "html": "<ul><li><i>Namanam</i>: Nomenclature</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Namanam : Nomenclature",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Pravritti : Indicated treatment",
+            "html": "<ul><li><i>Pravritti</i>: Indicated treatment</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Pravritti : Indicated treatment",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Nivritti : Contraindication",
+            "html": "<ul><li><i>Nivritti</i>: Contraindication</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Nivritti : Contraindication",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Using the above framework, one could gather all the knowledge necessary of a disease . [6]",
+            "html": "<p>Using the above framework, one could gather all the knowledge necessary of a <a href=\"/index.php?title=Vyadhi\" title=\"Vyadhi\">disease</a>. [6]\n</p>",
+            "links": [
+                {
+                    "text": "disease",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vyadhi"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Knowledge by direct perception",
+            "html": "<h3><span class=\"mw-headline\" id=\"Knowledge_by_direct_perception\">Knowledge by direct perception</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "प्रत्यक्षतस्तु खलु रोगतत्त्वं बुभुत्सुः सर्वैरिन्द्रियैः सर्वानिन्द्रियार्थानातुरशरीरगतान् परीक्षेत, अन्यत्र रसज्ञानात्; तद्यथा- अन्त्रकूजनं, सन्धिस्फुटनमङ्गुलीपर्वणां च, स्वरविशेषांश्च, ये चान्येऽपि केचिच्छरीरोपगताः शब्दाः स्युस्ताञ्छ्रोत्रेण परीक्षेत; वर्णसंस्थानप्रमाणच्छायाः शरीरप्रकृतिविकारौ, चक्षुर्वैषयिकाणि यानि चान्यान्यनुक्तानि तानि चक्षुषा परीक्षेत; रसं तु खल्वातुरशरीरगतमिन्द्रियवैषयिकमप्यनुमानादवगच्छेत्, न ह्यस्य प्रत्यक्षेण ग्रहणमुपपद्यते, तस्मादातुरपरिप्रश्नेनैवातुरमुखरसं विद्यात्, यूकापसर्पणेन त्वस्य शरीरवैरस्यं, मक्षिकोपसर्पणेन शरीरमाधुर्यं, लोहितपित्तसन्देहे तु किं धारिलोहितं लोहितपित्तं वेति श्वकाकभक्षणाद्धारिलोहितमभक्षणाल्लोहितपित्तमित्यनुमातव्यम्, एवमन्यानप्यातुरशरीरगतान् रसाननुमिमीत; गन्धांस्तु खलु सर्वशरीरगतानातुरस्य प्रकृतिवैकारिकान् घ्राणेन परीक्षेत; स्पर्शं च पाणिना प्रकृतिविकृतियुक्तम्| इति प्रत्यक्षतोऽनुमानादुपदेशतश्च परीक्षणमुक्तम्||७||",
+            "html": "<p>प्रत्यक्षतस्तु खलु रोगतत्त्वं बुभुत्सुः सर्वैरिन्द्रियैः सर्वानिन्द्रियार्थानातुरशरीरगतान् परीक्षेत, अन्यत्र रसज्ञानात्; तद्यथा- अन्त्रकूजनं, सन्धिस्फुटनमङ्गुलीपर्वणां च, स्वरविशेषांश्च, ये चान्येऽपि केचिच्छरीरोपगताः शब्दाः स्युस्ताञ्छ्रोत्रेण परीक्षेत; वर्णसंस्थानप्रमाणच्छायाः शरीरप्रकृतिविकारौ, चक्षुर्वैषयिकाणि यानि चान्यान्यनुक्तानि तानि चक्षुषा परीक्षेत; रसं तु खल्वातुरशरीरगतमिन्द्रियवैषयिकमप्यनुमानादवगच्छेत्, न ह्यस्य प्रत्यक्षेण ग्रहणमुपपद्यते, तस्मादातुरपरिप्रश्नेनैवातुरमुखरसं विद्यात्, यूकापसर्पणेन त्वस्य शरीरवैरस्यं, मक्षिकोपसर्पणेन शरीरमाधुर्यं, लोहितपित्तसन्देहे तु किं धारिलोहितं लोहितपित्तं वेति श्वकाकभक्षणाद्धारिलोहितमभक्षणाल्लोहितपित्तमित्यनुमातव्यम्, एवमन्यानप्यातुरशरीरगतान् रसाननुमिमीत; गन्धांस्तु खलु सर्वशरीरगतानातुरस्य प्रकृतिवैकारिकान् घ्राणेन परीक्षेत; स्पर्शं च पाणिना प्रकृतिविकृतियुक्तम्| इति प्रत्यक्षतोऽनुमानादुपदेशतश्च परीक्षणमुक्तम्||७||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "pratyakṣatastu khalu rōgatattvaṁ bubhutsuḥ sarvairindriyaiḥ sarvānindriyārthānāturaśarīragatān parīkṣēta, anyatra rasajñānāt; tadyathā- antrakūjanaṁ, sandhisphuṭanamaṅgulīparvaṇāṁ ca, svaraviśēṣāṁśca, yē cānyē'pi kēciccharīrōpagatāḥ śabdāḥ syustāñchrōtrēṇa parīkṣēta; varṇasaṁsthānapramāṇacchāyāḥ , śarīraprakr̥tivikārau, cakṣurvaiṣayikāṇi yāni cānyānyanuktāni tāni cakṣuṣā parīkṣēta; rasaṁ tu khalvāturaśarīragatamindriyavaiṣayikamapyanumānādavagacchēt, na hyasya pratyakṣēṇa grahaṇamupapadyatē, tasmādāturaparipraśnēnaivāturamukharasaṁ vidyāt, yūkāpasarpaṇēna tvasya śarīravairasyaṁ, makṣikōpasarpaṇēna śarīramādhuryaṁ, lōhitapittasandēhē tu kiṁ dhārilōhitaṁ lōhitapittaṁ vēti śvakākabhakṣaṇāddhārilōhitamabhakṣaṇāllōhitapittamityanumātavyam, ēvamanyānapyāturaśarīragatān rasānanumimīta; gandhāṁstu khalu sarvaśarīragatānāturasya prakr̥tivaikārikān ghrāṇēna parīkṣēta; sparśaṁ ca pāṇinā prakr̥tivikr̥tiyuktam| iti pratyakṣatō'numānādupadēśataśca parīkṣaṇamuktam||7||",
+            "html": "<p>pratyakṣatastu khalu rōgatattvaṁ bubhutsuḥ sarvairindriyaiḥ sarvānindriyārthānāturaśarīragatān parīkṣēta, anyatra rasajñānāt; tadyathā- antrakūjanaṁ, sandhisphuṭanamaṅgulīparvaṇāṁ ca, svaraviśēṣāṁśca, yē cānyē'pi kēciccharīrōpagatāḥ śabdāḥ syustāñchrōtrēṇa parīkṣēta; varṇasaṁsthānapramāṇacchāyāḥ , śarīraprakr̥tivikārau, cakṣurvaiṣayikāṇi yāni cānyānyanuktāni tāni cakṣuṣā parīkṣēta; rasaṁ tu khalvāturaśarīragatamindriyavaiṣayikamapyanumānādavagacchēt, na hyasya pratyakṣēṇa grahaṇamupapadyatē, tasmādāturaparipraśnēnaivāturamukharasaṁ vidyāt, yūkāpasarpaṇēna tvasya śarīravairasyaṁ, makṣikōpasarpaṇēna śarīramādhuryaṁ, lōhitapittasandēhē tu kiṁ dhārilōhitaṁ lōhitapittaṁ vēti śvakākabhakṣaṇāddhārilōhitamabhakṣaṇāllōhitapittamityanumātavyam, ēvamanyānapyāturaśarīragatān rasānanumimīta; gandhāṁstu khalu sarvaśarīragatānāturasya prakr̥tivaikārikān ghrāṇēna parīkṣēta; sparśaṁ ca pāṇinā prakr̥tivikr̥tiyuktam| iti pratyakṣatō'numānādupadēśataśca parīkṣaṇamuktam||7||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "pratyakShatastu khalu rogatattvaM bubhutsuH sarvairindriyaiH sarvAnindriyArthAnAturasharIragatAnparIkSheta, anyatra rasaj~jAnAt; tadyathA- antrakUjanaM, sandhisphuTanama~ggulIparvaNAM ca,svaravisheShAMshca, ye cAnye~api keciccharIropagatAH shabdAH syustA~jchrotreNa parIkSheta;varNasaMsthAnapramANacchAyAH , sharIraprakRutivikArau, cakShurvaiShayikANi yAnicAnyAnyanuktAni tAni cakShuShA parIkSheta; rasaM tukhalvAturasharIragatamindriyavaiShayikamapyanumAnAdavagacchet, na hyasya pratyakSheNagrahaNamupapadyate, tasmAdAturapariprashnenaivAturamukharasaM vidyAt, yUkApasarpaNena tvasyasharIravairasyaM, makShikopasarpaNena sharIramAdhuryaM, lohitapittasandehe tu kiM dhArilohitaMlohitapittaM veti shvakAkabhakShaNAddhArilohitamabhakShaNAllohitapittamityanumAtavyam,evamanyAnapyAturasharIragatAn rasAnanumimIta; gandhAMstu khalu sarvasharIragatAnAturasyaprakRutivaikArikAn ghrANena parIkSheta; sparshaM ca pANinA prakRutivikRutiyuktam|\niti pratyakShato~anumAnAdupadeshatashca parIkShaNamuktam||7||",
+            "html": "<p>pratyakShatastu khalu rogatattvaM bubhutsuH sarvairindriyaiH sarvAnindriyArthAnAturasharIragatAnparIkSheta, anyatra rasaj~jAnAt; tadyathA- antrakUjanaM, sandhisphuTanama~ggulIparvaNAM ca,svaravisheShAMshca, ye cAnye~api keciccharIropagatAH shabdAH syustA~jchrotreNa parIkSheta;varNasaMsthAnapramANacchAyAH  , sharIraprakRutivikArau, cakShurvaiShayikANi yAnicAnyAnyanuktAni tAni cakShuShA parIkSheta; rasaM tukhalvAturasharIragatamindriyavaiShayikamapyanumAnAdavagacchet, na hyasya pratyakSheNagrahaNamupapadyate, tasmAdAturapariprashnenaivAturamukharasaM vidyAt, yUkApasarpaNena tvasyasharIravairasyaM, makShikopasarpaNena sharIramAdhuryaM, lohitapittasandehe tu kiM dhArilohitaMlohitapittaM veti shvakAkabhakShaNAddhArilohitamabhakShaNAllohitapittamityanumAtavyam,evamanyAnapyAturasharIragatAn rasAnanumimIta; gandhAMstu khalu sarvasharIragatAnAturasyaprakRutivaikArikAn ghrANena parIkSheta; sparshaM ca pANinA prakRutivikRutiyuktam| \niti pratyakShato~anumAnAdupadeshatashca  parIkShaNamuktam||7||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "A physician who wants to examine the patient and diagnose the disease through Pratyaksha (direct observations) method of examination should examine with his own senses (all senses except the one relating to the gustatory organ, i.e., taste), in the body of the patient.",
+            "html": "<p>A physician who wants to examine the patient and diagnose the disease through <a href=\"/index.php?title=Pratyaksha_pramana\" title=\"Pratyaksha pramana\">Pratyaksha</a> (direct observations) method of examination should examine with his own senses (all senses except the one relating to the gustatory organ, i.e., taste), in the body of the patient. \n</p>",
+            "links": [
+                {
+                    "text": "Pratyaksha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pratyaksha_pramana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h4",
+            "text": "The following should be examined by auscultation",
+            "html": "<h4><span class=\"mw-headline\" id=\"The_following_should_be_examined_by_auscultation\">The following should be examined by auscultation</span></h4>",
+            "links": [],
+            "images": [],
+            "level": 4
+        },
+        {
+            "type": "ul",
+            "text": "Antrakoojanam : Gurgling sound in the intestine indicating sound of movement;",
+            "html": "<ul><li><i>Antrakoojanam</i>: Gurgling sound in the intestine indicating sound of movement;</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Antrakoojanam : Gurgling sound in the intestine indicating sound of movement;",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Sandhisphutanam : Crackling sound in the joints including those in the fingers;",
+            "html": "<ul><li><i>Sandhisphutanam</i>: Crackling sound in the joints including those in the fingers;</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Sandhisphutanam : Crackling sound in the joints including those in the fingers;",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "h4",
+            "text": "The following are perceived by auditory measures",
+            "html": "<h4><span class=\"mw-headline\" id=\"The_following_are_perceived_by_auditory_measures\">The following are perceived by auditory measures</span></h4>",
+            "links": [],
+            "images": [],
+            "level": 4
+        },
+        {
+            "type": "ul",
+            "text": "Swara visheshana : Voice patterns of the patient; and",
+            "html": "<ul><li><i>Swara visheshana</i>: Voice patterns of the patient; and</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Swara visheshana : Voice patterns of the patient; and",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Shabda : Such other sounds in the body of the patient which are normally found in the human body like respiratory and cardiovascular sounds and also the sounds which are produced through percussion and auscultation etc.",
+            "html": "<ul><li><i>Shabda</i>:  Such other sounds in the body of the patient which are normally found in the human body like respiratory and cardiovascular sounds and also the sounds which are produced through percussion and auscultation etc.</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Shabda : Such other sounds in the body of the patient which are normally found in the human body like respiratory and cardiovascular sounds and also the sounds which are produced through percussion and auscultation etc.",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "h4",
+            "text": "By tactile perceptions",
+            "html": "<h4><span class=\"mw-headline\" id=\"By_tactile_perceptions\">By tactile perceptions</span></h4>",
+            "links": [],
+            "images": [],
+            "level": 4
+        },
+        {
+            "type": "p",
+            "text": "The physician should touch various body parts of the patients, and examine signs of abnormality in terms of the body temperature, skin texture (rough- unctuous), presence of moisture (dry-wet), eruptions, pitting, tenderness, etc.",
+            "html": "<p>The physician should touch various body parts of the patients, and examine signs of abnormality in terms of the body temperature, skin texture (rough- unctuous), presence of moisture (dry-wet), eruptions, pitting, tenderness, etc.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h4",
+            "text": "By visual examination",
+            "html": "<h4><span class=\"mw-headline\" id=\"By_visual_examination\">By visual examination</span></h4>",
+            "links": [],
+            "images": [],
+            "level": 4
+        },
+        {
+            "type": "ul",
+            "text": "Colour, shape, measurement and complexion;",
+            "html": "<ul><li>Colour, shape, measurement and complexion;</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Colour, shape, measurement and complexion;",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Natural and unnatural features of the body found in normal and abnormal states; and",
+            "html": "<ul><li>Natural and unnatural features of the body found in normal and abnormal states; and</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Natural and unnatural features of the body found in normal and abnormal states; and",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Others which can be examined visually like signs of the disease, lustre and appearance of the body and other organs (inspection method of examination from top to bottom of the person)",
+            "html": "<ul><li>Others which can be examined visually like signs of the disease, lustre and appearance of the body and other organs (inspection method of examination from top to bottom of the person)</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Others which can be examined visually like signs of the disease, lustre and appearance of the body and other organs (inspection method of examination from top to bottom of the person)",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "h4",
+            "text": "Gustatory examinations can be inferred by following observations",
+            "html": "<h4><span class=\"mw-headline\" id=\"Gustatory_examinations_can_be_inferred_by_following_observations\">Gustatory examinations can be inferred by following observations</span></h4>",
+            "links": [],
+            "images": [],
+            "level": 4
+        },
+        {
+            "type": "p",
+            "text": "Taste of the various tissues in the body of the patient are undoubtedly the objects of the gustatory sense organ and can be ascertained by inference and not by direct observation. Therefore, the taste in the mouth of the patient should be ascertained by interrogation. For example, sweet taste of the body can be inferred when flies are attracted towards the body. In the case of bleeding from the body, if there is a doubt about the nature of the blood, it should be resolved by giving the blood to dogs and crow to taste. Intake of the blood by dogs and crows is indicative of its purity and rejection by these animals indicates that the blood is vitiated by pitta , i.e. the patient is suffering from raktapitta . Similarly, other tastes in the patient’s body can be inferred.",
+            "html": "<p>Taste of the various tissues in the body of the patient are undoubtedly the objects of the gustatory sense organ and can be ascertained by inference and not by direct observation. Therefore, the taste in the mouth of the patient should be ascertained by interrogation. For example, sweet taste of the body can be inferred when flies are attracted towards the body. In the case of bleeding from the body, if there is a doubt about the nature of the blood, it should be resolved by giving the blood to dogs and crow to taste. Intake of the blood by dogs and crows is indicative of its purity and rejection by these animals indicates that the blood is vitiated by <a href=\"/index.php?title=Pitta\" title=\"Pitta\">pitta</a>, i.e. the patient is suffering from <i>raktapitta</i>. Similarly, other tastes in the patient’s body can be inferred.\n</p>",
+            "links": [
+                {
+                    "text": "pitta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pitta"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h4",
+            "text": "By olfactory examinations",
+            "html": "<h4><span class=\"mw-headline\" id=\"By_olfactory_examinations\">By olfactory examinations</span></h4>",
+            "links": [],
+            "images": [],
+            "level": 4
+        },
+        {
+            "type": "p",
+            "text": "Normal and abnormal smells of the entire body of the patient should be examined by the olfactory sense organ. [7]",
+            "html": "<p>Normal and abnormal smells of the entire body of the patient should be examined by the olfactory sense organ. [7]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h4",
+            "text": "Knowledge by inference",
+            "html": "<h4><span class=\"mw-headline\" id=\"Knowledge_by_inference\">Knowledge by inference</span></h4>",
+            "links": [],
+            "images": [],
+            "level": 4
+        },
+        {
+            "type": "p",
+            "text": "इमे तु खल्वन्येऽप्येवमेव भूयोऽनुमानज्ञेया भवन्ति भावाः| तद्यथा- अग्निं जरणशक्त्या परीक्षेत, बलं व्यायामशक्त्या, श्रोत्रादीनि शब्दाद्यर्थग्रहणेन, मनोऽर्थाव्यभिचरणेन, विज्ञानं व्यवसायेन, रजःसङ्गेन, मोहमविज्ञानेन, क्रोधमभिद्रोहेण, शोकं दैन्येन, हर्षमामोदेन, प्रीतिं तोषेण, भयं विषादेन, धैर्यमविषादेन, वीर्यमुत्थानेन, अवस्थानमविभ्रमेण, श्रद्धामभिप्रायेण, मेधां ग्रहणेन, सञ्ज्ञां नामग्रहणेन, स्मृतिं स्मरणेन, ह्रियमपत्रपणेन, शीलमनुशीलनेन, द्वेषं प्रतिषेधेन, उपधिमनुबन्धेन , धृतिमलौल्येन, वश्यतां विधेयतया, वयोभक्तिसात्म्यव्याधिसमुत्थानानि कालदेशोपशयवेदनाविशेषेण, गूढलिङ्गं व्याधिमुपशयानुपशयाभ्यां, दोषप्रमाणविशेषमपचारविशेषेण, आयुषः क्षयमरिष्टैः, उपस्थितश्रेयस्त्वं कल्याणाभिनिवेशेन, अमलं सत्त्वमविकारेण, ग्रहण्यास्तु मृदुदारुणत्वं स्वप्नदर्शनमभिप्रायं द्विष्टेष्टसुखदुःखानि चातुरपरिप्रश्नेनैव विद्यादिति||८||",
+            "html": "<p>इमे तु खल्वन्येऽप्येवमेव भूयोऽनुमानज्ञेया भवन्ति भावाः| तद्यथा- अग्निं जरणशक्त्या परीक्षेत, बलं व्यायामशक्त्या, श्रोत्रादीनि शब्दाद्यर्थग्रहणेन, मनोऽर्थाव्यभिचरणेन, विज्ञानं व्यवसायेन, रजःसङ्गेन, मोहमविज्ञानेन, क्रोधमभिद्रोहेण, शोकं दैन्येन, हर्षमामोदेन, प्रीतिं तोषेण, भयं विषादेन, धैर्यमविषादेन, वीर्यमुत्थानेन, अवस्थानमविभ्रमेण, श्रद्धामभिप्रायेण, मेधां ग्रहणेन, सञ्ज्ञां नामग्रहणेन, स्मृतिं स्मरणेन, ह्रियमपत्रपणेन, शीलमनुशीलनेन, द्वेषं प्रतिषेधेन, उपधिमनुबन्धेन , धृतिमलौल्येन, वश्यतां विधेयतया, वयोभक्तिसात्म्यव्याधिसमुत्थानानि कालदेशोपशयवेदनाविशेषेण, गूढलिङ्गं व्याधिमुपशयानुपशयाभ्यां, दोषप्रमाणविशेषमपचारविशेषेण, आयुषः क्षयमरिष्टैः, उपस्थितश्रेयस्त्वं कल्याणाभिनिवेशेन, अमलं सत्त्वमविकारेण, ग्रहण्यास्तु मृदुदारुणत्वं स्वप्नदर्शनमभिप्रायं द्विष्टेष्टसुखदुःखानि चातुरपरिप्रश्नेनैव विद्यादिति||८||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "imē tu khalvanyē'pyēvamēva bhūyō'numānajñēyā bhavanti bhāvāḥ tadyathā agniṁ jaraṇaśaktyā parīkṣēta balaṁ vyāyāmaśaktyā, śrōtrādīni śabdādyarthagrahaṇēna, manō'rthāvyabhicaraṇēna, vijñānaṁ vyavasāyēna, rajaḥsaṅgēna, mōhamavijñānēna, krōdhamabhidrōhēṇa, śōkaṁ dainyēna, harṣamāmōdēna, prītiṁ tōṣēṇa, bhayaṁ viṣādēna, dhairyamaviṣādēna, vīryamutthānēna\navasthānamavibhramēṇa, śraddhāmabhiprāyēṇa, mēdhāṁ grahaṇēna, sañjñāṁ nāmagrahaṇēna, smr̥tiṁ smaraṇēna, hriyamapatrapaṇēna, śīlamanuśīlanēna, dvēṣaṁ pratiṣēdhēna,\nupadhimanubandhēna , dhr̥timalaulyēna, vaśyatāṁ vidhēyatayā,\nvayōbhaktisātmyavyādhisamutthānāni kāladēśōpaśayavēdanāviśēṣēṇa, gūḍhaliṅgaṁ vyādhimupaśayānupaśayābhyāṁ, dōṣapramāṇaviśēṣamapacāraviśēṣēṇa, āyuṣaḥ kṣayamariṣṭaiḥ, upasthitaśrēyastvaṁ kalyāṇābhinivēśēna, amalaṁ sattvamavikārēṇa, grahaṇyāstu mr̥dudāruṇatvaṁ svapnadarśanamabhiprāyaṁ dviṣṭēṣṭasukhaduḥkhāni cāturaparipraśnēnaiva vidyāditi||8||",
+            "html": "<p>imē tu khalvanyē'pyēvamēva bhūyō'numānajñēyā bhavanti bhāvāḥ tadyathā agniṁ jaraṇaśaktyā parīkṣēta balaṁ vyāyāmaśaktyā, śrōtrādīni śabdādyarthagrahaṇēna, manō'rthāvyabhicaraṇēna, vijñānaṁ vyavasāyēna, rajaḥsaṅgēna, mōhamavijñānēna, krōdhamabhidrōhēṇa, śōkaṁ dainyēna, harṣamāmōdēna, prītiṁ tōṣēṇa, bhayaṁ viṣādēna, dhairyamaviṣādēna, vīryamutthānēna \navasthānamavibhramēṇa, śraddhāmabhiprāyēṇa, mēdhāṁ grahaṇēna, sañjñāṁ nāmagrahaṇēna, smr̥tiṁ smaraṇēna, hriyamapatrapaṇēna, śīlamanuśīlanēna, dvēṣaṁ pratiṣēdhēna, \nupadhimanubandhēna , dhr̥timalaulyēna, vaśyatāṁ vidhēyatayā, \nvayōbhaktisātmyavyādhisamutthānāni kāladēśōpaśayavēdanāviśēṣēṇa, gūḍhaliṅgaṁ vyādhimupaśayānupaśayābhyāṁ, dōṣapramāṇaviśēṣamapacāraviśēṣēṇa, āyuṣaḥ kṣayamariṣṭaiḥ, upasthitaśrēyastvaṁ kalyāṇābhinivēśēna, amalaṁ sattvamavikārēṇa, grahaṇyāstu mr̥dudāruṇatvaṁ svapnadarśanamabhiprāyaṁ dviṣṭēṣṭasukhaduḥkhāni cāturaparipraśnēnaiva vidyāditi||8||                           \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "ime tu khalvanye~apyevameva bhUyo~anumAnaj~jeyA bhavanti bhAvAH|\ntadyathA- agniM jaraNashaktyA parIkSheta, balaM vyAyAmashaktyA, shrotrAdInishabdAdyarthagrahaNena, mano~arthAvyabhicaraNena, vij~jAnaM vyavasAyena, rajaHsa~ggena,mohamavij~jAnena, krodhamabhidroheNa, shokaM dainyena, harShamAmodena, prItiM toSheNa, bhayaMviShAdena, dhairyamaviShAdena, vIryamutthAnena , avasthAnamavibhrameNa,shraddhAmabhiprAyeNa, medhAM grahaNena, sa~jj~jAM nAmagrahaNena, smRutiM smaraNena,hriyamapatrapaNena, shIlamanushIlanena, dveShaM pratiShedhena, upadhimanubandhena [3] ,dhRutimalaulyena, vashyatAM vidheyatayA, vayobhaktisAtmyavyAdhisamutthAnAnikAladeshopashayavedanAvisheSheNa, gUDhali~ggaM vyAdhimupashayAnupashayAbhyAM,doShapramANavisheShamapacAravisheSheNa, AyuShaH kShayamariShTaiH, upasthitashreyastvaMkalyANAbhiniveshena, amalaM sattvamavikAreNa, grahaNyAstu mRududAruNatvaMsvapnadarshanamabhiprAyaM dviShTeShTasukhaduHkhAni [4] cAturapariprashnenaiva vidyAditi||8||",
+            "html": "<p>ime tu khalvanye~apyevameva  bhUyo~anumAnaj~jeyA bhavanti bhAvAH| \ntadyathA- agniM jaraNashaktyA parIkSheta, balaM vyAyAmashaktyA, shrotrAdInishabdAdyarthagrahaNena, mano~arthAvyabhicaraNena, vij~jAnaM vyavasAyena, rajaHsa~ggena,mohamavij~jAnena, krodhamabhidroheNa, shokaM dainyena, harShamAmodena, prItiM toSheNa, bhayaMviShAdena, dhairyamaviShAdena, vIryamutthAnena  , avasthAnamavibhrameNa,shraddhAmabhiprAyeNa, medhAM grahaNena, sa~jj~jAM nAmagrahaNena, smRutiM smaraNena,hriyamapatrapaNena, shIlamanushIlanena, dveShaM pratiShedhena, upadhimanubandhena [3] ,dhRutimalaulyena, vashyatAM vidheyatayA, vayobhaktisAtmyavyAdhisamutthAnAnikAladeshopashayavedanAvisheSheNa, gUDhali~ggaM vyAdhimupashayAnupashayAbhyAM,doShapramANavisheShamapacAravisheSheNa, AyuShaH kShayamariShTaiH, upasthitashreyastvaMkalyANAbhiniveshena, amalaM sattvamavikAreNa, grahaNyAstu mRududAruNatvaMsvapnadarshanamabhiprAyaM dviShTeShTasukhaduHkhAni [4] cAturapariprashnenaiva vidyAditi||8||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Charak observed that the objects known by direct perceptions are very limited, whereas the range of inference is fairly vast in areas that are not known by our means of perception, i.e., sense organs. Here, reasoning and logic already stated in scriptures need to be used. The following subjects could be understood through Anumana (inference):",
+            "html": "<p>Charak observed that the objects known by direct perceptions are very limited, whereas the range of inference is fairly vast in areas that are not known by our means of perception, i.e., sense organs. Here, reasoning and logic already stated in scriptures need to be used. The following subjects could be understood through <a href=\"/index.php?title=Anumana_pramana\" title=\"Anumana pramana\">Anumana</a> (inference):\n</p>",
+            "links": [
+                {
+                    "text": "Anumana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Anumana_pramana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "ul",
+            "text": "Agnim jaran shaktya - Digestion by quality and quantity of food taken and digested or not digested.",
+            "html": "<ul><li><i>Agnim jaran shaktya</i>- Digestion by quality and quantity of food taken and digested or not digested.</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Agnim jaran shaktya - Digestion by quality and quantity of food taken and digested or not digested.",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Balam vyayam shaktya - Physical strength of the person to be examined with the performance of the exercise or the physical work.",
+            "html": "<ul><li><i>Balam vyayam shaktya</i>- Physical strength of the person to be examined with the performance of the exercise or the physical work.</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Balam vyayam shaktya - Physical strength of the person to be examined with the performance of the exercise or the physical work.",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Shrotradeeni- shabdadi artha grahanena -The sensory ability with clarity and accuracy of perception of their respective objects.",
+            "html": "<ul><li><i>Shrotradeeni- shabdadi artha grahanena</i>-The  sensory ability with clarity and accuracy of perception of their respective objects.</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Shrotradeeni- shabdadi artha grahanena -The sensory ability with clarity and accuracy of perception of their respective objects.",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Mano- avyabhicharnena - Inappropriate mental perceptions, even in the presence of all other senses along with their respective objects. Absence or altered perception indicates dissociation of mind with senses.",
+            "html": "<ul><li><i>Mano- avyabhicharnena</i> - Inappropriate mental perceptions, even in the presence of all other senses along with their respective objects. Absence or altered perception  indicates dissociation of mind with senses.</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Mano- avyabhicharnena - Inappropriate mental perceptions, even in the presence of all other senses along with their respective objects. Absence or altered perception indicates dissociation of mind with senses.",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Vigyanam vyavsayena - skills can be judged by one’s occupation.",
+            "html": "<ul><li><i>Vigyanam vyavsayena</i>- skills can be judged by one’s occupation.</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Vigyanam vyavsayena - skills can be judged by one’s occupation.",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Rajah sangena - attachments by involvement",
+            "html": "<ul><li><i>Rajah sangena</i> - attachments by involvement</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Rajah sangena - attachments by involvement",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Moham avigyanena - confused state by lack of proper knowledge",
+            "html": "<ul><li><i>Moham avigyanena</i>- confused state by lack of proper knowledge</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Moham avigyanena - confused state by lack of proper knowledge",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Krodham abhidrohena - anger by choosing measures for revenge",
+            "html": "<ul><li><i>Krodham abhidrohena</i>- anger by choosing measures for revenge</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Krodham abhidrohena - anger by choosing measures for revenge",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Shokam dainyena - grief by pity appearance",
+            "html": "<ul><li><i>Shokam dainyena</i>- grief by pity appearance</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Shokam dainyena - grief by pity appearance",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Harsham aamoden - pleasure by way of celebrations.",
+            "html": "<ul><li><i>Harsham aamoden</i>- pleasure by way of celebrations.</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Harsham aamoden - pleasure by way of celebrations.",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Preetim Toshena - affection by satisfaction.",
+            "html": "<ul><li><i>Preetim Toshena</i>- affection by satisfaction.</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Preetim Toshena - affection by satisfaction.",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Bhayam vishadena - fear by duration and severity of anxiety.",
+            "html": "<ul><li><i>Bhayam vishadena</i>- fear by duration and severity of anxiety.</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Bhayam vishadena - fear by duration and severity of anxiety.",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Dhairyam avishadena - patience by facing adversities without fear and anxiety",
+            "html": "<ul><li><i>Dhairyam avishadena</i> - patience by facing adversities without fear and anxiety</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Dhairyam avishadena - patience by facing adversities without fear and anxiety",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Veeryam utthanena - bravery by way of initiation of difficult task",
+            "html": "<ul><li><i>Veeryam utthanena</i>- bravery by way of initiation of difficult task</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Veeryam utthanena - bravery by way of initiation of difficult task",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Avasthanam avibhramena - stability by absence of doubts and confusions",
+            "html": "<ul><li><i>Avasthanam avibhramena</i>- stability by absence of doubts and confusions</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Avasthanam avibhramena - stability by absence of doubts and confusions",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Shriddha abhiprayena - faith by purposiveness",
+            "html": "<ul><li><i>Shriddha abhiprayena</i>- faith by purposiveness</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Shriddha abhiprayena - faith by purposiveness",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Medha grahnena - wisdom by retaining threshold",
+            "html": "<ul><li><i>Medha grahnena</i>- wisdom by retaining threshold</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Medha grahnena - wisdom by retaining threshold",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Sangya namgrahanena - mental awakening instantaneous identification",
+            "html": "<ul><li><i>Sangya namgrahanena</i>- mental awakening instantaneous identification</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Sangya namgrahanena - mental awakening instantaneous identification",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Smriti smarnena- memory by recalling ability",
+            "html": "<ul><li><a class=\"mw-redirect\" href=\"/index.php?title=Smriti\" title=\"Smriti\">Smriti</a> smarnena- memory by recalling ability</li></ul>",
+            "links": [
+                {
+                    "text": "Smriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Smriti"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Smriti smarnena- memory by recalling ability",
+                    "links": [
+                        {
+                            "text": "Smriti",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Smriti"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Hriyam apatrapnena - shy by drooping of eyelids.",
+            "html": "<ul><li><i>Hriyam apatrapnena</i>- shy by drooping of eyelids.</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Hriyam apatrapnena - shy by drooping of eyelids.",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Sheelam anusheelnena - obedience by constant following",
+            "html": "<ul><li><i>Sheelam anusheelnena</i>- obedience by constant following</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Sheelam anusheelnena - obedience by constant following",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Dvesham pratishedhena - hatred by duration of staying away",
+            "html": "<ul><li><i>Dvesham pratishedhena</i>- hatred by duration of staying away</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Dvesham pratishedhena - hatred by duration of staying away",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Upadhi anubandhena - fraudulent attitude.",
+            "html": "<ul><li><i>Upadhi anubandhena</i>- fraudulent attitude.</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Upadhi anubandhena - fraudulent attitude.",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Dhriti alaulyena - tolerance by long standing and non shifting attitude",
+            "html": "<ul><li><i>Dhriti alaulyena</i>- tolerance by long standing and non shifting attitude</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Dhriti alaulyena - tolerance by long standing and non shifting attitude",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Vashyata vidheyataya - controllability by following of righteous conduct",
+            "html": "<ul><li><i>Vashyata vidheyataya</i>- controllability by following of righteous conduct</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Vashyata vidheyataya - controllability by following of righteous conduct",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Vaya kalen - age by chronological time",
+            "html": "<ul><li><i>Vaya kalen</i>- age by chronological time</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Vaya kalen - age by chronological time",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Bhakti deshen - liking a place, person and surroundings with opportunistic intentions.",
+            "html": "<ul><li><i>Bhakti deshen</i>- liking a place, person and surroundings with opportunistic intentions.</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Bhakti deshen - liking a place, person and surroundings with opportunistic intentions.",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Satmya upshayena- habituation by suitability",
+            "html": "<ul><li><a href=\"/index.php?title=Satmya\" title=\"Satmya\">Satmya</a> upshayena- habituation by suitability</li></ul>",
+            "links": [
+                {
+                    "text": "Satmya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Satmya"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Satmya upshayena- habituation by suitability",
+                    "links": [
+                        {
+                            "text": "Satmya",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Satmya"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Vyadhi vedanaya - diseases by symptomatology",
+            "html": "<ul><li><i>Vyadhi vedanaya</i>- diseases by symptomatology</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Vyadhi vedanaya - diseases by symptomatology",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Goodha linga vyadhi - mysterious diseases by therapeutic measures",
+            "html": "<ul><li><i>Goodha linga vyadhi</i>- mysterious diseases by therapeutic measures</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Goodha linga vyadhi - mysterious diseases by therapeutic measures",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Dosha pramana- quantity of morbidity by potential causative factors",
+            "html": "<ul><li><a href=\"/index.php?title=Dosha\" title=\"Dosha\">Dosha</a> pramana- quantity of morbidity by potential causative factors</li></ul>",
+            "links": [
+                {
+                    "text": "Dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Dosha pramana- quantity of morbidity by potential causative factors",
+                    "links": [
+                        {
+                            "text": "Dosha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Aysha kshaya - near death signs of imminent death ( Arishta )",
+            "html": "<ul><li><i>Aysha kshaya</i>-  near death signs of imminent death (<i>Arishta</i>)</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Aysha kshaya - near death signs of imminent death ( Arishta )",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Shreyatwam : signs of regaining health, when the patient thinks welfare of all.",
+            "html": "<ul><li><i>Shreyatwam</i>: signs of regaining health, when the patient thinks welfare of all.</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Shreyatwam : signs of regaining health, when the patient thinks welfare of all.",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Amalam Satwam - purity of mind by freedom from illusionary attachments.",
+            "html": "<ul><li><i>Amalam Satwam</i>- purity of mind by freedom from illusionary attachments.</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Amalam Satwam - purity of mind by freedom from illusionary attachments.",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Granyastu mridu darunatwam - abdominal comforts and discomforts by sleep quality and by interrogations. [8]",
+            "html": "<ul><li><i>Granyastu mridu darunatwam</i>- abdominal comforts and discomforts by sleep quality and by interrogations. [8]</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Granyastu mridu darunatwam - abdominal comforts and discomforts by sleep quality and by interrogations. [8]",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "h3",
+            "text": "Importance of three fold examination",
+            "html": "<h3><span class=\"mw-headline\" id=\"Importance_of_three_fold_examination\">Importance of three fold examination</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "भवन्ति चात्र- आप्ततश्चोपदेशेन प्रत्यक्षकरणेन च|\nअनुमानेन च व्याधीन् सम्यग्विद्याद्विचक्षणः||९||",
+            "html": "<p>भवन्ति चात्र- आप्ततश्चोपदेशेन प्रत्यक्षकरणेन च| \nअनुमानेन च व्याधीन् सम्यग्विद्याद्विचक्षणः||९|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "bhavanti cātra-",
+            "html": "<p>bhavanti cātra- \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "āptataścōpadēśēna pratyakṣakaraṇēna ca|\nanumānēna ca vyādhīn samyagvidyādvicakṣaṇaḥ||9||",
+            "html": "<p>āptataścōpadēśēna pratyakṣakaraṇēna ca|\nanumānēna ca vyādhīn samyagvidyādvicakṣaṇaḥ||9||   \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "bhavanti cAtra-\nAptatashcopadeshena pratyakShakaraNena ca|\nanumAnena ca vyAdhIn samyagvidyAdvicakShaNaH||9||",
+            "html": "<p>bhavanti cAtra-\nAptatashcopadeshena pratyakShakaraNena ca| \nanumAnena ca vyAdhIn samyagvidyAdvicakShaNaH||9|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "To sum up this chapter, it can be said that the wise should properly understand a disease by means of three methods, i.e., the words documented by the wise, direct observation and inference. [9]",
+            "html": "<p>To sum up this chapter, it can be said that the wise should properly understand a disease by means of three methods, i.e., the words documented by the wise, direct observation and inference. [9]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "सर्वथा सर्वमालोच्य यथासम्भवमर्थवित्| अथाध्यवस्येत्तत्त्वे च कार्ये च तदनन्तरम्||१०||",
+            "html": "<p>सर्वथा सर्वमालोच्य यथासम्भवमर्थवित्| अथाध्यवस्येत्तत्त्वे च कार्ये च तदनन्तरम्||१०|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "sarvathā sarvamālōcya yathāsambhavamarthavit|\nathādhyavasyēttattvē ca kāryē ca tadanantaram||10||",
+            "html": "<p>sarvathā sarvamālōcya yathāsambhavamarthavit| \nathādhyavasyēttattvē  ca  kāryē  ca  tadanantaram||10||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "sarvathA sarvamAlocya yathAsambhavamarthavit|\nathAdhyavasyettattve ca kArye ca tadanantaram||10||",
+            "html": "<p>sarvathA sarvamAlocya yathAsambhavamarthavit| \nathAdhyavasyettattve ca kArye ca tadanantaram||10|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "As far as possible, all factors should be discussed in their entirety. After examining the disease by aptopadesha , the physician should obtain knowledge regarding the nature of disease and the therapies required therefore. [10]",
+            "html": "<p>As far as possible, all factors should be discussed in their entirety. After examining the disease by <a href=\"/index.php?title=Aaptopadesha_pramana\" title=\"Aaptopadesha pramana\">aptopadesha</a>, the physician should obtain knowledge regarding the nature of disease and the therapies required therefore. [10]\n</p>",
+            "links": [
+                {
+                    "text": "aptopadesha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Aaptopadesha_pramana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "कार्यतत्त्वविशेषज्ञः प्रतिपत्तौ न मुह्यति|\nअमूढः फलमाप्नोति यदमोहनिमित्तजम्||११||",
+            "html": "<p>कार्यतत्त्वविशेषज्ञः प्रतिपत्तौ न मुह्यति| \nअमूढः फलमाप्नोति यदमोहनिमित्तजम्||११|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "kāryatattvaviśēṣajñaḥ pratipattau na muhyati|\namūḍhaḥ phalamāpnōti yadamōhanimittajam||11||",
+            "html": "<p>kāryatattvaviśēṣajñaḥ pratipattau na muhyati| \namūḍhaḥ phalamāpnōti yadamōhanimittajam||11||           \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "kAryatattvavisheShaj~jaH pratipattau na muhyati|\namUDhaH phalamApnoti yadamohanimittajam||11||",
+            "html": "<p>kAryatattvavisheShaj~jaH pratipattau na muhyati| \namUDhaH phalamApnoti yadamohanimittajam||11|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "One who is well versed in the specific nature of the disease as well as the therapies required therefore seldom fails to act properly. It is only he who acts properly that reaps the results of proper action (i.e. achieves success). [11]",
+            "html": "<p>One who is well versed in the specific nature of the disease as well as the therapies required therefore seldom fails to act properly. It is only he who acts properly that reaps the results of proper action (i.e. achieves success). [11]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "ज्ञानबुद्धिप्रदीपेन यो नाविशति तत्त्ववित् |\nआतुरस्यान्तरात्मानं न स रोगांश्चिकित्सति||१२||",
+            "html": "<p>ज्ञानबुद्धिप्रदीपेन यो नाविशति तत्त्ववित् | \nआतुरस्यान्तरात्मानं न स रोगांश्चिकित्सति||१२|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "jnānabuddhipradīpēna yō nāviśati tattvavit |\nāturasyāntarātmānaṁ na sa rōgāṁścikitsati||12||",
+            "html": "<p>jnānabuddhipradīpēna yō  nāviśati tattvavit | \nāturasyāntarātmānaṁ na sa rōgāṁścikitsati||12||                   \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "j~jAnabuddhipradIpena yo nAvishati tattvavit |\nAturasyAntarAtmAnaM na sa rogAMshcikitsati||12||",
+            "html": "<p>j~jAnabuddhipradIpena yo nAvishati tattvavit  | \nAturasyAntarAtmAnaM na sa rogAMshcikitsati||12|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "When a physician who, even if well versed in knowledge of the disease and its treatment does not try to enter into the heart of the patient by virtue of the light of his knowledge, he will not be able to treat the disease. [12]",
+            "html": "<p>When a physician who, even if well versed in knowledge of the disease and its treatment does not try to enter into the heart of the patient by virtue of the light of his knowledge, he will not be able to treat the disease. [12]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Summary",
+            "html": "<h3><span class=\"mw-headline\" id=\"Summary\">Summary</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "तत्र श्लोकौ-\nसर्वरोगविशेषाणां त्रिविधं ज्ञानसङ्ग्रहम्|\nयथा चोपदिशन्त्याप्ताः प्रत्यक्षं गृह्यते यथा||१३||",
+            "html": "<p>तत्र श्लोकौ- \nसर्वरोगविशेषाणां त्रिविधं ज्ञानसङ्ग्रहम्| \nयथा चोपदिशन्त्याप्ताः प्रत्यक्षं गृह्यते यथा||१३|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "ये यथा चानुमानेन ज्ञेयास्तांश्चाप्युदारधीः| भावांस्त्रिरोगविज्ञाने विमाने मुनिरुक्तवान्||१४||",
+            "html": "<p>ये यथा चानुमानेन ज्ञेयास्तांश्चाप्युदारधीः| भावांस्त्रिरोगविज्ञाने विमाने मुनिरुक्तवान्||१४||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "tatra ślokau-",
+            "html": "<p>tatra ślokau-\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "sarvarōgaviśēṣāṇāṁ trividhaṁ jñānasaṅgraham|\nyathā cōpadiśantyāptāḥ pratyakṣaṁ gr̥hyatē yathā||13||\nyē yathā cānumānēna jñēyāstāṁścāpyudāradhīḥ|\nbhāvāṁstrirōgavijñānē vimānē muniruktavān||14||",
+            "html": "<p>sarvarōgaviśēṣāṇāṁ trividhaṁ jñānasaṅgraham| \nyathā cōpadiśantyāptāḥ pratyakṣaṁ gr̥hyatē yathā||13||\nyē  yathā cānumānēna jñēyāstāṁścāpyudāradhīḥ| \nbhāvāṁstrirōgavijñānē vimānē muniruktavān||14||                              \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "tatra shlokau-\nsarvarogavisheShANAM trividhaM j~jAnasa~ggraham|\nyathA copadishantyAptAH pratyakShaM gRuhyate yathA||13||\nye yathA cAnumAnena j~jeyAstAMshcApyudAradhIH|\nbhAvAMstrirogavij~jAne vimAne muniruktavAn||14||",
+            "html": "<p>tatra shlokau- \nsarvarogavisheShANAM trividhaM j~jAnasa~ggraham| \nyathA copadishantyAptAH pratyakShaM gRuhyate yathA||13|| \nye yathA cAnumAnena j~jeyAstAMshcApyudAradhIH| \nbhAvAMstrirogavij~jAne vimAne muniruktavAn||14||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "To sum up again,",
+            "html": "<p>To sum up again, \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Three methods for the determination of all types of diseases are - factors understood by the instructions of apta (sages), by direct observation and inference, along with the methods prescribed in respective chapters for specific subject.[13-14]",
+            "html": "<p>Three methods for the determination of all types of diseases are - factors understood by the instructions of <i>apta</i> (sages), by direct observation and inference, along with the  methods prescribed in respective chapters for specific subject.[13-14]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "इत्यग्निवेशकृते तन्त्रे चरकप्रतिसंस्कृते विमानस्थाने\nत्रिविधरोगविशेषविज्ञानीयं विमानं नाम चतुर्थोऽध्यायः||४||",
+            "html": "<p>इत्यग्निवेशकृते तन्त्रे चरकप्रतिसंस्कृते विमानस्थाने \nत्रिविधरोगविशेषविज्ञानीयं विमानं नाम चतुर्थोऽध्यायः||४||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "ityagnivēśakr̥tē tantrē carakapratisaṁskr̥tē vimānasthānē trividharōgaviśēṣavijñānīyaṁ vimānaṁ nāma caturthō'dhyāyaḥ||4||",
+            "html": "<p>ityagnivēśakr̥tē tantrē  carakapratisaṁskr̥tē vimānasthānē  trividharōgaviśēṣavijñānīyaṁ  vimānaṁ  nāma caturthō'dhyāyaḥ||4|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Thus ends the fourth chapter of Vimana Sthana on “The determination of the three factors for understanding the specific characteristics of diseases” of Agnivesha’s work as redacted by Charak.",
+            "html": "<p>Thus ends the fourth chapter of <a href=\"/index.php?title=Vimana_Sthana\" title=\"Vimana Sthana\">Vimana Sthana</a> on “The determination of the three factors for understanding the specific characteristics of diseases” of Agnivesha’s work as redacted by Charak.\n</p>",
+            "links": [
+                {
+                    "text": "Vimana Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Tattva Vimarsha (Fundamental Principles)",
+            "html": "<h2><span id=\"Tattva_Vimarsha_.28Fundamental_Principles.29\"></span><span class=\"mw-headline\" id=\"Tattva_Vimarsha_(Fundamental_Principles)\">Tattva Vimarsha (Fundamental Principles)</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ul",
+            "text": "Diagnosis of a disease should be done thoroughly using the trividha pariksha consisting of aptopadesha (authoritative knowledge), Pratyaksha (physical examination by direct observation) and Anumana (interpretation, evaluation and assessment).",
+            "html": "<ul><li>Diagnosis of a disease should be done thoroughly using the <i>trividha pariksha</i> consisting of <a href=\"/index.php?title=Aaptopadesha_pramana\" title=\"Aaptopadesha pramana\">aptopadesha</a> (authoritative knowledge), <a href=\"/index.php?title=Pratyaksha_pramana\" title=\"Pratyaksha pramana\">Pratyaksha</a> (physical examination by direct observation) and <a href=\"/index.php?title=Anumana_pramana\" title=\"Anumana pramana\">Anumana</a> (interpretation, evaluation and assessment).</li></ul>",
+            "links": [
+                {
+                    "text": "aptopadesha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Aaptopadesha_pramana"
+                },
+                {
+                    "text": "Pratyaksha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pratyaksha_pramana"
+                },
+                {
+                    "text": "Anumana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Anumana_pramana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Diagnosis of a disease should be done thoroughly using the trividha pariksha consisting of aptopadesha (authoritative knowledge), Pratyaksha (physical examination by direct observation) and Anumana (interpretation, evaluation and assessment).",
+                    "links": [
+                        {
+                            "text": "aptopadesha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Aaptopadesha_pramana"
+                        },
+                        {
+                            "text": "Pratyaksha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pratyaksha_pramana"
+                        },
+                        {
+                            "text": "Anumana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Anumana_pramana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Vidhi Vimarsha (Applied Inferences)",
+            "html": "<h2><span id=\"Vidhi_Vimarsha_.28Applied_Inferences.29\"></span><span class=\"mw-headline\" id=\"Vidhi_Vimarsha_(Applied_Inferences)\">Vidhi Vimarsha (Applied Inferences)</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "h3",
+            "text": "Methods of clinical examination",
+            "html": "<h3><span class=\"mw-headline\" id=\"Methods_of_clinical_examination\">Methods of clinical examination</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "This chapter solely deals with the methods of clinical examination of the patient. Various types of examinations viz. examination of disease (roga pariksha), patient (rogi pariksha), three types of examination (trividha pariksha), six types (shadvidha pariksha), eight types (ashtavidha pariksha), and ten types (dashavidha pariksha) are described in Ayurveda for the examination of the patient and the diagnosis of the disease. All these examinations can be included under umbrella of three types (trividha pariksha) described in this chapter.",
+            "html": "<p>This chapter solely deals with the methods of clinical examination of the patient. Various types of examinations viz. examination of disease (roga pariksha), patient (rogi pariksha), three types of examination (trividha pariksha), six types (shadvidha pariksha), eight types (ashtavidha pariksha), and ten types (dashavidha pariksha) are described in  <a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a> for the examination of the patient and the diagnosis of the disease. All these examinations can be included under umbrella of three types (trividha pariksha) described in this chapter. \n</p>",
+            "links": [
+                {
+                    "text": "Ayurveda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayurveda"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h4",
+            "text": "Authoritative instructions (Aptopadesha)",
+            "html": "<h4><span id=\"Authoritative_instructions_.28Aptopadesha.29\"></span><span class=\"mw-headline\" id=\"Authoritative_instructions_(Aptopadesha)\">Authoritative instructions (Aptopadesha)</span></h4>",
+            "links": [],
+            "images": [],
+            "level": 4
+        },
+        {
+            "type": "p",
+            "text": "The experience based knowledge by authorities ( aptopadesha ) gives all the details of the disease i.e. its causative factors, pathogenesis and treatment and thus, provides all the theoretical knowledge of the disease which is helpful during clinical examination.",
+            "html": "<p>The experience based knowledge by authorities (<a href=\"/index.php?title=Aaptopadesha_pramana\" title=\"Aaptopadesha pramana\">aptopadesha</a>) gives all the details of the disease i.e. its causative factors, pathogenesis and treatment and thus, provides all the theoretical knowledge of the disease which is helpful during clinical examination. \n</p>",
+            "links": [
+                {
+                    "text": "aptopadesha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Aaptopadesha_pramana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h4",
+            "text": "Direct perception (Pratyaksha)",
+            "html": "<h4><span id=\"Direct_perception_.28Pratyaksha.29\"></span><span class=\"mw-headline\" id=\"Direct_perception_(Pratyaksha)\">Direct perception (Pratyaksha)</span></h4>",
+            "links": [],
+            "images": [],
+            "level": 4
+        },
+        {
+            "type": "p",
+            "text": "Knowledge by direct perception ( Pratyaksha ) deals with direct examination of the patient by the physician. The physician has to use all his senses during the examination, in which he has to look for various signs and symptoms, changes in the color etc. Any information collected through inference (anumana) and direct perception ( Pratyaksha ) provide only limited details of existing pathologies in the body. Now the physician has to use his own intellect and tries to establish the relation between the signs and symptoms and the likely pathologies in the body. He has to use his logic and reasoning and apply it properly in finalizing the vitiated dosha in the body.",
+            "html": "<p>Knowledge by direct perception (<a href=\"/index.php?title=Pratyaksha_pramana\" title=\"Pratyaksha pramana\">Pratyaksha</a>) deals with direct examination of the patient by the physician. The physician has to use all his senses during the examination, in which he has to look for various signs and symptoms, changes in the color etc. Any information collected through inference (anumana) and direct perception (<a href=\"/index.php?title=Pratyaksha_pramana\" title=\"Pratyaksha pramana\">Pratyaksha</a>) provide only limited details of existing pathologies in the body. Now the physician has to use his own intellect and tries to establish the relation between the signs and symptoms and the likely pathologies in the body. He has to use his logic and reasoning and apply it properly in finalizing the vitiated <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> in the body. \n</p>",
+            "links": [
+                {
+                    "text": "Pratyaksha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pratyaksha_pramana"
+                },
+                {
+                    "text": "Pratyaksha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pratyaksha_pramana"
+                },
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h4",
+            "text": "Inference",
+            "html": "<h4><span class=\"mw-headline\" id=\"Inference\">Inference</span></h4>",
+            "links": [],
+            "images": [],
+            "level": 4
+        },
+        {
+            "type": "p",
+            "text": "Inference (anumana) helps the physician to deduce and draw inferences, where it is not possible to visualize or see, in order to draw certain conclusions or understand causation of an ailment.",
+            "html": "<p>Inference (anumana) helps the physician to deduce and draw inferences, where it is not possible to visualize or see, in order to draw certain conclusions or understand causation of an ailment. \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The methods of clinical examination are comprehensively described in this chapter. In Ayurveda , emphasis is given to the use of the five senses in examining a patient. First hand information gathered through the physical examination by five senses is critical to the process of diagnosis. These three types of examinations are also used to assess bad prognosis of the disease and to identify the arishta (signs and symptoms of imminent death) also. [Cha.Sa. Indriya Sthana 1/4]",
+            "html": "<p>The methods of clinical examination are comprehensively described in this chapter. In <a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a>, emphasis is given to the use of the five senses in examining a patient. First hand information gathered through the physical examination by five senses is critical to the process of diagnosis. These three types of examinations are also used to assess bad prognosis of the disease and to identify the <a href=\"/index.php?title=Arishta\" title=\"Arishta\">arishta</a> (signs and symptoms of imminent death) also. [Cha.Sa. <a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 1/4] \n</p>",
+            "links": [
+                {
+                    "text": "Ayurveda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayurveda"
+                },
+                {
+                    "text": "arishta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Arishta"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Updates from Ayurveda texts",
+            "html": "<h3><span class=\"mw-headline\" id=\"Updates_from_Ayurveda_texts\">Updates from Ayurveda texts</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "In other texts of Ayurveda, various references of one type, two types, three types, four types, six types, eight types, ten types, eleven types, and twelve types of examination of the patient are described. Some important are as given below:\ni)In Sushruta samhita,three fold like inspection(darshana), palpation (sparshana) and interrogation (prashana) are described. Six fold examination (5 sense ( indriya ) and interrogation (prashana pareeksha)) is also described.\nii)Yogaratnakar text describes eight fold examination viz. pulse(nadi), bowel habit/stool examination ( mala ), urine examination ( mutra ), tongue (jihwa), sound (shabda), touch (sparsha), sight (drik) and features (akriti). This is widely used in general examination of the patient.",
+            "html": "<p>In other texts of Ayurveda, various references of one type, two types, three types, four types, six types, eight types, ten types, eleven types, and twelve types of examination of the patient are described. Some important are as given below:\ni)In Sushruta samhita,three fold like inspection(darshana), palpation (sparshana) and interrogation (prashana) are described. Six fold examination (5 sense (<a href=\"/index.php?title=Indriya\" title=\"Indriya\">indriya</a>) and interrogation (prashana pareeksha)) is also described.\nii)Yogaratnakar text describes eight fold examination viz. pulse(nadi), bowel habit/stool examination (<a href=\"/index.php?title=Mala\" title=\"Mala\">mala</a>), urine examination (<a href=\"/index.php?title=Mutra\" title=\"Mutra\">mutra</a>), tongue (jihwa), sound (shabda), touch (sparsha), sight (drik) and features (akriti). This is widely used in general examination of the patient.\n</p>",
+            "links": [
+                {
+                    "text": "indriya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya"
+                },
+                {
+                    "text": "mala",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mala"
+                },
+                {
+                    "text": "mutra",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mutra"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Contemporary methods",
+            "html": "<h3><span class=\"mw-headline\" id=\"Contemporary_methods\">Contemporary methods</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Examinations like inspection, palpation, percussion and auscultation are part of direct perception ( Pratyaksha pariksha). Nowadays, various new techniques like X-ray, USG, CT Scan, MRI etc. are in use that augment direct perception. Abnormal findings suggest the underlying pathologies in the body with the use of inference (anumana pariksha). But over-dependence on technology has made the doctors move away from the use of their sensory perception and from prima facie clinical diagnosis. Excessive use of technology makes the process of diagnosis more complicated, costly and time consuming. The most important disadvantage of using technology is that it is reducing the use of logic and reasoning ( yukti ) by a physician. It also has influence on the doctor patient relationship. The most important thing which has been described is to perceive in to the soul of the patient to make correct diagnosis and is somewhere missing due to excessive use of technology. Proper use of the three types (trividha pariksha) by a physician with required use of technology, will help him to reach up to the diagnosis immediately, correctly and will also be cost effective to the patient.",
+            "html": "<p>Examinations like inspection, palpation, percussion and auscultation are part of direct perception (<a href=\"/index.php?title=Pratyaksha_pramana\" title=\"Pratyaksha pramana\">Pratyaksha</a> pariksha). Nowadays, various new techniques like X-ray, USG, CT Scan, MRI etc. are in use that augment direct perception. Abnormal findings suggest the underlying pathologies in the body with the use of inference (anumana pariksha). But over-dependence on technology has made the doctors move away from the use of their sensory perception and from prima facie clinical diagnosis. Excessive use of technology makes the process of diagnosis more complicated, costly and time consuming. The most important disadvantage of using technology is that it is reducing the use of logic and reasoning (<a class=\"mw-redirect\" href=\"/index.php?title=Yukti\" title=\"Yukti\">yukti</a>) by a physician. It also has influence on the doctor patient relationship. The most important thing which has been described is to perceive in to the soul of the patient to make correct diagnosis and is somewhere missing due to excessive use of technology. Proper use of the three types (trividha pariksha) by a physician with required use of technology, will help him to reach up to the diagnosis immediately, correctly and will also be cost effective to the patient.\n</p>",
+            "links": [
+                {
+                    "text": "Pratyaksha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pratyaksha_pramana"
+                },
+                {
+                    "text": "yukti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Yukti"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Principles of knowledge of new diseases (anukta vyadhi)",
+            "html": "<h3><span id=\"Principles_of_knowledge_of_new_diseases_.28anukta_vyadhi.29\"></span><span class=\"mw-headline\" id=\"Principles_of_knowledge_of_new_diseases_(anukta_vyadhi)\">Principles of knowledge of new diseases (anukta vyadhi)</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "The disease which are not described in the Ayurveda texts or newly introduced disease can be identified by applying the principles described in this chapter. It can be applied for knowing the complete details of the newer diseases including treatment.",
+            "html": "<p>The disease which are not described in the Ayurveda texts or newly introduced disease can be identified by applying the principles described in this chapter. It can be applied  for knowing the complete details of the newer diseases including treatment. \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Fundamental principles of clinical research",
+            "html": "<h3><span class=\"mw-headline\" id=\"Fundamental_principles_of_clinical_research\">Fundamental principles of clinical research</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "This chapter also mentions fundamental principles of clinical research. The methods of diagnosis of disease and examination of patient can be applied in clinical research.",
+            "html": "<p>This chapter also mentions fundamental principles of clinical research. The methods of diagnosis of disease and examination of patient can be applied in clinical research. \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Scope of further research",
+            "html": "<h3><span class=\"mw-headline\" id=\"Scope_of_further_research\">Scope of further research</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "There is a wide scope of research on the following topics and concepts described in this chapter:",
+            "html": "<p>There is a wide scope of research on the following topics and concepts described in this chapter:\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "ol",
+            "text": "Principle of Clinical Research in Ayurveda Clinical Diagnosis in Ayurveda Principle of development of tools for examination of the patients Principle of detailed description of newer/unknown diseases",
+            "html": "<ol><li>Principle of Clinical Research in Ayurveda</li>\n<li>Clinical Diagnosis in Ayurveda</li>\n<li>Principle of development of tools for examination of the patients</li>\n<li>Principle of detailed description of newer/unknown diseases</li></ol>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Principle of Clinical Research in Ayurveda",
+                    "links": []
+                },
+                {
+                    "text": "Clinical Diagnosis in Ayurveda",
+                    "links": []
+                },
+                {
+                    "text": "Principle of development of tools for examination of the patients",
+                    "links": []
+                },
+                {
+                    "text": "Principle of detailed description of newer/unknown diseases",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "h3",
+            "text": "Related chapters",
+            "html": "<h3><span class=\"mw-headline\" id=\"Related_chapters\">Related chapters</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Tistraishaniya Adhyaya , Rogabhishagjitiya Vimana",
+            "html": "<p><a href=\"/index.php?title=Tistraishaniya_Adhyaya\" title=\"Tistraishaniya Adhyaya\">Tistraishaniya Adhyaya</a> , <a href=\"/index.php?title=Rogabhishagjitiya_Vimana\" title=\"Rogabhishagjitiya Vimana\">Rogabhishagjitiya Vimana</a>\n</p>",
+            "links": [
+                {
+                    "text": "Tistraishaniya Adhyaya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tistraishaniya_Adhyaya"
+                },
+                {
+                    "text": "Rogabhishagjitiya Vimana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rogabhishagjitiya_Vimana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Further reading",
+            "html": "<h2><span class=\"mw-headline\" id=\"Further_reading\">Further reading</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ol",
+            "text": "Patwardhan B, Warude D, Pushpangadan P, Bhatt N. Ayurveda and traditional Chinese medicine: -A comparative overview. Evid Based Complement Alternat Med. 2005;2:465–73. Trochim, William M. The Research Methods Knowledge Base. 2nd ed. Fitzpatrick R, Davey C, Buxton MJ, Jones DR. Evaluating patient-based outcome measures for use in clinical trials. (1-74).Health Technol Assess. 1998;2:i–iv. Streiner DL, Norman GR. 3rd ed. New York: Oxford University Press Inc; 2003. Health Measurement Scales: A Practical Guide to Their Development and Use. Dunn G. 2nd ed. London, UK: Arnold; 2004. Statistical Evaluation of Measurement Errors: Design and Analysis of Reliability Studies. Lee SW, Jang ES, Lee J, Kim JY. Current researches on the methods of diagnosing sasang constitution: An overview. Evid Based Complement Alternat Med. 2009;6:43–9. Joshua AM, Celermajer DS, Stockler MR. Beauty is in the eye of the examiner: Reaching agreement about physical signs and their value. Intern Med J. 2005;35:178–87. O’Brien KA, Birch S. A review of the reliability of traditional East Asian medicine diagnoses. J Altern Complement Med. 2009;15:353–66. Zaslawski C. Clinical reasoning in traditional Chinese medicine: Implications for clinical research. Clin Acupunct Orient Med. 2003;4:94–101. Brenner H. Measures of differential diagnostic value of diagnostic procedures. J Clin Epidemiol. 1996;49:1435–9. Kraemer HC. Newbury Park, California: Sage; 1992. Evaluating Medical Tests: Objective and Quantitative Guidelines. Gregory RJ. 5th ed. Boston, MA: Pearson; 2007. Psychological testing: History, principles, and applications. Saini KK, Sehgal RK, Sethi BL. Evaluation of general classes of reliability estimators often used in statistical analyses of quasi-experimental designs. AIP Conf Proc. 2008;1052:58–62. de Vet HC, Terwee CB, Knol DL, Bouter LM. When to use agreement versus reliability measures. J Clin Epidemiol. 2006;59:1033–9. Kottner J, Audige L, Brorson S, Donner A, Gajewski BJ, Hróbjartsson A, et al. Guidelines for Reporting Reliability and Agreement Studies (GRRAS) were proposed. Int J Nurs Stud. 2011;48:661–71. Mattu GS, Perry TL, Jr, Wright JM. Comparison of the oscillometric blood pressure monitor (BPM-100(Beta)) with the auscultatory mercury sphygmomanometer. Blood Press Monit. 2001;6:153–9. Bland JM, Altman DG. Measuring agreement in method comparison studies. Stat Methods Med Res. 1999;8:135–60. Yoo JH, Kim JW, Kim KK, Kim JY, Koh BH, Lee EJ. Sasangin diagnosis questionnaire: Test of reliability. J Altern Complement Med. 2007;13:111–22. Abramson JH. New York: Churchill Livingstone; 1990. Surveys Methods in Community Medicine; p. 138.] Jang E, Baek Y, Park K, Lee S. Could the Sasang constitution itself be a risk factor of abdominal obesity? BMC Complement Altern Med. 2013;13:72. Kurande VH, Waagepetersen R, Toft E, Prasad R, Raturi L. Repeatability of pulse diagnosis and body constitution diagnosis in traditional indian ayurveda medicine. Glob Adv Health Med. 2012;1:34–40. Kurande VH, Waagepetersen R, Toft E, Prasad R. Reliability of pulse diagnosis in traditional indian ayurveda medicine. 8th Annual Congress of the International Society for Complementary Medicine Research (ISCMR). Res Complement Med/Forsch Komplementmed. 2013;20(Suppl 1):1–9. Kim M, Cobbin D, Zaslawski C. Traditional Chinese medicine tongue inspection: An examination of the inter-and intrapractitioner reliability for specific tongue characteristics. J Altern Complement Med. 2008;14:527–36. O’Brien KA, Abbas E, Movsessian P, Hook M, Komesaroff PA, Birch S. Investigating the reliability of Japanese toyohari meridian therapy diagnosis. J Altern Complement Med. 2009;15:1099–105. Wickström G, Bendix T. The “Hawthorne effect” – What did the original Hawthorne studies actually show? Scand J Work Environ Health. 2000;26:363–7.] McGraw KO, Wong SP. Forming inferences about some intraclass correlation coefficients. Psychol Meth. 1996;1:30e46.] Fleiss JL, Levin B, Paik MC. 3rd ed. Hoboken, NJ: Wiley; 2003. Statistical Methods for Rates and Proportions.] Viera AJ, Garrett JM. Understanding interobserver agreement: The kappa statistic. Fam Med. 2005;37:360–3. Landis JR, Koch GG. The measurement of observer agreement for categorical data. Biometrics. 1977;33:159–74. Cohen J. Weighted kappa: Nominal scale agreement with provision for scaled disagreement or partial credit. Psychol Bull. 1968;70:213–20.] Altman DG. London: Chapman and Hall; 1996. Practical Statistics for Medical Research.] Brar BS, Chhibber R, Srinivasa VM, Dearing BA, McGowan R, Katz RV. Use of Ayurvedic diagnostic criteria in Ayurvedic clinical trials: A literature review focused on research methods. J Altern Complement Med. 2012;18:20–8.] Sharma AK, Kumar R, Mishra A, Gupta R. Problems associated with clinical trials of ayurvedic medicines. Braz J Pharmacogn. 2010;20:276–81. Bhushan P, Kalpana J, Arvind C. Classification of human population based on HLA gene polymorphism and the concept of Prakriti in Ayurveda. J Altern Complement Med. 2005;11:349–53. Prasher B, Negi S, Aggarwal S, Mandal AK, Sethi TP, Deshmukh SR, et al. Whole genome expression and biochemical correlates of extreme constitutional types defined in Ayurveda. J Transl Med. 2008;6:48. Rastogi S. Development and validation of a Prototype Prakriti Analysis Tool (PPAT): Inferences from a pilot study. Ayu. 2012;33:209–18. Jang E, Kim JY, Lee H, Kim H, Baek Y, Lee S. A study on the reliability of sasang constitutional body trunk measurement. Evid Based Complement Alternat Med 2012. 2012 604842. Ryu H, Lee H, Kim H, Kim J. Reliability and validity of a cold-heat pattern questionnaire for traditional Chinese medicine. J Altern Complement Med. 2010;16:663–7. Dhruva A, Adler S, Weaver J, Acree M, Miaskowski C, Abrams D, et al. Mixed methods approaches in whole systems research: a study of ayurvedic diagnostics. BMC Complement Altern Med. 2012;12(Suppl 1):378. King E, Cobbin D, Walsh S, Ryan D. The reliable measurement of radial pulse characteristics. Acupunct Med. 2002;20:150–9. Kim J, Han GJ, Choi BH, Park JW, Park K, Yeo IK, et al. Development of differential criteria on tongue coating thickness in tongue diagnosis. Complement Ther Med. 2012;20:316–22. MacPherson H, Thorpe L, Thomas K, Campbell M. Acupuncture for low back pain: Traditional diagnosis and treatment of 148 patients in a clinical trial. Complement Ther Med. 2004;12:38–44. Zell B, Hirata J, Marcus A, Ettinger B, Pressman A, Ettinger KM. Diagnosis of symptomatic postmenopausal women by traditional Chinese medicine practitioners. Menopause. 2000;7:129–34. Sung JJ, Leung WK, Ching JY, Lao L, Zhang G, Wu JC, et al. Agreements among traditional Chinese medicine practitioners in the diagnosis and treatment of irritable bowel syndrome. Aliment Pharmacol Ther. 2004;20:1205–10. Coeytaux RR, Chen W, Lindemuth CE, Tan Y, Reilly AC. Variability in the diagnosis and point selection for persons with frequent headache by traditional Chinese medicine acupuncturists. J Altern Complement Med. 2006;12:863–72. Prlic HM, Lehman AJ, Cibere J, Sodhi V, Varma S, Sukumaran T, et al. Agreement among Ayurvedic practitioners in the identification and treatment of three cases of inflammatory arthritis. Clin Exp Rheumatol. 2003;21:747–52. Miller TP, Brennan TA, Milstein A. How can we make more progress in measuring physicians’ performance to improve the value of care? Health Aff (Millwood) 2009;28:1429–37. Patwardhan K, Gehlot S, Singh G, Rathore HC. Global challenges of graduate level Ayurvedic education: A survey. Int J Ayurveda Res. 2010;1:49–54. Furst DE, Venkatraman MM, McGann M, Manohar PR, Booth-LaForce C, Sarin R, et al. Double-blind, randomized, controlled, pilot study comparing classic ayurvedic medicine, methotrexate, and their combination in rheumatoid arthritis. J Clin Rheumatol. 2011;17:185–92. Tuijn S, Janssens F, Robben P, van den Bergh H. Reducing interrater variability and improving health care: A meta-analytical review. J Eval Clin Pract. 2012;18:887–95. Zhang GG, Lee WL, Lao L, Bausell B, Berman B, Handwerger B. The variability of TCM pattern diagnosis and herbal prescription on rheumatoid arthritis patients. Altern Ther Health Med. 2004;10:58–63. Zhang GG, Lee W, Bausell B, Lao L, Handwerger B, Berman B. Variability in the traditional Chinese medicine (TCM) diagnoses and herbal prescriptions provided by three TCM practitioners for 40 patients with rheumatoid arthritis. J Altern Complement Med. 2005;11:415–21. Zhang GG, Singh B, Lee W, Handwerger B, Lao L, Berman B. Improvement of agreement in TCM diagnosis among TCM practitioners for persons with the conventional diagnosis of rheumatoid arthritis: Effect of training. J Altern Complement Med. 2008;14:381–6. Perloff D, Grim C, Flack J, Frolich ED, Hill M, McDonald M, et al. Human blood pressure determination by sphygmomanometry. Circulation. 1993;88:2460–7.",
+            "html": "<ol><li>Patwardhan B, Warude D, Pushpangadan P, Bhatt N. Ayurveda and traditional Chinese medicine: -A comparative overview. Evid Based Complement Alternat Med. 2005;2:465–73.</li>\n<li>Trochim, William M. The Research Methods Knowledge Base. 2nd ed.</li>\n<li>Fitzpatrick R, Davey C, Buxton MJ, Jones DR. Evaluating patient-based outcome measures for use in clinical trials. (1-74).Health Technol Assess. 1998;2:i–iv.</li>\n<li>Streiner DL, Norman GR. 3rd ed. New York: Oxford University Press Inc; 2003. Health Measurement Scales: A Practical Guide to Their Development and Use.</li>\n<li>Dunn G. 2nd ed. London, UK: Arnold; 2004. Statistical Evaluation of Measurement Errors: Design and Analysis of Reliability Studies.</li>\n<li>Lee SW, Jang ES, Lee J, Kim JY. Current researches on the methods of diagnosing sasang constitution: An overview. Evid Based Complement Alternat Med. 2009;6:43–9.</li>\n<li>Joshua AM, Celermajer DS, Stockler MR. Beauty is in the eye of the examiner: Reaching agreement about physical signs and their value. Intern Med J. 2005;35:178–87.</li>\n<li>O’Brien KA, Birch S. A review of the reliability of traditional East Asian medicine diagnoses. J Altern Complement Med. 2009;15:353–66.</li>\n<li>Zaslawski C. Clinical reasoning in traditional Chinese medicine: Implications for clinical research. Clin Acupunct Orient Med. 2003;4:94–101.</li>\n<li>Brenner H. Measures of differential diagnostic value of diagnostic procedures. J Clin Epidemiol. 1996;49:1435–9.</li>\n<li>Kraemer HC. Newbury Park, California: Sage; 1992. Evaluating Medical Tests: Objective and Quantitative Guidelines.</li>\n<li>Gregory RJ. 5th ed. Boston, MA: Pearson; 2007. Psychological testing: History, principles, and applications.</li>\n<li>Saini KK, Sehgal RK, Sethi BL. Evaluation of general classes of reliability estimators often used in statistical analyses of quasi-experimental designs. AIP Conf Proc. 2008;1052:58–62.</li>\n<li>de Vet HC, Terwee CB, Knol DL, Bouter LM. When to use agreement versus reliability measures. J Clin Epidemiol. 2006;59:1033–9.</li>\n<li>Kottner J, Audige L, Brorson S, Donner A, Gajewski BJ, Hróbjartsson A, et al. Guidelines for Reporting Reliability and Agreement Studies (GRRAS) were proposed. Int J Nurs Stud. 2011;48:661–71.</li>\n<li>Mattu GS, Perry TL, Jr, Wright JM. Comparison of the oscillometric blood pressure monitor (BPM-100(Beta)) with the auscultatory mercury sphygmomanometer. Blood Press Monit. 2001;6:153–9.</li>\n<li>Bland JM, Altman DG. Measuring agreement in method comparison studies. Stat Methods Med Res. 1999;8:135–60.</li>\n<li>Yoo JH, Kim JW, Kim KK, Kim JY, Koh BH, Lee EJ. Sasangin diagnosis questionnaire: Test of reliability. J Altern Complement Med. 2007;13:111–22.</li>\n<li>Abramson JH. New York: Churchill Livingstone; 1990. Surveys Methods in Community Medicine; p. 138.]</li>\n<li>Jang E, Baek Y, Park K, Lee S. Could the Sasang constitution itself be a risk factor of abdominal obesity? BMC Complement Altern Med. 2013;13:72.</li>\n<li>Kurande VH, Waagepetersen R, Toft E, Prasad R, Raturi L. Repeatability of pulse diagnosis and body constitution diagnosis in traditional indian ayurveda medicine. Glob Adv Health Med. 2012;1:34–40.</li>\n<li>Kurande VH, Waagepetersen R, Toft E, Prasad R. Reliability of pulse diagnosis in traditional indian ayurveda medicine. 8th Annual Congress of the International Society for Complementary Medicine Research (ISCMR). Res Complement Med/Forsch Komplementmed. 2013;20(Suppl 1):1–9.</li>\n<li>Kim M, Cobbin D, Zaslawski C. Traditional Chinese medicine tongue inspection: An examination of the inter-and intrapractitioner reliability for specific tongue characteristics. J Altern Complement Med. 2008;14:527–36.</li>\n<li>O’Brien KA, Abbas E, Movsessian P, Hook M, Komesaroff PA, Birch S. Investigating the reliability of Japanese toyohari meridian therapy diagnosis. J Altern Complement Med. 2009;15:1099–105.</li>\n<li>Wickström G, Bendix T. The “Hawthorne effect” – What did the original Hawthorne studies actually show? Scand J Work Environ Health. 2000;26:363–7.]</li>\n<li>McGraw KO, Wong SP. Forming inferences about some intraclass correlation coefficients. Psychol Meth. 1996;1:30e46.]</li>\n<li>Fleiss JL, Levin B, Paik MC. 3rd ed. Hoboken, NJ: Wiley; 2003. Statistical Methods for Rates and Proportions.]</li>\n<li>Viera AJ, Garrett JM. Understanding interobserver agreement: The kappa statistic. Fam Med. 2005;37:360–3.</li>\n<li>Landis JR, Koch GG. The measurement of observer agreement for categorical data. Biometrics. 1977;33:159–74.</li>\n<li>Cohen J. Weighted kappa: Nominal scale agreement with provision for scaled disagreement or partial credit. Psychol Bull. 1968;70:213–20.]</li>\n<li>Altman DG. London: Chapman and Hall; 1996. Practical Statistics for Medical Research.]</li>\n<li>Brar BS, Chhibber R, Srinivasa VM, Dearing BA, McGowan R, Katz RV. Use of Ayurvedic diagnostic criteria in Ayurvedic clinical trials: A literature review focused on research methods. J Altern Complement Med. 2012;18:20–8.]</li>\n<li>Sharma AK, Kumar R, Mishra A, Gupta R. Problems associated with clinical trials of ayurvedic medicines. Braz J Pharmacogn. 2010;20:276–81.</li>\n<li>Bhushan P, Kalpana J, Arvind C. Classification of human population based on HLA gene polymorphism and the concept of Prakriti in Ayurveda. J Altern Complement Med. 2005;11:349–53.</li>\n<li>Prasher B, Negi S, Aggarwal S, Mandal AK, Sethi TP, Deshmukh SR, et al. Whole genome expression and biochemical correlates of extreme constitutional types defined in Ayurveda. J Transl Med. 2008;6:48.</li>\n<li>Rastogi S. Development and validation of a Prototype Prakriti Analysis Tool (PPAT): Inferences from a pilot study. Ayu. 2012;33:209–18.</li>\n<li>Jang E, Kim JY, Lee H, Kim H, Baek Y, Lee S. A study on the reliability of sasang constitutional body trunk measurement. Evid Based Complement Alternat Med 2012. 2012 604842.</li>\n<li>Ryu H, Lee H, Kim H, Kim J. Reliability and validity of a cold-heat pattern questionnaire for traditional Chinese medicine. J Altern Complement Med. 2010;16:663–7.</li>\n<li>Dhruva A, Adler S, Weaver J, Acree M, Miaskowski C, Abrams D, et al. Mixed methods approaches in whole systems research: a study of ayurvedic diagnostics. BMC Complement Altern Med. 2012;12(Suppl 1):378.</li>\n<li>King E, Cobbin D, Walsh S, Ryan D. The reliable measurement of radial pulse characteristics. Acupunct Med. 2002;20:150–9.</li>\n<li>Kim J, Han GJ, Choi BH, Park JW, Park K, Yeo IK, et al. Development of differential criteria on tongue coating thickness in tongue diagnosis. Complement Ther Med. 2012;20:316–22.</li>\n<li>MacPherson H, Thorpe L, Thomas K, Campbell M. Acupuncture for low back pain: Traditional diagnosis and treatment of 148 patients in a clinical trial. Complement Ther Med. 2004;12:38–44.</li>\n<li>Zell B, Hirata J, Marcus A, Ettinger B, Pressman A, Ettinger KM. Diagnosis of symptomatic postmenopausal women by traditional Chinese medicine practitioners. Menopause. 2000;7:129–34.</li>\n<li>Sung JJ, Leung WK, Ching JY, Lao L, Zhang G, Wu JC, et al. Agreements among traditional Chinese medicine practitioners in the diagnosis and treatment of irritable bowel syndrome. Aliment Pharmacol Ther. 2004;20:1205–10.</li>\n<li>Coeytaux RR, Chen W, Lindemuth CE, Tan Y, Reilly AC. Variability in the diagnosis and point selection for persons with frequent headache by traditional Chinese medicine acupuncturists. J Altern Complement Med. 2006;12:863–72.</li>\n<li>Prlic HM, Lehman AJ, Cibere J, Sodhi V, Varma S, Sukumaran T, et al. Agreement among Ayurvedic practitioners in the identification and treatment of three cases of inflammatory arthritis. Clin Exp Rheumatol. 2003;21:747–52.</li>\n<li>Miller TP, Brennan TA, Milstein A. How can we make more progress in measuring physicians’ performance to improve the value of care? Health Aff (Millwood) 2009;28:1429–37.</li>\n<li>Patwardhan K, Gehlot S, Singh G, Rathore HC. Global challenges of graduate level Ayurvedic education: A survey. Int J Ayurveda Res. 2010;1:49–54.</li>\n<li>Furst DE, Venkatraman MM, McGann M, Manohar PR, Booth-LaForce C, Sarin R, et al. Double-blind, randomized, controlled, pilot study comparing classic ayurvedic medicine, methotrexate, and their combination in rheumatoid arthritis. J Clin Rheumatol. 2011;17:185–92.</li>\n<li>Tuijn S, Janssens F, Robben P, van den Bergh H. Reducing interrater variability and improving health care: A meta-analytical review. J Eval Clin Pract. 2012;18:887–95.</li>\n<li>Zhang GG, Lee WL, Lao L, Bausell B, Berman B, Handwerger B. The variability of TCM pattern diagnosis and herbal prescription on rheumatoid arthritis patients. Altern Ther Health Med. 2004;10:58–63.</li>\n<li>Zhang GG, Lee W, Bausell B, Lao L, Handwerger B, Berman B. Variability in the traditional Chinese medicine (TCM) diagnoses and herbal prescriptions provided by three TCM practitioners for 40 patients with rheumatoid arthritis. J Altern Complement Med. 2005;11:415–21.</li>\n<li>Zhang GG, Singh B, Lee W, Handwerger B, Lao L, Berman B. Improvement of agreement in TCM diagnosis among TCM practitioners for persons with the conventional diagnosis of rheumatoid arthritis: Effect of training. J Altern Complement Med. 2008;14:381–6.</li>\n<li>Perloff D, Grim C, Flack J, Frolich ED, Hill M, McDonald M, et al. Human blood pressure determination by sphygmomanometry. Circulation. 1993;88:2460–7.</li></ol>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Patwardhan B, Warude D, Pushpangadan P, Bhatt N. Ayurveda and traditional Chinese medicine: -A comparative overview. Evid Based Complement Alternat Med. 2005;2:465–73.",
+                    "links": []
+                },
+                {
+                    "text": "Trochim, William M. The Research Methods Knowledge Base. 2nd ed.",
+                    "links": []
+                },
+                {
+                    "text": "Fitzpatrick R, Davey C, Buxton MJ, Jones DR. Evaluating patient-based outcome measures for use in clinical trials. (1-74).Health Technol Assess. 1998;2:i–iv.",
+                    "links": []
+                },
+                {
+                    "text": "Streiner DL, Norman GR. 3rd ed. New York: Oxford University Press Inc; 2003. Health Measurement Scales: A Practical Guide to Their Development and Use.",
+                    "links": []
+                },
+                {
+                    "text": "Dunn G. 2nd ed. London, UK: Arnold; 2004. Statistical Evaluation of Measurement Errors: Design and Analysis of Reliability Studies.",
+                    "links": []
+                },
+                {
+                    "text": "Lee SW, Jang ES, Lee J, Kim JY. Current researches on the methods of diagnosing sasang constitution: An overview. Evid Based Complement Alternat Med. 2009;6:43–9.",
+                    "links": []
+                },
+                {
+                    "text": "Joshua AM, Celermajer DS, Stockler MR. Beauty is in the eye of the examiner: Reaching agreement about physical signs and their value. Intern Med J. 2005;35:178–87.",
+                    "links": []
+                },
+                {
+                    "text": "O’Brien KA, Birch S. A review of the reliability of traditional East Asian medicine diagnoses. J Altern Complement Med. 2009;15:353–66.",
+                    "links": []
+                },
+                {
+                    "text": "Zaslawski C. Clinical reasoning in traditional Chinese medicine: Implications for clinical research. Clin Acupunct Orient Med. 2003;4:94–101.",
+                    "links": []
+                },
+                {
+                    "text": "Brenner H. Measures of differential diagnostic value of diagnostic procedures. J Clin Epidemiol. 1996;49:1435–9.",
+                    "links": []
+                },
+                {
+                    "text": "Kraemer HC. Newbury Park, California: Sage; 1992. Evaluating Medical Tests: Objective and Quantitative Guidelines.",
+                    "links": []
+                },
+                {
+                    "text": "Gregory RJ. 5th ed. Boston, MA: Pearson; 2007. Psychological testing: History, principles, and applications.",
+                    "links": []
+                },
+                {
+                    "text": "Saini KK, Sehgal RK, Sethi BL. Evaluation of general classes of reliability estimators often used in statistical analyses of quasi-experimental designs. AIP Conf Proc. 2008;1052:58–62.",
+                    "links": []
+                },
+                {
+                    "text": "de Vet HC, Terwee CB, Knol DL, Bouter LM. When to use agreement versus reliability measures. J Clin Epidemiol. 2006;59:1033–9.",
+                    "links": []
+                },
+                {
+                    "text": "Kottner J, Audige L, Brorson S, Donner A, Gajewski BJ, Hróbjartsson A, et al. Guidelines for Reporting Reliability and Agreement Studies (GRRAS) were proposed. Int J Nurs Stud. 2011;48:661–71.",
+                    "links": []
+                },
+                {
+                    "text": "Mattu GS, Perry TL, Jr, Wright JM. Comparison of the oscillometric blood pressure monitor (BPM-100(Beta)) with the auscultatory mercury sphygmomanometer. Blood Press Monit. 2001;6:153–9.",
+                    "links": []
+                },
+                {
+                    "text": "Bland JM, Altman DG. Measuring agreement in method comparison studies. Stat Methods Med Res. 1999;8:135–60.",
+                    "links": []
+                },
+                {
+                    "text": "Yoo JH, Kim JW, Kim KK, Kim JY, Koh BH, Lee EJ. Sasangin diagnosis questionnaire: Test of reliability. J Altern Complement Med. 2007;13:111–22.",
+                    "links": []
+                },
+                {
+                    "text": "Abramson JH. New York: Churchill Livingstone; 1990. Surveys Methods in Community Medicine; p. 138.]",
+                    "links": []
+                },
+                {
+                    "text": "Jang E, Baek Y, Park K, Lee S. Could the Sasang constitution itself be a risk factor of abdominal obesity? BMC Complement Altern Med. 2013;13:72.",
+                    "links": []
+                },
+                {
+                    "text": "Kurande VH, Waagepetersen R, Toft E, Prasad R, Raturi L. Repeatability of pulse diagnosis and body constitution diagnosis in traditional indian ayurveda medicine. Glob Adv Health Med. 2012;1:34–40.",
+                    "links": []
+                },
+                {
+                    "text": "Kurande VH, Waagepetersen R, Toft E, Prasad R. Reliability of pulse diagnosis in traditional indian ayurveda medicine. 8th Annual Congress of the International Society for Complementary Medicine Research (ISCMR). Res Complement Med/Forsch Komplementmed. 2013;20(Suppl 1):1–9.",
+                    "links": []
+                },
+                {
+                    "text": "Kim M, Cobbin D, Zaslawski C. Traditional Chinese medicine tongue inspection: An examination of the inter-and intrapractitioner reliability for specific tongue characteristics. J Altern Complement Med. 2008;14:527–36.",
+                    "links": []
+                },
+                {
+                    "text": "O’Brien KA, Abbas E, Movsessian P, Hook M, Komesaroff PA, Birch S. Investigating the reliability of Japanese toyohari meridian therapy diagnosis. J Altern Complement Med. 2009;15:1099–105.",
+                    "links": []
+                },
+                {
+                    "text": "Wickström G, Bendix T. The “Hawthorne effect” – What did the original Hawthorne studies actually show? Scand J Work Environ Health. 2000;26:363–7.]",
+                    "links": []
+                },
+                {
+                    "text": "McGraw KO, Wong SP. Forming inferences about some intraclass correlation coefficients. Psychol Meth. 1996;1:30e46.]",
+                    "links": []
+                },
+                {
+                    "text": "Fleiss JL, Levin B, Paik MC. 3rd ed. Hoboken, NJ: Wiley; 2003. Statistical Methods for Rates and Proportions.]",
+                    "links": []
+                },
+                {
+                    "text": "Viera AJ, Garrett JM. Understanding interobserver agreement: The kappa statistic. Fam Med. 2005;37:360–3.",
+                    "links": []
+                },
+                {
+                    "text": "Landis JR, Koch GG. The measurement of observer agreement for categorical data. Biometrics. 1977;33:159–74.",
+                    "links": []
+                },
+                {
+                    "text": "Cohen J. Weighted kappa: Nominal scale agreement with provision for scaled disagreement or partial credit. Psychol Bull. 1968;70:213–20.]",
+                    "links": []
+                },
+                {
+                    "text": "Altman DG. London: Chapman and Hall; 1996. Practical Statistics for Medical Research.]",
+                    "links": []
+                },
+                {
+                    "text": "Brar BS, Chhibber R, Srinivasa VM, Dearing BA, McGowan R, Katz RV. Use of Ayurvedic diagnostic criteria in Ayurvedic clinical trials: A literature review focused on research methods. J Altern Complement Med. 2012;18:20–8.]",
+                    "links": []
+                },
+                {
+                    "text": "Sharma AK, Kumar R, Mishra A, Gupta R. Problems associated with clinical trials of ayurvedic medicines. Braz J Pharmacogn. 2010;20:276–81.",
+                    "links": []
+                },
+                {
+                    "text": "Bhushan P, Kalpana J, Arvind C. Classification of human population based on HLA gene polymorphism and the concept of Prakriti in Ayurveda. J Altern Complement Med. 2005;11:349–53.",
+                    "links": []
+                },
+                {
+                    "text": "Prasher B, Negi S, Aggarwal S, Mandal AK, Sethi TP, Deshmukh SR, et al. Whole genome expression and biochemical correlates of extreme constitutional types defined in Ayurveda. J Transl Med. 2008;6:48.",
+                    "links": []
+                },
+                {
+                    "text": "Rastogi S. Development and validation of a Prototype Prakriti Analysis Tool (PPAT): Inferences from a pilot study. Ayu. 2012;33:209–18.",
+                    "links": []
+                },
+                {
+                    "text": "Jang E, Kim JY, Lee H, Kim H, Baek Y, Lee S. A study on the reliability of sasang constitutional body trunk measurement. Evid Based Complement Alternat Med 2012. 2012 604842.",
+                    "links": []
+                },
+                {
+                    "text": "Ryu H, Lee H, Kim H, Kim J. Reliability and validity of a cold-heat pattern questionnaire for traditional Chinese medicine. J Altern Complement Med. 2010;16:663–7.",
+                    "links": []
+                },
+                {
+                    "text": "Dhruva A, Adler S, Weaver J, Acree M, Miaskowski C, Abrams D, et al. Mixed methods approaches in whole systems research: a study of ayurvedic diagnostics. BMC Complement Altern Med. 2012;12(Suppl 1):378.",
+                    "links": []
+                },
+                {
+                    "text": "King E, Cobbin D, Walsh S, Ryan D. The reliable measurement of radial pulse characteristics. Acupunct Med. 2002;20:150–9.",
+                    "links": []
+                },
+                {
+                    "text": "Kim J, Han GJ, Choi BH, Park JW, Park K, Yeo IK, et al. Development of differential criteria on tongue coating thickness in tongue diagnosis. Complement Ther Med. 2012;20:316–22.",
+                    "links": []
+                },
+                {
+                    "text": "MacPherson H, Thorpe L, Thomas K, Campbell M. Acupuncture for low back pain: Traditional diagnosis and treatment of 148 patients in a clinical trial. Complement Ther Med. 2004;12:38–44.",
+                    "links": []
+                },
+                {
+                    "text": "Zell B, Hirata J, Marcus A, Ettinger B, Pressman A, Ettinger KM. Diagnosis of symptomatic postmenopausal women by traditional Chinese medicine practitioners. Menopause. 2000;7:129–34.",
+                    "links": []
+                },
+                {
+                    "text": "Sung JJ, Leung WK, Ching JY, Lao L, Zhang G, Wu JC, et al. Agreements among traditional Chinese medicine practitioners in the diagnosis and treatment of irritable bowel syndrome. Aliment Pharmacol Ther. 2004;20:1205–10.",
+                    "links": []
+                },
+                {
+                    "text": "Coeytaux RR, Chen W, Lindemuth CE, Tan Y, Reilly AC. Variability in the diagnosis and point selection for persons with frequent headache by traditional Chinese medicine acupuncturists. J Altern Complement Med. 2006;12:863–72.",
+                    "links": []
+                },
+                {
+                    "text": "Prlic HM, Lehman AJ, Cibere J, Sodhi V, Varma S, Sukumaran T, et al. Agreement among Ayurvedic practitioners in the identification and treatment of three cases of inflammatory arthritis. Clin Exp Rheumatol. 2003;21:747–52.",
+                    "links": []
+                },
+                {
+                    "text": "Miller TP, Brennan TA, Milstein A. How can we make more progress in measuring physicians’ performance to improve the value of care? Health Aff (Millwood) 2009;28:1429–37.",
+                    "links": []
+                },
+                {
+                    "text": "Patwardhan K, Gehlot S, Singh G, Rathore HC. Global challenges of graduate level Ayurvedic education: A survey. Int J Ayurveda Res. 2010;1:49–54.",
+                    "links": []
+                },
+                {
+                    "text": "Furst DE, Venkatraman MM, McGann M, Manohar PR, Booth-LaForce C, Sarin R, et al. Double-blind, randomized, controlled, pilot study comparing classic ayurvedic medicine, methotrexate, and their combination in rheumatoid arthritis. J Clin Rheumatol. 2011;17:185–92.",
+                    "links": []
+                },
+                {
+                    "text": "Tuijn S, Janssens F, Robben P, van den Bergh H. Reducing interrater variability and improving health care: A meta-analytical review. J Eval Clin Pract. 2012;18:887–95.",
+                    "links": []
+                },
+                {
+                    "text": "Zhang GG, Lee WL, Lao L, Bausell B, Berman B, Handwerger B. The variability of TCM pattern diagnosis and herbal prescription on rheumatoid arthritis patients. Altern Ther Health Med. 2004;10:58–63.",
+                    "links": []
+                },
+                {
+                    "text": "Zhang GG, Lee W, Bausell B, Lao L, Handwerger B, Berman B. Variability in the traditional Chinese medicine (TCM) diagnoses and herbal prescriptions provided by three TCM practitioners for 40 patients with rheumatoid arthritis. J Altern Complement Med. 2005;11:415–21.",
+                    "links": []
+                },
+                {
+                    "text": "Zhang GG, Singh B, Lee W, Handwerger B, Lao L, Berman B. Improvement of agreement in TCM diagnosis among TCM practitioners for persons with the conventional diagnosis of rheumatoid arthritis: Effect of training. J Altern Complement Med. 2008;14:381–6.",
+                    "links": []
+                },
+                {
+                    "text": "Perloff D, Grim C, Flack J, Frolich ED, Hill M, McDonald M, et al. Human blood pressure determination by sphygmomanometry. Circulation. 1993;88:2460–7.",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "",
+            "html": "<p><br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Send us your suggestions and feedback on this page.",
+            "html": "<p><big><b><a href=\"/index.php?title=Special:ContactMe\" title=\"Special:ContactMe\">Send us your suggestions and feedback on this page.</a></b></big>\n</p>",
+            "links": [
+                {
+                    "text": "Send us your suggestions and feedback on this page.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Special:ContactMe"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "text",
+            "text": "Back to the Top"
+        },
+        {
+            "type": "text",
+            "text": "NewPP limit report\nCached time: 20261112005414\nCache expiry: 86400\nReduced expiry: false\nComplications: [vary‐revision‐id, show‐toc]\nCPU time usage: 0.075 seconds\nReal time usage: 0.538 seconds\nPreprocessor visited node count: 268/1000000\nPost‐expand include size: 2511/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 3/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nLua time usage: 0.080/7 seconds\nLua virtual size: 20475904/209715200 bytes\nLua estimated memory usage: 0 bytes"
+        },
+        {
+            "type": "text",
+            "text": "Transclusion expansion time report (%,ms,calls,template)\n100.00% 428.754 1 -total\n94.17% 403.760 1 Template:Infobox\n2.66% 11.400 1 Template:CiteButton"
+        },
+        {
+            "type": "text",
+            "text": "Saved in parser cache with key carakas1_carakasa:pcache:idhash:2167-0!canonical and timestamp 20261112005414 and revision id 45193. Rendering was triggered because: page-view"
+        },
+        {
+            "type": "text",
+            "text": "Retrieved from \""
+        },
+        {
+            "type": "text",
+            "text": "https://www.carakasamhitaonline.com/index.php?title=Trividha_Roga_Vishesha_Vijnaniya_Vimana&oldid=45193"
+        },
+        {
+            "type": "text",
+            "text": "\""
+        }
+    ],
+    "html_sha256": "58fe35fba2af1a3ccde74403e313a29cf0bb6d68275873e45538038522d33975"
+}

@@ -1,0 +1,2403 @@
+{
+    "source": "Charaka Samhita",
+    "chapter": "Katamanisharireeyam Indriyam Adhyaya",
+    "chapter_id": "Katamanisharireeyam_Indriyam_Adhyaya",
+    "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya",
+    "xpath": "//*[@id=\"content\"]",
+    "extraction_date": "2026-11-12T15:20:40",
+    "total_blocks": 162,
+    "total_tables": 3,
+    "total_headings": 29,
+    "total_paragraphs": 116,
+    "content": [
+        {
+            "type": "h1",
+            "text": "Katamanisharireeyam Indriyam Adhyaya",
+            "html": "<h1 class=\"firstHeading mw-first-heading\" id=\"firstHeading\"><span class=\"mw-page-title-main\">Katamanisharireeyam Indriyam Adhyaya</span></h1>",
+            "links": [],
+            "images": [],
+            "level": 1
+        },
+        {
+            "type": "text",
+            "text": "From Charak Samhita"
+        },
+        {
+            "type": "text",
+            "text": "Jump to navigation"
+        },
+        {
+            "type": "text",
+            "text": "Jump to search"
+        },
+        {
+            "type": "figure",
+            "text": "",
+            "html": "<figure class=\"mw-default-size mw-halign-right\" typeof=\"mw:File\"><a href=\"https://www.charakasamhitauptodate.com/index.php?title=Special:CiteThisPage&amp;page=Katamanisharireeyam_Indriyam_Adhyaya&amp;id=45230&amp;wpFormIdentifier=titleform\" rel=\"nofollow\"><img class=\"mw-file-element\" decoding=\"async\" height=\"47\" src=\"/images/5/58/Cite.png\" width=\"180\"/></a><figcaption></figcaption></figure>",
+            "links": [
+                {
+                    "text": "",
+                    "url": "https://www.charakasamhitauptodate.com/index.php?title=Special:CiteThisPage&page=Katamanisharireeyam_Indriyam_Adhyaya&id=45230&wpFormIdentifier=titleform"
+                }
+            ],
+            "images": [
+                {
+                    "url": "https://www.carakasamhitaonline.com/images/5/58/Cite.png",
+                    "alt": "",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Indriya Sthana Chapter 6. Specific fatal clinical features",
+            "html": "<p><b><big><a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> Chapter 6. Specific fatal clinical features</big></b>\n</p>",
+            "links": [
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "Section/Chapter",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Indriya Sthana Chapter 6",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Preceding Chapter",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Purvarupeeyam Indriyam Adhyaya",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Purvarupeeyam Indriyam Adhyaya",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Purvarupeeyam_Indriyam_Adhyaya"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Succeeding Chapter",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Pannarupiyam Indriyam Adhyaya",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Pannarupiyam Indriyam Adhyaya",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Other Sections",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Sutra Sthana , Nidana Sthana , Vimana Sthana , Sharira Sthana , Chikitsa Sthana , Kalpa Sthana , Siddhi Sthana",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Sutra Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                            },
+                            {
+                                "text": "Nidana Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Nidana_Sthana"
+                            },
+                            {
+                                "text": "Vimana Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana"
+                            },
+                            {
+                                "text": "Sharira Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                            },
+                            {
+                                "text": "Chikitsa Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                            },
+                            {
+                                "text": "Kalpa Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Kalpa_Sthana"
+                            },
+                            {
+                                "text": "Siddhi Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Siddhi_Sthana"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Translator and commentator",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Gopakumar",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Reviewer",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Babu S.P.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Editors",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Khandel S.K., Babu S.P., Deole Y.S. , Basisht G.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Deole Y.S.",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Yogesh_Deole"
+                            },
+                            {
+                                "text": "Basisht G.",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Gopal_Basisht"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Year of publication",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "2020",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Publisher",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Charak Samhita Research, Training and Skill Development Centre",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Charak Samhita Research, Training and Skill Development Centre",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Skill_Development_Centre"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "DOI",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "10.47468/CSNE.2020.e01.s05.007",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "10.47468/CSNE.2020.e01.s05.007",
+                                "url": "https://doi.org/10.47468/CSNE.2020.e01.s05.007"
+                            }
+                        ]
+                    }
+                ]
+            ],
+            "html": "<table class=\"infobox\" style=\"width:22em\"><caption>Katamanisharireeyam Indriyam Adhyaya</caption><tbody><tr><th scope=\"row\">Section/Chapter</th><td>\n<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> Chapter 6</td></tr><tr><th scope=\"row\">Preceding Chapter</th><td>\n<a href=\"/index.php?title=Purvarupeeyam_Indriyam_Adhyaya\" title=\"Purvarupeeyam Indriyam Adhyaya\">Purvarupeeyam Indriyam Adhyaya</a></td></tr><tr><th scope=\"row\">Succeeding Chapter</th><td>\n<a href=\"/index.php?title=Pannarupiyam_Indriyam_Adhyaya\" title=\"Pannarupiyam Indriyam Adhyaya\">Pannarupiyam Indriyam Adhyaya</a></td></tr><tr><th scope=\"row\">Other Sections</th><td>\n<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a>, <a href=\"/index.php?title=Nidana_Sthana\" title=\"Nidana Sthana\">Nidana Sthana</a>,  <a href=\"/index.php?title=Vimana_Sthana\" title=\"Vimana Sthana\">Vimana Sthana</a>,  <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a>, <a href=\"/index.php?title=Chikitsa_Sthana\" title=\"Chikitsa Sthana\">Chikitsa Sthana</a>, <a href=\"/index.php?title=Kalpa_Sthana\" title=\"Kalpa Sthana\">Kalpa Sthana</a>, <a href=\"/index.php?title=Siddhi_Sthana\" title=\"Siddhi Sthana\">Siddhi Sthana</a></td></tr><tr><th scope=\"row\">Translator and commentator</th><td>\nGopakumar</td></tr><tr><th scope=\"row\">Reviewer</th><td>\nBabu S.P.</td></tr><tr><th scope=\"row\">Editors</th><td>\nKhandel S.K., Babu S.P., <a href=\"/index.php?title=Yogesh_Deole\" title=\"Yogesh Deole\">Deole Y.S.</a>, <a href=\"/index.php?title=Gopal_Basisht\" title=\"Gopal Basisht\">Basisht G.</a></td></tr><tr><th scope=\"row\">Year of publication</th><td>\n2020</td></tr><tr><th scope=\"row\">Publisher</th><td>\n<a href=\"/index.php?title=Charak_Samhita_Research,_Training_and_Skill_Development_Centre\" title=\"Charak Samhita Research, Training and Skill Development Centre\">Charak Samhita Research, Training and Skill Development Centre</a></td></tr><tr><th scope=\"row\">DOI</th><td>\n<a class=\"external text\" href=\"https://doi.org/10.47468/CSNE.2020.e01.s05.007\" rel=\"nofollow\">10.47468/CSNE.2020.e01.s05.007</a></td></tr></tbody></table>",
+            "links": [
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Purvarupeeyam Indriyam Adhyaya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Purvarupeeyam_Indriyam_Adhyaya"
+                },
+                {
+                    "text": "Pannarupiyam Indriyam Adhyaya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "Nidana Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Nidana_Sthana"
+                },
+                {
+                    "text": "Vimana Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                },
+                {
+                    "text": "Chikitsa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                },
+                {
+                    "text": "Kalpa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kalpa_Sthana"
+                },
+                {
+                    "text": "Siddhi Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Siddhi_Sthana"
+                },
+                {
+                    "text": "Deole Y.S.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Yogesh_Deole"
+                },
+                {
+                    "text": "Basisht G.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Gopal_Basisht"
+                },
+                {
+                    "text": "Charak Samhita Research, Training and Skill Development Centre",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Skill_Development_Centre"
+                },
+                {
+                    "text": "10.47468/CSNE.2020.e01.s05.007",
+                    "url": "https://doi.org/10.47468/CSNE.2020.e01.s05.007"
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Abstract",
+            "html": "<p><b><big>Abstract</big></b>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "This chapter, Katamanisharireeyam Indriyam Adhyaya , explains some specific clinical features that are different than sensory perceptions and prodromal symptoms. Most of the time they indicate serious complications and are indicative of imminent death.",
+            "html": "<p style=\"text-align:justify;\">This chapter, <a class=\"mw-selflink selflink\">Katamanisharireeyam Indriyam Adhyaya</a>, explains some specific clinical features that are different than sensory perceptions and prodromal symptoms. Most of the time they indicate serious complications  and are indicative of imminent death. </p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Keywords : Death features, Bad prognostic features.",
+            "html": "<p><b>Keywords</b>: Death features, Bad prognostic features. \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Contents",
+            "html": "<h2 id=\"mw-toc-heading\">Contents</h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ul",
+            "text": "1 Introduction 2 Sanskrit text, Transliteration and English Translation 2.1 Questions by Agnivesha 2.2 Poor prognosis in cardiac pain 2.3 Poor prognosis in hikka 2.4 Poor prognosis in anaha 2.5 Poor prognosis in atisara 2.6 Poor prognosis in jwara and kasa 2.7 Poor prognosis in Shotha 2.8 Poor prognosis in respiratory disorders 2.9 Other conditions with poor prognosis 2.10 Markers of imminent death 2.11 Summary 3 Tattva Vimarsha (Fundamental Principles) 4 Vidhi Vimarsha (Applied Inferences) 4.1 Prognosis in respiratory disorders 4.2 Prognosis in digestive disorders 4.3 Prognosis in trishna 4.4 Prognosis in hikka 4.5 Prognosis in diarrhea 4.6 Depletion of strength 4.7 Role of agni 4.8 Prognosis in edema 4.9 Contemporary views 4.10 Comorbid conditions and prognosis 4.11 Scope of further research 5 References",
+            "html": "<ul>\n<li class=\"toclevel-1 tocsection-1\"><a href=\"#Introduction\"><span class=\"tocnumber\">1</span> <span class=\"toctext\">Introduction</span></a></li>\n<li class=\"toclevel-1 tocsection-2\"><a href=\"#Sanskrit_text,_Transliteration_and_English_Translation\"><span class=\"tocnumber\">2</span> <span class=\"toctext\">Sanskrit text, Transliteration and English Translation</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-3\"><a href=\"#Questions_by_Agnivesha\"><span class=\"tocnumber\">2.1</span> <span class=\"toctext\">Questions by Agnivesha</span></a></li>\n<li class=\"toclevel-2 tocsection-4\"><a href=\"#Poor_prognosis_in_cardiac_pain\"><span class=\"tocnumber\">2.2</span> <span class=\"toctext\">Poor prognosis in cardiac pain</span></a></li>\n<li class=\"toclevel-2 tocsection-5\"><a href=\"#Poor_prognosis_in_hikka\"><span class=\"tocnumber\">2.3</span> <span class=\"toctext\">Poor prognosis in hikka</span></a></li>\n<li class=\"toclevel-2 tocsection-6\"><a href=\"#Poor_prognosis_in_anaha\"><span class=\"tocnumber\">2.4</span> <span class=\"toctext\">Poor prognosis in anaha</span></a></li>\n<li class=\"toclevel-2 tocsection-7\"><a href=\"#Poor_prognosis_in_atisara\"><span class=\"tocnumber\">2.5</span> <span class=\"toctext\">Poor prognosis in atisara</span></a></li>\n<li class=\"toclevel-2 tocsection-8\"><a href=\"#Poor_prognosis_in_jwara_and_kasa\"><span class=\"tocnumber\">2.6</span> <span class=\"toctext\">Poor prognosis in jwara and kasa</span></a></li>\n<li class=\"toclevel-2 tocsection-9\"><a href=\"#Poor_prognosis_in_Shotha\"><span class=\"tocnumber\">2.7</span> <span class=\"toctext\">Poor prognosis in <i>Shotha</i></span></a></li>\n<li class=\"toclevel-2 tocsection-10\"><a href=\"#Poor_prognosis_in_respiratory_disorders\"><span class=\"tocnumber\">2.8</span> <span class=\"toctext\">Poor prognosis in respiratory disorders</span></a></li>\n<li class=\"toclevel-2 tocsection-11\"><a href=\"#Other_conditions_with_poor_prognosis\"><span class=\"tocnumber\">2.9</span> <span class=\"toctext\">Other conditions with poor prognosis</span></a></li>\n<li class=\"toclevel-2 tocsection-12\"><a href=\"#Markers_of_imminent_death\"><span class=\"tocnumber\">2.10</span> <span class=\"toctext\">Markers of imminent death</span></a></li>\n<li class=\"toclevel-2 tocsection-13\"><a href=\"#Summary\"><span class=\"tocnumber\">2.11</span> <span class=\"toctext\">Summary</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-14\"><a href=\"#Tattva_Vimarsha_(Fundamental_Principles)\"><span class=\"tocnumber\">3</span> <span class=\"toctext\">Tattva Vimarsha (Fundamental Principles)</span></a></li>\n<li class=\"toclevel-1 tocsection-15\"><a href=\"#Vidhi_Vimarsha_(Applied_Inferences)\"><span class=\"tocnumber\">4</span> <span class=\"toctext\">Vidhi Vimarsha (Applied Inferences)</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-16\"><a href=\"#Prognosis_in_respiratory_disorders\"><span class=\"tocnumber\">4.1</span> <span class=\"toctext\">Prognosis in respiratory disorders</span></a></li>\n<li class=\"toclevel-2 tocsection-17\"><a href=\"#Prognosis_in_digestive_disorders\"><span class=\"tocnumber\">4.2</span> <span class=\"toctext\">Prognosis in digestive disorders</span></a></li>\n<li class=\"toclevel-2 tocsection-18\"><a href=\"#Prognosis_in_trishna\"><span class=\"tocnumber\">4.3</span> <span class=\"toctext\">Prognosis in trishna</span></a></li>\n<li class=\"toclevel-2 tocsection-19\"><a href=\"#Prognosis_in_hikka\"><span class=\"tocnumber\">4.4</span> <span class=\"toctext\">Prognosis in hikka</span></a></li>\n<li class=\"toclevel-2 tocsection-20\"><a href=\"#Prognosis_in_diarrhea\"><span class=\"tocnumber\">4.5</span> <span class=\"toctext\">Prognosis in diarrhea</span></a></li>\n<li class=\"toclevel-2 tocsection-21\"><a href=\"#Depletion_of_strength\"><span class=\"tocnumber\">4.6</span> <span class=\"toctext\">Depletion of strength</span></a></li>\n<li class=\"toclevel-2 tocsection-22\"><a href=\"#Role_of_agni\"><span class=\"tocnumber\">4.7</span> <span class=\"toctext\">Role of agni</span></a></li>\n<li class=\"toclevel-2 tocsection-23\"><a href=\"#Prognosis_in_edema\"><span class=\"tocnumber\">4.8</span> <span class=\"toctext\">Prognosis in edema</span></a></li>\n<li class=\"toclevel-2 tocsection-24\"><a href=\"#Contemporary_views\"><span class=\"tocnumber\">4.9</span> <span class=\"toctext\">Contemporary views</span></a></li>\n<li class=\"toclevel-2 tocsection-25\"><a href=\"#Comorbid_conditions_and_prognosis\"><span class=\"tocnumber\">4.10</span> <span class=\"toctext\">Comorbid conditions and prognosis</span></a></li>\n<li class=\"toclevel-2 tocsection-26\"><a href=\"#Scope_of_further_research\"><span class=\"tocnumber\">4.11</span> <span class=\"toctext\">Scope of further research</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-27\"><a href=\"#References\"><span class=\"tocnumber\">5</span> <span class=\"toctext\">References</span></a></li>\n</ul>",
+            "links": [
+                {
+                    "text": "1 Introduction",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#Introduction"
+                },
+                {
+                    "text": "2 Sanskrit text, Transliteration and English Translation",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#Sanskrit_text,_Transliteration_and_English_Translation"
+                },
+                {
+                    "text": "2.1 Questions by Agnivesha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#Questions_by_Agnivesha"
+                },
+                {
+                    "text": "2.2 Poor prognosis in cardiac pain",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#Poor_prognosis_in_cardiac_pain"
+                },
+                {
+                    "text": "2.3 Poor prognosis in hikka",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#Poor_prognosis_in_hikka"
+                },
+                {
+                    "text": "2.4 Poor prognosis in anaha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#Poor_prognosis_in_anaha"
+                },
+                {
+                    "text": "2.5 Poor prognosis in atisara",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#Poor_prognosis_in_atisara"
+                },
+                {
+                    "text": "2.6 Poor prognosis in jwara and kasa",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#Poor_prognosis_in_jwara_and_kasa"
+                },
+                {
+                    "text": "2.7 Poor prognosis in Shotha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#Poor_prognosis_in_Shotha"
+                },
+                {
+                    "text": "2.8 Poor prognosis in respiratory disorders",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#Poor_prognosis_in_respiratory_disorders"
+                },
+                {
+                    "text": "2.9 Other conditions with poor prognosis",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#Other_conditions_with_poor_prognosis"
+                },
+                {
+                    "text": "2.10 Markers of imminent death",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#Markers_of_imminent_death"
+                },
+                {
+                    "text": "2.11 Summary",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#Summary"
+                },
+                {
+                    "text": "3 Tattva Vimarsha (Fundamental Principles)",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#Tattva_Vimarsha_(Fundamental_Principles)"
+                },
+                {
+                    "text": "4 Vidhi Vimarsha (Applied Inferences)",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#Vidhi_Vimarsha_(Applied_Inferences)"
+                },
+                {
+                    "text": "4.1 Prognosis in respiratory disorders",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#Prognosis_in_respiratory_disorders"
+                },
+                {
+                    "text": "4.2 Prognosis in digestive disorders",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#Prognosis_in_digestive_disorders"
+                },
+                {
+                    "text": "4.3 Prognosis in trishna",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#Prognosis_in_trishna"
+                },
+                {
+                    "text": "4.4 Prognosis in hikka",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#Prognosis_in_hikka"
+                },
+                {
+                    "text": "4.5 Prognosis in diarrhea",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#Prognosis_in_diarrhea"
+                },
+                {
+                    "text": "4.6 Depletion of strength",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#Depletion_of_strength"
+                },
+                {
+                    "text": "4.7 Role of agni",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#Role_of_agni"
+                },
+                {
+                    "text": "4.8 Prognosis in edema",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#Prognosis_in_edema"
+                },
+                {
+                    "text": "4.9 Contemporary views",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#Contemporary_views"
+                },
+                {
+                    "text": "4.10 Comorbid conditions and prognosis",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#Comorbid_conditions_and_prognosis"
+                },
+                {
+                    "text": "4.11 Scope of further research",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#Scope_of_further_research"
+                },
+                {
+                    "text": "5 References",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#References"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "1 Introduction",
+                    "links": [
+                        {
+                            "text": "1 Introduction",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#Introduction"
+                        }
+                    ]
+                },
+                {
+                    "text": "2 Sanskrit text, Transliteration and English Translation 2.1 Questions by Agnivesha 2.2 Poor prognosis in cardiac pain 2.3 Poor prognosis in hikka 2.4 Poor prognosis in anaha 2.5 Poor prognosis in atisara 2.6 Poor prognosis in jwara and kasa 2.7 Poor prognosis in Shotha 2.8 Poor prognosis in respiratory disorders 2.9 Other conditions with poor prognosis 2.10 Markers of imminent death 2.11 Summary",
+                    "links": [
+                        {
+                            "text": "2 Sanskrit text, Transliteration and English Translation",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#Sanskrit_text,_Transliteration_and_English_Translation"
+                        },
+                        {
+                            "text": "2.1 Questions by Agnivesha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#Questions_by_Agnivesha"
+                        },
+                        {
+                            "text": "2.2 Poor prognosis in cardiac pain",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#Poor_prognosis_in_cardiac_pain"
+                        },
+                        {
+                            "text": "2.3 Poor prognosis in hikka",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#Poor_prognosis_in_hikka"
+                        },
+                        {
+                            "text": "2.4 Poor prognosis in anaha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#Poor_prognosis_in_anaha"
+                        },
+                        {
+                            "text": "2.5 Poor prognosis in atisara",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#Poor_prognosis_in_atisara"
+                        },
+                        {
+                            "text": "2.6 Poor prognosis in jwara and kasa",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#Poor_prognosis_in_jwara_and_kasa"
+                        },
+                        {
+                            "text": "2.7 Poor prognosis in Shotha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#Poor_prognosis_in_Shotha"
+                        },
+                        {
+                            "text": "2.8 Poor prognosis in respiratory disorders",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#Poor_prognosis_in_respiratory_disorders"
+                        },
+                        {
+                            "text": "2.9 Other conditions with poor prognosis",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#Other_conditions_with_poor_prognosis"
+                        },
+                        {
+                            "text": "2.10 Markers of imminent death",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#Markers_of_imminent_death"
+                        },
+                        {
+                            "text": "2.11 Summary",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#Summary"
+                        }
+                    ]
+                },
+                {
+                    "text": "3 Tattva Vimarsha (Fundamental Principles)",
+                    "links": [
+                        {
+                            "text": "3 Tattva Vimarsha (Fundamental Principles)",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#Tattva_Vimarsha_(Fundamental_Principles)"
+                        }
+                    ]
+                },
+                {
+                    "text": "4 Vidhi Vimarsha (Applied Inferences) 4.1 Prognosis in respiratory disorders 4.2 Prognosis in digestive disorders 4.3 Prognosis in trishna 4.4 Prognosis in hikka 4.5 Prognosis in diarrhea 4.6 Depletion of strength 4.7 Role of agni 4.8 Prognosis in edema 4.9 Contemporary views 4.10 Comorbid conditions and prognosis 4.11 Scope of further research",
+                    "links": [
+                        {
+                            "text": "4 Vidhi Vimarsha (Applied Inferences)",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#Vidhi_Vimarsha_(Applied_Inferences)"
+                        },
+                        {
+                            "text": "4.1 Prognosis in respiratory disorders",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#Prognosis_in_respiratory_disorders"
+                        },
+                        {
+                            "text": "4.2 Prognosis in digestive disorders",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#Prognosis_in_digestive_disorders"
+                        },
+                        {
+                            "text": "4.3 Prognosis in trishna",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#Prognosis_in_trishna"
+                        },
+                        {
+                            "text": "4.4 Prognosis in hikka",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#Prognosis_in_hikka"
+                        },
+                        {
+                            "text": "4.5 Prognosis in diarrhea",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#Prognosis_in_diarrhea"
+                        },
+                        {
+                            "text": "4.6 Depletion of strength",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#Depletion_of_strength"
+                        },
+                        {
+                            "text": "4.7 Role of agni",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#Role_of_agni"
+                        },
+                        {
+                            "text": "4.8 Prognosis in edema",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#Prognosis_in_edema"
+                        },
+                        {
+                            "text": "4.9 Contemporary views",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#Contemporary_views"
+                        },
+                        {
+                            "text": "4.10 Comorbid conditions and prognosis",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#Comorbid_conditions_and_prognosis"
+                        },
+                        {
+                            "text": "4.11 Scope of further research",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#Scope_of_further_research"
+                        }
+                    ]
+                },
+                {
+                    "text": "5 References",
+                    "links": [
+                        {
+                            "text": "5 References",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#References"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Introduction",
+            "html": "<h2><span class=\"mw-headline\" id=\"Introduction\">Introduction</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "Previous chapter ( Purvarupeeyam Indriyam Adhyaya ) dealt with the types of premonitory symptoms which indicate imminent death. The present chapter focuses on the characteristic signs and symptoms of diseases in individuals which results in imminent death. The chapter signifies the importance of observation of patient in assessing prognosis of disease. The word katamani sharireeyam implies types of presentations of diseases in body leading to immediate death.",
+            "html": "<p>Previous chapter (<a href=\"/index.php?title=Purvarupeeyam_Indriyam_Adhyaya\" title=\"Purvarupeeyam Indriyam Adhyaya\">Purvarupeeyam Indriyam Adhyaya</a>) dealt with the types of premonitory symptoms which indicate imminent death. The present chapter focuses on the characteristic signs and symptoms of diseases in individuals which results in imminent death. The chapter signifies the importance of observation of patient in assessing prognosis of disease. The word <i>katamani sharireeyam</i> implies types of presentations of diseases in body leading to immediate death.\n</p>",
+            "links": [
+                {
+                    "text": "Purvarupeeyam Indriyam Adhyaya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Purvarupeeyam_Indriyam_Adhyaya"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "This chapter is a random compilation of bad prognostic features of diseases that are mentioned in Nidana Sthana and Chikitsa Sthana . An experienced clinician can identify bad prognosis of disease well in time and shall intervene as per the condition of patient.",
+            "html": "<p>This chapter is a random compilation of bad prognostic features of diseases that are mentioned in <a href=\"/index.php?title=Nidana_Sthana\" title=\"Nidana Sthana\">Nidana Sthana</a> and <a href=\"/index.php?title=Chikitsa_Sthana\" title=\"Chikitsa Sthana\">Chikitsa Sthana</a>. An experienced clinician can identify bad prognosis of disease well in time and shall intervene as per the condition of patient. \n</p>",
+            "links": [
+                {
+                    "text": "Nidana Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Nidana_Sthana"
+                },
+                {
+                    "text": "Chikitsa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Sanskrit text, Transliteration and English Translation",
+            "html": "<h2><span id=\"Sanskrit_text.2C_Transliteration_and_English_Translation\"></span><span class=\"mw-headline\" id=\"Sanskrit_text,_Transliteration_and_English_Translation\">Sanskrit text, Transliteration and English Translation</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "अथातःकतमानिशरीरीयमिन्द्रियंव्याख्यास्यामः||१||",
+            "html": "<p>अथातःकतमानिशरीरीयमिन्द्रियंव्याख्यास्यामः||१|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "इति ह स्माह भगवानात्रेयः||२||",
+            "html": "<p>इति ह स्माह भगवानात्रेयः||२|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "athātaḥkatamāniśarīrīyamindriyaṁvyākhyāsyāmaḥ||1||",
+            "html": "<p>athātaḥkatamāniśarīrīyamindriyaṁvyākhyāsyāmaḥ||1||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "iti ha smāha bhagavānātrēyaḥ||2||",
+            "html": "<p>iti ha smāha bhagavānātrēyaḥ||2|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "athAtaH katamAnisharIrIyamindriyaM vyAkhyAsyAmaH||1||",
+            "html": "<p>athAtaH katamAnisharIrIyamindriyaM vyAkhyAsyAmaH||1|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "iti ha smAha bhagavAnAtreyaH||2||",
+            "html": "<p>iti ha smAha bhagavAnAtreyaH||2|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Now we shall expound the chapter \"Katamanisharireeyam indriyam\"(Specific fatal clinical features).Thus said Lord Atreya.[1-2]",
+            "html": "<p>Now we shall expound the chapter \"Katamanisharireeyam indriyam\"(Specific fatal clinical features).Thus said Lord Atreya.[1-2]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Questions by Agnivesha",
+            "html": "<h3><span class=\"mw-headline\" id=\"Questions_by_Agnivesha\">Questions by Agnivesha</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "कतमानिशरीराणिव्याधिमन्तिमहामुने!|यानिवैद्यःपरिहरेद्येषुकर्मनसिद्ध्यति||३||",
+            "html": "<p>कतमानिशरीराणिव्याधिमन्तिमहामुने!|यानिवैद्यःपरिहरेद्येषुकर्मनसिद्ध्यति||३|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "इत्यात्रेयोऽग्निवेशेनप्रश्नंपृष्टःसुदुर्वचम्|आचचक्षेयथातस्मैभगवांस्तन्निबोधत||४||",
+            "html": "<p>इत्यात्रेयोऽग्निवेशेनप्रश्नंपृष्टःसुदुर्वचम्|आचचक्षेयथातस्मैभगवांस्तन्निबोधत||४|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "katamāni śarīrāṇi vyādhimanti mahāmunē!| yāni vaidyaḥ pariharēdyēṣu karma na siddhyati||3||",
+            "html": "<p>katamāni śarīrāṇi vyādhimanti mahāmunē!| yāni vaidyaḥ pariharēdyēṣu karma na siddhyati||3|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "ityātrēyō'gnivēśēnapraśnaṁpr̥ṣṭaḥsudurvacam|ācacakṣēyathātasmaibhagavāṁstannibōdhata||4||",
+            "html": "<p>ityātrēyō'gnivēśēnapraśnaṁpr̥ṣṭaḥsudurvacam|ācacakṣēyathātasmaibhagavāṁstannibōdhata||4||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "katamAni sharIrANi vyAdhimanti mahAmune!|\nyAni vaidyaH pariharedyeShu karma na siddhyati||3||",
+            "html": "<p>katamAni sharIrANi vyAdhimanti mahAmune!| \nyAni vaidyaH pariharedyeShu karma na siddhyati||3|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "ityAtreyo~agniveshena prashnaM pRuShTaH sudurvacam|\nAcacakShe yathA tasmai bhagavAMstannibodhata||4||",
+            "html": "<p>ityAtreyo~agniveshena  prashnaM pRuShTaH sudurvacam| \nAcacakShe yathA tasmai bhagavAMstannibodhata||4||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Agnivesha asks Atreya that how many such symptoms are seen in a diseased individual for which treatment become ineffective. Hearing this, the great scholar explained him as follows.[3-4]",
+            "html": "<p>Agnivesha asks Atreya that how many such symptoms are seen in a diseased individual for which treatment become ineffective. Hearing this, the great scholar explained him as follows.[3-4] \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Poor prognosis in cardiac pain",
+            "html": "<h3><span class=\"mw-headline\" id=\"Poor_prognosis_in_cardiac_pain\">Poor prognosis in cardiac pain</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "यस्य वै भाषमाणस्य रुजत्यूर्ध्वमुरो भृशम्| अन्नं च च्यवते भुक्तं स्थितं चापि न जीर्यति||५||",
+            "html": "<p>यस्य वै भाषमाणस्य रुजत्यूर्ध्वमुरो भृशम्| अन्नं च च्यवते भुक्तं स्थितं चापि न जीर्यति||५|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "बलं च हीयते शीघ्रं तृष्णा चातिप्रवर्धते| जायते हृदि शूलं च तं भिषक् परिवर्जयेत्||६||",
+            "html": "<p>बलं च हीयते शीघ्रं  तृष्णा चातिप्रवर्धते| जायते हृदि शूलं च तं भिषक् परिवर्जयेत्||६|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "yasyavaibhāṣamāṇasyarujatyūrdhvamurōbhr̥śam|annaṁcacyavatēbhuktaṁsthitaṁcāpinajīryati||5||",
+            "html": "<p>yasyavaibhāṣamāṇasyarujatyūrdhvamurōbhr̥śam|annaṁcacyavatēbhuktaṁsthitaṁcāpinajīryati||5|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "balaṁ ca hīyatē śīghraṁ tr̥ṣṇā cātipravardhatē| jāyatē hr̥di śūlaṁ ca taṁ bhiṣak parivarjayēt||6||",
+            "html": "<p>balaṁ ca hīyatē śīghraṁ  tr̥ṣṇā cātipravardhatē| jāyatē hr̥di śūlaṁ ca taṁ bhiṣak parivarjayēt||6|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "yasya vai bhAShamANasya rujatyUrdhvamuro bhRusham|\nannaM ca cyavate bhuktaM sthitaM cApi na jIryati||5||",
+            "html": "<p>yasya vai bhAShamANasya rujatyUrdhvamuro bhRusham| \nannaM ca cyavate bhuktaM sthitaM cApi na jIryati||5|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "balaM ca hIyate shIghraM tRuShNA cAtipravardhate|\njAyate hRudi shUlaM ca taM bhiShak parivarjayet||6||",
+            "html": "<p>balaM ca hIyate shIghraM  tRuShNA cAtipravardhate| \njAyate hRudi shUlaM ca taM bhiShak parivarjayet||6|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "One, who has severe pain in the upper part of chest while talking, vomits the ingested food, cannot digest the food ingested; one, whose bala (strength) is depleting suddenly and who has morbid thirst; one who has pain in the region of hridaya (heart) are incurable.[5-6]",
+            "html": "<p>One, who has severe pain in the upper part of chest while talking, vomits the ingested food, cannot digest the food ingested; one, whose <a href=\"/index.php?title=Bala\" title=\"Bala\">bala</a> (strength) is depleting suddenly and who has morbid thirst; one who has pain in the region of <a href=\"/index.php?title=Hridaya\" title=\"Hridaya\">hridaya</a> (heart) are incurable.[5-6]\n</p>",
+            "links": [
+                {
+                    "text": "bala",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Bala"
+                },
+                {
+                    "text": "hridaya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Hridaya"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Poor prognosis in hikka",
+            "html": "<h3><span class=\"mw-headline\" id=\"Poor_prognosis_in_hikka\">Poor prognosis in <a class=\"mw-redirect\" href=\"/index.php?title=Hikka\" title=\"Hikka\">hikka</a></span></h3>",
+            "links": [
+                {
+                    "text": "hikka",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Hikka"
+                }
+            ],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "हिक्का गम्भीरजा यस्य शोणितं चातिसार्यते| न तस्मै भेषजं दद्यात् स्मरन्नात्रेयशासनम्||७||",
+            "html": "<p>हिक्का गम्भीरजा यस्य शोणितं चातिसार्यते| न तस्मै भेषजं दद्यात् स्मरन्नात्रेयशासनम्||७|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "hikkā gambhīrajā yasya śōṇitaṁ cātisāryatē| na tasmai bhēṣajaṁ dadyāt smarannātrēyaśāsanam||7||",
+            "html": "<p>hikkā gambhīrajā yasya śōṇitaṁ cātisāryatē| na tasmai bhēṣajaṁ dadyāt smarannātrēyaśāsanam||7|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "hikkA gambhIrajA yasya shoNitaM cAtisAryate|\nna tasmai bheShajaM dadyAt smarannAtreyashAsanam||7||",
+            "html": "<p>hikkA gambhIrajA yasya shoNitaM cAtisAryate| \nna tasmai bheShajaM dadyAt smarannAtreyashAsanam||7|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Gambheera hikka , or hiccups with deeper pathology, when accompanied with bleeding diarrhea, is a serious condition. In such a case, medication should not be given since the condition is not manageable by stream of Atreya school of medicine. (Note: It may be managed by Dhanwantari school of surgery).[7]",
+            "html": "<p><i>Gambheera hikka</i>, or hiccups with deeper pathology, when accompanied with bleeding diarrhea, is a serious condition. In such a case, medication should not be given since the condition is not manageable by stream of Atreya school of medicine. (Note: It may be managed by Dhanwantari school of surgery).[7]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Poor prognosis in anaha",
+            "html": "<h3><span class=\"mw-headline\" id=\"Poor_prognosis_in_anaha\">Poor prognosis in <a class=\"new\" href=\"/index.php?title=Anaha&amp;action=edit&amp;redlink=1\" title=\"Anaha (page does not exist)\">anaha</a></span></h3>",
+            "links": [
+                {
+                    "text": "anaha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Anaha&action=edit&redlink=1"
+                }
+            ],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "आनाहश्चातिसारश्च यमेतौ दुर्बलं नरम्| व्याधितं विशतो रोगौ दुर्लभं तस्य जीवितम्||८||",
+            "html": "<p>आनाहश्चातिसारश्च यमेतौ दुर्बलं नरम्| व्याधितं विशतो रोगौ दुर्लभं तस्य जीवितम्||८|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "ānāhaścātisāraśca yamētau durbalaṁ naram| vyādhitaṁ viśatō rōgau durlabhaṁ tasya jīvitam||8||",
+            "html": "<p>ānāhaścātisāraśca yamētau durbalaṁ naram| vyādhitaṁ viśatō rōgau durlabhaṁ tasya jīvitam||8|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "AnAhashcAtisArashca yametau durbalaM naram|\nvyAdhitaM vishato rogau durlabhaM tasya jIvitam||8||",
+            "html": "<p>AnAhashcAtisArashca yametau durbalaM naram| \nvyAdhitaM vishato rogau durlabhaM tasya jIvitam||8|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Further, when gambheera hikka (hiccups with deeper pathology) is associated with anaha (distended abdomen) and atisara (diarrhea), both in a weak person is most difficult to treat and the person’s life is in danger.[8]",
+            "html": "<p>Further, when <i>gambheera hikka</i> (hiccups with deeper pathology) is associated with <i>anaha</i> (distended abdomen) and <i>atisara</i> (diarrhea), both in a weak person is most difficult to treat and the person’s life is in danger.[8]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Poor prognosis in atisara",
+            "html": "<h3><span class=\"mw-headline\" id=\"Poor_prognosis_in_atisara\">Poor prognosis in <a class=\"new\" href=\"/index.php?title=Atisara&amp;action=edit&amp;redlink=1\" title=\"Atisara (page does not exist)\">atisara</a></span></h3>",
+            "links": [
+                {
+                    "text": "atisara",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Atisara&action=edit&redlink=1"
+                }
+            ],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "आनाहश्चातितृष्णा च यमेतौ दुर्बलं नरम्| विशतो विजहत्येनं प्राणा नातिचिरान्नरम्||९||",
+            "html": "<p>आनाहश्चातितृष्णा च यमेतौ दुर्बलं नरम्| विशतो विजहत्येनं प्राणा नातिचिरान्नरम्||९|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "ānāhaścātitr̥ṣṇā ca yamētau durbalaṁ naram| viśatō vijahatyēnaṁ prāṇā nāticirānnaram||9||",
+            "html": "<p>ānāhaścātitr̥ṣṇā ca yamētau durbalaṁ naram| viśatō vijahatyēnaṁ prāṇā nāticirānnaram||9|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "AnAhashcAtitRuShNA ca yametau durbalaM naram|\nvishato vijahatyenaM prANA nAticirAnnaram||9||",
+            "html": "<p>AnAhashcAtitRuShNA ca yametau durbalaM naram| \nvishato vijahatyenaM prANA nAticirAnnaram||9|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The conditions of diarrhea associated with anaha (distended abdomen) and trishna (excessive thirst) in a weak person, has poor prognosis and he will die soon.[9]",
+            "html": "<p>The conditions of diarrhea associated with <i>anaha</i> (distended abdomen) and <i>trishna</i> (excessive thirst) in a weak person, has  poor prognosis and he will die soon.[9]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Poor prognosis in jwara and kasa",
+            "html": "<h3><span class=\"mw-headline\" id=\"Poor_prognosis_in_jwara_and_kasa\">Poor prognosis in <a href=\"/index.php?title=Jwara\" title=\"Jwara\">jwara</a> and <a class=\"mw-redirect\" href=\"/index.php?title=Kasa\" title=\"Kasa\">kasa</a></span></h3>",
+            "links": [
+                {
+                    "text": "jwara",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Jwara"
+                },
+                {
+                    "text": "kasa",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kasa"
+                }
+            ],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "ज्वरः पौर्वाह्णिको यस्य शुष्ककासश्च दारुणः| बलमांसविहीनस्य यथा प्रेतस्तथैव सः||१०||",
+            "html": "<p>ज्वरः पौर्वाह्णिको यस्य शुष्ककासश्च दारुणः| बलमांसविहीनस्य यथा प्रेतस्तथैव सः||१०||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "jvaraḥ paurvāhṇikō yasya śuṣkakāsaśca dāruṇaḥ| balamāṁsavihīnasya yathā prētastathaiva saḥ||10||",
+            "html": "<p>jvaraḥ paurvāhṇikō yasya śuṣkakāsaśca dāruṇaḥ| balamāṁsavihīnasya yathā prētastathaiva saḥ||10|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "jvaraH paurvAhNiko yasya shuShkakAsashca dAruNaH|\nbalamAMsavihInasya yathA pretastathaiva saH||10||",
+            "html": "<p>jvaraH paurvAhNiko yasya shuShkakAsashca dAruNaH| \nbalamAMsavihInasya yathA pretastathaiva saH||10||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The conditions associated with poorvanhika jwara (fever in forenoon) and shushka kasa (dry cough) in a person with wasting of muscles and depleted strength as like as dead body.[10]",
+            "html": "<p>The conditions associated with <i>poorvanhika jwara</i> (fever in forenoon) and <i>shushka kasa</i> (dry cough) in a person with wasting of muscles and depleted strength as like as dead body.[10]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Poor prognosis in Shotha",
+            "html": "<h3><span class=\"mw-headline\" id=\"Poor_prognosis_in_Shotha\">Poor prognosis in <i>Shotha</i></span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "यस्य मूत्रं पुरीषं च ग्रथितं सम्प्रवर्तते| निरूष्मणो जठरिणः श्वसनो न स जीवति||११||",
+            "html": "<p>यस्य मूत्रं पुरीषं च ग्रथितं सम्प्रवर्तते| निरूष्मणो जठरिणः श्वसनो न स जीवति||११|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "श्वयथुर्यस्य कुक्षिस्थो हस्तपादं विसर्पति| ज्ञातिसङ्घं स सङ्क्लेश्य तेन रोगेण हन्यते||१२||",
+            "html": "<p>श्वयथुर्यस्य कुक्षिस्थो हस्तपादं विसर्पति| ज्ञातिसङ्घं स सङ्क्लेश्य तेन रोगेण हन्यते||१२|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "श्वयथुर्यस्य पादस्थस्तथा स्रस्ते च पिण्डिके| सीदतश्चाप्युभे जङ्घे तं भिषक् परिवर्जयेत्||१३||",
+            "html": "<p>श्वयथुर्यस्य पादस्थस्तथा स्रस्ते च पिण्डिके| सीदतश्चाप्युभे जङ्घे  तं भिषक् परिवर्जयेत्||१३|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "शूनहस्तं शूनपादं शूनगुह्योदरं नरम्| हीनवर्णबलाहारमौषधैर्नोपपादयेत्||१४||",
+            "html": "<p>शूनहस्तं शूनपादं शूनगुह्योदरं नरम्| हीनवर्णबलाहारमौषधैर्नोपपादयेत्||१४||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "yasya mūtraṁ purīṣaṁ ca grathitaṁ sampravartatē| nirūṣmaṇō jaṭhariṇaḥ śvasanō na sa jīvati||11||",
+            "html": "<p>yasya mūtraṁ purīṣaṁ ca grathitaṁ sampravartatē| nirūṣmaṇō jaṭhariṇaḥ śvasanō na sa jīvati||11|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "śvayathuryasya kukṣisthō hastapādaṁ visarpati| jñātisaṅghaṁ sa saṅklēśya tēna rōgēṇa hanyatē||12||",
+            "html": "<p>śvayathuryasya kukṣisthō hastapādaṁ visarpati| jñātisaṅghaṁ sa saṅklēśya tēna rōgēṇa hanyatē||12|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "śvayathuryasya pādasthastathā srastē ca piṇḍikē| sīdataścāpyubhē jaṅghē taṁ bhiṣak parivarjayēt||13||",
+            "html": "<p>śvayathuryasya pādasthastathā srastē ca piṇḍikē| sīdataścāpyubhē jaṅghē  taṁ bhiṣak parivarjayēt||13|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "śūnahastaṁ śūnapādaṁ śūnaguhyōdaraṁ naram| hīnavarṇabalāhāramauṣadhairnōpapādayēt||14||",
+            "html": "<p>śūnahastaṁ śūnapādaṁ śūnaguhyōdaraṁ naram| hīnavarṇabalāhāramauṣadhairnōpapādayēt||14||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "yasya mUtraM purIShaM ca grathitaM sampravartate|\nnirUShmaNo jaThariNaH shvasano na sa jIvati||11||",
+            "html": "<p>yasya mUtraM purIShaM ca grathitaM sampravartate| \nnirUShmaNo jaThariNaH shvasano na sa jIvati||11|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "shvayathuryasya kukShistho hastapAdaM visarpati|\nj~jAtisa~gghaM sa sa~gkleshya tena rogeNa hanyate||12||",
+            "html": "<p>shvayathuryasya kukShistho hastapAdaM visarpati| \nj~jAtisa~gghaM sa sa~gkleshya tena rogeNa hanyate||12|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "shvayathuryasya pAdasthastathA sraste ca piNDike|\nsIdatashcApyubhe ja~gghe taM bhiShak parivarjayet||13||",
+            "html": "<p>shvayathuryasya pAdasthastathA sraste ca piNDike| \nsIdatashcApyubhe ja~gghe  taM bhiShak parivarjayet||13|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "shUnahastaM shUnapAdaM shUnaguhyodaraM naram|\nhInavarNabalAhAramauShadhairnopapAdayet||14||",
+            "html": "<p>shUnahastaM shUnapAdaM shUnaguhyodaraM naram| \nhInavarNabalAhAramauShadhairnopapAdayet||14||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "In a person with abdominal disease, who passes hard stool and condensed urine, whose body temperature is subnormal, and has dyspnea, is unable to survive.",
+            "html": "<p>In a person with abdominal disease, who passes hard stool and condensed urine, whose body temperature is subnormal, and has dyspnea, is unable to survive.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "A person whose abdominal edema spreads towards upper and lower both extremities will cause great distress to his relatives (due to disease) and dies with same disease.",
+            "html": "<p>A person whose abdominal edema spreads towards upper and lower both extremities will cause great distress to his relatives (due to disease) and dies with same disease.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "A person having pedal edema, with flaccid calf muscles and pain in both thighs shall be avoided by physician (due to poor prognosis).",
+            "html": "<p>A person having pedal edema, with flaccid calf muscles and pain in both thighs shall be avoided by physician (due to poor prognosis).\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "A person having edema on hands, feet pelvic region, abdomen and diminution of color complexion, strength, and aversion of food should not be administered medicine [due to poor prognosis, medicines are of no use]. [11-14]",
+            "html": "<p>A person having edema on hands, feet pelvic region, abdomen and diminution of color complexion, strength, and aversion of food should not be administered medicine [due to poor prognosis, medicines are of no use]. [11-14]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Poor prognosis in respiratory disorders",
+            "html": "<h3><span class=\"mw-headline\" id=\"Poor_prognosis_in_respiratory_disorders\">Poor prognosis in respiratory disorders</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "उरोयुक्तो बहुश्लेष्मा नीलः पीतः सलोहितः| सततं च्यवते यस्य दूरात्तं परिवर्जयेत्||१५||",
+            "html": "<p>उरोयुक्तो  बहुश्लेष्मा नीलः पीतः सलोहितः| सततं च्यवते यस्य दूरात्तं परिवर्जयेत्||१५|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "urōyuktō bahuślēṣmā nīlaḥ pītaḥ salōhitaḥ| satataṁ cyavatē yasya dūrāttaṁ parivarjayēt||15||",
+            "html": "<p>urōyuktō  bahuślēṣmā nīlaḥ pītaḥ salōhitaḥ| satataṁ cyavatē yasya dūrāttaṁ parivarjayēt||15|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "uroyukto bahushleShmA nIlaH pItaH salohitaH|\nsatataM cyavate yasya dUrAttaM parivarjayet||15||",
+            "html": "<p>uroyukto  bahushleShmA nIlaH pItaH salohitaH| \nsatataM cyavate yasya dUrAttaM parivarjayet||15|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "One whose chest is full of phlegm, and constantly expectorates the blue, yellow, and blood mixed sputum, a wise physician should avoid to treat such patients even from distance.[15]",
+            "html": "<p>One whose chest is full of phlegm, and constantly expectorates the blue, yellow, and blood mixed sputum, a wise physician should avoid to treat such patients even from distance.[15]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Other conditions with poor prognosis",
+            "html": "<h3><span class=\"mw-headline\" id=\"Other_conditions_with_poor_prognosis\">Other conditions with poor prognosis</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "हृष्टरोमा सान्द्रमूत्रः शूनः कासज्वरार्दितः | क्षीणमांसो नरो दूराद्वर्ज्यो वैद्येन जानता||१६||",
+            "html": "<p>हृष्टरोमा सान्द्रमूत्रः शूनः कासज्वरार्दितः | क्षीणमांसो नरो दूराद्वर्ज्यो वैद्येन जानता||१६|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "त्रयः प्रकुपिता यस्य दोषाः कष्टाभिलक्षिताः | कृशस्य बलहीनस्य नास्ति तस्य चिकित्सितम्||१७||",
+            "html": "<p>त्रयः प्रकुपिता यस्य दोषाः कष्टाभिलक्षिताः  | कृशस्य बलहीनस्य नास्ति तस्य चिकित्सितम्||१७||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "ज्वरातिसारौ शोफान्ते श्वयथुर्वा तयोः क्षये| दुर्बलस्य विशेषेण नरस्यान्ताय जायते||१८||",
+            "html": "<p>ज्वरातिसारौ शोफान्ते श्वयथुर्वा तयोः क्षये| दुर्बलस्य विशेषेण नरस्यान्ताय जायते||१८|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "पाण्डुरश्च कृशोऽत्यर्थं तृष्णयाऽभिपरिप्लुतः| डम्बरी कुपितोच्छ्वासः प्रत्याख्येयो विजानता||१९||",
+            "html": "<p>पाण्डुरश्च कृशोऽत्यर्थं तृष्णयाऽभिपरिप्लुतः| डम्बरी कुपितोच्छ्वासः प्रत्याख्येयो विजानता||१९||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "हनुमन्याग्रहस्तृष्णा बलह्रासोऽतिमात्रया| प्राणाश्चोरसि वर्तन्ते यस्य तं परिवर्जयेत्||२०||",
+            "html": "<p>हनुमन्याग्रहस्तृष्णा बलह्रासोऽतिमात्रया| प्राणाश्चोरसि वर्तन्ते यस्य तं परिवर्जयेत्||२०|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "hr̥ṣṭarōmā sāndramūtraḥ śūnaḥ kāsajvarārditaḥ | kṣīṇamāṁsō narō dūrādvarjyō vaidyēna jānatā||16||",
+            "html": "<p>hr̥ṣṭarōmā sāndramūtraḥ śūnaḥ kāsajvarārditaḥ  | kṣīṇamāṁsō narō dūrādvarjyō vaidyēna jānatā||16|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "trayaḥ prakupitā yasya dōṣāḥ kaṣṭābhilakṣitāḥ | kr̥śasya balahīnasya nāsti tasya cikitsitam||17||",
+            "html": "<p>trayaḥ prakupitā yasya dōṣāḥ kaṣṭābhilakṣitāḥ  | kr̥śasya balahīnasya nāsti tasya cikitsitam||17|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "jvarātisārau śōphāntē śvayathurvā tayōḥ kṣayē| durbalasya viśēṣēṇa narasyāntāya jāyatē||18||",
+            "html": "<p>jvarātisārau śōphāntē śvayathurvā tayōḥ kṣayē| durbalasya viśēṣēṇa narasyāntāya jāyatē||18|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "pāṇḍuraśca kr̥śō'tyarthaṁ tr̥ṣṇayā'bhipariplutaḥ| ḍambarī kupitōcchvāsaḥ pratyākhyēyō vijānatā||19||",
+            "html": "<p>pāṇḍuraśca kr̥śō'tyarthaṁ tr̥ṣṇayā'bhipariplutaḥ| ḍambarī kupitōcchvāsaḥ pratyākhyēyō vijānatā||19|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "hanumanyāgrahastr̥ṣṇā balahrāsō'timātrayā| prāṇāścōrasi vartantē yasya taṁ parivarjayēt||20||",
+            "html": "<p>hanumanyāgrahastr̥ṣṇā balahrāsō'timātrayā| prāṇāścōrasi vartantē yasya taṁ parivarjayēt||20||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "hRuShTaromA sAndramUtraH shUnaH kAsajvarArditaH |\nkShINamAMso naro dUrAdvarjyo vaidyena jAnatA||16||",
+            "html": "<p>hRuShTaromA sAndramUtraH shUnaH kAsajvarArditaH  | \nkShINamAMso naro dUrAdvarjyo vaidyena jAnatA||16|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "trayaH prakupitA yasya doShAH kaShTAbhilakShitAH |\nkRushasya balahInasya nAsti tasya cikitsitam||17||",
+            "html": "<p>trayaH prakupitA yasya doShAH kaShTAbhilakShitAH  | \nkRushasya balahInasya nAsti tasya cikitsitam||17|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "jvarAtisArau shophAnte shvayathurvA tayoH kShaye|\ndurbalasya visheSheNa narasyAntAya jAyate||18||",
+            "html": "<p>jvarAtisArau shophAnte shvayathurvA tayoH kShaye| \ndurbalasya visheSheNa narasyAntAya jAyate||18|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "pANDurashca kRusho~atyarthaM tRuShNayA~abhipariplutaH|\nDambarI kupitocchvAsaH pratyAkhyeyo vijAnatA||19||",
+            "html": "<p>pANDurashca kRusho~atyarthaM tRuShNayA~abhipariplutaH| \nDambarI kupitocchvAsaH pratyAkhyeyo vijAnatA||19||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "hanumanyAgrahastRuShNA balahrAso~atimAtrayA|\nprANAshcorasi vartante yasya taM parivarjayet||20||",
+            "html": "<p>hanumanyAgrahastRuShNA balahrAso~atimAtrayA| \nprANAshcorasi vartante yasya taM parivarjayet||20||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "A patient who is having thin stature, wasting of muscles, with Horripilation, colloidal or thick urine, with edema, cough, and fever, should be avoided by physician.",
+            "html": "<p>A patient who is having thin stature, wasting of muscles, with Horripilation, colloidal or thick urine, with edema, cough, and fever, should be avoided by physician. \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "A person whose all the three doshas are vitiated, emaciated, having no strength, is untreatable.",
+            "html": "<p>A person whose all the three doshas are vitiated, emaciated, having no strength, is untreatable.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "If, in an emaciated patient with fever and diarrhea as sequel of edema or edema as sequel of these two, dies soon. A patient who is pale, excessively emaciated, having excessive thirst, eyes are fixed on one object, and with painful breath is better to declare untreatable. [16-19]",
+            "html": "<p>If, in an emaciated patient with fever and diarrhea as sequel of edema or edema as sequel of these two, dies soon. A patient who is pale, excessively emaciated, having excessive thirst, eyes are fixed on one object, and with painful breath is better to declare untreatable. [16-19]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "If a person having lock jaw and rigid neck suffers from thirst, diminished strength, and the signs of life(breath) are only confined to chest, such patient should be discarded for treatment purpose. [20]",
+            "html": "<p>If a person having lock jaw and rigid neck suffers from thirst, diminished strength, and the signs of life(breath) are only confined to chest, such patient should be discarded for treatment purpose. [20]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Markers of imminent death",
+            "html": "<h3><span class=\"mw-headline\" id=\"Markers_of_imminent_death\">Markers of imminent death</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "ताम्यत्यायच्छते शर्म न किञ्चिदपि विन्दति| क्षीणमांसबलाहारो मुमूर्षुरचिरान्नरः||२१||",
+            "html": "<p>ताम्यत्यायच्छते  शर्म न किञ्चिदपि विन्दति| क्षीणमांसबलाहारो मुमूर्षुरचिरान्नरः||२१|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "विरुद्धयोनयो यस्य विरुद्धोपक्रमा भृशम्| वर्धन्ते दारुणा रोगाः शीघ्रं शीघ्रं स हन्यते||२२||",
+            "html": "<p>विरुद्धयोनयो यस्य विरुद्धोपक्रमा भृशम्| वर्धन्ते  दारुणा रोगाः शीघ्रं शीघ्रं स हन्यते||२२|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "बलं विज्ञानमारोग्यं ग्रहणी मांसशोणितम् | एतानि यस्य क्षीयन्ते क्षिप्रं क्षिप्रं स हन्यते||२३||",
+            "html": "<p>बलं विज्ञानमारोग्यं ग्रहणी मांसशोणितम्  | एतानि यस्य क्षीयन्ते  क्षिप्रं क्षिप्रं स हन्यते||२३|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "आरोग्यं हीयते यस्य प्रकृतिः परिहीयते| सहसा सहसा तस्य मृत्युर्हरति जीवितम्||२४||",
+            "html": "<p>आरोग्यं हीयते यस्य  प्रकृतिः परिहीयते| सहसा सहसा तस्य मृत्युर्हरति जीवितम्||२४|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "tāmyatyāyacchatē śarma na kiñcidapi vindati| kṣīṇamāṁsabalāhārō mumūrṣuracirānnaraḥ||21||",
+            "html": "<p>tāmyatyāyacchatē  śarma na kiñcidapi vindati| kṣīṇamāṁsabalāhārō mumūrṣuracirānnaraḥ||21|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "viruddhayōnayō yasya viruddhōpakramā bhr̥śam| vardhantē dāruṇā rōgāḥ śīghraṁ śīghraṁ sa hanyatē||22||",
+            "html": "<p>viruddhayōnayō yasya viruddhōpakramā bhr̥śam| vardhantē  dāruṇā rōgāḥ śīghraṁ śīghraṁ sa hanyatē||22|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "balaṁ vijñānamārōgyaṁ grahaṇī māṁsaśōṇitam | ētāni yasya kṣīyantē kṣipraṁ kṣipraṁ sa hanyatē||23||",
+            "html": "<p>balaṁ vijñānamārōgyaṁ grahaṇī māṁsaśōṇitam  | ētāni yasya kṣīyantē  kṣipraṁ kṣipraṁ sa hanyatē||23|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "ārōgyaṁ hīyatē yasya prakr̥tiḥ parihīyatē| sahasā sahasā tasya mr̥tyurharati jīvitam||24||",
+            "html": "<p>ārōgyaṁ hīyatē yasya  prakr̥tiḥ parihīyatē| sahasā sahasā tasya mr̥tyurharati jīvitam||24|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "tAmyatyAyacchate sharma na ki~jcidapi vindati|\nkShINamAMsabalAhAro mumUrShuracirAnnaraH||21||",
+            "html": "<p>tAmyatyAyacchate  sharma na ki~jcidapi vindati| \nkShINamAMsabalAhAro mumUrShuracirAnnaraH||21|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "viruddhayonayo yasya viruddhopakramA bhRusham|\nvardhantedAruNA rogAH shIghraM shIghraM sa hanyate||22||",
+            "html": "<p>viruddhayonayo yasya viruddhopakramA bhRusham| \nvardhantedAruNA rogAH shIghraM shIghraM sa hanyate||22|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "balaM vij~jAnamArogyaM grahaNI mAMsashoNitam |\netAni yasya kShIyante kShipraM kShipraM sa hanyate||23||",
+            "html": "<p>balaM vij~jAnamArogyaM grahaNI mAMsashoNitam | \netAni yasya kShIyante  kShipraM kShipraM sa hanyate||23|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "ArogyaM hIyate yasya prakRutiH parihIyate|\nsahasA sahasA tasya mRutyurharati jIvitam||24||",
+            "html": "<p>ArogyaM hIyate yasya  prakRutiH parihIyate| \nsahasA sahasA tasya mRutyurharati jIvitam||24|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "If an emaciated person with diminished strength presenting lack of digestive power, faints repeatedly, with violent movements of the body and restlessness in any situation, he succumbs to death immediately.",
+            "html": "<p>If an emaciated person with diminished strength presenting lack of digestive power, faints repeatedly, with violent movements of the body and restlessness in any situation, he succumbs to death immediately.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "In a person suffering from more than one disease, and if their etiological factors are mutually contradictory and the line of treatments are also contradictory this is indicative of fatal prognosis. If they appear suddenly, the sudden death of the patient is also certain.",
+            "html": "<p>In a person suffering from more than one disease, and if their etiological factors are mutually contradictory and the line of treatments are also contradictory this is indicative of fatal prognosis. If they appear suddenly, the sudden death of the patient is also certain.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Strength against disease is knowledge of Health and health is based on digestive power and power or muscles, and purity of blood. Where all these diminished there is no hope for long life and thus succumb for death.",
+            "html": "<p>Strength against disease is knowledge of Health and health is based on digestive power and power or muscles, and purity of blood. Where all these diminished there is no hope for long life and thus succumb for death.     \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "If there is sudden deterioration of health is extended to the change in basic constitution ( prakriti ) of a patient then he succumbs for sudden death. [21-24]",
+            "html": "<p>If there is sudden deterioration of health is extended to the change in basic constitution (<a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">prakriti</a>) of a patient then he succumbs for sudden death. [21-24]\n</p>",
+            "links": [
+                {
+                    "text": "prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Summary",
+            "html": "<h3><span class=\"mw-headline\" id=\"Summary\">Summary</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "तत्रश्लोकः-\nइत्येतानि शरीराणि व्याधिमन्ति विवर्जयेत्| न ह्येषु धीराः पश्यन्ति सिद्धिं काञ्चिदुपक्रमात्||२५||",
+            "html": "<p>तत्रश्लोकः- \nइत्येतानि शरीराणि व्याधिमन्ति विवर्जयेत्| न ह्येषु धीराः पश्यन्ति सिद्धिं काञ्चिदुपक्रमात्||२५||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "tatraślōkaḥ-\nityētāni śarīrāṇi vyādhimanti vivarjayēt| na hyēṣu dhīrāḥ paśyanti siddhiṁ kāñcidupakramāt||25||",
+            "html": "<p>tatraślōkaḥ- \nityētāni śarīrāṇi vyādhimanti vivarjayēt| na hyēṣu dhīrāḥ paśyanti siddhiṁ kāñcidupakramāt||25|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "tatra shlokaH-\nityetAni sharIrANi vyAdhimanti vivarjayet|\nna hyeShu dhIrAH pashyanti siddhiM kA~jcidupakramAt||25||",
+            "html": "<p>tatra shlokaH- \nityetAni sharIrANi vyAdhimanti vivarjayet| \nna hyeShu dhIrAH pashyanti siddhiM kA~jcidupakramAt||25|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Patients with above mentioned diseases should not be taken for treatment. The wise physician should not anticipate success of his treatment in such cases.[25]",
+            "html": "<p>Patients with above mentioned diseases should not be taken for treatment. The wise physician should not anticipate success of his treatment in such cases.[25]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Tattva Vimarsha (Fundamental Principles)",
+            "html": "<h2><span id=\"Tattva_Vimarsha_.28Fundamental_Principles.29\"></span><span class=\"mw-headline\" id=\"Tattva_Vimarsha_(Fundamental_Principles)\">Tattva Vimarsha (Fundamental Principles)</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ul",
+            "text": "Strength against disease is knowledge of health. Health is based on digestive power, power of muscles and purity of blood. Significant decrease of these are the markers of terminal illness. Sudden deterioration of health and change in basic constitution ( Prakriti ) of a patient, is fatal sign. In a person suffering from more than one disease, and if their etiological factors are mutually contradictory and the line of treatments are also contradictory, the condition worsens with bad prognosis leading to death. If they appear suddenly, the sudden death of the patient is also certain. [21-24]",
+            "html": "<ul><li>Strength against disease is knowledge of health.</li>\n<li>Health is based on digestive power, power of muscles and purity of blood. Significant decrease of these are the markers of terminal illness.</li>\n<li>Sudden deterioration of health and change in basic constitution (<a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">Prakriti</a>) of a patient, is fatal sign.</li>\n<li>In a person suffering from more than one disease, and if their etiological factors are mutually contradictory and the line of treatments are also contradictory, the condition worsens with bad prognosis leading to death. If they appear suddenly, the sudden death of the patient is also certain.  [21-24]</li></ul>",
+            "links": [
+                {
+                    "text": "Prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Strength against disease is knowledge of health.",
+                    "links": []
+                },
+                {
+                    "text": "Health is based on digestive power, power of muscles and purity of blood. Significant decrease of these are the markers of terminal illness.",
+                    "links": []
+                },
+                {
+                    "text": "Sudden deterioration of health and change in basic constitution ( Prakriti ) of a patient, is fatal sign.",
+                    "links": [
+                        {
+                            "text": "Prakriti",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                        }
+                    ]
+                },
+                {
+                    "text": "In a person suffering from more than one disease, and if their etiological factors are mutually contradictory and the line of treatments are also contradictory, the condition worsens with bad prognosis leading to death. If they appear suddenly, the sudden death of the patient is also certain. [21-24]",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Vidhi Vimarsha (Applied Inferences)",
+            "html": "<h2><span id=\"Vidhi_Vimarsha_.28Applied_Inferences.29\"></span><span class=\"mw-headline\" id=\"Vidhi_Vimarsha_(Applied_Inferences)\">Vidhi Vimarsha (Applied Inferences)</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "h3",
+            "text": "Prognosis in respiratory disorders",
+            "html": "<h3><span class=\"mw-headline\" id=\"Prognosis_in_respiratory_disorders\">Prognosis in respiratory disorders</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "The conditions related with respiratory disease pathologies are pleural effusion, pneumothorax and pleural tumors and secondary to pulmonary diseases like pneumonia, pulmonary infarction and bronchogenic carcinoma.",
+            "html": "<p>The conditions related with respiratory disease pathologies are pleural effusion, pneumothorax and pleural tumors and secondary to pulmonary diseases like pneumonia, pulmonary infarction and bronchogenic carcinoma. \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Prognosis in digestive disorders",
+            "html": "<h3><span class=\"mw-headline\" id=\"Prognosis_in_digestive_disorders\">Prognosis in digestive disorders</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Anna (food) is considered as prana (vital force). Difficulty to intake the food interferes with nutrition and leads to severe disability. It also interferes with the intake of medicines. Dysphagia may be due to mechanical causes or neurological causes seen associated with other serious pathologies. Lack of digestion indicates impairment of digestive system and thus lack of absorption of nutrients and medicines.",
+            "html": "<p><a class=\"new\" href=\"/index.php?title=Anna&amp;action=edit&amp;redlink=1\" title=\"Anna (page does not exist)\">Anna</a> (food) is considered as <a href=\"/index.php?title=Prana\" title=\"Prana\">prana</a> (vital force). Difficulty to intake the food interferes with nutrition and leads to severe disability. It also interferes with the intake of medicines. Dysphagia may be due to mechanical causes or neurological causes seen associated with other serious pathologies. Lack of digestion indicates impairment of digestive system and thus lack of absorption of nutrients and medicines. \n</p>",
+            "links": [
+                {
+                    "text": "Anna",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Anna&action=edit&redlink=1"
+                },
+                {
+                    "text": "prana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Prognosis in trishna",
+            "html": "<h3><span class=\"mw-headline\" id=\"Prognosis_in_trishna\">Prognosis in <a class=\"new\" href=\"/index.php?title=Trishna&amp;action=edit&amp;redlink=1\" title=\"Trishna (page does not exist)\">trishna</a></span></h3>",
+            "links": [
+                {
+                    "text": "trishna",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Trishna&action=edit&redlink=1"
+                }
+            ],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Normal kapha imparts bala (strength) to the body. Sudden depletion of bala indicates impairment of Ojas . Bala is essential for both treatment and for prevention of further progression of disease. Severe kapha kshaya (depletion of kapha ) and vata - pitta vitiation is explained as the cause behind the pathogenesis of trishna (morbid thirst). Trishna indicates not merely thirst, but severe depletion of water and electrolytes from the body which may lead to pathology even at the cellular level. [verse 5-6]",
+            "html": "<p>Normal <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a> imparts <a href=\"/index.php?title=Bala\" title=\"Bala\">bala</a> (strength) to the body. Sudden depletion of <a href=\"/index.php?title=Bala\" title=\"Bala\">bala</a> indicates impairment of <a href=\"/index.php?title=Ojas\" title=\"Ojas\">Ojas</a>. <a href=\"/index.php?title=Bala\" title=\"Bala\">Bala</a> is essential for both treatment and for prevention of further progression of disease. Severe <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a> <a class=\"new\" href=\"/index.php?title=Kshaya&amp;action=edit&amp;redlink=1\" title=\"Kshaya (page does not exist)\">kshaya</a> (depletion of <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a>) and <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a>-<a href=\"/index.php?title=Pitta\" title=\"Pitta\">pitta</a> vitiation is explained as the cause behind the pathogenesis of <a class=\"new\" href=\"/index.php?title=Trishna&amp;action=edit&amp;redlink=1\" title=\"Trishna (page does not exist)\">trishna</a> (morbid thirst). <a class=\"new\" href=\"/index.php?title=Trishna&amp;action=edit&amp;redlink=1\" title=\"Trishna (page does not exist)\">Trishna</a> indicates not merely thirst, but severe depletion of water and electrolytes from the body which may lead to pathology even at the cellular level. [verse 5-6]\n</p>",
+            "links": [
+                {
+                    "text": "kapha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kapha"
+                },
+                {
+                    "text": "bala",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Bala"
+                },
+                {
+                    "text": "bala",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Bala"
+                },
+                {
+                    "text": "Ojas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ojas"
+                },
+                {
+                    "text": "Bala",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Bala"
+                },
+                {
+                    "text": "kapha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kapha"
+                },
+                {
+                    "text": "kshaya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kshaya&action=edit&redlink=1"
+                },
+                {
+                    "text": "kapha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kapha"
+                },
+                {
+                    "text": "vata",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vata"
+                },
+                {
+                    "text": "pitta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pitta"
+                },
+                {
+                    "text": "trishna",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Trishna&action=edit&redlink=1"
+                },
+                {
+                    "text": "Trishna",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Trishna&action=edit&redlink=1"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Prognosis in hikka",
+            "html": "<h3><span class=\"mw-headline\" id=\"Prognosis_in_hikka\">Prognosis in <a class=\"mw-redirect\" href=\"/index.php?title=Hikka\" title=\"Hikka\">hikka</a></span></h3>",
+            "links": [
+                {
+                    "text": "hikka",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Hikka"
+                }
+            ],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Gambheera Hikka (severe hiccups) is included as one among the terminal illness in Ayurveda . The word gambheera indicates either hikka originating from deep pathology. Gambheera hikka is mentioned as pranantiki (Life ending) by Charak in the Chikitsa Sthana . Persistent hiccups are seen in many pathologies both mechanical and neurological like central nervous system lesions and tumors.",
+            "html": "<p><i>Gambheera Hikka</i> (severe hiccups) is included as one among the terminal illness in <a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a>. The word <i>gambheera</i> indicates either <i>hikka</i> originating from deep pathology. <i>Gambheera hikka</i> is mentioned as <i>pranantiki</i> (Life ending) by Charak in the <a href=\"/index.php?title=Chikitsa_Sthana\" title=\"Chikitsa Sthana\">Chikitsa Sthana</a>. Persistent hiccups are seen in many pathologies both mechanical and neurological like central nervous system lesions and tumors. \n</p>",
+            "links": [
+                {
+                    "text": "Ayurveda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayurveda"
+                },
+                {
+                    "text": "Chikitsa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Prognosis in diarrhea",
+            "html": "<h3><span class=\"mw-headline\" id=\"Prognosis_in_diarrhea\">Prognosis in diarrhea</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Individuals who are very weak due to any illness get afflicted with abdominal distension ( anaha ) and diarrhea simultaneously, it will be very much difficult to prolong his life. Likewise, a debilitated or weak person when afflicted with morbid thirst ( trishna ) and abdominal distension ( anaha ) will soon die.",
+            "html": "<p>Individuals who are very weak due to any illness get afflicted with abdominal distension (<i>anaha</i>) and diarrhea simultaneously, it will be very much difficult to prolong his life. Likewise, a debilitated or weak person when afflicted with morbid thirst (<i>trishna</i>) and abdominal distension (<i>anaha</i>) will soon die.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Depletion of strength",
+            "html": "<h3><span class=\"mw-headline\" id=\"Depletion_of_strength\">Depletion of strength</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "The word durbala signifies decreased strength in terms of immune deficiency, decreased quality of dhatu , diminished ability to withstand the strength of medicine and disease itself and decreased ability to recover. Such a person, who is weakened by illness when afflicted by any disease or any super imposed infection, there are less chances of survival.",
+            "html": "<p>The word <i>durbala</i> signifies decreased strength in terms of immune deficiency, decreased quality of <a href=\"/index.php?title=Dhatu\" title=\"Dhatu\">dhatu</a>, diminished ability to withstand the strength of medicine and disease itself and decreased ability to recover. Such a person, who is weakened by illness when afflicted by any disease or any super imposed infection, there are less chances of survival. \n</p>",
+            "links": [
+                {
+                    "text": "dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Role of agni",
+            "html": "<h3><span class=\"mw-headline\" id=\"Role_of_agni\">Role of <a href=\"/index.php?title=Agni\" title=\"Agni\">agni</a></span></h3>",
+            "links": [
+                {
+                    "text": "agni",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni"
+                }
+            ],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Agni is considered the principal factor responsible for health and disease. When a condition is mentioned as nirishmana (decrease in temperature/warmth), it ascertains to the fact that the dissociative and associative functions that usually happens physiologically in an individual is subnormal. The physiological levels of agni in succeeding hierarchy such as the dhatwagni and bhutagni will naturally get deranged. Such an individual does not respond to medication and the dhatu formed will be either saama or there will be dhatu sarahinatha , which by itself forms abasement for ensuing diseases to be strong and with serious complications.",
+            "html": "<p><a href=\"/index.php?title=Agni\" title=\"Agni\">Agni</a> is considered the principal factor responsible for health and disease. When a condition is mentioned as <i>nirishmana</i> (decrease in temperature/warmth), it ascertains to the fact that the dissociative and associative functions that usually happens physiologically in an individual is subnormal. The physiological levels of <a href=\"/index.php?title=Agni\" title=\"Agni\">agni</a> in succeeding hierarchy such as the <i>dhatwagni</i> and <i>bhutagni</i> will naturally get deranged. Such an individual does not respond to medication and the <a href=\"/index.php?title=Dhatu\" title=\"Dhatu\">dhatu</a> formed will be either <i>saama</i> or there will be <i>dhatu sarahinatha</i>, which by itself forms abasement for ensuing diseases to be strong and with serious complications.\n</p>",
+            "links": [
+                {
+                    "text": "Agni",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni"
+                },
+                {
+                    "text": "agni",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni"
+                },
+                {
+                    "text": "dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The conditions related to gastrointestinal pathologies include, E.coli infections, Irritable Bowel Syndrome, colitis, lactose intolerance, intestinal obstructions, cystic fibrosis, colon cancer.",
+            "html": "<p>The conditions related to gastrointestinal pathologies include, E.coli infections, Irritable Bowel Syndrome, colitis, lactose intolerance, intestinal obstructions, cystic fibrosis, colon cancer.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Prognosis in edema",
+            "html": "<h3><span class=\"mw-headline\" id=\"Prognosis_in_edema\">Prognosis in edema</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "The condition presented with edema as feature are Congestive cardiac failure, end stage renal failure, Good Pasteur’s syndrome, Hemolytic uremic syndrome, Cardiomyopathy, Ascites, Thrombophlebitis.",
+            "html": "<p>The condition presented with edema as feature are Congestive cardiac failure, end stage renal failure, Good Pasteur’s syndrome, Hemolytic uremic syndrome, Cardiomyopathy, Ascites, Thrombophlebitis. \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Contemporary views",
+            "html": "<h3><span class=\"mw-headline\" id=\"Contemporary_views\">Contemporary views</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Few diseased conditions mentioned here in this chapter may be in quite manageable stage with the present modern management facilities but at the time of Charak, those were definitely fatal. For example, many of hypovolemic and dehydrated conditions are well treated now. But still it is a challenge to save life in toxic dehydrations. Many such clinical challenges are narrated where patient should not be neglected, rather aggressive care should be provided with informed consent to the relatives about possible fatal outcome.",
+            "html": "<p>Few diseased conditions mentioned here in this chapter may be in quite manageable stage with the present modern management facilities but at the time of Charak, those were definitely fatal. For example, many of hypovolemic and dehydrated conditions are well treated now. But still it is a challenge to save life in toxic dehydrations. Many such clinical challenges are narrated where patient should not be neglected, rather  aggressive care should be provided with informed consent to the relatives about possible fatal outcome.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Comorbid conditions and prognosis",
+            "html": "<h3><span class=\"mw-headline\" id=\"Comorbid_conditions_and_prognosis\">Comorbid conditions and prognosis</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Various comorbid conditions can be listed to differentiate as well as severity of a disease. This assessment is important in prognosis of disease. The conditions described in the chapter and probable relevant comorbid conditions in conventional medical terms are summarized in table 1. [ 1 ] These parameters can be applied for further understanding of relevant disease pathology and prognosis.",
+            "html": "<p>Various comorbid conditions can be listed to differentiate as well as severity of a disease. This assessment is important in prognosis of disease. The conditions described in the chapter and probable relevant comorbid conditions in conventional medical terms are summarized in table 1. <sup class=\"reference\" id=\"cite_ref-Mamidi_P.1_1-0\"><a href=\"#cite_note-Mamidi_P.1-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup> These parameters can be applied for further understanding of relevant disease pathology and prognosis. \n</p>",
+            "links": [
+                {
+                    "text": "[ 1 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#cite_note-Mamidi_P.1-1"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "Condition listed in the text",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "th",
+                        "text": "Relevant comorbid disease or condition",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Poor prognosis of cardiac pain [Cha.Sa. Indriya Sthana 6/5-6]",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "GERD (Gastro esophageal reflux disease); Barrett’s esophagus; Plummer-Vinson syndrome (PVS); Adenocarcinoma of esophagus;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Poor prognosis of hiccups [Cha.Sa. Indriya Sthana 6/7]",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Carcinoma of lower gastrointestinal tract; Crohn’s disease; Ulcerative colitis; GERD; Cirrhosis of live;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Poor prognosis of diarrhea [Cha.Sa. Indriya Sthana 6/8]",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Malabsorption syndrome; Tropical sprue; Intestinal tuberculosis; SIBO (small intestinal bacterial overgrowth); Crohn’s disease; Metastatic carcinoid;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Poor prognosis with distension of abdomen and morbid thirst [Cha.Sa. Indriya Sthana 6/9]",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Subacute or chronic perforation of peptic ulcer; Internal haemorrhage in gastrointestinal tract; Carcinoma of GI tract; Malabsorption syndrome; Tuberculous peritonitis;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Poor prognosis of fever [Cha.Sa. Indriya Sthana 6/10]",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Pulmonary mucormycosis in immuno-compromised patients; Acute myelocytic leukemia (AML); Adenocarcinoma of lungs; Mediastinal lymphadenopathy;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Poor prognosis in abdominal diseases [Cha.Sa. Indriya Sthana 6/11]",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Chronic obstructive pulmonary disease (COPD) with Cardiovascualr disease (CVD); Chronic kidney disease (CKD); Acute glomerulonephritis; ESRD (end stage renal disease);",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Poor prognosis with ascites [Cha.Sa. Indriya Sthana 6/12]",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "ESLD (end stage live disease); Hepatorenal syndrome (HRS); Cirrhosis of live; Spontaneous bacterial peritonitis;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Poor prognosis with pedal edema [Cha.Sa. Indriya Sthana 6/13]",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Peroneal muscular atrophy; Distal myopathies; Charcot-Marie-Tooth disease (CMT);",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Poor prognosis with genralized swelling [Cha.Sa. Indriya Sthana 6/14]",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Celiac disease; Inflammatory bowel disease; Malabsorption syndrome; Protein losing enteropathy (PLE); Kwashiorker;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Poor prognosis with respiratory disorders [Cha.Sa. Indriya Sthana 6/15]",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Opportunistic lung infections in immuno-compromised patients; COPD; Bronchiectasis; Pulmonary mycosis; Pulmonary tuberculosis; Lung abscesses; Empyema; Lung carcinoma;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ]
+            ],
+            "html": "<table class=\"wikitable\">\n<caption>Table 1: Comorbid conditions relevant to poor prognosis\n</caption>\n<tbody><tr>\n<th>Condition listed in the text</th>\n<th>Relevant comorbid disease or condition\n</th></tr>\n<tr>\n<td>Poor prognosis of cardiac pain [Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 6/5-6]</td>\n<td>GERD (Gastro esophageal reflux disease); Barrett’s esophagus; Plummer-Vinson syndrome (PVS); Adenocarcinoma of esophagus;\n</td></tr>\n<tr>\n<td>Poor prognosis of  hiccups [Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 6/7]</td>\n<td>Carcinoma of lower gastrointestinal tract; Crohn’s disease; Ulcerative colitis; GERD; Cirrhosis of live;\n</td></tr>\n<tr>\n<td>Poor prognosis of diarrhea [Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 6/8]</td>\n<td>Malabsorption syndrome; Tropical sprue; Intestinal tuberculosis; SIBO (small intestinal bacterial overgrowth); Crohn’s disease; Metastatic carcinoid;\n</td></tr>\n<tr>\n<td>Poor prognosis with distension of abdomen and morbid thirst [Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 6/9]</td>\n<td>Subacute or chronic perforation of peptic ulcer; Internal haemorrhage in gastrointestinal tract; Carcinoma of GI tract; Malabsorption syndrome;\n<p>Tuberculous peritonitis;\n</p>\n</td></tr>\n<tr>\n<td>Poor prognosis of fever [Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 6/10]</td>\n<td>Pulmonary mucormycosis in immuno-compromised patients; Acute myelocytic leukemia (AML); Adenocarcinoma of lungs; Mediastinal lymphadenopathy;\n</td></tr>\n<tr>\n<td>Poor prognosis in abdominal diseases [Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 6/11]</td>\n<td>Chronic obstructive pulmonary disease (COPD) with Cardiovascualr disease (CVD); Chronic kidney disease (CKD); Acute glomerulonephritis; ESRD (end stage renal disease);\n</td></tr>\n<tr>\n<td>Poor prognosis with ascites [Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 6/12]</td>\n<td>ESLD (end stage live disease); Hepatorenal syndrome (HRS); Cirrhosis of live; Spontaneous bacterial peritonitis;\n</td></tr>\n<tr>\n<td>Poor prognosis with pedal edema [Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 6/13]</td>\n<td>Peroneal muscular atrophy; Distal myopathies; Charcot-Marie-Tooth disease (CMT);\n</td></tr>\n<tr>\n<td>Poor prognosis with genralized swelling [Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 6/14]</td>\n<td>Celiac disease; Inflammatory bowel disease; Malabsorption syndrome; Protein losing enteropathy (PLE); Kwashiorker;\n</td></tr>\n<tr>\n<td>Poor prognosis with respiratory disorders [Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 6/15]</td>\n<td>Opportunistic lung infections in immuno-compromised patients; COPD; Bronchiectasis; Pulmonary mycosis; Pulmonary tuberculosis; Lung abscesses; Empyema; Lung carcinoma;\n</td></tr>\n</tbody></table>",
+            "links": [
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                }
+            ]
+        },
+        {
+            "type": "h3",
+            "text": "Scope of further research",
+            "html": "<h3><span class=\"mw-headline\" id=\"Scope_of_further_research\">Scope of further research</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "There is a scope for research to study the relation between conditions described in text and relevant disease conditions. Some important points are summarized in table 2.",
+            "html": "<p>There is a scope for research to study the relation between conditions described in text and relevant disease conditions. Some important points are summarized in table 2. \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "Verse",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "th",
+                        "text": "Relevant disease or condition",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Cha.Sa. Indriya Sthana 6/16",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Renal tuberculosis; Acute glomerulonephritis; Chronic kidney disease (CKD); ESRD (end stage renal disease); Nephrotic syndrome;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Cha.Sa. Indriya Sthana 6/17",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Delirium; Cardiac or Pulmonary or Cancer Cachexia; Carcinomas; Chronic debilitating conditions;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Cha.Sa. Indriya Sthana 6/18",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Gastroenteritis complications; PLE (Protein losing enteropathy); ESRD; ESLD (end stage liver disease); Immunodeficiency disorders; Carcinomas;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Cha.Sa. Indriya Sthana 6/19",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Hemorrhagic shock; Hypovolemic shock; Internal haemorrhage; Delirium;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Cha.Sa. Indriya Sthana 6/20",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Tetanus;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Cha.Sa. Indriya Sthana 6/21",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Hypoglycaemic shock; Delirium; Status epilepticus;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "[Cha.Sa. Indriya Sthana 6/22]",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Heterotypic comorbidity; Discordant comorbidity; Antagonistic effect on coexisting disease; Various concepts of comorbdity, multimorbidity, morbidity burden and patient complexity",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Cha.Sa. Indriya Sthana 6/23",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Pulmonary or Cardiac or Cancer cachexia; Delirium; Dementia; Carcinomas;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Cha.Sa. Indriya Sthana 6/24",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Dementias; Delirium; Cachexia;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ]
+            ],
+            "html": "<table class=\"wikitable\">\n<caption>Table 2: Text and probable relevant disease conditions\n</caption>\n<tbody><tr>\n<th>Verse</th>\n<th>Relevant disease or condition\n</th></tr>\n<tr>\n<td>Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 6/16</td>\n<td>Renal tuberculosis; Acute glomerulonephritis; Chronic kidney disease (CKD); ESRD (end stage renal disease); Nephrotic syndrome;\n</td></tr>\n<tr>\n<td>Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 6/17</td>\n<td>Delirium; Cardiac or Pulmonary or Cancer Cachexia; Carcinomas; Chronic debilitating conditions;\n</td></tr>\n<tr>\n<td>Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 6/18</td>\n<td>Gastroenteritis complications; PLE (Protein losing enteropathy); ESRD; ESLD (end stage liver disease); Immunodeficiency disorders; Carcinomas;\n</td></tr>\n<tr>\n<td>Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 6/19</td>\n<td>Hemorrhagic shock; Hypovolemic shock; Internal haemorrhage; Delirium;\n</td></tr>\n<tr>\n<td>Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 6/20</td>\n<td>Tetanus;\n</td></tr>\n<tr>\n<td>Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 6/21</td>\n<td>Hypoglycaemic shock; Delirium; Status epilepticus;\n</td></tr>\n<tr>\n<td>[Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 6/22]</td>\n<td>Heterotypic comorbidity; Discordant comorbidity; Antagonistic effect on coexisting disease; Various concepts of comorbdity, multimorbidity, morbidity burden and patient complexity\n</td></tr>\n<tr>\n<td>Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 6/23</td>\n<td>Pulmonary or Cardiac or Cancer cachexia; Delirium; Dementia; Carcinomas;\n</td></tr>\n<tr>\n<td>Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 6/24</td>\n<td>Dementias; Delirium; Cachexia;\n</td></tr>\n</tbody></table>",
+            "links": [
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Acknowledgement: The contributors acknowledge support of Dr. M. Prasad and Dr.G.Kshama for providing tables from their published article referred in this chapter.",
+            "html": "<p><b>Acknowledgement:</b> The contributors acknowledge support of Dr. M. Prasad and Dr.G.Kshama for providing tables from their published article referred in this chapter.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Send us your suggestions and feedback on this page.",
+            "html": "<p><big><b><a href=\"/index.php?title=Special:ContactMe\" title=\"Special:ContactMe\">Send us your suggestions and feedback on this page.</a></b></big>\n</p>",
+            "links": [
+                {
+                    "text": "Send us your suggestions and feedback on this page.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Special:ContactMe"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "References",
+            "html": "<h2><span class=\"mw-headline\" id=\"References\">References</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "text",
+            "text": "Back to the Top"
+        },
+        {
+            "type": "ol",
+            "text": "↑ Gupta K. et.al., Katamani Shaririyam of Charaka Indriya Sthana- An Explorative Study, Int. J. Ayu. Alt. Med., 2019; 7(5): 213-222",
+            "html": "<ol class=\"references\">\n<li id=\"cite_note-Mamidi_P.1-1\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-Mamidi_P.1_1-0\">↑</a></span> <span class=\"reference-text\">Gupta K. et.al., Katamani Shaririyam of Charaka Indriya Sthana- An Explorative Study, Int. J. Ayu. Alt. Med., 2019; 7(5): 213-222</span>\n</li>\n</ol>",
+            "links": [
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#cite_ref-Mamidi_P.1_1-0"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "↑ Gupta K. et.al., Katamani Shaririyam of Charaka Indriya Sthana- An Explorative Study, Int. J. Ayu. Alt. Med., 2019; 7(5): 213-222",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya#cite_ref-Mamidi_P.1_1-0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "text": "NewPP limit report\nCached time: 20261111175505\nCache expiry: 86400\nReduced expiry: false\nComplications: [vary‐revision‐id, show‐toc]\nCPU time usage: 0.071 seconds\nReal time usage: 1.273 seconds\nPreprocessor visited node count: 265/1000000\nPost‐expand include size: 2519/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 3/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 187/5000000 bytes\nLua time usage: 0.080/7 seconds\nLua virtual size: 20467712/209715200 bytes\nLua estimated memory usage: 0 bytes"
+        },
+        {
+            "type": "text",
+            "text": "Transclusion expansion time report (%,ms,calls,template)\n100.00% 1031.173 1 -total\n93.28% 961.877 1 Template:Infobox\n2.43% 25.087 1 Template:CiteButton"
+        },
+        {
+            "type": "text",
+            "text": "Saved in parser cache with key carakas1_carakasa:pcache:idhash:3229-0!canonical and timestamp 20261111175505 and revision id 45230. Rendering was triggered because: page-view"
+        },
+        {
+            "type": "text",
+            "text": "Retrieved from \""
+        },
+        {
+            "type": "text",
+            "text": "https://www.carakasamhitaonline.com/index.php?title=Katamanisharireeyam_Indriyam_Adhyaya&oldid=45230"
+        },
+        {
+            "type": "text",
+            "text": "\""
+        }
+    ],
+    "html_sha256": "f80ce5b5467eacd6cdd3a8c74281a10799ebb41a2b0d08e8086f95a253e69f14"
+}

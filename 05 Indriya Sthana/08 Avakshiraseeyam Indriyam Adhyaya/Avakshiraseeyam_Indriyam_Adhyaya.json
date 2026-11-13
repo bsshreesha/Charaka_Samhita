@@ -1,0 +1,3033 @@
+{
+    "source": "Charaka Samhita",
+    "chapter": "Avakshiraseeyam Indriyam Adhyaya",
+    "chapter_id": "Avakshiraseeyam_Indriyam_Adhyaya",
+    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya",
+    "xpath": "//*[@id=\"content\"]",
+    "extraction_date": "2026-11-12T15:25:24",
+    "total_blocks": 204,
+    "total_tables": 3,
+    "total_headings": 35,
+    "total_paragraphs": 150,
+    "content": [
+        {
+            "type": "h1",
+            "text": "Avakshiraseeyam Indriyam Adhyaya",
+            "html": "<h1 class=\"firstHeading mw-first-heading\" id=\"firstHeading\"><span class=\"mw-page-title-main\">Avakshiraseeyam Indriyam Adhyaya</span></h1>",
+            "links": [],
+            "images": [],
+            "level": 1
+        },
+        {
+            "type": "text",
+            "text": "From Charak Samhita"
+        },
+        {
+            "type": "text",
+            "text": "Jump to navigation"
+        },
+        {
+            "type": "text",
+            "text": "Jump to search"
+        },
+        {
+            "type": "figure",
+            "text": "",
+            "html": "<figure class=\"mw-default-size mw-halign-right\" typeof=\"mw:File\"><a href=\"https://www.carakasamhitaonline.com/index.php?title=Special:CiteThisPage&amp;page=Avakshiraseeyam_Indriyam_Adhyaya&amp;id=44530&amp;wpFormIdentifier=titleform\" rel=\"nofollow\"><img class=\"mw-file-element\" decoding=\"async\" height=\"47\" src=\"/images/5/58/Cite.png\" width=\"180\"/></a><figcaption></figcaption></figure>",
+            "links": [
+                {
+                    "text": "",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Special:CiteThisPage&page=Avakshiraseeyam_Indriyam_Adhyaya&id=44530&wpFormIdentifier=titleform"
+                }
+            ],
+            "images": [
+                {
+                    "url": "https://www.carakasamhitaonline.com/images/5/58/Cite.png",
+                    "alt": "",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Indriya Sthana Chapter 8. Fatal signs like inverted shadow of dying person",
+            "html": "<p><big><b><a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> Chapter 8. Fatal signs like inverted shadow of dying person</b></big>\n</p>",
+            "links": [
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "Section/Chapter",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Indriya Sthana Chapter 8",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Preceding Chapter",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Pannarupiyam Indriyam Adhyaya",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Pannarupiyam Indriyam Adhyaya",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Succeeding Chapter",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Yasyashyavanimittiyam Indriyam Adhyaya",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Yasyashyavanimittiyam Indriyam Adhyaya",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Yasyashyavanimittiyam_Indriyam_Adhyaya"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Other Sections",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Sutra Sthana , Nidana Sthana , Vimana Sthana , Sharira Sthana , Chikitsa Sthana , Kalpa Sthana , Siddhi Sthana",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Sutra Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                            },
+                            {
+                                "text": "Nidana Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Nidana_Sthana"
+                            },
+                            {
+                                "text": "Vimana Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana"
+                            },
+                            {
+                                "text": "Sharira Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                            },
+                            {
+                                "text": "Chikitsa Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                            },
+                            {
+                                "text": "Kalpa Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Kalpa_Sthana"
+                            },
+                            {
+                                "text": "Siddhi Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Siddhi_Sthana"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Translator and commentator",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Baghel M.S., Tengase V.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Reviewer",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Babu S.P.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Editors",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Khandel S.K., Babu S.P., Deole Y.S. , Basisht G.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Deole Y.S.",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Yogesh_Deole"
+                            },
+                            {
+                                "text": "Basisht G.",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Gopal_Basisht"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Year of publication",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "2020",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Publisher",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Charak Samhita Research, Training and Skill Development Centre",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Charak Samhita Research, Training and Skill Development Centre",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Skill_Development_Centre"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "DOI",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "10.47468/CSNE.2020.e01.s05.009",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "10.47468/CSNE.2020.e01.s05.009",
+                                "url": "https://doi.org/10.47468/CSNE.2020.e01.s05.009"
+                            }
+                        ]
+                    }
+                ]
+            ],
+            "html": "<table class=\"infobox\" style=\"width:22em\"><caption>Avakshiraseeyam Indriyam Adhyaya</caption><tbody><tr><th scope=\"row\">Section/Chapter</th><td>\n<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> Chapter 8</td></tr><tr><th scope=\"row\">Preceding Chapter</th><td>\n<a href=\"/index.php?title=Pannarupiyam_Indriyam_Adhyaya\" title=\"Pannarupiyam Indriyam Adhyaya\">Pannarupiyam Indriyam Adhyaya</a></td></tr><tr><th scope=\"row\">Succeeding Chapter</th><td>\n<a href=\"/index.php?title=Yasyashyavanimittiyam_Indriyam_Adhyaya\" title=\"Yasyashyavanimittiyam Indriyam Adhyaya\">Yasyashyavanimittiyam Indriyam Adhyaya</a></td></tr><tr><th scope=\"row\">Other Sections</th><td>\n<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a>, <a href=\"/index.php?title=Nidana_Sthana\" title=\"Nidana Sthana\">Nidana Sthana</a>,  <a href=\"/index.php?title=Vimana_Sthana\" title=\"Vimana Sthana\">Vimana Sthana</a>,  <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a>, <a href=\"/index.php?title=Chikitsa_Sthana\" title=\"Chikitsa Sthana\">Chikitsa Sthana</a>, <a href=\"/index.php?title=Kalpa_Sthana\" title=\"Kalpa Sthana\">Kalpa Sthana</a>, <a href=\"/index.php?title=Siddhi_Sthana\" title=\"Siddhi Sthana\">Siddhi Sthana</a></td></tr><tr><th scope=\"row\">Translator and commentator</th><td>\nBaghel M.S., Tengase V.</td></tr><tr><th scope=\"row\">Reviewer</th><td>\nBabu S.P.</td></tr><tr><th scope=\"row\">Editors</th><td>\nKhandel S.K., Babu S.P., <a href=\"/index.php?title=Yogesh_Deole\" title=\"Yogesh Deole\">Deole Y.S.</a>, <a href=\"/index.php?title=Gopal_Basisht\" title=\"Gopal Basisht\">Basisht G.</a></td></tr><tr><th scope=\"row\">Year of publication</th><td>\n2020</td></tr><tr><th scope=\"row\">Publisher</th><td>\n<a href=\"/index.php?title=Charak_Samhita_Research,_Training_and_Skill_Development_Centre\" title=\"Charak Samhita Research, Training and Skill Development Centre\">Charak Samhita Research, Training and Skill Development Centre</a></td></tr><tr><th scope=\"row\">DOI</th><td>\n<a class=\"external text\" href=\"https://doi.org/10.47468/CSNE.2020.e01.s05.009\" rel=\"nofollow\">10.47468/CSNE.2020.e01.s05.009</a></td></tr></tbody></table>",
+            "links": [
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Pannarupiyam Indriyam Adhyaya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pannarupiyam_Indriyam_Adhyaya"
+                },
+                {
+                    "text": "Yasyashyavanimittiyam Indriyam Adhyaya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Yasyashyavanimittiyam_Indriyam_Adhyaya"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "Nidana Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Nidana_Sthana"
+                },
+                {
+                    "text": "Vimana Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                },
+                {
+                    "text": "Chikitsa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                },
+                {
+                    "text": "Kalpa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kalpa_Sthana"
+                },
+                {
+                    "text": "Siddhi Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Siddhi_Sthana"
+                },
+                {
+                    "text": "Deole Y.S.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Yogesh_Deole"
+                },
+                {
+                    "text": "Basisht G.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Gopal_Basisht"
+                },
+                {
+                    "text": "Charak Samhita Research, Training and Skill Development Centre",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Skill_Development_Centre"
+                },
+                {
+                    "text": "10.47468/CSNE.2020.e01.s05.009",
+                    "url": "https://doi.org/10.47468/CSNE.2020.e01.s05.009"
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Abstract",
+            "html": "<p><big><b>Abstract </b></big>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "In this chapter, thirty six moribund signs starting with avakshira , i.e. inverted shadow of the dying person are described. These moribund signs mentioned in this chapter can be classified into:",
+            "html": "<p style=\"text-align:justify;\">In this chapter, thirty six moribund signs starting with <i>avakshira</i>, i.e. inverted shadow of the dying person are described. These moribund signs mentioned in this chapter can be classified into:\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "ol",
+            "text": "whose causative factors are pre-determined by destiny( lakshananimitta ), based on etio-pathological factors( lakshyanimitta ) and resembling with etiological factors( nimittaanurupa ).",
+            "html": "<ol><li>whose causative factors are pre-determined by destiny(<i>lakshananimitta</i>),</li>\n<li>based on etio-pathological factors(<i>lakshyanimitta</i>) and</li>\n<li>resembling with etiological factors(<i>nimittaanurupa</i>).</li></ol>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "whose causative factors are pre-determined by destiny( lakshananimitta ),",
+                    "links": []
+                },
+                {
+                    "text": "based on etio-pathological factors( lakshyanimitta ) and",
+                    "links": []
+                },
+                {
+                    "text": "resembling with etiological factors( nimittaanurupa ).",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "The changes in eyelids, eyebrows, face, scalp, nose, tongue, ears, and in abnormal movements of body are described to indicate declining lifespan and death. An individual is a union of five elements and consciousness. The union is by no means permanent with the possibility of dissolution (i.e. death) lingers on throughout life. Even though all symptoms mentioned in this chapter cannot be explained by rational scientific parameters, some particular symptoms are experienced and documented by people worldwide. At the end of the chapter the physicians are advised to carefully look for the moribund signs so the therapeutic treatment is stopped at appropriate time.",
+            "html": "<p>\nThe changes in eyelids, eyebrows, face, scalp, nose, tongue, ears, and in abnormal movements of body are described to indicate declining lifespan and death. An individual is a union of five elements and consciousness. The union is by no means permanent with the possibility of dissolution (i.e. death) lingers on throughout life. Even though all symptoms mentioned in this chapter cannot be explained by rational scientific parameters, some particular symptoms  are experienced and documented by people worldwide. At the end of the chapter the physicians are advised to carefully look for the moribund signs so the therapeutic treatment is stopped at appropriate time. </p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "",
+            "html": "<p class=\"mw-empty-elt\"></p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Keywords : avakshira, Avakshiraseeyamindriyam, inverted shadow of the dying person, moribund signs, dissolution.",
+            "html": "<p><b>Keywords</b>: <i>avakshira, Avakshiraseeyamindriyam,</i> inverted shadow of the dying person, moribund signs, dissolution.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "",
+            "html": "<p><br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Contents",
+            "html": "<h2 id=\"mw-toc-heading\">Contents</h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ul",
+            "text": "1 Introduction 2 Sanskrit text, Transliteration and English Translation 2.1 Moribund feature of shadow 2.2 Moribund feature on eyelids 2.3 Moribund feature on eyebrows and forehead 2.4 Moribund feature of hairs 2.5 Moribund feature of nose 2.6 Incurable signs on face, ear and lips 2.7 Incurable signs on teeth 2.8 Fatal signs on tongue 2.9 Fatal signs of respiration 2.10 Fatal sign of extremities and neck 2.11 Fatal signs of abnormal movements 2.12 Fatal signs of abnormal behvior pattern 2.13 Fatal signs of depression 2.14 Fatal signs of drooping body posture 2.15 Fatal signs of acute fever 2.16 Fatal signs of dysphagia 2.17 Fatal signs of movement of head 2.18 Summary 3 Tattva Vimarsha (Fundamental Principles) 4 Vidhi Vimarsha (Applied Inferences ) 4.1 Importance of moribund signs 4.2 Signs on eyelids 4.3 Signs on hairs 4.4 Signs on nose 4.5 Signs on respiration 4.6 Signs of abnormal movements 4.7 Signs of acute fever 4.8 Signs of deglutition 4.9 Similar cross references in other Ayurveda texts 4.10 Contemporary views of prognostic features 5 References",
+            "html": "<ul>\n<li class=\"toclevel-1 tocsection-1\"><a href=\"#Introduction\"><span class=\"tocnumber\">1</span> <span class=\"toctext\">Introduction</span></a></li>\n<li class=\"toclevel-1 tocsection-2\"><a href=\"#Sanskrit_text,_Transliteration_and_English_Translation\"><span class=\"tocnumber\">2</span> <span class=\"toctext\">Sanskrit text, Transliteration and English Translation</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-3\"><a href=\"#Moribund_feature_of_shadow\"><span class=\"tocnumber\">2.1</span> <span class=\"toctext\">Moribund feature of shadow</span></a></li>\n<li class=\"toclevel-2 tocsection-4\"><a href=\"#Moribund_feature_on_eyelids\"><span class=\"tocnumber\">2.2</span> <span class=\"toctext\">Moribund feature on eyelids</span></a></li>\n<li class=\"toclevel-2 tocsection-5\"><a href=\"#Moribund_feature_on_eyebrows_and_forehead\"><span class=\"tocnumber\">2.3</span> <span class=\"toctext\">Moribund feature on eyebrows and forehead</span></a></li>\n<li class=\"toclevel-2 tocsection-6\"><a href=\"#Moribund_feature_of_hairs\"><span class=\"tocnumber\">2.4</span> <span class=\"toctext\">Moribund feature of hairs</span></a></li>\n<li class=\"toclevel-2 tocsection-7\"><a href=\"#Moribund_feature_of_nose\"><span class=\"tocnumber\">2.5</span> <span class=\"toctext\">Moribund feature of nose</span></a></li>\n<li class=\"toclevel-2 tocsection-8\"><a href=\"#Incurable_signs_on_face,_ear_and_lips\"><span class=\"tocnumber\">2.6</span> <span class=\"toctext\">Incurable signs on face, ear and lips</span></a></li>\n<li class=\"toclevel-2 tocsection-9\"><a href=\"#Incurable_signs_on_teeth\"><span class=\"tocnumber\">2.7</span> <span class=\"toctext\">Incurable signs on teeth</span></a></li>\n<li class=\"toclevel-2 tocsection-10\"><a href=\"#Fatal_signs_on_tongue\"><span class=\"tocnumber\">2.8</span> <span class=\"toctext\">Fatal signs on tongue</span></a></li>\n<li class=\"toclevel-2 tocsection-11\"><a href=\"#Fatal_signs_of_respiration\"><span class=\"tocnumber\">2.9</span> <span class=\"toctext\">Fatal signs of respiration</span></a></li>\n<li class=\"toclevel-2 tocsection-12\"><a href=\"#Fatal_sign_of_extremities_and_neck\"><span class=\"tocnumber\">2.10</span> <span class=\"toctext\">Fatal sign of extremities and neck</span></a></li>\n<li class=\"toclevel-2 tocsection-13\"><a href=\"#Fatal_signs_of_abnormal_movements\"><span class=\"tocnumber\">2.11</span> <span class=\"toctext\">Fatal signs of abnormal movements</span></a></li>\n<li class=\"toclevel-2 tocsection-14\"><a href=\"#Fatal_signs_of_abnormal_behvior_pattern\"><span class=\"tocnumber\">2.12</span> <span class=\"toctext\">Fatal signs of abnormal behvior pattern</span></a></li>\n<li class=\"toclevel-2 tocsection-15\"><a href=\"#Fatal_signs_of_depression\"><span class=\"tocnumber\">2.13</span> <span class=\"toctext\">Fatal signs of depression</span></a></li>\n<li class=\"toclevel-2 tocsection-16\"><a href=\"#Fatal_signs_of_drooping_body_posture\"><span class=\"tocnumber\">2.14</span> <span class=\"toctext\">Fatal signs of drooping body posture</span></a></li>\n<li class=\"toclevel-2 tocsection-17\"><a href=\"#Fatal_signs_of_acute_fever\"><span class=\"tocnumber\">2.15</span> <span class=\"toctext\">Fatal signs of acute fever</span></a></li>\n<li class=\"toclevel-2 tocsection-18\"><a href=\"#Fatal_signs_of_dysphagia\"><span class=\"tocnumber\">2.16</span> <span class=\"toctext\">Fatal signs of dysphagia</span></a></li>\n<li class=\"toclevel-2 tocsection-19\"><a href=\"#Fatal_signs_of_movement_of_head\"><span class=\"tocnumber\">2.17</span> <span class=\"toctext\">Fatal signs of movement of head</span></a></li>\n<li class=\"toclevel-2 tocsection-20\"><a href=\"#Summary\"><span class=\"tocnumber\">2.18</span> <span class=\"toctext\">Summary</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-21\"><a href=\"#Tattva_Vimarsha_(Fundamental_Principles)\"><span class=\"tocnumber\">3</span> <span class=\"toctext\">Tattva Vimarsha (Fundamental Principles)</span></a></li>\n<li class=\"toclevel-1 tocsection-22\"><a href=\"#Vidhi_Vimarsha_(Applied_Inferences_)\"><span class=\"tocnumber\">4</span> <span class=\"toctext\">Vidhi Vimarsha (Applied Inferences )</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-23\"><a href=\"#Importance_of_moribund_signs\"><span class=\"tocnumber\">4.1</span> <span class=\"toctext\">Importance of moribund signs</span></a></li>\n<li class=\"toclevel-2 tocsection-24\"><a href=\"#Signs_on_eyelids\"><span class=\"tocnumber\">4.2</span> <span class=\"toctext\">Signs on eyelids</span></a></li>\n<li class=\"toclevel-2 tocsection-25\"><a href=\"#Signs_on_hairs\"><span class=\"tocnumber\">4.3</span> <span class=\"toctext\">Signs on hairs</span></a></li>\n<li class=\"toclevel-2 tocsection-26\"><a href=\"#Signs_on_nose\"><span class=\"tocnumber\">4.4</span> <span class=\"toctext\">Signs on nose</span></a></li>\n<li class=\"toclevel-2 tocsection-27\"><a href=\"#Signs_on_respiration\"><span class=\"tocnumber\">4.5</span> <span class=\"toctext\">Signs on respiration</span></a></li>\n<li class=\"toclevel-2 tocsection-28\"><a href=\"#Signs_of_abnormal_movements\"><span class=\"tocnumber\">4.6</span> <span class=\"toctext\">Signs of abnormal movements</span></a></li>\n<li class=\"toclevel-2 tocsection-29\"><a href=\"#Signs_of_acute_fever\"><span class=\"tocnumber\">4.7</span> <span class=\"toctext\">Signs of acute fever</span></a></li>\n<li class=\"toclevel-2 tocsection-30\"><a href=\"#Signs_of_deglutition\"><span class=\"tocnumber\">4.8</span> <span class=\"toctext\">Signs of deglutition</span></a></li>\n<li class=\"toclevel-2 tocsection-31\"><a href=\"#Similar_cross_references_in_other_Ayurveda_texts\"><span class=\"tocnumber\">4.9</span> <span class=\"toctext\">Similar cross references in other Ayurveda texts</span></a></li>\n<li class=\"toclevel-2 tocsection-32\"><a href=\"#Contemporary_views_of_prognostic_features\"><span class=\"tocnumber\">4.10</span> <span class=\"toctext\">Contemporary views of prognostic features</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-33\"><a href=\"#References\"><span class=\"tocnumber\">5</span> <span class=\"toctext\">References</span></a></li>\n</ul>",
+            "links": [
+                {
+                    "text": "1 Introduction",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Introduction"
+                },
+                {
+                    "text": "2 Sanskrit text, Transliteration and English Translation",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Sanskrit_text,_Transliteration_and_English_Translation"
+                },
+                {
+                    "text": "2.1 Moribund feature of shadow",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Moribund_feature_of_shadow"
+                },
+                {
+                    "text": "2.2 Moribund feature on eyelids",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Moribund_feature_on_eyelids"
+                },
+                {
+                    "text": "2.3 Moribund feature on eyebrows and forehead",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Moribund_feature_on_eyebrows_and_forehead"
+                },
+                {
+                    "text": "2.4 Moribund feature of hairs",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Moribund_feature_of_hairs"
+                },
+                {
+                    "text": "2.5 Moribund feature of nose",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Moribund_feature_of_nose"
+                },
+                {
+                    "text": "2.6 Incurable signs on face, ear and lips",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Incurable_signs_on_face,_ear_and_lips"
+                },
+                {
+                    "text": "2.7 Incurable signs on teeth",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Incurable_signs_on_teeth"
+                },
+                {
+                    "text": "2.8 Fatal signs on tongue",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Fatal_signs_on_tongue"
+                },
+                {
+                    "text": "2.9 Fatal signs of respiration",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Fatal_signs_of_respiration"
+                },
+                {
+                    "text": "2.10 Fatal sign of extremities and neck",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Fatal_sign_of_extremities_and_neck"
+                },
+                {
+                    "text": "2.11 Fatal signs of abnormal movements",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Fatal_signs_of_abnormal_movements"
+                },
+                {
+                    "text": "2.12 Fatal signs of abnormal behvior pattern",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Fatal_signs_of_abnormal_behvior_pattern"
+                },
+                {
+                    "text": "2.13 Fatal signs of depression",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Fatal_signs_of_depression"
+                },
+                {
+                    "text": "2.14 Fatal signs of drooping body posture",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Fatal_signs_of_drooping_body_posture"
+                },
+                {
+                    "text": "2.15 Fatal signs of acute fever",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Fatal_signs_of_acute_fever"
+                },
+                {
+                    "text": "2.16 Fatal signs of dysphagia",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Fatal_signs_of_dysphagia"
+                },
+                {
+                    "text": "2.17 Fatal signs of movement of head",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Fatal_signs_of_movement_of_head"
+                },
+                {
+                    "text": "2.18 Summary",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Summary"
+                },
+                {
+                    "text": "3 Tattva Vimarsha (Fundamental Principles)",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Tattva_Vimarsha_(Fundamental_Principles)"
+                },
+                {
+                    "text": "4 Vidhi Vimarsha (Applied Inferences )",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Vidhi_Vimarsha_(Applied_Inferences_)"
+                },
+                {
+                    "text": "4.1 Importance of moribund signs",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Importance_of_moribund_signs"
+                },
+                {
+                    "text": "4.2 Signs on eyelids",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Signs_on_eyelids"
+                },
+                {
+                    "text": "4.3 Signs on hairs",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Signs_on_hairs"
+                },
+                {
+                    "text": "4.4 Signs on nose",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Signs_on_nose"
+                },
+                {
+                    "text": "4.5 Signs on respiration",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Signs_on_respiration"
+                },
+                {
+                    "text": "4.6 Signs of abnormal movements",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Signs_of_abnormal_movements"
+                },
+                {
+                    "text": "4.7 Signs of acute fever",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Signs_of_acute_fever"
+                },
+                {
+                    "text": "4.8 Signs of deglutition",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Signs_of_deglutition"
+                },
+                {
+                    "text": "4.9 Similar cross references in other Ayurveda texts",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Similar_cross_references_in_other_Ayurveda_texts"
+                },
+                {
+                    "text": "4.10 Contemporary views of prognostic features",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Contemporary_views_of_prognostic_features"
+                },
+                {
+                    "text": "5 References",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#References"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "1 Introduction",
+                    "links": [
+                        {
+                            "text": "1 Introduction",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Introduction"
+                        }
+                    ]
+                },
+                {
+                    "text": "2 Sanskrit text, Transliteration and English Translation 2.1 Moribund feature of shadow 2.2 Moribund feature on eyelids 2.3 Moribund feature on eyebrows and forehead 2.4 Moribund feature of hairs 2.5 Moribund feature of nose 2.6 Incurable signs on face, ear and lips 2.7 Incurable signs on teeth 2.8 Fatal signs on tongue 2.9 Fatal signs of respiration 2.10 Fatal sign of extremities and neck 2.11 Fatal signs of abnormal movements 2.12 Fatal signs of abnormal behvior pattern 2.13 Fatal signs of depression 2.14 Fatal signs of drooping body posture 2.15 Fatal signs of acute fever 2.16 Fatal signs of dysphagia 2.17 Fatal signs of movement of head 2.18 Summary",
+                    "links": [
+                        {
+                            "text": "2 Sanskrit text, Transliteration and English Translation",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Sanskrit_text,_Transliteration_and_English_Translation"
+                        },
+                        {
+                            "text": "2.1 Moribund feature of shadow",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Moribund_feature_of_shadow"
+                        },
+                        {
+                            "text": "2.2 Moribund feature on eyelids",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Moribund_feature_on_eyelids"
+                        },
+                        {
+                            "text": "2.3 Moribund feature on eyebrows and forehead",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Moribund_feature_on_eyebrows_and_forehead"
+                        },
+                        {
+                            "text": "2.4 Moribund feature of hairs",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Moribund_feature_of_hairs"
+                        },
+                        {
+                            "text": "2.5 Moribund feature of nose",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Moribund_feature_of_nose"
+                        },
+                        {
+                            "text": "2.6 Incurable signs on face, ear and lips",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Incurable_signs_on_face,_ear_and_lips"
+                        },
+                        {
+                            "text": "2.7 Incurable signs on teeth",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Incurable_signs_on_teeth"
+                        },
+                        {
+                            "text": "2.8 Fatal signs on tongue",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Fatal_signs_on_tongue"
+                        },
+                        {
+                            "text": "2.9 Fatal signs of respiration",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Fatal_signs_of_respiration"
+                        },
+                        {
+                            "text": "2.10 Fatal sign of extremities and neck",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Fatal_sign_of_extremities_and_neck"
+                        },
+                        {
+                            "text": "2.11 Fatal signs of abnormal movements",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Fatal_signs_of_abnormal_movements"
+                        },
+                        {
+                            "text": "2.12 Fatal signs of abnormal behvior pattern",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Fatal_signs_of_abnormal_behvior_pattern"
+                        },
+                        {
+                            "text": "2.13 Fatal signs of depression",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Fatal_signs_of_depression"
+                        },
+                        {
+                            "text": "2.14 Fatal signs of drooping body posture",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Fatal_signs_of_drooping_body_posture"
+                        },
+                        {
+                            "text": "2.15 Fatal signs of acute fever",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Fatal_signs_of_acute_fever"
+                        },
+                        {
+                            "text": "2.16 Fatal signs of dysphagia",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Fatal_signs_of_dysphagia"
+                        },
+                        {
+                            "text": "2.17 Fatal signs of movement of head",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Fatal_signs_of_movement_of_head"
+                        },
+                        {
+                            "text": "2.18 Summary",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Summary"
+                        }
+                    ]
+                },
+                {
+                    "text": "3 Tattva Vimarsha (Fundamental Principles)",
+                    "links": [
+                        {
+                            "text": "3 Tattva Vimarsha (Fundamental Principles)",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Tattva_Vimarsha_(Fundamental_Principles)"
+                        }
+                    ]
+                },
+                {
+                    "text": "4 Vidhi Vimarsha (Applied Inferences ) 4.1 Importance of moribund signs 4.2 Signs on eyelids 4.3 Signs on hairs 4.4 Signs on nose 4.5 Signs on respiration 4.6 Signs of abnormal movements 4.7 Signs of acute fever 4.8 Signs of deglutition 4.9 Similar cross references in other Ayurveda texts 4.10 Contemporary views of prognostic features",
+                    "links": [
+                        {
+                            "text": "4 Vidhi Vimarsha (Applied Inferences )",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Vidhi_Vimarsha_(Applied_Inferences_)"
+                        },
+                        {
+                            "text": "4.1 Importance of moribund signs",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Importance_of_moribund_signs"
+                        },
+                        {
+                            "text": "4.2 Signs on eyelids",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Signs_on_eyelids"
+                        },
+                        {
+                            "text": "4.3 Signs on hairs",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Signs_on_hairs"
+                        },
+                        {
+                            "text": "4.4 Signs on nose",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Signs_on_nose"
+                        },
+                        {
+                            "text": "4.5 Signs on respiration",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Signs_on_respiration"
+                        },
+                        {
+                            "text": "4.6 Signs of abnormal movements",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Signs_of_abnormal_movements"
+                        },
+                        {
+                            "text": "4.7 Signs of acute fever",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Signs_of_acute_fever"
+                        },
+                        {
+                            "text": "4.8 Signs of deglutition",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Signs_of_deglutition"
+                        },
+                        {
+                            "text": "4.9 Similar cross references in other Ayurveda texts",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Similar_cross_references_in_other_Ayurveda_texts"
+                        },
+                        {
+                            "text": "4.10 Contemporary views of prognostic features",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#Contemporary_views_of_prognostic_features"
+                        }
+                    ]
+                },
+                {
+                    "text": "5 References",
+                    "links": [
+                        {
+                            "text": "5 References",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#References"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Introduction",
+            "html": "<h2><span class=\"mw-headline\" id=\"Introduction\">Introduction</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "The name given to this chapter, Avakshiraseeyam Indriyam (or Avakshiraseeyam Indriyam Adhyaya ) may be because of the significance of the particular symptom, avakshira , which means inverted shadow of the dying person.",
+            "html": "<p>The name given to this chapter, <i>Avakshiraseeyam Indriyam</i> (or <a class=\"mw-selflink selflink\">Avakshiraseeyam Indriyam Adhyaya</a>) may be because of the significance of the particular symptom, <i>avakshira</i>, which means inverted shadow of the dying person.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "These moribund signs mentioned in this chapter can be classified into following types:",
+            "html": "<p>These moribund signs mentioned in this chapter can be classified into following types:\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "Classifications",
+                        "rowspan": 1,
+                        "colspan": 4,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Three fold",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Lakshananimitta",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Lakshyanimitta",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Nimittanurupa",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Two fold",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Physical",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Emotional-spiritual-psychological.",
+                        "rowspan": 1,
+                        "colspan": 2,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Two fold",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Featuring in Healthy",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Appearing on unhealthy person.",
+                        "rowspan": 1,
+                        "colspan": 2,
+                        "links": []
+                    }
+                ]
+            ],
+            "html": "<table class=\"wikitable\">\n<caption>Table 1: Classification of features\n</caption>\n<tbody><tr>\n<th colspan=\"4\">Classifications\n</th></tr>\n<tr>\n<th>Three fold\n</th>\n<td>Lakshananimitta</td>\n<td>Lakshyanimitta</td>\n<td>Nimittanurupa\n</td></tr>\n<tr>\n<th>Two fold\n</th>\n<td>Physical\n</td>\n<td colspan=\"2\">Emotional-spiritual-psychological.\n</td></tr>\n<tr>\n<th>Two fold\n</th>\n<td>Featuring in Healthy\n</td>\n<td colspan=\"2\">Appearing on unhealthy person.\n</td></tr>\n</tbody></table>",
+            "links": []
+        },
+        {
+            "type": "p",
+            "text": "When a person enters the final stage of the dying process, two different dynamics are at work and are closely interrelated and interdependent. On the physical plane, the body begins the final process of shutting down, which will end when all the physical systems cease to function. Usually this is an orderly and undramatic progressive series of physical changes which are not medical emergencies requiring invasive interventions. These physical changes are a normal, natural way in which the body prepares itself for death.",
+            "html": "<p>When a person enters the final stage of the dying process, two different dynamics are at work and are closely interrelated and interdependent. On the physical plane, the body begins the final process of shutting down, which will end when all the physical systems cease to function. Usually this is an orderly and undramatic progressive series of physical changes which are not medical emergencies requiring invasive interventions. These physical changes are a normal, natural way in which the body prepares itself for death. \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The other dynamic of the dying process at work is on the emotional-spiritual psychological plane, and is a different kind of process. The spirit of the dying person begins the final process of release from the body, its immediate environment, and all attachments. This release also tends to follow its own priorities, which may include the resolution of whatever is unfinished of a practical nature and reception of permission to “let go” from family members. These events are the normal, natural way in which the spirit prepares to move from this existence into the next dimension of life. The most appropriate kinds of responses to the emotional-spiritual-psychological changes are those which support and encourage this release and transition. Some specific symptoms mentioned in this chapter are experienced and documented by people worldwide. The physician is advised to assess the moribund signs in order to stop treatment.",
+            "html": "<p>The other dynamic of the dying process at work is on the emotional-spiritual psychological plane, and is a different kind of process. The spirit of the dying person begins the final process of release from the body, its immediate environment, and all attachments. This release also tends to follow its own priorities, which may include the resolution of whatever is unfinished of a practical nature and reception of permission to “let go” from family members. These events are the normal, natural way in which the spirit prepares to move from this existence into the next dimension of life. The most appropriate kinds of responses to the emotional-spiritual-psychological changes are those which support and encourage this release and transition. Some specific symptoms mentioned in this chapter are experienced and documented by people worldwide. The physician is advised to assess the moribund signs in order to stop treatment.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Sanskrit text, Transliteration and English Translation",
+            "html": "<h2><span id=\"Sanskrit_text.2C_Transliteration_and_English_Translation\"></span><span class=\"mw-headline\" id=\"Sanskrit_text,_Transliteration_and_English_Translation\">Sanskrit text, Transliteration and English Translation</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "अथातोऽवाक्शिरसीयमिन्द्रियं व्याख्यास्यामः||१||",
+            "html": "<p>अथातोऽवाक्शिरसीयमिन्द्रियं व्याख्यास्यामः||१|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "इति ह स्माह भगवानात्रेयः||२||",
+            "html": "<p>इति ह स्माह भगवानात्रेयः||२||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "athātō'vākśirasīyamindriyaṁ vyākhyāsyāmaḥ||1||",
+            "html": "<p>athātō'vākśirasīyamindriyaṁ vyākhyāsyāmaḥ||1|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "iti ha smāha bhagavānātrēyaḥ||2||",
+            "html": "<p>iti ha smāha bhagavānātrēyaḥ||2|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "athAto~avAkshirasIyamindriyaM vyAkhyAsyAmaH||1||",
+            "html": "<p>athAto~avAkshirasIyamindriyaM vyAkhyAsyAmaH||1|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "iti ha smAha bhagavAnAtreyaH||2||",
+            "html": "<p>iti ha smAha bhagavAnAtreyaH||2|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "We shall now expound the chapter \"Avakshiraseeyam Indriyam\" (Fatal signs like inverted shadow of dying person).Thus said Lord Atreya. [1-2]",
+            "html": "<p>We shall now expound the chapter \"Avakshiraseeyam Indriyam\" (Fatal signs like inverted shadow of dying person).Thus said Lord Atreya. [1-2]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Note: The chapter deals with moribund signs like inverted shadow (of a physical being).",
+            "html": "<p>Note: The chapter deals with moribund signs like inverted shadow (of a physical being).\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Moribund feature of shadow",
+            "html": "<h3><span class=\"mw-headline\" id=\"Moribund_feature_of_shadow\">Moribund feature of shadow</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "अवाक्शिरा वा जिह्मा वा यस्य वा विशिरा भवेत्| जन्तो रूपप्रतिच्छाया नैनमिच्छेच्चिकित्सितुम्||३||",
+            "html": "<p>अवाक्शिरा वा जिह्मा वा यस्य वा विशिरा भवेत्| <br/>\nजन्तो रूपप्रतिच्छाया नैनमिच्छेच्चिकित्सितुम्||३|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "avākśirā vā jihmā vā yasya vā viśirā bhavēt| jantō rūpapraticchāyā nainamicchēccikitsitum||3||",
+            "html": "<p>avākśirā vā jihmā vā yasya vā viśirā bhavēt| <br/>\njantō rūpapraticchāyā nainamicchēccikitsitum||3|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "avAkshirA vA jihmA vA yasya vA vishirA bhavet| janto rUpapraticchAyA nainamiccheccikitsitum||3||",
+            "html": "<p>avAkshirA vA jihmA vA yasya vA vishirA bhavet| <br/>\njanto rUpapraticchAyA nainamiccheccikitsitum||3|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "If the physical shadow of the individual is found to be inverted (head downwards and legs upwards), irregular or without the head, he must not be treated. [3]",
+            "html": "<p>If the physical shadow of the individual is found to be inverted (head downwards and legs upwards), irregular or without the head, he must not be treated. [3]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Moribund feature on eyelids",
+            "html": "<h3><span class=\"mw-headline\" id=\"Moribund_feature_on_eyelids\">Moribund feature on eyelids</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "जटीभूतानि पक्ष्माणि दृष्टिश्चापि निगृह्यते | यस्य जन्तोर्न तं धीरो भेषजेनोपपादयेत्||४||",
+            "html": "<p>जटीभूतानि पक्ष्माणि दृष्टिश्चापि निगृह्यते | <br/>\nयस्य जन्तोर्न तं धीरो भेषजेनोपपादयेत्||४|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "jaṭībhūtāni pakṣmāṇi dr̥ṣṭiścāpi nigr̥hyatē | yasya jantōrna taṁ dhīrō bhēṣajēnōpapādayēt||4||",
+            "html": "<p>jaṭībhūtāni pakṣmāṇi dr̥ṣṭiścāpi nigr̥hyatē  | <br/>\nyasya jantōrna taṁ dhīrō bhēṣajēnōpapādayēt||4|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "jaTIbhUtAni pakShmANi dRuShTishcApi nigRuhyate [1] yasya jantorna taM dhIro bheShajenopapAdayet||4||",
+            "html": "<p>jaTIbhUtAni pakShmANi dRuShTishcApi nigRuhyate [1] <br/>\nyasya jantorna taM dhIro bheShajenopapAdayet||4|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "A person, having complete matting of eye-lashes resulting in absence of vision should not be treated.[4]",
+            "html": "<p>A person, having complete matting of eye-lashes resulting in absence of vision should not be treated.[4] \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "यस्य शूनानि वर्त्मानि न समायान्ति शुष्यतः| चक्षुषी चोपदिह्येते यथा प्रेतस्तथैव सः||५||",
+            "html": "<p>यस्य शूनानि वर्त्मानि न समायान्ति शुष्यतः| <br/>\nचक्षुषी चोपदिह्येते  यथा प्रेतस्तथैव सः||५|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "yasya śūnāni vartmāni na samāyānti śuṣyataḥ| cakṣuṣī cōpadihyētē yathā prētastathaiva saḥ||5||",
+            "html": "<p>yasya śūnāni vartmāni na samāyānti śuṣyataḥ| <br/>\ncakṣuṣī cōpadihyētē  yathā prētastathaiva saḥ||5|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "yasya shUnAni vartmAni na samAyAnti shuShyataH| cakShuShI copadihyete [2] yathA pretastathaiva saH||5||",
+            "html": "<p>yasya shUnAni vartmAni na samAyAnti shuShyataH| <br/>\ncakShuShI copadihyete [2] yathA pretastathaiva saH||5|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "An emaciated person who is unable to close his eyes due to swollen eyelids and also accompanied by burning eyes should be considered as good as departed. [5]",
+            "html": "<p>An emaciated person who is unable to close his eyes due to swollen eyelids and also accompanied by burning eyes should be considered as good as departed. [5]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Moribund feature on eyebrows and forehead",
+            "html": "<h3><span class=\"mw-headline\" id=\"Moribund_feature_on_eyebrows_and_forehead\">Moribund feature on eyebrows and forehead</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "भ्रुवोर्वा यदि वा मूर्ध्नि सीमन्तावर्तकान् बहून्| अपूर्वानकृतान् व्यक्तान् दृष्ट्वा मरणमादिशेत्||६||",
+            "html": "<p>भ्रुवोर्वा यदि वा मूर्ध्नि सीमन्तावर्तकान् बहून्| <br/>\nअपूर्वानकृतान् व्यक्तान् दृष्ट्वा मरणमादिशेत्||६|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "bhruvōrvā yadi vā mūrdhni sīmantāvartakān bahūn| apūrvānakr̥tān vyaktān dr̥ṣṭvā maraṇamādiśēt||6||",
+            "html": "<p>bhruvōrvā yadi vā mūrdhni sīmantāvartakān bahūn|<br/> \napūrvānakr̥tān vyaktān dr̥ṣṭvā maraṇamādiśēt||6|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "bhruvorvA yadi vA mUrdhni sImantAvartakAn bahUn| apUrvAnakRutAn vyaktAn dRuShTvA maraNamAdishet||6||",
+            "html": "<p>bhruvorvA yadi vA mUrdhni sImantAvartakAn bahUn| <br/>\napUrvAnakRutAn vyaktAn dRuShTvA maraNamAdishet||6|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "A person having appearance of bare lines over the scalp, whirls over eye eyebrows or over scalp which were not present before, will die certainly. [6]",
+            "html": "<p>A person having appearance of bare lines over the scalp, whirls over eye eyebrows or over scalp which were not present before, will die certainly. [6]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "त्र्यहमेतेन जीवन्ति लक्षणेनातुरा नराः| अरोगाणां पुनस्त्वेतत् षड्रात्रं परमुच्यते ||७||",
+            "html": "<p>त्र्यहमेतेन जीवन्ति लक्षणेनातुरा नराः| <br/>\nअरोगाणां पुनस्त्वेतत् षड्रात्रं परमुच्यते ||७||<br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "tryahamētēna jīvanti lakṣaṇēnāturā narāḥ| arōgāṇāṁ punastvētat ṣaḍrātraṁ paramucyatē ||7||",
+            "html": "<p>tryahamētēna jīvanti lakṣaṇēnāturā narāḥ| <br/>\narōgāṇāṁ punastvētat ṣaḍrātraṁ paramucyatē ||7||<br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "tryahametena jIvanti lakShaNenAturA narAH| arogANAM punastvetat ShaDrAtraM paramucyate ||7||",
+            "html": "<p>tryahametena jIvanti lakShaNenAturA narAH| <br/>\narogANAM punastvetat ShaDrAtraM paramucyate ||7|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "These patients (having above mentioned signs), will survive for three days, and healthy individuals (having above mentioned signs) will survive maximum for 6 nights. [7]",
+            "html": "<p>These patients (having above mentioned signs), will survive for three days, and healthy individuals (having above mentioned signs) will survive maximum for 6 nights. [7]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Moribund feature of hairs",
+            "html": "<h3><span class=\"mw-headline\" id=\"Moribund_feature_of_hairs\">Moribund feature of hairs</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "आयम्योत्पाटितान् केशान् यो नरो नावबुध्यते| अनातुरो वा रोगी वा षड्रात्रं नातिवर्तते||८||",
+            "html": "<p>आयम्योत्पाटितान् केशान् यो नरो नावबुध्यते| <br/>\nअनातुरो वा रोगी वा षड्रात्रं नातिवर्तते||८|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "āyamyōtpāṭitān kēśān yō narō nāvabudhyatē| anāturō vā rōgī vā ṣaḍrātraṁ nātivartatē||8||",
+            "html": "<p>āyamyōtpāṭitān kēśān yō narō nāvabudhyatē| <br/>\nanāturō vā rōgī vā ṣaḍrātraṁ nātivartatē||8|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "AyamyotpATitAn keshAn yo naro nAvabudhyate| anAturo vA rogI vA ShaDrAtraM nAtivartate||8||",
+            "html": "<p>AyamyotpATitAn keshAn yo naro nAvabudhyate| <br/>\nanAturo vA rogI vA ShaDrAtraM nAtivartate||8|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "An ill or healthy individual, who does not respond to pulling or uprooting of hairs, does not survive for more than six nights. [8]",
+            "html": "<p>An ill or healthy individual, who does not respond to pulling or uprooting of hairs, does not survive for more than six nights. [8]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "यस्य केशा निरभ्यङ्गा दृश्यन्तेऽभ्यक्तसन्निभाः| उपरुद्धायुषं ज्ञात्वा तं धीरः परिवर्जयेत्||९||",
+            "html": "<p>यस्य केशा निरभ्यङ्गा दृश्यन्तेऽभ्यक्तसन्निभाः| <br/>\nउपरुद्धायुषं ज्ञात्वा तं धीरः परिवर्जयेत्||९||<br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "yasya kēśā nirabhyaṅgā dr̥śyantē'bhyaktasannibhāḥ| uparuddhāyuṣaṁ jñātvā taṁ dhīraḥ parivarjayēt||9||",
+            "html": "<p>yasya kēśā nirabhyaṅgā dr̥śyantē'bhyaktasannibhāḥ| <br/>\nuparuddhāyuṣaṁ jñātvā taṁ dhīraḥ parivarjayēt||9||<br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "yasya keshA nirabhya~ggA dRushyante~abhyaktasannibhAH| uparuddhAyuShaM j~jAtvA taM dhIraH parivarjayet||9||",
+            "html": "<p>yasya keshA nirabhya~ggA dRushyante~abhyaktasannibhAH| <br/>\nuparuddhAyuShaM j~jAtvA taM dhIraH parivarjayet||9|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "If the hair of the individual appears to be unreasonably greasy then he should be considered as at the fag-end of his life and should not be treated.[9]",
+            "html": "<p>If the hair of the individual appears to be unreasonably greasy then he should be considered as at the fag-end of his life and should not be treated.[9]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Moribund feature of nose",
+            "html": "<h3><span class=\"mw-headline\" id=\"Moribund_feature_of_nose\">Moribund feature of nose</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "ग्लायते नासिकावंशः पृथुत्वं यस्य गच्छति| अशूनः शूनसङ्काशः प्रत्याख्येयः स जानता||१०||",
+            "html": "<p>ग्लायते  नासिकावंशः पृथुत्वं यस्य गच्छति| <br/>\nअशूनः शूनसङ्काशः प्रत्याख्येयः स जानता||१०|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "glāyatē nāsikāvaṁśaḥ pr̥thutvaṁ yasya gacchati| aśūnaḥ śūnasaṅkāśaḥ pratyākhyēyaḥ sa jānatā||10||",
+            "html": "<p>glāyatē  nāsikāvaṁśaḥ pr̥thutvaṁ yasya gacchati| <br/>\naśūnaḥ śūnasaṅkāśaḥ pratyākhyēyaḥ sa jānatā||10|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "glAyate nAsikAvaMshaH pRuthutvaM yasya gacchati| ashUnaH shUnasa~gkAshaH pratyAkhyeyaH sa jAnatA||10||",
+            "html": "<p>glAyate  nAsikAvaMshaH pRuthutvaM yasya gacchati| <br/>\nashUnaH shUnasa~gkAshaH pratyAkhyeyaH sa jAnatA||10|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "A wise (physician) should consider (the patient) with depressed and thickened nasal ridge along with its pseudo – swollen appearance as incurable. [10]",
+            "html": "<p>A wise (physician) should consider (the patient) with depressed and thickened nasal ridge along with its pseudo – swollen appearance as incurable. [10]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "अत्यर्थविवृता यस्य यस्य चात्यर्थसंवृता| जिह्मा वा परिशुष्का वा नासिका न स जीवति||११||",
+            "html": "<p>अत्यर्थविवृता यस्य यस्य चात्यर्थसंवृता| <br/>\nजिह्मा वा परिशुष्का वा नासिका न स जीवति||११||<br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "atyarthavivr̥tā yasya yasya cātyarthasaṁvr̥tā| jihmā vā pariśuṣkā vā nāsikā na sa jīvati||11||",
+            "html": "<p>atyarthavivr̥tā yasya yasya cātyarthasaṁvr̥tā| <br/>\njihmā vā pariśuṣkā vā nāsikā na sa jīvati||11|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "atyarthavivRutA yasya yasya cAtyarthasaMvRutA| jihmA vA parishuShkA vA nAsikA na sa jIvati||11||",
+            "html": "<p>atyarthavivRutA yasya yasya cAtyarthasaMvRutA| <br/>\njihmA vA parishuShkA vA nAsikA na sa jIvati||11|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Excessive nasal flaring or constriction, distortion in shape and extreme dryness of the nose indicate that the individual will not survive. [11]",
+            "html": "<p>Excessive nasal flaring or constriction, distortion in shape and extreme dryness of the nose indicate that the individual will not survive. [11]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Incurable signs on face, ear and lips",
+            "html": "<h3><span id=\"Incurable_signs_on_face.2C_ear_and_lips\"></span><span class=\"mw-headline\" id=\"Incurable_signs_on_face,_ear_and_lips\">Incurable signs on face, ear and lips</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "मुखं शब्दश्रवावोष्ठौ शुक्लश्यावातिलोहितौ| विकृत्या यस्य वा नीलौ न स रोगाद्विमुच्यते||१२||",
+            "html": "<p>मुखं शब्दश्रवावोष्ठौ  शुक्लश्यावातिलोहितौ| <br/>\nविकृत्या यस्य वा नीलौ न स रोगाद्विमुच्यते||१२|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "mukhaṁ śabdaśravāvōṣṭhau śuklaśyāvātilōhitau| vikr̥tyā yasya vā nīlau na sa rōgādvimucyatē||12||",
+            "html": "<p>mukhaṁ śabdaśravāvōṣṭhau  śuklaśyāvātilōhitau| <br/>\nvikr̥tyā yasya vā nīlau na sa rōgādvimucyatē||12||<br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "mukhaM shabdashravAvoShThau [2] shuklashyAvAtilohitau| vikRutyA yasya vA nIlau na sa rogAdvimucyate||12||",
+            "html": "<p>mukhaM shabdashravAvoShThau [2] shuklashyAvAtilohitau| <br/>\nvikRutyA yasya vA nIlau na sa rogAdvimucyate||12|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "If the face, ears and lips become abnormally (without any visible cause) white, brown, excessively red or blue, then such a patient seldom recovers from the disease. [12]",
+            "html": "<p>If the face, ears and lips become abnormally (without any visible cause) white, brown, excessively red or blue, then such a patient seldom recovers from the disease.  [12]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Incurable signs on teeth",
+            "html": "<h3><span class=\"mw-headline\" id=\"Incurable_signs_on_teeth\">Incurable signs on teeth</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "अस्थिश्वेता द्विजा यस्य पुष्पिताः पङ्कसंवृताः| विकृत्या न स रोगं तं विहायारोग्यमश्नुते||१३||",
+            "html": "<p>अस्थिश्वेता द्विजा यस्य पुष्पिताः पङ्कसंवृताः| <br/>\nविकृत्या न स रोगं तं विहायारोग्यमश्नुते||१३|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "asthiśvētā dvijā yasya puṣpitāḥ paṅkasaṁvr̥tāḥ| vikr̥tyā na sa rōgaṁ taṁ vihāyārōgyamaśnutē||13||",
+            "html": "<p>asthiśvētā dvijā yasya puṣpitāḥ paṅkasaṁvr̥tāḥ| <br/>\nvikr̥tyā na sa rōgaṁ taṁ vihāyārōgyamaśnutē||13|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "asthishvetA dvijA yasya puShpitAH pa~gkasaMvRutAH| vikRutyA na sa rogaM taM vihAyArogyamashnute||13||",
+            "html": "<p>asthishvetA dvijA yasya puShpitAH pa~gkasaMvRutAH| <br/>\nvikRutyA na sa rogaM taM vihAyArogyamashnute||13|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "A patient having morbid conditions like appearance of bony white teeth, white flower shaped spots and mud like appearance over teeth cannot recover from the disease. [13]",
+            "html": "<p>A patient having morbid conditions like appearance of bony white teeth, white flower shaped spots and mud like appearance over teeth cannot recover from the disease. [13]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Fatal signs on tongue",
+            "html": "<h3><span class=\"mw-headline\" id=\"Fatal_signs_on_tongue\">Fatal signs on tongue</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "स्तब्धा निश्चेतना गुर्वी कण्टकोपचिता भृशम्| श्यावा शुष्काऽथवा शूना प्रेतजिह्वा विसर्पिणी||१४||",
+            "html": "<p>स्तब्धा निश्चेतना गुर्वी कण्टकोपचिता भृशम्| <br/>\nश्यावा शुष्काऽथवा शूना प्रेतजिह्वा विसर्पिणी||१४||<br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "stabdhā niścētanā gurvī kaṇṭakōpacitā bhr̥śam| śyāvā śuṣkā'thavā śūnā prētajihvā visarpiṇī||14||",
+            "html": "<p>stabdhā niścētanā gurvī kaṇṭakōpacitā bhr̥śam| <br/>\nśyāvā śuṣkā'thavā śūnā prētajihvā visarpiṇī||14||<br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "stabdhA nishcetanA gurvI kaNTakopacitA bhRusham| shyAvA shuShkA~athavA shUnA pretajihvA visarpiNI||14||",
+            "html": "<p>stabdhA nishcetanA gurvI kaNTakopacitA bhRusham| <br/>\nshyAvA shuShkA~athavA shUnA pretajihvA visarpiNI||14||<br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "If the tongue becomes rigid, senseless, heavy, excessively coated with a thorn like fur, brown in color, dry or swollen and constantly mobile, then the patient having such signs should be considered as good as dead. [14]",
+            "html": "<p>If the tongue becomes  rigid,  senseless, heavy, excessively coated  with a thorn  like fur, brown  in color, dry or swollen and constantly mobile, then the patient having such signs should be considered  as good as dead. [14]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Fatal signs of respiration",
+            "html": "<h3><span class=\"mw-headline\" id=\"Fatal_signs_of_respiration\">Fatal signs of respiration</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "दीर्घमुच्छ्वस्य यो ह्रस्वं नरो निःश्वस्य ताम्यति| उपरुद्धायुषं ज्ञात्वा तं धीरः परिवर्जयेत्||१५||",
+            "html": "<p>दीर्घमुच्छ्वस्य यो ह्रस्वं नरो निःश्वस्य ताम्यति| <br/>\nउपरुद्धायुषं ज्ञात्वा तं धीरः परिवर्जयेत्||१५|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "dīrghamucchvasya yō hrasvaṁ narō niḥśvasya tāmyati| uparuddhāyuṣaṁ jñātvā taṁ dhīraḥ parivarjayēt||15||",
+            "html": "<p>dīrghamucchvasya yō hrasvaṁ narō niḥśvasya tāmyati| <br/>\nuparuddhāyuṣaṁ jñātvā taṁ dhīraḥ parivarjayēt||15|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "dIrghamucchvasya yo hrasvaM naro niHshvasya tAmyati| uparuddhAyuShaM j~jAtvA taM dhIraH parivarjayet||15||",
+            "html": "<p>dIrghamucchvasya yo hrasvaM naro niHshvasya tAmyati| <br/>\nuparuddhAyuShaM j~jAtvA taM dhIraH parivarjayet||15|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "If a person faints after a short expiration followed by a long inspiration, then he should be considered as nearing his end and must not be treated. [15]",
+            "html": "<p>If a person faints after a short expiration followed by a long inspiration, then he should be considered as nearing his end and must not be treated. [15]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Fatal sign of extremities and neck",
+            "html": "<h3><span class=\"mw-headline\" id=\"Fatal_sign_of_extremities_and_neck\">Fatal sign of extremities and neck</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "हस्तौ पादौ च मन्ये च तालु चैवातिशीतलम्| भवत्यायुःक्षये क्रूरमथवाऽपि भवेन्मृदु||१६||",
+            "html": "<p>हस्तौ पादौ च मन्ये च तालु चैवातिशीतलम्| <br/>\nभवत्यायुःक्षये क्रूरमथवाऽपि भवेन्मृदु||१६||<br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "hastau pādau ca manyē ca tālu caivātiśītalam| bhavatyāyuḥkṣayē krūramathavā'pi bhavēnmr̥du||16||",
+            "html": "<p>hastau pādau ca manyē ca tālu caivātiśītalam| <br/>\nbhavatyāyuḥkṣayē krūramathavā'pi bhavēnmr̥du||16||<br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "hastau pAdau ca manye ca tAlu caivAtishItalam| bhavatyAyuHkShaye krUramathavA~api bhavenmRudu||16||",
+            "html": "<p>hastau pAdau ca manye ca tAlu caivAtishItalam| <br/>\nbhavatyAyuHkShaye krUramathavA~api bhavenmRudu||16|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Excessive coldness, roughness and softness in hands, legs and neck indicate the end of the life of the person. [16]",
+            "html": "<p>Excessive coldness, roughness and softness in hands, legs and neck indicate the end of the life of the person. [16]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Fatal signs of abnormal movements",
+            "html": "<h3><span class=\"mw-headline\" id=\"Fatal_signs_of_abnormal_movements\">Fatal signs of abnormal movements</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "घट्टयञ्जानुना जानु पादावुद्यम्य पातयन्| योऽपास्यति मुहुर्वक्रमातुरो न स जीवति||१७||",
+            "html": "<p>घट्टयञ्जानुना जानु पादावुद्यम्य पातयन्| <br/>\nयोऽपास्यति मुहुर्वक्रमातुरो न स जीवति||१७|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "ghaṭṭayañjānunā jānu pādāvudyamya pātayan| yō'pāsyati muhurvakramāturō na sa jīvati||17||",
+            "html": "<p>ghaṭṭayañjānunā jānu pādāvudyamya pātayan| <br/>\nyō'pāsyati muhurvakramāturō na sa jīvati||17||<br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "ghaTTaya~jjAnunA jAnu pAdAvudyamya pAtayan| yo~apAsyati muhurvakramAturo na sa jIvati||17||",
+            "html": "<p>ghaTTaya~jjAnunA jAnu pAdAvudyamya pAtayan| <br/>\nyo~apAsyati muhurvakramAturo na sa jIvati||17|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The person who strikes one knee with the other, throws down legs after lifting them up and frequently turns the face to one or the other side, does not survive. [17]",
+            "html": "<p>The person who strikes one knee with the other, throws down legs after lifting them up and frequently turns the face to one or the other side, does not survive. [17]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Fatal signs of abnormal behvior pattern",
+            "html": "<h3><span class=\"mw-headline\" id=\"Fatal_signs_of_abnormal_behvior_pattern\">Fatal signs of abnormal behvior pattern</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "दन्तैश्छिन्दन्नखाग्राणि नखैच्छिन्दञ्छिरोरुहान्| काष्ठेन भूमिं विलिखन्न रोगात् परिमुच्यते||१८||",
+            "html": "<p>दन्तैश्छिन्दन्नखाग्राणि नखैच्छिन्दञ्छिरोरुहान्| <br/>\nकाष्ठेन भूमिं विलिखन्न रोगात् परिमुच्यते||१८|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "dantaiśchindannakhāgrāṇi nakhaicchindañchirōruhān| kāṣṭhēna bhūmiṁ vilikhanna rōgāt parimucyatē||18||",
+            "html": "<p>dantaiśchindannakhāgrāṇi nakhaicchindañchirōruhān| <br/>\nkāṣṭhēna bhūmiṁ vilikhanna rōgāt parimucyatē||18||<br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "dantaishchindannakhAgrANi nakhaicchinda~jchiroruhAn| kAShThena bhUmiM vilikhanna rogAt parimucyate||18||",
+            "html": "<p>dantaishchindannakhAgrANi nakhaicchinda~jchiroruhAn| <br/>\nkAShThena bhUmiM vilikhanna rogAt parimucyate||18|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The patient, who cuts tips of his nail by biting, clips hair by nail and writes on the ground with the help of a stick, succumbs to the disease. [18]",
+            "html": "<p>The patient, who cuts tips of his nail by biting, clips hair by nail and writes on the ground with the help of a stick, succumbs to the disease. [18]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "दन्तान् खादति यो जाग्रदसाम्ना विरुदन् हसन्| विजानाति न चेद्दुःखं न स रोगाद्विमुच्यते||१९||",
+            "html": "<p>दन्तान् खादति यो जाग्रदसाम्ना विरुदन् हसन्| <br/>\nविजानाति न चेद्दुःखं न स रोगाद्विमुच्यते||१९|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "dantān khādati yō jāgra dasāmnā virudan hasan| vijānāti na cēdduḥkhaṁ na sa rōgādvimucyatē||19||",
+            "html": "<p>dantān khādati yō jāgra  dasāmnā virudan hasan| <br/>\nvijānāti na cēdduḥkhaṁ na sa rōgādvimucyatē||19||<br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "dantAn khAdati yo jAgradasAmnA virudan hasan| vijAnAti na cedduHkhaM na sa rogAdvimucyate||19||",
+            "html": "<p>dantAn khAdati yo jAgradasAmnA virudan hasan| <br/>\nvijAnAti na cedduHkhaM na sa rogAdvimucyate||19|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The patient who gnashes teeth while awake, cries and laughs loudly and does not have the pain sensation, does not recover from the disease. [19]",
+            "html": "<p>The patient who gnashes teeth while awake, cries and laughs loudly and does not have the pain sensation, does not recover from the  disease. [19]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "मुहुर्हसन् मुहुः क्ष्वेडन् शय्यां पादेन हन्ति यः| उच्चैश्छिद्राणि विमृशन्नातुरो न स जीवति||२०||",
+            "html": "<p>मुहुर्हसन् मुहुः क्ष्वेडन् शय्यां पादेन हन्ति यः| <br/>\nउच्चैश्छिद्राणि  विमृशन्नातुरो न स जीवति||२०||<br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "muhurhasan muhuḥ kṣvēḍan śayyāṁ pādēna hanti yaḥ| uccaiśchidrāṇi vimr̥śannāturō na sa jīvati||20||",
+            "html": "<p>muhurhasan muhuḥ kṣvēḍan śayyāṁ pādēna hanti yaḥ| <br/>\nuccaiśchidrāṇi  vimr̥śannāturō na sa jīvati||20||<br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "muhurhasan muhuH kShveDan shayyAM pAdena hanti yaH| uccaishchidrANi [1] vimRushannAturo na sa jIvati||20||",
+            "html": "<p>muhurhasan muhuH kShveDan shayyAM pAdena hanti yaH| <br/>\nuccaishchidrANi [1] vimRushannAturo na sa jIvati||20|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The patient, who frequently laughs and shouts, strikes the bed by feet and puts finger into the nostrils, ears and eyes does not survive. [20]",
+            "html": "<p>The patient, who frequently laughs and shouts, strikes the bed by feet and puts finger into the nostrils, ears and eyes does not survive.  [20]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Fatal signs of depression",
+            "html": "<h3><span class=\"mw-headline\" id=\"Fatal_signs_of_depression\">Fatal signs of depression</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "यैर्विन्दति पुरा भावैः समेतैः परमां रतिम्| तैरेवारममाणस्य ग्लास्नोर्मरणमादिशेत्||२१||",
+            "html": "<p>यैर्विन्दति पुरा भावैः समेतैः परमां रतिम्| <br/>\nतैरेवारममाणस्य ग्लास्नोर्मरणमादिशेत्||२१|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "yairvindati purā bhāvaiḥ samētaiḥ paramāṁ ratim| tairēvāramamāṇasya glāsnōrmaraṇamādiśēt||21||",
+            "html": "<p>yairvindati purā bhāvaiḥ samētaiḥ paramāṁ ratim| <br/>\ntairēvāramamāṇasya glāsnōrmaraṇamādiśēt||21|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "yairvindati purA bhAvaiH sametaiH paramAM ratim| tairevAramamANasya glAsnormaraNamAdishet||21||",
+            "html": "<p>yairvindati purA bhAvaiH sametaiH paramAM ratim| <br/>\ntairevAramamANasya glAsnormaraNamAdishet||21|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "If a debilitated patient develops disliking for such factors which, in the past, made him extremely happy, his death is imminent. [21]",
+            "html": "<p>If a debilitated patient develops disliking for such factors which, in the past, made him extremely happy, his death is imminent. [21]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Fatal signs of drooping body posture",
+            "html": "<h3><span class=\"mw-headline\" id=\"Fatal_signs_of_drooping_body_posture\">Fatal signs of drooping body posture</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "न बिभर्ति शिरो ग्रीवा न पृष्ठं भारमात्मनः| न हनू पिण्डमास्यस्थमातुरस्य मुमूर्षतः||२२||",
+            "html": "<p>न बिभर्ति शिरो ग्रीवा न पृष्ठं भारमात्मनः| <br/>\nन हनू पिण्डमास्यस्थमातुरस्य मुमूर्षतः||२२|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "na bibharti śirō grīvā na pr̥ṣṭhaṁ bhāramātmanaḥ| na hanū piṇḍamāsyasthamāturasya mumūrṣataḥ||22||",
+            "html": "<p>na bibharti śirō grīvā na pr̥ṣṭhaṁ bhāramātmanaḥ| <br/>\nna hanū piṇḍamāsyasthamāturasya mumūrṣataḥ||22|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "na bibharti shiro grIvA na pRuShThaM bhAramAtmanaH| na hanU piNDamAsyasthamAturasya mumUrShataH||22||",
+            "html": "<p>na bibharti shiro grIvA na pRuShThaM bhAramAtmanaH| <br/>\nna hanU piNDamAsyasthamAturasya mumUrShataH||22|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "If the neck of the patient is unable to support the weight of the head, the back, that of the body, the jaw bones, morsel of food in the mouth, this indicates his imminent death. [22]",
+            "html": "<p>If the neck of the patient is unable to support the weight of the head, the back, that of the body, the jaw bones, morsel of food in the mouth, this indicates his imminent death. [22]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Fatal signs of acute fever",
+            "html": "<h3><span class=\"mw-headline\" id=\"Fatal_signs_of_acute_fever\">Fatal signs of acute fever</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "सहसा ज्वरसन्तापस्तृष्णा मूर्च्छा बलक्षयः| विश्लेषणं च सन्धीनां मुमूर्षोरुपजायते||२३||",
+            "html": "<p>सहसा ज्वरसन्तापस्तृष्णा मूर्च्छा बलक्षयः| <br/>\nविश्लेषणं च सन्धीनां मुमूर्षोरुपजायते||२३|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "sahasā jvarasantāpastr̥ṣṇā mūrcchā balakṣayaḥ| viślēṣaṇaṁ ca sandhīnāṁ mumūrṣōrupajāyatē||23||",
+            "html": "<p>sahasā jvarasantāpastr̥ṣṇā mūrcchā balakṣayaḥ| <br/>\nviślēṣaṇaṁ ca sandhīnāṁ mumūrṣōrupajāyatē||23|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "sahasA jvarasantApastRuShNA mUrcchA balakShayaH| vishleShaNaM ca sandhInAM mumUrShorupajAyate||23||",
+            "html": "<p>sahasA jvarasantApastRuShNA mUrcchA balakShayaH| <br/>\nvishleShaNaM ca sandhInAM mumUrShorupajAyate||23|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Sudden fever, thirst, fainting, debility and looseness of joints points to death. [23]",
+            "html": "<p>Sudden fever, thirst, fainting, debility and looseness of joints points to death. [23]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "गोसर्गे वदनाद्यस्य स्वेदः प्रच्यवते भृशम्| लेपज्वरोपतप्तस्य दुर्लभं तस्य जीवितम्||२४||",
+            "html": "<p>गोसर्गे वदनाद्यस्य स्वेदः प्रच्यवते भृशम्| <br/>\nलेपज्वरोपतप्तस्य दुर्लभं तस्य जीवितम्||२४|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "gōsargē vadanādyasya svēdaḥ pracyavatē bhr̥śam| lēpajvarōpataptasya durlabhaṁ tasya jīvitam||24||",
+            "html": "<p>gōsargē vadanādyasya svēdaḥ pracyavatē bhr̥śam| <br/>\nlēpajvarōpataptasya durlabhaṁ tasya jīvitam||24|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "gosarge vadanAdyasya svedaH pracyavate bhRusham| lepajvaropataptasya durlabhaM tasya jIvitam||24||",
+            "html": "<p>gosarge vadanAdyasya svedaH pracyavate bhRusham| <br/>\nlepajvaropataptasya durlabhaM tasya jIvitam||24|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "If a patient suffering from lepajwara i.e. a type of fever patient gets profuse perspiration in the face, there is little chance of his survival. [24]",
+            "html": "<p>If a patient suffering from <i>lepajwara</i> i.e. a type of fever patient gets profuse perspiration in the face, there is little chance of his survival. [24]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Fatal signs of dysphagia",
+            "html": "<h3><span class=\"mw-headline\" id=\"Fatal_signs_of_dysphagia\">Fatal signs of dysphagia</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "नोपैति कण्ठमाहारो जिह्वा कण्ठमुपैति च| आयुष्यन्तं गते जन्तोर्बलं च परिहीयते||२५||",
+            "html": "<p>नोपैति कण्ठमाहारो जिह्वा कण्ठमुपैति च| <br/>\nआयुष्यन्तं गते जन्तोर्बलं च परिहीयते||२५|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "nōpaiti kaṇṭhamāhārō jihvā kaṇṭhamupaiti ca| āyuṣyantaṁ gatē jantōrbalaṁ ca parihīyatē||25||",
+            "html": "<p>nōpaiti kaṇṭhamāhārō jihvā kaṇṭhamupaiti ca| <br/>\nāyuṣyantaṁ gatē jantōrbalaṁ ca parihīyatē||25|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "nopaiti kaNThamAhAro jihvA kaNThamupaiti ca| AyuShyantaM gate jantorbalaM ca parihIyate||25||",
+            "html": "<p>nopaiti kaNThamAhAro jihvA kaNThamupaiti ca| <br/>\nAyuShyantaM gate jantorbalaM ca parihIyate||25|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "If the ingested food does not reach the throat, or the tongue falls back over the throat (thereby causing obstruction ) and there is diminution of strength, then the death of the person is imminent. [25]",
+            "html": "<p>If the ingested food does not reach the throat, or the tongue falls back over the throat (thereby causing obstruction ) and there is diminution of  strength, then   the   death  of the person  is imminent. [25]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Fatal signs of movement of head",
+            "html": "<h3><span class=\"mw-headline\" id=\"Fatal_signs_of_movement_of_head\">Fatal signs of movement of head</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "शिरो विक्षिपते कृच्छ्रान्मुञ्चयित्वा प्रपाणिकौ| ललाटस्रुप्रतस्वेदो मुमूर्षुश्च्युतबन्धनः ||२६||",
+            "html": "<p>शिरो विक्षिपते कृच्छ्रान्मुञ्चयित्वा प्रपाणिकौ| <br/>\nललाटस्रुप्रतस्वेदो मुमूर्षुश्च्युतबन्धनः  ||२६|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "śirō vikṣipatē kr̥cchrānmuñcayitvā prapāṇikau| lalāṭasrupratasvēdō mumūrṣuścyutabandhanaḥ ||26||",
+            "html": "<p>śirō vikṣipatē kr̥cchrānmuñcayitvā prapāṇikau| <br/>\nlalāṭasrupratasvēdō mumūrṣuścyutabandhanaḥ  ||26|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "shiro vikShipate kRucchrAnmu~jcayitvA prapANikau| lalATasrupratasvedo mumUrShushcyutabandhanaH [1] ||26||",
+            "html": "<p>shiro vikShipate kRucchrAnmu~jcayitvA prapANikau| <br/>\nlalATasrupratasvedo mumUrShushcyutabandhanaH [1] ||26|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "If the person moves his head with difficulty with the help of the fore-arms and if there is sweating in the forehead and is a sign of detachment from life, he is moribund. [26]",
+            "html": "<p>If the person moves his head with difficulty with the help of the fore-arms and if there is sweating in the forehead and is a sign of detachment from life, he is moribund. [26]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Summary",
+            "html": "<h3><span class=\"mw-headline\" id=\"Summary\">Summary</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "तत्र श्लोकः- इमानि लिङ्गानि नरेषु बुद्धिमान् विभावयेतावहितो मुमूर्षुषु| क्षणेन भूत्वा ह्युपयान्ति कानिचिन्नचाफलं लिङ्गमिहास्ति किञ्चन||२७||",
+            "html": "<p>तत्र श्लोकः- <br/>\nइमानि लिङ्गानि नरेषु बुद्धिमान् विभावयेतावहितो मुमूर्षुषु| <br/>\nक्षणेन भूत्वा ह्युपयान्ति कानिचिन्नचाफलं लिङ्गमिहास्ति किञ्चन||२७||<br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "tatra ślōkaḥ- imāni liṅgāni narēṣu buddhimān vibhāvayētāvahitō mumūrṣuṣu| kṣaṇēna bhūtvā hyupayānti kānicinnacāphalaṁ liṅgamihāsti kiñcana||27||",
+            "html": "<p>tatra ślōkaḥ- <br/>\nimāni liṅgāni narēṣu buddhimān vibhāvayētāvahitō mumūrṣuṣu| <br/>\nkṣaṇēna bhūtvā hyupayānti kānicinnacāphalaṁ liṅgamihāsti kiñcana||27||<br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "tatra shlokaH- imAni li~ggAni nareShu buddhimAn vibhAvayetAvahito mumUrShuShu| kShaNena bhUtvA hyupayAnti kAnicinnacAphalaM li~ggamihAsti ki~jcana||27||",
+            "html": "<p>tatra shlokaH- <br/>\nimAni li~ggAni nareShu buddhimAn vibhAvayetAvahito mumUrShuShu| <br/>\nkShaNena bhUtvA hyupayAnti kAnicinnacAphalaM li~ggamihAsti ki~jcana||27||<br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Here is the re-capitulatory verse:\nThe wise physician should closely search for these signs repeatedly because some of them disappear in a short moment after their manifestation.",
+            "html": "<p>Here is the re-capitulatory verse:\nThe wise physician should closely search for these signs repeatedly because some of them disappear in a short moment after their manifestation.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "None of these signs remain without leading to the consequences already described i.e. all of them certainly indicate imminent death. [27]",
+            "html": "<p>None of these signs remain without leading to the consequences already described i.e. all of them certainly indicate imminent death. [27]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Tattva Vimarsha (Fundamental Principles)",
+            "html": "<h2><span id=\"Tattva_Vimarsha_.28Fundamental_Principles.29\"></span><span class=\"mw-headline\" id=\"Tattva_Vimarsha_(Fundamental_Principles)\">Tattva Vimarsha (Fundamental Principles)</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ul",
+            "text": "The fatal signs can be observed on eyelids, eyebrows, scalp, nose, face, tongue, teeth, ears, and in abnormal movements of body parts. These signs indicate declining vitality of body.",
+            "html": "<ul><li>The fatal signs can be observed on eyelids, eyebrows, scalp, nose, face, tongue, teeth, ears, and in abnormal movements of body parts. These signs indicate declining vitality of body.</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "The fatal signs can be observed on eyelids, eyebrows, scalp, nose, face, tongue, teeth, ears, and in abnormal movements of body parts. These signs indicate declining vitality of body.",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Vidhi Vimarsha (Applied Inferences )",
+            "html": "<h2><span id=\"Vidhi_Vimarsha_.28Applied_Inferences_.29\"></span><span class=\"mw-headline\" id=\"Vidhi_Vimarsha_(Applied_Inferences_)\">Vidhi Vimarsha (Applied Inferences )</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "h3",
+            "text": "Importance of moribund signs",
+            "html": "<h3><span class=\"mw-headline\" id=\"Importance_of_moribund_signs\">Importance of moribund signs</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "The sign of inverted shadow of dying person (avakshirasa lakshanamitta) should be understood. It is a classification and a unique sign which is not mentioned in contemporary science or in other alternative medicines. Naming a chapter in the Charak Samhita after the sign reflects its importance.[verse 3]",
+            "html": "<p>The sign of inverted shadow of dying person (avakshirasa lakshanamitta) should be understood. It is a classification and a unique sign which is not mentioned in contemporary science or in other alternative medicines. Naming a chapter in the <a class=\"mw-redirect\" href=\"/index.php?title=Charak_Samhita\" title=\"Charak Samhita\">Charak Samhita</a> after the sign reflects its importance.[verse 3]\n</p>",
+            "links": [
+                {
+                    "text": "Charak Samhita",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Signs on eyelids",
+            "html": "<h3><span class=\"mw-headline\" id=\"Signs_on_eyelids\">Signs on eyelids</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Severe blepharitis comprises of matting of eyelids, swollen eyelids, burning vision and may cause death in patients in following conditions:",
+            "html": "<p>Severe blepharitis comprises of matting of eyelids, swollen eyelids, burning vision and may cause death in patients in following conditions:\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "ol",
+            "text": "having a neoplasm affecting the eyelid at the time of the clinical onset of blepharitis; or having xerophthalmia at the time of the clinical onset of blepharitis; or having diabetes mellitus at the time of the clinical onset of blepharitis; or being in an immune-compromised state at the time of the clinical onset of blepharitis; [ verse 4]",
+            "html": "<ol><li>having a neoplasm affecting the eyelid at the time of the clinical onset of blepharitis;</li>\n<li>or having xerophthalmia at the time of the clinical onset of blepharitis;</li>\n<li>or having diabetes mellitus at the time of the clinical onset of blepharitis;</li>\n<li>or being in an immune-compromised state at the time of the clinical onset of blepharitis; [ verse 4]</li></ol>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "having a neoplasm affecting the eyelid at the time of the clinical onset of blepharitis;",
+                    "links": []
+                },
+                {
+                    "text": "or having xerophthalmia at the time of the clinical onset of blepharitis;",
+                    "links": []
+                },
+                {
+                    "text": "or having diabetes mellitus at the time of the clinical onset of blepharitis;",
+                    "links": []
+                },
+                {
+                    "text": "or being in an immune-compromised state at the time of the clinical onset of blepharitis; [ verse 4]",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "h3",
+            "text": "Signs on hairs",
+            "html": "<h3><span class=\"mw-headline\" id=\"Signs_on_hairs\">Signs on hairs</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "A condition of not having pain when uprooting the hairs is found in the end stage of leprosy featuring scalp numbness and alopecia.[ verse 5]\nA condition of unctuous hairs without application of oil is found in the incurable signs of prameha .[ verse 9]",
+            "html": "<p>A condition of not having pain when uprooting the hairs is found in the end stage of leprosy featuring scalp numbness and alopecia.[ verse  5]\nA condition of unctuous hairs without application of oil is found in the incurable signs of <a class=\"mw-redirect\" href=\"/index.php?title=Prameha\" title=\"Prameha\">prameha</a>.[ verse 9]\n</p>",
+            "links": [
+                {
+                    "text": "prameha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prameha"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Signs on nose",
+            "html": "<h3><span class=\"mw-headline\" id=\"Signs_on_nose\">Signs on nose</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "In the Wegener’s granulomatosis the bridge of the nose can collapse resulting in a “saddle–nose deformity due to cartilage inflammation. Death occurs due to kidney failure in such a case. In traditional Chinese medicine a symptom painting (e.g., nasal flaring) is described as a near death sign.[verse 10]",
+            "html": "<p>In the Wegener’s granulomatosis the bridge of the nose can collapse resulting in a “saddle–nose deformity due to cartilage inflammation. Death occurs due to kidney failure in such a case. In traditional Chinese medicine a symptom painting (e.g., nasal flaring) is described as a near death sign.[verse 10]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "In Tibetan medicine, dryness of nose has been described as near death sign. [citation needed] [verse 11]",
+            "html": "<p>In Tibetan medicine, dryness of nose has been described as near death sign. <sup>[citation needed]</sup> [verse 11]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "In contemporary science, extreme pallor of skin and cyanosis is described as a sign for alertness to identify major cause. [citation needed] [ verse 12]",
+            "html": "<p>In contemporary science, extreme pallor of skin and cyanosis is described as a sign for alertness to identify major cause.<sup>[citation needed]</sup>[ verse 12]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Signs on respiration",
+            "html": "<h3><span class=\"mw-headline\" id=\"Signs_on_respiration\">Signs on respiration</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "When death approaches a person his breathing may sound congested; may change in rate, depth and rhythm; there may be periods of breathlessness for 5-30 seconds resulting in Cheyne Stoke breathing.[verse 15]",
+            "html": "<p>When death approaches a person his breathing may sound congested; may change in rate, depth and rhythm; there may be periods of breathlessness for 5-30 seconds resulting in Cheyne Stoke breathing.[verse 15]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Signs of abnormal movements",
+            "html": "<h3><span class=\"mw-headline\" id=\"Signs_of_abnormal_movements\">Signs of abnormal movements</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "The sign of abnormal movements of knees resembles distressed state of the patient suffering from severe pain which is a common near death symptom wherein patient cannot share his experiences with the other people due to widely compromised ability to communicate-a condition resembles Dysdiadokinesia. [verse 17]",
+            "html": "<p>The sign of abnormal movements of knees resembles distressed state of the patient suffering from severe pain which is a common near death symptom wherein patient cannot share his experiences with the other people due to widely compromised ability to communicate-a condition resembles Dysdiadokinesia. [verse 17]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "At the end of life, multi organ failure is observed, including the brain. Higher-order consciousness tends to change; the chemical balance of the body becomes completely upset leading to altered sensation.",
+            "html": "<p>At the end of life, multi organ failure is observed, including the brain. Higher-order consciousness tends to change; the chemical balance of the body becomes completely upset leading to altered sensation.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Saavedra-Aguilar and Gomez-Jeria’s (1989) model [citation needed] invokes temporal-lobe dysfunction, hypoxia, psychological stress, and neurotransmitter changes to explain the NDE. According to this model, brain stress caused by traumatic events leads to the release of endogenous neuropeptides, neurotransmitters, or both, producing such effects as analgesia, euphoria, and detachment.",
+            "html": "<p>Saavedra-Aguilar and  Gomez-Jeria’s (1989) model<sup>[citation needed]</sup> invokes temporal-lobe dysfunction, hypoxia, psychological stress, and neurotransmitter changes to explain the NDE. According to this model, brain  stress  caused  by  traumatic  events leads to the release of endogenous  neuropeptides, neurotransmitters, or both, producing such effects as analgesia, euphoria, and detachment.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Terminal restlessness is a particularly distressing form of delirium that may occur in dying patients. It is characterized by anguish (spiritual, emotional, or physical), restlessness, anxiety, agitation, and cognitive failure, caused by decrease in oxygen circulation to the brain and by metabolic changes. [ 1 ] [verse 18-20]",
+            "html": "<p>Terminal restlessness is a particularly distressing form of delirium that may occur in dying patients. It is characterized by anguish (spiritual, emotional, or physical), restlessness, anxiety, agitation, and cognitive failure, caused by decrease in oxygen circulation to the brain and by metabolic changes.<sup class=\"reference\" id=\"cite_ref-1\"><a href=\"#cite_note-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup> [verse 18-20]\n</p>",
+            "links": [
+                {
+                    "text": "[ 1 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#cite_note-1"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Many NDEs share with dissociation or disconnection of perception, cognition, emotion, and identity from the mainstream of the individual’s conscious awareness (Greyson, 1997). [ 2 ]",
+            "html": "<p>Many NDEs share with dissociation or disconnection of perception, cognition, emotion, and identity from the mainstream of the individual’s conscious awareness (Greyson, 1997).<sup class=\"reference\" id=\"cite_ref-2\"><a href=\"#cite_note-2\"><span class=\"cite-bracket\">[</span>2<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 2 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#cite_note-2"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Signs of acute fever",
+            "html": "<h3><span class=\"mw-headline\" id=\"Signs_of_acute_fever\">Signs of acute fever</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Hectic fever is a daily recurring fever with profound sweating, chills, and flushed appearance often associated with pulmonary tuberculosis or septic poisoning. [citation needed] [verse 24]",
+            "html": "<p>Hectic fever is a daily recurring fever with profound sweating, chills, and flushed appearance often associated with pulmonary tuberculosis or septic poisoning.<sup>[citation needed]</sup> [verse 24]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Signs of deglutition",
+            "html": "<h3><span class=\"mw-headline\" id=\"Signs_of_deglutition\">Signs of deglutition</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Inability to swallow the oral food contents, leads to choking or enters the trachea causing fatality.[ verse 25]",
+            "html": "<p>Inability to swallow the oral food contents, leads to choking or enters the trachea causing fatality.[ verse 25]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Chyutabandhanaḥ (Detachment from life) symptom can be interpreted either as release of all bodily sphincters or complete detachment of the bindings of the world, both acknowledged by contemporary science. [citation needed] [ verse 26]",
+            "html": "<p>Chyutabandhanaḥ (Detachment from life) symptom can be interpreted either as release of all bodily sphincters or complete detachment of the  bindings of the world, both acknowledged by contemporary science.<sup>[citation needed]</sup>[ verse 26]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Similar cross references in other Ayurveda texts",
+            "html": "<h3><span class=\"mw-headline\" id=\"Similar_cross_references_in_other_Ayurveda_texts\">Similar cross references in other <a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a> texts</span></h3>",
+            "links": [
+                {
+                    "text": "Ayurveda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayurveda"
+                }
+            ],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Verse 4 - 7 : Su.Sa. Sutra Sthana 31/10. [ 3 ] , A. H. Sharira Sthana 5/17 [ 4 ]",
+            "html": "<p><b>Verse 4 - 7</b>: Su.Sa. Sutra Sthana 31/10. <sup class=\"reference\" id=\"cite_ref-Sushruta_3-0\"><a href=\"#cite_note-Sushruta-3\"><span class=\"cite-bracket\">[</span>3<span class=\"cite-bracket\">]</span></a></sup>, A. H. Sharira Sthana 5/17 <sup class=\"reference\" id=\"cite_ref-Vagbhata_4-0\"><a href=\"#cite_note-Vagbhata-4\"><span class=\"cite-bracket\">[</span>4<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 3 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#cite_note-Sushruta-3"
+                },
+                {
+                    "text": "[ 4 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#cite_note-Vagbhata-4"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Verse 08 : Cha.Sa. Anujyotiyam Indriyam Adhyaya verse 17",
+            "html": "<p><b>Verse 08</b>:  Cha.Sa. <a href=\"/index.php?title=Anujyotiyam_Indriyam_Adhyaya\" title=\"Anujyotiyam Indriyam Adhyaya\">Anujyotiyam Indriyam Adhyaya</a> verse 17\n</p>",
+            "links": [
+                {
+                    "text": "Anujyotiyam Indriyam Adhyaya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Anujyotiyam_Indriyam_Adhyaya"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Verse 09 : A. H. Sharira Sthana 5/16,19. [ 4 ]",
+            "html": "<p><b>Verse 09</b>: A. H. Sharira Sthana 5/16,19. <sup class=\"reference\" id=\"cite_ref-Vagbhata_4-1\"><a href=\"#cite_note-Vagbhata-4\"><span class=\"cite-bracket\">[</span>4<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 4 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#cite_note-Vagbhata-4"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Verse 10-12 : Su.Sa. Sutra Sthana 31/8. [ 3 ]",
+            "html": "<p><b>Verse 10-12</b>: Su.Sa. Sutra Sthana 31/8. <sup class=\"reference\" id=\"cite_ref-Sushruta_3-1\"><a href=\"#cite_note-Sushruta-3\"><span class=\"cite-bracket\">[</span>3<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 3 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#cite_note-Sushruta-3"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Verse 13 : Su.Sa. Sutra Sthana 31/6, [ 3 ] , A. H. Sharira Sthana 5/10. [ 4 ] .",
+            "html": "<p><b>Verse 13</b>: Su.Sa. Sutra Sthana 31/6, <sup class=\"reference\" id=\"cite_ref-Sushruta_3-2\"><a href=\"#cite_note-Sushruta-3\"><span class=\"cite-bracket\">[</span>3<span class=\"cite-bracket\">]</span></a></sup>, A. H. Sharira Sthana 5/10. <sup class=\"reference\" id=\"cite_ref-Vagbhata_4-2\"><a href=\"#cite_note-Vagbhata-4\"><span class=\"cite-bracket\">[</span>4<span class=\"cite-bracket\">]</span></a></sup>.\n</p>",
+            "links": [
+                {
+                    "text": "[ 3 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#cite_note-Sushruta-3"
+                },
+                {
+                    "text": "[ 4 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#cite_note-Vagbhata-4"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Verse 14 : Su.Sa. Sutra Sthana 31/7, [ 3 ] , A. H. Sharira Sthana 5/10. [ 4 ] .",
+            "html": "<p><b>Verse 14</b>: Su.Sa. Sutra Sthana 31/7, <sup class=\"reference\" id=\"cite_ref-Sushruta_3-3\"><a href=\"#cite_note-Sushruta-3\"><span class=\"cite-bracket\">[</span>3<span class=\"cite-bracket\">]</span></a></sup>, A. H. Sharira Sthana 5/10. <sup class=\"reference\" id=\"cite_ref-Vagbhata_4-3\"><a href=\"#cite_note-Vagbhata-4\"><span class=\"cite-bracket\">[</span>4<span class=\"cite-bracket\">]</span></a></sup>. \n</p>",
+            "links": [
+                {
+                    "text": "[ 3 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#cite_note-Sushruta-3"
+                },
+                {
+                    "text": "[ 4 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#cite_note-Vagbhata-4"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Verse 18-19 : Su.Sa. Sutra Sthana 31/7, [ 3 ] , A. H. Sharira Sthana 5/10. [ 4 ] .",
+            "html": "<p><b>Verse 18-19</b>: Su.Sa. Sutra Sthana 31/7,<sup class=\"reference\" id=\"cite_ref-Sushruta_3-4\"><a href=\"#cite_note-Sushruta-3\"><span class=\"cite-bracket\">[</span>3<span class=\"cite-bracket\">]</span></a></sup>, A. H. Sharira Sthana 5/10. <sup class=\"reference\" id=\"cite_ref-Vagbhata_4-4\"><a href=\"#cite_note-Vagbhata-4\"><span class=\"cite-bracket\">[</span>4<span class=\"cite-bracket\">]</span></a></sup>. \n</p>",
+            "links": [
+                {
+                    "text": "[ 3 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#cite_note-Sushruta-3"
+                },
+                {
+                    "text": "[ 4 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#cite_note-Vagbhata-4"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Verse 22 : Su.Sa. Sutra Sthana 31/11, [ 3 ] , A. H. Sharira Sthana 5/11. [ 4 ] .",
+            "html": "<p><b>Verse 22</b>: Su.Sa. Sutra Sthana 31/11, <sup class=\"reference\" id=\"cite_ref-Sushruta_3-5\"><a href=\"#cite_note-Sushruta-3\"><span class=\"cite-bracket\">[</span>3<span class=\"cite-bracket\">]</span></a></sup>, A. H. Sharira Sthana 5/11. <sup class=\"reference\" id=\"cite_ref-Vagbhata_4-5\"><a href=\"#cite_note-Vagbhata-4\"><span class=\"cite-bracket\">[</span>4<span class=\"cite-bracket\">]</span></a></sup>. \n</p>",
+            "links": [
+                {
+                    "text": "[ 3 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#cite_note-Sushruta-3"
+                },
+                {
+                    "text": "[ 4 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#cite_note-Vagbhata-4"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Verse 23 : A. H. Sharira Sthana 5/109. [ 4 ] .",
+            "html": "<p><b>Verse 23</b>: A. H. Sharira Sthana 5/109. <sup class=\"reference\" id=\"cite_ref-Vagbhata_4-6\"><a href=\"#cite_note-Vagbhata-4\"><span class=\"cite-bracket\">[</span>4<span class=\"cite-bracket\">]</span></a></sup>. \n</p>",
+            "links": [
+                {
+                    "text": "[ 4 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#cite_note-Vagbhata-4"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Verse 24 : A. H. Sharira Sthana 5/110. [ 4 ] .",
+            "html": "<p><b>Verse 24</b>: A. H. Sharira Sthana 5/110. <sup class=\"reference\" id=\"cite_ref-Vagbhata_4-7\"><a href=\"#cite_note-Vagbhata-4\"><span class=\"cite-bracket\">[</span>4<span class=\"cite-bracket\">]</span></a></sup>. \n</p>",
+            "links": [
+                {
+                    "text": "[ 4 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#cite_note-Vagbhata-4"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Verse 26 : A. H. Sharira Sthana 5/57. [ 4 ] .",
+            "html": "<p><b>Verse 26</b>: A. H. Sharira Sthana 5/57. <sup class=\"reference\" id=\"cite_ref-Vagbhata_4-8\"><a href=\"#cite_note-Vagbhata-4\"><span class=\"cite-bracket\">[</span>4<span class=\"cite-bracket\">]</span></a></sup>. \n</p>",
+            "links": [
+                {
+                    "text": "[ 4 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#cite_note-Vagbhata-4"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Note: Thirty six moribund signs are mentioned in section of Sanskrit shloka and their translation in English and are not repeated here.",
+            "html": "<p>Note: Thirty six moribund signs are mentioned in section of Sanskrit <i>shloka</i> and their translation in English and are not repeated here.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Contemporary views of prognostic features",
+            "html": "<h3><span class=\"mw-headline\" id=\"Contemporary_views_of_prognostic_features\">Contemporary views of prognostic features</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "The prognostic features described in the text can be observed in various disease conditions in contemporary clinical practice. The probable relevant conditions are summarized in the table 2. [ 5 ]",
+            "html": "<p>The prognostic features described in the text can be observed in various disease conditions in contemporary clinical practice. The probable relevant conditions are summarized in the table 2.<sup class=\"reference\" id=\"cite_ref-5\"><a href=\"#cite_note-5\"><span class=\"cite-bracket\">[</span>5<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 5 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#cite_note-5"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "Prognositc feature reference",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "th",
+                        "text": "Contemporary views and relevant disease condition",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Inverted Shadow [Cha.Sa. Indriya Sthana 8/3]",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Shadow analysis; similar to radio-diagnosis or imaging studies; shadows represents internal body parts;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Signs on eyelashes [Cha.Sa. Indriya Sthana 8/4]",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Blepharitis due to parasitic or fungal eye infections with secondary immunosupression; Automminue disease with ocular manifestations;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Signs on eyelids [Cha.Sa. Indriya Sthana 8/5]",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Grave’s ophthalmopathy;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Signs on eyebrow [Cha.Sa. Indriya Sthana 8/6-7]",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Seborrhoea in an immunocompromised patients; Carcinomas with an opportunistic scalp fungal infections or autonomic dysfunctions; Skull base tumours or metastatic skull tumours or brain tumours;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Signs on hair pulling [Cha.Sa. Indriya Sthana 8/8]",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Syringomyelia; Pure neuritis form of Leprosy (PNL); DSDP (Diabetic symmetric distal polyneuropathy); Acute sensory polyneuritis in GBS (Guillain-Barre syndrome); Sensory neuropathies;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Signs on hair unctouness [Cha.Sa. Indriya Sthana 8/9]",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Seborrhoea in an immunocompromised patients; Seborrheic dermatitis in AIDS (Acquired immuno-deficiency syndrome);",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Signs on nasal ridge [Cha.Sa. Indriya Sthana 8/10]",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Saddle nose deformity in Leprosy, Syphilis, Wegeners granulomatosis; Rhinophyma; Maxillary or occult basal cell carcinomas; Nasal septal deviations;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Signs on nostrils [Cha.Sa. Indriya Sthana 8/11]",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "SND (saddle nose deformity); Nasal and paranasal carcinomas and benign tumours; Hemangiomas; Lupus vulgaris; Sarcodiosis; Granulomas;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Signs on face [Cha.Sa. Indriya Sthana 8/12]",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Anaemia; Hyperpigmentation; Cutaneous flushing in various neuroendocrine diseases; Cyanosis; Acrocyanosis;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Signs on teeth [Cha.Sa. Indriya Sthana 8/13]",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Dental fluorosis; Periodontitis in oral, lung and pancreatic carcinomas; Hypomeineralization or demineralization of enamel in carcinomas or metastases;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Signs on toungue [Cha.Sa. Indriya Sthana 8/14]",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Pseuobulbar palsy; Myotonia; Progressive bulbar palsy; Pathology of cranial nerves V, VII and IX; DMD (Duchenne muscular dystrophy); ALS (Amyotrophic lateral sclerosis); MG (Myasthenia gravis); Macroglossia; Leukemia; Carcinomas; Inflammations;Fissured tongue in vitamin deficiencies; Black hairy tongue; Pathological pigmentation of tongue seen in Addison’s disease; Neoplastic causes; Atrophy of the tongue in various LMN (lower motor neuron) syndromes; Pathology of cranial nerves VII & XII; LMN syndromes;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Signs on pattern of respiration [Cha.Sa. Indriya Sthana 8/15]",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Abnormal breathing patterns like ‘Apenustic’, ‘Cheyne-Stokes’, ‘Kussumaul’ etc seen in cardio-pulmonary conditions, cerebrovascular accidents, metabolic acidosis and diabetic ketoacidiosis etc;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Signs of cold extremities [Cha.Sa. Indriya Sthana 8/16]",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Hypovolemic shock;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Signs on knee movements [Cha.Sa. Indriya Sthana 8/17]",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Movement disorders seen in brain injuries; Status epilepticus (SE); Hyperactive subtype of Delirium;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Signs of abnormal behavior pattern [Cha.Sa. Indriya Sthana 8/18]",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Nail biting, Trichotillomania and stereotypies seen in OCD spectrum disorders; Self injurious behaviours (SIBs) seen in Tourette’s syndrome (TS);",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Signs of bruxism [Cha.Sa. Indriya Sthana 8/19]",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Awake bruxism seen in various neuropsychiatric conditions; TMDs (Temporomandibular disorders) seen in Schizophrenia;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Signs of abnormal behavior [Cha.Sa. Indriya Sthana 8/20]",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Movement disorders or dystonia with ‘gesteantagoniste’ or ‘sensory trick’ or ‘alleviating manoeuvre’; Restless legs syndrome (RLS); Neuropsychiatric Lyme borreliosis; Basal ganglia encephalitis;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Signs of depression [Cha.Sa. Indriya Sthana 8/21]",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Major depressive disorder (MDD); Negative symptoms of Schizophrenia; Cotard syndrome (CS); Catatonia; Bipolar mood disorder; Organic mood disorder;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Signs of drooping body posture [Cha.Sa. Indriya Sthana 8/22]",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "NMDs (Neuromuscular disorders); LMN (lower motor neuron) syndromes;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Signs of acute fever [Cha.Sa. Indriya Sthana 8/23]",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Acute septic arthritis; Septic shock; SIRS (Systemic inflammatory response syndrome); MODS (Multi organ dysfunction syndrome);",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Signs of hectic fever [Cha.Sa. Indriya Sthana 8/24]",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Fever in neoplastic conditions; Cutaneous flushing in Neuroendocrinal diseases; Pheochromocytoma and Paraganglioma (PPGLs);",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Signs of dysphagia [Cha.Sa. Indriya Sthana 8/25]",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Neuromuscular disorders (NMDs); ALS (Amyotrophic lateral sclerosis); Oropharyngeal dysphagia;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Signs of abnormal head movements [Cha.Sa. Indriya Sthana 8/26]",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Focal hyperhidrosis (acquired); Versive seizures; Frontal and occipital lobe seizures; Spinal cord injury (SCI); Syringomyelia; Intramedullary spinal cord tumours;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ]
+            ],
+            "html": "<table class=\"wikitable\">\n<caption>Table 2: Contemporary views of prognostic features\n</caption>\n<tbody><tr>\n<th>Prognositc feature reference</th>\n<th>Contemporary views and relevant disease condition\n</th></tr>\n<tr>\n<td>Inverted Shadow [Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 8/3]</td>\n<td>Shadow analysis; similar to radio-diagnosis or imaging studies; shadows represents internal body parts;\n</td></tr>\n<tr>\n<td>Signs on eyelashes [Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 8/4]</td>\n<td>Blepharitis due to parasitic or fungal eye infections with secondary immunosupression; Automminue disease with ocular manifestations;\n</td></tr>\n<tr>\n<td>Signs on eyelids [Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 8/5]</td>\n<td>Grave’s ophthalmopathy;\n</td></tr>\n<tr>\n<td>Signs on eyebrow [Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 8/6-7]</td>\n<td>Seborrhoea in an immunocompromised patients; Carcinomas with an opportunistic scalp fungal infections or autonomic dysfunctions; Skull base tumours or metastatic skull tumours or brain tumours;\n</td></tr>\n<tr>\n<td>Signs on hair pulling [Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 8/8]</td>\n<td>Syringomyelia; Pure neuritis form of Leprosy (PNL); DSDP (Diabetic symmetric distal polyneuropathy); Acute sensory polyneuritis in GBS (Guillain-Barre syndrome); Sensory neuropathies;\n</td></tr>\n<tr>\n<td>Signs on  hair unctouness [Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 8/9]</td>\n<td>Seborrhoea in an immunocompromised patients; Seborrheic dermatitis in AIDS (Acquired immuno-deficiency syndrome);\n</td></tr>\n<tr>\n<td>Signs on  nasal ridge [Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 8/10]</td>\n<td>Saddle nose deformity in Leprosy, Syphilis, Wegeners granulomatosis; Rhinophyma; Maxillary or occult basal cell carcinomas; Nasal septal deviations;\n</td></tr>\n<tr>\n<td>Signs on nostrils [Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 8/11]</td>\n<td>SND (saddle nose deformity); Nasal and paranasal carcinomas and benign tumours; Hemangiomas; Lupus vulgaris; Sarcodiosis; Granulomas;\n</td></tr>\n<tr>\n<td>Signs on  face [Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 8/12]</td>\n<td>Anaemia; Hyperpigmentation; Cutaneous flushing in various neuroendocrine diseases; Cyanosis; Acrocyanosis;\n</td></tr>\n<tr>\n<td>Signs on  teeth [Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 8/13]</td>\n<td>Dental fluorosis; Periodontitis in oral, lung and pancreatic carcinomas; Hypomeineralization or demineralization of enamel in carcinomas or metastases;\n</td></tr>\n<tr>\n<td>Signs on  toungue [Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 8/14]</td>\n<td>Pseuobulbar palsy; Myotonia; Progressive bulbar palsy; Pathology of cranial nerves V, VII and IX; DMD (Duchenne muscular dystrophy); ALS (Amyotrophic lateral sclerosis); MG (Myasthenia gravis); Macroglossia; Leukemia; Carcinomas; Inflammations;Fissured tongue in vitamin deficiencies; Black hairy tongue; Pathological pigmentation of tongue seen in Addison’s disease; Neoplastic causes; Atrophy of the tongue in various LMN (lower motor neuron) syndromes; Pathology of cranial nerves VII &amp; XII; LMN syndromes;\n</td></tr>\n<tr>\n<td>Signs on pattern of respiration [Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 8/15]</td>\n<td>Abnormal breathing patterns like ‘Apenustic’, ‘Cheyne-Stokes’, ‘Kussumaul’ etc seen in cardio-pulmonary conditions, cerebrovascular accidents, metabolic acidosis and diabetic ketoacidiosis etc;\n</td></tr>\n<tr>\n<td>Signs of cold extremities  [Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 8/16]</td>\n<td>Hypovolemic shock;\n</td></tr>\n<tr>\n<td>Signs on  knee movements [Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 8/17]</td>\n<td>Movement disorders seen in brain injuries; Status epilepticus (SE); Hyperactive subtype of Delirium;\n</td></tr>\n<tr>\n<td>Signs of abnormal behavior pattern [Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 8/18]</td>\n<td>Nail biting, Trichotillomania and stereotypies seen in OCD spectrum disorders; Self injurious behaviours (SIBs) seen in  Tourette’s syndrome (TS);\n</td></tr>\n<tr>\n<td>Signs of bruxism [Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 8/19]</td>\n<td>Awake bruxism seen in various neuropsychiatric conditions; TMDs (Temporomandibular disorders) seen in Schizophrenia;\n</td></tr>\n<tr>\n<td>Signs of abnormal behavior  [Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 8/20]</td>\n<td>Movement disorders or dystonia with ‘gesteantagoniste’ or  ‘sensory trick’ or ‘alleviating manoeuvre’; Restless legs syndrome (RLS); Neuropsychiatric Lyme borreliosis; Basal ganglia encephalitis;\n</td></tr>\n<tr>\n<td>Signs of depression [Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 8/21]</td>\n<td>Major depressive disorder (MDD); Negative symptoms of Schizophrenia; Cotard syndrome (CS); Catatonia; Bipolar mood disorder; Organic mood disorder;\n</td></tr>\n<tr>\n<td>Signs of drooping body posture [Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 8/22]</td>\n<td>NMDs (Neuromuscular disorders); LMN (lower motor neuron) syndromes;\n</td></tr>\n<tr>\n<td>Signs of  acute fever [Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 8/23]</td>\n<td>Acute septic arthritis; Septic shock; SIRS (Systemic inflammatory response syndrome); MODS (Multi organ dysfunction syndrome);\n</td></tr>\n<tr>\n<td>Signs of hectic fever [Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 8/24]</td>\n<td>Fever in neoplastic conditions; Cutaneous flushing in Neuroendocrinal diseases; Pheochromocytoma and Paraganglioma (PPGLs);\n</td></tr>\n<tr>\n<td>Signs of dysphagia [Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 8/25]</td>\n<td>Neuromuscular disorders (NMDs); ALS (Amyotrophic lateral sclerosis); Oropharyngeal dysphagia;\n</td></tr>\n<tr>\n<td>Signs of abnormal head movements [Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 8/26]</td>\n<td>Focal hyperhidrosis (acquired); Versive seizures; Frontal and occipital lobe seizures; Spinal cord injury (SCI); Syringomyelia; Intramedullary spinal cord tumours;\n</td></tr>\n</tbody></table>",
+            "links": [
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Acknowledgement: The contributors acknowledge support of Dr. M. Prasad and Dr.G.Kshama for providing tables 2,3 and 4 from their published article referred in this chapter.",
+            "html": "<p><b>Acknowledgement:</b> The contributors acknowledge support of Dr. M. Prasad and Dr.G.Kshama for providing tables 2,3 and 4 from their published article referred in this chapter.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Send us your suggestions and feedback on this page.",
+            "html": "<p><big><b><a href=\"/index.php?title=Special:ContactMe\" title=\"Special:ContactMe\">Send us your suggestions and feedback on this page.</a></b></big>\n</p>",
+            "links": [
+                {
+                    "text": "Send us your suggestions and feedback on this page.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Special:ContactMe"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "References",
+            "html": "<h2><span class=\"mw-headline\" id=\"References\">References</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ol",
+            "text": "↑ Kinzbrunner, BM; Weinreb, NJ; Policzer, JS; 20 Common Problems: End of Life Care, McGraw-Hill Publishing, 2002 ↑ Greyson, B. - The near-death experience as a focus of clinical attention. J Nerv Ment Dis 185:327-334, 1997 ↑ 3.0 3.1 3.2 3.3 3.4 3.5 Sushruta. Sushruta Samhita. Edited by Jadavaji Trikamji Aacharya. 8th ed. Varanasi: Chaukhambha Orientalia;2005. ↑ 4.0 4.1 4.2 4.3 4.4 4.5 4.6 4.7 4.8 Vagbhata. Ashtanga Hridayam. Edited by Harishastri Paradkar Vaidya. 1st ed. Varanasi: Krishnadas Academy;2000. ↑ Gupta K. et.al., Avaakshiraseeyam of Charaka Indriya Sthana- An Explorative Study, Int. J. Ayu. Alt. Med., 2019; 7(6): 236-251",
+            "html": "<ol class=\"references\">\n<li id=\"cite_note-1\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-1\">↑</a></span> <span class=\"reference-text\"> Kinzbrunner, BM; Weinreb, NJ; Policzer, JS; 20 Common Problems: End of Life Care, McGraw-Hill Publishing, 2002 </span>\n</li>\n<li id=\"cite_note-2\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-2\">↑</a></span> <span class=\"reference-text\"> Greyson, B. - The near-death experience as a focus of clinical attention. J Nerv Ment Dis 185:327-334, 1997 </span>\n</li>\n<li id=\"cite_note-Sushruta-3\"><span class=\"mw-cite-backlink\">↑ <sup><a href=\"#cite_ref-Sushruta_3-0\">3.0</a></sup> <sup><a href=\"#cite_ref-Sushruta_3-1\">3.1</a></sup> <sup><a href=\"#cite_ref-Sushruta_3-2\">3.2</a></sup> <sup><a href=\"#cite_ref-Sushruta_3-3\">3.3</a></sup> <sup><a href=\"#cite_ref-Sushruta_3-4\">3.4</a></sup> <sup><a href=\"#cite_ref-Sushruta_3-5\">3.5</a></sup></span> <span class=\"reference-text\"> Sushruta. Sushruta Samhita. Edited by Jadavaji Trikamji Aacharya. 8th ed. Varanasi: Chaukhambha Orientalia;2005.</span>\n</li>\n<li id=\"cite_note-Vagbhata-4\"><span class=\"mw-cite-backlink\">↑ <sup><a href=\"#cite_ref-Vagbhata_4-0\">4.0</a></sup> <sup><a href=\"#cite_ref-Vagbhata_4-1\">4.1</a></sup> <sup><a href=\"#cite_ref-Vagbhata_4-2\">4.2</a></sup> <sup><a href=\"#cite_ref-Vagbhata_4-3\">4.3</a></sup> <sup><a href=\"#cite_ref-Vagbhata_4-4\">4.4</a></sup> <sup><a href=\"#cite_ref-Vagbhata_4-5\">4.5</a></sup> <sup><a href=\"#cite_ref-Vagbhata_4-6\">4.6</a></sup> <sup><a href=\"#cite_ref-Vagbhata_4-7\">4.7</a></sup> <sup><a href=\"#cite_ref-Vagbhata_4-8\">4.8</a></sup></span> <span class=\"reference-text\"> Vagbhata. Ashtanga Hridayam. Edited by Harishastri Paradkar Vaidya. 1st ed. Varanasi: Krishnadas Academy;2000.</span>\n</li>\n<li id=\"cite_note-5\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-5\">↑</a></span> <span class=\"reference-text\">Gupta K. et.al., Avaakshiraseeyam of Charaka Indriya Sthana- An Explorative Study, Int. J. Ayu. Alt. Med., 2019; 7(6): 236-251</span>\n</li>\n</ol>",
+            "links": [
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#cite_ref-1"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#cite_ref-2"
+                },
+                {
+                    "text": "3.0",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#cite_ref-Sushruta_3-0"
+                },
+                {
+                    "text": "3.1",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#cite_ref-Sushruta_3-1"
+                },
+                {
+                    "text": "3.2",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#cite_ref-Sushruta_3-2"
+                },
+                {
+                    "text": "3.3",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#cite_ref-Sushruta_3-3"
+                },
+                {
+                    "text": "3.4",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#cite_ref-Sushruta_3-4"
+                },
+                {
+                    "text": "3.5",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#cite_ref-Sushruta_3-5"
+                },
+                {
+                    "text": "4.0",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#cite_ref-Vagbhata_4-0"
+                },
+                {
+                    "text": "4.1",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#cite_ref-Vagbhata_4-1"
+                },
+                {
+                    "text": "4.2",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#cite_ref-Vagbhata_4-2"
+                },
+                {
+                    "text": "4.3",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#cite_ref-Vagbhata_4-3"
+                },
+                {
+                    "text": "4.4",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#cite_ref-Vagbhata_4-4"
+                },
+                {
+                    "text": "4.5",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#cite_ref-Vagbhata_4-5"
+                },
+                {
+                    "text": "4.6",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#cite_ref-Vagbhata_4-6"
+                },
+                {
+                    "text": "4.7",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#cite_ref-Vagbhata_4-7"
+                },
+                {
+                    "text": "4.8",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#cite_ref-Vagbhata_4-8"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#cite_ref-5"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "↑ Kinzbrunner, BM; Weinreb, NJ; Policzer, JS; 20 Common Problems: End of Life Care, McGraw-Hill Publishing, 2002",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#cite_ref-1"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Greyson, B. - The near-death experience as a focus of clinical attention. J Nerv Ment Dis 185:327-334, 1997",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#cite_ref-2"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ 3.0 3.1 3.2 3.3 3.4 3.5 Sushruta. Sushruta Samhita. Edited by Jadavaji Trikamji Aacharya. 8th ed. Varanasi: Chaukhambha Orientalia;2005.",
+                    "links": [
+                        {
+                            "text": "3.0",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#cite_ref-Sushruta_3-0"
+                        },
+                        {
+                            "text": "3.1",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#cite_ref-Sushruta_3-1"
+                        },
+                        {
+                            "text": "3.2",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#cite_ref-Sushruta_3-2"
+                        },
+                        {
+                            "text": "3.3",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#cite_ref-Sushruta_3-3"
+                        },
+                        {
+                            "text": "3.4",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#cite_ref-Sushruta_3-4"
+                        },
+                        {
+                            "text": "3.5",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#cite_ref-Sushruta_3-5"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ 4.0 4.1 4.2 4.3 4.4 4.5 4.6 4.7 4.8 Vagbhata. Ashtanga Hridayam. Edited by Harishastri Paradkar Vaidya. 1st ed. Varanasi: Krishnadas Academy;2000.",
+                    "links": [
+                        {
+                            "text": "4.0",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#cite_ref-Vagbhata_4-0"
+                        },
+                        {
+                            "text": "4.1",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#cite_ref-Vagbhata_4-1"
+                        },
+                        {
+                            "text": "4.2",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#cite_ref-Vagbhata_4-2"
+                        },
+                        {
+                            "text": "4.3",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#cite_ref-Vagbhata_4-3"
+                        },
+                        {
+                            "text": "4.4",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#cite_ref-Vagbhata_4-4"
+                        },
+                        {
+                            "text": "4.5",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#cite_ref-Vagbhata_4-5"
+                        },
+                        {
+                            "text": "4.6",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#cite_ref-Vagbhata_4-6"
+                        },
+                        {
+                            "text": "4.7",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#cite_ref-Vagbhata_4-7"
+                        },
+                        {
+                            "text": "4.8",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#cite_ref-Vagbhata_4-8"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Gupta K. et.al., Avaakshiraseeyam of Charaka Indriya Sthana- An Explorative Study, Int. J. Ayu. Alt. Med., 2019; 7(6): 236-251",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya#cite_ref-5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "text": "Back to the Top"
+        },
+        {
+            "type": "text",
+            "text": "NewPP limit report\nCached time: 20261111165854\nCache expiry: 86400\nReduced expiry: false\nComplications: [vary‐revision‐id, show‐toc]\nCPU time usage: 0.109 seconds\nReal time usage: 0.259 seconds\nPreprocessor visited node count: 587/1000000\nPost‐expand include size: 2541/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 3/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 5214/5000000 bytes\nLua time usage: 0.140/7 seconds\nLua virtual size: 20348928/209715200 bytes\nLua estimated memory usage: 0 bytes"
+        },
+        {
+            "type": "text",
+            "text": "Transclusion expansion time report (%,ms,calls,template)\n100.00% 218.171 1 -total\n96.49% 210.518 1 Template:Infobox\n0.83% 1.816 1 Template:CiteButton"
+        },
+        {
+            "type": "text",
+            "text": "Saved in parser cache with key carakas1_carakasa:pcache:idhash:3224-0!canonical and timestamp 20261111165854 and revision id 44530. Rendering was triggered because: page-view"
+        },
+        {
+            "type": "text",
+            "text": "Retrieved from \""
+        },
+        {
+            "type": "text",
+            "text": "https://www.carakasamhitaonline.com/index.php?title=Avakshiraseeyam_Indriyam_Adhyaya&oldid=44530"
+        },
+        {
+            "type": "text",
+            "text": "\""
+        }
+    ],
+    "html_sha256": "a10cc8beb185d4477b92fbb8c3cdd365e7894630ad5464321a6a24259a63f418"
+}

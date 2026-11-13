@@ -1,0 +1,1474 @@
+==========================================================================================
+CHARAKA SAMHITA
+ROGANIKA VIMANA
+==========================================================================================
+
+Source URL: https://www.carakasamhitaonline.com/index.php?title=Roganika_Vimana
+Extraction Date: 2026-11-12T14:38:24
+Total Blocks: 163
+
+==========================================================================================
+
+
+[BLOCK 1: H1]
+----------------------------------------------------------------------
+Roganika Vimana
+
+
+[BLOCK 2: TEXT]
+----------------------------------------------------------------------
+From Charak Samhita
+
+
+[BLOCK 3: TEXT]
+----------------------------------------------------------------------
+Jump to navigation
+
+
+[BLOCK 4: TEXT]
+----------------------------------------------------------------------
+Jump to search
+
+
+[BLOCK 5: FIGURE]
+----------------------------------------------------------------------
+
+
+[REFERENCES / LINKS]
+ : https://www.carakasamhitaonline.com/index.php?title=Special:CiteThisPage&page=Roganika_Vimana&id=44510&wpFormIdentifier=titleform
+
+[IMAGES]
+ : https://www.carakasamhitaonline.com/images/5/58/Cite.png
+
+
+[BLOCK 6: P]
+----------------------------------------------------------------------
+Vimana Sthana Chapter 6. Classification of Diseases
+
+
+[BLOCK 7: TABLE]
+----------------------------------------------------------------------
+[COMPLETE TABLE]
+
+Row 1:
+Column 1: Section/Chapter
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Vimana Sthana Chapter 6
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 2:
+Column 1: Preceding Chapter
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Sroto Vimana
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 3:
+Column 1: Succeeding Chapter
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Vyadhita Rupiya Vimana
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 4:
+Column 1: Other Sections
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Sutra Sthana , Nidana Sthana , Sharira Sthana , Indriya Sthana , Chikitsa Sthana , Kalpa Sthana , Siddhi Sthana
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 5:
+Column 1: Translator and commentator
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Chandola H.M., Kajaria D.
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 6:
+Column 1: Reviewer
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Paliwal M., Sapra U.
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 7:
+Column 1: Editors
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Pol A., Deole Y.S. , Basisht G.
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 8:
+Column 1: Year of publication
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: 2020
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 9:
+Column 1: Publisher
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Charak Samhita Research, Training and Skill Development Centre
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 10:
+Column 1: DOI
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: 10.47468/CSNE.2020.e01.s03.007
+  Type: td, Rowspan: 1, Colspan: 1
+
+[REFERENCES / LINKS]
+Vimana Sthana : https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana
+Sroto Vimana : https://www.carakasamhitaonline.com/index.php?title=Sroto_Vimana
+Vyadhita Rupiya Vimana : https://www.carakasamhitaonline.com/index.php?title=Vyadhita_Rupiya_Vimana
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+Nidana Sthana : https://www.carakasamhitaonline.com/index.php?title=Nidana_Sthana
+Sharira Sthana : https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana
+Indriya Sthana : https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana
+Chikitsa Sthana : https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana
+Kalpa Sthana : https://www.carakasamhitaonline.com/index.php?title=Kalpa_Sthana
+Siddhi Sthana : https://www.carakasamhitaonline.com/index.php?title=Siddhi_Sthana
+Deole Y.S. : https://www.carakasamhitaonline.com/index.php?title=Yogesh_Deole
+Basisht G. : https://www.carakasamhitaonline.com/index.php?title=Gopal_Basisht
+Charak Samhita Research, Training and Skill Development Centre : https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Skill_Development_Centre
+10.47468/CSNE.2020.e01.s03.007 : https://doi.org/10.47468/CSNE.2020.e01.s03.007
+
+
+[BLOCK 8: P]
+----------------------------------------------------------------------
+Abstract
+
+
+[BLOCK 9: P]
+----------------------------------------------------------------------
+This chapter describes criteria for classification and enumeration of diseases, agni (digestion capacity) and patients. Because of variable symptoms and pathogenesis, the diseases are innumerable and they are categorized in groups. The purpose of grouping is to find common modalities for treatment and diagnosis and it is essential to know the disease pathology at micro level. The source components of all the physical and mental disorders are tri dosha (three morbid factors). There are three basic causes, viz. injudicious use of senses, intellectual errors and ignoring the bio clock. All diseases have common origin and pathway up to some level, which serves as criteria for grouping of ailments. The common criteria for the enumeration of diseases include prognosis, severity, location, nature of causative factors and site of origin. Classification of agni on the basis of strength is described in this chapter. Prakriti (constitution) as the parameter for the stratifying and clustering various types of patients and concept of psychosomatic diseases is highlighted. Primary and secondary diseases on the basis of priority of vitiation of dosha are explained for successful management of the disease. Keywords : Agni , Prakriti , Psychosomatic diseases, Primary and secondary diseases.
+
+[REFERENCES / LINKS]
+agni : https://www.carakasamhitaonline.com/index.php?title=Agni
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+agni : https://www.carakasamhitaonline.com/index.php?title=Agni
+Prakriti : https://www.carakasamhitaonline.com/index.php?title=Prakriti
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+Agni : https://www.carakasamhitaonline.com/index.php?title=Agni
+Prakriti : https://www.carakasamhitaonline.com/index.php?title=Prakriti
+
+
+[BLOCK 10: H2]
+----------------------------------------------------------------------
+Contents
+
+
+[BLOCK 11: UL]
+----------------------------------------------------------------------
+1. 1 Introduction
+2. 2 Sanskrit Text, Transliteration and English Translation 2.1 Types of diseases 2.2 Justification for different types of classification 2.3 Physical and psychic dosha and their vitiators 2.4 Factors responsible for manifestation of innumerable diseases 2.5 Psycho-somatic diseases 2.6 Psychic doshas- their eternal union 2.7 Combination of physical doshas 2.8 Primary and Secondary diseases 2.9 Four types of Agni 2.10 Physical constitution 2.11 Management of persons having different types of physical constitution 2.12 Three types of patients based upon dosha dominance 2.12.1 Principles of management of vata dosha dominance 2.12.2 Principles of management of pitta dosha dominance 2.12.3 Principles of management of kapha dosha dominance 2.13 Characteristics of royal physician 2.14 Summary
+3. 3 Tattva Vimarsha (Fundamental Principles)
+4. 4 Vidhi Vimarsha (Applied Inferences) 4.1 Methods of disease classification 4.2 Primary (anubandhya) and secondary (anubandha) dosha 4.3 Role of prakriti 4.4 Psycho-somatic disease 4.5 Role of agni 4.6 Contemporary views 4.7 Applied aspect for future research 4.8 Future Scope for Research 4.9 Further reading
+5. 5 Related chapters
+6. 6 References
+
+[REFERENCES / LINKS]
+1 Introduction : https://www.carakasamhitaonline.com/index.php?title=Roganika_Vimana#Introduction
+2 Sanskrit Text, Transliteration and English Translation : https://www.carakasamhitaonline.com/index.php?title=Roganika_Vimana#Sanskrit_Text,_Transliteration_and_English_Translation
+2.1 Types of diseases : https://www.carakasamhitaonline.com/index.php?title=Roganika_Vimana#Types_of_diseases
+2.2 Justification for different types of classification : https://www.carakasamhitaonline.com/index.php?title=Roganika_Vimana#Justification_for_different_types_of_classification
+2.3 Physical and psychic dosha and their vitiators : https://www.carakasamhitaonline.com/index.php?title=Roganika_Vimana#Physical_and_psychic_dosha_and_their_vitiators
+2.4 Factors responsible for manifestation of innumerable diseases : https://www.carakasamhitaonline.com/index.php?title=Roganika_Vimana#Factors_responsible_for_manifestation_of_innumerable_diseases
+2.5 Psycho-somatic diseases : https://www.carakasamhitaonline.com/index.php?title=Roganika_Vimana#Psycho-somatic_diseases
+2.6 Psychic doshas- their eternal union : https://www.carakasamhitaonline.com/index.php?title=Roganika_Vimana#Psychic_doshas-_their_eternal_union
+2.7 Combination of physical doshas : https://www.carakasamhitaonline.com/index.php?title=Roganika_Vimana#Combination_of_physical_doshas
+2.8 Primary and Secondary diseases : https://www.carakasamhitaonline.com/index.php?title=Roganika_Vimana#Primary_and_Secondary_diseases
+2.9 Four types of Agni : https://www.carakasamhitaonline.com/index.php?title=Roganika_Vimana#Four_types_of_Agni
+2.10 Physical constitution : https://www.carakasamhitaonline.com/index.php?title=Roganika_Vimana#Physical_constitution
+2.11 Management of persons having different types of physical constitution : https://www.carakasamhitaonline.com/index.php?title=Roganika_Vimana#Management_of_persons_having_different_types_of_physical_constitution
+2.12 Three types of patients based upon dosha dominance : https://www.carakasamhitaonline.com/index.php?title=Roganika_Vimana#Three_types_of_patients_based_upon_dosha_dominance
+2.12.1 Principles of management of vata dosha dominance : https://www.carakasamhitaonline.com/index.php?title=Roganika_Vimana#Principles_of_management_of_vata_dosha_dominance
+2.12.2 Principles of management of pitta dosha dominance : https://www.carakasamhitaonline.com/index.php?title=Roganika_Vimana#Principles_of_management_of_pitta_dosha_dominance
+2.12.3 Principles of management of kapha dosha dominance : https://www.carakasamhitaonline.com/index.php?title=Roganika_Vimana#Principles_of_management_of_kapha_dosha_dominance
+2.13 Characteristics of royal physician : https://www.carakasamhitaonline.com/index.php?title=Roganika_Vimana#Characteristics_of_royal_physician
+2.14 Summary : https://www.carakasamhitaonline.com/index.php?title=Roganika_Vimana#Summary
+3 Tattva Vimarsha (Fundamental Principles) : https://www.carakasamhitaonline.com/index.php?title=Roganika_Vimana#Tattva_Vimarsha_(Fundamental_Principles)
+4 Vidhi Vimarsha (Applied Inferences) : https://www.carakasamhitaonline.com/index.php?title=Roganika_Vimana#Vidhi_Vimarsha_(Applied_Inferences)
+4.1 Methods of disease classification : https://www.carakasamhitaonline.com/index.php?title=Roganika_Vimana#Methods_of_disease_classification
+4.2 Primary (anubandhya) and secondary (anubandha) dosha : https://www.carakasamhitaonline.com/index.php?title=Roganika_Vimana#Primary_(anubandhya)_and_secondary_(anubandha)_dosha
+4.3 Role of prakriti : https://www.carakasamhitaonline.com/index.php?title=Roganika_Vimana#Role_of_prakriti
+4.4 Psycho-somatic disease : https://www.carakasamhitaonline.com/index.php?title=Roganika_Vimana#Psycho-somatic_disease
+4.5 Role of agni : https://www.carakasamhitaonline.com/index.php?title=Roganika_Vimana#Role_of_agni
+4.6 Contemporary views : https://www.carakasamhitaonline.com/index.php?title=Roganika_Vimana#Contemporary_views
+4.7 Applied aspect for future research : https://www.carakasamhitaonline.com/index.php?title=Roganika_Vimana#Applied_aspect_for_future_research
+4.8 Future Scope for Research : https://www.carakasamhitaonline.com/index.php?title=Roganika_Vimana#Future_Scope_for_Research
+4.9 Further reading : https://www.carakasamhitaonline.com/index.php?title=Roganika_Vimana#Further_reading
+5 Related chapters : https://www.carakasamhitaonline.com/index.php?title=Roganika_Vimana#Related_chapters
+6 References : https://www.carakasamhitaonline.com/index.php?title=Roganika_Vimana#References
+
+
+[BLOCK 12: H2]
+----------------------------------------------------------------------
+Introduction
+
+
+[BLOCK 13: P]
+----------------------------------------------------------------------
+This chapter is introducing the ten groups in five pairs of diseases, which are explained in earlier two chapters (19th and 20th chapters) of Sutra Sthana . The principal behind this grouping is the same as the billions of persons are clubbed only in three groups according to predominance of three dosha in their constitution and personality traits. Similarly, on the basis of curable/incurable, severity (mild/severe), origin (mental/physical), causative factors (endogenous/exogenous), and pathological sites of diseases ( amashaya samuththa/pakwashaya samuththa , diseases can also be clubbed in five pairs of ten major groups.
+
+[REFERENCES / LINKS]
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 14: P]
+----------------------------------------------------------------------
+The term roga may be applicable to both the dosha and diseases but there is difference between the two, in as much as [[dosha] are numerable and diseases are innumerable. One dosha may be responsible for the causation of many diseases. As it is impossible to describe all the diseases in view of their innumerability, only ten groups will be explained here as are discovered by ancient sages.
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 15: P]
+----------------------------------------------------------------------
+After grouping of diseases, this chapter deals with grouping of other two aspects i.e. agni and patient. Agni (digestive ability) is of four types, tikshna agni (severe), manda agni (low), visham agni (irregular) and sama agni (balanced). Patients are of four types with the predominance of dosha - vatika, paittika, kaphaja and samaprakriti .
+
+[REFERENCES / LINKS]
+agni : https://www.carakasamhitaonline.com/index.php?title=Agni
+Agni : https://www.carakasamhitaonline.com/index.php?title=Agni
+agni : https://www.carakasamhitaonline.com/index.php?title=Agni
+agni : https://www.carakasamhitaonline.com/index.php?title=Agni
+agni : https://www.carakasamhitaonline.com/index.php?title=Agni
+agni : https://www.carakasamhitaonline.com/index.php?title=Agni
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 16: P]
+----------------------------------------------------------------------
+At the end of the chapter describes qualities of an expert physician who is perfect in diagnosis, skilled in treatment and has good knowledge of drugs.
+
+
+[BLOCK 17: H2]
+----------------------------------------------------------------------
+Sanskrit Text, Transliteration and English Translation
+
+
+[BLOCK 18: P]
+----------------------------------------------------------------------
+अथातो रोगानीकं विमानं व्याख्यास्यामः||१|| इति ह स्माह भगवानात्रेयः||२||
+
+
+[BLOCK 19: P]
+----------------------------------------------------------------------
+athātō rōgānīkaṁ vimānaṁ vyākhyāsyāmaḥ||1|| iti ha smāha bhagavānātrēyaḥ||2||
+
+
+[BLOCK 20: P]
+----------------------------------------------------------------------
+athAto rogAnIkaM vimAnaM vyAkhyAsyAmaH||1|| iti ha smAha bhagavAnAtreyaH||2||
+
+
+[BLOCK 21: P]
+----------------------------------------------------------------------
+Now we shall expound the chapter "Roganika Vimana"(Classification of Diseases). Thus said Lord Atreya. [1-2]
+
+
+[BLOCK 22: H3]
+----------------------------------------------------------------------
+Types of diseases
+
+
+[BLOCK 23: P]
+----------------------------------------------------------------------
+द्वे रोगानीके भवतः प्रभावभेदेन- साध्यम्, असाध्यं च; द्वे रोगानीके बलभेदेन- मृदु, दारुणं च; द्वे रोगानीके अधिष्ठानभेदेन- मनोऽधिष्ठानं, शरीराधिष्ठानं च; द्वे रोगानीके निमित्तभेदेन- स्वधातुवैषम्यनिमित्तम्, आगन्तुनिमित्तं च; द्वे रोगानीके आशयभेदेन- आमाशयसमुत्थं, पक्वाशयसमुत्थं चेति| एवमेतत् प्रभावबलाधिष्ठाननिमित्ताशयभेदाद्द्वैधं सद्भेदप्रकृत्यन्तरेण भिद्यमानमथवाऽपि सन्धीयमानं स्यादेकत्वं बहुत्वं वा| एकत्वं तावदेकमेव रोगानीकं, दुःखसामान्यात्; बहुत्वं तु दश रोगानीकानि प्रभावभेदादिना भवन्ति; बहुत्वमपि सङ्ख्येयं स्यादसङ्ख्येयं वा| तत्र सङ्ख्येयं तावद्यथोक्तमष्टोदरीये, अपरिसङ्ख्येयं पुनर्यथा- महारोगाध्याये रुग्वर्णसमुत्थानादीनामसङ्ख्येयत्वात्||३||
+
+
+[BLOCK 24: P]
+----------------------------------------------------------------------
+dvē rōgānīkē bhavataḥ prabhāvabhēdēna- sādhyam, asādhyaṁ ca; dvē rōgānīkē balabhēdēna- mr̥du,dāruṇaṁ ca; dvē rōgānīkē adhiṣṭhānabhēdēna- manō'dhiṣṭhānaṁ, śarīrādhiṣṭhānaṁ ca; dvē rōgānīkēnimittabhēdēna- svadhātuvaiṣamyanimittam, āgantunimittaṁ ca; dvē rōgānīkē āśayabhēdēna-āmāśayasamutthaṁ, pakvāśayasamutthaṁ cēti|
+ēvamētat prabhāvabalādhiṣṭhānanimittāśayabhēdāddvaidhaṁ sadbhēdaprakr̥tyantarēṇabhidyamānamathavā'pi sandhīyamānaṁ syādēkatvaṁ bahutvaṁ vā|
+ēkatvaṁ tāvadēkamēva rōgānīkaṁ, duḥkhasāmānyāt [1] ; bahutvaṁ tu daśa rōgānīkāniprabhāvabhēdādinā bhavanti; bahutvamapi saṅkhyēyaṁ syādasaṅkhyēyaṁ vā|
+tatra saṅkhyēyaṁ tāvadyathōktamaṣṭōdarīyē, aparisaṅkhyēyaṁ punaryathā- mahārōgādhyāyērugvarṇasamutthānādīnāmasaṅkhyēyatvāt||3||
+
+
+[BLOCK 25: P]
+----------------------------------------------------------------------
+Dve rogAnIke bhaVataH prabhAvabhedena- sAdhyam, asAdhyaM ca; dve rogAnIke balabhedena- mRudu, dAruNaM ca; dve rogAnIke adhiShThAnabhedena- mano~adhiShThAnaM, sharIrAdhiShThAnaM ca;dve rogAnIke nimittabhedena- svadhAtuvaiShamyanimittam, AgantunimittaM ca; dve rogAnIke Ashayabhedena- AmAshayasamutthaM, pakvAshayasamutthaM ceti| evametat prabhAvabalAdhiShThAnanimittAshayabhedAddvaidhaM
+sadbhedaprakRutyantareNa bhidyamAnamathavA~api sandhIyamAnaM syAdekatvaM bahutvaM vA| ekatvaM tAvadekameva rogAnIkaM, duHkhasAmAnyAt;
+bahutvaM tu dasha rogAnIkAni prabhAvabhedAdinA bhavanti; bahutvamapi sa~gkhyeyaM
+syAdasa~gkhyeyaM vA| tatra sa~gkhyeyaM tAvadyathoktamaShTodarIye, aparisa~gkhyeyaM punaryathA- mahArogAdhyAye rugvarNasamutthAnAdInAmasa~gkhyeyatvAt||3||
+
+
+[BLOCK 26: P]
+----------------------------------------------------------------------
+Following are the two categories of diseases:
+
+
+[BLOCK 27: P]
+----------------------------------------------------------------------
+1. On the basis of Prognosis – i. Curables ii. Incurables
+2. On the basis of Intensity - i. Mild ii. Severe
+3.On the basis of Location - i. Physical ii. Mental
+4.On the basis of Causes - i. Endogenous ii. Exogenous
+5.On the basis of Origin - i. Digestive origin(Amashaya) ii. Excretory(pakwashaya) origin
+
+
+[BLOCK 28: P]
+----------------------------------------------------------------------
+Thus there are two categories of diseases based upon prognosis, intensity, location, cause and origin. There might be only one type of disease or many types of diseases based upon the classification (permutation and combination). Only one type of disease is based on similarity in causing pain and multiple types based upon ten categories and criteria mentioned above prognosis etc. That may be numerable or innumerable. Numerable as mentioned in the chapter Ashtodariya and innumerable as described in Maharoga Adhyaya owing to innumerability of nature of pain, change in colour, variation in origin etc. factors. [3]
+
+[REFERENCES / LINKS]
+Ashtodariya : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya
+Maharoga Adhyaya : https://www.carakasamhitaonline.com/index.php?title=Maharoga_Adhyaya
+
+
+[BLOCK 29: H3]
+----------------------------------------------------------------------
+Justification for different types of classification
+
+
+[BLOCK 30: P]
+----------------------------------------------------------------------
+न च सङ्ख्येयाग्रेषु भेदप्रकृत्यन्तरीयेषु विगीतिरित्यतो दोषवती स्यादत्र काचित् प्रतिज्ञा, न चाविगीतिरित्यतः स्याददोषवती| भेत्ता हि भेद्यमन्यथाभिनत्ति, अन्यथा पुरस्ताद्भिन्नं भेदप्रकृत्यन्तरेण भिन्दन् भेदसङ्ख्याविशेषमापादयत्यनेकधा, न च पूर्वं भेदाग्रमुपहन्ति| समानायामपि खलु भेदप्रकृतौ प्रकृतानुप्रयोगान्तरमपेक्ष्यम्[१] |सन्ति ह्यर्थान्तराणि समानशब्दाभिहितानि, सन्ति चानर्थान्तराणि पर्यायशब्दाभिहितानि| समानो हि रोगशब्दो दोषेषु च व्याधिषु च; दोषा ह्यपि रोगशब्दमातङ्कशब्दं यक्ष्मशब्दं दोषप्रकृतिशब्दं विकारशब्दं च लभन्ते, व्याधयश्च रोगशब्दमातङ्कशब्दं यक्ष्मशब्दं दोषप्रकृतिशब्दं विकारशब्दं च लभन्ते| तत्र दोषेषु चैव व्याधिषु च रोगशब्दः समानः, शेषेषु तु विशेषवान्||४||
+
+
+[BLOCK 31: P]
+----------------------------------------------------------------------
+na ca saṅkhyēyāgrēṣu bhēdaprakr̥tyantarīyēṣu vigītirityatō dōṣavatī syādatra kācit pratijñā, nacāvigītirityataḥ syādadōṣavatī|
+bhēttā hi bhēdyamanyathābhinatti, anyathā purastādbhinnaṁ bhēdaprakr̥tyantarēṇa bhindanbhēdasaṅkhyāviśēṣamāpādayatyanēkadhā, na ca pūrvaṁ bhēdāgramupahanti|
+samānāyāmapi khalu bhēdaprakr̥tau prakr̥tānuprayōgāntaramapēkṣyam [1] |
+santi hyarthāntarāṇi samānaśabdābhihitāni, santi cānarthāntarāṇi paryāyaśabdābhihitāni|
+samānō hi rōgaśabdō dōṣēṣu ca vyādhiṣu ca; dōṣā hyapi rōgaśabdamātaṅkaśabdaṁ yakṣmaśabdaṁdōṣaprakr̥tiśabdaṁ vikāraśabdaṁ ca labhantē, vyādhayaśca rōgaśabdamātaṅkaśabdaṁ yakṣmaśabdaṁdōṣaprakr̥tiśabdaṁ vikāraśabdaṁ ca labhantē|
+tatra dōṣēṣu caiva vyādhiṣu ca rōgaśabdaḥ samānaḥ, śēṣēṣu tu viśēṣavān||4||
+
+
+[BLOCK 32: P]
+----------------------------------------------------------------------
+Na ca sa~gkhyeyAgreShu bhedaprakRutyantarIyeShu vigItirityato doShavatI syAdatra kAcit
+pratij~jA, na cAvigItirityataH syAdadoShavatI| bhettA hi bhedyamanyathAbhinatti, anyathA
+purastAdbhinnaM bhedaprakRutyantareNa bhindan bhedasa~gkhyAvisheShamApAdayatyanekadhA, na ca pUrvaM bhedAgramupahanti| samAnAyAmapi khalu bhedaprakRutau prakRutAnuprayogAntaramapekShyam|
+santi hyarthAntarANi samAnashabdAbhihitAni, santi cAnarthAntarANi
+paryAyashabdAbhihitAni| samAno hi rogashabdo doSheShu ca vyAdhiShu ca; doShA
+hyapi rogashabdamAta~gkashabdaM yakShmashabdaM doShaprakRutishabdaM vikArashabdaM ca labhante, vyAdhayashca rogashabdamAta~gkashabdaM yakShmashabdaM
+doShaprakRutishabdaM vikArashabdaM ca labhante| tatra doSheShu caiva vyAdhiShu
+ca rogashabdaH samAnaH, sheSheShu tu visheShavAn||4||
+
+
+[BLOCK 33: P]
+----------------------------------------------------------------------
+If something, already classified in a particular manner, is reclassified in another way following different criteria, there may be change in the number of groups, and such a charge should not render the statement suggesting such a classification incorrect.
+
+
+[BLOCK 34: P]
+----------------------------------------------------------------------
+An individual has the liberty to classify things as he likes. If something is already classified into some groups in a particular manner, he may reclassify it on the basis of different criteria which may result in changes in the number of groups in different ways. This does not invalidate the number of groups according to some other mode of classification. In some cases the criterion of classification may appear to be the same as the previous one but the specific features of each of these criteria should be observed in deciding about the validity of this classification. The same term may carry different meanings e.g. the word roga, antanka, yakshman, doshaprakriti and vikara (morbidity – these terms carry the meaning of or are synonymous with both dosha and vyadhi (disease). Thus the term roga is synonymous with both the dosha and vyadhi . For the rest like hetu (etiology) etc., this term, viz. roga carries a different meaning. [4]
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+hetu : https://www.carakasamhitaonline.com/index.php?title=Hetu
+
+
+[BLOCK 35: H3]
+----------------------------------------------------------------------
+Physical and psychic dosha and their vitiators
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 36: P]
+----------------------------------------------------------------------
+तत्र व्याधयोऽपरिसङ्ख्येया भवन्ति, अतिबहुत्वात्| दोषास्तु खलु परिसङ्ख्येया भवन्ति, अनतिबहुत्वात्| तस्माद्यथाचित्रं विकारानुदाहरणार्थम्, अनवशेषेण च दोषान् व्याख्यास्यामः| रजस्तमश्च मानसौ दोषौ| तयोर्विकाराः कामक्रोधलोभमोहेर्ष्यामानमदशोकचित्तो(न्तो)द्वेगभयहर्षादयः| वातपित्तश्लेष्माणस्तु खलु शारीरा दोषाः| तेषामपि च विकारा ज्वरातीसारशोफशोषश्वासमेहकुष्ठादयः| इति दोषाः केवला व्याख्याता विकारैकदेशश्च||५|| तत्र खल्वेषां द्वयानामपि दोषाणां त्रिविधं प्रकोपणं; तद्यथा- असात्म्येन्द्रियार्थसंयोगः, प्रज्ञापराधः परिणामश्चेति||६||
+
+
+[BLOCK 37: P]
+----------------------------------------------------------------------
+tatra vyādhayō'parisaṅkhyēyā bhavanti, atibahutvāt|
+dōṣāstu khalu parisaṅkhyēyā bhavanti, anatibahutvāt|
+tasmādyathācitraṁ vikārānudāharaṇārtham, anavaśēṣēṇa ca dōṣān vyākhyāsyāmaḥ|
+rajastamaśca mānasau dōṣau|
+tayōrvikārāḥ kāmakrōdhalōbhamōhērṣyāmānamadaśōkacittō(ntō)dvēgabhayaharṣādayaḥ|
+vātapittaślēṣmāṇastu khalu śārīrā dōṣāḥ|
+tēṣāmapi ca vikārā jvarātīsāraśōphaśōṣaśvāsamēhakuṣṭhādayaḥ|
+iti dōṣāḥ kēvalā vyākhyātā vikāraikadēśaśca||5||
+
+
+[BLOCK 38: P]
+----------------------------------------------------------------------
+tatra khalvēṣāṁ dvayānāmapi dōṣāṇāṁ trividhaṁ prakōpaṇaṁ; tadyathā- asātmyēndriyārthasaṁyōgaḥ,prajñāparādhaḥ, pariṇāmaścēti||6||
+Tatra vyAdhayo~aparisa~gkhyeyA bhavanti, atibahutvAt| Doshastu khalu parisa~gkhyeyA
+bhavanti, anatibahutvAt| tasmAdyathAcitraM vikArAnudAharaNArtham, anavasheSheNa ca
+doShAn vyAkhyAsyAmaH| rajastamashca mAnasau doShau| tayorvikArAH kAmakrodhalobhamoherShyAmAnamadashokacitto(nto)dvegabhayaharShAdayaH| VataPittashleShmANastu khalu shArIrA doShAH| teShAmapi ca vikArA jvarAtIsArashophashoShashvAsamehakuShThAdayaH| iti doShAH kevalA vyAkhyAtA
+vikAraikadeshashca||5||
+
+
+[BLOCK 39: P]
+----------------------------------------------------------------------
+tatra khalveShAM dvayAnAmapi doShANAM trividhaM prakopaNaM;
+tadyathA- asAtmyendriyArthasaMyogaH, praj~jAparAdhaH, pariNAmashceti||6||
+
+
+[BLOCK 40: P]
+----------------------------------------------------------------------
+Because of their multitudinous nature, diseases are innumerable. On the other hand, dosha are numerable because of their limited number. So only some of the diseases will be explained by way of illustrations whereas dosha will be explained in their entirety. Rajas and tamas are the dosha pertaining to the mind and the types of morbidity caused by them are kama (passion), anger, greed, attachment, envy, ego, pride grief, worry, anxiety, fear, excitement etc. Vata , pitta and kapha - these three are the dosha pertaining to the body. Diseases caused by them are fever, diarrhea, edema, consumption, dyspnoea, meha (obstinate urinary disorder including diabetes), kushtha (obstinate skin disease including leprosy) etc. Thus dosha in their entirety and diseases in parts are explained.
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+Vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 41: P]
+----------------------------------------------------------------------
+Both of these types of dosha have three types of etiological factors, viz.
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 42: OL]
+----------------------------------------------------------------------
+1. unwholesome contact with the object of senses,
+2. intellectual errors, and
+3. seasonal vagaries. [5-6]
+
+
+[BLOCK 43: H3]
+----------------------------------------------------------------------
+Factors responsible for manifestation of innumerable diseases
+
+
+[BLOCK 44: P]
+----------------------------------------------------------------------
+प्रकुपितास्तु खलु ते प्रकोपणविशेषाद्दूष्यविशेषाच्च विकारविशेषानभिनिर्वर्तयन्त्यपरिसङ्ख्येयान्||७||
+
+
+[BLOCK 45: P]
+----------------------------------------------------------------------
+prakupitāstu khalu tē prakōpaṇaviśēṣāddūṣyaviśēṣācca vikāraviśēṣānabhinirvartayantyaparisaṅkhyēyān||7||
+
+
+[BLOCK 46: P]
+----------------------------------------------------------------------
+prakupitAstu khalu te prakopaNavisheShAddUShyavisheShAcca
+vikAravisheShAnabhinirvartayantyaparisa~gkhyeyAn||7||
+
+
+[BLOCK 47: P]
+----------------------------------------------------------------------
+Depending upon the specific nature of the causative factors and also the specificity of the tissue elements afflicted, dosha when aggravated manifest innumerable types of diseases. [7]
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 48: H3]
+----------------------------------------------------------------------
+Psycho-somatic diseases
+
+
+[BLOCK 49: P]
+----------------------------------------------------------------------
+ते च विकाराः परस्परमनुवर्तमानाः कदाचिदनुबध्नन्ति कामादयो ज्वरादयश्च||८||
+
+
+[BLOCK 50: P]
+----------------------------------------------------------------------
+tē ca vikārāḥ parasparamanuvartamānāḥ kadācidanubadhnanti kāmādayō jvarādayaśca||8||
+
+
+[BLOCK 51: P]
+----------------------------------------------------------------------
+te ca vikArAH parasparamanuvartamAnAH kadAcidanubadhnanti kAmAdayo jvarAdayashca||8||
+
+
+[BLOCK 52: P]
+----------------------------------------------------------------------
+When allowed to persist for long, these psychic diseases viz. kama (passion) etc., and somatic diseases viz. fever etc., at times get combined with each other. [8]
+
+
+[BLOCK 53: H3]
+----------------------------------------------------------------------
+Psychic doshas- their eternal union
+
+
+[BLOCK 54: P]
+----------------------------------------------------------------------
+नियतस्त्वनुबन्धो रजस्तमसोः परस्परं, न ह्यरजस्कं तमः प्रवर्तते ||९||
+
+
+[BLOCK 55: P]
+----------------------------------------------------------------------
+niyatastvanubandhō rajastamasōḥ parasparaṁ, na hyarajaskaṁ tamaḥ pravartatē ||9||
+
+
+[BLOCK 56: P]
+----------------------------------------------------------------------
+niyatastvanubandho rajastamasoH parasparaM, na hyarajaskaM tamaH pravartate ||9||
+
+
+[BLOCK 57: P]
+----------------------------------------------------------------------
+There is an eternal union between the two dosha pertaining to mind, viz. rajas and tamas . Tamas cannot manifest its actions without rajas . [9]
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 58: H3]
+----------------------------------------------------------------------
+Combination of physical doshas
+
+
+[BLOCK 59: P]
+----------------------------------------------------------------------
+(प्रायः) शारीरदोषाणामेकाधिष्ठानीयानां सन्निपातः संसर्गो वा समानगुणत्वात्; दोषा हि दूषणैः समानाः||१०||
+
+
+[BLOCK 60: P]
+----------------------------------------------------------------------
+(prāyaḥ) śārīradōṣāṇāmēkādhiṣṭhānīyānāṁ sannipātaḥ saṁsargō vā samānaguṇatvāt; dōṣā hi dūṣaṇaiḥsamānāḥ||10||
+
+
+[BLOCK 61: P]
+----------------------------------------------------------------------
+(prAyaH) shArIradoShANAmekAdhiShThAnIyAnAM sannipAtaH saMsargo vA samAnaguNatvAt; doShA hi dUShaNaiH samAnAH||10||
+
+
+[BLOCK 62: P]
+----------------------------------------------------------------------
+The three somatic dosha located at the same place and having identical attributes mostly combine with one another ( samsarga ) or with all taken together ( sannipata ). Attributes of dosha resemble those of the factors which vitiate those dosha . [10]
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 63: H3]
+----------------------------------------------------------------------
+Primary and Secondary diseases
+
+
+[BLOCK 64: P]
+----------------------------------------------------------------------
+तत्रानुबन्ध्यानुबन्धकृतो विशेषः- स्वतन्त्रो व्यक्तलिङ्गो यथोक्तसमुत्थानप्रशमो भवत्यनुबन्ध्यः, तद्विपरीतलक्षणस्त्वनुबन्धः| अनुबन्ध्यलक्षणसमन्वितास्तत्र
+यदि दोषा भवन्ति तत्त्रिकं सन्निपातमाचक्षते, द्वयं वा संसर्गम्| अनुबन्ध्यानुबन्धविशेषकृतस्तु बहुविधो दोषभेदः| एवमेष सञ्ज्ञाप्रकृतो भिषजां दोषेषु व्याधिषु च नानाप्रकृतिविशेषव्यूहः ||११||
+
+
+[BLOCK 65: P]
+----------------------------------------------------------------------
+tatrānubandhyānubandhakr̥tō viśēṣaḥ- svatantrō vyaktaliṅgō yathōktasamutthānapraśamōbhavatyanubandhyaḥ, tadviparītalakṣaṇastvanubandhaḥ|
+anubandhyalakṣaṇasamanvitāstatra yadi dōṣā bhavanti tattrikaṁ sannipātamācakṣatē, dvayaṁ vāsaṁsargam|
+anubandhyānubandhaviśēṣakr̥tastu bahuvidhō dōṣabhēdaḥ|
+ēvamēṣa sañjñāprakr̥tō bhiṣajāṁ dōṣēṣu vyādhiṣu ca nānāprakr̥tiviśēṣavyūhaḥ ||11||
+
+
+[BLOCK 66: P]
+----------------------------------------------------------------------
+tatrAnubandhyAnubandhakRuto visheShaH- sVatantro vyaktali~ggo yathoktasamutthAnaprashamo bhavatyanubandhyaH, tadviparItalakShaNastvanubandhaH|
+anubandhyalakShaNasamanvitAstatra yadi doShA bhavanti tattrikaM sannipAtamAcakShate,
+dvayaM vA saMsargam| anubandhyAnubandhavisheShakRutastu bahuvidho doShabhedaH|
+evameSha sa~jj~jAprakRuto bhiShajAM doSheShu vyAdhiShu ca nAnAprakRutivisheShavyUhaH||11||
+
+
+[BLOCK 67: P]
+----------------------------------------------------------------------
+Characteristic features of primary and secondary (subordinate) diseases are as follows:
+
+
+[BLOCK 68: P]
+----------------------------------------------------------------------
+The primary disease manifests its own symptoms independently; this morbid condition is caused by factors specific to the manifestation of the disease. This can be cured by the therapies prescribed for that particular disease. The subordinate disease is characterized by opposite features. If all the three dosha are primarily vitiated at a time, the condition is known as sannipata . If only two of the dosha are vitiated, it is called samsarga . Depending upon the primary and subordinate nature of dosha , they are of many types. Considering such characteristic features, physicians attribute various names (like jwara or fever and atisara or diarrhea) to different conditions caused by dosha and diseases. [11]
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 69: H3]
+----------------------------------------------------------------------
+Four types of Agni
+
+[REFERENCES / LINKS]
+Agni : https://www.carakasamhitaonline.com/index.php?title=Agni
+
+
+[BLOCK 70: P]
+----------------------------------------------------------------------
+अग्निषु तु शारीरेषु चतुर्विधो विशेषो बलभेदेन भवति| तद्यथा- तीक्ष्णो, मन्दः, समो, विषमश्चेति| तत्र तीक्ष्णोऽग्निः सर्वापचारसहः, तद्विपरीतलक्षणस्तु मन्दः, समस्तु खल्वपचारतो विकृतिमापद्यतेऽनपचारतस्तु प्रकृताववतिष्ठते,
+समलक्षणविपरीतलक्षणस्तु विषम इति| एते चतुर्विधा भवन्त्यग्नयश्चतुर्विधानामेव पुरुषाणाम्| तत्र समवातपित्तश्लेष्मणां प्रकृतिस्थानां समा भवन्त्यग्नयः, वातलानां तु वाताभिभूतेऽग्न्यधिष्ठाने विषमा भवन्त्यग्नयः, पित्तलानां तु पित्ताभिभूते ह्यग्न्यधिष्ठाने तीक्ष्णा भवन्त्यग्नयः, श्लेष्मलानां तु श्लेष्माभिभूतेऽग्न्यधिष्ठाने मन्दा भवन्त्यग्नयः||१२||
+
+
+[BLOCK 71: P]
+----------------------------------------------------------------------
+agniṣu tu śārīrēṣu caturvidhō viśēṣō balabhēdēna bhavati|
+tadyathā- tīkṣṇō, mandaḥ, samō, viṣamaścēti|
+tatra tīkṣṇō'gniḥ sarvāpacārasahaḥ, tadviparītalakṣaṇastu mandaḥ, samastu khalvapacāratōvikr̥timāpadyatē'napacāratastu prakr̥tāvavatiṣṭhatē, samalakṣaṇaviparītalakṣaṇastu viṣama iti|
+ētē caturvidhā bhavantyagnayaścaturvidhānāmēva puruṣāṇām|
+tatra samavātapittaślēṣmaṇāṁ prakr̥tisthānāṁ samā bhavantyagnayaḥ, vātalānāṁ tuvātābhibhūtē'gnyadhiṣṭhānē viṣamā bhavantyagnayaḥ, pittalānāṁ tu pittābhibhūtē hyagnyadhiṣṭhānē tīkṣṇābhavantyagnayaḥ, ślēṣmalānāṁ tu ślēṣmābhibhūtē'gnyadhiṣṭhānē mandā bhavantyagnayaḥ||12||
+
+
+[BLOCK 72: P]
+----------------------------------------------------------------------
+AgniShu tu shArIreShu caturvidho visheSho balabhedena bhavati| tadyathA- tIkShNo, mandaH, samo, viShamashceti| tatra tIkShNo~AgniH sarvApacArasahaH, tadviparItalakShaNastu mandaH, samastu khalvapacArato
+vikRutimApadyate~anapacAratastu prakRutAvavatiShThate,
+samalakShaNaviparItalakShaNastu viShama iti| ete caturvidhA bhavantyagnayashcaturvidhAnAmeva puruShANAm| tatra
+samaVataPittashleShmaNAM prakRutisthAnAM samA bhavantyagnayaH, VatalAnAM tu VatabhibhUte~agnyadhiShThAne viShamA bhavantyagnayaH, PittalAnAM Tu PittabhibhUte hyagnyadhiShThAne tIkShNA bhavantyagnayaH,
+shleShmalAnAM tu shleShmAbhibhUte~agnyadhiShThAne
+mandA bhavantyagnayaH||12||
+
+
+[BLOCK 73: P]
+----------------------------------------------------------------------
+Depending upon their intensity, agni (factors responsible for digestion and metabolism) located in the body of human beings can be classified under four categories, viz. tikshna (severe), manda (low), sama (normal) and vishama (irregular). The tikshna type is capable of tolerating all types of irregularities whereas the manda type is of opposite nature, i.e. even a small irregularity will impair its functioning. The sama or balanced type of agni gets impaired even by minor irregularities; it maintains its normalcy so long as there is no irregularity. The irregular type of agni , as opposed to sama or balanced type, sometimes gets impaired and sometime it does not get impaired by irregularities.
+
+[REFERENCES / LINKS]
+agni : https://www.carakasamhitaonline.com/index.php?title=Agni
+agni : https://www.carakasamhitaonline.com/index.php?title=Agni
+agni : https://www.carakasamhitaonline.com/index.php?title=Agni
+
+
+[BLOCK 74: P]
+----------------------------------------------------------------------
+These four types of agni occur in the four types of individuals. In individuals having vata , pitta and kapha in their balanced and normal state, the agni are regular or balanced. In the case of individuals having the dominance of vata constitution, due to the affliction of the site of agni by vata , their agni are irregular. In the case of individuals having the dominance of pitta , the agni are sharp. Similarly, in the case of individuals having the dominance of kapha in the constitution, the agni are mild due to the affliction of the site of agni by kapha . [12]
+
+[REFERENCES / LINKS]
+agni : https://www.carakasamhitaonline.com/index.php?title=Agni
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+agni : https://www.carakasamhitaonline.com/index.php?title=Agni
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+agni : https://www.carakasamhitaonline.com/index.php?title=Agni
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+agni : https://www.carakasamhitaonline.com/index.php?title=Agni
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+agni : https://www.carakasamhitaonline.com/index.php?title=Agni
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+agni : https://www.carakasamhitaonline.com/index.php?title=Agni
+agni : https://www.carakasamhitaonline.com/index.php?title=Agni
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+
+
+[BLOCK 75: H3]
+----------------------------------------------------------------------
+Physical constitution
+
+
+[BLOCK 76: P]
+----------------------------------------------------------------------
+तत्र केचिदाहुः- न समवातपित्तश्लेष्माणो जन्तवः सन्ति, विषमाहारोपयोगित्वान्मनुष्याणां; तस्माच्च वातप्रकृतयः केचित्, केचित् पित्तप्रकृतयः, केचित् पुनः श्लेष्मप्रकृतयो भवन्तीति| तच्चानुपपन्नं, कस्मात् कारणात्? समवातपित्तश्लेष्माणं ह्यरोगमिच्छन्ति भिषजः, यतः प्रकृतिश्चारोग्यम्, आरोग्यार्था च भेषजप्रवृत्तिः, सा चेष्टरूपा, तस्मात् सन्ति समवातपित्तश्लेष्माणः; न खलु सन्ति वातप्रकृतयः पित्तप्रकृतयः श्लेष्मप्रकृतयो वा|
+तस्य तस्य किल दोषस्याधिक्यात् सा सा दोषप्रकृतिरुच्यते मनुष्याणां, न च विकृतेषु
+दोषेषु प्रकृतिस्थत्वमुपपद्यते, तस्मान्नैताः प्रकृतयः सन्ति; सन्ति तु खलु वातलाः
+पित्तलाः श्लेष्मलाश्च, अप्रकृतिस्थास्तु ते ज्ञेयाः||१३||
+
+
+[BLOCK 77: P]
+----------------------------------------------------------------------
+tatra kēcidāhuḥ- na samavātapittaślēṣmāṇō jantavaḥ santi, viṣamāhārōpayōgitvānmanuṣyāṇāṁ; tasmāccavātaprakr̥tayaḥ kēcit, kēcit pittaprakr̥tayaḥ, kēcit punaḥ ślēṣmaprakr̥tayō bhavantīti|
+taccānupapannaṁ, kasmāt kāraṇāt? samavātapittaślēṣmāṇaṁ hyarōgamicchanti bhiṣajaḥ, yataḥ prakr̥tiścārōgyam, ārōgyārthā ca bhēṣajapravr̥ttiḥ, sā cēṣṭarūpā, tasmāt santi samavātapittaślēṣmāṇaḥ; nakhalu santi vātaprakr̥tayaḥ pittaprakr̥tayaḥ ślēṣmaprakr̥tayō vā|
+tasya tasya kila dōṣasyādhikyāt sā sā dōṣaprakr̥tirucyatē manuṣyāṇāṁ, na ca vikr̥tēṣu dōṣēṣuprakr̥tisthatvamupapadyatē, tasmānnaitāḥ prakr̥tayaḥ santi; santi tu khalu vātalāḥ pittalāḥ ślēṣmalāśca,aprakr̥tisthāstu tē jñēyāḥ||13||
+
+
+[BLOCK 78: P]
+----------------------------------------------------------------------
+tatra kecidAhuH- na samaVataPittashleShmANo jantavaH santi, viShamAhAropayogitvAnmanuShyANAM;tasmAcca
+VataprakRutayaH kecit,kecit PittaprakRutayaH, kecit punaH
+shleShmaprakRutayo bhavantIti|taccAnupapannaM, kasmAt
+kAraNAt? samaVataPittashleShmANaM hyarogamicchanti
+bhiShajaH,yataH prakRutishcArogyam,ArogyArthA ca bheShajapravRuttiH,
+sA ceShTarUpA, tasmAt santi samaVataPittashleShmANaH;na khalu
+santi VataprakRutayaH PittaprakRutayaH shleShmaprakRutayo vA|
+tasya tasya kila DoshasyAdhikyAt sA sA doShaprakRutirucyate manuShyANAM, na ca vikRuteShu doSheShu prakRutisthatvamupapadyate,tasmAnnaitAH prakRutayaH santi; santi tu khalu VatalAH PittalAH shleShmalAshca, aprakRutisthAstu te j~jeyAH||13||
+
+
+[BLOCK 79: P]
+----------------------------------------------------------------------
+Some scholars hold the view that living beings cannot have a balanced state of vata , pitta and kapha in their body because they are accustomed to the intake of diets which are seldom balanced. Therefore, according to them some individuals have vata prakriti ( vatika constitution), some have pitta prakriti ( pattika constitution) and the rest have kapha prakriti ( shlaishmika constitution). This is not correct because physicians take an individual to be healthy only when vata , pitta and kapha in his body are in a state of equilibrium and health represents the natural state of the body. It is with a view to maintaining good health that all types of treatments are prescribed. That state of the body is the most cherished one. Therefore, there are individuals having the balanced state of vata , pitta and kapha in their body.
+
+[REFERENCES / LINKS]
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+prakriti : https://www.carakasamhitaonline.com/index.php?title=Prakriti
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+prakriti : https://www.carakasamhitaonline.com/index.php?title=Prakriti
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+prakriti : https://www.carakasamhitaonline.com/index.php?title=Prakriti
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+
+
+[BLOCK 80: P]
+----------------------------------------------------------------------
+The use of terms like vata prakriti , pitta prakriti and kapha prakriti is not correct because in these types of constitutions, there is always a dominance of dosha in the bodies of individuals. Prakriti means a normal or natural state and there should not be any dominance of dosha in the bodies of such individuals. So such individuals as are having the dominance of one or the other dosha cannot be described to have the normal state of their body. Thus to use the correct term, they are vatala (having the dominance of vata ), pittala (having the dominance of pitta ) and shlesmala (having the dominance of kapha ), and these do not indicate the normal state of their body. [13]
+
+[REFERENCES / LINKS]
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+prakriti : https://www.carakasamhitaonline.com/index.php?title=Prakriti
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+prakriti : https://www.carakasamhitaonline.com/index.php?title=Prakriti
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+prakriti : https://www.carakasamhitaonline.com/index.php?title=Prakriti
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+Prakriti : https://www.carakasamhitaonline.com/index.php?title=Prakriti
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+
+
+[BLOCK 81: H3]
+----------------------------------------------------------------------
+Management of persons having different types of physical constitution
+
+
+[BLOCK 82: P]
+----------------------------------------------------------------------
+तेषां तु खलु चतुर्विधानां पुरुषाणां चत्वार्यनुप्रणिधानानि
+श्रेयस्कराणि भवन्ति| तत्र समसर्वधातूनां सर्वाकारसमम्, अधिकदोषाणां तु त्रयाणां यथास्वं दोषाधिक्यमभिसमीक्ष्य दोषप्रतिकूलयोगीनि त्रीण्यनु(न्न)प्रणिधानानि श्रेयस्कराणि भवन्ति यावदग्नेः समीभावात्, समे तु सममेव कार्यम्; एवं चेष्टा भेषजप्रयोगाश्चापरे| तान् विस्तरेणानुव्याख्यास्यामः||१४||
+
+
+[BLOCK 83: P]
+----------------------------------------------------------------------
+tēṣāṁ tu khalu caturvidhānāṁ puruṣāṇāṁ catvāryanupraṇidhānāni śrēyaskarāṇi bhavanti|
+tatra samasarvadhātūnāṁ sarvākārasamam, adhikadōṣāṇāṁ tu trayāṇāṁ yathāsvaṁdōṣādhikyamabhisamīkṣya dōṣapratikūlayōgīni trīṇyanu(nna)praṇidhānāni śrēyaskarāṇi bhavanti yāvadagnēḥsamībhāvāt, samē tu samamēva kāryam; ēvaṁ cēṣṭā bhēṣajaprayōgāścāparē|
+tān vistarēṇānuvyākhyāsyāmaḥ||14||
+
+
+[BLOCK 84: P]
+----------------------------------------------------------------------
+doShe pravRuddhe pratikUlatayA yogIni doShapratikUlayogIni| trINi VataPittashleShmapratikUlAni|same tviti samatAM gate vahnau, yathocitavidhAnena (VataprakRutyAdInAM) samamevAnupraNidhAnaM
+kartavyam|evamityanena prakAreNa ceShTAbheShajayorapi prayogA VatadInAM bhavanti; ye tu,evamityanena caturvidhenoktena prakAreNeti vadanti, te samaprakRutInAM ca samavyAyAmAdiceShTA bheShajaM
+ca RutucaryAvidheyaM vamanAdikArakaM sUcyate~aneneti
+vyAkhyAnayanti||14||
+
+
+[BLOCK 85: P]
+----------------------------------------------------------------------
+Four types of regimens are prescribed for the benefit of these four categories of individuals. For an individual having the balance state of all dosha , all the regimens to be adopted by him should be of balanced type. When there is predominance of dosha , depending upon the nature of the dosha involved, it is useful to adopt such three regimens as would be in contradiction with these three predominating dosha till there is normalcy of agni . It is only after the normalcy of the agni is attained, balanced regimens should be adopted. Similarly, various therapies and other regimens should be administered to these four categories of individuals. We shall now explain them in detail. [14]
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+agni : https://www.carakasamhitaonline.com/index.php?title=Agni
+agni : https://www.carakasamhitaonline.com/index.php?title=Agni
+
+
+[BLOCK 86: H3]
+----------------------------------------------------------------------
+Three types of patients based upon dosha dominance
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 87: P]
+----------------------------------------------------------------------
+त्रयस्तु पुरुषा भवन्त्यातुराः, ते त्वनातुरास्तन्त्रान्तरीयाणां भिषजाम्| तद्यथा- वातलः,पित्तलः, श्लेष्मलश्चेति| तेषामिदं विशेषविज्ञानं- वातलस्य वातनिमित्ताः, पित्तलस्य पित्तनिमित्ताः, श्लेष्मलस्य श्लेष्मनिमित्ता व्याधयः प्रायेण बलवन्तश्च भवन्ति||१५||
+
+
+[BLOCK 88: P]
+----------------------------------------------------------------------
+trayastu puruṣā bhavantyāturāḥ, tē tvanāturāstantrāntarīyāṇāṁ bhiṣajām|
+tadyathā- vātalaḥ, pittalaḥ, ślēṣmalaścēti|
+tēṣāmidaṁ viśēṣavijñānaṁ- vātalasya vātanimittāḥ, pittalasya pittanimittāḥ, ślēṣmalasya ślēṣmanimittāvyādhayaḥ prāyēṇa balavantaśca bhavanti||15||
+
+
+[BLOCK 89: P]
+----------------------------------------------------------------------
+Trayastu puruShA bhavantyAturAH,te tvanAturAstantrAntarIyANAM bhiShajAm|tadyathA-VatalaH,PittalaH,shleShmalashceti|teShAmidaM
+visheShavij~jAnaM-Vatalasya VatanimittAH,Pittalasya PittanimittAH,
+shleShmalasya shleShmanimittA vyAdhayaH prAyeNa balavantashca
+bhavanti||15||
+
+
+[BLOCK 90: P]
+----------------------------------------------------------------------
+Vatala (dominance of vata ), pittala (dominance of pitta ) and shleshmala (dominance of kapha )- these three are the morbid state in individuals, even though, according to another school of thought they represent the natural states of the body. Their characteristic features are as given below: - vatala, pittala and shleshmala types of individuals are more susceptible to vatika, pittika and shlaishmika diseases respectively and such diseases in the respective types of individual become very severe.
+
+[REFERENCES / LINKS]
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+
+
+[BLOCK 91: H4]
+----------------------------------------------------------------------
+Principles of management of vata dosha dominance
+
+[REFERENCES / LINKS]
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 92: P]
+----------------------------------------------------------------------
+तत्र वातलस्य वातप्रकोपणान्यासेवमानस्य क्षिप्रं वातः प्रकोपमापद्यते, न तथेतरौ दोषौ; स तस्य प्रकोपमापन्नो यथोक्तैर्विकारैः शरीरमुपतपति बलवर्णसुखायुषामुपघाताय| तस्यावजयनं- स्नेहस्वेदौ विधियुक्तौ, मृदूनि च संशोधनानि स्नेहोष्णमधुराम्ललवणयुक्तानि, तद्वदभ्यवहार्याणि, अभ्यङ्गोपनाहनोद्वेष्टनोन्मर्दनपरिषेकावगाहनसंवाहनावपीडनवित्रासनविस्मापनविस्मारणानि, सुरासवविधानं, स्नेहाश्चानेकयोनयो दीपनीयपाचनीयवातहरविरेचनीयोपहितास्तथा शतपाकाः
+सहस्रपाकाः सर्वशश्च प्रयोगार्थाः, बस्तयः, बस्तिनियमः सुखशीलता चेति||१६||
+
+
+[BLOCK 93: P]
+----------------------------------------------------------------------
+tatra vātalasya vātaprakōpaṇānyāsēvamānasya [16] kṣipraṁ vātaḥ prakōpamāpadyatē, na tathētarau dōṣau; satasya prakōpamāpannō yathōktairvikāraiḥ śarīramupatapati balavarṇasukhāyuṣāmupaghātāya|
+tasyāvajayanaṁ- snēhasvēdau vidhiyuktau, mr̥dūni ca saṁśōdhanāni snēhōṣṇamadhurāmlalavaṇayuktāni,tadvadabhyavahāryāṇi,abhyaṅgōpanāhanōdvēṣṭanōnmardanapari
+ṣēkāvagāhanasaṁvāhanāvapīḍanavitrāsanavismāpanavismāraṇāni,surāsavavidhānaṁ, snēhāścānēkayōnayō dīpanīyapācanīyavātaharavirēcanīyōpahitāstathā śatapākāḥsahasrapākāḥ sarvaśaśca prayōgārthāḥ, bastayaḥ, bastiniyamaḥ sukhaśīlatā cēti||16||
+
+
+[BLOCK 94: P]
+----------------------------------------------------------------------
+tatra Vatalasya VataprakopaNAnyAsevamAnasya
+kShipraM VataH prakopamApadyate,na tathetarau doShau; sa tasya
+prakopamApanno yathoktairvikAraiH sharIramupatapati balavarNasukhAyuShAmupaghAtAya| tasyAvajayanaM-snehasvedau
+vidhiyuktau,mRudUni ca saMshodhanAni snehoShNamadhurAmlalavaNayuktAni,tadvadabhyavahAryANi,
+abhya~ggopanAhanodveShTanonmardanapariShekAvagAhanasaMvAhanAvapIDanavitrAsanavismApanavismAraNAni, surAsavavidhAnaM, snehAshcAnekayonayo dIpanIyapAcanIyaVataharavirecanIyopahitAstathA
+shatapAkAH sahasrapAkAH sarvashashca prayogArthAH, bastayaH, bastiniyamaH sukhashIlatA ceti||16||
+
+
+[BLOCK 95: P]
+----------------------------------------------------------------------
+If vatala type of individual resorts to such things which are aggravators of vata , vata in his body gets aggravated immediately. This does not happen in case of remaining two dosha . The aggravated vata afflicts individuals by the manifestation of disease already described, resulting in the impairment of strength, complexion, happiness and longevity. The following therapies alleviate this dosha :
+
+[REFERENCES / LINKS]
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 96: OL]
+----------------------------------------------------------------------
+1. Proper administration of oleation and fomentation;
+2. Mild purgative prepared by the addition of fat, hot things and substances having sweet, sour and saline tastes;
+3. Food having the ingredients of the above mentioned properties.
+4. Massage, poultices, bandages, kneading, effusion, bath, samvahana (pressing and massaging by hand), pressing, using means of terrifying, methods of surprising and making oneself to forget (bad memories)
+5. Use of wine and asavas (fermented drinks)
+6. Fats from different sources mixed with drugs having digestive, stimulant, carminative, vata alleviating and purgative properties- they may be boiled hundred and thousand times and be used for being administered in different ways, viz. internal use, massage, enema, etc., and
+7. Observance of enema regimens, its regulations and adopting comfort (in behavior and lifestyle) [15-16]
+
+[REFERENCES / LINKS]
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+
+
+[BLOCK 97: H4]
+----------------------------------------------------------------------
+Principles of management of pitta dosha dominance
+
+[REFERENCES / LINKS]
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 98: P]
+----------------------------------------------------------------------
+पित्तलस्यापि पित्तप्रकोपणान्यासेवमानस्य क्षिप्रं
+पित्तं प्रकोपमापद्यते, न तथेतरौ दोषौ; तदस्य प्रकोपमापन्नं यथोक्तैर्विकारैः शरीरमुपतपति
+बलवर्णसुखायुषामुपघाताय| तस्यावजयनं- सर्पिष्पानं, सर्पिषा च स्नेहनम्, अधश्च दोषहरणं,
+मधुरतिक्तकषायशीतानां चौषधाभ्यवहार्याणामुपयोगः, मृदुमधुरसुरभिशीतहृद्यानां गन्धानां चोपसेवा,
+मुक्तामणिहारावलीनां च परमशिशिरवारिसंस्थितानां धारणमुरसा, क्षणे क्षणेऽग्र्यचन्दनप्रियङ्गुकालीयमृणालशीतवातवारिभिरुत्पलकुमुदकोकनदसौगन्धिकपद्मानुगतैश्च वारिभिरभिप्रोक्षणं, श्रुतिसुखमृदुमधुरमनोऽनुगानां
+च गीतवादित्राणां श्रवणं, श्रवणं चाभ्युदयानां, सुहृद्भिः संयोगः, संयोगश्चेष्टाभिः स्त्रीभिः शीतोपहितांशुकस्रग्धारिणीभिः, निशाकरांशुशीतलप्रवातहर्म्यवासः, शैलान्तरपुलिनशिशिरसदनवसनव्यजनपवनसेवनं, रम्याणां चोपवनानां सुखशिशिरसुरभिमारुतोपहितानामुपसेवनं, सेवनं चपद्मोत्पलनलिनकुमुदसौगन्धिकपुण्डरीकशतपत्रहस्तानां , सौम्यानां च सर्वभावानामिति||१७||
+
+
+[BLOCK 99: P]
+----------------------------------------------------------------------
+pittalasyāpi pittaprakōpaṇānyāsēvamānasya [17] kṣipraṁ pittaṁ prakōpamāpadyatē, na tathētarau dōṣau;tadasya prakōpamāpannaṁ yathōktairvikāraiḥ śarīramupatapati balavarṇasukhāyuṣāmupaghātāya|
+tasyāvajayanaṁ- sarpiṣpānaṁ, sarpiṣā ca snēhanam, adhaśca dōṣaharaṇaṁ, madhuratiktakaṣāyaśītānāṁcauṣadhābhyavahāryāṇāmupayōgaḥ, mr̥dumadhurasurabhiśītahr̥dyānāṁ gandhānāṁ cōpasēvā,muktāmaṇihārāvalīnāṁ ca paramaśiśiravārisaṁsthitānāṁ dhāraṇamurasā, kṣaṇēkṣaṇē'gryacandanapriyaṅgukālīyamr̥ṇālaśītavātavāribhirutpalakumudakōkanadasaugandhikapadmānugataiścavāribhirabhiprōkṣaṇaṁ, śrutisukhamr̥dumadhuramanō'nugānāṁ ca gītavāditrāṇāṁ śravaṇaṁ, śravaṇaṁcābhyudayānāṁ, suhr̥dbhiḥ saṁyōgaḥ, saṁyōgaścēṣṭābhiḥ strībhiḥ śītōpahitāṁśukasragdhāriṇībhiḥ,niśākarāṁśuśītalapravātaharmyavāsaḥ, śailāntarapulinaśiśirasadanavasanavyajanapavanasēvanaṁ,ramyāṇāṁ cōpavanānāṁ sukhaśiśirasurabhimārutōpahitānāmupasēvanaṁ, sēvanaṁ capadmōtpalanalinakumudasaugandhikapuṇḍarīkaśatapatrahastānāṁ [18] , saumyānāṁ casarvabhāvānāmiti||17||
+
+
+[BLOCK 100: P]
+----------------------------------------------------------------------
+PittalasyApi PittaprakopaNAnyAsevamAnasya kShipraM PittaM
+prakopamApadyate, na tathetarau doShau;tadasya prakopamApannaM
+yathoktairvikAraiH sharIramupatapati balavarNasukhAyuShAmupaghAtAya| tasyAvajayanaM-
+sarpiShpAnaM,sarpiShA ca snehanam, adhashca doShaharaNaM, madhuratiktakaShAyashItAnAM cauShadhAbhyavahAryANAmupayogaH,mRudumadhurasurabhishItahRudyAnAM gandhAnAM
+copasevA, muktAmaNihArAvalInAM ca paramashishiravArisaMsthitAnAM dhAraNamurasA,
+kShaNekShaNe~agryacandanapriya~ggukAlIyamRuNAlashItaVatavAribhirutpalakumudakokanadasaugandhikapadmAnugataishca vAribhirabhiprokShaNaM,shrutisukhamRudumadhuramano~anugAnAM
+ca gItavAditrANAM shravaNaM,shravaNaM cAbhyudayAnAM, suhRudbhiH saMyogaH,saMyogashceShTAbhiH strIbhiH shItopahitAMshukasragdhAriNIbhiH,nishAkarAMshushItalapraVataharmyavAsaH, shailAntarapulinashishirasadanavasanavyajanapavanasevanaM,
+ramyANAM copavanAnAM sukhashishirasurabhimArutopahitAnAmupasevanaM,sevanaM ca
+padmotpalanalinakumudasaugandhikapuNDarIkashatapatrahastAnAM,
+saumyAnAM ca sarvabhAvAnAmiti||17||
+
+
+[BLOCK 101: P]
+----------------------------------------------------------------------
+If a pittaja individual resorts to such things as are aggravators of pitta , pitta in his body gets aggravated immediately. This does not happen in the case of remaining two dosha . The aggravated pitta afflicts the individual by the manifestation of diseases already described resulting in the impairment of strength, complexion, happiness and longevity. The following therapies alleviate this dosha :
+
+[REFERENCES / LINKS]
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 102: OL]
+----------------------------------------------------------------------
+1. Consumption of ghee;
+2. Oleation by ghee;
+3. Purgation;
+4. Use of drugs and diets having sweet, bitter and astringent tastes; and cooling property;
+5. Use of scents which are mild, sweet, fragrant, cooling and cordial;
+6. Use in the chest of pearls, jewels and garlands which are kept in excessively cold water;
+7. Frequent sprinkling of cold water and cold air of agryachandana (Santalum album Linn.), priyangu (Callicarpa macrophylla), kaliya (yellow variety of chandana ) and mrinala (lotus stalk) mixed with utpala (Nymphaea alba Linn.), kumuda (a variety of utpala ), kokanada (a variety of utpala red in color), saugandhika (a variety of utpala ) and padma (Nelumbo nucifera Gaertn.)
+8. Hearing of songs and music which are pleasing to ears, mild, sweet and agreeable;
+9. Hearing the information regarding prosperity;
+10. Keeping company of friends;
+11. Company of agreeable ladies wearing cooling garments and garlands;
+12. Residence in buildings which is cooled by the moon rays and exposed to the breezes from all sides;
+13. Residence in cold places in mountains and river banks, use of cold apparel and exposure to the cold winds of fans;
+14. Visiting beautiful garden having pleasing, cold and fragrant wind;
+15. Use of flower of padma (Nelumbo ncifera Gaertn.), utpala (Nymphaea alba linn.), nalina (a type of lotus), kumuda (a variety of utpala ), saugandhika (a variety of utpala ), pundarika ( Nymphaea lotus Linn.) and satapatra ( a variety of lotus); and
+16. Adoption of such other regimens as are of soothing nature. [17]
+
+
+[BLOCK 103: H4]
+----------------------------------------------------------------------
+Principles of management of kapha dosha dominance
+
+[REFERENCES / LINKS]
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 104: P]
+----------------------------------------------------------------------
+श्लेष्मलस्यापि श्लेष्मप्रकोपणान्यासेवमानस्य [१] क्षिप्रं श्लेष्मा प्रकोपमापद्यते, न तथेतरौ दोषौ; स तस्य प्रकोपमापन्नोयथोक्तैर्विकारैः शरीरमुपतपति बलवर्णसुखायुषामुपघाताय|
+तस्यावजयनं- विधियुक्तानि तीक्ष्णोष्णानि संशोधनानि, रूक्षप्रायाणि चाभ्यवहार्याणि कटुकतिक्तकषायोपहितानि, तथैवधावनलङ्घनप्लवनपरिसरणजागरणनियुद्धव्यवायव्यायामोन्मर्दनस्नानोत्सादनानि, विशेषतस्तीक्ष्णानां दीर्घकालस्थितानां चमद्यानामुपयोगः, सधूमपानः सर्वशश्चोपवासः, तथोष्णं वासः, सुखप्रतिषेधश्च सुखार्थमेवेति||१८||
+
+
+[BLOCK 105: P]
+----------------------------------------------------------------------
+ślēṣmalasyāpi ślēṣmaprakōpaṇānyāsēvamānasya [19] kṣipraṁ ślēṣmā prakōpamāpadyatē, na tathētarau dōṣau;sa tasya prakōpamāpannō yathōktairvikāraiḥ śarīramupatapati balavarṇasukhāyuṣāmupaghātāya|
+tasyāvajayanaṁ- vidhiyuktāni tīkṣṇōṣṇāni saṁśōdhanāni, rūkṣaprāyāṇi cābhyavahāryāṇikaṭukatiktakaṣāyōpahitāni, tathaivadhāvanalaṅghanaplavanaparisaraṇajāgaraṇaniyuddhavyavāyavyāyāmōnmardanasnānōtsādanāni,viśēṣatastīkṣṇānāṁ dīrghakālasthitānāṁ ca madyānāmupayōgaḥ, sadhūmapānaḥ sarvaśaścōpavāsaḥ,tathōṣṇaṁ vāsaḥ, sukhapratiṣēdhaśca sukhārthamēvēti||18||
+
+
+[BLOCK 106: P]
+----------------------------------------------------------------------
+shleShmalasyApi shleShmaprakopaNAnyAsevamAnasya kShipraM shleShmA prakopamApadyate,na tathetarau doShau; sa tasya prakopamApanno yathoktairvikAraiH sharIramupatapati balavarNasukhAyuShAmupaghAtAya|tasyAvajayanaM-
+vidhiyuktAni tIkShNoShNAni saMshodhanAni,rUkShaprAyANi
+cAbhyavahAryANi kaTukatiktakaShAyopahitAni, tathaiva
+dhAvanala~gghanaplavanaparisaraNajAgaraNaniyuddhavyavAyavyAyAmonmardanasnAnotsAdanAni,visheShatastIkShNAnAM dIrghakAlasthitAnAM ca madyAnAmupayogaH, sadhUmapAnaHsarvashashcopavAsaH,tathoShNaM vAsaH,
+sukhapratiShedhashca sukhArthameveti||18||
+
+
+[BLOCK 107: P]
+----------------------------------------------------------------------
+If shlaishmala types of individual resorts to such things as are aggravators of kapha , then kapha in his body gets aggravated immediately; this does not happen to the remaining two dosha . The aggravated kapha afflicts the individual by the manifestation of diseases already described, resulting in the impairment of strength, complexion, happiness and longevity. The following therapies alleviate this dosha :
+
+[REFERENCES / LINKS]
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 108: OL]
+----------------------------------------------------------------------
+1. Proper administration of strong and hot elimination therapies;
+2. Intake of diet which is mostly ununctuous and is composed of ingredients having pungent, bitter and astringent tastes;
+3. Running, jumping, swimming, whirling, keeping awake during night, fighting, sexual intercourse, exercise, unction, bath and oil massage;
+4. Intake of strong wines preserved for a long time;
+5. All lightening therapies along with herbal smoking;
+6. Use of warm apparel; and
+7. Giving up comforts of life with a view to enjoying happiness ultimately. [18]
+
+
+[BLOCK 109: H3]
+----------------------------------------------------------------------
+Characteristics of royal physician
+
+
+[BLOCK 110: P]
+----------------------------------------------------------------------
+भवति चात्र- सर्वरोगविशेषज्ञः सर्वकार्यविशेषवित्| सर्वभेषजतत्त्वज्ञो राज्ञः प्राणपतिर्भवेदिति||१९||
+
+
+[BLOCK 111: P]
+----------------------------------------------------------------------
+bhavati cātra-
+sarvarōgaviśēṣajñaḥ sarvakāryaviśēṣavit| sarvabhēṣajatattvajñō rājñaḥ prāṇapatirbhavēditi||19||
+
+
+[BLOCK 112: P]
+----------------------------------------------------------------------
+bhavati cAtra- sarvarogavisheShaj~jaH sarvakAryavisheShavit| sarvabheShajatattvaj~jo rAj~jaH prANapatirbhavediti||19||
+
+
+[BLOCK 113: P]
+----------------------------------------------------------------------
+Thus it is said:-
+A man well versed with the specific features of all diseases, principles of their treatment and properties of all medicaments is entitled to be a royal physician. [19]
+
+
+[BLOCK 114: H3]
+----------------------------------------------------------------------
+Summary
+
+
+[BLOCK 115: P]
+----------------------------------------------------------------------
+तत्र श्लोकाः- प्रकृत्यन्तरभेदेन रोगानीकविकल्पनम्| परस्पराविरोधश्च सामान्यं रोगदोषयोः||२०|| दोषसङ्ख्या विकाराणामेकदेशः प्रकोपणम्| जरणं प्रति चिन्ता च कायाग्नेर्धुक्षणानि च||२१|| नराणां वातलादीनां प्रकृतिस्थापनानि च| रोगानीके विमानेऽस्मिन् व्याहृतानि महर्षिणा||२२||
+
+
+[BLOCK 116: P]
+----------------------------------------------------------------------
+tatra ślōkāḥ-
+prakr̥tyantarabhēdēna rōgānīkavikalpanam| parasparāvirōdhaśca sāmānyaṁ rōgadōṣayōḥ||20||
+
+
+[BLOCK 117: P]
+----------------------------------------------------------------------
+dōṣasaṅkhyā vikārāṇāmēkadēśaḥ prakōpaṇam|
+jaraṇaṁ prati cintā ca kāyāgnērdhukṣaṇāni ca||21||
+
+
+[BLOCK 118: P]
+----------------------------------------------------------------------
+narāṇāṁ vātalādīnāṁ prakr̥tisthāpanāni ca|
+rōgānīkē vimānē'smin vyāhr̥tāni maharṣiṇā||22||
+
+
+[BLOCK 119: P]
+----------------------------------------------------------------------
+shlokAH-prakRutyantarabhedena rogAnIkavikalpanam|parasparAvirodhashca sAmAnyaM rogadoShayoH||20||Doshasa~gkhyA vikArANAmekadeshaH prakopaNam|jaraNaM prati cintA ca kAyAgnerdhukShaNAni ca||21||
+
+
+[BLOCK 120: P]
+----------------------------------------------------------------------
+narANAM VatalAdInAM prakRutisthApanAni ca| rogAnIke vimAne~asmin vyAhRutAni maharShiNA||22||
+
+
+[BLOCK 121: P]
+----------------------------------------------------------------------
+To sum up, in this chapter, groups of diseases based upon vata etc. prakriti types, non-contradiction of classified categories of diseases, similarity in dosha and roga , numbers of dosha , diseases with one type, causes of vitiation of dosha , description of agni , and means to stimulate it’s functions, vata etc. dominant types of persons and their management to maintain normalcy of dosha are described in details by sage Atreya. [20-22]
+
+[REFERENCES / LINKS]
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+prakriti : https://www.carakasamhitaonline.com/index.php?title=Prakriti
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+agni : https://www.carakasamhitaonline.com/index.php?title=Agni
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 122: H2]
+----------------------------------------------------------------------
+Tattva Vimarsha (Fundamental Principles)
+
+
+[BLOCK 123: OL]
+----------------------------------------------------------------------
+1. The grouping of diseases, patients and agni is framed for development of common modalities for diagnosis and treatment.
+2. Understanding the disease, the agni (digestive capacity) and Prakriti (constitution) of a person is of prime importance for a physician to provide effective treatment.
+3. Comprehensive knowledge of a disease includes its prognosis(curable or incurable), severity(mild or severe), location(soma or psyche),causes(endogenous or exogenous) and site of origin (stomach/digestive or large intestine/excretory).
+4. If a person has predominant dosha and indulges in activities or food increasing that dosha then he will have abrupt onset of disease caused by aggravation of that dosha .
+5. A disease with known etiology, clinical features pointing to a diagnosis and indicated effective treatment is called anubandhya , on the other hand a disease with unknown etiology, variable clinical features and not effective treatment is called anubandha .
+6. Mental and physical disorders may start as such but later influence each other.
+7. Passion, anger, greed, attachment, envy, ego, worry, anxiety, fear, excitement etc. are due to psychic dosha, raja and tamas .
+8. Rajas is the initiator of all actions. Tamas cannot act without rajas .
+9. Agni ( digestive processes) of a person shall be diagnosed as tikshna (severe), manda (low), sama (balanced) and vishama (irregular). The selection of diet and dose of medicine depends upon agni .
+
+[REFERENCES / LINKS]
+agni : https://www.carakasamhitaonline.com/index.php?title=Agni
+agni : https://www.carakasamhitaonline.com/index.php?title=Agni
+Prakriti : https://www.carakasamhitaonline.com/index.php?title=Prakriti
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+agni : https://www.carakasamhitaonline.com/index.php?title=Agni
+
+
+[BLOCK 124: H2]
+----------------------------------------------------------------------
+Vidhi Vimarsha (Applied Inferences)
+
+
+[BLOCK 125: H3]
+----------------------------------------------------------------------
+Methods of disease classification
+
+
+[BLOCK 126: P]
+----------------------------------------------------------------------
+The word Vimana literally means measurement, so this section gives the physical as well pathological parameters for the measurement of various entities like dosha , dhatu , agni , srotas etc. In the present chapter method of classification of diseases is given on the basis of prognosis, severity, site of origin, cause and location. Physicians are directed to diagnose the disease as primary or secondary one on the basis of vitiated dosha and treatment given.
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dhatu : https://www.carakasamhitaonline.com/index.php?title=Dhatu
+agni : https://www.carakasamhitaonline.com/index.php?title=Agni
+srotas : https://www.carakasamhitaonline.com/index.php?title=Srotas
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 127: H3]
+----------------------------------------------------------------------
+Primary (anubandhya) and secondary (anubandha) dosha
+
+
+[BLOCK 128: P]
+----------------------------------------------------------------------
+Primary dosha manifest their respective diseases when they are aggravated. On the other hand, the sub-ordinate dosha manifests their respective symptoms only when they are stimulated by the primary dosha . In other words, in view of their un-manifested symptoms, subordinate dosha , do not get aggravated by the factor responsible for their aggravation as mentioned in the texts nor do they get alleviated by the therapy prescribed specially for them. They get alleviated only when the therapy prescribed for primary dosha is administered. That is to say the aggravation and alleviation of subordinate dosha are affected by the causative factors and therapies, other than their own. This is because they share the attributes of the dosha , of primary nature to some extent. For example, in the autumn season pitta is vitiated primarily and kapha secondarily due to sour vipaka of water etc. This is because sour taste is responsible for the vitiation of both. For the treatment of primary dosha , viz. pitta , ghee boiled with bitter drugs is employed; bitter taste, by nature, alleviates the subordinate dosha , viz. kapha also. 'Anubandhya and, anubandha are the technical terms for primary and secondary diseases respectively known to scholar adapt in the medical science.
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+vipaka : https://www.carakasamhitaonline.com/index.php?title=Vipaka
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+
+
+[BLOCK 129: H3]
+----------------------------------------------------------------------
+Role of prakriti
+
+[REFERENCES / LINKS]
+prakriti : https://www.carakasamhitaonline.com/index.php?title=Prakriti
+
+
+[BLOCK 130: P]
+----------------------------------------------------------------------
+The term prakriti (meaning natural state) has different other meaning as well. Because of these two factors and with a view to specifying the intention, Acharya has used the term prakritisthanam along with vatapittashleshmana . In the case of an individual having the dominance of vata in his constitution, agni becomes irregular only when the sites of agni in his body are afflicted by vata and not otherwise. Similar is the explanation for the changes in the agni in individuals having the dominance of pitta and kapha in their constitution. The concept of prakriti is also described in the chapter in the context of disease. It is worth mentioning that the prakriti described in this chapter is in reference to the diseased state i.e. vikrita avastha . [verses 1-2]
+
+[REFERENCES / LINKS]
+prakriti : https://www.carakasamhitaonline.com/index.php?title=Prakriti
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+agni : https://www.carakasamhitaonline.com/index.php?title=Agni
+agni : https://www.carakasamhitaonline.com/index.php?title=Agni
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+agni : https://www.carakasamhitaonline.com/index.php?title=Agni
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+prakriti : https://www.carakasamhitaonline.com/index.php?title=Prakriti
+prakriti : https://www.carakasamhitaonline.com/index.php?title=Prakriti
+
+
+[BLOCK 131: P]
+----------------------------------------------------------------------
+Dosha pertaining to mind are given priority in the order of their description because they are comparatively smaller in number. [verses 5-6]
+
+[REFERENCES / LINKS]
+Dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 132: P]
+----------------------------------------------------------------------
+Determination of psychosomatic constitution, as well as disease susceptibility of an individual in population through genetic trait, is known as prakriti . Prakriti is a broad term that encompasses all the three genotype, phenotype as well as endophenotype. The concept of prakriti in Ayurveda is related to the bio-characteristic of an individual in healthy state and its vulnerability for particular diseases. According to Ayurveda , prakriti of an individual once determined at the time of fertilization remains unchanged throughout life though it is well influenced by environment. Role of environment in determination of prakriti during prenatal period is as important as postnatal period. Reviewing the human embryology, it can be postulated that the three primitive germinal layers namely ectoderm, mesoderm and endoderm can be correlated with vatika, paittika and kaphaja trait. According to Ayurveda at the time of fertilization the doshika prakriti is determined by the doshika predominance of shukra (sperm) and shonita (ovum) that represent the fastidious genetic alignment of chromosomes in sperm and ovum and decide the genetic trait of zygote. Robust research is being conducted to study the link between prakriti and genes.
+
+[REFERENCES / LINKS]
+prakriti : https://www.carakasamhitaonline.com/index.php?title=Prakriti
+Prakriti : https://www.carakasamhitaonline.com/index.php?title=Prakriti
+prakriti : https://www.carakasamhitaonline.com/index.php?title=Prakriti
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+prakriti : https://www.carakasamhitaonline.com/index.php?title=Prakriti
+prakriti : https://www.carakasamhitaonline.com/index.php?title=Prakriti
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+shukra : https://www.carakasamhitaonline.com/index.php?title=Shukra
+shonita : https://www.carakasamhitaonline.com/index.php?title=Shonita&action=edit&redlink=1
+prakriti : https://www.carakasamhitaonline.com/index.php?title=Prakriti
+
+
+[BLOCK 133: P]
+----------------------------------------------------------------------
+In Nidana Sthana Chapter 4 ( Prameha Nidana ), Acharya says that the development of disease is multi-factorial and it depends upon both the virulence of pathogens ( nidana ) as well as host response ( dushya ). Response of the host can be quantified by using prakriti as a parameter. [verse 13]
+
+[REFERENCES / LINKS]
+Nidana Sthana : https://www.carakasamhitaonline.com/index.php?title=Nidana_Sthana
+Prameha Nidana : https://www.carakasamhitaonline.com/index.php?title=Prameha_Nidana
+nidana : https://www.carakasamhitaonline.com/index.php?title=Nidana
+dushya : https://www.carakasamhitaonline.com/index.php?title=Dushya
+prakriti : https://www.carakasamhitaonline.com/index.php?title=Prakriti
+
+
+[BLOCK 134: H3]
+----------------------------------------------------------------------
+Psycho-somatic disease
+
+
+[BLOCK 135: P]
+----------------------------------------------------------------------
+Classification of various diseases on five parameters is described and then gives a generalized method for classification of disease on the basis of grief as a universal symptom. Here it is important to note that the term grief is used instead of pain to identify the disease. The word grief ( dukha ) signifies both mental as well as physical trouble. Thus more emphasis is given on the fact that both the component of a disease i.e. somatic and psychic should be equally treated for successful management. Description of the causative dosha for mental diseases and their relation with physical dosha is given. In the same context the psychosomatic diseases are described. Chronic somatic diseases cause psychological diseases and chronic psychological diseases leads to somatic diseases i.e. both are intermingled and have cause and effect relationship.
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 136: H3]
+----------------------------------------------------------------------
+Role of agni
+
+[REFERENCES / LINKS]
+agni : https://www.carakasamhitaonline.com/index.php?title=Agni
+
+
+[BLOCK 137: FIGURE]
+----------------------------------------------------------------------
+Chart 1:Types of Agni
+
+[REFERENCES / LINKS]
+ : https://www.carakasamhitaonline.com/index.php?title=File:Chart_1.png
+Agni : https://www.carakasamhitaonline.com/index.php?title=Agni
+
+[IMAGES]
+ : https://www.carakasamhitaonline.com/images/thumb/4/49/Chart_1.png/400px-Chart_1.png
+
+
+[BLOCK 138: FIGURE]
+----------------------------------------------------------------------
+Chart 2: Factors involved in process of Agni
+
+[REFERENCES / LINKS]
+ : https://www.carakasamhitaonline.com/index.php?title=File:Chart_2.png
+Agni : https://www.carakasamhitaonline.com/index.php?title=Agni
+
+[IMAGES]
+ : https://www.carakasamhitaonline.com/images/thumb/f/fa/Chart_2.png/400px-Chart_2.png
+
+
+[BLOCK 139: FIGURE]
+----------------------------------------------------------------------
+Chart 3: Importance of Agni
+
+[REFERENCES / LINKS]
+ : https://www.carakasamhitaonline.com/index.php?title=File:Chart_3.png
+Agni : https://www.carakasamhitaonline.com/index.php?title=Agni
+
+[IMAGES]
+ : https://www.carakasamhitaonline.com/images/thumb/a/ac/Chart_3.png/400px-Chart_3.png
+
+
+[BLOCK 140: P]
+----------------------------------------------------------------------
+The relation between agni and disease process is essential to be understood. Impairment of agni is a cause of accumulation of various toxic products inside body leading to disease. Agni includes all processes of digestion and metabolism taking at gross level, tissue level, micro-cellular level. Hence it needs a special emphasis while treating a disease. Diagnosis of agni of a person is one of key factor in understanding disease.
+
+[REFERENCES / LINKS]
+agni : https://www.carakasamhitaonline.com/index.php?title=Agni
+agni : https://www.carakasamhitaonline.com/index.php?title=Agni
+Agni : https://www.carakasamhitaonline.com/index.php?title=Agni
+agni : https://www.carakasamhitaonline.com/index.php?title=Agni
+
+
+[BLOCK 141: P]
+----------------------------------------------------------------------
+The term sharireshu indicates that agni (factors or enzymes responsible for digestion and metabolism) residing all over the body. However, in subsequent elaboration, agni residing in the gastrointestinal tract is described because this agni regulates the aggravation or abatement of all the other agni [Cha.Sa. Chikitsa Sthana 15/39]. Agni belonging to regular or balanced category are the most beneficial for a healthy living; still agni belonging to the sharp category are given priority in the order of description because of their importance in as much as they are capable of tolerating all types of irregularities. Balanced ( sama ) condition of vata , pitta , and kapha during their natural states and when they are aggravated, accompanies regular or balanced agni .
+
+[REFERENCES / LINKS]
+agni : https://www.carakasamhitaonline.com/index.php?title=Agni
+agni : https://www.carakasamhitaonline.com/index.php?title=Agni
+agni : https://www.carakasamhitaonline.com/index.php?title=Agni
+agni : https://www.carakasamhitaonline.com/index.php?title=Agni
+Chikitsa Sthana : https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana
+Agni : https://www.carakasamhitaonline.com/index.php?title=Agni
+agni : https://www.carakasamhitaonline.com/index.php?title=Agni
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+agni : https://www.carakasamhitaonline.com/index.php?title=Agni
+
+
+[BLOCK 142: P]
+----------------------------------------------------------------------
+The charts 1,2 and 3 shows various types of agni and its related processes in ayurvedic perspective.
+
+[REFERENCES / LINKS]
+agni : https://www.carakasamhitaonline.com/index.php?title=Agni
+
+
+[BLOCK 143: H3]
+----------------------------------------------------------------------
+Contemporary views
+
+
+[BLOCK 144: P]
+----------------------------------------------------------------------
+Current scientific research supports this age-old tenet of medical wisdom. Walter Cannon in 1920, documented the physiological changes in body as a response to stressors through hormones called catecholamines. This was further researched by Hans Selye to pioneer the field of stress research. He described the close relation between body and mind with various articles on stress affecting humans biologically. Biofeedback is found effective in the treatment of various psycho-somatic disorders. Dean Ornish and his colleagues also worked upon the concept to integrate yoga , meditation for designing protocol for stress management in a medical center [ 1 ] .
+
+[REFERENCES / LINKS]
+[ 1 ] : https://www.carakasamhitaonline.com/index.php?title=Roganika_Vimana#cite_note-1
+
+
+[BLOCK 145: P]
+----------------------------------------------------------------------
+International classification of diseases and related health problems is a system that classifies disease on the basis of interpretation and comparison of mortality and morbidity data across globe [ 2 ] .
+
+[REFERENCES / LINKS]
+[ 2 ] : https://www.carakasamhitaonline.com/index.php?title=Roganika_Vimana#cite_note-2
+
+
+[BLOCK 146: H3]
+----------------------------------------------------------------------
+Applied aspect for future research
+
+
+[BLOCK 147: OL]
+----------------------------------------------------------------------
+1. Scientific validation of term prakriti and standardization of doshika and manasa prakriti .
+2. Preparation of protocol for the classification of diseases on the basis of vata , pitta and kapha .
+3. Standardization of Parameters for the characterization of agni into manda, tikshana and vishama .
+4. Classification of disease, patient as well as management on the basis of prakriti and its scientific validation.
+
+[REFERENCES / LINKS]
+prakriti : https://www.carakasamhitaonline.com/index.php?title=Prakriti
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+agni : https://www.carakasamhitaonline.com/index.php?title=Agni
+prakriti : https://www.carakasamhitaonline.com/index.php?title=Prakriti
+
+
+[BLOCK 148: H3]
+----------------------------------------------------------------------
+Future Scope for Research
+
+
+[BLOCK 149: OL]
+----------------------------------------------------------------------
+1. Searching genetic trait for different prakriti and disease susceptibility accordingly.
+2. Standardization of Jatharagni, Bhutagni and Dhatvagni .
+
+[REFERENCES / LINKS]
+prakriti : https://www.carakasamhitaonline.com/index.php?title=Prakriti
+
+
+[BLOCK 150: H3]
+----------------------------------------------------------------------
+Further reading
+
+
+[BLOCK 151: OL]
+----------------------------------------------------------------------
+1. Kajaria Divya, Tripathi J.S, Tiwari S.K. Clinical Application of Concept of Agni. Asian Journal of Pharmaceutical Research. 2014; 4(1):1-5.
+2. Kajaria Divya, Tripathi J.S, Tiwari S.K. Exploring Novel Concept of Agni and its Clinical Relevance. Alternative & Integrative Medicine.2013; 2(8):1-5.
+3. Patwardhan, B., and Mashelkar, R. A. (2009) Traditional medicine-inspired approach to drug discovery: can Ayurveda show the way forward? Drug Discovery Today 14 (15-16), 804–11.
+4. Bhushan, P., Kalpana, J., and Arvind, C. (2005) Classification of human population based on HLA gene polymorphism and the concept of Prakriti in Ayurveda . J. Altern. Complement. Med. 11 (2), 349–53.
+5. Prasher, B., Negi, S., Aggarwal, S., Mandal, A. K., Sethi, T. P.,Deshmukh, S. R., Purohit, S. G., Sengupta, S., Khanna, S., Mohammad, F., Garg, G., Brahmachari, S. K., Indian Genome Variation Consortium, Mukerji, M. (2008) Whole genome expression and biochemical correlates of extreme constitutional types defined in Ayurveda . J. Transl. Med.6, 48.
+6. Aggarwal, S., Negi, S., Jha, P., Singh, P. K., Stobdan, T., Pasha,M. A., Ghosh, S., Agrawal, A., Prasher, B., and Mukerji, M. (2010) EGLN1 involvement in high-altitude adaptation revealed through genetic analysis of extreme constitution types de!ned in Ayurveda . Proc.Natl. Acad. Sci. U.S.A. 107 (44), 18961–6.
+7. Peng, Y., Yang, Z., Zhang, H., Cui, C., Qi, X., Luo, X., Tao, X.,Wu, T., Ouzhuluobu, B., Ciwangsangbu, D., Chen, H., Shi, H., and Su, B. (2011) Genetic variations in Tibetan populations and high-altitude adaptation at the Himalayas. Mol. Biol. Evol. 28 (2), 1075–81.
+8. Xu, S., Li, S., Yang, Y., Tan, J., Lou, H., Jin, W., Yang, L., Pan, X.,Wang, J., Shen, Y., Wu, B., Wang, H., and Jin, L. (2011) A genome-wide search for signals of high-altitude adaptation in Tibetans. Mol. Biol. Evol.28 (2), 1003–11.
+9. Bigham, A., Bauchet, M., Pinto, D., Mao, X., Akey, J. M., Mei, R.,Scherer, S. W., Julian, C. G., Wilson, M. J., L!opez Herr!aez, D., Brutsaert, T., Parra, E. J., Moore, L. G., and Shriver, M. D. (2010) Identifying signatures of natural selection in Tibetan and Andean populations using dense genome scan data. PLoS Genet. 6 (9), e1001116.
+10. Storz, J. F. (2010) Evolution. Genes for high altitudes. Science 329 (5987), 40–1.
+11. Huerta-Yepez, S, Baay-Guzman, G. J., Bebenek, I. G., Hernandez-Pando, R, Vega, M. I., Chi, L, Riedl, M, Diaz-Sanchez, D, Kleerup, E, Tashkin, D. P., Gonzalez, F. J., Bonavida, B, Zeidler, M, and Hankinson,O. (2011) Hypoxia Inducible Factor promotes murine allergic airway inflammation and is increased in asthma and rhinitis. Allergy66 (7),909–18.
+
+[REFERENCES / LINKS]
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+
+
+[BLOCK 152: H2]
+----------------------------------------------------------------------
+Related chapters
+
+
+[BLOCK 153: UL]
+----------------------------------------------------------------------
+1. Ashtodariya
+2. Maharoga Adhyaya
+
+[REFERENCES / LINKS]
+Ashtodariya : https://www.carakasamhitaonline.com/index.php?title=Ashtodariya
+Maharoga Adhyaya : https://www.carakasamhitaonline.com/index.php?title=Maharoga_Adhyaya
+
+
+[BLOCK 154: P]
+----------------------------------------------------------------------
+Send us your suggestions and feedback on this page.
+
+[REFERENCES / LINKS]
+Send us your suggestions and feedback on this page. : https://www.carakasamhitaonline.com/index.php?title=Special:ContactMe
+
+
+[BLOCK 155: H2]
+----------------------------------------------------------------------
+References
+
+
+[BLOCK 156: OL]
+----------------------------------------------------------------------
+1. ↑ Sourced from http://www.bravewell.org/integrative_medicine/philosophical_foundation/mind_and_body_connection/ accessed on 18/06/2017
+2. ↑ Sourced from http://www.who.int/classifications/icd/revision/en/ accessed on 26/06/2017
+
+[REFERENCES / LINKS]
+↑ : https://www.carakasamhitaonline.com/index.php?title=Roganika_Vimana#cite_ref-1
+http://www.bravewell.org/integrative_medicine/philosophical_foundation/mind_and_body_connection/ : http://www.bravewell.org/integrative_medicine/philosophical_foundation/mind_and_body_connection/
+↑ : https://www.carakasamhitaonline.com/index.php?title=Roganika_Vimana#cite_ref-2
+http://www.who.int/classifications/icd/revision/en/ : http://www.who.int/classifications/icd/revision/en/
+
+
+[BLOCK 157: TEXT]
+----------------------------------------------------------------------
+Back to the Top
+
+
+[BLOCK 158: TEXT]
+----------------------------------------------------------------------
+NewPP limit report
+Cached time: 20261111142153
+Cache expiry: 86400
+Reduced expiry: false
+Complications: [vary‐revision‐id, show‐toc]
+CPU time usage: 0.106 seconds
+Real time usage: 0.260 seconds
+Preprocessor visited node count: 282/1000000
+Post‐expand include size: 2399/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 3/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1126/5000000 bytes
+Lua time usage: 0.130/7 seconds
+Lua virtual size: 20480000/209715200 bytes
+Lua estimated memory usage: 0 bytes
+
+
+[BLOCK 159: TEXT]
+----------------------------------------------------------------------
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 213.568 1 -total
+98.14% 209.595 1 Template:Infobox
+0.68% 1.444 1 Template:CiteButton
+
+
+[BLOCK 160: TEXT]
+----------------------------------------------------------------------
+Saved in parser cache with key carakas1_carakasa:pcache:idhash:2169-0!canonical and timestamp 20261111142153 and revision id 44510. Rendering was triggered because: diff-page
+
+
+[BLOCK 161: TEXT]
+----------------------------------------------------------------------
+Retrieved from "
+
+
+[BLOCK 162: TEXT]
+----------------------------------------------------------------------
+https://www.carakasamhitaonline.com/index.php?title=Roganika_Vimana&oldid=44510
+
+
+[BLOCK 163: TEXT]
+----------------------------------------------------------------------
+"
+
+
+==========================================================================================
+END OF CHAPTER
+==========================================================================================

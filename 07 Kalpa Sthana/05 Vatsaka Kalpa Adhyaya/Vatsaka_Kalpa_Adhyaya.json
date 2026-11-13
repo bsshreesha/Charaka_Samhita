@@ -1,0 +1,1629 @@
+{
+    "source": "Charaka Samhita",
+    "chapter": "Vatsaka Kalpa Adhyaya",
+    "chapter_id": "Vatsaka_Kalpa_Adhyaya",
+    "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya",
+    "xpath": "//*[@id=\"content\"]",
+    "extraction_date": "2026-11-13T09:55:06",
+    "total_blocks": 113,
+    "total_tables": 1,
+    "total_headings": 14,
+    "total_paragraphs": 79,
+    "content": [
+        {
+            "type": "h1",
+            "text": "Vatsaka Kalpa Adhyaya",
+            "html": "<h1 class=\"firstHeading mw-first-heading\" id=\"firstHeading\"><span class=\"mw-page-title-main\">Vatsaka Kalpa Adhyaya</span></h1>",
+            "links": [],
+            "images": [],
+            "level": 1
+        },
+        {
+            "type": "text",
+            "text": "From Charak Samhita"
+        },
+        {
+            "type": "text",
+            "text": "Jump to navigation"
+        },
+        {
+            "type": "text",
+            "text": "Jump to search"
+        },
+        {
+            "type": "figure",
+            "text": "",
+            "html": "<figure class=\"mw-default-size mw-halign-right\" typeof=\"mw:File\"><a href=\"https://www.carakasamhitaonline.com/index.php?title=Special:CiteThisPage&amp;page=Vatsaka_Kalpa_Adhyaya&amp;id=44570&amp;wpFormIdentifier=titleform\" rel=\"nofollow\"><img class=\"mw-file-element\" decoding=\"async\" height=\"47\" src=\"/images/5/58/Cite.png\" width=\"180\"/></a><figcaption></figcaption></figure>",
+            "links": [
+                {
+                    "text": "",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Special:CiteThisPage&page=Vatsaka_Kalpa_Adhyaya&id=44570&wpFormIdentifier=titleform"
+                }
+            ],
+            "images": [
+                {
+                    "url": "https://www.carakasamhitaonline.com/images/5/58/Cite.png",
+                    "alt": "",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Kalpa Sthana Chapter 5.Pharmaceutical preparations of Vatsaka",
+            "html": "<p><big><b><a href=\"/index.php?title=Kalpa_Sthana\" title=\"Kalpa Sthana\">Kalpa Sthana</a> Chapter 5.Pharmaceutical preparations of Vatsaka </b></big>\n</p>",
+            "links": [
+                {
+                    "text": "Kalpa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kalpa_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "Section/Chapter",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Kalpa Sthana Chapter 5",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Kalpa Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Kalpa_Sthana"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Preceding Chapter",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Dhamargava Kalpa Adhyaya",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Dhamargava Kalpa Adhyaya",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Dhamargava_Kalpa_Adhyaya"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Succeeding Chapter",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Kritavedhana Kalpa Adhyaya",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Kritavedhana Kalpa Adhyaya",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Kritavedhana_Kalpa_Adhyaya"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Other Sections",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Sutra Sthana , Nidana Sthana , Vimana Sthana , Sharira Sthana , Indriya Sthana , Chikitsa Sthana , Siddhi Sthana",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Sutra Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                            },
+                            {
+                                "text": "Nidana Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Nidana_Sthana"
+                            },
+                            {
+                                "text": "Vimana Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana"
+                            },
+                            {
+                                "text": "Sharira Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                            },
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            },
+                            {
+                                "text": "Chikitsa Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                            },
+                            {
+                                "text": "Siddhi Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Siddhi_Sthana"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Translator and commentator",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Dwivedi K.N., Sharma P.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Reviewer",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Chavan S., Nishteswar K.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Editors",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Nishteswar K., Sawant B., Deole Y.S. , Basisht G.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Deole Y.S.",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Yogesh_Deole"
+                            },
+                            {
+                                "text": "Basisht G.",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Gopal_Basisht"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Year of publication",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "2020",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Publisher",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Charak Samhita Research, Training and Skill Development Centre",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Charak Samhita Research, Training and Skill Development Centre",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Skill_Development_Centre"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "DOI",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "10.47468/CSNE.2020.e01.s07.006",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "10.47468/CSNE.2020.e01.s07.006",
+                                "url": "https://doi.org/10.47468/CSNE.2020.e01.s07.006"
+                            }
+                        ]
+                    }
+                ]
+            ],
+            "html": "<table class=\"infobox\" style=\"width:22em\"><caption>Vatsaka Kalpa Adhyaya</caption><tbody><tr><th scope=\"row\">Section/Chapter</th><td>\n<a href=\"/index.php?title=Kalpa_Sthana\" title=\"Kalpa Sthana\">Kalpa Sthana</a> Chapter 5</td></tr><tr><th scope=\"row\">Preceding Chapter</th><td>\n<a href=\"/index.php?title=Dhamargava_Kalpa_Adhyaya\" title=\"Dhamargava Kalpa Adhyaya\">Dhamargava Kalpa Adhyaya</a></td></tr><tr><th scope=\"row\">Succeeding Chapter</th><td>\n<a href=\"/index.php?title=Kritavedhana_Kalpa_Adhyaya\" title=\"Kritavedhana Kalpa Adhyaya\">Kritavedhana Kalpa Adhyaya</a></td></tr><tr><th scope=\"row\">Other Sections</th><td>\n<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a>, <a href=\"/index.php?title=Nidana_Sthana\" title=\"Nidana Sthana\">Nidana Sthana</a>,  <a href=\"/index.php?title=Vimana_Sthana\" title=\"Vimana Sthana\">Vimana Sthana</a>, <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a>, <a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a>, <a href=\"/index.php?title=Chikitsa_Sthana\" title=\"Chikitsa Sthana\">Chikitsa Sthana</a>, <a href=\"/index.php?title=Siddhi_Sthana\" title=\"Siddhi Sthana\">Siddhi Sthana</a></td></tr><tr><th scope=\"row\">Translator and commentator</th><td>\nDwivedi K.N., Sharma P.</td></tr><tr><th scope=\"row\">Reviewer</th><td>\nChavan S., Nishteswar K.</td></tr><tr><th scope=\"row\">Editors</th><td>\nNishteswar K., Sawant B., <a href=\"/index.php?title=Yogesh_Deole\" title=\"Yogesh Deole\">Deole Y.S.</a>, <a href=\"/index.php?title=Gopal_Basisht\" title=\"Gopal Basisht\">Basisht G.</a></td></tr><tr><th scope=\"row\">Year of publication</th><td>\n2020</td></tr><tr><th scope=\"row\">Publisher</th><td>\n<a href=\"/index.php?title=Charak_Samhita_Research,_Training_and_Skill_Development_Centre\" title=\"Charak Samhita Research, Training and Skill Development Centre\">Charak Samhita Research, Training and Skill Development Centre</a></td></tr><tr><th scope=\"row\">DOI</th><td>\n<a class=\"external text\" href=\"https://doi.org/10.47468/CSNE.2020.e01.s07.006\" rel=\"nofollow\">10.47468/CSNE.2020.e01.s07.006</a></td></tr></tbody></table>",
+            "links": [
+                {
+                    "text": "Kalpa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kalpa_Sthana"
+                },
+                {
+                    "text": "Dhamargava Kalpa Adhyaya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhamargava_Kalpa_Adhyaya"
+                },
+                {
+                    "text": "Kritavedhana Kalpa Adhyaya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kritavedhana_Kalpa_Adhyaya"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "Nidana Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Nidana_Sthana"
+                },
+                {
+                    "text": "Vimana Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Chikitsa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                },
+                {
+                    "text": "Siddhi Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Siddhi_Sthana"
+                },
+                {
+                    "text": "Deole Y.S.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Yogesh_Deole"
+                },
+                {
+                    "text": "Basisht G.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Gopal_Basisht"
+                },
+                {
+                    "text": "Charak Samhita Research, Training and Skill Development Centre",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Skill_Development_Centre"
+                },
+                {
+                    "text": "10.47468/CSNE.2020.e01.s07.006",
+                    "url": "https://doi.org/10.47468/CSNE.2020.e01.s07.006"
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Abstract",
+            "html": "<p><big><b>Abstract </b></big>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Pharmaceutical preparation of vatsaka (Holarrhena antidysentrica Linn.Wall.) , its synonyms, and the difference between male and female plants (along with their pharmaceutical preparations) are described. The seeds of vatsaka are known as indrayava or kalingaka . Fruits and seeds are used for therapeutic emesis. Vatsaka is used to treat raktapitta, kapha , vatarakta, visarpa and several other diseases. Total eighteen formulations are prepared in different medium like decoction of various drugs, water and krasara . It is beneficial for delicate persons. Keywords : Indrayava, Decoction, Vatarakta, Visarpa. Holarrhena antidysentrica Linn.Wall.",
+            "html": "<p style=\"text-align:justify;\">Pharmaceutical preparation of <i>vatsaka</i> (Holarrhena antidysentrica Linn.Wall.) , its synonyms, and the difference between male and female plants (along with their pharmaceutical preparations) are described. The seeds of <i>vatsaka</i> are known as <i>indrayava</i> or <i>kalingaka</i>. Fruits and seeds are used for therapeutic emesis. <i>Vatsaka</i> is used to treat <i>raktapitta, <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a>, vatarakta, visarpa</i> and several other diseases. Total eighteen formulations are prepared in different medium like decoction of various drugs, water and <i>krasara</i>. It is beneficial for delicate persons.\n<br/>\n<b>Keywords</b>: Indrayava, Decoction, Vatarakta, Visarpa. Holarrhena antidysentrica Linn.Wall.\n</p>",
+            "links": [
+                {
+                    "text": "kapha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kapha"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "",
+            "html": "<p><br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Contents",
+            "html": "<h2 id=\"mw-toc-heading\">Contents</h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ul",
+            "text": "1 Introduction 2 Sanskrit Text, Transliteration with English Translation 2.1 Types and synonyms of vatsaka 2.2 Various preparations 2.3 Summary 3 Tattva Vimarsha (Fundamental Principles) 4 Vidhi Vimarsha (Applied Inferences ) 4.1 Synomyms of vatsaka 4.2 Cause and effect 4.3 Recent researches on action of herbs 4.4 Future scope of research 5 References",
+            "html": "<ul>\n<li class=\"toclevel-1 tocsection-1\"><a href=\"#Introduction\"><span class=\"tocnumber\">1</span> <span class=\"toctext\">Introduction</span></a></li>\n<li class=\"toclevel-1 tocsection-2\"><a href=\"#Sanskrit_Text,_Transliteration_with_English_Translation\"><span class=\"tocnumber\">2</span> <span class=\"toctext\">Sanskrit Text, Transliteration with English Translation</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-3\"><a href=\"#Types_and_synonyms_of_vatsaka\"><span class=\"tocnumber\">2.1</span> <span class=\"toctext\">Types and synonyms of <i>vatsaka</i></span></a></li>\n<li class=\"toclevel-2 tocsection-4\"><a href=\"#Various_preparations\"><span class=\"tocnumber\">2.2</span> <span class=\"toctext\">Various preparations</span></a></li>\n<li class=\"toclevel-2 tocsection-5\"><a href=\"#Summary\"><span class=\"tocnumber\">2.3</span> <span class=\"toctext\">Summary</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-6\"><a href=\"#Tattva_Vimarsha_(Fundamental_Principles)\"><span class=\"tocnumber\">3</span> <span class=\"toctext\">Tattva Vimarsha (Fundamental Principles)</span></a></li>\n<li class=\"toclevel-1 tocsection-7\"><a href=\"#Vidhi_Vimarsha_(Applied_Inferences_)\"><span class=\"tocnumber\">4</span> <span class=\"toctext\">Vidhi Vimarsha (Applied Inferences )</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-8\"><a href=\"#Synomyms_of_vatsaka\"><span class=\"tocnumber\">4.1</span> <span class=\"toctext\">Synomyms of <i>vatsaka</i></span></a></li>\n<li class=\"toclevel-2 tocsection-9\"><a href=\"#Cause_and_effect\"><span class=\"tocnumber\">4.2</span> <span class=\"toctext\">Cause and effect</span></a></li>\n<li class=\"toclevel-2 tocsection-10\"><a href=\"#Recent_researches_on_action_of_herbs\"><span class=\"tocnumber\">4.3</span> <span class=\"toctext\">Recent researches on action of herbs</span></a></li>\n<li class=\"toclevel-2 tocsection-11\"><a href=\"#Future_scope_of_research\"><span class=\"tocnumber\">4.4</span> <span class=\"toctext\">Future scope of research</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-12\"><a href=\"#References\"><span class=\"tocnumber\">5</span> <span class=\"toctext\">References</span></a></li>\n</ul>",
+            "links": [
+                {
+                    "text": "1 Introduction",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#Introduction"
+                },
+                {
+                    "text": "2 Sanskrit Text, Transliteration with English Translation",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#Sanskrit_Text,_Transliteration_with_English_Translation"
+                },
+                {
+                    "text": "2.1 Types and synonyms of vatsaka",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#Types_and_synonyms_of_vatsaka"
+                },
+                {
+                    "text": "2.2 Various preparations",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#Various_preparations"
+                },
+                {
+                    "text": "2.3 Summary",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#Summary"
+                },
+                {
+                    "text": "3 Tattva Vimarsha (Fundamental Principles)",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#Tattva_Vimarsha_(Fundamental_Principles)"
+                },
+                {
+                    "text": "4 Vidhi Vimarsha (Applied Inferences )",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#Vidhi_Vimarsha_(Applied_Inferences_)"
+                },
+                {
+                    "text": "4.1 Synomyms of vatsaka",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#Synomyms_of_vatsaka"
+                },
+                {
+                    "text": "4.2 Cause and effect",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#Cause_and_effect"
+                },
+                {
+                    "text": "4.3 Recent researches on action of herbs",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#Recent_researches_on_action_of_herbs"
+                },
+                {
+                    "text": "4.4 Future scope of research",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#Future_scope_of_research"
+                },
+                {
+                    "text": "5 References",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#References"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "1 Introduction",
+                    "links": [
+                        {
+                            "text": "1 Introduction",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#Introduction"
+                        }
+                    ]
+                },
+                {
+                    "text": "2 Sanskrit Text, Transliteration with English Translation 2.1 Types and synonyms of vatsaka 2.2 Various preparations 2.3 Summary",
+                    "links": [
+                        {
+                            "text": "2 Sanskrit Text, Transliteration with English Translation",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#Sanskrit_Text,_Transliteration_with_English_Translation"
+                        },
+                        {
+                            "text": "2.1 Types and synonyms of vatsaka",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#Types_and_synonyms_of_vatsaka"
+                        },
+                        {
+                            "text": "2.2 Various preparations",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#Various_preparations"
+                        },
+                        {
+                            "text": "2.3 Summary",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#Summary"
+                        }
+                    ]
+                },
+                {
+                    "text": "3 Tattva Vimarsha (Fundamental Principles)",
+                    "links": [
+                        {
+                            "text": "3 Tattva Vimarsha (Fundamental Principles)",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#Tattva_Vimarsha_(Fundamental_Principles)"
+                        }
+                    ]
+                },
+                {
+                    "text": "4 Vidhi Vimarsha (Applied Inferences ) 4.1 Synomyms of vatsaka 4.2 Cause and effect 4.3 Recent researches on action of herbs 4.4 Future scope of research",
+                    "links": [
+                        {
+                            "text": "4 Vidhi Vimarsha (Applied Inferences )",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#Vidhi_Vimarsha_(Applied_Inferences_)"
+                        },
+                        {
+                            "text": "4.1 Synomyms of vatsaka",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#Synomyms_of_vatsaka"
+                        },
+                        {
+                            "text": "4.2 Cause and effect",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#Cause_and_effect"
+                        },
+                        {
+                            "text": "4.3 Recent researches on action of herbs",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#Recent_researches_on_action_of_herbs"
+                        },
+                        {
+                            "text": "4.4 Future scope of research",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#Future_scope_of_research"
+                        }
+                    ]
+                },
+                {
+                    "text": "5 References",
+                    "links": [
+                        {
+                            "text": "5 References",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#References"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Introduction",
+            "html": "<h2><span class=\"mw-headline\" id=\"Introduction\">Introduction</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "Vatsaka (Holarrhena antidysentrica Linn.Wall.) is used for emesis. Its fruits and seeds are used for this purpose. Synonyms of vatsaka are kutaja, sakra, vraksaka, girimallika. Botanical name of male plant is Holarrhena antidysenterica Wall. Its fruits are big, in group of two and not joined; flowers of white colour and leaves are smooth. It is also called as shweta kutaja or punkutaja. Its seed are tikta. Botanical name of female plant is Wrightia tinctoria R. Br. It fruits in group of two which are joined at end, flowers of blackish or reddish in color. Its seeds are madhura. It is also called as stri kutaja or krishna kutaja.\nIndrayava and its wet bark is used. It is used mostly in rakta atisara or old ama atisara (Chronic amoebic dysentery), also in raktapitta.",
+            "html": "<p>Vatsaka (Holarrhena antidysentrica Linn.Wall.) is used for emesis. Its fruits and seeds are used for this purpose. Synonyms of vatsaka are kutaja, sakra, vraksaka, girimallika. Botanical name of male plant is Holarrhena antidysenterica Wall. Its fruits are big, in group of two and not joined; flowers of white colour and leaves are smooth. It is also called as shweta kutaja or punkutaja. Its seed are tikta. Botanical name of female plant is Wrightia tinctoria R. Br. It fruits in group of two which are joined at end, flowers of blackish or reddish in color. Its seeds are madhura. It is also called as stri kutaja or krishna kutaja. \nIndrayava and its wet bark is used. It is used mostly in rakta atisara or old ama atisara (Chronic amoebic dysentery), also in raktapitta.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "figure",
+            "text": "",
+            "html": "<figure class=\"mw-default-size\" typeof=\"mw:File/Thumb\"><a class=\"mw-file-description\" href=\"/index.php?title=File:Vatsaka.jpg\"><img class=\"mw-file-element\" decoding=\"async\" height=\"279\" src=\"/images/thumb/a/a2/Vatsaka.jpg/300px-Vatsaka.jpg\" srcset=\"/images/thumb/a/a2/Vatsaka.jpg/450px-Vatsaka.jpg 1.5x, /images/a/a2/Vatsaka.jpg 2x\" width=\"300\"/></a><figcaption></figcaption></figure>",
+            "links": [
+                {
+                    "text": "",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=File:Vatsaka.jpg"
+                }
+            ],
+            "images": [
+                {
+                    "url": "https://www.carakasamhitaonline.com/images/thumb/a/a2/Vatsaka.jpg/300px-Vatsaka.jpg",
+                    "alt": "",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Latin name : Holarrhena antidysenterica Linn. Wall.",
+            "html": "<p><b>Latin name</b>: Holarrhena antidysenterica Linn. Wall.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Family : Apocynaceae",
+            "html": "<p><b>Family</b>: Apocynaceae\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "English name : Kurchi [ 1 ]",
+            "html": "<p><b>English name</b>: Kurchi<sup class=\"reference\" id=\"cite_ref-1\"><a href=\"#cite_note-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 1 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#cite_note-1"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Botanical Description :\nA shrub or small tree, glabrous or pubescent; bark pale. Leaves 10-20 by 5 - 11.5cm. from broadly ovate to elliptic, obtuse or obtusely acuminate, glabrous or more or less pubescent, base usually obtuse; main nerves 10-14 pairs, conspicuous; petiole 3mm long. Flowers white , inodorous, in terminal corymbose cymes 7.5 -15 cm. diam.; pedicels slender; bracts small, lanceolate, pubescent and ciliate. Follicles 20-38cm. long, 6-8mm diam., cylindric, often dotted with white spots. Seeds 8mm. long or rather more, linear – oblong, tipped with a spreading deciduous coma of brown hairs 2-2.5cm. long. [ 2 ]",
+            "html": "<p><b>Botanical Description</b>:\nA shrub or small tree, glabrous or pubescent; bark pale. Leaves 10-20 by 5 - 11.5cm.  from broadly ovate to elliptic, obtuse or obtusely acuminate, glabrous or more or less pubescent, base usually obtuse; main nerves 10-14 pairs, conspicuous; petiole 3mm long. Flowers white , inodorous, in terminal corymbose cymes 7.5 -15 cm. diam.; pedicels slender; bracts small, lanceolate, pubescent and ciliate. Follicles 20-38cm. long, 6-8mm diam., cylindric, often dotted with white spots. Seeds 8mm. long or rather more, linear – oblong, tipped with a spreading deciduous coma of brown hairs 2-2.5cm. long.<sup class=\"reference\" id=\"cite_ref-2\"><a href=\"#cite_note-2\"><span class=\"cite-bracket\">[</span>2<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 2 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#cite_note-2"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Distribution :\nIt is distributed throughout India, especially in the wet forests and tropical Himalayas, up to an altitude of 1200m.",
+            "html": "<p><b>Distribution</b>:\nIt is distributed throughout India, especially in the wet forests and tropical Himalayas, up to an altitude of 1200m.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "ul",
+            "text": "Rasa: Tikta, kashaya Guna: Laghu, ruksha. Veerya: Sheeta. Vipaka: Katu. [ 3 ]",
+            "html": "<ul><li>Rasa: Tikta, kashaya</li>\n<li>Guna: Laghu, ruksha.</li>\n<li>Veerya: Sheeta.</li>\n<li>Vipaka: Katu. <sup class=\"reference\" id=\"cite_ref-3\"><a href=\"#cite_note-3\"><span class=\"cite-bracket\">[</span>3<span class=\"cite-bracket\">]</span></a></sup></li></ul>",
+            "links": [
+                {
+                    "text": "[ 3 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#cite_note-3"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Rasa: Tikta, kashaya",
+                    "links": []
+                },
+                {
+                    "text": "Guna: Laghu, ruksha.",
+                    "links": []
+                },
+                {
+                    "text": "Veerya: Sheeta.",
+                    "links": []
+                },
+                {
+                    "text": "Vipaka: Katu. [ 3 ]",
+                    "links": [
+                        {
+                            "text": "[ 3 ]",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#cite_note-3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Vatsaka leaves are used to treat kushtha (dermatosis), kilasa (dermatosis), indralupta (alopecia), arsha (hemorrhoids), bhagandara (fistula in ano) etc.[ Cha. Sa. Sutra Sthana 3/4]",
+            "html": "<p><i>Vatsaka</i> leaves are used to treat <i>kushtha</i> (dermatosis), <i>kilasa</i> (dermatosis), <i>indralupta</i> (alopecia), <i>arsha</i> (hemorrhoids), <i>bhagandara</i> (fistula in ano) etc.[ Cha. Sa. <a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 3/4]\n</p>",
+            "links": [
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Its fruits are used in stanyasodhana mahakasaya [Cha. Sa. Sutra Sthana 4/18] asthapanopaga mahakasaya .[ Cha. Sa. Sutra Sthaa 4/25]",
+            "html": "<p>Its fruits are used in <i>stanyasodhana mahakasaya</i>[Cha. Sa.<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 4/18] <i>asthapanopaga mahakasaya</i>.[ Cha. Sa. <a class=\"new\" href=\"/index.php?title=Sutra_Sthaa&amp;action=edit&amp;redlink=1\" title=\"Sutra Sthaa (page does not exist)\">Sutra Sthaa</a> 4/25] \n</p>",
+            "links": [
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "Sutra Sthaa",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthaa&action=edit&redlink=1"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Vatsaka is used as an ingredient in triphaladi kwatha and mustadi kwatha to treat prameha .[Cha. Sa. Sutra Sthana 23/10-13]Seeds of vatsaka ( indrayava ) are used in kushtha. [ 4 ] In Arsha Chikitsa bark of kutaja and indrayava used as rasakriya .[Cha. Sa. Chikitsa Sthana 14/188-190].",
+            "html": "<p><i>Vatsaka</i> is used as an ingredient in triphaladi kwatha and mustadi kwatha to treat <i>prameha</i>.[Cha. Sa. <a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 23/10-13]Seeds of <i>vatsaka</i> (<i>indrayava</i>) are used in kushtha.<sup class=\"reference\" id=\"cite_ref-4\"><a href=\"#cite_note-4\"><span class=\"cite-bracket\">[</span>4<span class=\"cite-bracket\">]</span></a></sup> In <a href=\"/index.php?title=Arsha_Chikitsa\" title=\"Arsha Chikitsa\">Arsha Chikitsa</a> bark of <i>kutaja</i> and <i>indrayava</i> used as <i>rasakriya</i>.[Cha. Sa.<a href=\"/index.php?title=Chikitsa_Sthana\" title=\"Chikitsa Sthana\">Chikitsa Sthana</a> 14/188-190].\n</p>",
+            "links": [
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "[ 4 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#cite_note-4"
+                },
+                {
+                    "text": "Arsha Chikitsa",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Arsha_Chikitsa"
+                },
+                {
+                    "text": "Chikitsa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Uses : Bark is used in dysentery and is prescribed in piles, anemia, asthma, bronchopneumonia, dropsy, dysurea, influenza, rheumatism, tooth- ache, vomiting and nausea, intestinal worms dyspepsia, chest complaints and the diseases of skin and the spleen. [ 5 ]",
+            "html": "<p><b>Uses</b>: Bark is used in dysentery and is prescribed in piles, anemia, asthma, bronchopneumonia, dropsy, dysurea, influenza, rheumatism, tooth- ache, vomiting and nausea, intestinal worms dyspepsia, chest complaints and the diseases of skin and the spleen.<sup class=\"reference\" id=\"cite_ref-5\"><a href=\"#cite_note-5\"><span class=\"cite-bracket\">[</span>5<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 5 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#cite_note-5"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Chemical constituents : Major total alkaloids 4%; bioactive steroidal alkaloid conessine 0.4%; kurchicine, conkurchine, holarrhine. Others- steroidal alkaloids, kurchiline. [ 6 ]",
+            "html": "<p><b>Chemical constituents</b>: Major total alkaloids 4%; bioactive steroidal alkaloid conessine 0.4%; kurchicine, conkurchine, holarrhine. Others- steroidal alkaloids, kurchiline.<sup class=\"reference\" id=\"cite_ref-6\"><a href=\"#cite_note-6\"><span class=\"cite-bracket\">[</span>6<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 6 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#cite_note-6"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Sanskrit Text, Transliteration with English Translation",
+            "html": "<h2><span id=\"Sanskrit_Text.2C_Transliteration_with_English_Translation\"></span><span class=\"mw-headline\" id=\"Sanskrit_Text,_Transliteration_with_English_Translation\">Sanskrit Text, Transliteration with English Translation</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "अथातो वत्सककल्पं व्याख्यास्यामः||१||",
+            "html": "<p>अथातो वत्सककल्पं व्याख्यास्यामः||१|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "इति ह स्माह भगवानात्रेयः||२||",
+            "html": "<p>इति ह स्माह भगवानात्रेयः||२||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "athātō vatsakakalpaṁ vyākhyāsyāmaḥ||1||",
+            "html": "<p>athātō vatsakakalpaṁ vyākhyāsyāmaḥ||1|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "iti ha smāha bhagavānātrēyaḥ||2||",
+            "html": "<p>iti ha smāha bhagavānātrēyaḥ||2|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Now we shall expound the chapter \"Vatsaka kalpa\"(Pharmaceutical preparations of Vatsaka). Thus said Lord Atreya.[1-2]",
+            "html": "<p>Now we shall expound the chapter \"Vatsaka kalpa\"(Pharmaceutical preparations of Vatsaka). Thus said Lord Atreya.[1-2]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Types and synonyms of vatsaka",
+            "html": "<h3><span class=\"mw-headline\" id=\"Types_and_synonyms_of_vatsaka\">Types and synonyms of <i>vatsaka</i></span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "अथ वत्सकनामानि भेदं स्त्रीपुंसयोस्तथा| कल्पं चास्य प्रवक्ष्यामि विस्तरेण यथातथम्||३||",
+            "html": "<p>अथ वत्सकनामानि भेदं स्त्रीपुंसयोस्तथा| <br/>\nकल्पं चास्य प्रवक्ष्यामि  विस्तरेण यथातथम्||३|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "वत्सकः कुटजः शक्रो वृक्षको गिरिमल्लिका| बीजानीन्द्रयवास्तस्य तथोच्यन्ते कलिङ्गकाः||४||",
+            "html": "<p>वत्सकः कुटजः शक्रो वृक्षको गिरिमल्लिका| <br/>\nबीजानीन्द्रयवास्तस्य तथोच्यन्ते कलिङ्गकाः||४|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "बृहत्फलः श्वेतपुष्पः स्निग्धपत्रः पुमान् भवेत्| श्यामा चारुणपुष्पा स्त्री फलवृन्तैस्तथाऽणुभिः ||५||",
+            "html": "<p>बृहत्फलः श्वेतपुष्पः  स्निग्धपत्रः पुमान् भवेत्| <br/>\nश्यामा चारुणपुष्पा स्त्री फलवृन्तैस्तथाऽणुभिः  ||५|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "रक्तपित्तकफघ्नस्तु सुकुमारेष्वनत्ययः| हृद्रोगज्वरवातासृग्वीसर्पादिषु शस्यते||६||",
+            "html": "<p>रक्तपित्तकफघ्नस्तु सुकुमारेष्वनत्ययः| <br/>\nहृद्रोगज्वरवातासृग्वीसर्पादिषु शस्यते||६|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "atha vatsakanāmāni bhēdaṁ strīpuṁsayōstathā| kalpaṁ cāsya pravakṣyāmi vistarēṇa yathātatham||3||",
+            "html": "<p>atha vatsakanāmāni bhēdaṁ strīpuṁsayōstathā| <br/>\nkalpaṁ cāsya pravakṣyāmi  vistarēṇa yathātatham||3|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "vatsakaḥ kuṭajaḥ śakrō vr̥kṣakō girimallikā| bījānīndrayavāstasya tathōcyantē kaliṅgakāḥ||4||",
+            "html": "<p>vatsakaḥ kuṭajaḥ śakrō vr̥kṣakō girimallikā| <br/>\nbījānīndrayavāstasya tathōcyantē kaliṅgakāḥ||4|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "br̥hatphalaḥ śvētapuṣpaḥ snigdhapatraḥ pumān bhavēt| śyāmā cāruṇapuṣpā strī phalavr̥ntaistathā'ṇubhiḥ ||5||",
+            "html": "<p>br̥hatphalaḥ śvētapuṣpaḥ  snigdhapatraḥ pumān bhavēt| <br/>\nśyāmā cāruṇapuṣpā strī phalavr̥ntaistathā'ṇubhiḥ  ||5|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "raktapittakaphaghnastu sukumārēṣvanatyayaḥ| hr̥drōgajvaravātāsr̥gvīsarpādiṣu śasyatē||6||",
+            "html": "<p>raktapittakaphaghnastu sukumārēṣvanatyayaḥ|<br/> \nhr̥drōgajvaravātāsr̥gvīsarpādiṣu śasyatē||6||<br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "atha vatsakanAmAni bhedaM strIpuMsayostathA| kalpaM cAsya pravakShyAmi vistareNa yathAtatham||3||",
+            "html": "<p>atha vatsakanAmAni bhedaM strIpuMsayostathA| <br/>\nkalpaM cAsya pravakShyAmi vistareNa yathAtatham||3|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "vatsakaH kuTajaH shakro vRukShako girimallikA| bIjAnIndrayavAstasya tathocyante kali~ggakAH||4||",
+            "html": "<p>vatsakaH kuTajaH shakro vRukShako girimallikA| <br/>\nbIjAnIndrayavAstasya tathocyante kali~ggakAH||4|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "bRuhatphalaH shvetapuShpaH snigdhapatraH pumAn bhavet| shyAmA cAruNapuShpA strI phalavRuntaistathA~aNubhiH ||5||",
+            "html": "<p>bRuhatphalaH shvetapuShpaH snigdhapatraH pumAn bhavet| <br/>\nshyAmA cAruNapuShpA strI phalavRuntaistathA~aNubhiH ||5|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "raktapittakaphaghnastu sukumAreShvanatyayaH| hRudrogajvaravAtAsRugvIsarpAdiShu shasyate||6||",
+            "html": "<p>raktapittakaphaghnastu sukumAreShvanatyayaH| <br/>\nhRudrogajvaravAtAsRugvIsarpAdiShu shasyate||6||  <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Now I shall say in detail about the synonyms, difference between male and female plants and pharmaceutical preparation. [3]",
+            "html": "<p>Now I shall say in detail about the synonyms, difference between male and female plants and pharmaceutical preparation. [3]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Vatsaka, kutaja, shakra, vrikshaka and girimallika are synonymous. Its seeds are known as indrayava with synonyms as kalingaka .[4]",
+            "html": "<p><i>Vatsaka, kutaja, shakra, vrikshaka</i> and <i>girimallika</i> are synonymous. Its seeds are known as <i>indrayava</i> with synonyms as <i>kalingaka</i>.[4]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The male plant has big fruits, white flowers and smooth leaves while the female one is blackish, with reddish flowers and smaller fruits and their stalk.[5]",
+            "html": "<p>The male plant has big fruits, white flowers and smooth leaves while the female one is blackish, with reddish flowers and smaller fruits and their stalk.[5]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Vatsaka destroys raktapitta and kapha , is free from harmful effects and as such useful for the delicate persons. It is indicated in cardiac disorders, fever, vatarakta, erysipelas etc.[6]",
+            "html": "<p><i>Vatsaka</i> destroys <i>raktapitta</i> and <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a>, is free from harmful effects and as such useful for the delicate persons. It is indicated in cardiac disorders, fever, <i>vatarakta,</i> erysipelas etc.[6]\n</p>",
+            "links": [
+                {
+                    "text": "kapha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kapha"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Various preparations",
+            "html": "<h3><span class=\"mw-headline\" id=\"Various_preparations\">Various preparations</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "काले फलानि सङ्गृह्या तयोः शुष्काणि निक्षिपेत् | तेषामन्तर्नखं मुष्टिं जर्जरीकृत्य भावयेत् ||७||",
+            "html": "<p>काले फलानि सङ्गृह्या तयोः शुष्काणि निक्षिपेत्  | <br/>\nतेषामन्तर्नखं मुष्टिं जर्जरीकृत्य भावयेत्  ||७|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "मधुकस्य कषायेण कोविदारादिभिस्तथा| निशि स्थितं विमृद्यैतल्लवणक्षौद्रसंयुतम्||८||",
+            "html": "<p>मधुकस्य कषायेण कोविदारादिभिस्तथा| <br/>\nनिशि स्थितं विमृद्यैतल्लवणक्षौद्रसंयुतम्||८|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "पिबेत्तद्वमनं श्रेष्ठं पित्तश्लेष्मनिबर्हणम्|९|",
+            "html": "<p>पिबेत्तद्वमनं श्रेष्ठं पित्तश्लेष्मनिबर्हणम्|९| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "kālē phalāni saṅgr̥hyā tayōḥ śuṣkāṇi nikṣipēt | tēṣāmantarnakhaṁ muṣṭiṁ jarjarīkr̥tya bhāvayēt ||7||",
+            "html": "<p>kālē phalāni saṅgr̥hyā tayōḥ śuṣkāṇi nikṣipēt | <br/>\ntēṣāmantarnakhaṁ muṣṭiṁ jarjarīkr̥tya bhāvayēt ||7|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "madhukasya kaṣāyēṇa kōvidārādibhistathā| niśi sthitaṁ vimr̥dyaitallavaṇakṣaudrasaṁyutam||8||",
+            "html": "<p>madhukasya kaṣāyēṇa kōvidārādibhistathā| <br/>\nniśi sthitaṁ vimr̥dyaitallavaṇakṣaudrasaṁyutam||8|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "pibēttadvamanaṁ śrēṣṭhaṁ pittaślēṣmanibarhaṇam|9|",
+            "html": "<p>pibēttadvamanaṁ śrēṣṭhaṁ pittaślēṣmanibarhaṇam|9| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "kAle phalAni sa~ggRuhyA tayoH shuShkANi nikShipet | teShAmantarnakhaM muShTiM jarjarIkRutya bhAvayet ||7||",
+            "html": "<p>kAle phalAni sa~ggRuhyA tayoH shuShkANi nikShipet  | <br/>\nteShAmantarnakhaM muShTiM jarjarIkRutya bhAvayet ||7|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "madhukasya kaShAyeNa kovidArAdibhistathA| nishi sthitaM vimRudyaitallavaNakShaudrasaMyutam||8||",
+            "html": "<p>madhukasya kaShAyeNa kovidArAdibhistathA| <br/>\nnishi sthitaM vimRudyaitallavaNakShaudrasaMyutam||8|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "pibettadvamanaM shreShThaM pittashleShmanibarhaNam|9|",
+            "html": "<p>pibettadvamanaM shreShThaM pittashleShmanibarhaNam|9|<br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The fruit (seeds) of both types when mature and dry should be collected in proper time. They should be crushed in quantity as borne in closed fist (40 gm) and impregnated with the decoction of madhuka and kovidaradi drugs and kept there in for the whole night. In the next morning it should be pressed and added with salt and honey. [7-8]",
+            "html": "<p>The fruit (seeds) of both types when mature and dry should be collected in proper time. They should be crushed in quantity as borne in closed fist (40 gm) and impregnated with the decoction of <i>madhuka</i> and <i>kovidaradi</i> drugs and kept there in for the whole night. In the next morning it should be pressed and added with salt and honey. [7-8]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "This excellent emetic should be taken to eliminate pitta and kapha .[9]",
+            "html": "<p>This excellent emetic should be taken to eliminate <a href=\"/index.php?title=Pitta\" title=\"Pitta\">pitta</a> and <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a>.[9]\n</p>",
+            "links": [
+                {
+                    "text": "pitta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pitta"
+                },
+                {
+                    "text": "kapha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kapha"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "अष्टाहं पयसाऽऽर्केण तेषां चूर्णानि भावयेत्||९||",
+            "html": "<p>अष्टाहं पयसाऽऽर्केण तेषां चूर्णानि भावयेत्||९|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "जीवकस्य कषायेण ततः पाणितलं पिबेत्| फलजीमूतकेक्ष्वाकुजीवन्तीनां पृथक् तथा||१०||",
+            "html": "<p>जीवकस्य  कषायेण ततः पाणितलं पिबेत्| <br/>\nफलजीमूतकेक्ष्वाकुजीवन्तीनां पृथक् तथा||१०|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "सर्षपाणां मधूकानां लवणस्याथवाऽम्बुना कृशरेणाथवा युक्तं विदध्याद्वमनं भिषक्||११||",
+            "html": "<p>सर्षपाणां मधूकानां लवणस्याथवाऽम्बुना <br/>\nकृशरेणाथवा युक्तं विदध्याद्वमनं भिषक्||११|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "aṣṭāhaṁ payasā rkēṇa tēṣāṁ cūrṇāni bhāvayēt||9||",
+            "html": "<p>aṣṭāhaṁ payasā<i>rkēṇa tēṣāṁ cūrṇāni bhāvayēt||9|| <br/></i>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "jīvakasya kaṣāyēṇa tataḥ pāṇitalaṁ pibēt| phalajīmūtakēkṣvākujīvantīnāṁ pr̥thak tathā||10||",
+            "html": "<p>jīvakasya kaṣāyēṇa tataḥ pāṇitalaṁ pibēt| <br/>\nphalajīmūtakēkṣvākujīvantīnāṁ pr̥thak tathā||10|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "sarṣapāṇāṁ madhūkānāṁ lavaṇasyāthavā'mbunā kr̥śarēṇāthavā yuktaṁ vidadhyādvamanaṁ bhiṣak||11||",
+            "html": "<p>sarṣapāṇāṁ madhūkānāṁ lavaṇasyāthavā'mbunā <br/>\nkr̥śarēṇāthavā yuktaṁ vidadhyādvamanaṁ bhiṣak||11|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "aShTAhaM payasA~a~arkeNa teShAM cUrNAni bhAvayet||9||",
+            "html": "<p>aShTAhaM payasA~a~arkeNa teShAM cUrNAni bhAvayet||9|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "jIvakasya kaShAyeNa tataH pANitalaM pibet| phalajImUtakekShvAkujIvantInAM pRuthak tathA||10||",
+            "html": "<p>jIvakasya kaShAyeNa tataH pANitalaM pibet| <br/>\nphalajImUtakekShvAkujIvantInAM pRuthak tathA||10|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "sarShapANAM madhUkAnAM lavaNasyAthavA~ambunA|11|",
+            "html": "<p>sarShapANAM madhUkAnAM lavaNasyAthavA~ambunA|11|<br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "kRushareNAthavA yuktaM vidadhyAdvamanaM bhiShak||11||",
+            "html": "<p>kRushareNAthavA yuktaM vidadhyAdvamanaM bhiShak||11||<br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The powder of these seeds should be impregnated with latex of arka for eight days and then should be taken in quantity of 10 mg with decoction of jivaka .[9]",
+            "html": "<p>The powder of these seeds should be impregnated with latex of <i>arka</i> for eight days and then should be taken in quantity of 10 mg with decoction of <i>jivaka</i>.[9]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Likewise this may be taken with the decoction of madanaphala, jimutaka, ikshavaku and jivanti separately. [10]",
+            "html": "<p>Likewise this may be taken with the decoction of <i>madanaphala, jimutaka, ikshavaku</i> and <i>jivanti</i> separately. [10]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The powder may be taken with water of mustard, madhuka or salt. Or the physician may administer it as emetic mixed with krishara .[11]",
+            "html": "<p>The powder may be taken with water of mustard, madhuka or salt. Or the physician may administer it as emetic mixed with <i>krishara</i>.[11]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Summary",
+            "html": "<h3><span class=\"mw-headline\" id=\"Summary\">Summary</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "तत्र श्लोकः-",
+            "html": "<p>तत्र श्लोकः- <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "कषायैर्नव चूर्णैश्च पञ्चोक्ताः सलिलैस्त्रयः| एकश्च कृशरायां स्याद्योगास्तेऽष्टादश स्मृताः ||१२||",
+            "html": "<p>कषायैर्नव चूर्णैश्च पञ्चोक्ताः सलिलैस्त्रयः| <br/>\nएकश्च कृशरायां स्याद्योगास्तेऽष्टादश स्मृताः ||१२|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "tatra ślōkaḥ-",
+            "html": "<p>tatra ślōkaḥ- <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "kaṣāyairnava cūrṇaiśca pañcōktāḥ salilaistrayaḥ| ēkaśca kr̥śarāyāṁ syādyōgāstē'ṣṭādaśa smr̥tāḥ ||12||",
+            "html": "<p>kaṣāyairnava cūrṇaiśca pañcōktāḥ salilaistrayaḥ| <br/>\nēkaśca kr̥śarāyāṁ syādyōgāstē'ṣṭādaśa smr̥tāḥ  ||12|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "tatra shlokaH-",
+            "html": "<p>tatra shlokaH- <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "kaShAyairnava cUrNaishca pa~jcoktAH salilaistrayaH| ekashca kRusharAyAM syAdyogAste~aShTAdasha smRutAH ||12||",
+            "html": "<p>kaShAyairnava cUrNaishca pa~jcoktAH salilaistrayaH| <br/>\nekashca kRusharAyAM syAdyogAste~aShTAdasha smRutAH ||12|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Now the summing up verse –",
+            "html": "<p>Now the summing up verse – \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Nine preparations with decoction, five with powder, three with waters and one with krishara – thus total eighteen formulations have been said. [12]",
+            "html": "<p>Nine preparations with decoction, five with powder, three with waters and one with <i>krishara</i> – thus total eighteen formulations have been said. [12]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "इत्यग्निवेशकृते तन्त्रे चरकप्रतिसंस्कृतेऽप्राप्ते दृढबलसम्पूरिते कल्पस्थाने वत्सककल्पो नाम पञ्चमोऽध्यायः||५||",
+            "html": "<p>इत्यग्निवेशकृते तन्त्रे चरकप्रतिसंस्कृतेऽप्राप्ते दृढबलसम्पूरिते <br/>\nकल्पस्थाने वत्सककल्पो नाम पञ्चमोऽध्यायः||५||<br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "ityagnivēśakr̥tē tantrē carakapratisaṁskr̥tē'prāptē dr̥ḍhabalasampūritē kalpasthānē vatsakakalpō nāma pañcamō'dhyāyaḥ||5||",
+            "html": "<p>ityagnivēśakr̥tē tantrē carakapratisaṁskr̥tē'prāptē dr̥ḍhabalasampūritē <br/>\nkalpasthānē vatsakakalpō nāma pañcamō'dhyāyaḥ||5|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "ityagniveshakRute tantre carakapratisaMskRute~aprApte dRuDhabalasampUrite kalpasthAne vatsakakalpo nAma pa~jcamo~adhyAyaH||5||",
+            "html": "<p>ityagniveshakRute tantre carakapratisaMskRute~aprApte dRuDhabalasampUrite <br/>\nkalpasthAne vatsakakalpo nAma pa~jcamo~adhyAyaH||5|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Thus ends the fifth chapter on pharmaceutical preparations of vatsaka in Kalpa Sthana in the treatise composed by Agnivesha, redacted by Charaka and reconstructed by Dridhabala as it was not available.",
+            "html": "<p>Thus ends the fifth chapter on pharmaceutical preparations of <i>vatsaka</i> in <a href=\"/index.php?title=Kalpa_Sthana\" title=\"Kalpa Sthana\">Kalpa Sthana</a> in the treatise composed by Agnivesha, redacted by Charaka and reconstructed by Dridhabala as it was not available.\n</p>",
+            "links": [
+                {
+                    "text": "Kalpa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kalpa_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "ul",
+            "text": "Fig. 1 Holarrhena antidysenterica Linn. and its fruit Fig. 2 Wrightia tinctoria R. Br. and its fruit",
+            "html": "<ul class=\"gallery mw-gallery-traditional\">\n<li class=\"gallerybox\" style=\"width: 155px\">\n<div class=\"thumb\" style=\"width: 150px; height: 150px;\"><span typeof=\"mw:File\"><a class=\"mw-file-description\" href=\"/index.php?title=File:Vatsaka2.jpg\" title=\"Fig. 1 Holarrhena antidysenterica Linn. and its fruit\"><img alt=\"Fig. 1 Holarrhena antidysenterica Linn. and its fruit\" class=\"mw-file-element\" decoding=\"async\" height=\"89\" src=\"/images/thumb/4/45/Vatsaka2.jpg/120px-Vatsaka2.jpg\" srcset=\"/images/thumb/4/45/Vatsaka2.jpg/180px-Vatsaka2.jpg 1.5x, /images/thumb/4/45/Vatsaka2.jpg/240px-Vatsaka2.jpg 2x\" width=\"120\"/></a></span></div>\n<div class=\"gallerytext\">Fig. 1 Holarrhena antidysenterica Linn. and its fruit</div>\n</li>\n<li class=\"gallerybox\" style=\"width: 155px\">\n<div class=\"thumb\" style=\"width: 150px; height: 150px;\"><span typeof=\"mw:File\"><a class=\"mw-file-description\" href=\"/index.php?title=File:Vatsaka3.jpg\"><img class=\"mw-file-element\" decoding=\"async\" height=\"120\" src=\"/images/thumb/a/a4/Vatsaka3.jpg/120px-Vatsaka3.jpg\" srcset=\"/images/thumb/a/a4/Vatsaka3.jpg/180px-Vatsaka3.jpg 1.5x, /images/a/a4/Vatsaka3.jpg 2x\" width=\"120\"/></a></span></div>\n<div class=\"gallerytext\"></div>\n</li>\n<li class=\"gallerybox\" style=\"width: 155px\">\n<div class=\"thumb\" style=\"width: 150px; height: 150px;\"><span typeof=\"mw:File\"><a class=\"mw-file-description\" href=\"/index.php?title=File:Vatsaka4.jpg\" title=\"Fig. 2 Wrightia tinctoria R. Br. and its fruit\"><img alt=\"Fig. 2 Wrightia tinctoria R. Br. and its fruit\" class=\"mw-file-element\" decoding=\"async\" height=\"69\" src=\"/images/thumb/2/20/Vatsaka4.jpg/120px-Vatsaka4.jpg\" srcset=\"/images/thumb/2/20/Vatsaka4.jpg/180px-Vatsaka4.jpg 1.5x, /images/thumb/2/20/Vatsaka4.jpg/240px-Vatsaka4.jpg 2x\" width=\"120\"/></a></span></div>\n<div class=\"gallerytext\">Fig. 2 Wrightia tinctoria R. Br. and its fruit</div>\n</li>\n<li class=\"gallerybox\" style=\"width: 155px\">\n<div class=\"thumb\" style=\"width: 150px; height: 150px;\"><span typeof=\"mw:File\"><a class=\"mw-file-description\" href=\"/index.php?title=File:Vatsaka5.jpg\"><img class=\"mw-file-element\" decoding=\"async\" height=\"120\" src=\"/images/thumb/2/2e/Vatsaka5.jpg/85px-Vatsaka5.jpg\" srcset=\"/images/thumb/2/2e/Vatsaka5.jpg/128px-Vatsaka5.jpg 1.5x, /images/2/2e/Vatsaka5.jpg 2x\" width=\"85\"/></a></span></div>\n<div class=\"gallerytext\"></div>\n</li>\n</ul>",
+            "links": [
+                {
+                    "text": "",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=File:Vatsaka2.jpg"
+                },
+                {
+                    "text": "",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=File:Vatsaka3.jpg"
+                },
+                {
+                    "text": "",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=File:Vatsaka4.jpg"
+                },
+                {
+                    "text": "",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=File:Vatsaka5.jpg"
+                }
+            ],
+            "images": [
+                {
+                    "url": "https://www.carakasamhitaonline.com/images/thumb/4/45/Vatsaka2.jpg/120px-Vatsaka2.jpg",
+                    "alt": "Fig. 1 Holarrhena antidysenterica Linn. and its fruit",
+                    "title": ""
+                },
+                {
+                    "url": "https://www.carakasamhitaonline.com/images/thumb/a/a4/Vatsaka3.jpg/120px-Vatsaka3.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                {
+                    "url": "https://www.carakasamhitaonline.com/images/thumb/2/20/Vatsaka4.jpg/120px-Vatsaka4.jpg",
+                    "alt": "Fig. 2 Wrightia tinctoria R. Br. and its fruit",
+                    "title": ""
+                },
+                {
+                    "url": "https://www.carakasamhitaonline.com/images/thumb/2/2e/Vatsaka5.jpg/85px-Vatsaka5.jpg",
+                    "alt": "",
+                    "title": ""
+                }
+            ],
+            "items": [
+                {
+                    "text": "Fig. 1 Holarrhena antidysenterica Linn. and its fruit",
+                    "links": [
+                        {
+                            "text": "",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=File:Vatsaka2.jpg"
+                        }
+                    ]
+                },
+                {
+                    "text": "",
+                    "links": [
+                        {
+                            "text": "",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=File:Vatsaka3.jpg"
+                        }
+                    ]
+                },
+                {
+                    "text": "Fig. 2 Wrightia tinctoria R. Br. and its fruit",
+                    "links": [
+                        {
+                            "text": "",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=File:Vatsaka4.jpg"
+                        }
+                    ]
+                },
+                {
+                    "text": "",
+                    "links": [
+                        {
+                            "text": "",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=File:Vatsaka5.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Tattva Vimarsha (Fundamental Principles)",
+            "html": "<h2><span id=\"Tattva_Vimarsha_.28Fundamental_Principles.29\"></span><span class=\"mw-headline\" id=\"Tattva_Vimarsha_(Fundamental_Principles)\">Tattva Vimarsha (Fundamental Principles)</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "Vatsaka (Holarrhena antidysentrica Linn.Wall.) is useful in therapeutic emesis in the diseases like kushtha (dermatosis), visarpa ( erysipelas).",
+            "html": "<p><i>Vatsaka</i> (Holarrhena antidysentrica Linn.Wall.) is useful in therapeutic emesis in the diseases like <i>kushtha</i> (dermatosis), <i>visarpa</i>( erysipelas).\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Vidhi Vimarsha (Applied Inferences )",
+            "html": "<h2><span id=\"Vidhi_Vimarsha_.28Applied_Inferences_.29\"></span><span class=\"mw-headline\" id=\"Vidhi_Vimarsha_(Applied_Inferences_)\">Vidhi Vimarsha (Applied Inferences )</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "h3",
+            "text": "Synomyms of vatsaka",
+            "html": "<h3><span class=\"mw-headline\" id=\"Synomyms_of_vatsaka\">Synomyms of <i>vatsaka</i></span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "ul",
+            "text": "Vatsaka – It is called because it grows in hilly regions of Vatsa. Kutaja – Because it grows wild. Vrksaka – It is a small tree. Girimallika – It bears jasmine like flowers. [ 7 ]",
+            "html": "<ul><li>Vatsaka – It is called because it grows in hilly regions of Vatsa.</li>\n<li>Kutaja – Because it grows wild.</li>\n<li>Vrksaka – It is a small tree.</li>\n<li>Girimallika – It bears jasmine like flowers.<sup class=\"reference\" id=\"cite_ref-7\"><a href=\"#cite_note-7\"><span class=\"cite-bracket\">[</span>7<span class=\"cite-bracket\">]</span></a></sup></li></ul>",
+            "links": [
+                {
+                    "text": "[ 7 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#cite_note-7"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Vatsaka – It is called because it grows in hilly regions of Vatsa.",
+                    "links": []
+                },
+                {
+                    "text": "Kutaja – Because it grows wild.",
+                    "links": []
+                },
+                {
+                    "text": "Vrksaka – It is a small tree.",
+                    "links": []
+                },
+                {
+                    "text": "Girimallika – It bears jasmine like flowers. [ 7 ]",
+                    "links": [
+                        {
+                            "text": "[ 7 ]",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#cite_note-7"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Synonyms according to Dhanvantari Nighantu – kautaja, kauta, vatsaka, girimallika, kalinga, mallika pushpa, indravriksha and vriksaka. [ 8 ]",
+            "html": "<p>Synonyms according to Dhanvantari Nighantu – kautaja, kauta, vatsaka, girimallika, kalinga, mallika pushpa, indravriksha and vriksaka.<sup class=\"reference\" id=\"cite_ref-8\"><a href=\"#cite_note-8\"><span class=\"cite-bracket\">[</span>8<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 8 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#cite_note-8"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Cause and effect",
+            "html": "<h3><span class=\"mw-headline\" id=\"Cause_and_effect\">Cause and effect</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "It is useful in raktapitta due to sheeta veerya and pacifies the kapha due to laghu, ruksha guna ; tikta, kashaya rasa and katu vipaka .",
+            "html": "<p>It is useful in <i>raktapitta</i> due to <i>sheeta veerya</i> and pacifies the <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a> due to <i>laghu, ruksha <a href=\"/index.php?title=Guna\" title=\"Guna\">guna</a>; tikta, kashaya rasa</i> and <i>katu vipaka</i>. \n</p>",
+            "links": [
+                {
+                    "text": "kapha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kapha"
+                },
+                {
+                    "text": "guna",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Guna"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The alkaloids in vatsaka have as powerful action as emetic in their immediate effect on the symptoms of intestinal amoebiasis as well as in their curative value, in such doses as one grain daily by intramuscular injections. [ 9 ]",
+            "html": "<p>The alkaloids in <i>vatsaka</i> have as powerful action as emetic in their immediate effect on the symptoms of intestinal amoebiasis as well as in their curative value, in such  doses as one grain daily by intramuscular injections.<sup class=\"reference\" id=\"cite_ref-9\"><a href=\"#cite_note-9\"><span class=\"cite-bracket\">[</span>9<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 9 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#cite_note-9"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Recent researches on action of herbs",
+            "html": "<h3><span class=\"mw-headline\" id=\"Recent_researches_on_action_of_herbs\">Recent researches on action of herbs</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "figure",
+            "text": "",
+            "html": "<figure typeof=\"mw:File/Thumb\"><a class=\"mw-file-description\" href=\"/index.php?title=File:Indravayakalpa.jpg\"><img class=\"mw-file-element\" decoding=\"async\" height=\"564\" src=\"/images/thumb/6/60/Indravayakalpa.jpg/500px-Indravayakalpa.jpg\" srcset=\"/images/thumb/6/60/Indravayakalpa.jpg/750px-Indravayakalpa.jpg 1.5x, /images/6/60/Indravayakalpa.jpg 2x\" width=\"500\"/></a><figcaption></figcaption></figure>",
+            "links": [
+                {
+                    "text": "",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=File:Indravayakalpa.jpg"
+                }
+            ],
+            "images": [
+                {
+                    "url": "https://www.carakasamhitaonline.com/images/thumb/6/60/Indravayakalpa.jpg/500px-Indravayakalpa.jpg",
+                    "alt": "",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "In a research study (Chavan S.et.al., 2014), good improvement by observed by therapeutic emesis with vatsaka in patient of acne vulgaris. Indrayava churna in the quantity of 24 gm ( Antarnakhamushi -closed fist) impregnated with the decoction of madhuka (Glycyrrhiza glabra Linn.) 160 ml kept there in for whole night. In the next morning it was be crushed and added with salt 10gm and honey 25 gm. The total quantity goes up to 219 ml approximately. The study concluded with following observations:",
+            "html": "<p>In a research study (Chavan S.et.al., 2014), good improvement by observed by therapeutic emesis with <i>vatsaka</i> in patient of acne vulgaris. <i>Indrayava churna</i> in the quantity of 24 gm (<i>Antarnakhamushi</i>-closed fist) impregnated with the decoction of <i>madhuka</i> (Glycyrrhiza glabra Linn.) 160 ml kept there in for whole night. In the next morning it was be crushed and added with salt 10gm and honey 25 gm. The total quantity goes up to 219 ml approximately. The study concluded with following observations:\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "ul",
+            "text": "The average vega initiation time after giving indrayava kalpa was found to be 8 minutes. The average time for vamana reflex is 6 sec i.e. opening the mouth and completion of reflex. The mean vamaka dose of indrayava kalpa was found to be 718.67ml It is found to be highly significant with respect to sankhya (number of lesions), akara (size), varna (color), rija (pain), kandu (itching), daha (burning) and global acne grading score. [ 10 ]",
+            "html": "<ul><li>The average <i>vega</i> initiation time after giving <i>indrayava kalpa</i> was found to be 8 minutes. The average time for <a href=\"/index.php?title=Vamana\" title=\"Vamana\">vamana</a> reflex is 6 sec i.e. opening the mouth and completion of reflex.</li>\n<li>The mean <i>vamaka</i> dose of <i>indrayava kalpa</i> was found to be 718.67ml</li>\n<li>It is found to be highly significant with respect to <i>sankhya</i> (number of lesions), <i>akara</i> (size), <i>varna</i> (color), <i>rija</i> (pain), <i>kandu</i> (itching), <i>daha</i> (burning) and global acne grading score.<sup class=\"reference\" id=\"cite_ref-10\"><a href=\"#cite_note-10\"><span class=\"cite-bracket\">[</span>10<span class=\"cite-bracket\">]</span></a></sup></li></ul>",
+            "links": [
+                {
+                    "text": "vamana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vamana"
+                },
+                {
+                    "text": "[ 10 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#cite_note-10"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "The average vega initiation time after giving indrayava kalpa was found to be 8 minutes. The average time for vamana reflex is 6 sec i.e. opening the mouth and completion of reflex.",
+                    "links": [
+                        {
+                            "text": "vamana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vamana"
+                        }
+                    ]
+                },
+                {
+                    "text": "The mean vamaka dose of indrayava kalpa was found to be 718.67ml",
+                    "links": []
+                },
+                {
+                    "text": "It is found to be highly significant with respect to sankhya (number of lesions), akara (size), varna (color), rija (pain), kandu (itching), daha (burning) and global acne grading score. [ 10 ]",
+                    "links": [
+                        {
+                            "text": "[ 10 ]",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#cite_note-10"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h3",
+            "text": "Future scope of research",
+            "html": "<h3><span class=\"mw-headline\" id=\"Future_scope_of_research\">Future scope of research</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "There is much scope to study anti-hyperglycemic and anti-hyperlipidemic effect. Clinical trial may be conducted to study effect of vatsaka as emetic in psoriasis, diabetes mellitus, metabolic syndrome, hypercholesterolemia.",
+            "html": "<p>There is much scope to study anti-hyperglycemic and anti-hyperlipidemic effect. Clinical trial may be conducted to study effect of vatsaka as emetic in psoriasis, diabetes mellitus, metabolic syndrome, hypercholesterolemia.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Send us your suggestions and feedback on this page.",
+            "html": "<p><big><b><a href=\"/index.php?title=Special:ContactMe\" title=\"Special:ContactMe\">Send us your suggestions and feedback on this page.</a></b></big>\n</p>",
+            "links": [
+                {
+                    "text": "Send us your suggestions and feedback on this page.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Special:ContactMe"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "References",
+            "html": "<h2><span class=\"mw-headline\" id=\"References\">References</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "text",
+            "text": "Back to the Top"
+        },
+        {
+            "type": "ol",
+            "text": "↑ Prof. P.V. Sharma, Dravyaguna- Vigyana, Vol.II, Chaukhambha Bharati Academy, Varanasi, Reprint 1998, pp 464. ↑ Kirtikar and Basu, Indian Medicinal Plants, Vol.II, second edition 1998, pp1570. ↑ Prof. P.V. Sharma, Dravyaguna- Vigyana, Vol.II, Chaukhambha Bharati Academy, Varanasi, Reprint 1998, pp 465. ↑ Pandit Kashi Nath Shastri, Dr. Gorakhanath Chaturvedi, Charaka Samhita, 2nd part,Chikitsasthana, Chap 7, shlok no.94, Reprint2012, Chaukhambha Bharati Academy, Varanasi, pp 264. ↑ Ravindra Sharma, Medicinal Plants of India, 2003, Daya Publishing House, Delhi. pp 127. ↑ Quality Standards of Indian Medicinal Plants, Vol. I, Indian Council of Medical Research, New Delhi, 2003 pp 110. ↑ Prof. P.V.Sharma, Nama Rupa Gyanam, First edition 2000 pp 60-61. ↑ 13. Dhanvantari Nighantu, Shatpushpadi Varga, 6/13, edited by Prof. P.V. Sharma, Chaukhambha Ayurveda Pratishthan, Varanasi, Reprint 2008, 72 ↑ Indian Medicinal Plants, Vol.II, by K.R. Kirtikar and B.D. Basu, 1998, 1572. ↑ 15. Chavan Santosh (2014). Study of Vaman Karma in Indrayava Kalpa in Yuvan pidaka (Acne vulgaris). Thesis research work at Department of Panchakarma of Bharati Vidyapeeth Deemed University College of Ayurveda, Pune.",
+            "html": "<ol class=\"references\">\n<li id=\"cite_note-1\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-1\">↑</a></span> <span class=\"reference-text\">Prof. P.V. Sharma, Dravyaguna- Vigyana, Vol.II, Chaukhambha Bharati Academy, Varanasi, Reprint 1998, pp 464.</span>\n</li>\n<li id=\"cite_note-2\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-2\">↑</a></span> <span class=\"reference-text\">Kirtikar and Basu, Indian Medicinal Plants, Vol.II, second edition 1998, pp1570.</span>\n</li>\n<li id=\"cite_note-3\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-3\">↑</a></span> <span class=\"reference-text\">Prof. P.V. Sharma, Dravyaguna- Vigyana, Vol.II, Chaukhambha Bharati Academy, Varanasi, Reprint 1998, pp 465.</span>\n</li>\n<li id=\"cite_note-4\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-4\">↑</a></span> <span class=\"reference-text\">Pandit Kashi Nath Shastri, Dr. Gorakhanath Chaturvedi, Charaka Samhita, 2nd part,Chikitsasthana, Chap 7, shlok no.94, Reprint2012, Chaukhambha Bharati Academy, Varanasi, pp 264.</span>\n</li>\n<li id=\"cite_note-5\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-5\">↑</a></span> <span class=\"reference-text\">Ravindra Sharma, Medicinal Plants of India, 2003, Daya Publishing House, Delhi. pp 127.</span>\n</li>\n<li id=\"cite_note-6\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-6\">↑</a></span> <span class=\"reference-text\">Quality Standards of Indian Medicinal Plants, Vol. I, Indian Council of Medical Research, New Delhi, 2003 pp 110.</span>\n</li>\n<li id=\"cite_note-7\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-7\">↑</a></span> <span class=\"reference-text\">Prof. P.V.Sharma, Nama Rupa Gyanam, First edition 2000 pp 60-61.</span>\n</li>\n<li id=\"cite_note-8\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-8\">↑</a></span> <span class=\"reference-text\">13.\tDhanvantari Nighantu, Shatpushpadi Varga, 6/13, edited by Prof. P.V. Sharma, Chaukhambha Ayurveda Pratishthan, Varanasi, Reprint 2008, 72</span>\n</li>\n<li id=\"cite_note-9\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-9\">↑</a></span> <span class=\"reference-text\">Indian Medicinal Plants, Vol.II, by K.R. Kirtikar and B.D. Basu, 1998, 1572.</span>\n</li>\n<li id=\"cite_note-10\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-10\">↑</a></span> <span class=\"reference-text\">15.\tChavan Santosh (2014). Study of Vaman Karma in Indrayava Kalpa in Yuvan pidaka (Acne vulgaris). Thesis research work at Department of Panchakarma of Bharati Vidyapeeth Deemed University College of Ayurveda, Pune.</span>\n</li>\n</ol>",
+            "links": [
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#cite_ref-1"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#cite_ref-2"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#cite_ref-3"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#cite_ref-4"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#cite_ref-5"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#cite_ref-6"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#cite_ref-7"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#cite_ref-8"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#cite_ref-9"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#cite_ref-10"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "↑ Prof. P.V. Sharma, Dravyaguna- Vigyana, Vol.II, Chaukhambha Bharati Academy, Varanasi, Reprint 1998, pp 464.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#cite_ref-1"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Kirtikar and Basu, Indian Medicinal Plants, Vol.II, second edition 1998, pp1570.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#cite_ref-2"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Prof. P.V. Sharma, Dravyaguna- Vigyana, Vol.II, Chaukhambha Bharati Academy, Varanasi, Reprint 1998, pp 465.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#cite_ref-3"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Pandit Kashi Nath Shastri, Dr. Gorakhanath Chaturvedi, Charaka Samhita, 2nd part,Chikitsasthana, Chap 7, shlok no.94, Reprint2012, Chaukhambha Bharati Academy, Varanasi, pp 264.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#cite_ref-4"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Ravindra Sharma, Medicinal Plants of India, 2003, Daya Publishing House, Delhi. pp 127.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#cite_ref-5"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Quality Standards of Indian Medicinal Plants, Vol. I, Indian Council of Medical Research, New Delhi, 2003 pp 110.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#cite_ref-6"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Prof. P.V.Sharma, Nama Rupa Gyanam, First edition 2000 pp 60-61.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#cite_ref-7"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ 13. Dhanvantari Nighantu, Shatpushpadi Varga, 6/13, edited by Prof. P.V. Sharma, Chaukhambha Ayurveda Pratishthan, Varanasi, Reprint 2008, 72",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#cite_ref-8"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Indian Medicinal Plants, Vol.II, by K.R. Kirtikar and B.D. Basu, 1998, 1572.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#cite_ref-9"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ 15. Chavan Santosh (2014). Study of Vaman Karma in Indrayava Kalpa in Yuvan pidaka (Acne vulgaris). Thesis research work at Department of Panchakarma of Bharati Vidyapeeth Deemed University College of Ayurveda, Pune.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya#cite_ref-10"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "text": "NewPP limit report\nCached time: 20261112103112\nCache expiry: 86400\nReduced expiry: false\nComplications: [vary‐revision‐id, show‐toc]\nCPU time usage: 0.121 seconds\nReal time usage: 0.296 seconds\nPreprocessor visited node count: 349/1000000\nPost‐expand include size: 2493/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 3/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 4057/5000000 bytes\nLua time usage: 0.150/7 seconds\nLua virtual size: 20480000/209715200 bytes\nLua estimated memory usage: 0 bytes"
+        },
+        {
+            "type": "text",
+            "text": "Transclusion expansion time report (%,ms,calls,template)\n100.00% 240.884 1 -total\n96.71% 232.955 1 Template:Infobox\n0.90% 2.166 1 Template:CiteButton"
+        },
+        {
+            "type": "text",
+            "text": "Saved in parser cache with key carakas1_carakasa:pcache:idhash:2792-0!canonical and timestamp 20261112103112 and revision id 44570. Rendering was triggered because: page-view"
+        },
+        {
+            "type": "text",
+            "text": "Retrieved from \""
+        },
+        {
+            "type": "text",
+            "text": "https://www.carakasamhitaonline.com/index.php?title=Vatsaka_Kalpa_Adhyaya&oldid=44570"
+        },
+        {
+            "type": "text",
+            "text": "\""
+        }
+    ],
+    "html_sha256": "082cedadd234d477e8f920e26f966973e24cdd7407ec40b3d0470b061fb91f0b"
+}

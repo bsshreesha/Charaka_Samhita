@@ -1,0 +1,2682 @@
+{
+    "source": "Charaka Samhita",
+    "chapter": "Sadyomaraneeyam Indriyam Adhyaya",
+    "chapter_id": "Sadyomaraneeyam_Indriyam_Adhyaya",
+    "url": "https://www.carakasamhitaonline.com/index.php?title=Sadyomaraneeyam_Indriyam_Adhyaya",
+    "xpath": "//*[@id=\"content\"]",
+    "extraction_date": "2026-11-12T15:30:41",
+    "total_blocks": 175,
+    "total_tables": 3,
+    "total_headings": 11,
+    "total_paragraphs": 146,
+    "content": [
+        {
+            "type": "h1",
+            "text": "Sadyomaraneeyam Indriyam Adhyaya",
+            "html": "<h1 class=\"firstHeading mw-first-heading\" id=\"firstHeading\"><span class=\"mw-page-title-main\">Sadyomaraneeyam Indriyam Adhyaya</span></h1>",
+            "links": [],
+            "images": [],
+            "level": 1
+        },
+        {
+            "type": "text",
+            "text": "From Charak Samhita"
+        },
+        {
+            "type": "text",
+            "text": "Jump to navigation"
+        },
+        {
+            "type": "text",
+            "text": "Jump to search"
+        },
+        {
+            "type": "figure",
+            "text": "",
+            "html": "<figure class=\"mw-default-size mw-halign-right\" typeof=\"mw:File\"><a href=\"https://www.carakasamhitaonline.com/index.php?title=Special:CiteThisPage&amp;page=Sadyomaraneeyam_Indriyam_Adhyaya&amp;id=44532&amp;wpFormIdentifier=titleform\" rel=\"nofollow\"><img class=\"mw-file-element\" decoding=\"async\" height=\"47\" src=\"/images/5/58/Cite.png\" width=\"180\"/></a><figcaption></figcaption></figure>",
+            "links": [
+                {
+                    "text": "",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Special:CiteThisPage&page=Sadyomaraneeyam_Indriyam_Adhyaya&id=44532&wpFormIdentifier=titleform"
+                }
+            ],
+            "images": [
+                {
+                    "url": "https://www.carakasamhitaonline.com/images/5/58/Cite.png",
+                    "alt": "",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Indriya Sthana Chapter 10. Signs of instant death and incurable complications of several diseases",
+            "html": "<p><big><b><a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> Chapter 10. Signs of instant death and incurable complications of several diseases</b> </big>\n</p>",
+            "links": [
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "Section/Chapter",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Indriya Sthana Chapter 10",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Preceding Chapter",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Yasyashyavanimittiyam Indriyam Adhyaya",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Yasyashyavanimittiyam Indriyam Adhyaya",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Yasyashyavanimittiyam_Indriyam_Adhyaya"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Succeeding Chapter",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Anujyotiyam Indriyam Adhyaya",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Anujyotiyam Indriyam Adhyaya",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Anujyotiyam_Indriyam_Adhyaya"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Other Sections",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Sutra Sthana , Nidana Sthana , Vimana Sthana , Sharira Sthana , Chikitsa Sthana , Kalpa Sthana , Siddhi Sthana",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Sutra Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                            },
+                            {
+                                "text": "Nidana Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Nidana_Sthana"
+                            },
+                            {
+                                "text": "Vimana Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana"
+                            },
+                            {
+                                "text": "Sharira Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                            },
+                            {
+                                "text": "Chikitsa Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                            },
+                            {
+                                "text": "Kalpa Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Kalpa_Sthana"
+                            },
+                            {
+                                "text": "Siddhi Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Siddhi_Sthana"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Translator and commentator",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Byadgi P.S., Jitendra Kumar",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Reviewer",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Babu S.P.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Editors",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Khandel S.K., Babu S.P., Deole Y.S. , Basisht G.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Deole Y.S.",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Yogesh_Deole"
+                            },
+                            {
+                                "text": "Basisht G.",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Gopal_Basisht"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Year of publication",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "2020",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Publisher",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Charak Samhita Research, Training and Skill Development Centre",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Charak Samhita Research, Training and Skill Development Centre",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Skill_Development_Centre"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "DOI",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "10.47468/CSNE.2020.e01.s05.011",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "10.47468/CSNE.2020.e01.s05.011",
+                                "url": "https://doi.org/10.47468/CSNE.2020.e01.s05.011"
+                            }
+                        ]
+                    }
+                ]
+            ],
+            "html": "<table class=\"infobox\" style=\"width:22em\"><caption>Sadyomaraneeyam Indriyam Adhyaya</caption><tbody><tr><th scope=\"row\">Section/Chapter</th><td>\n<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> Chapter 10</td></tr><tr><th scope=\"row\">Preceding Chapter</th><td>\n<a href=\"/index.php?title=Yasyashyavanimittiyam_Indriyam_Adhyaya\" title=\"Yasyashyavanimittiyam Indriyam Adhyaya\">Yasyashyavanimittiyam Indriyam Adhyaya</a></td></tr><tr><th scope=\"row\">Succeeding Chapter</th><td>\n<a href=\"/index.php?title=Anujyotiyam_Indriyam_Adhyaya\" title=\"Anujyotiyam Indriyam Adhyaya\">Anujyotiyam Indriyam Adhyaya</a></td></tr><tr><th scope=\"row\">Other Sections</th><td>\n<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a>, <a href=\"/index.php?title=Nidana_Sthana\" title=\"Nidana Sthana\">Nidana Sthana</a>,  <a href=\"/index.php?title=Vimana_Sthana\" title=\"Vimana Sthana\">Vimana Sthana</a>,  <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a>, <a href=\"/index.php?title=Chikitsa_Sthana\" title=\"Chikitsa Sthana\">Chikitsa Sthana</a>, <a href=\"/index.php?title=Kalpa_Sthana\" title=\"Kalpa Sthana\">Kalpa Sthana</a>, <a href=\"/index.php?title=Siddhi_Sthana\" title=\"Siddhi Sthana\">Siddhi Sthana</a></td></tr><tr><th scope=\"row\">Translator and commentator</th><td>\nByadgi P.S., Jitendra Kumar</td></tr><tr><th scope=\"row\">Reviewer</th><td>\nBabu S.P.</td></tr><tr><th scope=\"row\">Editors</th><td>\nKhandel S.K., Babu S.P., <a href=\"/index.php?title=Yogesh_Deole\" title=\"Yogesh Deole\">Deole Y.S.</a>, <a href=\"/index.php?title=Gopal_Basisht\" title=\"Gopal Basisht\">Basisht G.</a></td></tr><tr><th scope=\"row\">Year of publication</th><td>\n2020</td></tr><tr><th scope=\"row\">Publisher</th><td>\n<a href=\"/index.php?title=Charak_Samhita_Research,_Training_and_Skill_Development_Centre\" title=\"Charak Samhita Research, Training and Skill Development Centre\">Charak Samhita Research, Training and Skill Development Centre</a></td></tr><tr><th scope=\"row\">DOI</th><td>\n<a class=\"external text\" href=\"https://doi.org/10.47468/CSNE.2020.e01.s05.011\" rel=\"nofollow\">10.47468/CSNE.2020.e01.s05.011</a></td></tr></tbody></table>",
+            "links": [
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Yasyashyavanimittiyam Indriyam Adhyaya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Yasyashyavanimittiyam_Indriyam_Adhyaya"
+                },
+                {
+                    "text": "Anujyotiyam Indriyam Adhyaya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Anujyotiyam_Indriyam_Adhyaya"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "Nidana Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Nidana_Sthana"
+                },
+                {
+                    "text": "Vimana Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                },
+                {
+                    "text": "Chikitsa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                },
+                {
+                    "text": "Kalpa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kalpa_Sthana"
+                },
+                {
+                    "text": "Siddhi Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Siddhi_Sthana"
+                },
+                {
+                    "text": "Deole Y.S.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Yogesh_Deole"
+                },
+                {
+                    "text": "Basisht G.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Gopal_Basisht"
+                },
+                {
+                    "text": "Charak Samhita Research, Training and Skill Development Centre",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Skill_Development_Centre"
+                },
+                {
+                    "text": "10.47468/CSNE.2020.e01.s05.011",
+                    "url": "https://doi.org/10.47468/CSNE.2020.e01.s05.011"
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Abstract",
+            "html": "<p><big><b>Abstract</b> </big>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "This chapter deals with incurable complications of several diseases which can lead to a patient to an instantaneous death. It enlists some emergency conditions for intensive care. However the many signs and symptoms listed in this chapter are manageable now by advanced medical and surgical techniques. In ancient period of Charaka Samhita , the conditions were not treatable and fatal.",
+            "html": "<p style=\"text-align:justify;\">This chapter deals with incurable complications of several diseases which can lead to a patient to an instantaneous death.  It enlists some emergency conditions for intensive care. However the many signs and symptoms listed in this chapter are manageable now by advanced medical and surgical techniques. In ancient period of <a class=\"mw-redirect\" href=\"/index.php?title=Charaka_Samhita\" title=\"Charaka Samhita\">Charaka Samhita</a>, the conditions were not treatable and fatal.  </p>",
+            "links": [
+                {
+                    "text": "Charaka Samhita",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Charaka_Samhita"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Keywords : Instantaneous death, fatal signs.",
+            "html": "<p><b>Keywords</b>: Instantaneous death, fatal signs.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Contents",
+            "html": "<h2 id=\"mw-toc-heading\">Contents</h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ul",
+            "text": "1 Introduction 2 Sanskrit text, Transliteration and English Translation 2.1 List of signs of instantaneous death 2.2 Summary 3 Tattva Vimarsha (Fundamental Principles) 4 Vidhi Vimarsha (Applied Inferences ) 4.1 Signs of impending death and interventions 4.2 Bad prognostic features and relevant disease pathologies 5 References",
+            "html": "<ul>\n<li class=\"toclevel-1 tocsection-1\"><a href=\"#Introduction\"><span class=\"tocnumber\">1</span> <span class=\"toctext\">Introduction</span></a></li>\n<li class=\"toclevel-1 tocsection-2\"><a href=\"#Sanskrit_text,_Transliteration_and_English_Translation\"><span class=\"tocnumber\">2</span> <span class=\"toctext\">Sanskrit text, Transliteration and English Translation</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-3\"><a href=\"#List_of_signs_of_instantaneous_death\"><span class=\"tocnumber\">2.1</span> <span class=\"toctext\">List of signs of instantaneous death</span></a></li>\n<li class=\"toclevel-2 tocsection-4\"><a href=\"#Summary\"><span class=\"tocnumber\">2.2</span> <span class=\"toctext\">Summary</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-5\"><a href=\"#Tattva_Vimarsha_(Fundamental_Principles)\"><span class=\"tocnumber\">3</span> <span class=\"toctext\">Tattva Vimarsha (Fundamental Principles)</span></a></li>\n<li class=\"toclevel-1 tocsection-6\"><a href=\"#Vidhi_Vimarsha_(Applied_Inferences_)\"><span class=\"tocnumber\">4</span> <span class=\"toctext\">Vidhi Vimarsha (Applied Inferences )</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-7\"><a href=\"#Signs_of_impending_death_and_interventions\"><span class=\"tocnumber\">4.1</span> <span class=\"toctext\">Signs of impending death and interventions</span></a></li>\n<li class=\"toclevel-2 tocsection-8\"><a href=\"#Bad_prognostic_features_and_relevant_disease_pathologies\"><span class=\"tocnumber\">4.2</span> <span class=\"toctext\">Bad prognostic features and relevant disease pathologies</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-9\"><a href=\"#References\"><span class=\"tocnumber\">5</span> <span class=\"toctext\">References</span></a></li>\n</ul>",
+            "links": [
+                {
+                    "text": "1 Introduction",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sadyomaraneeyam_Indriyam_Adhyaya#Introduction"
+                },
+                {
+                    "text": "2 Sanskrit text, Transliteration and English Translation",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sadyomaraneeyam_Indriyam_Adhyaya#Sanskrit_text,_Transliteration_and_English_Translation"
+                },
+                {
+                    "text": "2.1 List of signs of instantaneous death",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sadyomaraneeyam_Indriyam_Adhyaya#List_of_signs_of_instantaneous_death"
+                },
+                {
+                    "text": "2.2 Summary",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sadyomaraneeyam_Indriyam_Adhyaya#Summary"
+                },
+                {
+                    "text": "3 Tattva Vimarsha (Fundamental Principles)",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sadyomaraneeyam_Indriyam_Adhyaya#Tattva_Vimarsha_(Fundamental_Principles)"
+                },
+                {
+                    "text": "4 Vidhi Vimarsha (Applied Inferences )",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sadyomaraneeyam_Indriyam_Adhyaya#Vidhi_Vimarsha_(Applied_Inferences_)"
+                },
+                {
+                    "text": "4.1 Signs of impending death and interventions",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sadyomaraneeyam_Indriyam_Adhyaya#Signs_of_impending_death_and_interventions"
+                },
+                {
+                    "text": "4.2 Bad prognostic features and relevant disease pathologies",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sadyomaraneeyam_Indriyam_Adhyaya#Bad_prognostic_features_and_relevant_disease_pathologies"
+                },
+                {
+                    "text": "5 References",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sadyomaraneeyam_Indriyam_Adhyaya#References"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "1 Introduction",
+                    "links": [
+                        {
+                            "text": "1 Introduction",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sadyomaraneeyam_Indriyam_Adhyaya#Introduction"
+                        }
+                    ]
+                },
+                {
+                    "text": "2 Sanskrit text, Transliteration and English Translation 2.1 List of signs of instantaneous death 2.2 Summary",
+                    "links": [
+                        {
+                            "text": "2 Sanskrit text, Transliteration and English Translation",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sadyomaraneeyam_Indriyam_Adhyaya#Sanskrit_text,_Transliteration_and_English_Translation"
+                        },
+                        {
+                            "text": "2.1 List of signs of instantaneous death",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sadyomaraneeyam_Indriyam_Adhyaya#List_of_signs_of_instantaneous_death"
+                        },
+                        {
+                            "text": "2.2 Summary",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sadyomaraneeyam_Indriyam_Adhyaya#Summary"
+                        }
+                    ]
+                },
+                {
+                    "text": "3 Tattva Vimarsha (Fundamental Principles)",
+                    "links": [
+                        {
+                            "text": "3 Tattva Vimarsha (Fundamental Principles)",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sadyomaraneeyam_Indriyam_Adhyaya#Tattva_Vimarsha_(Fundamental_Principles)"
+                        }
+                    ]
+                },
+                {
+                    "text": "4 Vidhi Vimarsha (Applied Inferences ) 4.1 Signs of impending death and interventions 4.2 Bad prognostic features and relevant disease pathologies",
+                    "links": [
+                        {
+                            "text": "4 Vidhi Vimarsha (Applied Inferences )",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sadyomaraneeyam_Indriyam_Adhyaya#Vidhi_Vimarsha_(Applied_Inferences_)"
+                        },
+                        {
+                            "text": "4.1 Signs of impending death and interventions",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sadyomaraneeyam_Indriyam_Adhyaya#Signs_of_impending_death_and_interventions"
+                        },
+                        {
+                            "text": "4.2 Bad prognostic features and relevant disease pathologies",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sadyomaraneeyam_Indriyam_Adhyaya#Bad_prognostic_features_and_relevant_disease_pathologies"
+                        }
+                    ]
+                },
+                {
+                    "text": "5 References",
+                    "links": [
+                        {
+                            "text": "5 References",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sadyomaraneeyam_Indriyam_Adhyaya#References"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Introduction",
+            "html": "<h2><span class=\"mw-headline\" id=\"Introduction\">Introduction</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "Symptoms and signs which indicate the definite death of the patient is called arishta . By seeing flower, smoke and cloudy weather one can expect fruit, fire and rain respectively. In the same way certain symptoms which appear before the death of the person are called arishta .[Su. Sa. Sutra Sthana 28/3] [ 1 ] Sometimes arishta are not recognized by ignorant vaidya due to their minuscule nature or misunderstanding or by carelessness because arishta develops instantaneously before the death of an individual. Once the symptoms developed death is certain.",
+            "html": "<p>Symptoms and signs which indicate the definite death of the patient is called <a href=\"/index.php?title=Arishta\" title=\"Arishta\">arishta</a>. By seeing flower, smoke and cloudy weather one can expect fruit, fire and rain respectively. In the same way certain symptoms which appear before the death of the person are called <a href=\"/index.php?title=Arishta\" title=\"Arishta\">arishta</a>.[Su. Sa. Sutra Sthana 28/3]<sup class=\"reference\" id=\"cite_ref-1\"><a href=\"#cite_note-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup> Sometimes <a href=\"/index.php?title=Arishta\" title=\"Arishta\">arishta</a> are not recognized by ignorant <a href=\"/index.php?title=Vaidya\" title=\"Vaidya\">vaidya</a> due to their minuscule nature or misunderstanding or by carelessness because <a href=\"/index.php?title=Arishta\" title=\"Arishta\">arishta</a> develops instantaneously before the death of an individual. Once the symptoms developed death is certain. \n</p>",
+            "links": [
+                {
+                    "text": "arishta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Arishta"
+                },
+                {
+                    "text": "arishta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Arishta"
+                },
+                {
+                    "text": "[ 1 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sadyomaraneeyam_Indriyam_Adhyaya#cite_note-1"
+                },
+                {
+                    "text": "arishta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Arishta"
+                },
+                {
+                    "text": "vaidya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vaidya"
+                },
+                {
+                    "text": "arishta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Arishta"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The dying process usually begins well before death. As that process begins, person starts on a mental path of discovery, comprehending that death will indeed occur and believing in their own mortality. Death is a personal journey that each individual approaches in their own unique way. Nothing is concrete, nothing is set in stone. There are many paths one can take on this journey but all lead to the same destination. The journey ultimately leads to the physical departure from the body. There are milestones along this journey. Some may hit only a few while another may stop at each one, taking their time along the way. Some may take months to reach their destination, others will take only days. This chapter discusses what has been observed in research by ancient scientists which predicts the impending death. The patient afflicted with these signs and symptoms does not survive more than 3 days or 7 days. A variety of physiological changes occur in the last day and hours of life.",
+            "html": "<p>The dying process usually begins well before death. As that process begins, person starts on a mental path of discovery, comprehending that death will indeed occur and believing in their own mortality. Death is a personal journey that each individual approaches in their own unique way. Nothing is concrete, nothing is set in stone. There are many paths one can take on this journey but all lead to the same destination. The journey ultimately leads to the physical departure from the body. There are milestones along this journey. Some may hit only a few while another may stop at each one, taking their time along the way. Some may take months to reach their destination, others will take only days. This chapter discusses what has been observed in research by ancient scientists which predicts the impending death. The patient afflicted with these signs and symptoms does not survive more than 3 days or 7 days. A variety of physiological changes occur in the last day and hours of life.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Sanskrit text, Transliteration and English Translation",
+            "html": "<h2><span id=\"Sanskrit_text.2C_Transliteration_and_English_Translation\"></span><span class=\"mw-headline\" id=\"Sanskrit_text,_Transliteration_and_English_Translation\">Sanskrit text, Transliteration and English Translation</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "अथातः सद्योमरणीयमिन्द्रियं व्याख्यास्यामः||१||",
+            "html": "<p>अथातः सद्योमरणीयमिन्द्रियं व्याख्यास्यामः||१|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "इति ह स्माह भगवानात्रेयः||२||",
+            "html": "<p>इति ह स्माह भगवानात्रेयः||२|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "athātaḥ sadyōmaraṇīyamindriyaṁ vyākhyāsyāmaḥ||1||",
+            "html": "<p>athātaḥ sadyōmaraṇīyamindriyaṁ vyākhyāsyāmaḥ||1|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "iti ha smāha bhagavānātrēyaḥ||2||",
+            "html": "<p>iti ha smāha bhagavānātrēyaḥ||2||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "athAtaH sadyomaraNIyamindriyaM vyAkhyAsyAmaH||1||",
+            "html": "<p>athAtaH sadyomaraNIyamindriyaM vyAkhyAsyAmaH||1|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "iti ha smAha bhagavAnAtreyaH||2||",
+            "html": "<p>iti ha smAha bhagavAnAtreyaH||2|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "We shall now expound the chapter \"Sadyomaraneeyam Indriyam Adhyaya\" (Signs of instant death and incurable complications of several diseases). Thus said Lord Atreya. [1-2]",
+            "html": "<p>We shall now expound the chapter \"Sadyomaraneeyam Indriyam Adhyaya\" (Signs of instant death and incurable complications of several diseases). Thus said Lord Atreya. [1-2]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "सद्यस्तितिक्षतः प्राणाँल्लक्षणानि पृथक् पृथक्|",
+            "html": "<p>सद्यस्तितिक्षतः प्राणाँल्लक्षणानि पृथक् पृथक्| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "अग्निवेश! प्रवक्ष्यामि संस्पृष्टो यैर्न जीवति||३||",
+            "html": "<p>अग्निवेश! प्रवक्ष्यामि संस्पृष्टो यैर्न जीवति||३|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "sadyastitikṣataḥ prāṇāmँllakṣaṇāni pr̥thak pr̥thak|",
+            "html": "<p>sadyastitikṣataḥ prāṇāmँllakṣaṇāni pr̥thak pr̥thak| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "agnivēśa! pravakṣyāmi saṁspr̥ṣṭō yairna jīvati||3||",
+            "html": "<p>agnivēśa! pravakṣyāmi saṁspr̥ṣṭō yairna jīvati||3|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "sadyastitikShataH prANA@mllakShaNAni pRuthak pRuthak|",
+            "html": "<p>sadyastitikShataH prANA@mllakShaNAni pRuthak pRuthak| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "agnivesha! pravakShyAmi saMspRuShTo yairna jIvati||3||",
+            "html": "<p>agnivesha! pravakShyAmi saMspRuShTo yairna jIvati||3|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Oh Agnivesha! I shall describe separately the ‘‘signs and symptoms indicative of impending instantaneous death’’. The patient afflicted with these signs and symptoms does not survive. [3]",
+            "html": "<p>Oh Agnivesha! I shall describe separately the ‘‘signs and symptoms indicative of impending instantaneous death’’. The patient afflicted with these signs and symptoms does not survive. [3]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "List of signs of instantaneous death",
+            "html": "<h3><span class=\"mw-headline\" id=\"List_of_signs_of_instantaneous_death\">List of signs of instantaneous death</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "वाताष्ठीला सुसंवृद्धा तिष्ठन्ती दारुणा हृदि|",
+            "html": "<p>वाताष्ठीला सुसंवृद्धा तिष्ठन्ती दारुणा हृदि| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "तृष्णयाऽभिपरीतस्य सद्यो मुष्णाति जीवितम्||४||",
+            "html": "<p>तृष्णयाऽभिपरीतस्य सद्यो मुष्णाति जीवितम्||४|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "पिण्डिके शिथिलीकृत्य जिह्मीकृत्य च नासिकाम्|",
+            "html": "<p>पिण्डिके शिथिलीकृत्य जिह्मीकृत्य च नासिकाम्| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "वायुः शरीरे विचरन् सद्यो मुष्णाति जीवितम्||५||",
+            "html": "<p>वायुः शरीरे विचरन् सद्यो मुष्णाति जीवितम्||५|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "भ्रुवौ यस्य च्युते स्थानादन्तर्दाहश्च दारुणः|",
+            "html": "<p>भ्रुवौ यस्य च्युते स्थानादन्तर्दाहश्च दारुणः| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "तस्य हिक्काकरो रोगः सद्यो मुष्णाति जीवितम्||६||",
+            "html": "<p>तस्य हिक्काकरो रोगः सद्यो मुष्णाति जीवितम्||६|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "क्षीणशोणितमांसस्य वायुरूर्ध्वगतिश्चरन्|",
+            "html": "<p>क्षीणशोणितमांसस्य वायुरूर्ध्वगतिश्चरन्| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "उभे मन्ये समे यस्य सद्यो मुष्णाति जीवितम्||७||",
+            "html": "<p>उभे मन्ये समे यस्य सद्यो मुष्णाति जीवितम्||७|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "अन्तरेण गुदं गच्छन् नाभिं च सहसाऽनिलः|",
+            "html": "<p>अन्तरेण  गुदं गच्छन् नाभिं च सहसाऽनिलः| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "कृशस्य वङ्क्षणौ गृह्णन् सद्यो मुष्णाति जीवितम्||८||",
+            "html": "<p>कृशस्य वङ्क्षणौ गृह्णन् सद्यो मुष्णाति जीवितम्||८|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "वितत्य पर्शुकाग्राणि गृहीत्वोरश्च मारुतः|",
+            "html": "<p>वितत्य पर्शुकाग्राणि गृहीत्वोरश्च मारुतः| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "स्तिमितस्यायताक्षस्य सद्यो मुष्णाति जीवितम्||९||",
+            "html": "<p>स्तिमितस्यायताक्षस्य सद्यो मुष्णाति जीवितम्||९|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "हृदयं च गुदं चोभे गृहीत्वा मारुतो बली|",
+            "html": "<p>हृदयं च गुदं चोभे गृहीत्वा  मारुतो बली| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "दुर्बलस्य विशेषेण सद्यो मुष्णाति जीवितम्||१०||",
+            "html": "<p>दुर्बलस्य विशेषेण सद्यो मुष्णाति जीवितम्||१०|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "वङ्क्षणं च गुदं चोभे गृहीत्वा मारुतो बली|",
+            "html": "<p>वङ्क्षणं च गुदं चोभे गृहीत्वा मारुतो बली| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "श्वासं सञ्जनयञ्जन्तोः सद्यो मुष्णाति जीवितम्||११||",
+            "html": "<p>श्वासं सञ्जनयञ्जन्तोः सद्यो मुष्णाति जीवितम्||११|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "नाभिं मूत्रं बस्तिशीर्षं पुरीषं चापि मारुतः|",
+            "html": "<p>नाभिं मूत्रं बस्तिशीर्षं  पुरीषं चापि मारुतः| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "प्रच्छिन्नं जनयञ्छूलं सद्यो मुष्णाति जीवितम्||१२||",
+            "html": "<p>प्रच्छिन्नं  जनयञ्छूलं सद्यो मुष्णाति जीवितम्||१२|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "भिद्येते वङ्क्षणौ यस्य वातशूलैः समन्ततः|",
+            "html": "<p>भिद्येते वङ्क्षणौ यस्य वातशूलैः समन्ततः| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "भिन्नं पुरीषं तृष्णा च सद्यः प्राणाञ्जहाति सः||१३||",
+            "html": "<p>भिन्नं पुरीषं तृष्णा च सद्यः प्राणाञ्जहाति सः||१३|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "आप्लुतं मारुतेनेह शरीरं यस्य केवलम्|",
+            "html": "<p>आप्लुतं मारुतेनेह शरीरं यस्य केवलम्| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "भिन्नं पुरीषं तृष्णा च सद्यो जह्यात् स जीवितम्||१४||",
+            "html": "<p>भिन्नं पुरीषं तृष्णा च सद्यो जह्यात् स जीवितम्||१४|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "शरीरं शोफितं यस्य वाताशोफेन देहिनः|",
+            "html": "<p>शरीरं शोफितं यस्य वाताशोफेन देहिनः| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "भिन्नं पुरीषं तृष्णा च सद्यो जह्यात् स जीवितम्||१५||",
+            "html": "<p>भिन्नं पुरीषं तृष्णा च सद्यो जह्यात् स जीवितम्||१५|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "आमाशयसमुत्थाना यस्य स्यात् परिकर्तिका|",
+            "html": "<p>आमाशयसमुत्थाना यस्य स्यात् परिकर्तिका| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "भिन्नं पुरीषं तृष्णा च सद्यः प्राणाञ्जहाति सः||१६||",
+            "html": "<p>भिन्नं पुरीषं तृष्णा च सद्यः प्राणाञ्जहाति सः||१६|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "पक्वाशयसमुत्थाना यस्य स्यात् परिकर्तिका|",
+            "html": "<p>पक्वाशयसमुत्थाना यस्य स्यात् परिकर्तिका| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "तृष्णा गुदग्रहश्चोग्रः सद्यो जह्यात् स जीवितम्||१७||",
+            "html": "<p>तृष्णा गुदग्रहश्चोग्रः सद्यो जह्यात् स जीवितम्||१७|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "पक्वाशयमधिष्ठाय हत्वा सञ्ज्ञां च मारुतः|",
+            "html": "<p>पक्वाशयमधिष्ठाय  हत्वा सञ्ज्ञां च मारुतः| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "कण्ठे घुर्घुरकं कृत्वा सद्यो हरति जीवितम्||१८||",
+            "html": "<p>कण्ठे घुर्घुरकं कृत्वा सद्यो हरति जीवितम्||१८|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "दन्ताः कर्दमदिग्धाभा मुखं चूर्णकसन्निभम्|",
+            "html": "<p>दन्ताः कर्दमदिग्धाभा मुखं चूर्णकसन्निभम्| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "सिप्रायन्ते च गात्राणि लिङ्गं सद्यो मरिष्यतः||१९||",
+            "html": "<p>सिप्रायन्ते च गात्राणि लिङ्गं सद्यो मरिष्यतः||१९|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "तृष्णाश्वासशिरोरोगमोहदौर्बल्यकूजनैः|",
+            "html": "<p>तृष्णाश्वासशिरोरोगमोहदौर्बल्यकूजनैः| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "स्पृष्टः प्राणाञ्जहात्याशु शकृद्भेदेन चातुरः||२०||",
+            "html": "<p>स्पृष्टः प्राणाञ्जहात्याशु शकृद्भेदेन चातुरः||२०|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "vātāṣṭhīlā susaṁvr̥ddhā tiṣṭhantī dāruṇā hr̥di|",
+            "html": "<p>vātāṣṭhīlā susaṁvr̥ddhā tiṣṭhantī dāruṇā hr̥di| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "tr̥ṣṇayā'bhiparītasya sadyō muṣṇāti jīvitam||4||",
+            "html": "<p>tr̥ṣṇayā'bhiparītasya sadyō muṣṇāti jīvitam||4|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "piṇḍikē śithilīkr̥tya jihmīkr̥tya ca nāsikām|",
+            "html": "<p>piṇḍikē śithilīkr̥tya jihmīkr̥tya ca nāsikām| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "vāyuḥ śarīrē vicaran sadyō muṣṇāti jīvitam||5||",
+            "html": "<p>vāyuḥ śarīrē vicaran sadyō muṣṇāti jīvitam||5|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "bhruvau yasya cyutē sthānādantardāhaśca dāruṇaḥ|",
+            "html": "<p>bhruvau yasya cyutē sthānādantardāhaśca dāruṇaḥ| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "tasya hikkākarō rōgaḥ sadyō muṣṇāti jīvitam||6||",
+            "html": "<p>tasya hikkākarō rōgaḥ sadyō muṣṇāti jīvitam||6|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "kṣīṇaśōṇitamāṁsasya vāyurūrdhvagatiścaran|",
+            "html": "<p>kṣīṇaśōṇitamāṁsasya vāyurūrdhvagatiścaran| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "ubhē manyē samē yasya sadyō muṣṇāti jīvitam||7||",
+            "html": "<p>ubhē manyē samē yasya sadyō muṣṇāti jīvitam||7|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "antarēṇa gudaṁ gacchan nābhiṁ ca sahasā'nilaḥ|",
+            "html": "<p>antarēṇa  gudaṁ gacchan nābhiṁ ca sahasā'nilaḥ| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "kr̥śasya vaṅkṣaṇau gr̥hṇan sadyō muṣṇāti jīvitam||8||",
+            "html": "<p>kr̥śasya vaṅkṣaṇau gr̥hṇan sadyō muṣṇāti jīvitam||8|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "vitatya parśukāgrāṇi gr̥hītvōraśca mārutaḥ|",
+            "html": "<p>vitatya parśukāgrāṇi gr̥hītvōraśca mārutaḥ| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "stimitasyāyatākṣasya sadyō muṣṇāti jīvitam||9||",
+            "html": "<p>stimitasyāyatākṣasya sadyō muṣṇāti jīvitam||9|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "hr̥dayaṁ ca gudaṁ cōbhē gr̥hītvā mārutō balī|",
+            "html": "<p>hr̥dayaṁ ca gudaṁ cōbhē gr̥hītvā mārutō balī| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "durbalasya viśēṣēṇa sadyō muṣṇāti jīvitam||10||",
+            "html": "<p>durbalasya viśēṣēṇa sadyō muṣṇāti jīvitam||10||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "vaṅkṣaṇaṁ ca gudaṁ cōbhē gr̥hītvā mārutō balī|",
+            "html": "<p>vaṅkṣaṇaṁ ca gudaṁ cōbhē gr̥hītvā mārutō balī| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "śvāsaṁ sañjanayañjantōḥ sadyō muṣṇāti jīvitam||11||",
+            "html": "<p>śvāsaṁ sañjanayañjantōḥ sadyō muṣṇāti jīvitam||11|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "nābhiṁ mūtraṁ bastiśīrṣaṁ purīṣaṁ cāpi mārutaḥ|",
+            "html": "<p>nābhiṁ mūtraṁ bastiśīrṣaṁ  purīṣaṁ cāpi mārutaḥ| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "pracchinnaṁ janayañchūlaṁ sadyō muṣṇāti jīvitam||12||",
+            "html": "<p>pracchinnaṁ  janayañchūlaṁ sadyō muṣṇāti jīvitam||12|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "bhidyētē vaṅkṣaṇau yasya vātaśūlaiḥ samantataḥ|",
+            "html": "<p>bhidyētē vaṅkṣaṇau yasya vātaśūlaiḥ samantataḥ| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "bhinnaṁ purīṣaṁ tr̥ṣṇā ca sadyaḥ prāṇāñjahāti saḥ||13||",
+            "html": "<p>bhinnaṁ purīṣaṁ tr̥ṣṇā ca sadyaḥ prāṇāñjahāti saḥ||13|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "āplutaṁ mārutēnēha śarīraṁ yasya kēvalam|",
+            "html": "<p>āplutaṁ mārutēnēha śarīraṁ yasya kēvalam| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "bhinnaṁ purīṣaṁ tr̥ṣṇā ca sadyō jahyāt sa jīvitam||14||",
+            "html": "<p>bhinnaṁ purīṣaṁ tr̥ṣṇā ca sadyō jahyāt sa jīvitam||14|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "śarīraṁ śōphitaṁ yasya vātāśōphēna dēhinaḥ|",
+            "html": "<p>śarīraṁ śōphitaṁ yasya vātāśōphēna dēhinaḥ| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "bhinnaṁ purīṣaṁ tr̥ṣṇā ca sadyō jahyāt sa jīvitam||15||",
+            "html": "<p>bhinnaṁ purīṣaṁ tr̥ṣṇā ca sadyō jahyāt sa jīvitam||15|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "āmāśayasamutthānā yasya syāt parikartikā|",
+            "html": "<p>āmāśayasamutthānā yasya syāt parikartikā| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "bhinnaṁ purīṣaṁ tr̥ṣṇā ca sadyaḥ prāṇāñjahāti saḥ||16||",
+            "html": "<p>bhinnaṁ purīṣaṁ tr̥ṣṇā ca sadyaḥ prāṇāñjahāti saḥ||16|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "pakvāśayasamutthānā yasya syāt parikartikā|",
+            "html": "<p>pakvāśayasamutthānā yasya syāt parikartikā| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "tr̥ṣṇā gudagrahaścōgraḥ sadyō jahyāt sa jīvitam||17||",
+            "html": "<p>tr̥ṣṇā gudagrahaścōgraḥ sadyō jahyāt sa jīvitam||17|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "pakvāśayamadhiṣṭhāya hatvā sañjñāṁ ca mārutaḥ|",
+            "html": "<p>pakvāśayamadhiṣṭhāya hatvā sañjñāṁ ca mārutaḥ| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "kaṇṭhē ghurghurakaṁ kr̥tvā sadyō harati jīvitam||18||",
+            "html": "<p>kaṇṭhē ghurghurakaṁ kr̥tvā sadyō harati jīvitam||18|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "dantāḥ kardamadigdhābhā mukhaṁ cūrṇakasannibham|",
+            "html": "<p>dantāḥ kardamadigdhābhā mukhaṁ cūrṇakasannibham| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "siprāyantē ca gātrāṇi liṅgaṁ sadyō mariṣyataḥ||19||",
+            "html": "<p>siprāyantē ca gātrāṇi liṅgaṁ sadyō mariṣyataḥ||19|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "tr̥ṣṇāśvāsaśirōrōgamōhadaurbalyakūjanaiḥ|",
+            "html": "<p>tr̥ṣṇāśvāsaśirōrōgamōhadaurbalyakūjanaiḥ| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "spr̥ṣṭaḥ prāṇāñjahātyāśu śakr̥dbhēdēna cāturaḥ||20||",
+            "html": "<p>spr̥ṣṭaḥ prāṇāñjahātyāśu śakr̥dbhēdēna cāturaḥ||20||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "vAtAShThIlA susaMvRuddhA tiShThantI dAruNA hRudi|",
+            "html": "<p>vAtAShThIlA susaMvRuddhA tiShThantI dAruNA hRudi|\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "tRuShNayA~abhiparItasya sadyo muShNAti jIvitam||4||",
+            "html": "<p>tRuShNayA~abhiparItasya sadyo muShNAti jIvitam||4|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "piNDike shithilIkRutya jihmIkRutya ca nAsikAm|",
+            "html": "<p>piNDike shithilIkRutya jihmIkRutya ca nAsikAm| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "vAyuH sharIre vicaran sadyo muShNAti jIvitam||5||",
+            "html": "<p>vAyuH sharIre vicaran sadyo muShNAti jIvitam||5|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "bhruvau yasya cyute sthAnAdantardAhashca dAruNaH|",
+            "html": "<p>bhruvau yasya cyute sthAnAdantardAhashca dAruNaH| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "tasya hikkAkaro rogaH sadyo muShNAti jIvitam||6||",
+            "html": "<p>tasya hikkAkaro rogaH sadyo muShNAti jIvitam||6|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "kShINashoNitamAMsasya vAyurUrdhvagatishcaran|",
+            "html": "<p>kShINashoNitamAMsasya vAyurUrdhvagatishcaran| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "ubhe manye same yasya sadyo muShNAti jIvitam||7||",
+            "html": "<p>ubhe manye same yasya sadyo muShNAti jIvitam||7|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "antareNa [1] gudaM gacchan nAbhiM ca sahasA~anilaH|",
+            "html": "<p>antareNa [1] gudaM gacchan nAbhiM ca sahasA~anilaH| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "kRushasya va~gkShaNau gRuhNan sadyo muShNAti jIvitam||8||",
+            "html": "<p>kRushasya va~gkShaNau gRuhNan sadyo muShNAti jIvitam||8|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "vitatya parshukAgrANi gRuhItvorashca mArutaH|",
+            "html": "<p>vitatya parshukAgrANi gRuhItvorashca mArutaH| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "stimitasyAyatAkShasya sadyo muShNAti jIvitam||9||",
+            "html": "<p>stimitasyAyatAkShasya sadyo muShNAti jIvitam||9|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "hRudayaM ca gudaM cobhe gRuhItvA [2] mAruto balI|",
+            "html": "<p>hRudayaM ca gudaM cobhe gRuhItvA [2] mAruto balI| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "durbalasya visheSheNa sadyo muShNAti jIvitam||10||",
+            "html": "<p>durbalasya visheSheNa sadyo muShNAti jIvitam||10|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "va~gkShaNaM ca gudaM cobhe gRuhItvA mAruto balI|",
+            "html": "<p>va~gkShaNaM ca gudaM cobhe gRuhItvA mAruto balI| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "shvAsaM sa~jjanaya~jjantoH sadyo muShNAti jIvitam||11||",
+            "html": "<p>shvAsaM sa~jjanaya~jjantoH sadyo muShNAti jIvitam||11|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "nAbhiM mUtraM bastishIrShaM [3] purIShaM cApi mArutaH|",
+            "html": "<p>nAbhiM mUtraM bastishIrShaM [3] purIShaM cApi mArutaH| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "pracchinnaM [4] janaya~jchUlaM sadyo muShNAti jIvitam||12||",
+            "html": "<p>pracchinnaM [4] janaya~jchUlaM sadyo muShNAti jIvitam||12|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "bhidyete va~gkShaNau yasya vAtashUlaiH samantataH|",
+            "html": "<p>bhidyete va~gkShaNau yasya vAtashUlaiH samantataH| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "bhinnaM purIShaM tRuShNA ca sadyaH prANA~jjahAti saH||13||",
+            "html": "<p>bhinnaM purIShaM tRuShNA ca sadyaH prANA~jjahAti saH||13|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "AplutaM mAruteneha sharIraM yasya kevalam|",
+            "html": "<p>AplutaM mAruteneha sharIraM yasya kevalam| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "bhinnaM purIShaM tRuShNA ca sadyo jahyAt sa jIvitam||14||",
+            "html": "<p>bhinnaM purIShaM tRuShNA ca sadyo jahyAt sa jIvitam||14|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "sharIraM shophitaM yasya vAtAshophena dehinaH|\nbhinnaM purIShaM tRuShNA ca sadyo jahyAt sa jIvitam||15||",
+            "html": "<p>sharIraM shophitaM yasya vAtAshophena dehinaH| \nbhinnaM purIShaM tRuShNA ca sadyo jahyAt sa jIvitam||15|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "AmAshayasamutthAnA yasya syAt parikartikA|\nbhinnaM purIShaM tRuShNA ca sadyaH prANA~jjahAti saH||16||",
+            "html": "<p>AmAshayasamutthAnA yasya syAt parikartikA| \nbhinnaM purIShaM tRuShNA ca sadyaH prANA~jjahAti saH||16|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "pakvAshayasamutthAnA yasya syAt parikartikA|\ntRuShNA gudagrahashcograH sadyo jahyAt sa jIvitam||17||",
+            "html": "<p>pakvAshayasamutthAnA yasya syAt parikartikA| \ntRuShNA gudagrahashcograH sadyo jahyAt sa jIvitam||17|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "pakvAshayamadhiShThAya [5] hatvA sa~jj~jAM ca mArutaH|\nkaNThe ghurghurakaM kRutvA sadyo harati jIvitam||18||",
+            "html": "<p>pakvAshayamadhiShThAya [5] hatvA sa~jj~jAM ca mArutaH| \nkaNThe ghurghurakaM kRutvA sadyo harati jIvitam||18|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "dantAH kardamadigdhAbhA mukhaM cUrNakasannibham|\nsiprAyante ca gAtrANi li~ggaM sadyo mariShyataH||19||",
+            "html": "<p>dantAH kardamadigdhAbhA mukhaM cUrNakasannibham| \nsiprAyante ca gAtrANi li~ggaM sadyo mariShyataH||19|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "tRuShNAshvAsashirorogamohadaurbalyakUjanaiH|\nspRuShTaH prANA~jjahAtyAshu shakRudbhedena cAturaH||20||",
+            "html": "<p>tRuShNAshvAsashirorogamohadaurbalyakUjanaiH| \nspRuShTaH prANA~jjahAtyAshu shakRudbhedena cAturaH||20|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The patient of painful and fully manifested vatashthila (hard tumor caused by vitiated vata ) in the cardiac region if, suffers from intense thirst, then he instantly dies.[4]",
+            "html": "<p>The patient of painful and fully manifested <a href=\"/index.php?title=Vatashthila\" title=\"Vatashthila\">vatashthila</a> (hard tumor caused by vitiated <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a>) in the cardiac region if, suffers from intense thirst, then he instantly dies.[4] \n</p>",
+            "links": [
+                {
+                    "text": "vatashthila",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vatashthila"
+                },
+                {
+                    "text": "vata",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vata"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "If patient develops laxity in the calf muscles and irregularity in the structure of the nose due to the movement of abnormal vata all over the body, then he instantly dies. [5]",
+            "html": "<p>If patient develops laxity in the calf muscles and irregularity in the structure of the nose due to the movement of abnormal <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a> all over the body, then he instantly dies. [5]\n</p>",
+            "links": [
+                {
+                    "text": "vata",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vata"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "If the eye brows of patient are dislocated (drooped) and severe burning sensation in the body develops, and patient suffers from hiccup, he instantly dies.[6].",
+            "html": "<p>If the eye brows of patient are dislocated (drooped) and severe burning sensation in the body develops, and  patient suffers from hiccup, he instantly dies.[6]. \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Diminution of blood and flesh in a patient, who is suffering from distension of both the manya (carotid regions of the neck) by the abnormal vata moving upwards leads to death. [7]",
+            "html": "<p>Diminution of blood and flesh in a patient, who is suffering from distension of both the <i>manya</i> (carotid regions of the neck) by the abnormal <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata </a> moving upwards leads to death. [7] \n</p>",
+            "links": [
+                {
+                    "text": "vata",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vata"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "If a weak patient develops suffering in the groin region due to sudden aggravation of vata between the anus and the umbilicus, then he instantly dies. [8]",
+            "html": "<p>If a weak patient develops suffering in the groin region due to sudden aggravation of <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata </a> between the anus and the umbilicus, then he instantly dies. [8]\n</p>",
+            "links": [
+                {
+                    "text": "vata",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vata"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Stretching of the tip of ribs by the aggravated vata afflicting the chest of a patient, whose eyes are dilated and who feels staimitya (as if covered with a wet cloth) leads to instant death. [9]",
+            "html": "<p>Stretching of the tip of ribs by the aggravated <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata </a> afflicting the chest of a patient, whose eyes are dilated and who feels <i>staimitya</i> (as if covered with a wet cloth) leads to instant death. [9]\n</p>",
+            "links": [
+                {
+                    "text": "vata",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vata"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Congestion/constriction of both heart and anus by strongly aggravated vata in a weak patient leads to instant death. [10]",
+            "html": "<p>Congestion/constriction of both heart and anus by strongly aggravated <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata </a> in a weak patient leads to instant death. [10]\n</p>",
+            "links": [
+                {
+                    "text": "vata",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vata"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "If a patient develops severe dyspnea due to congestion/constriction of both groins and anus by strongly aggravated vata , he dies instantly. [11]",
+            "html": "<p>If a patient develops severe dyspnea due to congestion/constriction of both groins and anus by strongly aggravated <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata </a>, he dies instantly. [11]\n</p>",
+            "links": [
+                {
+                    "text": "vata",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vata"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "If a patient develops severe cutting pain in umbilicus, urination, top of urinary bladder, defecation caused by strongly aggravated vata , he dies instantly. [12]",
+            "html": "<p>If a patient develops severe cutting pain in umbilicus, urination, top of urinary bladder, defecation caused by strongly aggravated <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata </a>, he dies instantly. [12]  \n</p>",
+            "links": [
+                {
+                    "text": "vata",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vata"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "If a patient suffering from pricking pain in the groin region caused by the vitiated vata develops diarrhea and thirst, he dies instantly. [13]",
+            "html": "<p>If a patient suffering from pricking pain in the groin region caused by the vitiated <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata </a> develops diarrhea and thirst, he dies instantly. [13] \n</p>",
+            "links": [
+                {
+                    "text": "vata",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vata"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The patient whose entire body is already pervaded by aggravated vata , if suffers from diarrhea and thirst, dies instantly. [14]",
+            "html": "<p>The patient whose entire body is already pervaded by aggravated <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata </a>, if suffers from diarrhea and thirst, dies instantly. [14]\n</p>",
+            "links": [
+                {
+                    "text": "vata",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vata"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The patient whose body is swollen because of vata dominant shotha and suffers from diarrhea and thirst, dies instantly [15]",
+            "html": "<p>The patient whose body is swollen because of <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata </a> dominant <a class=\"mw-redirect\" href=\"/index.php?title=Shotha\" title=\"Shotha\">shotha</a> and suffers from diarrhea and thirst, dies instantly [15]\n</p>",
+            "links": [
+                {
+                    "text": "vata",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vata"
+                },
+                {
+                    "text": "shotha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Shotha"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The patient having cutting pain originated from amashaya (stomach including the small-intestine) suffers from diarrhea and thirst, dies instantly. [16]",
+            "html": "<p>The patient having cutting pain originated from <a href=\"/index.php?title=Amashaya\" title=\"Amashaya\">amashaya</a> (stomach including the small-intestine) suffers from diarrhea and thirst, dies instantly. [16]\n</p>",
+            "links": [
+                {
+                    "text": "amashaya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Amashaya"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The patient having cutting pain originated from pakvashaya (large intestine) suffers from thirst and severe anal spasm, dies instantly. [17]",
+            "html": "<p>The patient having cutting pain originated from <a class=\"new\" href=\"/index.php?title=Pakvashaya&amp;action=edit&amp;redlink=1\" title=\"Pakvashaya (page does not exist)\">pakvashaya</a> (large intestine) suffers from thirst and severe anal spasm, dies instantly. [17]\n</p>",
+            "links": [
+                {
+                    "text": "pakvashaya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pakvashaya&action=edit&redlink=1"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "If abnormal vata having its site of manifestation in pakvashaya (large intestine) causes unconsciousness and develops stertorious breathing (obstruction of breathing by kapha ) in the throat, the patient dies instantly. [18]",
+            "html": "<p>If abnormal <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata </a> having its site of manifestation in <a class=\"new\" href=\"/index.php?title=Pakvashaya&amp;action=edit&amp;redlink=1\" title=\"Pakvashaya (page does not exist)\">pakvashaya</a> (large intestine) causes unconsciousness and develops stertorious breathing (obstruction of breathing by <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a>) in the throat, the patient dies instantly. [18] \n</p>",
+            "links": [
+                {
+                    "text": "vata",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vata"
+                },
+                {
+                    "text": "pakvashaya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pakvashaya&action=edit&redlink=1"
+                },
+                {
+                    "text": "kapha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kapha"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Appearance of teeth as if adhered with mud, face as if covered with ashes and excessive perspiration, are signs of the patient who will die soon. [19]",
+            "html": "<p>Appearance of teeth as if adhered with mud, face as if covered with ashes and excessive perspiration, are signs of the patient who will die soon. [19]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Appearance of diarrhea in a patient having thirst, dyspnea, shiroroga (headache), unconsciousness, debility and groaning sound from the throat are signs of the patient who will die soon. [20]",
+            "html": "<p>Appearance of diarrhea in a patient having thirst, dyspnea, <a class=\"new\" href=\"/index.php?title=Shiroroga&amp;action=edit&amp;redlink=1\" title=\"Shiroroga (page does not exist)\">shiroroga</a> (headache), unconsciousness, debility and groaning sound from the throat are signs of the patient who will die soon. [20]\n</p>",
+            "links": [
+                {
+                    "text": "shiroroga",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Shiroroga&action=edit&redlink=1"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Summary",
+            "html": "<h3><span class=\"mw-headline\" id=\"Summary\">Summary</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "तत्र श्लोकः- एतानि खलु लिङ्गानि यः सम्यगवबुध्यते| स जीवितं च मर्त्यानां मरणं चावबुध्यते||२१||",
+            "html": "<p>तत्र श्लोकः- <br/>\nएतानि खलु लिङ्गानि यः सम्यगवबुध्यते| <br/>\nस जीवितं च मर्त्यानां मरणं चावबुध्यते||२१|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "tatra ślōkaḥ- ētāni khalu liṅgāni yaḥ samyagavabudhyatē| sa jīvitaṁ ca martyānāṁ maraṇaṁ cāvabudhyatē||21||",
+            "html": "<p>tatra ślōkaḥ- <br/>\nētāni khalu liṅgāni yaḥ samyagavabudhyatē| <br/>\nsa jīvitaṁ ca martyānāṁ maraṇaṁ cāvabudhyatē||21||<br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "tatra shlokaH- etAni khalu li~ggAni yaH samyagavabudhyate| sa jIvitaM ca martyAnAM maraNaM cAvabudhyate||21||",
+            "html": "<p>tatra shlokaH- <br/>\netAni khalu li~ggAni yaH samyagavabudhyate| <br/>\nsa jIvitaM ca martyAnAM maraNaM cAvabudhyate||21|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The physician who perfectly comprehends these signs can very well anticipate the survival or death of the patient. [21]",
+            "html": "<p>The physician who perfectly comprehends these signs can very well anticipate the survival or death of the patient. [21]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Tattva Vimarsha (Fundamental Principles)",
+            "html": "<h2><span id=\"Tattva_Vimarsha_.28Fundamental_Principles.29\"></span><span class=\"mw-headline\" id=\"Tattva_Vimarsha_(Fundamental_Principles)\">Tattva Vimarsha (Fundamental Principles)</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ul",
+            "text": "Excessively vitiated vata can cause immediate death. Disorders associated with excessive thirst and diarrhea indicating severe dehydration can cause immediate death.",
+            "html": "<ul><li>Excessively vitiated <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a> can cause immediate death.</li>\n<li>Disorders associated with excessive thirst and diarrhea indicating severe dehydration can cause immediate death.</li></ul>",
+            "links": [
+                {
+                    "text": "vata",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vata"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Excessively vitiated vata can cause immediate death.",
+                    "links": [
+                        {
+                            "text": "vata",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vata"
+                        }
+                    ]
+                },
+                {
+                    "text": "Disorders associated with excessive thirst and diarrhea indicating severe dehydration can cause immediate death.",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Vidhi Vimarsha (Applied Inferences )",
+            "html": "<h2><span id=\"Vidhi_Vimarsha_.28Applied_Inferences_.29\"></span><span class=\"mw-headline\" id=\"Vidhi_Vimarsha_(Applied_Inferences_)\">Vidhi Vimarsha (Applied Inferences )</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "Fundamental to ensuring quality palliative and end-of-life care is a focus on four broad domains:",
+            "html": "<p>Fundamental to ensuring quality palliative and end-of-life care is a focus on four broad domains: \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "ol",
+            "text": "physical symptoms; psychological symptoms; social needs that include interpersonal relationships, care giving, and economic concerns; and spiritual needs",
+            "html": "<ol><li>physical symptoms;</li>\n<li>psychological symptoms;</li>\n<li>social needs that include interpersonal relationships, care giving, and economic concerns; and</li>\n<li>spiritual needs</li></ol>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "physical symptoms;",
+                    "links": []
+                },
+                {
+                    "text": "psychological symptoms;",
+                    "links": []
+                },
+                {
+                    "text": "social needs that include interpersonal relationships, care giving, and economic concerns; and",
+                    "links": []
+                },
+                {
+                    "text": "spiritual needs",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Standardized methods for conducting a comprehensive assessment focus on evaluating the patient’s condition in all four domains affected by illness: physical, psychological, social, and spiritual.",
+            "html": "<p>Standardized methods for conducting a comprehensive assessment focus on evaluating the patient’s condition in all four domains affected by illness: physical, psychological, social, and spiritual.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Regarding social needs, health care providers should assess the status of important relationships, financial burdens, care giving needs, and access to medical care.",
+            "html": "<p>Regarding social needs, health care providers should assess the status of important relationships, financial burdens, care giving needs, and access to medical care.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Especially when an illness is life-threatening, there are many emotionally charged and potentially conflict-creating moments, collectively called \"bad news\" situations, in which empathic and effective communication skills are essential.",
+            "html": "<p>Especially when an illness is life-threatening, there are many emotionally charged and potentially conflict-creating moments, collectively called \"bad news\" situations, in which empathic and effective communication skills are essential.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Physical Symptoms and Their Management- Great emphasis has been placed on addressing dying patient’s pain. Some institutions have made pain assessment a fifth vital sign to emphasize its importance. The most common physical and psychological symptoms among all terminally ill patients include pain, fatigue, insomnia, anorexia, dyspnea, depression, anxiety, and nausea and vomiting. In the last days of life, terminal delirium is also common. Assessment of patients with advanced cancer has shown that patients experienced different physical and psychological symptoms.",
+            "html": "<p>Physical Symptoms and Their Management- Great emphasis has been placed on addressing dying patient’s pain. Some institutions have made pain assessment a fifth vital sign to emphasize its importance. The most common physical and psychological symptoms among all terminally ill patients include pain, fatigue, insomnia, anorexia, dyspnea, depression, anxiety, and nausea and vomiting. In the last days of life, terminal delirium is also common. Assessment of patients with advanced cancer has shown that patients experienced different physical and psychological symptoms.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Signs of impending death and interventions",
+            "html": "<h3><span class=\"mw-headline\" id=\"Signs_of_impending_death_and_interventions\">Signs of impending death and interventions</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "The following signs [table 1] are observed contemporarily [ 2 ] and can be related with signs enlisted in this chapter. Accordingly suitable interventions can be done in critical conditions.",
+            "html": "<p>The following signs [table 1] are observed contemporarily<sup class=\"reference\" id=\"cite_ref-2\"><a href=\"#cite_note-2\"><span class=\"cite-bracket\">[</span>2<span class=\"cite-bracket\">]</span></a></sup> and can be related with signs enlisted in this chapter. Accordingly suitable interventions can be done in critical conditions. \n</p>",
+            "links": [
+                {
+                    "text": "[ 2 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sadyomaraneeyam_Indriyam_Adhyaya#cite_note-2"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "Physiologic Changes",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "th",
+                        "text": "Signs/Symptoms",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "th",
+                        "text": "Intervention",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Cardiac and Circulation Changes",
+                        "rowspan": 1,
+                        "colspan": 3,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Decreased blood perfusion",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Skin may become mottled and discolored. Mottling and cyanosis of the upper extremities appear to indicate impending death versus such changes in the lower extremities.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Provide good skin care. Turn patient every 2-3 hours if this does not cause discomfort. Lotion to back and extremities. Support extremities with soft pillows.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Decreased cerebral perfusion",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Decreased level of consciousness or terminal delirium. Drowsiness/disorientation",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Orient patient gently if tolerated and this is not upsetting. Allow pt. to rest.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Decrease in cardiac output and intravascular volume",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Tachycardia Hypotension Central and peripheral cyanosis and peripheral cooling.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Comfort measures. Space out activities.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Urinary function",
+                        "rowspan": 1,
+                        "colspan": 3,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Decreased urinary output",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Possible urinary incontinence, Concentrated urine.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Keep patient clean and dry. Place a catheter if skin starts to break down or if patient is large and difficult to change diapers and linen.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Food and Fluids",
+                        "rowspan": 1,
+                        "colspan": 3,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Decreased interest in food and fluid.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Weight loss/dehydration",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Do not force fluid or foods. Provide excellent mouth care.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Swallowing difficulties",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Food pocketed in cheeks or mouth/choking with eating/coughing after eating",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Soft foods and thickened fluids (e.g. nectar) as tolerated. Stop feeding patient if choking or pocketing food.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Skin",
+                        "rowspan": 1,
+                        "colspan": 3,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Skin may become mottled or discolored.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Patches of purplish or dark pinkish color can be noted on back and posterior arms/legs.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Keep sheets clean and dry-avoid paper directly to skin. Apply lotion as tolerated.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Decubitus ulcers may develop from pressure of being bedbound, decreased nutritional status.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Red spots to bony prominences are first signs of Stage I decubiti and open sores may develop.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Relieve pressure to bony prominences or other areas of breakdown with turning and positioning Q2 hrs if tolerated. If patient has increased pain or discomfort with position changes, decrease the frequency. Special mattress as needed. Duoderm or specialized skin patch to Stage I-II ulcers. Change Q5-7 days or as needed. Goals of wound care for Stage III and IV decubiti should be to promote comfort and prevent worsening rather than healing since healing most likely will not occur. Consider application of specialized products such as charcoal or metronidazole paste (compounded) if odor present.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Respiratory",
+                        "rowspan": 1,
+                        "colspan": 3,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Retention of secretions in the pharynx and the upper respiratory tract.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Noisy respirations - usually no cough or weak cough.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Head of bed up at 45 degrees. Can fold small soft pillow or towel behind neck for extra support.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Dyspnea",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Shortness of breath",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Oxygen at 2-3 liters may help for some patients and often helps families to feel better. Link to Dyspnea module",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Cheyne-Stokes respirations",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Notable changes in breathing.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "A gentle fan blowing toward the patient may provide relief. Educate families that this is normal as the patient is dying.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "General changes",
+                        "rowspan": 1,
+                        "colspan": 3,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Profound weakness and fatigue.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Drowsy for extended periods. Sleeping more.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "This is normal. Educate family.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Disoriented with respect to time and a severely limited attention span.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "More withdrawn and detached from surroundings. May appear to be in a comatose-like state.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "This is normal. Educate family.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Patient may speak to persons who have already died or see places others cannot see.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Family may think these are hallucinations or a drug reaction.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "If patient appears frightened may need to treat with medication. Otherwise, educate family that this is normal and common",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ]
+            ],
+            "html": "<table class=\"wikitable\">\n<caption>Table 1: Signs of impending death\n</caption>\n<tbody><tr>\n<th rowspan=\"1\" style=\"background: lightyellow;\">Physiologic Changes\n</th>\n<th rowspan=\"1\" style=\"background: lightyellow;\">Signs/Symptoms\n</th>\n<th rowspan=\"1\" style=\"background: lightyellow;\">Intervention\n</th></tr>\n<tr>\n<th colspan=\"3\" style=\"text-align:left; background: lightblue;\">Cardiac and Circulation Changes\n</th></tr>\n<tr>\n<td>Decreased blood perfusion</td>\n<td>Skin may become mottled and discolored. Mottling and cyanosis of the upper extremities appear to indicate impending death versus such changes in the lower extremities.</td>\n<td>Provide good skin care. Turn patient every 2-3 hours if this does not cause discomfort. Lotion to back and extremities. Support extremities with soft pillows.\n</td></tr>\n<tr>\n<td>Decreased cerebral perfusion</td>\n<td>Decreased level of consciousness or terminal delirium. Drowsiness/disorientation</td>\n<td>Orient patient gently if tolerated and this is not upsetting. Allow pt. to rest.\n</td></tr>\n<tr>\n<td>Decrease in cardiac output and intravascular volume</td>\n<td>Tachycardia Hypotension Central and peripheral cyanosis and peripheral cooling.</td>\n<td>Comfort measures. Space out activities.\n</td></tr>\n<tr>\n<th colspan=\"3\" style=\"text-align:left; background: lightblue;\">Urinary function\n</th></tr>\n<tr>\n<td>Decreased urinary output</td>\n<td>Possible urinary incontinence, Concentrated urine.</td>\n<td>Keep patient clean and dry. Place a catheter if skin starts to break down or if patient is large and difficult to change diapers and linen.\n</td></tr>\n<tr>\n<th colspan=\"3\" style=\"text-align:left; background: lightblue;\">Food and Fluids\n</th></tr>\n<tr>\n<td>Decreased interest in food and fluid.</td>\n<td>Weight loss/dehydration</td>\n<td>Do not force fluid or foods. Provide excellent mouth care.\n</td></tr>\n<tr>\n<td>Swallowing difficulties</td>\n<td>Food pocketed in cheeks or mouth/choking with eating/coughing after eating</td>\n<td>Soft foods and thickened fluids (e.g. nectar) as tolerated. Stop feeding patient if choking or pocketing food.\n</td></tr>\n<tr>\n<th colspan=\"3\" style=\"text-align:left; background: lightblue;\">Skin\n</th></tr>\n<tr>\n<td>Skin may become mottled or discolored.</td>\n<td>Patches of purplish or dark pinkish color can be noted on back and posterior arms/legs.</td>\n<td>Keep sheets clean and dry-avoid paper directly to skin. Apply lotion as tolerated.\n</td></tr>\n<tr>\n<td>Decubitus ulcers may develop from pressure of being bedbound, decreased nutritional status.</td>\n<td>Red spots to bony prominences are first signs of Stage I decubiti  and open sores may develop.</td>\n<td>Relieve pressure to bony prominences or other areas of breakdown with turning and positioning Q2 hrs if tolerated. If patient has increased pain or discomfort with position changes, decrease the frequency.\n<p>Special mattress as needed. Duoderm or specialized skin patch to Stage I-II ulcers. Change Q5-7 days or as needed. Goals of wound care for Stage III and IV decubiti should be to promote comfort and prevent worsening rather than healing since healing most likely will not occur. Consider application of specialized products such as charcoal or metronidazole paste (compounded) if odor present. \n</p>\n</td></tr>\n<tr>\n<th colspan=\"3\" style=\"text-align:left; background: lightblue;\">Respiratory\n</th></tr>\n<tr>\n<td>Retention of secretions in the pharynx and the upper respiratory tract.</td>\n<td>Noisy respirations - usually no cough or weak cough.</td>\n<td>Head of bed up at 45 degrees. Can fold small soft pillow or towel behind neck for extra support.\n</td></tr>\n<tr>\n<td>Dyspnea</td>\n<td>Shortness of breath</td>\n<td>Oxygen at 2-3 liters  may help for some patients and often helps families to feel better. Link to Dyspnea module\n</td></tr>\n<tr>\n<td>Cheyne-Stokes respirations</td>\n<td>Notable changes in breathing.</td>\n<td>A gentle fan blowing toward the patient may provide relief. Educate families that this is normal as the patient is dying.\n</td></tr>\n<tr>\n<th colspan=\"3\" style=\"text-align:left; background: lightblue;\">General changes\n</th></tr>\n<tr>\n<td>Profound weakness and fatigue.</td>\n<td>Drowsy for extended periods. Sleeping more.</td>\n<td>This is normal. Educate family.\n</td></tr>\n<tr>\n<td>Disoriented with respect to time and a severely limited attention span.</td>\n<td>More withdrawn and detached from surroundings. May appear to be in a comatose-like state.</td>\n<td>This is normal. Educate family.\n</td></tr>\n<tr>\n<td>Patient may speak to persons who have already died or see places others cannot see.</td>\n<td>Family may think these are hallucinations or a drug reaction.</td>\n<td>If patient appears frightened may need to treat with medication. Otherwise, educate family that this is normal and common\n</td></tr>\n</tbody></table>",
+            "links": []
+        },
+        {
+            "type": "h3",
+            "text": "Bad prognostic features and relevant disease pathologies",
+            "html": "<h3><span class=\"mw-headline\" id=\"Bad_prognostic_features_and_relevant_disease_pathologies\">Bad prognostic features and relevant disease pathologies</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "The prognostic features described in this chapter can be observed in various disease pathologies as shown in table 2. [ 3 ] There is a wide scope of research to study the exact clinical correlation of the features and underlying disease pathologies.",
+            "html": "<p>The prognostic features described in this chapter can be observed in various disease pathologies as shown in table 2. <sup class=\"reference\" id=\"cite_ref-3\"><a href=\"#cite_note-3\"><span class=\"cite-bracket\">[</span>3<span class=\"cite-bracket\">]</span></a></sup> There is a wide scope of research to study the exact clinical correlation of the features and underlying disease pathologies. \n</p>",
+            "links": [
+                {
+                    "text": "[ 3 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sadyomaraneeyam_Indriyam_Adhyaya#cite_note-3"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "Reference verse",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "th",
+                        "text": "Probable relevant disease or pathology",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Cha.Sa. Indriya Sthana 10/4",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Metastatic papillary serous adenocarcinoma from ovarian primary; Thoracic malignancies; PNS (paraneoplastic syndrome); Massive aortic aneurysm; Chest metastases; Mediastinal tumors;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Cha.Sa. Indriya Sthana 10/5",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Neuro syphilis with saddle nose; Distal myopathies; Neuromuscular conditions; Neurodegenerative and demyelinating conditions; Muscle wasting in HIV patients;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Cha.Sa. Indriya Sthana 10/6",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Bilateral facial palsy; GBS (Guillain-Barre syndrome); Cheiro-oral syndrome (COS); Vascular brain stem lesions;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Cha.Sa. Indriya Sthana 10/7",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "CCAO (common carotid artery occlusion) due to various underlying conditions);",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Cha.Sa. Indriya Sthana 10/8",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Pelvic appendicitis; Strangulated inguinal hernia; Fatal Fournier’s gangrene; Pelvic carcinomas; Acute abdomen; Pelvic osteomyelitis; Osteitis pubis;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Cha.Sa. Indriya Sthana 10/9",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Ross syndrome; FDPs (fixed bilateral dilated pupils) due to various underlying conditions; Hemothorax; Pneumothorax; Brain stem lesions;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Cha.Sa. Indriya Sthana 10/10",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Advanced lung cancer with pelvic bone metastasis; Aortic dissection and aneurysm;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Cha.Sa. Indriya Sthana 10/11",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Strangulated inguinal hernia; Testicular torsion; Pelvic inflammatory or infectious or neoplastic conditions; Rectal adenocarcinoma with inguinal lymph node metastasis (ILNM); ACS (abdominal compartment syndrome); Acute abdomen; Ruptured AAA (abdominal aortic aneurysm);",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Cha.Sa. Indriya Sthana 10/12",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Renal colic; Ureteric colic; Pelvic appendicitis; Pyelonephritis; Cystitis; UTI (urinary tract infections); Carcinomas;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Cha.Sa. Indriya Sthana 10/13",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Hemoperitoneum causing hypovolemic shock; Ruptured aortic aneurysm; Acute abdomen; DRAP (dehydration related abdominal pain); Mesenteric ischemia; Colonic obstruction; Highly vascular neoplasms;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Cha.Sa. Indriya Sthana 10/14",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Acute infectious (bacterial or viral) gastro enteritis; IBS (irritable bowel syndrome); IBD (inflammatory bowel disease); SIBO (small intestinal bacterial overgrowth);",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Cha.Sa. Indriya Sthana 10/15",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Kwashiorkor with diarrhea;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Cha.Sa. Indriya Sthana 10/16",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "GDPU (gastroduodenal perforation or ulcer); PPU (perforated peptic ulcer); Acute abdomen; Acute pancreatitis;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Cha.Sa. Indriya Sthana 10/17",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Proctalgia fugax; IBD; Ulcerative colitis; Crohn’s disease; Toxic megacolon; Colorectal carcinoma; Colonic perforation; Peritonitis; Septic shock;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Cha.Sa. Indriya Sthana 10/18",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Metastatic pulmonary lymphangitic carcinomatosis with primary colorectal cancer; Lung cancer with secondary metastasis to colon; Myopericarditis of IBD;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Cha.Sa. Indriya Sthana 10/19",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Uremic frost; Uremic stomatitis or periodontitis; ESRD (end stage renal disease); CRF (chronic renal failure); CKD (chronic kidney disease); Rhabdomyolysis in acute kidney injury; Carcinomas;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Cha.Sa. Indriya Sthana 10/20",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Hypovolemic shock; Delirium; Advanced stages of carcinoma;",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ]
+            ],
+            "html": "<table class=\"wikitable\">\n<caption>Table 2:Reference verse and probable relevant pathology\n</caption>\n<tbody><tr>\n<th>Reference verse</th>\n<th>Probable relevant disease or pathology\n</th></tr>\n<tr>\n<td>Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 10/4</td>\n<td>Metastatic papillary serous adenocarcinoma from ovarian primary; Thoracic malignancies; PNS (paraneoplastic syndrome); Massive aortic aneurysm; Chest metastases; Mediastinal tumors;\n</td></tr>\n<tr>\n<td>Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 10/5</td>\n<td>Neuro syphilis with saddle nose; Distal myopathies; Neuromuscular conditions; Neurodegenerative and demyelinating conditions; Muscle wasting in HIV patients;\n</td></tr>\n<tr>\n<td>Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 10/6</td>\n<td>Bilateral facial palsy; GBS (Guillain-Barre syndrome); Cheiro-oral syndrome (COS); Vascular brain stem lesions;\n</td></tr>\n<tr>\n<td>Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 10/7</td>\n<td>CCAO (common carotid artery occlusion) due to various underlying conditions);\n</td></tr>\n<tr>\n<td>Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 10/8</td>\n<td>Pelvic appendicitis; Strangulated inguinal hernia; Fatal Fournier’s gangrene; Pelvic carcinomas; Acute abdomen; Pelvic osteomyelitis; Osteitis pubis;\n</td></tr>\n<tr>\n<td>Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 10/9</td>\n<td>Ross syndrome; FDPs (fixed bilateral dilated pupils) due to various underlying conditions; Hemothorax; Pneumothorax; Brain stem lesions;\n</td></tr>\n<tr>\n<td>Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 10/10</td>\n<td>Advanced lung cancer with pelvic bone metastasis; Aortic dissection and aneurysm;\n</td></tr>\n<tr>\n<td>Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 10/11</td>\n<td>Strangulated inguinal hernia; Testicular torsion; Pelvic inflammatory or infectious or neoplastic conditions; Rectal adenocarcinoma with inguinal lymph node metastasis (ILNM); ACS (abdominal compartment syndrome); Acute abdomen; Ruptured AAA (abdominal aortic aneurysm);\n</td></tr>\n<tr>\n<td>Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 10/12</td>\n<td>Renal colic; Ureteric colic; Pelvic appendicitis; Pyelonephritis; Cystitis; UTI (urinary tract infections); Carcinomas;\n</td></tr>\n<tr>\n<td>Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 10/13</td>\n<td>Hemoperitoneum causing hypovolemic shock; Ruptured aortic aneurysm; Acute abdomen; DRAP (dehydration related abdominal pain); Mesenteric ischemia; Colonic obstruction; Highly vascular neoplasms;\n</td></tr>\n<tr>\n<td>Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 10/14</td>\n<td>Acute infectious (bacterial or viral) gastro enteritis; IBS (irritable bowel syndrome); IBD (inflammatory bowel disease); SIBO (small intestinal bacterial overgrowth);\n</td></tr>\n<tr>\n<td>Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 10/15</td>\n<td>Kwashiorkor with diarrhea;\n</td></tr>\n<tr>\n<td>Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 10/16</td>\n<td>GDPU (gastroduodenal perforation or ulcer); PPU (perforated peptic ulcer); Acute abdomen; Acute pancreatitis;\n</td></tr>\n<tr>\n<td>Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 10/17</td>\n<td>Proctalgia fugax; IBD; Ulcerative colitis; Crohn’s disease; Toxic megacolon; Colorectal carcinoma; Colonic perforation; Peritonitis; Septic shock;\n</td></tr>\n<tr>\n<td>Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 10/18</td>\n<td>Metastatic pulmonary lymphangitic carcinomatosis with primary colorectal cancer; Lung cancer with secondary metastasis to colon; Myopericarditis of IBD;\n</td></tr>\n<tr>\n<td>Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 10/19</td>\n<td>Uremic frost; Uremic stomatitis or periodontitis; ESRD (end stage renal disease); CRF (chronic renal failure); CKD (chronic kidney disease); Rhabdomyolysis in acute kidney injury; Carcinomas;\n</td></tr>\n<tr>\n<td>Cha.Sa.<a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 10/20</td>\n<td>Hypovolemic shock; Delirium; Advanced stages of carcinoma;\n</td></tr>\n</tbody></table>",
+            "links": [
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Acknowledgement: The contributors acknowledge support of Dr. M. Prasad and Dr.G.Kshama for providing tables 2,3 and 4 from their published article referred in this chapter.",
+            "html": "<p><b>Acknowledgement:</b> The contributors acknowledge support of Dr. M. Prasad and Dr.G.Kshama for providing tables 2,3 and 4 from their published article referred in this chapter.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Send us your suggestions and feedback on this page.",
+            "html": "<p><big><b><a href=\"/index.php?title=Special:ContactMe\" title=\"Special:ContactMe\">Send us your suggestions and feedback on this page.</a></b></big>\n</p>",
+            "links": [
+                {
+                    "text": "Send us your suggestions and feedback on this page.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Special:ContactMe"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "References",
+            "html": "<h2><span class=\"mw-headline\" id=\"References\">References</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ol",
+            "text": "↑ Sushruta. Sushruta Samhita. Edited by Jadavaji Trikamji Aacharya. 8th ed. Varanasi: Chaukhambha Orientalia;2005. ↑ Transition to Death - End of Life Curriculum - Stanford University;\nAvailable from http://endoflife.stanford.edu/M06_last48hr/signs_imp_death.htm ↑ Gupta K. et.al., Sadyo Maraneeyam of Charaka Indriya Sthana- An Explorative Study, Int. J. Ayu. Alt. Med., 2019; 7(6): 264-273",
+            "html": "<ol class=\"references\">\n<li id=\"cite_note-1\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-1\">↑</a></span> <span class=\"reference-text\">Sushruta. Sushruta Samhita. Edited by Jadavaji Trikamji Aacharya. 8th ed. Varanasi: Chaukhambha Orientalia;2005.</span>\n</li>\n<li id=\"cite_note-2\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-2\">↑</a></span> <span class=\"reference-text\">Transition to Death - End of Life Curriculum - Stanford University;\nAvailable from <a class=\"external free\" href=\"http://endoflife.stanford.edu/M06_last48hr/signs_imp_death.htm\" rel=\"nofollow\">http://endoflife.stanford.edu/M06_last48hr/signs_imp_death.htm</a> </span>\n</li>\n<li id=\"cite_note-3\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-3\">↑</a></span> <span class=\"reference-text\">Gupta K. et.al., Sadyo Maraneeyam of Charaka Indriya Sthana- An Explorative Study, Int. J. Ayu. Alt. Med., 2019; 7(6): 264-273</span>\n</li>\n</ol>",
+            "links": [
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sadyomaraneeyam_Indriyam_Adhyaya#cite_ref-1"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sadyomaraneeyam_Indriyam_Adhyaya#cite_ref-2"
+                },
+                {
+                    "text": "http://endoflife.stanford.edu/M06_last48hr/signs_imp_death.htm",
+                    "url": "http://endoflife.stanford.edu/M06_last48hr/signs_imp_death.htm"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sadyomaraneeyam_Indriyam_Adhyaya#cite_ref-3"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "↑ Sushruta. Sushruta Samhita. Edited by Jadavaji Trikamji Aacharya. 8th ed. Varanasi: Chaukhambha Orientalia;2005.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sadyomaraneeyam_Indriyam_Adhyaya#cite_ref-1"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Transition to Death - End of Life Curriculum - Stanford University;\nAvailable from http://endoflife.stanford.edu/M06_last48hr/signs_imp_death.htm",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sadyomaraneeyam_Indriyam_Adhyaya#cite_ref-2"
+                        },
+                        {
+                            "text": "http://endoflife.stanford.edu/M06_last48hr/signs_imp_death.htm",
+                            "url": "http://endoflife.stanford.edu/M06_last48hr/signs_imp_death.htm"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Gupta K. et.al., Sadyo Maraneeyam of Charaka Indriya Sthana- An Explorative Study, Int. J. Ayu. Alt. Med., 2019; 7(6): 264-273",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sadyomaraneeyam_Indriyam_Adhyaya#cite_ref-3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "text": "Back to the Top"
+        },
+        {
+            "type": "text",
+            "text": "NewPP limit report\nCached time: 20261112015355\nCache expiry: 86400\nReduced expiry: false\nComplications: [vary‐revision‐id, show‐toc]\nCPU time usage: 0.102 seconds\nReal time usage: 0.463 seconds\nPreprocessor visited node count: 216/1000000\nPost‐expand include size: 2549/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 3/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 1438/5000000 bytes\nLua time usage: 0.150/7 seconds\nLua virtual size: 20484096/209715200 bytes\nLua estimated memory usage: 0 bytes"
+        },
+        {
+            "type": "text",
+            "text": "Transclusion expansion time report (%,ms,calls,template)\n100.00% 433.023 1 -total\n97.42% 421.859 1 Template:Infobox\n0.80% 3.481 1 Template:CiteButton"
+        },
+        {
+            "type": "text",
+            "text": "Saved in parser cache with key carakas1_carakasa:pcache:idhash:3226-0!canonical and timestamp 20261112015355 and revision id 44532. Rendering was triggered because: page-view"
+        },
+        {
+            "type": "text",
+            "text": "Retrieved from \""
+        },
+        {
+            "type": "text",
+            "text": "https://www.carakasamhitaonline.com/index.php?title=Sadyomaraneeyam_Indriyam_Adhyaya&oldid=44532"
+        },
+        {
+            "type": "text",
+            "text": "\""
+        }
+    ],
+    "html_sha256": "fef1c553546a0fe373c16c8e2bf0f0ddcfac93246fee214432b76a485ed8007c"
+}

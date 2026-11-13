@@ -1,0 +1,2313 @@
+{
+    "source": "Charaka Samhita",
+    "chapter": "Ikshvaku Kalpa Adhyaya",
+    "chapter_id": "Ikshvaku_Kalpa_Adhyaya",
+    "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya",
+    "xpath": "//*[@id=\"content\"]",
+    "extraction_date": "2026-11-12T15:40:41",
+    "total_blocks": 192,
+    "total_tables": 2,
+    "total_headings": 15,
+    "total_paragraphs": 155,
+    "content": [
+        {
+            "type": "h1",
+            "text": "Ikshvaku Kalpa Adhyaya",
+            "html": "<h1 class=\"firstHeading mw-first-heading\" id=\"firstHeading\"><span class=\"mw-page-title-main\">Ikshvaku Kalpa Adhyaya</span></h1>",
+            "links": [],
+            "images": [],
+            "level": 1
+        },
+        {
+            "type": "text",
+            "text": "From Charak Samhita"
+        },
+        {
+            "type": "text",
+            "text": "Jump to navigation"
+        },
+        {
+            "type": "text",
+            "text": "Jump to search"
+        },
+        {
+            "type": "figure",
+            "text": "",
+            "html": "<figure class=\"mw-default-size mw-halign-right\" typeof=\"mw:File\"><a href=\"https://www.carakasamhitaonline.com/index.php?title=Special:CiteThisPage&amp;page=Ikshvaku_Kalpa_Adhyaya&amp;id=44568&amp;wpFormIdentifier=titleform\" rel=\"nofollow\"><img class=\"mw-file-element\" decoding=\"async\" height=\"47\" src=\"/images/5/58/Cite.png\" width=\"180\"/></a><figcaption></figcaption></figure>",
+            "links": [
+                {
+                    "text": "",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Special:CiteThisPage&page=Ikshvaku_Kalpa_Adhyaya&id=44568&wpFormIdentifier=titleform"
+                }
+            ],
+            "images": [
+                {
+                    "url": "https://www.carakasamhitaonline.com/images/5/58/Cite.png",
+                    "alt": "",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Kalpa Sthana Chapter 3.Pharmaceutical preparations of Ikshvaku",
+            "html": "<p><big><b><a href=\"/index.php?title=Kalpa_Sthana\" title=\"Kalpa Sthana\">Kalpa Sthana</a> Chapter 3.Pharmaceutical preparations of Ikshvaku </b></big>\n</p>",
+            "links": [
+                {
+                    "text": "Kalpa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kalpa_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "Section/Chapter",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Kalpa Sthana Chapter 3",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Kalpa Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Kalpa_Sthana"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Preceding Chapter",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Jimutaka Kalpa Adhyaya",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Jimutaka Kalpa Adhyaya",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Jimutaka_Kalpa_Adhyaya"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Succeeding Chapter",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Dhamargava Kalpa Adhyaya",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Dhamargava Kalpa Adhyaya",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Dhamargava_Kalpa_Adhyaya"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Other Sections",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Sutra Sthana , Nidana Sthana , Vimana Sthana , Sharira Sthana , Indriya Sthana , Chikitsa Sthana , Siddhi Sthana",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Sutra Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                            },
+                            {
+                                "text": "Nidana Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Nidana_Sthana"
+                            },
+                            {
+                                "text": "Vimana Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana"
+                            },
+                            {
+                                "text": "Sharira Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                            },
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            },
+                            {
+                                "text": "Chikitsa Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                            },
+                            {
+                                "text": "Siddhi Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Siddhi_Sthana"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Translator and commentator",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Nishteswar K.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Reviewer",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Chavan S., Nishteswar K.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Editors",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Nishteswar K., Sawant B., Deole Y.S. , Basisht G.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Deole Y.S.",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Yogesh_Deole"
+                            },
+                            {
+                                "text": "Basisht G.",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Gopal_Basisht"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Year of publication",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "2020",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Publisher",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Charak Samhita Research, Training and Skill Development Centre",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Charak Samhita Research, Training and Skill Development Centre",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Skill_Development_Centre"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "DOI",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "10.47468/CSNE.2020.e01.s07.004",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "10.47468/CSNE.2020.e01.s07.004",
+                                "url": "https://doi.org/10.47468/CSNE.2020.e01.s07.004"
+                            }
+                        ]
+                    }
+                ]
+            ],
+            "html": "<table class=\"infobox\" style=\"width:22em\"><caption>Ikshvaku Kalpa Adhyaya</caption><tbody><tr><th scope=\"row\">Section/Chapter</th><td>\n<a href=\"/index.php?title=Kalpa_Sthana\" title=\"Kalpa Sthana\">Kalpa Sthana</a> Chapter 3</td></tr><tr><th scope=\"row\">Preceding Chapter</th><td>\n<a href=\"/index.php?title=Jimutaka_Kalpa_Adhyaya\" title=\"Jimutaka Kalpa Adhyaya\">Jimutaka Kalpa Adhyaya</a></td></tr><tr><th scope=\"row\">Succeeding Chapter</th><td>\n<a href=\"/index.php?title=Dhamargava_Kalpa_Adhyaya\" title=\"Dhamargava Kalpa Adhyaya\">Dhamargava Kalpa Adhyaya</a></td></tr><tr><th scope=\"row\">Other Sections</th><td>\n<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a>, <a href=\"/index.php?title=Nidana_Sthana\" title=\"Nidana Sthana\">Nidana Sthana</a>,  <a href=\"/index.php?title=Vimana_Sthana\" title=\"Vimana Sthana\">Vimana Sthana</a>, <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a>, <a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a>, <a href=\"/index.php?title=Chikitsa_Sthana\" title=\"Chikitsa Sthana\">Chikitsa Sthana</a>, <a href=\"/index.php?title=Siddhi_Sthana\" title=\"Siddhi Sthana\">Siddhi Sthana</a></td></tr><tr><th scope=\"row\">Translator and commentator</th><td>\nNishteswar K.</td></tr><tr><th scope=\"row\">Reviewer</th><td>\nChavan S., Nishteswar K.</td></tr><tr><th scope=\"row\">Editors</th><td>\nNishteswar K., Sawant B., <a href=\"/index.php?title=Yogesh_Deole\" title=\"Yogesh Deole\">Deole Y.S.</a>, <a href=\"/index.php?title=Gopal_Basisht\" title=\"Gopal Basisht\">Basisht G.</a></td></tr><tr><th scope=\"row\">Year of publication</th><td>\n2020</td></tr><tr><th scope=\"row\">Publisher</th><td>\n<a href=\"/index.php?title=Charak_Samhita_Research,_Training_and_Skill_Development_Centre\" title=\"Charak Samhita Research, Training and Skill Development Centre\">Charak Samhita Research, Training and Skill Development Centre</a></td></tr><tr><th scope=\"row\">DOI</th><td>\n<a class=\"external text\" href=\"https://doi.org/10.47468/CSNE.2020.e01.s07.004\" rel=\"nofollow\">10.47468/CSNE.2020.e01.s07.004</a></td></tr></tbody></table>",
+            "links": [
+                {
+                    "text": "Kalpa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kalpa_Sthana"
+                },
+                {
+                    "text": "Jimutaka Kalpa Adhyaya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Jimutaka_Kalpa_Adhyaya"
+                },
+                {
+                    "text": "Dhamargava Kalpa Adhyaya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhamargava_Kalpa_Adhyaya"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "Nidana Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Nidana_Sthana"
+                },
+                {
+                    "text": "Vimana Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Chikitsa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                },
+                {
+                    "text": "Siddhi Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Siddhi_Sthana"
+                },
+                {
+                    "text": "Deole Y.S.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Yogesh_Deole"
+                },
+                {
+                    "text": "Basisht G.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Gopal_Basisht"
+                },
+                {
+                    "text": "Charak Samhita Research, Training and Skill Development Centre",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Skill_Development_Centre"
+                },
+                {
+                    "text": "10.47468/CSNE.2020.e01.s07.004",
+                    "url": "https://doi.org/10.47468/CSNE.2020.e01.s07.004"
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Abstract",
+            "html": "<p><big><b>Abstract </b></big>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "In the chapter on pharmaceutics of Ikshvaku (Lagenaria siceraria), 45 recipes of Ikshvaku processed in various media like milk, alcohol, whey, buttermilk, oil cake, clarified butter, meat soup etc. are described. The useful parts like leaves, flower and seeds of ikshvaku are employed for emesis. A recipe with administration of seeds in an increasing dose from fifty up to maximum hundred seeds per day is described. Ikshvaku is indicated in conditions like kasa (cough), shwasa (dyspnea/asthma), chhardi (vomiting), jwara (fever), visha (toxin), swarabheda (hoarseness), peenasa (coryza), gulma (lump in abdomen), udara (abdominal swellings including ascitis), granthi (cystic swelling), galaganda (goiter), shleepada (elephantitis), pandu (anemia), kushtha (dermatosis), arochaka (dyspepsia), prameha (diabetes). Emesis induced by inhalation of powdered flower sprinkled over a garland is also described in this chapter. Drugs like Yashti, Kovidara, Karbudara, Nipa, Vidula, Bimbi, Shanapushpi, Sadapushpi, Pratyakpushpi, Bilwamoola, Mahajaalini,Jimutaka, Kritavedhana and Kutaja etc. are also incorporated along with Ikshvaku in various formulations.",
+            "html": "<p style=\"text-align:justify;\">In the chapter on pharmaceutics of <i>Ikshvaku</i> (Lagenaria siceraria), 45 recipes of <i>Ikshvaku</i> processed in various media like milk, alcohol, whey, buttermilk, oil cake, clarified butter, meat soup etc. are described. The useful parts like leaves, flower and seeds of <i>ikshvaku</i> are employed for emesis. A recipe with administration of seeds in an increasing dose from fifty up to maximum hundred seeds per day is described.<i>Ikshvaku</i> is indicated in conditions like <i>kasa</i>(cough), <i>shwasa</i> (dyspnea/asthma), <i>chhardi</i>(vomiting), <i>jwara</i>(fever), <i>visha</i>(toxin), <i>swarabheda</i>(hoarseness), <i>peenasa</i>(coryza), <i>gulma</i>(lump in abdomen), <i>udara</i>(abdominal swellings including ascitis), <i>granthi</i>(cystic swelling), <i>galaganda</i> (goiter), <i>shleepada</i> (elephantitis), <i>pandu</i>(anemia), <i>kushtha</i>(dermatosis), <i>arochaka</i>(dyspepsia), <i>prameha</i>(diabetes). Emesis induced by inhalation of powdered flower sprinkled over a garland is also described in this chapter. Drugs like <i>Yashti, Kovidara, Karbudara, Nipa, Vidula, Bimbi, Shanapushpi, Sadapushpi, Pratyakpushpi, Bilwamoola, Mahajaalini,Jimutaka, Kritavedhana</i> and <i>Kutaja</i> etc. are also incorporated along with <i>Ikshvaku</i> in various formulations. </p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Keywords : Ikshvaku , Lagenaria siceraria (Molina) Standley, Vamana , therapeutic emesis.",
+            "html": "<p><b>Keywords</b>: <i>Ikshvaku</i>, Lagenaria siceraria (Molina) Standley, <i>Vamana</i>, therapeutic emesis.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Contents",
+            "html": "<h2 id=\"mw-toc-heading\">Contents</h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ul",
+            "text": "1 Introduction 1.1 Botanical description 2 Sanskrit Text, Transliteration with English Translation 2.1 Synonyms and qualities 2.2 Indications 2.3 Various preparations 2.4 Summary 3 Tattva Vimarsha (Fundamental Principles) 4 Vidhi Vimarsha (Applied Inferences) 4.1 Pharmacological activities 4.2 Research works 4.3 Future research 5 Reference",
+            "html": "<ul>\n<li class=\"toclevel-1 tocsection-1\"><a href=\"#Introduction\"><span class=\"tocnumber\">1</span> <span class=\"toctext\">Introduction</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-2\"><a href=\"#Botanical_description\"><span class=\"tocnumber\">1.1</span> <span class=\"toctext\">Botanical  description</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-3\"><a href=\"#Sanskrit_Text,_Transliteration_with_English_Translation\"><span class=\"tocnumber\">2</span> <span class=\"toctext\">Sanskrit Text, Transliteration with English Translation</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-4\"><a href=\"#Synonyms_and_qualities\"><span class=\"tocnumber\">2.1</span> <span class=\"toctext\">Synonyms and qualities</span></a></li>\n<li class=\"toclevel-2 tocsection-5\"><a href=\"#Indications\"><span class=\"tocnumber\">2.2</span> <span class=\"toctext\">Indications</span></a></li>\n<li class=\"toclevel-2 tocsection-6\"><a href=\"#Various_preparations\"><span class=\"tocnumber\">2.3</span> <span class=\"toctext\">Various preparations</span></a></li>\n<li class=\"toclevel-2 tocsection-7\"><a href=\"#Summary\"><span class=\"tocnumber\">2.4</span> <span class=\"toctext\">Summary</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-8\"><a href=\"#Tattva_Vimarsha_(Fundamental_Principles)\"><span class=\"tocnumber\">3</span> <span class=\"toctext\">Tattva Vimarsha (Fundamental Principles)</span></a></li>\n<li class=\"toclevel-1 tocsection-9\"><a href=\"#Vidhi_Vimarsha_(Applied_Inferences)\"><span class=\"tocnumber\">4</span> <span class=\"toctext\">Vidhi Vimarsha (Applied Inferences)</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-10\"><a href=\"#Pharmacological_activities\"><span class=\"tocnumber\">4.1</span> <span class=\"toctext\">Pharmacological activities</span></a></li>\n<li class=\"toclevel-2 tocsection-11\"><a href=\"#Research_works\"><span class=\"tocnumber\">4.2</span> <span class=\"toctext\">Research works</span></a></li>\n<li class=\"toclevel-2 tocsection-12\"><a href=\"#Future_research\"><span class=\"tocnumber\">4.3</span> <span class=\"toctext\">Future research</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-13\"><a href=\"#Reference\"><span class=\"tocnumber\">5</span> <span class=\"toctext\">Reference</span></a></li>\n</ul>",
+            "links": [
+                {
+                    "text": "1 Introduction",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#Introduction"
+                },
+                {
+                    "text": "1.1 Botanical description",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#Botanical_description"
+                },
+                {
+                    "text": "2 Sanskrit Text, Transliteration with English Translation",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#Sanskrit_Text,_Transliteration_with_English_Translation"
+                },
+                {
+                    "text": "2.1 Synonyms and qualities",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#Synonyms_and_qualities"
+                },
+                {
+                    "text": "2.2 Indications",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#Indications"
+                },
+                {
+                    "text": "2.3 Various preparations",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#Various_preparations"
+                },
+                {
+                    "text": "2.4 Summary",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#Summary"
+                },
+                {
+                    "text": "3 Tattva Vimarsha (Fundamental Principles)",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#Tattva_Vimarsha_(Fundamental_Principles)"
+                },
+                {
+                    "text": "4 Vidhi Vimarsha (Applied Inferences)",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#Vidhi_Vimarsha_(Applied_Inferences)"
+                },
+                {
+                    "text": "4.1 Pharmacological activities",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#Pharmacological_activities"
+                },
+                {
+                    "text": "4.2 Research works",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#Research_works"
+                },
+                {
+                    "text": "4.3 Future research",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#Future_research"
+                },
+                {
+                    "text": "5 Reference",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#Reference"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "1 Introduction 1.1 Botanical description",
+                    "links": [
+                        {
+                            "text": "1 Introduction",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#Introduction"
+                        },
+                        {
+                            "text": "1.1 Botanical description",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#Botanical_description"
+                        }
+                    ]
+                },
+                {
+                    "text": "2 Sanskrit Text, Transliteration with English Translation 2.1 Synonyms and qualities 2.2 Indications 2.3 Various preparations 2.4 Summary",
+                    "links": [
+                        {
+                            "text": "2 Sanskrit Text, Transliteration with English Translation",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#Sanskrit_Text,_Transliteration_with_English_Translation"
+                        },
+                        {
+                            "text": "2.1 Synonyms and qualities",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#Synonyms_and_qualities"
+                        },
+                        {
+                            "text": "2.2 Indications",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#Indications"
+                        },
+                        {
+                            "text": "2.3 Various preparations",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#Various_preparations"
+                        },
+                        {
+                            "text": "2.4 Summary",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#Summary"
+                        }
+                    ]
+                },
+                {
+                    "text": "3 Tattva Vimarsha (Fundamental Principles)",
+                    "links": [
+                        {
+                            "text": "3 Tattva Vimarsha (Fundamental Principles)",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#Tattva_Vimarsha_(Fundamental_Principles)"
+                        }
+                    ]
+                },
+                {
+                    "text": "4 Vidhi Vimarsha (Applied Inferences) 4.1 Pharmacological activities 4.2 Research works 4.3 Future research",
+                    "links": [
+                        {
+                            "text": "4 Vidhi Vimarsha (Applied Inferences)",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#Vidhi_Vimarsha_(Applied_Inferences)"
+                        },
+                        {
+                            "text": "4.1 Pharmacological activities",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#Pharmacological_activities"
+                        },
+                        {
+                            "text": "4.2 Research works",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#Research_works"
+                        },
+                        {
+                            "text": "4.3 Future research",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#Future_research"
+                        }
+                    ]
+                },
+                {
+                    "text": "5 Reference",
+                    "links": [
+                        {
+                            "text": "5 Reference",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#Reference"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Introduction",
+            "html": "<h2><span class=\"mw-headline\" id=\"Introduction\">Introduction</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "Ikshvaku is referred at various places in Charaka Samhita by synonyms like Lamba, Katukalabu, Tumbi, Pindphala and Phalini . It is indicated in Kasa (cough), Shwasa (dyspnea/asthma), Visha (toxins), Chhardi (vomiting), Jwara (fever) and Pratamyata (blackouts). The most potent and useful part employed in recipes are leaves (collected before flowering), fruits and seeds. Two more synonyms - Katutumbi and Mahaphala are quoted for Ikshvaku with hridya ( cardio-protective) and vishahara ( anti-poisonous) properties. [ 1 ]",
+            "html": "<p><i>Ikshvaku</i> is referred at various places in <a class=\"mw-redirect\" href=\"/index.php?title=Charaka_Samhita\" title=\"Charaka Samhita\">Charaka Samhita</a> by synonyms like <i>Lamba, Katukalabu, Tumbi, Pindphala</i> and <i>Phalini</i>. It is indicated in <i>Kasa</i>(cough), <i>Shwasa</i>(dyspnea/asthma), <i>Visha</i>(toxins), <i>Chhardi</i>(vomiting), <i>Jwara</i>(fever) and <i>Pratamyata</i>(blackouts). The most potent and useful part employed in recipes are leaves (collected before flowering), fruits and seeds. Two more synonyms - <i>Katutumbi</i> and <i>Mahaphala</i> are quoted for <i>Ikshvaku</i> with <i>hridya</i>( cardio-protective) and <i>vishahara</i>( anti-poisonous) properties. <sup class=\"reference\" id=\"cite_ref-1\"><a href=\"#cite_note-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "Charaka Samhita",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Charaka_Samhita"
+                },
+                {
+                    "text": "[ 1 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#cite_note-1"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "In a samabhasha (discussion) referred in Siddhi Sthana , King Vamaka opined that Katutumbi is the best emetic and capable of eliminating dosha . Lord Atreya concluded that Katutumbi is useful for the treatment of Prameha (urinary diseases including diabetes), however Madanaphala is superior, because it can be prescribed in various other disease conditions too.[Cha. Sa. Siddhi Sthana 11/5-6]",
+            "html": "<p>In a <i>samabhasha</i> (discussion) referred in <a href=\"/index.php?title=Siddhi_Sthana\" title=\"Siddhi Sthana\">Siddhi Sthana</a>, King Vamaka opined that <i>Katutumbi</i> is the best emetic and capable of eliminating <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a>. Lord Atreya concluded that <i>Katutumbi</i> is useful for the treatment of <i>Prameha</i> (urinary diseases including diabetes), however <i>Madanaphala</i> is superior, because it can be prescribed in various other disease conditions too.[Cha. Sa. <a href=\"/index.php?title=Siddhi_Sthana\" title=\"Siddhi Sthana\">Siddhi Sthana</a> 11/5-6]\n</p>",
+            "links": [
+                {
+                    "text": "Siddhi Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Siddhi_Sthana"
+                },
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "Siddhi Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Siddhi_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Rajanighantu mentioned several varieties of Tumbi like Kumbha tumbi, Ksheeratumbi, Bhutumbi etc. whereas Bhavamishra identified two varieties of Tumbi , namely Madhura and Latatumbi .",
+            "html": "<p>Rajanighantu mentioned several varieties of <i>Tumbi</i> like <i>Kumbha tumbi, Ksheeratumbi, Bhutumbi</i> etc. whereas Bhavamishra identified two varieties of <i>Tumbi</i>, namely <i>Madhura</i> and <i>Latatumbi</i>.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "figure",
+            "text": "",
+            "html": "<figure class=\"mw-default-size\" typeof=\"mw:File/Thumb\"><a class=\"mw-file-description\" href=\"/index.php?title=File:Ikshvaku-Intro.jpg\"><img class=\"mw-file-element\" decoding=\"async\" height=\"289\" src=\"/images/thumb/0/08/Ikshvaku-Intro.jpg/300px-Ikshvaku-Intro.jpg\" srcset=\"/images/0/08/Ikshvaku-Intro.jpg 1.5x\" width=\"300\"/></a><figcaption></figcaption></figure>",
+            "links": [
+                {
+                    "text": "",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=File:Ikshvaku-Intro.jpg"
+                }
+            ],
+            "images": [
+                {
+                    "url": "https://www.carakasamhitaonline.com/images/thumb/0/08/Ikshvaku-Intro.jpg/300px-Ikshvaku-Intro.jpg",
+                    "alt": "",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Latin name : Lagenaria vulgaris",
+            "html": "<p><b>Latin name</b>: Lagenaria vulgaris\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Synonym : Cucurbita siceraria Molina; Lagenaria vulgaris Ser., L.Leucantha (Duch.) Rusby.",
+            "html": "<p><b>Synonym</b>: \tCucurbita siceraria Molina; Lagenaria vulgaris Ser., L.Leucantha (Duch.) Rusby.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Family : Cucurbitaceae",
+            "html": "<p><b>Family</b>:\tCucurbitaceae\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Sanskrit name: Ikshwaku",
+            "html": "<p>Sanskrit name: Ikshwaku \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Hindi name: Kasvi Lauki, Kadva Tumba, Kadva Dudhya",
+            "html": "<p>Hindi name:  Kasvi Lauki, Kadva Tumba, Kadva Dudhya\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "English name: Bitter Bottle Gourd, Bottle Gourd",
+            "html": "<p>English name: Bitter Bottle Gourd, Bottle Gourd\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Synonym : Katu-tumbi, Tumbini, Ikshvaku, Pindaphala, Mahaphala, Katukalabu, Tiktalabu, Tiktabeeja, Tumbi, Alabu",
+            "html": "<p><b>Synonym</b>:\tKatu-tumbi, Tumbini, Ikshvaku, Pindaphala, Mahaphala, Katukalabu, Tiktalabu, Tiktabeeja, \t\t\tTumbi, Alabu\t\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Properties :",
+            "html": "<p><b>Properties</b>:\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "ul",
+            "text": "Rasa – Tikta Guna – Laghu Veerya – Sheeta Vipaka – Katu",
+            "html": "<ul><li>Rasa – Tikta</li>\n<li>Guna – Laghu</li>\n<li>Veerya – Sheeta</li>\n<li>Vipaka – Katu</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Rasa – Tikta",
+                    "links": []
+                },
+                {
+                    "text": "Guna – Laghu",
+                    "links": []
+                },
+                {
+                    "text": "Veerya – Sheeta",
+                    "links": []
+                },
+                {
+                    "text": "Vipaka – Katu",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Pharmacological actions – Pittahara, Hridya",
+            "html": "<p><b>Pharmacological actions</b> – Pittahara, Hridya\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Indications – Jwara, Kasa",
+            "html": "<p><b>Indications</b> – Jwara, Kasa\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Therapeutic uses [ 2 ] –",
+            "html": "<p><b>Therapeutic uses<sup class=\"reference\" id=\"cite_ref-2\"><a href=\"#cite_note-2\"><span class=\"cite-bracket\">[</span>2<span class=\"cite-bracket\">]</span></a></sup></b> – \n</p>",
+            "links": [
+                {
+                    "text": "[ 2 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#cite_note-2"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "ul",
+            "text": "Ashmari (Calculi) – The seed powder mixed with honey and sheep’s milk administered for 7 days dissolves Ashmari (Calculus). Pradara (Menorrhagia) – The fruit powder mixed with honey and sugar relieves",
+            "html": "<ul><li>Ashmari (Calculi) – The seed powder mixed with honey and sheep’s milk administered for 7 days dissolves Ashmari (Calculus).</li>\n<li>Pradara (Menorrhagia) – The fruit powder mixed with honey and sugar relieves</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Ashmari (Calculi) – The seed powder mixed with honey and sheep’s milk administered for 7 days dissolves Ashmari (Calculus).",
+                    "links": []
+                },
+                {
+                    "text": "Pradara (Menorrhagia) – The fruit powder mixed with honey and sugar relieves",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Pradara.",
+            "html": "<p>Pradara. \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "ul",
+            "text": "Padasphutana (Cracks on sole) – The fruit pulp applied externally for 3 days relieves padasphutana.",
+            "html": "<ul><li>Padasphutana (Cracks on sole) – The fruit pulp applied externally for 3 days relieves padasphutana.</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Padasphutana (Cracks on sole) – The fruit pulp applied externally for 3 days relieves padasphutana.",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Parts used – Fruit, Leaf, Root, Seed",
+            "html": "<p><b>Parts used</b> – Fruit, Leaf, Root, Seed\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Preparations & Dosage – Juice 10-20 ml.",
+            "html": "<p><b>Preparations &amp; Dosage</b> – Juice 10-20 ml.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Botanical description",
+            "html": "<h3><span class=\"mw-headline\" id=\"Botanical_description\">Botanical  description</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Tendrillar climber, upto 10m long; stem soft, hairy, angular. Leaves alternate, petiolate, broadly ovate – suborbicular, 3-5 angled or shortly lobed and dentate with cordate base, 15-20 cm across; petiole with two glands at the part of joining lamina. Flowers monoecious, solitary, axillary; calyx tube of male green, narrowly campanulate with linear, small lobes; corolla of 5 oblong – obovate, white petals about 4-5 cm long and 2.5 cm broad; stamens 3, anthers slightly fused, one of them 1- celled and the others 2- locular; female flowers with densely softly hairy ovary. Fruit of various shapes on different plants, very long and club- shaped, sometimes reaching upto 75 cm long and 15-20 cm diameter at broader end, or bottle- shaped/ dumbbell - shaped and broadly obovoid shape, the broader end measuring upto 25 cm across or more. Seeds numerous, oblong in outline, about 1.3* 0.7 cm, broader and somewhat obcordate at apex [ 3 ] .",
+            "html": "<p>Tendrillar climber, upto 10m long; stem soft, hairy, angular. Leaves alternate, petiolate, broadly ovate – suborbicular, 3-5 angled or shortly lobed and dentate with cordate base, 15-20 cm across; petiole with two glands at the part of joining lamina. Flowers monoecious, solitary, axillary; calyx tube of male green, narrowly campanulate with linear, small lobes; corolla of 5 oblong – obovate, white petals about 4-5 cm long and 2.5 cm broad; stamens 3, anthers slightly fused, one of them 1- celled and the others 2- locular; female flowers with densely softly hairy ovary. Fruit of various shapes on different plants, very long and club- shaped, sometimes reaching upto 75 cm long and 15-20 cm diameter at broader end, or bottle- shaped/ dumbbell -  shaped and broadly obovoid shape, the broader end measuring upto 25 cm across or more. Seeds numerous, oblong in outline, about 1.3* 0.7 cm, broader and somewhat obcordate at apex<sup class=\"reference\" id=\"cite_ref-PC_3-0\"><a href=\"#cite_note-PC-3\"><span class=\"cite-bracket\">[</span>3<span class=\"cite-bracket\">]</span></a></sup>.\n</p>",
+            "links": [
+                {
+                    "text": "[ 3 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#cite_note-PC-3"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Flowering – October- December",
+            "html": "<p><b>Flowering</b> – October- December\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Fruiting – March- June",
+            "html": "<p><b>Fruiting</b> – March- June\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Distribution – Wild Lagenaria siceraria is generally met with in and around forest villages, almost throughout India. In this form, both the fruit (unripe and ripe) and the root are bitter to taste and are supposed to be used in Indian systems of Medicine. The non – bitter form with edible, unripe fruit is cultivated and is available throughout the year for consumption. The morphological description, however, matches for both the forms [ 3 ]",
+            "html": "<p><b>Distribution</b> – Wild Lagenaria siceraria is generally met with in and around forest villages, almost throughout India. In this form, both the fruit (unripe and ripe) and the root are bitter to taste and are supposed to be used in Indian systems of Medicine. The non – bitter form with edible, unripe fruit is cultivated and is available throughout the year for consumption. The morphological description, however, matches for both the forms<sup class=\"reference\" id=\"cite_ref-PC_3-1\"><a href=\"#cite_note-PC-3\"><span class=\"cite-bracket\">[</span>3<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 3 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#cite_note-PC-3"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The climber is distributed almost throughout the Tropics in the world.",
+            "html": "<p>The climber is distributed almost throughout the Tropics in the world.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Chemical constituent : Bitter fruit yield 0.013% of a solid foam containing cucurbitacin B, D, G and H, mainly cucurbitacin B. These bitter principles are present in the fruit as aglycon. Leaves contain cucurbitacin B, and roots cucurbitacins B, D and traces of E. The fruit juice contains beta-glycosidase (elaterase). [ 4 ] C.P.Khare, Indian Medicinal Plant, an Illustrated Dictionary. P 358</ref>\nAccording to Thakur Balwant Singh, there are two varieties, sweet and bitter used as vegetable and in medicine respectively. The fruit deprived of its pulp and seeds used an instrument for blood-letting [ 5 ]",
+            "html": "<p><b>Chemical constituent</b>: Bitter fruit yield 0.013% of a solid foam containing cucurbitacin B, D, G and H, mainly cucurbitacin B. These bitter principles are present in the fruit as aglycon. Leaves contain cucurbitacin B, and roots cucurbitacins B, D and traces of E. The fruit juice contains beta-glycosidase (elaterase).<sup class=\"reference\" id=\"cite_ref-4\"><a href=\"#cite_note-4\"><span class=\"cite-bracket\">[</span>4<span class=\"cite-bracket\">]</span></a></sup>C.P.Khare, Indian Medicinal Plant, an Illustrated Dictionary. P 358&lt;/ref&gt;\nAccording to Thakur Balwant Singh, there are two varieties, sweet and bitter used as vegetable and in medicine respectively. The fruit deprived of its pulp and seeds used an instrument for blood-letting<sup class=\"reference\" id=\"cite_ref-5\"><a href=\"#cite_note-5\"><span class=\"cite-bracket\">[</span>5<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 4 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#cite_note-4"
+                },
+                {
+                    "text": "[ 5 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#cite_note-5"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Action : The roots are emetics, purgative and anti-inflammatory. They are useful in constipation and inflammation.\nThe leaves are bitter, refrigerant, emetic, purgative, anodyne, expectorant, depurative and febrifuge. They are useful in cough, bronchitis, asthma, fever, inflammation, leprosy, skin disease, jaundice, decaying teeth, cephalagia, constipation, flatulence and baldness.",
+            "html": "<p><b>Action</b>: The roots are emetics, purgative and anti-inflammatory. They are useful in constipation and inflammation.\nThe leaves are bitter, refrigerant, emetic, purgative, anodyne, expectorant, depurative and febrifuge. They are useful in cough, bronchitis, asthma, fever, inflammation, leprosy, skin disease, jaundice, decaying teeth, cephalagia, constipation, flatulence and baldness. \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Flowers are cooling and useful in ophthalmia and odontalgia.",
+            "html": "<p>Flowers are cooling and useful in ophthalmia and odontalgia. \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The fruits are refrigerant, emetics, purgative, anti-inflammatory, depurative, expectorant, diuretic and febrifuge. They are useful in burning of the feet, cough, bronchitis, inflammation, skin diseases, leprosy, fainting, night blindness, Apachi, delirium, rhinitis, oedema and fever.",
+            "html": "<p>The fruits are refrigerant, emetics, purgative, anti-inflammatory, depurative, expectorant, diuretic and febrifuge. They are useful in burning of the feet, cough, bronchitis, inflammation, skin diseases, leprosy, fainting, night blindness, Apachi, delirium, rhinitis, oedema and fever.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The seeds are purgative, diuretic, cooling and useful in cough, fever, burning micturition, otalgia, inflammations, dropsy and haemorrhoids. [ 6 ]",
+            "html": "<p>The seeds are purgative, diuretic, cooling and useful in cough, fever, burning micturition, otalgia, inflammations, dropsy and haemorrhoids.<sup class=\"reference\" id=\"cite_ref-6\"><a href=\"#cite_note-6\"><span class=\"cite-bracket\">[</span>6<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 6 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#cite_note-6"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Sanskrit Text, Transliteration with English Translation",
+            "html": "<h2><span id=\"Sanskrit_Text.2C_Transliteration_with_English_Translation\"></span><span class=\"mw-headline\" id=\"Sanskrit_Text,_Transliteration_with_English_Translation\">Sanskrit Text, Transliteration with English Translation</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "अथात इक्ष्वाकुकल्पं व्याख्यास्यामः||१||",
+            "html": "<p>अथात इक्ष्वाकुकल्पं व्याख्यास्यामः||१|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "इति ह स्माह भगवानात्रेयः||२||",
+            "html": "<p>इति ह स्माह भगवानात्रेयः||२|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "athāta ikṣvākukalpaṁ vyākhyāsyāmaḥ||1||",
+            "html": "<p>athāta ikṣvākukalpaṁ vyākhyāsyāmaḥ||1|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "iti ha smāha bhagavānātrēyaḥ||2||",
+            "html": "<p>iti ha smāha bhagavānātrēyaḥ||2|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "athAta ikShvAkukalpaM vyAkhyAsyAmaH||1||",
+            "html": "<p>athAta ikShvAkukalpaM vyAkhyAsyAmaH||1|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "iti ha smAha bhagavAnAtreyaH||2||",
+            "html": "<p>iti ha smAha bhagavAnAtreyaH||2|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Now we shall expound the chapter \"Ikshvaku kalpa\"(Pharmaceutical preparations of Ikshvaku). Thus said Lord Atreya. [1-2]",
+            "html": "<p>Now we shall expound the chapter \"Ikshvaku kalpa\"(Pharmaceutical preparations of Ikshvaku). Thus said Lord Atreya. [1-2]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Note: Ikshvaku is bottle gourd.",
+            "html": "<p>Note: Ikshvaku is bottle gourd.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Synonyms and qualities",
+            "html": "<h3><span class=\"mw-headline\" id=\"Synonyms_and_qualities\">Synonyms and qualities</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "सिद्धं वक्ष्याम्यथेक्ष्वाकुकल्पं येषां प्रशस्यते|३|",
+            "html": "<p>सिद्धं वक्ष्याम्यथेक्ष्वाकुकल्पं येषां प्रशस्यते|३|\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "लम्बाऽथ कटुकालाबूस्तुम्बी पिण्डफला तथा||३||",
+            "html": "<p>लम्बाऽथ कटुकालाबूस्तुम्बी पिण्डफला तथा||३|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "इक्ष्वाकुः फलिनी चैव प्रोच्यते तस्य कल्पना|४|",
+            "html": "<p>इक्ष्वाकुः फलिनी चैव प्रोच्यते तस्य कल्पना|४|  \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "siddhaṁ vakṣyāmyathēkṣvākukalpaṁ yēṣāṁ praśasyatē|3|",
+            "html": "<p>siddhaṁ vakṣyāmyathēkṣvākukalpaṁ yēṣāṁ praśasyatē|3|\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "lambā'tha kaṭukālābūstumbī piṇḍaphalā tathā||3||",
+            "html": "<p>lambā'tha kaṭukālābūstumbī piṇḍaphalā tathā||3|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "ikṣvākuḥ phalinī caiva prōcyatē tasya kalpanā|4|",
+            "html": "<p>ikṣvākuḥ phalinī caiva prōcyatē tasya kalpanā|4| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "siddhaM vakShyAmyathekShvAkukalpaM yeShAM prashasyate|3|",
+            "html": "<p>siddhaM vakShyAmyathekShvAkukalpaM yeShAM prashasyate|3|\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "lambA~atha kaTukAlAbUstumbI piNDaphalA tathA||3||",
+            "html": "<p>lambA~atha kaTukAlAbUstumbI piNDaphalA tathA||3|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "ikShvAkuH phalinI caiva procyate tasya kalpanA|4|",
+            "html": "<p>ikShvAkuH phalinI caiva procyate tasya kalpanA|4| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "I shall now describe the proven preparation of the bottle gourd and the type of the patient for whom it is recommended. The bottle gourd is also known by the names of lamba ,katukalabu, thumbi, pindaphala, ikshvaku and phalini . [3-4]",
+            "html": "<p>I shall now describe the proven preparation of the bottle gourd and the type of the patient for whom it is recommended. The bottle gourd is also known by the names of <i>lamba ,katukalabu, thumbi, pindaphala, ikshvaku</i> and <i>phalini</i>. [3-4]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Indications",
+            "html": "<h3><span class=\"mw-headline\" id=\"Indications\">Indications</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "कासश्वासविषच्छर्दिज्वरार्ते कफकर्षिते||४||",
+            "html": "<p>कासश्वासविषच्छर्दिज्वरार्ते कफकर्षिते||४|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "प्रताम्यति नरे चैव वमनार्थं तदिष्यते|५|",
+            "html": "<p>प्रताम्यति नरे चैव वमनार्थं तदिष्यते|५| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "kāsaśvāsaviṣacchardijvarārtē kaphakarṣitē||4||",
+            "html": "<p>kāsaśvāsaviṣacchardijvarārtē kaphakarṣitē||4|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "pratāmyati narē caiva vamanārthaṁ tadiṣyatē|5|",
+            "html": "<p>pratāmyati narē caiva vamanārthaṁ tadiṣyatē|5|\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "kAsashvAsaviShacchardijvarArte kaphakarShite||4||",
+            "html": "<p>kAsashvAsaviShacchardijvarArte kaphakarShite||4|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "pratAmyati nare caiva vamanArthaM tadiShyate|5|",
+            "html": "<p>pratAmyati nare caiva vamanArthaM tadiShyate|5|\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "It is recommended for purpose of emesis in patients suffering from cough, dyspnea, poisoning, vomiting and fever as well as in patients reduced due to diseases of kapha or fainting. [4]",
+            "html": "<p>It is recommended for purpose of emesis in patients suffering from cough, dyspnea, poisoning, vomiting and fever as well as in patients reduced due to diseases of <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a> or fainting. [4]\n</p>",
+            "links": [
+                {
+                    "text": "kapha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kapha"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Various preparations",
+            "html": "<h3><span class=\"mw-headline\" id=\"Various_preparations\">Various preparations</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "अपुष्पस्य प्रवालानां मुष्टिं प्रादेशसम्मितम्||५||",
+            "html": "<p>अपुष्पस्य प्रवालानां मुष्टिं प्रादेशसम्मितम्||५|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "क्षीरप्रस्थे शृतं दद्यात् पित्तोद्रिक्ते कफज्वरे| पुष्पादिषु च चत्वारः क्षीरे जीमूतके यथा||६||",
+            "html": "<p>क्षीरप्रस्थे शृतं दद्यात् पित्तोद्रिक्ते कफज्वरे| <br/>\nपुष्पादिषु च चत्वारः क्षीरे जीमूतके यथा||६|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "योगा हरितपाण्डूनां सुरामण्डेन पञ्चमः| फलस्वरसभागं च त्रिगुणक्षीरसाधितम्||७||",
+            "html": "<p>योगा हरितपाण्डूनां सुरामण्डेन पञ्चमः| <br/>\nफलस्वरसभागं च त्रिगुणक्षीरसाधितम्||७|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "उरःस्थिते कफे दद्यात् स्वरभेदे च पीनसे| जीर्णे मध्योद्धृते क्षीरं प्रक्षिपेत्तद्यदा दधि||८||",
+            "html": "<p>उरःस्थिते कफे दद्यात् स्वरभेदे च पीनसे| <br/>\nजीर्णे मध्योद्धृते क्षीरं  प्रक्षिपेत्तद्यदा दधि||८|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "जातं स्यात् सकफे कासे श्वासे वम्यां च तत् पिबेत्| अजाक्षीरेण बीजानि भावयेत् पाययेत् च||९||",
+            "html": "<p>जातं स्यात् सकफे कासे श्वासे वम्यां च तत् पिबेत्| <br/>\nअजाक्षीरेण बीजानि भावयेत्  पाययेत् च||९|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "विषगुल्मोदरग्रन्थिगण्डेषु श्लीपदेषु च| मस्तुना वा फलान्मध्यं पाण्डुकुष्ठविषार्दितः||१०||",
+            "html": "<p>विषगुल्मोदरग्रन्थिगण्डेषु श्लीपदेषु च| <br/>\nमस्तुना वा फलान्मध्यं पाण्डुकुष्ठविषार्दितः||१०|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "तेन तक्रं विपक्वं वा सक्षौद्रलवणं पिबेत्|११|",
+            "html": "<p>तेन तक्रं विपक्वं वा सक्षौद्रलवणं पिबेत्|११| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "apuṣpasya pravālānāṁ muṣṭiṁ prādēśasammitam||5||",
+            "html": "<p>apuṣpasya pravālānāṁ muṣṭiṁ prādēśasammitam||5|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "kṣīraprasthē śr̥taṁ dadyāt pittōdriktē kaphajvarē| puṣpādiṣu ca catvāraḥ kṣīrē jīmūtakē yathā||6||",
+            "html": "<p>kṣīraprasthē śr̥taṁ dadyāt pittōdriktē kaphajvarē| <br/>\npuṣpādiṣu ca catvāraḥ kṣīrē jīmūtakē yathā||6|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "yōgā haritapāṇḍūnāṁ surāmaṇḍēna pañcamaḥ| phalasvarasabhāgaṁ ca triguṇakṣīrasādhitam||7||",
+            "html": "<p>yōgā haritapāṇḍūnāṁ surāmaṇḍēna pañcamaḥ| <br/>\nphalasvarasabhāgaṁ ca triguṇakṣīrasādhitam||7|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "uraḥsthitē kaphē dadyāt svarabhēdē ca pīnasē| jīrṇē madhyōddhr̥tē kṣīraṁ prakṣipēttadyadā dadhi||8||",
+            "html": "<p>uraḥsthitē kaphē dadyāt svarabhēdē ca pīnasē| <br/>\njīrṇē madhyōddhr̥tē kṣīraṁ  prakṣipēttadyadā dadhi||8|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "jātaṁ syāt sakaphē kāsē śvāsē vamyāṁ ca tat pibēt| ajākṣīrēṇa bījāni bhāvayēt pāyayēt ca||9||",
+            "html": "<p>jātaṁ syāt sakaphē kāsē śvāsē vamyāṁ ca tat pibēt|<br/>\najākṣīrēṇa bījāni bhāvayēt  pāyayēt ca||9|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "viṣagulmōdaragranthigaṇḍēṣu ślīpadēṣu ca| mastunā vā phalānmadhyaṁ pāṇḍukuṣṭhaviṣārditaḥ||10||",
+            "html": "<p>viṣagulmōdaragranthigaṇḍēṣu ślīpadēṣu ca| <br/>\nmastunā vā phalānmadhyaṁ pāṇḍukuṣṭhaviṣārditaḥ||10|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "tēna takraṁ vipakvaṁ vā sakṣaudralavaṇaṁ pibēt|11|",
+            "html": "<p>tēna takraṁ vipakvaṁ vā sakṣaudralavaṇaṁ pibēt|11| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "apuShpasya pravAlAnAM muShTiM prAdeshasammitam||5||",
+            "html": "<p>apuShpasya pravAlAnAM muShTiM prAdeshasammitam||5|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "kShIraprasthe shRutaM dadyAt pittodrikte kaphajvare| puShpAdiShu ca catvAraH kShIre jImUtake yathA||6||",
+            "html": "<p>kShIraprasthe shRutaM dadyAt pittodrikte kaphajvare| <br/>\npuShpAdiShu ca catvAraH kShIre jImUtake yathA||6|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "yogA haritapANDUnAM surAmaNDena pa~jcamaH| phalasvarasabhAgaM ca triguNakShIrasAdhitam||7||",
+            "html": "<p>yogA haritapANDUnAM surAmaNDena pa~jcamaH| <br/>\nphalasvarasabhAgaM ca triguNakShIrasAdhitam||7|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "uraHsthite kaphe dadyAt svarabhede ca pInase| jIrNe madhyoddhRute kShIraM prakShipettadyadA dadhi||8||",
+            "html": "<p>uraHsthite kaphe dadyAt svarabhede ca pInase| <br/>\njIrNe madhyoddhRute kShIraM  prakShipettadyadA dadhi||8|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "jAtaM syAt sakaphe kAse shvAse vamyAM ca tat pibet| ajAkShIreNa bIjAni bhAvayet pAyayet ca||9||",
+            "html": "<p>jAtaM syAt sakaphe kAse shvAse vamyAM ca tat pibet| <br/>\najAkShIreNa bIjAni bhAvayet  pAyayet ca||9|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "viShagulmodaragranthigaNDeShu shlIpadeShu ca| mastunA vA phalAnmadhyaM pANDukuShThaviShArditaH||10||",
+            "html": "<p>viShagulmodaragranthigaNDeShu shlIpadeShu ca| <br/>\nmastunA vA phalAnmadhyaM pANDukuShThaviShArditaH||10|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "tena takraM vipakvaM vA sakShaudralavaNaM pibet|11|",
+            "html": "<p>tena takraM vipakvaM vA sakShaudralavaNaM pibet|11|<br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "A large fistful of the sprouts of the plant (leaves) that has not yet put forth flowers should be boiled in 64 tolas (768ml) of milk and given in the fever of the kapha type, with pitta provocation.[5]",
+            "html": "<p>A large fistful of the sprouts of the plant (leaves) that has not yet put forth flowers should be boiled in 64 <i>tolas</i> (768ml) of milk and given in the fever of the <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a> type, with <a href=\"/index.php?title=Pitta\" title=\"Pitta\">pitta</a> provocation.[5]\n</p>",
+            "links": [
+                {
+                    "text": "kapha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kapha"
+                },
+                {
+                    "text": "pitta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pitta"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "As per the description of the recipes of jimutaka in the earlier chapter, four types of milk preparations are to be made out of its flowers etc.(Milk should be prepared with its flowers, milky gruel with freshly appeared fruits, milk cream with hairy fruits, curd with non hairy one and sour curd from milk boiled with the pale green fruit).The fifth one is made by soaking green – pale fruits in suramanda . [6]",
+            "html": "<p>As per the description of the recipes of <i>jimutaka</i> in the earlier chapter, four types of milk preparations are to be made out of its flowers etc.(Milk should be prepared with its flowers, milky gruel with freshly appeared fruits, milk cream with hairy fruits, curd with non hairy one and sour curd from milk boiled with the pale green fruit).The fifth one is made by soaking green – pale fruits in <i>suramanda</i>. [6]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "One part of the expressed juice of the fruits should be boiled with three parts milk. This is to be administered in accumulation of kapha in the chest, in hoarseness of voice and chronic coryza.[7]",
+            "html": "<p>One part of the expressed juice of the fruits should be boiled with three parts milk. This is to be administered in accumulation of <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a> in the chest, in hoarseness of voice and chronic coryza.[7]\n</p>",
+            "links": [
+                {
+                    "text": "kapha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kapha"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The pulp of a ripe fruit of ikshvaku should be removed and in this shell, milk should be kept till it becomes curd. This curd should be given as potion in cough with expectoration, dyspnea and vomiting.[8]",
+            "html": "<p>The pulp of a ripe fruit of <i>ikshvaku</i> should be removed and in this shell, milk should be kept till it becomes curd. This curd should be given as potion in cough with expectoration, dyspnea and vomiting.[8]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The seeds of bottle gourd impregnated with goats milk should be taken as potion in poisoning, gulma (abdominal lump), abdominal diseases, tumors of glandular enlargement and in elephantiasis.[9]",
+            "html": "<p>The seeds of bottle gourd impregnated with goats milk should be taken as potion in poisoning, <i>gulma</i> (abdominal lump), abdominal diseases, tumors of glandular enlargement and in elephantiasis.[9]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The pulp of the bottle gourd fruit mixed with whey should be taken as potion in anemia, dermatosis and poisoning or a potion of butter milk prepared with its pulp may be taken mixed with honey and rock salt.[10]",
+            "html": "<p>The pulp of the bottle gourd fruit mixed with whey should be taken as potion in anemia, dermatosis and poisoning or a potion of butter milk prepared with its pulp may be taken mixed with honey and rock salt.[10]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The person habituated to pleasant smell should be made to vomiting by smelling a flower which has been sprinkled over with the fruit –juice and the powder of the dried flowers of the bottle gourd.[11]",
+            "html": "<p>The person habituated to pleasant smell should be made to vomiting by smelling a flower which has been sprinkled over with the fruit –juice and the powder of the dried flowers of the bottle gourd.[11]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "तुम्ब्या फलरसैः शुष्कैः सपुष्पैरवचूर्णितम्||११||",
+            "html": "<p>तुम्ब्या फलरसैः शुष्कैः सपुष्पैरवचूर्णितम्||११|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "छर्दयेन्माल्यमाघ्राय गन्धसम्पत्सुखोचितः\nभक्षयेत् फलमध्यं वा गुडेन पललेन च ||12||",
+            "html": "<p>छर्दयेन्माल्यमाघ्राय गन्धसम्पत्सुखोचितः\nभक्षयेत् फलमध्यं वा गुडेन पललेन च ||12||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "इक्ष्वाकुफलतैलं वा सिद्धं वा पूर्ववद्घृतम्|१३| |",
+            "html": "<p>इक्ष्वाकुफलतैलं वा सिद्धं वा पूर्ववद्घृतम्|१३| |\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "tumbyā phalarasaiḥ śuṣkaiḥ sapuṣpairavacūrṇitam||11||",
+            "html": "<p>tumbyā phalarasaiḥ śuṣkaiḥ sapuṣpairavacūrṇitam||11|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "chardayēnmālyamāghrāya gandhasampatsukhōcitaḥ\nbhakṣayēt phalamadhyaṁ vā guḍēna palalēna ca||12||",
+            "html": "<p>chardayēnmālyamāghrāya gandhasampatsukhōcitaḥ \nbhakṣayēt phalamadhyaṁ vā guḍēna palalēna ca||12|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "ikṣvākuphalatailaṁ vā siddhaṁ vā pūrvavadghr̥tam|13|",
+            "html": "<p>ikṣvākuphalatailaṁ vā siddhaṁ vā pūrvavadghr̥tam|13| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "tumbyA phalarasaiH shuShkaiH sapuShpairavacUrNitam||11||",
+            "html": "<p>tumbyA phalarasaiH shuShkaiH sapuShpairavacUrNitam||11|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "chardayenmAlyamAghrAya gandhasampatsukhocitaH|12|",
+            "html": "<p>chardayenmAlyamAghrAya gandhasampatsukhocitaH|12| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "bhakShayet phalamadhyaM vA guDena palalena ca||12||",
+            "html": "<p>bhakShayet phalamadhyaM vA guDena palalena ca||12|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "ikShvAkuphalatailaM vA siddhaM vA pUrvavadghRutam|13|",
+            "html": "<p>ikShvAkuphalatailaM vA siddhaM vA pUrvavadghRutam|13| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "For the purpose of easy emesis to delicate patients, the juice of pulp of the bottle gourd with dried powder of its flowers, should be used to inhale, or be eaten with jaggery and tila paste or the bottle gourd oil and ghee prepared as in the case of jimutaka ,may also be taken as an emetic.[11-13]",
+            "html": "<p>For the purpose of easy emesis to delicate patients, the juice of  pulp of the bottle gourd with dried powder of its flowers, should be used to inhale, or  be eaten with jaggery and <i>tila</i> paste or the bottle gourd oil and ghee prepared as in the case of <i>jimutaka</i> ,may also be taken as an emetic.[11-13]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "पञ्चाशद्दशवृद्धानि फलादीनां यथोत्तरम्||१३||",
+            "html": "<p>पञ्चाशद्दशवृद्धानि फलादीनां यथोत्तरम्||१३|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "पिबेद्विमृद्य बीजानि कषायेष्वाशतं पृथक्| यष्ट्याह्वकोविदाराद्यैर्मुष्टिमन्तर्नखं पिबेत्||१४||",
+            "html": "<p>पिबेद्विमृद्य बीजानि कषायेष्वाशतं पृथक्| <br/>\nयष्ट्याह्वकोविदाराद्यैर्मुष्टिमन्तर्नखं पिबेत्||१४|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "pañcāśaddaśavr̥ddhāni phalādīnāṁ yathōttaram||13||",
+            "html": "<p>pañcāśaddaśavr̥ddhāni phalādīnāṁ yathōttaram||13|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "pibēdvimr̥dya bījāni kaṣāyēṣvāśataṁ pr̥thak| yaṣṭyāhvakōvidārādyairmuṣṭimantarnakhaṁ pibēt||14||",
+            "html": "<p>pibēdvimr̥dya bījāni kaṣāyēṣvāśataṁ pr̥thak| <br/>\nyaṣṭyāhvakōvidārādyairmuṣṭimantarnakhaṁ pibēt||14|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "pa~jcAshaddashavRuddhAni phalAdInAM yathottaram||13||",
+            "html": "<p>pa~jcAshaddashavRuddhAni phalAdInAM yathottaram||13|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "pibedvimRudya bIjAni kaShAyeShvAshataM pRuthak|14|",
+            "html": "<p>pibedvimRudya bIjAni kaShAyeShvAshataM pRuthak|14| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "yaShTyAhvakovidArAdyairmuShTimantarnakhaM pibet||14||",
+            "html": "<p>yaShTyAhvakovidArAdyairmuShTimantarnakhaM pibet||14||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The seeds of the bottle gourd beginning with fifty in number and increased in each time by ten till one hundred is reached,(50,60,70,80,90,100) should be crushed and put into the decoctions of the emetic nuts ( jimutaka, ikshvaku, dhamargava, vastaka and kritavedhana ) taking each in its successive order. [13-14]",
+            "html": "<p>The seeds of the bottle gourd beginning with fifty in number and increased in each time by ten till one hundred is reached,(50,60,70,80,90,100) should be crushed and put into the decoctions of the emetic nuts  (<i>jimutaka, ikshvaku, dhamargava, vastaka</i> and <i>kritavedhana</i>) taking each in its successive order. [13-14]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Table 1: Formulations of Ikshwaku for emesis:",
+            "html": "<p><b>Table 1:  Formulations of Ikshwaku for emesis:</b>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "Successive Order",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "th",
+                        "text": "Ikshwaku seed vamaka yoga with decoction of other 6 vamaka yoga",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "1",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "50 seeds of ikshwaku + madana Phala decoction",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "2",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "60 seeds of ikshwaku + jimutaka decoction",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "3",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "70 seeds of ikshwaku + ikshwaku decoction",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "4",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "80 seeds of ikshwaku + dhamargava decoctionn",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "5",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "90 seeds of ikshwaku + indrayava (vatsaka seeds) decoction",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "6",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "100 seeds of ikshwaku + kritavedhana decoction",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ]
+            ],
+            "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th scope=\"col\">Successive Order\n</th>\n<th scope=\"col\">Ikshwaku seed vamaka yoga with  decoction of other 6 vamaka yoga\n</th></tr>\n<tr>\n<td>1\n</td>\n<td>50 seeds of ikshwaku + madana Phala decoction\n</td></tr>\n<tr>\n<td>2\n</td>\n<td>60 seeds of ikshwaku + jimutaka decoction\n</td></tr>\n<tr>\n<td>3\n</td>\n<td>70 seeds of ikshwaku + ikshwaku  decoction\n</td></tr>\n<tr>\n<td>4\n</td>\n<td>80 seeds of ikshwaku + dhamargava decoctionn\n</td></tr>\n<tr>\n<td>5\n</td>\n<td>90 seeds of ikshwaku + indrayava (vatsaka seeds) decoction\n</td></tr>\n<tr>\n<td>6\n</td>\n<td>100 seeds of ikshwaku + kritavedhana decoction\n</td></tr>\n</tbody></table>",
+            "links": []
+        },
+        {
+            "type": "p",
+            "text": "A fistful ( with inside nails) of its seeds mixed with the decoction of Yashtimadhu, Kovidara, Karburdar, Neepa, Vidula, Bimbi, Sanapushpi, Sadapushpi and Pratyakpushpi(nine drugs) may be taken for emesis.",
+            "html": "<p>A fistful ( with inside nails) of its seeds mixed with the decoction of Yashtimadhu, Kovidara, Karburdar, Neepa, Vidula, Bimbi, Sanapushpi, Sadapushpi and Pratyakpushpi(nine drugs) may be taken for emesis.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "कषायैः कोविदाराद्यैर्मात्राश्च फलवत् स्मृताः|१५|",
+            "html": "<p>कषायैः कोविदाराद्यैर्मात्राश्च  फलवत् स्मृताः|१५| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "kaṣāyaiḥ kōvidārādyairmātrāśca phalavat smr̥tāḥ|15|",
+            "html": "<p>kaṣāyaiḥ kōvidārādyairmātrāśca phalavat smr̥tāḥ|15| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "kaShAyaiH kovidArAdyairmAtrAshca phalavat smRutAH|15|",
+            "html": "<p>kaShAyaiH kovidArAdyairmAtrAshca phalavat smRutAH|15|\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Quantity and size of the pills (the pills should be prepared in the size of haritaki, vibhitaki and amalaki with the addition of drugs of kovidara group as suggested for madanaphala with the addition of any one of kovidara group of drugs used for emesis.[14]",
+            "html": "<p>Quantity and  size of the pills (the pills should be prepared in the size of <i>haritaki, vibhitaki</i> and <i>amalaki</i> with the addition of drugs of <i>kovidara</i> group as suggested for <i>madanaphala</i>  with the addition of any one of <i>kovidara</i> group of drugs used for emesis.[14]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "ul",
+            "text": "Kovidara:Bauhinia Purpurina Bauhinia variegate Bauhinia variegata",
+            "html": "<ul class=\"gallery mw-gallery-traditional\">\n<li class=\"gallerybox\" style=\"width: 155px\">\n<div class=\"thumb\" style=\"width: 150px; height: 150px;\"><span typeof=\"mw:File\"><a class=\"mw-file-description\" href=\"/index.php?title=File:Kovidara.jpg\" title=\"Kovidara:Bauhinia Purpurina\"><img alt=\"Kovidara:Bauhinia Purpurina\" class=\"mw-file-element\" decoding=\"async\" height=\"102\" src=\"/images/thumb/e/e9/Kovidara.jpg/120px-Kovidara.jpg\" srcset=\"/images/thumb/e/e9/Kovidara.jpg/180px-Kovidara.jpg 1.5x, /images/thumb/e/e9/Kovidara.jpg/240px-Kovidara.jpg 2x\" width=\"120\"/></a></span></div>\n<div class=\"gallerytext\">Kovidara:Bauhinia Purpurina</div>\n</li>\n<li class=\"gallerybox\" style=\"width: 155px\">\n<div class=\"thumb\" style=\"width: 150px; height: 150px;\"><span typeof=\"mw:File\"><a class=\"mw-file-description\" href=\"/index.php?title=File:Karbudar.jpg\" title=\"Bauhinia variegate\"><img alt=\"Bauhinia variegate\" class=\"mw-file-element\" decoding=\"async\" height=\"120\" src=\"/images/thumb/2/27/Karbudar.jpg/90px-Karbudar.jpg\" srcset=\"/images/thumb/2/27/Karbudar.jpg/135px-Karbudar.jpg 1.5x, /images/thumb/2/27/Karbudar.jpg/180px-Karbudar.jpg 2x\" width=\"90\"/></a></span></div>\n<div class=\"gallerytext\">Bauhinia variegate</div>\n</li>\n<li class=\"gallerybox\" style=\"width: 155px\">\n<div class=\"thumb\" style=\"width: 150px; height: 150px;\"><span typeof=\"mw:File\"><a class=\"mw-file-description\" href=\"/index.php?title=File:Karbudar-2.jpg\" title=\"Bauhinia variegata\"><img alt=\"Bauhinia variegata\" class=\"mw-file-element\" decoding=\"async\" height=\"76\" src=\"/images/thumb/9/9a/Karbudar-2.jpg/120px-Karbudar-2.jpg\" srcset=\"/images/thumb/9/9a/Karbudar-2.jpg/180px-Karbudar-2.jpg 1.5x, /images/thumb/9/9a/Karbudar-2.jpg/240px-Karbudar-2.jpg 2x\" width=\"120\"/></a></span></div>\n<div class=\"gallerytext\">Bauhinia variegata</div>\n</li>\n</ul>",
+            "links": [
+                {
+                    "text": "",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=File:Kovidara.jpg"
+                },
+                {
+                    "text": "",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=File:Karbudar.jpg"
+                },
+                {
+                    "text": "",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=File:Karbudar-2.jpg"
+                }
+            ],
+            "images": [
+                {
+                    "url": "https://www.carakasamhitaonline.com/images/thumb/e/e9/Kovidara.jpg/120px-Kovidara.jpg",
+                    "alt": "Kovidara:Bauhinia Purpurina",
+                    "title": ""
+                },
+                {
+                    "url": "https://www.carakasamhitaonline.com/images/thumb/2/27/Karbudar.jpg/90px-Karbudar.jpg",
+                    "alt": "Bauhinia variegate",
+                    "title": ""
+                },
+                {
+                    "url": "https://www.carakasamhitaonline.com/images/thumb/9/9a/Karbudar-2.jpg/120px-Karbudar-2.jpg",
+                    "alt": "Bauhinia variegata",
+                    "title": ""
+                }
+            ],
+            "items": [
+                {
+                    "text": "Kovidara:Bauhinia Purpurina",
+                    "links": [
+                        {
+                            "text": "",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=File:Kovidara.jpg"
+                        }
+                    ]
+                },
+                {
+                    "text": "Bauhinia variegate",
+                    "links": [
+                        {
+                            "text": "",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=File:Karbudar.jpg"
+                        }
+                    ]
+                },
+                {
+                    "text": "Bauhinia variegata",
+                    "links": [
+                        {
+                            "text": "",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=File:Karbudar-2.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "बिल्वमूलकषायेण तुम्बीबीजाञ्जलिं पचेत्||१५||",
+            "html": "<p>बिल्वमूलकषायेण तुम्बीबीजाञ्जलिं पचेत्||१५|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "पूतस्यास्य त्रयो भागाश्चतुर्थः फाणितस्य तु| सघृतो बीजभागश्च पिष्टानर्धांशिकांस्तथा ||१६||",
+            "html": "<p>पूतस्यास्य त्रयो भागाश्चतुर्थः फाणितस्य तु| <br/>\nसघृतो बीजभागश्च पिष्टानर्धांशिकांस्तथा ||१६|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "महाजालिनिजीमूतकृतवेधनवत्सकान्| तं लेहं साधयेद्दर्व्या घट्टयन्मृदुनाऽग्निना||१७||",
+            "html": "<p>महाजालिनिजीमूतकृतवेधनवत्सकान्| <br/>\nतं लेहं साधयेद्दर्व्या घट्टयन्मृदुनाऽग्निना||१७||<br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "यावत् स्यात्तन्तुमत्तोये पतितं तु न शीर्यते| तं लिहन्मात्रया लेहं प्रमथ्यां च पिबेदनु||१८||",
+            "html": "<p>यावत् स्यात्तन्तुमत्तोये पतितं तु न शीर्यते| <br/>\nतं लिहन्मात्रया लेहं प्रमथ्यां च पिबेदनु||१८|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "कल्प एषोऽग्निमन्थादौ चतुष्के पृथगुच्यते|१९|",
+            "html": "<p>कल्प एषोऽग्निमन्थादौ चतुष्के पृथगुच्यते|१९| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "bilvamūlakaṣāyēṇa tumbībījāñjaliṁ pacēt||15||",
+            "html": "<p>bilvamūlakaṣāyēṇa tumbībījāñjaliṁ pacēt||15|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "pūtasyāsya trayō bhāgāścaturthaḥ phāṇitasya tu| saghr̥tō bījabhāgaśca piṣṭānardhāṁśikāṁstathā ||16||",
+            "html": "<p>pūtasyāsya trayō bhāgāścaturthaḥ  phāṇitasya tu| <br/>\nsaghr̥tō bījabhāgaśca piṣṭānardhāṁśikāṁstathā  ||16|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "mahājālinijīmūtakr̥tavēdhanavatsakān| taṁ lēhaṁ sādhayēddarvyā ghaṭṭayanmr̥dunā'gninā||17||",
+            "html": "<p>mahājālinijīmūtakr̥tavēdhanavatsakān| <br/>\ntaṁ lēhaṁ sādhayēddarvyā ghaṭṭayanmr̥dunā'gninā||17|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "yāvat syāttantumattōyē patitaṁ tu na śīryatē| taṁ lihanmātrayā lēhaṁ pramathyāṁ ca pibēdanu||18||",
+            "html": "<p>yāvat syāttantumattōyē patitaṁ tu na śīryatē| <br/>\ntaṁ lihanmātrayā lēhaṁ pramathyāṁ ca pibēdanu||18|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "kalpa ēṣō'gnimanthādau catuṣkē pr̥thagucyatē|19|",
+            "html": "<p>kalpa ēṣō'gnimanthādau catuṣkē pr̥thagucyatē|19| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "bilvamUlakaShAyeNa tumbIbIjA~jjaliM pacet||15||",
+            "html": "<p>bilvamUlakaShAyeNa tumbIbIjA~jjaliM pacet||15|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "pUtasyAsya trayo bhAgAshcaturthaH phANitasya tu| saghRuto bIjabhAgashca piShTAnardhAMshikAMstathA ||16||",
+            "html": "<p>pUtasyAsya trayo bhAgAshcaturthaH phANitasya tu| <br/>\nsaghRuto bIjabhAgashca piShTAnardhAMshikAMstathA ||16|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "mahAjAlinijImUtakRutavedhanavatsakAn| taM lehaM sAdhayeddarvyA ghaTTayanmRudunA~agninA||17||",
+            "html": "<p>mahAjAlinijImUtakRutavedhanavatsakAn| <br/>\ntaM lehaM sAdhayeddarvyA ghaTTayanmRudunA~agninA||17|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "yAvat syAttantumattoye patitaM tu na shIryate| taM lihanmAtrayA lehaM pramathyAM ca pibedanu||18||",
+            "html": "<p>yAvat syAttantumattoye patitaM tu na shIryate| <br/>\ntaM lihanmAtrayA lehaM pramathyAM ca pibedanu||18|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "kalpa eSho~agnimanthAdau catuShke pRuthagucyate|19|",
+            "html": "<p>kalpa eSho~agnimanthAdau catuShke pRuthagucyate|19| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "One anjali (192 grams) of the bottle gourd seeds should be boiled in the decoction of the roots of bilva and strained. Take three parts of these decoction, one part of phanita (half boiled sugarcane juice), one part of ghee, half part of each of the pastes of the seeds of sponge gourd, bristly luffa and kurchi . This should be prepared into a linctus on a gentle fire stirring the stuff with a ladle till it has obtained the consistency of forming threads which do not snap when put into water .This linctus should be taken in proper dose followed by a potion of the digestive stimulant decoction. Similarly, linctus recipes of ikshvaku seeds can be prepared with the decoction of roots of agnimantha, shyonaka, patala and gambhari . [15-18]",
+            "html": "<p>One <i>anjali</i> (192 grams) of the bottle gourd seeds should be boiled in the decoction of the roots of <i>bilva</i> and strained. Take three parts of these decoction, one part of <i>phanita</i> (half boiled sugarcane juice), one part of ghee, half part of each of the pastes of the seeds of sponge gourd, bristly luffa and <i>kurchi</i>. This should be prepared into a linctus on a gentle fire stirring the stuff with a ladle till it has obtained the consistency of forming threads which do not snap when put into water .This linctus should be taken in proper dose followed by a potion of the digestive stimulant decoction. Similarly, linctus recipes of <i>ikshvaku</i> seeds can be prepared with the decoction of roots of <i>agnimantha, shyonaka, patala</i> and <i>gambhari</i>. [15-18]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "शक्तुभिर्वा पिबेन्मन्थं तुम्बीस्वरसभावितैः||१९||",
+            "html": "<p>शक्तुभिर्वा पिबेन्मन्थं तुम्बीस्वरसभावितैः||१९|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "कफजेऽथ ज्वरे कासे कण्ठरोगेष्वरोचके| गुल्मे मेहे प्रसेके च कल्कं मांसरसैः पिबेत्॥ २०॥",
+            "html": "<p>कफजेऽथ ज्वरे कासे कण्ठरोगेष्वरोचके|<br/>\nगुल्मे मेहे प्रसेके च कल्कं मांसरसैः पिबेत्॥ २०॥<br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "नरः साधु वमत्येवं न च दौर्बल्यमश्नुते।",
+            "html": "<p>नरः साधु वमत्येवं न च दौर्बल्यमश्नुते।<br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "śaktubhirvā pibēnmanthaṁ tumbīsvarasabhāvitaiḥ| kaphajē'tha jvarē kāsē kaṇṭharōgēṣvarōcakē || 19||",
+            "html": "<p>śaktubhirvā pibēnmanthaṁ tumbīsvarasabhāvitaiḥ| <br/>\nkaphajē'tha jvarē kāsē kaṇṭharōgēṣvarōcakē || 19||<br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "gulmē mēhē prasēkē ca kalkaṁ māṁsarasaiḥ pibēt| naraḥ sādhu vamatyēvaṁ na ca daurbalyamaśnutē||20||",
+            "html": "<p>gulmē mēhē prasēkē ca kalkaṁ māṁsarasaiḥ pibēt| <br/>\nnaraḥ sādhu vamatyēvaṁ na ca daurbalyamaśnutē||20||<br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "shaktubhirvA pibenmanthaM tumbIsvarasabhAvitaiH||19||",
+            "html": "<p>shaktubhirvA pibenmanthaM tumbIsvarasabhAvitaiH||19||<br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "kaphaje~atha jvare kAse kaNTharogeShvarocake|20|",
+            "html": "<p>kaphaje~atha jvare kAse kaNTharogeShvarocake|20| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "gulme mehe praseke ca kalkaM mAMsarasaiH pibet| naraH sAdhu vamatyevaM na ca daurbalyamashnute||20||",
+            "html": "<p>gulme mehe  praseke ca kalkaM mAMsarasaiH pibet| <br/>\nnaraH sAdhu vamatyevaM na ca daurbalyamashnute||20|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The demulcent drink with the extracted juice of the bottle gourd and saktu (roasted paddy powder) should be taken as potion in fever due to kapha , cough, throat diseases and anorexia. [19]",
+            "html": "<p>The demulcent drink with the extracted juice of the bottle gourd and <i>saktu</i> (roasted paddy powder) should be taken as potion in fever due to <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a>, cough, throat diseases and anorexia. [19]\n</p>",
+            "links": [
+                {
+                    "text": "kapha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kapha"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "A portion of the paste of the bottle gourd seeds mixed with meat soup should be taken in gulma, meha and praseka . By this, person vomits well without getting exhausted. [20]",
+            "html": "<p>A portion of the paste of the bottle gourd seeds mixed with meat soup should be taken in <i>gulma, meha</i> and <i>praseka</i>. By this, person vomits well without getting exhausted. [20]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Summary",
+            "html": "<h3><span class=\"mw-headline\" id=\"Summary\">Summary</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "तत्र श्लोकाः-",
+            "html": "<p>तत्र श्लोकाः- <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "पयस्यष्टौ सुरामण्ड-मस्तु-तक्रेषु च त्रयः| घ्रेयं सपललं तैलं वर्धमानाः फलेषु षट्||२१||",
+            "html": "<p>पयस्यष्टौ सुरामण्ड-मस्तु-तक्रेषु च त्रयः| <br/>\nघ्रेयं सपललं तैलं वर्धमानाः फलेषु षट्||२१|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "घृतमेकं कषायेषु नवान्ये मधुकादिषु| अष्टौ वर्तिक्रिया लेहाः पञ्च मन्थो रसस्तथा||२२||",
+            "html": "<p>घृतमेकं कषायेषु नवान्ये मधुकादिषु| <br/>\nअष्टौ वर्तिक्रिया लेहाः पञ्च मन्थो  रसस्तथा||२२||<br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "योगा इक्ष्वाकुकल्पे ते चत्वारिंशच्च पञ्च च| उक्ता महर्षिणा सम्यक् प्रजानां हितकाम्यया||२३||",
+            "html": "<p>योगा इक्ष्वाकुकल्पे  ते चत्वारिंशच्च पञ्च च| <br/>\nउक्ता महर्षिणा सम्यक् प्रजानां हितकाम्यया||२३|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "tatra ślōkāḥ-",
+            "html": "<p>tatra ślōkāḥ- <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "payasyaṣṭau surāmaṇḍa-mastu-takrēṣu ca trayaḥ| ghrēyaṁ sapalalaṁ tailaṁ vardhamānāḥ phalēṣu ṣaṭ||21||",
+            "html": "<p>payasyaṣṭau surāmaṇḍa-mastu-takrēṣu ca trayaḥ| <br/>\nghrēyaṁ sapalalaṁ tailaṁ vardhamānāḥ phalēṣu ṣaṭ||21|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "ghr̥tamēkaṁ kaṣāyēṣu navānyē madhukādiṣu| aṣṭau vartikriyā lēhāḥ pañca manthō rasastathā||22||",
+            "html": "<p>ghr̥tamēkaṁ kaṣāyēṣu navānyē madhukādiṣu| <br/>\naṣṭau vartikriyā lēhāḥ pañca manthō rasastathā||22|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "yōgā ikṣvākukalpē tē catvāriṁśacca pañca ca| uktā maharṣiṇā samyak prajānāṁ hitakāmyayā||23||",
+            "html": "<p>yōgā ikṣvākukalpē tē catvāriṁśacca pañca ca| <br/>\nuktā maharṣiṇā samyak prajānāṁ hitakāmyayā||23|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "tatra shlokAH-",
+            "html": "<p>tatra shlokAH- <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "payasyaShTau surAmaNDa-mastu-takreShu ca trayaH| ghreyaM sapalalaM tailaM vardhamAnAH phaleShu ShaT||21||",
+            "html": "<p>payasyaShTau surAmaNDa-mastu-takreShu ca trayaH| <br/>\nghreyaM sapalalaM tailaM vardhamAnAH phaleShu ShaT||21|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "ghRutamekaM kaShAyeShu navAnye madhukAdiShu| aShTau vartikriyA lehAH pa~jca mantho rasastathA||22||",
+            "html": "<p>ghRutamekaM kaShAyeShu navAnye madhukAdiShu| <br/>\naShTau vartikriyA lehAH pa~jca mantho rasastathA||22|| <br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "yogA ikShvAkukalpe te catvAriMshacca pa~jca ca| uktA maharShiNA samyak prajAnAM hitakAmyayA||23||",
+            "html": "<p>yogA ikShvAkukalpe te catvAriMshacca pa~jca ca| <br/>\nuktA maharShiNA samyak prajAnAM hitakAmyayA||23||<br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Eight milk preparations, three preparations consisting of one in supernatant part of wine, one in whey and one in butter milk, one in snuff, one preparation with tila paste, one of oil and six preparation of successively increasing dose of seeds with emetic nut etc., one of ghee, nine with decoctions of liquorice etc., eight of pills, five of linctuses, one of demulcent drink and one of meat-juice –thus these forty-five preparations of the bottle gourd have been fully described by the grate sage, desirous of the welfare of humanity. [21-22]",
+            "html": "<p>Eight milk preparations, three preparations consisting of one in supernatant part of wine, one in whey and one in butter milk, one in snuff, one preparation with <i>tila</i> paste, one of oil and six preparation of successively increasing dose of seeds with emetic nut etc., one of ghee, nine with decoctions of liquorice etc., eight of pills, five of linctuses, one of demulcent drink and one of meat-juice –thus these forty-five preparations of the bottle gourd have been fully described by the grate sage, desirous of the welfare of humanity. [21-22]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "इत्यग्निवेशकृते तन्त्रे चरकप्रतिसंस्कृतेऽप्राप्ते दृढबलसम्पूरिते कल्पस्थाने इक्ष्वाकुकल्पो नाम तृतीयोऽध्यायः||३||",
+            "html": "<p>इत्यग्निवेशकृते तन्त्रे चरकप्रतिसंस्कृतेऽप्राप्ते दृढबलसम्पूरिते कल्पस्थाने इक्ष्वाकुकल्पो नाम तृतीयोऽध्यायः||३|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "ityagnivēśakr̥tē tantrē carakapratisaṁskr̥tē'prāptē dr̥ḍhabalasampūritē kalpasthānē ikṣvākukalpō nāma tr̥tīyō'dhyāyaḥ||3||",
+            "html": "<p>ityagnivēśakr̥tē tantrē carakapratisaṁskr̥tē'prāptē dr̥ḍhabalasampūritē kalpasthānē ikṣvākukalpō nāma tr̥tīyō'dhyāyaḥ||3|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "ityagniveshakRute tantre carakapratisaMskRute~aprApte dRuDhabalasampUrite kalpasthAne ikShvAkukalpo nAma tRutIyo~adhyAyaH||3||",
+            "html": "<p>ityagniveshakRute tantre carakapratisaMskRute~aprApte dRuDhabalasampUrite kalpasthAne ikShvAkukalpo nAma tRutIyo~adhyAyaH||3|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Thus, in the section on ikshvaku kalpa pharmaceutics, in the treatise compiled by Agnivesha and redacted by Charaka, the third chapter entitled 'The Pharmaceutics of the bottle gourd' not being available, the same as restored by Dridhabala is completed.[23]",
+            "html": "<p>Thus, in the section on <i>ikshvaku kalpa</i> pharmaceutics, in the treatise compiled by Agnivesha and redacted by Charaka, the third chapter entitled 'The Pharmaceutics of the bottle gourd' not being available, the same as restored by Dridhabala is completed.[23]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Tattva Vimarsha (Fundamental Principles)",
+            "html": "<h2><span id=\"Tattva_Vimarsha_.28Fundamental_Principles.29\"></span><span class=\"mw-headline\" id=\"Tattva_Vimarsha_(Fundamental_Principles)\">Tattva Vimarsha (Fundamental Principles)</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ul",
+            "text": "Ikshvaku (Lagenaria siceraria) is used as emetic in various diseases originated from vitiation of kapha and pitta .",
+            "html": "<ul><li><i>Ikshvaku</i> (Lagenaria siceraria) is used as emetic in various diseases originated from vitiation of <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a> and <a href=\"/index.php?title=Pitta\" title=\"Pitta\">pitta</a>.</li></ul>",
+            "links": [
+                {
+                    "text": "kapha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kapha"
+                },
+                {
+                    "text": "pitta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pitta"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Ikshvaku (Lagenaria siceraria) is used as emetic in various diseases originated from vitiation of kapha and pitta .",
+                    "links": [
+                        {
+                            "text": "kapha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Kapha"
+                        },
+                        {
+                            "text": "pitta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pitta"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Vidhi Vimarsha (Applied Inferences)",
+            "html": "<h2><span id=\"Vidhi_Vimarsha_.28Applied_Inferences.29\"></span><span class=\"mw-headline\" id=\"Vidhi_Vimarsha_(Applied_Inferences)\">Vidhi Vimarsha (Applied Inferences)</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "h3",
+            "text": "Pharmacological activities",
+            "html": "<h3><span class=\"mw-headline\" id=\"Pharmacological_activities\">Pharmacological activities</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Anti-hyperglycemic activity, anti-oxidant activity, anti-hyperlipidemic, cardioprotective, immunomodulatory, analgesic, anti-inflammatory, diuretic, cytotoxic, hepatoprotective, hyperthyroidism, hyperglycemia, lipid peroxidation, anti-cancer, CNS depressant activity, hypertensive activity. [ 7 ]",
+            "html": "<p>Anti-hyperglycemic activity, anti-oxidant activity, anti-hyperlipidemic, cardioprotective, immunomodulatory, analgesic, anti-inflammatory, diuretic, cytotoxic, hepatoprotective, hyperthyroidism, hyperglycemia, lipid peroxidation, anti-cancer, CNS depressant activity, hypertensive activity.<sup class=\"reference\" id=\"cite_ref-7\"><a href=\"#cite_note-7\"><span class=\"cite-bracket\">[</span>7<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 7 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#cite_note-7"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Research works",
+            "html": "<h3><span class=\"mw-headline\" id=\"Research_works\">Research works</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "ul",
+            "text": "Anthelmintic activity: Ethanolic extract of seeds exhibited potent anthelmintic activity against tapeworm (hymenolepis nana). [ 8 ] Antioxidant: Methanolic extract of leaves shown significant antioxidant activity in DPPH method. [ 9 ] Antistress and adaptogenic activity: Ethanolic extract of fruits shown significant anti-stress activity in forced swimming endurance stress on swimming endurance time methods in albino rats. [ 10 ] L.S juice is an excellent in cardiac problems, digestive, urinary problems and in diabetes. Dietary fibres present helps in constipation, flatulence and in piles. [ 11 ]",
+            "html": "<ul><li>Anthelmintic activity: Ethanolic extract of seeds exhibited potent anthelmintic activity against tapeworm  (hymenolepis nana).<sup class=\"reference\" id=\"cite_ref-8\"><a href=\"#cite_note-8\"><span class=\"cite-bracket\">[</span>8<span class=\"cite-bracket\">]</span></a></sup></li>\n<li>Antioxidant: Methanolic extract of leaves shown significant antioxidant activity in DPPH method.<sup class=\"reference\" id=\"cite_ref-9\"><a href=\"#cite_note-9\"><span class=\"cite-bracket\">[</span>9<span class=\"cite-bracket\">]</span></a></sup></li>\n<li>Antistress and adaptogenic activity: Ethanolic extract of fruits shown  significant anti-stress activity in forced swimming endurance stress on swimming endurance time methods in albino rats.<sup class=\"reference\" id=\"cite_ref-10\"><a href=\"#cite_note-10\"><span class=\"cite-bracket\">[</span>10<span class=\"cite-bracket\">]</span></a></sup></li>\n<li>L.S juice is an excellent in cardiac problems, digestive, urinary problems and in diabetes. Dietary fibres present helps in constipation, flatulence and in piles.<sup class=\"reference\" id=\"cite_ref-11\"><a href=\"#cite_note-11\"><span class=\"cite-bracket\">[</span>11<span class=\"cite-bracket\">]</span></a></sup></li></ul>",
+            "links": [
+                {
+                    "text": "[ 8 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#cite_note-8"
+                },
+                {
+                    "text": "[ 9 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#cite_note-9"
+                },
+                {
+                    "text": "[ 10 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#cite_note-10"
+                },
+                {
+                    "text": "[ 11 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#cite_note-11"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Anthelmintic activity: Ethanolic extract of seeds exhibited potent anthelmintic activity against tapeworm (hymenolepis nana). [ 8 ]",
+                    "links": [
+                        {
+                            "text": "[ 8 ]",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#cite_note-8"
+                        }
+                    ]
+                },
+                {
+                    "text": "Antioxidant: Methanolic extract of leaves shown significant antioxidant activity in DPPH method. [ 9 ]",
+                    "links": [
+                        {
+                            "text": "[ 9 ]",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#cite_note-9"
+                        }
+                    ]
+                },
+                {
+                    "text": "Antistress and adaptogenic activity: Ethanolic extract of fruits shown significant anti-stress activity in forced swimming endurance stress on swimming endurance time methods in albino rats. [ 10 ]",
+                    "links": [
+                        {
+                            "text": "[ 10 ]",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#cite_note-10"
+                        }
+                    ]
+                },
+                {
+                    "text": "L.S juice is an excellent in cardiac problems, digestive, urinary problems and in diabetes. Dietary fibres present helps in constipation, flatulence and in piles. [ 11 ]",
+                    "links": [
+                        {
+                            "text": "[ 11 ]",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#cite_note-11"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h3",
+            "text": "Future research",
+            "html": "<h3><span class=\"mw-headline\" id=\"Future_research\">Future research</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "There is a scope to conduct clinical trials to study effect of Ikshvaku as emetic in diabetes mellitus, metabolic syndrome, hypercholesterolemia and liver disorders.",
+            "html": "<p>There is a scope to conduct clinical trials to study effect of Ikshvaku as emetic in diabetes mellitus, metabolic syndrome, hypercholesterolemia and liver disorders.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Send us your suggestions and feedback on this page.",
+            "html": "<p><big><b><a href=\"/index.php?title=Special:ContactMe\" title=\"Special:ContactMe\">Send us your suggestions and feedback on this page.</a></b></big>\n</p>",
+            "links": [
+                {
+                    "text": "Send us your suggestions and feedback on this page.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Special:ContactMe"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Reference",
+            "html": "<h2><span class=\"mw-headline\" id=\"Reference\">Reference</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "text",
+            "text": "Back to the Top"
+        },
+        {
+            "type": "ol",
+            "text": "↑ Bhavamishra,Shakavarga, In:Prof. K.C. Chunekar,Late Dr. G.S. Pandey, editors,Bhavaprakash Nighantu, ?ed,Varanasi:Chaukhamba Bharati Acadamy,2010, pp 682 ↑ Prof K Nishteswar&Dr.KoppulaHemadri, Dravyaguna Vidyana, first edition 2010, Chaukhamba Sanskrit Pratisthan, Delhi, pp 421. ↑ 3.0 3.1 P.C.Sharma et al, Data Base on Medicinal Plants Used in Ayurveda, Vol-5, Reprint 2005, CCRAS, GOI, 437 ↑ C.P.Khare, Indian Medicinal Plant, an Illustrated Dictionary. P 358 ↑ Thakur Balwant Singh and Dr K C Chunekar, Glossary of Vegetable drugs in Brihattrayi, second edition 1999, Chaukhamba Amarabharati Prakashan, Varanasi, pp25 ↑ P.C.Sharma et al, Data Base on Medicinal Plants Used in Ayurveda, Vol-5, Reprint 2005, CCRAS, GOI, pp437 ↑ B.N. Shah et al, Phytopharmacological profile of Lagenaria siceraria: A review, Asian Journal of Plant Science 9(3); 2010, 152-157. ↑ EE Elisha, HAA Twaji,NM Ali, JH Tarish, S Karim,M Al-Omari, The Anthelmintic Activity of Some Iraqi Plants of the Cucurbitaceae, International Journal of Crude Drug Research, Vol 25, Issue 3,1987, PP-153-157 ↑ Neeraj Kant Sharma, Priyankayadav, Hemant Kumar Singh And Anil Kumar Shrivastava, In Vitro Antioxidant activity of Lagenaria siceraria leaves, Malaysian Journal of Pharmaceutical science, Vol 11, No.1,1-11(2013) ↑ B.V.S Lakshmi and M Sudhakar, Adaptogenic activity of Lagenaria siceraria, An experimental study using acute stress models on rats, Journal of Pharmacology and Toxicology, 2009,4(8)pp-300-306 ↑ Rakesh P Prajapati, Manisha Kalariya, Sachin K parmar, Navin R sheth Phytochemical and pharmacological review of legenaria siceraria , J Ayurveda Integr Med . 2010 volume1/issue 4/ page 266-272 http://www.iaim.in/text.asp?20101/4/266-272/74431",
+            "html": "<ol class=\"references\">\n<li id=\"cite_note-1\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-1\">↑</a></span> <span class=\"reference-text\"> Bhavamishra,Shakavarga, In:Prof. K.C. Chunekar,Late Dr. G.S. Pandey, editors,Bhavaprakash Nighantu, ?ed,Varanasi:Chaukhamba Bharati Acadamy,2010, pp 682</span>\n</li>\n<li id=\"cite_note-2\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-2\">↑</a></span> <span class=\"reference-text\">Prof K Nishteswar&amp;Dr.KoppulaHemadri, Dravyaguna Vidyana, first edition 2010, Chaukhamba Sanskrit Pratisthan, Delhi, pp 421.</span>\n</li>\n<li id=\"cite_note-PC-3\"><span class=\"mw-cite-backlink\">↑ <sup><a href=\"#cite_ref-PC_3-0\">3.0</a></sup> <sup><a href=\"#cite_ref-PC_3-1\">3.1</a></sup></span> <span class=\"reference-text\">P.C.Sharma et al, Data Base on Medicinal Plants Used in Ayurveda, Vol-5, Reprint 2005, CCRAS, GOI, 437</span>\n</li>\n<li id=\"cite_note-4\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-4\">↑</a></span> <span class=\"reference-text\">C.P.Khare, Indian Medicinal Plant, an Illustrated Dictionary. P 358</span>\n</li>\n<li id=\"cite_note-5\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-5\">↑</a></span> <span class=\"reference-text\">Thakur Balwant Singh and Dr K C Chunekar, Glossary of Vegetable drugs in Brihattrayi, second edition 1999, Chaukhamba Amarabharati Prakashan, Varanasi, pp25</span>\n</li>\n<li id=\"cite_note-6\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-6\">↑</a></span> <span class=\"reference-text\">P.C.Sharma et al, Data Base on Medicinal Plants Used in Ayurveda, Vol-5, Reprint 2005, CCRAS, GOI, pp437</span>\n</li>\n<li id=\"cite_note-7\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-7\">↑</a></span> <span class=\"reference-text\">B.N. Shah et al, Phytopharmacological profile of Lagenaria siceraria: A review, Asian Journal of Plant Science 9(3); 2010, 152-157.</span>\n</li>\n<li id=\"cite_note-8\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-8\">↑</a></span> <span class=\"reference-text\">EE Elisha, HAA Twaji,NM Ali, JH Tarish, S Karim,M Al-Omari, The Anthelmintic Activity of Some Iraqi Plants of the Cucurbitaceae, International Journal of Crude Drug Research, Vol 25, Issue 3,1987, PP-153-157</span>\n</li>\n<li id=\"cite_note-9\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-9\">↑</a></span> <span class=\"reference-text\">Neeraj Kant Sharma, Priyankayadav, Hemant Kumar Singh And Anil Kumar Shrivastava, In Vitro Antioxidant activity of Lagenaria siceraria leaves, Malaysian Journal of Pharmaceutical science, Vol 11, No.1,1-11(2013)</span>\n</li>\n<li id=\"cite_note-10\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-10\">↑</a></span> <span class=\"reference-text\">B.V.S Lakshmi and M Sudhakar, Adaptogenic activity of Lagenaria siceraria, An experimental study using acute stress models on rats, Journal of Pharmacology and Toxicology, 2009,4(8)pp-300-306</span>\n</li>\n<li id=\"cite_note-11\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-11\">↑</a></span> <span class=\"reference-text\">Rakesh P Prajapati, Manisha Kalariya, Sachin K parmar, Navin R sheth Phytochemical and pharmacological review of legenaria siceraria , J Ayurveda Integr Med . 2010 volume1/issue 4/ page 266-272 <a class=\"external free\" href=\"http://www.iaim.in/text.asp?20101/4/266-272/74431\" rel=\"nofollow\">http://www.iaim.in/text.asp?20101/4/266-272/74431</a></span>\n</li>\n</ol>",
+            "links": [
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#cite_ref-1"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#cite_ref-2"
+                },
+                {
+                    "text": "3.0",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#cite_ref-PC_3-0"
+                },
+                {
+                    "text": "3.1",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#cite_ref-PC_3-1"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#cite_ref-4"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#cite_ref-5"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#cite_ref-6"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#cite_ref-7"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#cite_ref-8"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#cite_ref-9"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#cite_ref-10"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#cite_ref-11"
+                },
+                {
+                    "text": "http://www.iaim.in/text.asp?20101/4/266-272/74431",
+                    "url": "http://www.iaim.in/text.asp?20101/4/266-272/74431"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "↑ Bhavamishra,Shakavarga, In:Prof. K.C. Chunekar,Late Dr. G.S. Pandey, editors,Bhavaprakash Nighantu, ?ed,Varanasi:Chaukhamba Bharati Acadamy,2010, pp 682",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#cite_ref-1"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Prof K Nishteswar&Dr.KoppulaHemadri, Dravyaguna Vidyana, first edition 2010, Chaukhamba Sanskrit Pratisthan, Delhi, pp 421.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#cite_ref-2"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ 3.0 3.1 P.C.Sharma et al, Data Base on Medicinal Plants Used in Ayurveda, Vol-5, Reprint 2005, CCRAS, GOI, 437",
+                    "links": [
+                        {
+                            "text": "3.0",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#cite_ref-PC_3-0"
+                        },
+                        {
+                            "text": "3.1",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#cite_ref-PC_3-1"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ C.P.Khare, Indian Medicinal Plant, an Illustrated Dictionary. P 358",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#cite_ref-4"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Thakur Balwant Singh and Dr K C Chunekar, Glossary of Vegetable drugs in Brihattrayi, second edition 1999, Chaukhamba Amarabharati Prakashan, Varanasi, pp25",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#cite_ref-5"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ P.C.Sharma et al, Data Base on Medicinal Plants Used in Ayurveda, Vol-5, Reprint 2005, CCRAS, GOI, pp437",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#cite_ref-6"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ B.N. Shah et al, Phytopharmacological profile of Lagenaria siceraria: A review, Asian Journal of Plant Science 9(3); 2010, 152-157.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#cite_ref-7"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ EE Elisha, HAA Twaji,NM Ali, JH Tarish, S Karim,M Al-Omari, The Anthelmintic Activity of Some Iraqi Plants of the Cucurbitaceae, International Journal of Crude Drug Research, Vol 25, Issue 3,1987, PP-153-157",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#cite_ref-8"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Neeraj Kant Sharma, Priyankayadav, Hemant Kumar Singh And Anil Kumar Shrivastava, In Vitro Antioxidant activity of Lagenaria siceraria leaves, Malaysian Journal of Pharmaceutical science, Vol 11, No.1,1-11(2013)",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#cite_ref-9"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ B.V.S Lakshmi and M Sudhakar, Adaptogenic activity of Lagenaria siceraria, An experimental study using acute stress models on rats, Journal of Pharmacology and Toxicology, 2009,4(8)pp-300-306",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#cite_ref-10"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Rakesh P Prajapati, Manisha Kalariya, Sachin K parmar, Navin R sheth Phytochemical and pharmacological review of legenaria siceraria , J Ayurveda Integr Med . 2010 volume1/issue 4/ page 266-272 http://www.iaim.in/text.asp?20101/4/266-272/74431",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya#cite_ref-11"
+                        },
+                        {
+                            "text": "http://www.iaim.in/text.asp?20101/4/266-272/74431",
+                            "url": "http://www.iaim.in/text.asp?20101/4/266-272/74431"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "text": "NewPP limit report\nCached time: 20261112000645\nCache expiry: 86400\nReduced expiry: false\nComplications: [vary‐revision‐id, show‐toc]\nCPU time usage: 0.105 seconds\nReal time usage: 0.255 seconds\nPreprocessor visited node count: 404/1000000\nPost‐expand include size: 2469/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 3/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 3822/5000000 bytes\nLua time usage: 0.120/7 seconds\nLua virtual size: 20484096/209715200 bytes\nLua estimated memory usage: 0 bytes"
+        },
+        {
+            "type": "text",
+            "text": "Transclusion expansion time report (%,ms,calls,template)\n100.00% 213.957 1 -total\n96.98% 207.493 1 Template:Infobox\n1.16% 2.480 1 Template:CiteButton"
+        },
+        {
+            "type": "text",
+            "text": "Saved in parser cache with key carakas1_carakasa:pcache:idhash:2790-0!canonical and timestamp 20261112000645 and revision id 44568. Rendering was triggered because: diff-page"
+        },
+        {
+            "type": "text",
+            "text": "Retrieved from \""
+        },
+        {
+            "type": "text",
+            "text": "https://www.carakasamhitaonline.com/index.php?title=Ikshvaku_Kalpa_Adhyaya&oldid=44568"
+        },
+        {
+            "type": "text",
+            "text": "\""
+        }
+    ],
+    "html_sha256": "842a2eb64940000e2c381ce66577901a9074409c263796e40f66688e218add3b"
+}

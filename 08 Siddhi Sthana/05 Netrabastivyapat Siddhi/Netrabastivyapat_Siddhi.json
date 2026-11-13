@@ -1,0 +1,2772 @@
+{
+    "source": "Charaka Samhita",
+    "chapter": "Netrabastivyapat Siddhi",
+    "chapter_id": "Netrabastivyapat_Siddhi",
+    "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi",
+    "xpath": "//*[@id=\"content\"]",
+    "extraction_date": "2026-11-13T10:23:17",
+    "total_blocks": 198,
+    "total_tables": 3,
+    "total_headings": 20,
+    "total_paragraphs": 157,
+    "content": [
+        {
+            "type": "h1",
+            "text": "Netrabastivyapat Siddhi",
+            "html": "<h1 class=\"firstHeading mw-first-heading\" id=\"firstHeading\"><span class=\"mw-page-title-main\">Netrabastivyapat Siddhi</span></h1>",
+            "links": [],
+            "images": [],
+            "level": 1
+        },
+        {
+            "type": "text",
+            "text": "From Charak Samhita"
+        },
+        {
+            "type": "text",
+            "text": "Jump to navigation"
+        },
+        {
+            "type": "text",
+            "text": "Jump to search"
+        },
+        {
+            "type": "figure",
+            "text": "",
+            "html": "<figure class=\"mw-default-size mw-halign-right\" typeof=\"mw:File\"><a href=\"https://www.carakasamhitaonline.com/index.php?title=Special:CiteThisPage&amp;page=Netrabastivyapat_Siddhi&amp;id=44582&amp;wpFormIdentifier=titleform\" rel=\"nofollow\"><img class=\"mw-file-element\" decoding=\"async\" height=\"47\" src=\"/images/5/58/Cite.png\" width=\"180\"/></a><figcaption></figcaption></figure>",
+            "links": [
+                {
+                    "text": "",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Special:CiteThisPage&page=Netrabastivyapat_Siddhi&id=44582&wpFormIdentifier=titleform"
+                }
+            ],
+            "images": [
+                {
+                    "url": "https://www.carakasamhitaonline.com/images/5/58/Cite.png",
+                    "alt": "",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Siddhi Sthana Chapter 5. Management of complications due to enema nozzle",
+            "html": "<p><big><b><a href=\"/index.php?title=Siddhi_Sthana\" title=\"Siddhi Sthana\">Siddhi Sthana</a> Chapter 5. Management of complications due to enema nozzle</b></big>\n</p>",
+            "links": [
+                {
+                    "text": "Siddhi Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Siddhi_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "Section/Chapter",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Siddhi Sthana Chapter 5",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Siddhi Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Siddhi_Sthana"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Preceding Chapter",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Snehavyapat Siddhi",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Snehavyapat Siddhi",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Snehavyapat_Siddhi"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Succeeding Chapter",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Vamana Virechana Vyapat Siddhi",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Vamana Virechana Vyapat Siddhi",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Other Sections",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Sutra Sthana , Nidana Sthana , Vimana Sthana , Sharira Sthana , Indriya Sthana , Chikitsa Sthana , Kalpa Sthana",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Sutra Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                            },
+                            {
+                                "text": "Nidana Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Nidana_Sthana"
+                            },
+                            {
+                                "text": "Vimana Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana"
+                            },
+                            {
+                                "text": "Sharira Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                            },
+                            {
+                                "text": "Indriya Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                            },
+                            {
+                                "text": "Chikitsa Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                            },
+                            {
+                                "text": "Kalpa Sthana",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Kalpa_Sthana"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Translator and commentator",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Jayadevan C.V.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Reviewer",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Mangalasseri P.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Editors",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Thakar A. B., Mangalasseri P., Deole Y.S. , Basisht G.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Deole Y.S.",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Yogesh_Deole"
+                            },
+                            {
+                                "text": "Basisht G.",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Gopal_Basisht"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Year of publication",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "2020",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Publisher",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Charak Samhita Research, Training and Skill Development Centre",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Charak Samhita Research, Training and Skill Development Centre",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Skill_Development_Centre"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "DOI",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "10.47468/CSNE.2020.e01.s08.006",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "10.47468/CSNE.2020.e01.s08.006",
+                                "url": "https://doi.org/10.47468/CSNE.2020.e01.s08.006"
+                            }
+                        ]
+                    }
+                ]
+            ],
+            "html": "<table class=\"infobox\" style=\"width:22em\"><caption>Netrabastivyapat Siddhi</caption><tbody><tr><th scope=\"row\">Section/Chapter</th><td>\n<a href=\"/index.php?title=Siddhi_Sthana\" title=\"Siddhi Sthana\">Siddhi Sthana</a> Chapter 5</td></tr><tr><th scope=\"row\">Preceding Chapter</th><td>\n<a href=\"/index.php?title=Snehavyapat_Siddhi\" title=\"Snehavyapat Siddhi\">Snehavyapat Siddhi</a></td></tr><tr><th scope=\"row\">Succeeding Chapter</th><td>\n<a href=\"/index.php?title=Vamana_Virechana_Vyapat_Siddhi\" title=\"Vamana Virechana Vyapat Siddhi\">Vamana Virechana Vyapat Siddhi</a></td></tr><tr><th scope=\"row\">Other Sections</th><td>\n<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a>, <a href=\"/index.php?title=Nidana_Sthana\" title=\"Nidana Sthana\">Nidana Sthana</a>, <a href=\"/index.php?title=Vimana_Sthana\" title=\"Vimana Sthana\">Vimana Sthana</a>,  <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a>,  <a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a>, <a href=\"/index.php?title=Chikitsa_Sthana\" title=\"Chikitsa Sthana\">Chikitsa Sthana</a>, <a href=\"/index.php?title=Kalpa_Sthana\" title=\"Kalpa Sthana\">Kalpa Sthana</a></td></tr><tr><th scope=\"row\">Translator and commentator</th><td>\nJayadevan C.V.</td></tr><tr><th scope=\"row\">Reviewer</th><td>\nMangalasseri P.</td></tr><tr><th scope=\"row\">Editors</th><td>\nThakar A. B., Mangalasseri P., <a href=\"/index.php?title=Yogesh_Deole\" title=\"Yogesh Deole\">Deole Y.S.</a>, <a href=\"/index.php?title=Gopal_Basisht\" title=\"Gopal Basisht\">Basisht G.</a></td></tr><tr><th scope=\"row\">Year of publication</th><td>\n2020</td></tr><tr><th scope=\"row\">Publisher</th><td>\n<a href=\"/index.php?title=Charak_Samhita_Research,_Training_and_Skill_Development_Centre\" title=\"Charak Samhita Research, Training and Skill Development Centre\">Charak Samhita Research, Training and Skill Development Centre</a></td></tr><tr><th scope=\"row\">DOI</th><td>\n<a class=\"external text\" href=\"https://doi.org/10.47468/CSNE.2020.e01.s08.006\" rel=\"nofollow\">10.47468/CSNE.2020.e01.s08.006</a></td></tr></tbody></table>",
+            "links": [
+                {
+                    "text": "Siddhi Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Siddhi_Sthana"
+                },
+                {
+                    "text": "Snehavyapat Siddhi",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Snehavyapat_Siddhi"
+                },
+                {
+                    "text": "Vamana Virechana Vyapat Siddhi",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "Nidana Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Nidana_Sthana"
+                },
+                {
+                    "text": "Vimana Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                },
+                {
+                    "text": "Chikitsa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                },
+                {
+                    "text": "Kalpa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kalpa_Sthana"
+                },
+                {
+                    "text": "Deole Y.S.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Yogesh_Deole"
+                },
+                {
+                    "text": "Basisht G.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Gopal_Basisht"
+                },
+                {
+                    "text": "Charak Samhita Research, Training and Skill Development Centre",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Skill_Development_Centre"
+                },
+                {
+                    "text": "10.47468/CSNE.2020.e01.s08.006",
+                    "url": "https://doi.org/10.47468/CSNE.2020.e01.s08.006"
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Abstract",
+            "html": "<p><big><b> Abstract </b></big>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Netrabastivyapat Siddhi deals with possible complications during basti procedure, due to improper choice of netra (injection pipe/nozzle) and bastiputaka (medicinal bag) as well as their inappropriate handling during the course of action by the praneta (administrator). The total number of improper bastinetra to be avoided are eight and the consequent dosha ( defects) are also eight. Also, abnormal bastiputaka to be avoided while the procedure as well as their corresponding dosha are eight in number. Pranetradosha (administrator error) are ten in number and they are categorized into pranayana (introduction of netra ), baddha (filling and tying of basti ) and peedana (squeezing of basti ) dosha respectively. Keywords : Netra, basti, praneta, dosha and siddhi , nozzle, insertion, injection of enema, impediments.",
+            "html": "<p style=\"text-align:justify;\"><a class=\"mw-selflink selflink\">Netrabastivyapat Siddhi</a> deals with possible complications during <i>basti</i> procedure, due to improper choice of <i>netra</i> (injection pipe/nozzle) and <i>bastiputaka</i> (medicinal bag) as well as their inappropriate handling during the course of action by the <i>praneta</i> (administrator). The total number of improper <i>bastinetra</i> to be avoided are eight and the consequent <i>dosha</i>( defects) are also eight. Also, abnormal <i>bastiputaka</i> to be avoided while the procedure as well as their corresponding <i>dosha</i> are eight in number. <i>Pranetradosha</i> (administrator error) are ten in number and they are categorized into <i>pranayana</i> (introduction of <i>netra</i>), <i>baddha</i> (filling and tying of <i>basti</i>) and <i>peedana</i> (squeezing of <i>basti</i>) <i>dosha</i> respectively.\n<br/>\n<b>Keywords</b>: <i>Netra, basti, praneta, dosha</i> and <i>siddhi</i>, nozzle, insertion, injection of enema, impediments. \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "",
+            "html": "<p><br/>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Contents",
+            "html": "<h2 id=\"mw-toc-heading\">Contents</h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ul",
+            "text": "1 Introduction 2 Sanskrit text, Transliteration and English Translation 2.1 Eight defects of nozzle and its harmful effect 2.2 Basti putaka (defects of bladder/enema holding bag) 2.3 Errors by basti administrator 2.4 Effect of savata dosha (air entry during basti administration) 2.5 Atidruta and utkshipta dosha (fast insertion and withdrawal) 2.6 Tiryak dosha (improper direction of insertion) 2.7 Ullupta and kampita dosha (improper squeezing of basti putaka and trembling while administration ) 2.8 Ati dosha (excessive deep insertion) 2.9 Manda vega and ativega dosha (slow and fast administration) 2.10 Summary 3 Tattva Vimarsha (Fundamental Principles) 4 Vidhi Vimarsha (Applied Inferences ) 4.1 Defects of basti nozzle 4.2 Defects of basti putaka (enema pot) 4.3 Errors during administration and management of complications 5 References",
+            "html": "<ul>\n<li class=\"toclevel-1 tocsection-1\"><a href=\"#Introduction\"><span class=\"tocnumber\">1</span> <span class=\"toctext\">Introduction</span></a></li>\n<li class=\"toclevel-1 tocsection-2\"><a href=\"#Sanskrit_text,_Transliteration_and_English_Translation\"><span class=\"tocnumber\">2</span> <span class=\"toctext\">Sanskrit text, Transliteration and English Translation</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-3\"><a href=\"#Eight_defects_of_nozzle_and_its_harmful_effect\"><span class=\"tocnumber\">2.1</span> <span class=\"toctext\">Eight defects of nozzle and its harmful effect</span></a></li>\n<li class=\"toclevel-2 tocsection-4\"><a href=\"#Basti_putaka_(defects_of_bladder/enema_holding_bag)\"><span class=\"tocnumber\">2.2</span> <span class=\"toctext\"><i>Basti putaka</i> (defects of bladder/enema holding bag)</span></a></li>\n<li class=\"toclevel-2 tocsection-5\"><a href=\"#Errors_by_basti_administrator\"><span class=\"tocnumber\">2.3</span> <span class=\"toctext\">Errors by <i>basti</i> administrator</span></a></li>\n<li class=\"toclevel-2 tocsection-6\"><a href=\"#Effect_of_savata_dosha_(air_entry_during_basti_administration)\"><span class=\"tocnumber\">2.4</span> <span class=\"toctext\">Effect of <i>savata dosha</i> (air entry during <i>basti</i> administration)</span></a></li>\n<li class=\"toclevel-2 tocsection-7\"><a href=\"#Atidruta_and_utkshipta_dosha_(fast_insertion_and_withdrawal)\"><span class=\"tocnumber\">2.5</span> <span class=\"toctext\"><i>Atidruta</i> and <i>utkshipta dosha</i> (fast insertion and withdrawal)</span></a></li>\n<li class=\"toclevel-2 tocsection-8\"><a href=\"#Tiryak_dosha_(improper_direction_of_insertion)\"><span class=\"tocnumber\">2.6</span> <span class=\"toctext\"><i>Tiryak dosha</i> (improper direction of insertion)</span></a></li>\n<li class=\"toclevel-2 tocsection-9\"><a href=\"#Ullupta_and_kampita_dosha_(improper_squeezing_of_basti_putaka_and_trembling_while_administration_)\"><span class=\"tocnumber\">2.7</span> <span class=\"toctext\"><i>Ullupta</i> and <i>kampita dosha</i> (improper squeezing of basti putaka and trembling while administration )</span></a></li>\n<li class=\"toclevel-2 tocsection-10\"><a href=\"#Ati_dosha_(excessive_deep_insertion)\"><span class=\"tocnumber\">2.8</span> <span class=\"toctext\"><i>Ati dosha</i> (excessive deep insertion)</span></a></li>\n<li class=\"toclevel-2 tocsection-11\"><a href=\"#Manda_vega_and_ativega_dosha_(slow_and_fast_administration)\"><span class=\"tocnumber\">2.9</span> <span class=\"toctext\"><i>Manda vega</i> and <i>ativega dosha</i> (slow and fast administration)</span></a></li>\n<li class=\"toclevel-2 tocsection-12\"><a href=\"#Summary\"><span class=\"tocnumber\">2.10</span> <span class=\"toctext\">Summary</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-13\"><a href=\"#Tattva_Vimarsha_(Fundamental_Principles)\"><span class=\"tocnumber\">3</span> <span class=\"toctext\">Tattva Vimarsha (Fundamental Principles)</span></a></li>\n<li class=\"toclevel-1 tocsection-14\"><a href=\"#Vidhi_Vimarsha_(Applied_Inferences_)\"><span class=\"tocnumber\">4</span> <span class=\"toctext\">Vidhi Vimarsha (Applied Inferences )</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-15\"><a href=\"#Defects_of_basti_nozzle\"><span class=\"tocnumber\">4.1</span> <span class=\"toctext\">Defects of <i>basti</i> nozzle</span></a></li>\n<li class=\"toclevel-2 tocsection-16\"><a href=\"#Defects_of_basti_putaka_(enema_pot)\"><span class=\"tocnumber\">4.2</span> <span class=\"toctext\">Defects of <i>basti putaka</i> (enema pot)</span></a></li>\n<li class=\"toclevel-2 tocsection-17\"><a href=\"#Errors_during_administration_and_management_of_complications\"><span class=\"tocnumber\">4.3</span> <span class=\"toctext\">Errors during administration and management of complications</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-18\"><a href=\"#References\"><span class=\"tocnumber\">5</span> <span class=\"toctext\">References</span></a></li>\n</ul>",
+            "links": [
+                {
+                    "text": "1 Introduction",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#Introduction"
+                },
+                {
+                    "text": "2 Sanskrit text, Transliteration and English Translation",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#Sanskrit_text,_Transliteration_and_English_Translation"
+                },
+                {
+                    "text": "2.1 Eight defects of nozzle and its harmful effect",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#Eight_defects_of_nozzle_and_its_harmful_effect"
+                },
+                {
+                    "text": "2.2 Basti putaka (defects of bladder/enema holding bag)",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#Basti_putaka_(defects_of_bladder/enema_holding_bag)"
+                },
+                {
+                    "text": "2.3 Errors by basti administrator",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#Errors_by_basti_administrator"
+                },
+                {
+                    "text": "2.4 Effect of savata dosha (air entry during basti administration)",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#Effect_of_savata_dosha_(air_entry_during_basti_administration)"
+                },
+                {
+                    "text": "2.5 Atidruta and utkshipta dosha (fast insertion and withdrawal)",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#Atidruta_and_utkshipta_dosha_(fast_insertion_and_withdrawal)"
+                },
+                {
+                    "text": "2.6 Tiryak dosha (improper direction of insertion)",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#Tiryak_dosha_(improper_direction_of_insertion)"
+                },
+                {
+                    "text": "2.7 Ullupta and kampita dosha (improper squeezing of basti putaka and trembling while administration )",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#Ullupta_and_kampita_dosha_(improper_squeezing_of_basti_putaka_and_trembling_while_administration_)"
+                },
+                {
+                    "text": "2.8 Ati dosha (excessive deep insertion)",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#Ati_dosha_(excessive_deep_insertion)"
+                },
+                {
+                    "text": "2.9 Manda vega and ativega dosha (slow and fast administration)",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#Manda_vega_and_ativega_dosha_(slow_and_fast_administration)"
+                },
+                {
+                    "text": "2.10 Summary",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#Summary"
+                },
+                {
+                    "text": "3 Tattva Vimarsha (Fundamental Principles)",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#Tattva_Vimarsha_(Fundamental_Principles)"
+                },
+                {
+                    "text": "4 Vidhi Vimarsha (Applied Inferences )",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#Vidhi_Vimarsha_(Applied_Inferences_)"
+                },
+                {
+                    "text": "4.1 Defects of basti nozzle",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#Defects_of_basti_nozzle"
+                },
+                {
+                    "text": "4.2 Defects of basti putaka (enema pot)",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#Defects_of_basti_putaka_(enema_pot)"
+                },
+                {
+                    "text": "4.3 Errors during administration and management of complications",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#Errors_during_administration_and_management_of_complications"
+                },
+                {
+                    "text": "5 References",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#References"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "1 Introduction",
+                    "links": [
+                        {
+                            "text": "1 Introduction",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#Introduction"
+                        }
+                    ]
+                },
+                {
+                    "text": "2 Sanskrit text, Transliteration and English Translation 2.1 Eight defects of nozzle and its harmful effect 2.2 Basti putaka (defects of bladder/enema holding bag) 2.3 Errors by basti administrator 2.4 Effect of savata dosha (air entry during basti administration) 2.5 Atidruta and utkshipta dosha (fast insertion and withdrawal) 2.6 Tiryak dosha (improper direction of insertion) 2.7 Ullupta and kampita dosha (improper squeezing of basti putaka and trembling while administration ) 2.8 Ati dosha (excessive deep insertion) 2.9 Manda vega and ativega dosha (slow and fast administration) 2.10 Summary",
+                    "links": [
+                        {
+                            "text": "2 Sanskrit text, Transliteration and English Translation",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#Sanskrit_text,_Transliteration_and_English_Translation"
+                        },
+                        {
+                            "text": "2.1 Eight defects of nozzle and its harmful effect",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#Eight_defects_of_nozzle_and_its_harmful_effect"
+                        },
+                        {
+                            "text": "2.2 Basti putaka (defects of bladder/enema holding bag)",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#Basti_putaka_(defects_of_bladder/enema_holding_bag)"
+                        },
+                        {
+                            "text": "2.3 Errors by basti administrator",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#Errors_by_basti_administrator"
+                        },
+                        {
+                            "text": "2.4 Effect of savata dosha (air entry during basti administration)",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#Effect_of_savata_dosha_(air_entry_during_basti_administration)"
+                        },
+                        {
+                            "text": "2.5 Atidruta and utkshipta dosha (fast insertion and withdrawal)",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#Atidruta_and_utkshipta_dosha_(fast_insertion_and_withdrawal)"
+                        },
+                        {
+                            "text": "2.6 Tiryak dosha (improper direction of insertion)",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#Tiryak_dosha_(improper_direction_of_insertion)"
+                        },
+                        {
+                            "text": "2.7 Ullupta and kampita dosha (improper squeezing of basti putaka and trembling while administration )",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#Ullupta_and_kampita_dosha_(improper_squeezing_of_basti_putaka_and_trembling_while_administration_)"
+                        },
+                        {
+                            "text": "2.8 Ati dosha (excessive deep insertion)",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#Ati_dosha_(excessive_deep_insertion)"
+                        },
+                        {
+                            "text": "2.9 Manda vega and ativega dosha (slow and fast administration)",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#Manda_vega_and_ativega_dosha_(slow_and_fast_administration)"
+                        },
+                        {
+                            "text": "2.10 Summary",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#Summary"
+                        }
+                    ]
+                },
+                {
+                    "text": "3 Tattva Vimarsha (Fundamental Principles)",
+                    "links": [
+                        {
+                            "text": "3 Tattva Vimarsha (Fundamental Principles)",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#Tattva_Vimarsha_(Fundamental_Principles)"
+                        }
+                    ]
+                },
+                {
+                    "text": "4 Vidhi Vimarsha (Applied Inferences ) 4.1 Defects of basti nozzle 4.2 Defects of basti putaka (enema pot) 4.3 Errors during administration and management of complications",
+                    "links": [
+                        {
+                            "text": "4 Vidhi Vimarsha (Applied Inferences )",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#Vidhi_Vimarsha_(Applied_Inferences_)"
+                        },
+                        {
+                            "text": "4.1 Defects of basti nozzle",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#Defects_of_basti_nozzle"
+                        },
+                        {
+                            "text": "4.2 Defects of basti putaka (enema pot)",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#Defects_of_basti_putaka_(enema_pot)"
+                        },
+                        {
+                            "text": "4.3 Errors during administration and management of complications",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#Errors_during_administration_and_management_of_complications"
+                        }
+                    ]
+                },
+                {
+                    "text": "5 References",
+                    "links": [
+                        {
+                            "text": "5 References",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#References"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Introduction",
+            "html": "<h2><span class=\"mw-headline\" id=\"Introduction\">Introduction</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "The preceding chapter ( Snehavyapat Siddhi ) dealt with the management strategies for snehabastivyapat and therefore this chapter elucidates the vyapat (complications) related to the instrumentation involved in either kind of basti . Netra (nozzles designed for enema) and basti (bag designed for enema) that are to be avoided in procedures and vyapat (complications) arising due to inappropriate appliance of netra along with their management are explained in the chapter.",
+            "html": "<p>The preceding chapter (<a href=\"/index.php?title=Snehavyapat_Siddhi\" title=\"Snehavyapat Siddhi\">Snehavyapat Siddhi</a>) dealt with the management strategies for <i>snehabastivyapat</i> and therefore this chapter elucidates the <i>vyapat</i> (complications) related to the instrumentation involved in either kind of <i><a href=\"/index.php?title=Basti\" title=\"Basti\">basti</a></i>. <i>Netra</i> (nozzles designed for enema) and <i>basti</i> (bag designed for enema) that are to be avoided in procedures and <i>vyapat</i> (complications) arising due to inappropriate appliance of <i>netra</i> along with their management are explained in the chapter.\n</p>",
+            "links": [
+                {
+                    "text": "Snehavyapat Siddhi",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Snehavyapat_Siddhi"
+                },
+                {
+                    "text": "basti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Basti"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Even though the title of the chapter encompasses the term netra and basti ; vyapat caused by praṇēta are also dealt in here. It is supposed that a physician’s skill is usually tested when he enters the arena of basti practice. Lot of factors apart from clinical and theoretical knowledge are involved in a proper conduct of basti . Instrumentation and technique are two such important factors cited here. Instrumentation whilst the days of Charak were based on the most suitable and available material and hence such descriptions are expounded here. However, scientific advancement based on safety, feasibility and practicality in the present era has resulted in recent innovations such as use of metallic syringe in matrabasti , use of plastic bags replacing animal urinary bladders, nozzles made of disposable materials etc. The fact remains that such innovations need to be put into practice protecting the essence as well as the fundamental principles behind basti procedure and not interfering or rather limiting its effect in relation to the technique. Much criticism has been made on the use of enema cans (as in Naturopathy) instead of conventional basti , as it hinders the technique.",
+            "html": "<p>Even though the title of the chapter encompasses the term <i>netra</i> and <i>basti</i>; <i>vyapat</i> caused by praṇēta are also dealt in here. It is supposed that a physician’s skill is usually tested when he enters the arena of <i><a href=\"/index.php?title=Basti\" title=\"Basti\">basti</a></i> practice. Lot of factors apart from clinical and theoretical knowledge are involved in a proper conduct of <i><a href=\"/index.php?title=Basti\" title=\"Basti\">basti</a></i>. Instrumentation and technique are two such important factors cited here. Instrumentation whilst the days of Charak were based on the most suitable and available material and hence such descriptions are expounded here. However, scientific advancement based on safety, feasibility and practicality in the present era has resulted in recent innovations such as use of metallic syringe in <i>matrabasti</i>, use of plastic bags replacing animal urinary bladders, nozzles made of disposable materials etc. The fact remains that such innovations need to be put into practice protecting the essence as well as the fundamental principles behind <i><a href=\"/index.php?title=Basti\" title=\"Basti\">basti</a></i> procedure and not interfering or rather limiting its effect in relation to the technique. Much criticism has been made on the use of enema cans (as in Naturopathy) instead of conventional <i><a href=\"/index.php?title=Basti\" title=\"Basti\">basti</a></i>, as it hinders the technique.\n</p>",
+            "links": [
+                {
+                    "text": "basti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Basti"
+                },
+                {
+                    "text": "basti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Basti"
+                },
+                {
+                    "text": "basti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Basti"
+                },
+                {
+                    "text": "basti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Basti"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Preventing complications while the procedure reflects two aspects of a physician; the extent of theoretical knowledge regarding basti and his expertise in the procedure. Identifying specific complications is made possible as a part of regular event evaluation irrespective of manifestation of any complications. Rectification of mistakes committed in technique are of immense value with respect to development of a standard operative procedure. Management of complications with respect to acute and chronic events is also an important aspect in siddhi .",
+            "html": "<p>Preventing complications while the procedure reflects two aspects of a physician; the extent of theoretical knowledge regarding <i><a href=\"/index.php?title=Basti\" title=\"Basti\">basti</a></i> and his expertise in the procedure. Identifying specific complications is made possible as a part of regular event evaluation irrespective of manifestation of any complications. Rectification of mistakes committed in technique are of immense value with respect to development of a standard operative procedure. Management of complications with respect to acute and chronic events is also an important aspect in <i>siddhi</i>.\n</p>",
+            "links": [
+                {
+                    "text": "basti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Basti"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Sanskrit text, Transliteration and English Translation",
+            "html": "<h2><span id=\"Sanskrit_text.2C_Transliteration_and_English_Translation\"></span><span class=\"mw-headline\" id=\"Sanskrit_text,_Transliteration_and_English_Translation\">Sanskrit text, Transliteration and English Translation</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "अथातो नेत्रबस्तिव्यापत्सिद्धिं व्याख्यास्यामः||१||",
+            "html": "<p>अथातो नेत्रबस्तिव्यापत्सिद्धिं  व्याख्यास्यामः||१|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "इति ह स्माह भगवानात्रेयः||२||",
+            "html": "<p>इति ह स्माह भगवानात्रेयः||२|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "अथ नेत्राणि बस्तींश्च शृणु वर्ज्यानि कर्मसु|",
+            "html": "<p>अथ नेत्राणि बस्तींश्च शृणु वर्ज्यानि कर्मसु| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "नेत्रस्याज्ञप्रणीतस्य व्यापदः सचिकित्सिताः||३||",
+            "html": "<p>नेत्रस्याज्ञप्रणीतस्य व्यापदः  सचिकित्सिताः||३||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "athātō nētrabastivyāpatsiddhiṁ vyākhyāsyāmaḥ||1||",
+            "html": "<p>athātō nētrabastivyāpatsiddhiṁ vyākhyāsyāmaḥ||1|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "iti ha smāha bhagavānātrēyaḥ||2||",
+            "html": "<p>iti ha smāha bhagavānātrēyaḥ||2|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "atha nētrāṇi bastīṁśca śr̥ṇu varjyāni karmasu|",
+            "html": "<p>atha nētrāṇi bastīṁśca śr̥ṇu varjyāni karmasu| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "nētrasyājñapraṇītasya vyāpadaḥ sacikitsitāḥ||3||",
+            "html": "<p>nētrasyājñapraṇītasya vyāpadaḥ  sacikitsitāḥ||3|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "athAto netrabastivyApatsiddhiM vyAkhyAsyAmaH||1||",
+            "html": "<p>athAto netrabastivyApatsiddhiM  vyAkhyAsyAmaH||1|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "iti ha smAha bhagavAnAtreyaH||2||",
+            "html": "<p>iti ha smAha bhagavAnAtreyaH||2|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "atha netrANi bastIMshca shRuNu varjyAni karmasu|",
+            "html": "<p>atha netrANi bastIMshca shRuNu varjyAni karmasu| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "netrasyAj~japraNItasya vyApadaH sacikitsitAH||3||",
+            "html": "<p>netrasyAj~japraNItasya vyApadaH  sacikitsitAH||3|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Now we shall expound the chapter \"Netrabastivyapat Siddhi\" (Management of complications due to enema nozzle). Thus said Lord Atreya. henceforth listen to the description of defects in enema nozzles, their complications if used for basti and their management. [1-3]",
+            "html": "<p>Now we shall expound the chapter \"Netrabastivyapat Siddhi\" (Management of complications due to enema nozzle). Thus said Lord Atreya. henceforth listen to the description of defects in enema nozzles, their complications if used for <i><a href=\"/index.php?title=Basti\" title=\"Basti\">basti</a></i> and their management.\t[1-3]\n</p>",
+            "links": [
+                {
+                    "text": "basti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Basti"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Eight defects of nozzle and its harmful effect",
+            "html": "<h3><span class=\"mw-headline\" id=\"Eight_defects_of_nozzle_and_its_harmful_effect\">Eight defects of nozzle and its harmful effect</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "ह्रस्वं दीर्घं तनु स्थूलं जीर्णं शिथिलबन्धनम्|",
+            "html": "<p>ह्रस्वं दीर्घं तनु स्थूलं जीर्णं शिथिलबन्धनम्| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "पार्श्वच्छिद्रं तथा वक्रमष्टौ नेत्राणि वर्जयेत्||४||",
+            "html": "<p>पार्श्वच्छिद्रं  तथा वक्रमष्टौ नेत्राणि वर्जयेत्||४|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "अप्राप्त्यतिगतिक्षोभकर्षणक्षणनस्रवाः|",
+            "html": "<p>अप्राप्त्यतिगतिक्षोभकर्षणक्षणनस्रवाः| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "गुदपीडा गतिर्जिह्मा तेषां दोषा यथाक्रमम्||५||",
+            "html": "<p>गुदपीडा गतिर्जिह्मा तेषां दोषा यथाक्रमम्||५|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "hrasvaṁ dīrghaṁ tanu sthūlaṁ jīrṇaṁ śithilabandhanam|",
+            "html": "<p>hrasvaṁ dīrghaṁ tanu sthūlaṁ jīrṇaṁ śithilabandhanam| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "pārśvacchidraṁ tathā vakram aṣṭau nētrāṇi varjayēt||4||",
+            "html": "<p>pārśvacchidraṁ  tathā vakram aṣṭau nētrāṇi varjayēt||4|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "aprāptyatigatikṣōbhakarṣaṇakṣaṇanasravāḥ|",
+            "html": "<p>aprāptyatigatikṣōbhakarṣaṇakṣaṇanasravāḥ| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "gudapīḍā gatirjihmā tēṣāṁ dōṣā yathākramam||5||",
+            "html": "<p>gudapīḍā gatirjihmā tēṣāṁ dōṣā yathākramam||5|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "hrasvaM dIrghaM tanu sthUlaM jIrNaM shithilabandhanam|",
+            "html": "<p>hrasvaM dIrghaM tanu sthUlaM jIrNaM shithilabandhanam| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "pArshvacchidraM tathA vakramaShTau netrANi varjayet||4||",
+            "html": "<p>pArshvacchidraM  tathA vakramaShTau netrANi varjayet||4|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "aprAptyatigatikShobhakarShaNakShaNanasravAH|",
+            "html": "<p>aprAptyatigatikShobhakarShaNakShaNanasravAH| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "gudapIDA gatirjihmA teShAM doShA yathAkramam||5||",
+            "html": "<p>gudapIDA gatirjihmA teShAM doShA yathAkramam||5|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Netra which are",
+            "html": "<p><i>Netra</i> which are \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "ol",
+            "text": "hrashvam (too small), deergham (too long), tanu (too thin), sthoolam (too thick), jeernam old and mutilated), shithilabandhanam (having loosely tied/inappropriate fastening of basti putaka with netra ), parshvachhidram (having hole – laterally on one side of netra ) and vakram (having bents or curves) are to be avoided. If these sort of nozzles are used while basti procedure, it results in corresponding eight doshas. These doshas (harmful effects) in the body as tabulated below:",
+            "html": "<ol><li><i>hrashvam</i> (too small),</li>\n<li><i>deergham</i> (too long),</li>\n<li><i>tanu</i> (too thin),</li>\n<li><i>sthoolam</i> (too thick),</li>\n<li><i>jeernam</i> old and mutilated),</li>\n<li><i>shithilabandhanam</i> (having loosely tied/inappropriate fastening of <i>basti putaka</i> with <i>netra</i> ),</li>\n<li><i>parshvachhidram</i> (having hole – laterally on one side of <i>netra</i>) and</li>\n<li><i>vakram</i> (having bents or curves) are to be avoided. If these sort of nozzles are used while <i><a href=\"/index.php?title=Basti\" title=\"Basti\">basti</a></i> procedure, it results in corresponding eight doshas.  These <i>doshas</i> (harmful effects) in the body as tabulated below:</li></ol>",
+            "links": [
+                {
+                    "text": "basti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Basti"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "hrashvam (too small),",
+                    "links": []
+                },
+                {
+                    "text": "deergham (too long),",
+                    "links": []
+                },
+                {
+                    "text": "tanu (too thin),",
+                    "links": []
+                },
+                {
+                    "text": "sthoolam (too thick),",
+                    "links": []
+                },
+                {
+                    "text": "jeernam old and mutilated),",
+                    "links": []
+                },
+                {
+                    "text": "shithilabandhanam (having loosely tied/inappropriate fastening of basti putaka with netra ),",
+                    "links": []
+                },
+                {
+                    "text": "parshvachhidram (having hole – laterally on one side of netra ) and",
+                    "links": []
+                },
+                {
+                    "text": "vakram (having bents or curves) are to be avoided. If these sort of nozzles are used while basti procedure, it results in corresponding eight doshas. These doshas (harmful effects) in the body as tabulated below:",
+                    "links": [
+                        {
+                            "text": "basti",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Basti"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "No.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "th",
+                        "text": "Defect in Netra",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "th",
+                        "text": "Resultant dosha if used in procedure",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "1",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Hrasvam",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Aprapti (medication not reaching the intended site)",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "2",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Deergham",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Atigati (medication overreaching/crossing the intended site)",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "3",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Tanu",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Kshobha (Medication reaches guda only and causes kshobha (discomfort by its movement there/hitting the anal walls due to its loose dimensions))",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "4",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Sthoolam",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Karshana (attrition due to oversize)",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "5",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Jeernam",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Kshanana (inflicts wound)",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "6",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Shithilabandhanam",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Sravah (leakage of medication while administering)",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "7",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Parshvachhidram",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Gudapeedha (causing pain/discomfort to the guda )",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "8",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Vakram",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Gatirjihma (medication travels transversely into the colon)",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ]
+            ],
+            "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th scope=\"col\">No.\n</th>\n<th scope=\"col\">Defect in <i>Netra</i>\n</th>\n<th scope=\"col\">Resultant <i>dosha</i> if used in procedure\n</th></tr>\n<tr>\n<td>1\n</td>\n<td><i>Hrasvam</i>\n</td>\n<td><i>Aprapti</i> (medication not reaching the intended site)\n</td></tr>\n<tr>\n<td>2\n</td>\n<td><i>Deergham</i>\n</td>\n<td><i>Atigati</i> (medication overreaching/crossing the intended site)\n</td></tr>\n<tr>\n<td>3\n</td>\n<td><i>Tanu</i>\n</td>\n<td><i>Kshobha</i> (Medication reaches <i>guda</i> only and causes <i>kshobha</i> (discomfort by its movement there/hitting the anal walls due to its loose dimensions))\n</td></tr>\n<tr>\n<td>4\n</td>\n<td><i>Sthoolam</i>\n</td>\n<td><i>Karshana</i> (attrition due to oversize)\n</td></tr>\n<tr>\n<td>5\n</td>\n<td><i>Jeernam</i>\n</td>\n<td><i>Kshanana</i>(inflicts wound)\n</td></tr>\n<tr>\n<td>6\n</td>\n<td><i>Shithilabandhanam</i>\n</td>\n<td><i>Sravah</i> (leakage of medication while administering)\n</td></tr>\n<tr>\n<td>7\n</td>\n<td><i>Parshvachhidram</i>\n</td>\n<td><i>Gudapeedha</i> (causing pain/discomfort to the <i>guda</i>)\n</td></tr>\n<tr>\n<td>8\n</td>\n<td><i>Vakram</i>\n</td>\n<td><i>Gatirjihma</i> (medication travels transversely into the colon)\n</td></tr></tbody></table>",
+            "links": []
+        },
+        {
+            "type": "p",
+            "text": "[4-5]",
+            "html": "<p>[4-5]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Basti putaka (defects of bladder/enema holding bag)",
+            "html": "<h3><span id=\"Basti_putaka_.28defects_of_bladder.2Fenema_holding_bag.29\"></span><span class=\"mw-headline\" id=\"Basti_putaka_(defects_of_bladder/enema_holding_bag)\"><i><a href=\"/index.php?title=Basti\" title=\"Basti\">Basti</a> putaka</i> (defects of bladder/enema holding bag)</span></h3>",
+            "links": [
+                {
+                    "text": "Basti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Basti"
+                }
+            ],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "विषममांसलच्छिन्नस्थूलजालिकवातलाः|",
+            "html": "<p>विषममांसलच्छिन्नस्थूलजालिकवातलाः| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "स्निग्धः क्लिन्नश्च तानष्टौ बस्तीन् कर्मसु वर्जयेत्||६||",
+            "html": "<p>स्निग्धः क्लिन्नश्च तानष्टौ बस्तीन् कर्मसु वर्जयेत्||६|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "गतिवैषम्यविस्रत्वस्रावदौर्ग्राह्यनिस्रवाः|",
+            "html": "<p>गतिवैषम्यविस्रत्वस्रावदौर्ग्राह्यनिस्रवाः| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "फेनिलच्युत्यधार्यत्वं बस्तेः स्युर्बस्तिदोषतः||७||",
+            "html": "<p>फेनिलच्युत्यधार्यत्वं बस्तेः स्युर्बस्तिदोषतः||७|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "viṣamamāṁsalacchinnasthūlajālikavātalāḥ|",
+            "html": "<p>viṣamamāṁsalacchinnasthūlajālikavātalāḥ| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "snigdhaḥ klinnaśca tānaṣṭau bastīn karmasu varjayēt||6||",
+            "html": "<p>snigdhaḥ klinnaśca tānaṣṭau bastīn karmasu varjayēt||6|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "gativaiṣamyavisratvasrāvadaurgrāhyanisravāḥ|",
+            "html": "<p>gativaiṣamyavisratvasrāvadaurgrāhyanisravāḥ| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "phēnilacyutyadhāryatvaṁ bastēḥ syurbastidōṣataḥ||7||",
+            "html": "<p>phēnilacyutyadhāryatvaṁ bastēḥ syurbastidōṣataḥ||7|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "viShamamAMsalacchinnasthUlajAlikavAtalAH|",
+            "html": "<p>viShamamAMsalacchinnasthUlajAlikavAtalAH| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "snigdhaH klinnashca tAnaShTau bastIn karmasu varjayet||6||",
+            "html": "<p>snigdhaH klinnashca tAnaShTau bastIn karmasu varjayet||6|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "gativaiShamyavisratvasrAvadaurgrAhyanisravAH|",
+            "html": "<p>gativaiShamyavisratvasrAvadaurgrAhyanisravAH| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "phenilacyutyadhAryatvaM basteH syurbastidoShataH||7||",
+            "html": "<p>phenilacyutyadhAryatvaM basteH syurbastidoShataH||7|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Basti which are",
+            "html": "<p><i>Basti</i> which are \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "ol",
+            "text": "vishama (irregular/uneven structure), mamsala (fleshy/bulky/pulpy), Chhinna (perforated/cut through/torn), Sthoola (thick/large), Jalika (having many pores), Vatala (containing air), Snigdha (viscous/oily/slippery/greasy) and Klinna (putrefied/rotted) are to be avoided. They if used in the procedure cause dosha (harmful effects) in the body and are tabulated below in their respective order:",
+            "html": "<ol><li><i>vishama</i> (irregular/uneven structure),</li>\n<li><i>mamsala</i> (fleshy/bulky/pulpy),</li>\n<li><i>Chhinna</i> (perforated/cut through/torn),</li>\n<li><i>Sthoola</i> (thick/large),</li>\n<li><i>Jalika</i> (having many pores),</li>\n<li><i>Vatala</i> (containing air),</li>\n<li><i>Snigdha</i> (viscous/oily/slippery/greasy) and</li>\n<li><i>Klinna</i> (putrefied/rotted) are to be avoided. They if used in the procedure cause <i>dosha</i> (harmful effects) in the body and are tabulated below in their respective order:</li></ol>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "vishama (irregular/uneven structure),",
+                    "links": []
+                },
+                {
+                    "text": "mamsala (fleshy/bulky/pulpy),",
+                    "links": []
+                },
+                {
+                    "text": "Chhinna (perforated/cut through/torn),",
+                    "links": []
+                },
+                {
+                    "text": "Sthoola (thick/large),",
+                    "links": []
+                },
+                {
+                    "text": "Jalika (having many pores),",
+                    "links": []
+                },
+                {
+                    "text": "Vatala (containing air),",
+                    "links": []
+                },
+                {
+                    "text": "Snigdha (viscous/oily/slippery/greasy) and",
+                    "links": []
+                },
+                {
+                    "text": "Klinna (putrefied/rotted) are to be avoided. They if used in the procedure cause dosha (harmful effects) in the body and are tabulated below in their respective order:",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "No.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "th",
+                        "text": "Defect in Basti",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "th",
+                        "text": "Resultant dosha if used in procedure",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "1",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Visama",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Gativaisamya (difficult passage of medication)",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "2",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Mamsala",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Visratva (mustiness) of basti",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "3",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Chhinna",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Sraava (abrupt leakage of medication)",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "4",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Sthoolam",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Daurgrahya (difficult to hold/grip while administration)",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "5",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Jaalika",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Nisrava (flowing out of medication)",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "6",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Vaatala",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Phenilatva (frothiness of medication)",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "7",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Snigdha",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Chyuti (slippery while administration)",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "8",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Klinna",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Adhaaryatva (not effective for administration)",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ]
+            ],
+            "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th scope=\"col\">No.\n</th>\n<th scope=\"col\">Defect in <i>Basti</i>\n</th>\n<th scope=\"col\">Resultant <i>dosha</i> if used in procedure\n</th></tr>\n<tr>\n<td>1\n</td>\n<td><i>Visama</i>\n</td>\n<td><i>Gativaisamya</i> (difficult passage of medication)\n</td></tr>\n<tr>\n<td>2\n</td>\n<td><i>Mamsala</i>\n</td>\n<td><i>Visratva</i> (mustiness) of <i>basti</i>\n</td></tr>\n<tr>\n<td>3\n</td>\n<td><i>Chhinna</i>\n</td>\n<td><i>Sraava</i> (abrupt leakage of medication)\n</td></tr>\n<tr>\n<td>4\n</td>\n<td><i>Sthoolam</i>\n</td>\n<td><i>Daurgrahya</i> (difficult to hold/grip while administration)\n</td></tr>\n<tr>\n<td>5\n</td>\n<td><i>Jaalika</i>\n</td>\n<td><i>Nisrava</i>(flowing out of medication)\n</td></tr>\n<tr>\n<td>6\n</td>\n<td><i>Vaatala</i>\n</td>\n<td><i>Phenilatva</i> (frothiness of medication)\n</td></tr>\n<tr>\n<td>7\n</td>\n<td><i>Snigdha</i>\n</td>\n<td><i>Chyuti</i> (slippery while administration)\n</td></tr>\n<tr>\n<td>8\n</td>\n<td><i>Klinna</i>\n</td>\n<td><i>Adhaaryatva</i> (not effective for administration)\n</td></tr></tbody></table>",
+            "links": []
+        },
+        {
+            "type": "p",
+            "text": "[6-7]",
+            "html": "<p>[6-7]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Errors by basti administrator",
+            "html": "<h3><span class=\"mw-headline\" id=\"Errors_by_basti_administrator\">Errors by <i><a href=\"/index.php?title=Basti\" title=\"Basti\">basti</a></i> administrator</span></h3>",
+            "links": [
+                {
+                    "text": "basti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Basti"
+                }
+            ],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "सवातातिद्रुतोत्क्षिप्ततिर्यगुल्लुप्तकम्पिताः|",
+            "html": "<p>सवातातिद्रुतोत्क्षिप्ततिर्यगुल्लुप्तकम्पिताः| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "अतिबाह्यगमन्दातिवेगदोषाः प्रणेतृतः||८||",
+            "html": "<p>अतिबाह्यगमन्दातिवेगदोषाः प्रणेतृतः||८|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "savātātidrutōtkṣiptatiryagulluptakampitāḥ|",
+            "html": "<p>savātātidrutōtkṣiptatiryagulluptakampitāḥ| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "atibāhyagamandātivēgadōṣāḥ praṇētr̥taḥ||8||",
+            "html": "<p>atibāhyagamandātivēgadōṣāḥ praṇētr̥taḥ||8|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "savAtAtidrutotkShiptatiryagulluptakampitAH|",
+            "html": "<p>savAtAtidrutotkShiptatiryagulluptakampitAH| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "atibAhyagamandAtivegadoShAH praNetRutaH||8||",
+            "html": "<p>atibAhyagamandAtivegadoShAH praNetRutaH||8|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Defects related to pranetru (administrator or attendant who applies procedure) are savata ( basti filled with air), atidruta (very fast), utkshipta (raised/upwards), tiryak (oblique/sideways/transverse), ullupta (taken out), kampita (trembling/shaking), ati (excess/too far), bahyaga (outside/diverging from), mandavega (slow) and ativega (speedy) administration of basti and they cause harm to the body. [8]",
+            "html": "<p>Defects related to <i>pranetru</i> (administrator or attendant who applies procedure) are <i>savata</i> (<i>basti</i> filled with air), <i>atidruta</i> (very fast), <i>utkshipta</i> (raised/upwards), <i>tiryak</i> (oblique/sideways/transverse), <i>ullupta</i> (taken out), <i>kampita</i> (trembling/shaking), <i>ati</i> (excess/too far), <i>bahyaga</i> (outside/diverging from), <i>mandavega</i> (slow) and <i>ativega</i> (speedy) administration of <i><a href=\"/index.php?title=Basti\" title=\"Basti\">basti</a></i> and they cause harm to the body. [8]\n</p>",
+            "links": [
+                {
+                    "text": "basti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Basti"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Effect of savata dosha (air entry during basti administration)",
+            "html": "<h3><span id=\"Effect_of_savata_dosha_.28air_entry_during_basti_administration.29\"></span><span class=\"mw-headline\" id=\"Effect_of_savata_dosha_(air_entry_during_basti_administration)\">Effect of <i>savata dosha</i> (air entry during <i><a href=\"/index.php?title=Basti\" title=\"Basti\">basti</a></i> administration)</span></h3>",
+            "links": [
+                {
+                    "text": "basti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Basti"
+                }
+            ],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "अनुच्छ्वास्य च बद्धे वा दत्ते निःशेष एव वा|",
+            "html": "<p>अनुच्छ्वास्य च बद्धे वा दत्ते निःशेष एव वा| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "प्रविश्य कुपितो वायुः शूलतोदकरो भवेत्||९||",
+            "html": "<p>प्रविश्य कुपितो वायुः शूलतोदकरो भवेत्||९|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "तत्राभ्यङ्गो गुदे स्वेदो वातघ्नान्यशनानि च|१०|",
+            "html": "<p>तत्राभ्यङ्गो गुदे स्वेदो वातघ्नान्यशनानि च|१०|\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "anucchvāsya ca baddhē vā dattē niḥśēṣa ēva vā|",
+            "html": "<p>anucchvāsya ca baddhē vā dattē niḥśēṣa ēva vā| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "praviśya kupitō vāyuḥ śūlatōdakarō bhavēt||9||",
+            "html": "<p>praviśya kupitō  vāyuḥ śūlatōdakarō bhavēt||9|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "tatrābhyaṅgō gudē svēdō vātaghnānyaśanāni ca|10|",
+            "html": "<p>tatrābhyaṅgō gudē svēdō vātaghnānyaśanāni ca|10|\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "anucchvAsya ca baddhe vA datte niHsheSha eva vA|",
+            "html": "<p>anucchvAsya ca baddhe vA datte niHsheSha eva vA| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "pravishya kupito vAyuH shUlatodakaro bhavet||9||",
+            "html": "<p>pravishya kupito  vAyuH shUlatodakaro bhavet||9|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "tatrAbhya~ggo gude svedo vAtaghnAnyashanAni ca|10|",
+            "html": "<p>tatrAbhya~ggo gude svedo vAtaghnAnyashanAni ca|10|\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Administration of medication from an improperly filled and/or tied basti and complete emptying of basti will cause entry of air into the rectum. Vata dosha gets vitiated inducing shoola (sharp, acute pain) and toda (pricking pain). Abhyanga (inunction), sveda (fomentation) to guda and consumption of diet comprising of vata dosha pacifying items are to be done as management.[9-10]",
+            "html": "<p>Administration of medication from an improperly filled and/or tied <i>basti</i> and complete emptying of <i>basti</i> will cause entry of air into the rectum. <i><a href=\"/index.php?title=Vata_dosha\" title=\"Vata dosha\">Vata dosha</a></i> gets vitiated inducing <i>shoola</i> (sharp, acute pain) and <i>toda</i> (pricking pain). <i>Abhyanga</i> (inunction), <i>sveda</i> (fomentation) to <i>guda</i> and consumption of diet comprising of <i><a href=\"/index.php?title=Vata_dosha\" title=\"Vata dosha\">vata dosha</a></i> pacifying items are to be done as management.[9-10]\n</p>",
+            "links": [
+                {
+                    "text": "Vata dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vata_dosha"
+                },
+                {
+                    "text": "vata dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vata_dosha"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Atidruta and utkshipta dosha (fast insertion and withdrawal)",
+            "html": "<h3><span id=\"Atidruta_and_utkshipta_dosha_.28fast_insertion_and_withdrawal.29\"></span><span class=\"mw-headline\" id=\"Atidruta_and_utkshipta_dosha_(fast_insertion_and_withdrawal)\"><i>Atidruta</i> and <i>utkshipta dosha</i> (fast insertion and withdrawal)</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "द्रुतं प्रणीते निष्कृष्टे सहसोत्क्षिप्त एव वा||१०||",
+            "html": "<p>द्रुतं प्रणीते निष्कृष्टे सहसोत्क्षिप्त एव वा||१०|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "स्यात् कटीगुदजङ्घार्तिबस्तिस्तम्भोरुवेदनाः |",
+            "html": "<p>स्यात् कटीगुदजङ्घार्तिबस्तिस्तम्भोरुवेदनाः | \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "भोजनं तत्र वातघ्नं स्नेहाः स्वेदाः सबस्तयः||११||",
+            "html": "<p>भोजनं तत्र वातघ्नं स्नेहाः स्वेदाः सबस्तयः||११|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "drutaṁ praṇītē niṣkr̥ṣṭē sahasōtkṣipta ēva vā||10||",
+            "html": "<p>drutaṁ praṇītē niṣkr̥ṣṭē sahasōtkṣipta ēva vā||10|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "syāt kaṭīgudajaṅghārtibastistambhōruvēdanāḥ |",
+            "html": "<p>syāt kaṭīgudajaṅghārtibastistambhōruvēdanāḥ  | \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "bhōjanaṁ tatra vātaghnaṁ snēhāḥ svēdāḥ sabastayaḥ||11||",
+            "html": "<p>bhōjanaṁ tatra vātaghnaṁ snēhāḥ svēdāḥ sabastayaḥ||11|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "drutaM praNIte niShkRuShTe sahasotkShipta eva vA||10||",
+            "html": "<p>drutaM praNIte niShkRuShTe sahasotkShipta eva vA||10|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "syAt kaTIgudaja~gghArtibastistambhoruvedanAH |",
+            "html": "<p>syAt kaTIgudaja~gghArtibastistambhoruvedanAH  | \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "bhojanaM tatra vAtaghnaM snehAH svedAH sabastayaH||11||",
+            "html": "<p>bhojanaM tatra vAtaghnaM snehAH svedAH sabastayaH||11|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "In case of very fast insertion and withdrawal of netra and introduction of netra in upward direction, arti (pain) occurs in waist, rectum and calf along with thighs. Consumption of diet comprising of vata dosha pacifying items, unction, fomentation and basti are to be advised as management.[10-11]",
+            "html": "<p>In case of very fast insertion and withdrawal of <i>netra</i> and introduction of <i>netra</i> in upward direction, <i>arti</i> (pain) occurs in waist, rectum and calf along with thighs. Consumption of diet comprising of <i><a href=\"/index.php?title=Vata_dosha\" title=\"Vata dosha\">vata dosha</a></i> pacifying items, unction, fomentation and <i><a href=\"/index.php?title=Basti\" title=\"Basti\">basti</a></i> are to be advised as management.[10-11]\n</p>",
+            "links": [
+                {
+                    "text": "vata dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vata_dosha"
+                },
+                {
+                    "text": "basti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Basti"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Tiryak dosha (improper direction of insertion)",
+            "html": "<h3><span id=\"Tiryak_dosha_.28improper_direction_of_insertion.29\"></span><span class=\"mw-headline\" id=\"Tiryak_dosha_(improper_direction_of_insertion)\"><i>Tiryak dosha</i> (improper direction of insertion)</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "तिर्यग्वल्यावृतद्वारे बद्धे वाऽपि न गच्छति|",
+            "html": "<p>तिर्यग्वल्यावृतद्वारे बद्धे वाऽपि न गच्छति| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "नेत्रे तदृजु निष्कृष्य संशोध्य च प्रवेशयेत्||१२||",
+            "html": "<p>नेत्रे तदृजु निष्कृष्य संशोध्य च प्रवेशयेत्||१२|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "tiryagvalyāvr̥tadvārē baddhē vā'pi na gacchati|",
+            "html": "<p>tiryagvalyāvr̥tadvārē baddhē vā'pi na gacchati| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "nētrē tadr̥ju niṣkr̥ṣya saṁśōdhya ca pravēśayēt||12||",
+            "html": "<p>nētrē tadr̥ju niṣkr̥ṣya saṁśōdhya ca pravēśayēt||12|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "tiryagvalyAvRutadvAre baddhe vA~api na gacchati|",
+            "html": "<p>tiryagvalyAvRutadvAre baddhe vA~api na gacchati| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "netre tadRuju niShkRuShya saMshodhya ca praveshayet||12||",
+            "html": "<p>netre tadRuju niShkRuShya saMshodhya ca praveshayet||12|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "This occurs due to:",
+            "html": "<p>This occurs due to:\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "ol",
+            "text": "insertion of netra in improper direction where, the aperture gets obstructed by gudavali and some material like thread knot occluding the aperture from inside. Here, the netra should be withdrawn, either re-inserted in proper direction or obstruction removed and re-inserted.[12]",
+            "html": "<ol><li>insertion of <i>netra</i> in improper direction where, the aperture gets obstructed by <i>gudavali</i> and</li>\n<li>some material like thread knot occluding the aperture from inside. Here, the <i>netra</i> should be withdrawn, either re-inserted in proper direction or obstruction removed and re-inserted.[12]</li></ol>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "insertion of netra in improper direction where, the aperture gets obstructed by gudavali and",
+                    "links": []
+                },
+                {
+                    "text": "some material like thread knot occluding the aperture from inside. Here, the netra should be withdrawn, either re-inserted in proper direction or obstruction removed and re-inserted.[12]",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "h3",
+            "text": "Ullupta and kampita dosha (improper squeezing of basti putaka and trembling while administration )",
+            "html": "<h3><span id=\"Ullupta_and_kampita_dosha_.28improper_squeezing_of_basti_putaka_and_trembling_while_administration_.29\"></span><span class=\"mw-headline\" id=\"Ullupta_and_kampita_dosha_(improper_squeezing_of_basti_putaka_and_trembling_while_administration_)\"><i>Ullupta</i> and <i>kampita dosha</i> (improper squeezing of basti putaka and trembling while administration )</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "पीड्यमानेऽन्तरा मुक्ते गुदे प्रतिहतोऽनिलः|",
+            "html": "<p>पीड्यमानेऽन्तरा मुक्ते गुदे प्रतिहतोऽनिलः| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "उरःशिरोर्तिमूर्वोश्च सदनं जनयेद्बली||१३||",
+            "html": "<p>उरःशिरोर्तिमूर्वोश्च सदनं जनयेद्बली||१३|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "बस्तिः स्यात्तत्र बिल्वादिफलश्यामादिमूत्रवान्|",
+            "html": "<p>बस्तिः स्यात्तत्र बिल्वादिफलश्यामादिमूत्रवान्| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "स्याद्दाहो दवथुः शोफः कम्पनाभिहते गुदे||१४||",
+            "html": "<p>स्याद्दाहो दवथुः शोफः कम्पनाभिहते गुदे||१४|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "कषायमधुराः शीताः सेकास्तत्र सबस्तयः|१५|",
+            "html": "<p>कषायमधुराः शीताः सेकास्तत्र सबस्तयः|१५|\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "pīḍyamānē'ntarā muktē gudē pratihatō'nilaḥ|",
+            "html": "<p>pīḍyamānē'ntarā muktē gudē pratihatō'nilaḥ| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "uraḥśirōrtimūrvōśca sadanaṁ janayēdbalī||13||",
+            "html": "<p>uraḥśirōrtimūrvōśca  sadanaṁ janayēdbalī||13|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "bastiḥ syāttatra bilvādiphalaśyāmādimūtravān|",
+            "html": "<p>bastiḥ syāttatra bilvādiphalaśyāmādimūtravān| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "syāddāhō davathuḥ śōphaḥ kampanābhihatē gudē||14||",
+            "html": "<p>syāddāhō davathuḥ śōphaḥ kampanābhihatē gudē||14|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "kaṣāyamadhurāḥ śītāḥ sēkāstatra sabastayaḥ|15|",
+            "html": "<p>kaṣāyamadhurāḥ śītāḥ sēkāstatra sabastayaḥ|15|\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "pIDyamAne~antarA mukte gude pratihato~anilaH|",
+            "html": "<p>pIDyamAne~antarA mukte gude pratihato~anilaH| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "uraHshirortimUrvoshca sadanaM janayedbalI||13||",
+            "html": "<p>uraHshirortimUrvoshca  sadanaM janayedbalI||13|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "bastiH syAttatra bilvAdiphalashyAmAdimUtravAn|",
+            "html": "<p>bastiH syAttatra bilvAdiphalashyAmAdimUtravAn| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "syAddAho davathuH shophaH kampanAbhihate gude||14||",
+            "html": "<p>syAddAho davathuH shophaH kampanAbhihate gude||14|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "kaShAyamadhurAH shItAH sekAstatra sabastayaH|15|",
+            "html": "<p>kaShAyamadhurAH shItAH sekAstatra sabastayaH|15| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "If the squeezing of basti is interrupted in between (and re-done), that will cause obstruction to vata dosha and in turn vitiates it resulting in pain in chest and head along with weakness of thighs. Management should be done by administering basti comprising of dashamoola, shyama and gomutra .",
+            "html": "<p>If the squeezing of <i>basti</i> is interrupted in between (and re-done), that will cause obstruction to <i><a href=\"/index.php?title=Vata_dosha\" title=\"Vata dosha\">vata dosha</a></i> and in turn vitiates it resulting in pain in chest and head along with weakness of thighs. Management should be done by administering <i><a href=\"/index.php?title=Basti\" title=\"Basti\">basti</a></i> comprising of <i>dashamoola, shyama</i> and <i>gomutra</i>.\n</p>",
+            "links": [
+                {
+                    "text": "vata dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vata_dosha"
+                },
+                {
+                    "text": "basti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Basti"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "In case of trembling of hands while introduction of netra , burning sensation, davathuḥ (pain heat/inflammation) and swelling occur in guda . Seka (pouring) and basti has to be dome with medicines having astringent and sweet taste and in cold state. [13-15]",
+            "html": "<p>In case of trembling of hands while introduction of <i>netra</i>, burning sensation, <i>davathuḥ</i> (pain heat/inflammation) and swelling occur in <i>guda</i>. <i>Seka</i> (pouring) and <i><a href=\"/index.php?title=Basti\" title=\"Basti\">basti</a></i> has to be dome with medicines having astringent and sweet taste and in cold state. [13-15]\n</p>",
+            "links": [
+                {
+                    "text": "basti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Basti"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Ati dosha (excessive deep insertion)",
+            "html": "<h3><span id=\"Ati_dosha_.28excessive_deep_insertion.29\"></span><span class=\"mw-headline\" id=\"Ati_dosha_(excessive_deep_insertion)\"><i>Ati dosha</i> (excessive deep insertion)</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "अतिमात्रप्रणीतेन नेत्रेण क्षणनाद्वलेः||१५||",
+            "html": "<p>अतिमात्रप्रणीतेन नेत्रेण क्षणनाद्वलेः||१५|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "स्यात् सार्तिदाहनिस्तोदगुदवर्चःप्रवर्तनम्|",
+            "html": "<p>स्यात् सार्तिदाहनिस्तोदगुदवर्चःप्रवर्तनम्| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "तत्र सर्पिः पिचुः क्षीरं पिच्छाबस्तिश्च शस्यते||१६||",
+            "html": "<p>तत्र सर्पिः पिचुः क्षीरं पिच्छाबस्तिश्च शस्यते||१६|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "atimātrapraṇītēna nētrēṇa kṣaṇanādvalēḥ||15||",
+            "html": "<p>atimātrapraṇītēna nētrēṇa kṣaṇanādvalēḥ||15|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "syāt sārti dāhanistōdagudavarcaḥpravartanam|",
+            "html": "<p>syāt sārti  dāhanistōdagudavarcaḥpravartanam| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "tatra sarpiḥ picuḥ kṣīraṁ picchābastiśca śasyatē||16||",
+            "html": "<p>tatra sarpiḥ picuḥ kṣīraṁ picchābastiśca śasyatē||16|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "atimAtrapraNItena netreNa kShaNanAdvaleH||15||",
+            "html": "<p>atimAtrapraNItena netreNa kShaNanAdvaleH||15|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "syAt sArti dAhanistodagudavarcaHpravartanam|",
+            "html": "<p>syAt sArti  dAhanistodagudavarcaHpravartanam| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "tatra sarpiH picuH kShIraM picchAbastishca shasyate||16||",
+            "html": "<p>tatra sarpiH picuH kShIraM picchAbastishca shasyate||16|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Extensive deep insertion of netra into guda inflicts injury to gudavali and results in pain, burning sensation, pricking pain, prolapse of guda and abrupt / unexpected defecation. Picu with cow’s ghee and milk and picchabasti are to be done here.[15-16]",
+            "html": "<p>Extensive deep insertion of <i>netra</i> into <i>guda</i> inflicts injury to <i>gudavali</i> and results in pain, burning sensation, pricking pain, prolapse of <i>guda</i> and abrupt / unexpected defecation. <i>Picu</i> with cow’s ghee and milk and <i>picchabasti</i> are to be done here.[15-16]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Manda vega and ativega dosha (slow and fast administration)",
+            "html": "<h3><span id=\"Manda_vega_and_ativega_dosha_.28slow_and_fast_administration.29\"></span><span class=\"mw-headline\" id=\"Manda_vega_and_ativega_dosha_(slow_and_fast_administration)\"><i>Manda vega</i> and <i>ativega dosha</i> (slow and fast administration)</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "न भावयति मन्दस्तु बाह्यस्त्वाशु निवर्तते|",
+            "html": "<p>न भावयति मन्दस्तु बाह्यस्त्वाशु निवर्तते| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "स्नेहस्तत्र पुनः सम्यक् प्रणेयः सिद्धिमिच्छता||१७||",
+            "html": "<p>स्नेहस्तत्र पुनः सम्यक् प्रणेयः सिद्धिमिच्छता||१७|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "अतिप्रपीडितः कोष्ठे तिष्ठत्यायाति वा गलम्|",
+            "html": "<p>अतिप्रपीडितः कोष्ठे तिष्ठत्यायाति वा गलम्| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "तत्र बस्तिर्विरेकश्च गलपीडादि कर्म च||१८||",
+            "html": "<p>तत्र बस्तिर्विरेकश्च गलपीडादि कर्म च||१८|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "na bhāvayati mandastu bāhyastvāśu nivartatē|",
+            "html": "<p>na  bhāvayati mandastu bāhyastvāśu nivartatē| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "snēhastatra punaḥ samyak praṇēyaḥ siddhimicchatā||17||",
+            "html": "<p>snēhastatra punaḥ samyak praṇēyaḥ siddhimicchatā||17|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "atiprapīḍitaḥ kōṣṭhē tiṣṭhatyāyāti vā galam|",
+            "html": "<p>atiprapīḍitaḥ kōṣṭhē tiṣṭhatyāyāti vā galam| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "tatra bastirvirēkaśca galapīḍādi karma ca||18||",
+            "html": "<p>tatra bastirvirēkaśca galapīḍādi karma ca||18||\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "na bhAvayati mandastu bAhyastvAshu nivartate|",
+            "html": "<p>na  bhAvayati mandastu bAhyastvAshu nivartate| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "snehastatra punaH samyak praNeyaH siddhimicchatA||17||",
+            "html": "<p>snehastatra punaH samyak praNeyaH siddhimicchatA||17|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "atiprapIDitaH koShThe tiShThatyAyAti vA galam|",
+            "html": "<p>atiprapIDitaH koShThe tiShThatyAyAti vA galam| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "tatra bastirvirekashca galapIDAdi karma ca||18||",
+            "html": "<p>tatra bastirvirekashca galapIDAdi karma ca||18|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "In case of first one (slow administration), medicine doesn’t reach pakvashaya and is ineffective. Administration diverging from guda (second one), medicine is expelled out faster. In both cases, the snehabasti has to be done.",
+            "html": "<p>In case of first one (slow administration), medicine doesn’t reach <i>pakvashaya</i> and is ineffective. Administration diverging from <i>guda</i> (second one), medicine is expelled out faster. In both cases, the <i>snehabasti</i> has to be done. \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "In case of speedy administration, either medicine stays in koshtha or ascends up to gala (throat). There, basti , vireka (purgation) and tight gripping of neck are to be done. [17-18]",
+            "html": "<p>In case of speedy administration, either medicine stays in <i>koshtha</i> or ascends up to <i>gala</i> (throat). There, <i><a href=\"/index.php?title=Basti\" title=\"Basti\">basti</a></i>, <i>vireka</i> (purgation) and tight gripping of neck are to be done. [17-18]\n</p>",
+            "links": [
+                {
+                    "text": "basti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Basti"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Summary",
+            "html": "<h3><span class=\"mw-headline\" id=\"Summary\">Summary</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "तत्र श्लोकः-",
+            "html": "<p>तत्र श्लोकः- \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "नेत्रबस्तिप्रणेतॄणां दोषानेतान् सभेषजान्|",
+            "html": "<p>नेत्रबस्तिप्रणेतॄणां दोषानेतान् सभेषजान्| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "वेत्ति यस्तेन मतिमान् बस्तिकर्माणि कारयेत्||१९||",
+            "html": "<p>वेत्ति यस्तेन मतिमान् बस्तिकर्माणि कारयेत्||१९|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "tatra ślōkaḥ-",
+            "html": "<p>tatra ślōkaḥ- \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "nētrabastipraṇētr̥̄ṇāṁ dōṣānētān sabhēṣajān|",
+            "html": "<p>nētrabastipraṇētr̥̄ṇāṁ dōṣānētān sabhēṣajān| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "vētti yastēna matimān bastikarmāṇi kārayēt||19||",
+            "html": "<p>vētti yastēna matimān bastikarmāṇi kārayēt||19|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "tatra shlokaH-",
+            "html": "<p>tatra shlokaH- \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "netrabastipraNetRUNAM doShAnetAn sabheShajAn|",
+            "html": "<p>netrabastipraNetRUNAM doShAnetAn sabheShajAn| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "vetti yastena matimAn bastikarmANi kArayet||19||",
+            "html": "<p>vetti yastena matimAn bastikarmANi kArayet||19|| \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "An intelligent physician who learns the dosha of netra, basti and praneta properly along with management shall practice basti . [19]",
+            "html": "<p>An intelligent physician who learns the <i>dosha</i> of <i>netra, basti</i> and <i>praneta</i> properly along with management shall practice <i><a href=\"/index.php?title=Basti\" title=\"Basti\">basti</a></i>. [19]\n</p>",
+            "links": [
+                {
+                    "text": "basti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Basti"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Tattva Vimarsha (Fundamental Principles)",
+            "html": "<h2><span id=\"Tattva_Vimarsha_.28Fundamental_Principles.29\"></span><span class=\"mw-headline\" id=\"Tattva_Vimarsha_(Fundamental_Principles)\">Tattva Vimarsha (Fundamental Principles)</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ul",
+            "text": "The basti netra (nozzle), basti putaka (bladder/enema pot) should be non-defective to avoid complications of basti therapy. Basti therapy should be administered with utmost care by well trained, skilled and experienced praneta (administrator). If this is not followed, complications can occur in basti therapy.",
+            "html": "<ul><li>The <i><a href=\"/index.php?title=Basti\" title=\"Basti\">basti</a> netra</i> (nozzle), <i><a href=\"/index.php?title=Basti\" title=\"Basti\">basti</a> putaka</i> (bladder/enema pot) should be non-defective to avoid complications of <i><a href=\"/index.php?title=Basti\" title=\"Basti\">basti</a></i> therapy.</li>\n<li><i><a href=\"/index.php?title=Basti\" title=\"Basti\">Basti</a></i> therapy should be administered with utmost care by well trained, skilled and experienced <i>praneta</i> (administrator). If this is not followed, complications can occur in <i><a href=\"/index.php?title=Basti\" title=\"Basti\">basti</a></i> therapy.</li></ul>",
+            "links": [
+                {
+                    "text": "basti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Basti"
+                },
+                {
+                    "text": "basti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Basti"
+                },
+                {
+                    "text": "basti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Basti"
+                },
+                {
+                    "text": "Basti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Basti"
+                },
+                {
+                    "text": "basti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Basti"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "The basti netra (nozzle), basti putaka (bladder/enema pot) should be non-defective to avoid complications of basti therapy.",
+                    "links": [
+                        {
+                            "text": "basti",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Basti"
+                        },
+                        {
+                            "text": "basti",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Basti"
+                        },
+                        {
+                            "text": "basti",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Basti"
+                        }
+                    ]
+                },
+                {
+                    "text": "Basti therapy should be administered with utmost care by well trained, skilled and experienced praneta (administrator). If this is not followed, complications can occur in basti therapy.",
+                    "links": [
+                        {
+                            "text": "Basti",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Basti"
+                        },
+                        {
+                            "text": "basti",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Basti"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Vidhi Vimarsha (Applied Inferences )",
+            "html": "<h2><span id=\"Vidhi_Vimarsha_.28Applied_Inferences_.29\"></span><span class=\"mw-headline\" id=\"Vidhi_Vimarsha_(Applied_Inferences_)\">Vidhi Vimarsha (Applied Inferences )</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "The knowledge on apt instruments to be used in respective procedure is vital in ensuring the procedure effect. In the case of basti (procedure), the knowledge on properly designed netra and basti is essential for physicians. Also, Inappropriate appliance of netra in the procedure leads to vyapat and needs to be managed by the physician. Hence, this aspect is being dealt further in the chapter.",
+            "html": "<p>The knowledge on apt instruments to be used in respective procedure is vital in ensuring the procedure effect. In the case of <i><a href=\"/index.php?title=Basti\" title=\"Basti\">basti</a></i> (procedure), the knowledge on properly designed <i>netra</i> and <i>basti</i> is essential for physicians. Also, Inappropriate appliance of <i>netra</i> in the procedure leads to <i>vyapat</i> and needs to be managed by the physician. Hence, this aspect is being dealt further in the chapter.\n</p>",
+            "links": [
+                {
+                    "text": "basti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Basti"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Research works have proved the importance of instruments and technique of administration which influences the total procedure and thereby its effect on the body. Usage of proper netra and basti in the procedure had influenced the time taken for administration by the maintenance of uniform pressure and gradual squeezing of the content during administration of niruha (decoction type of enema) [ 1 ] . Also, it influenced the extent of reach of medication in the colon and its quantity. Usage of animal bladder for preparation of bastiputaka (bag or vessel) was possible and justified in earlier days, however, is not feasible and practical today. As an alternative, a plastic bag of 50 microns thickness and having 1.5 l capacity has been reported recently and is disposed of after single use. [ 2 ]",
+            "html": "<p>Research works have proved the importance of instruments and technique of administration which influences the total procedure and thereby its effect on the body. Usage of proper <i>netra</i> and <i>basti</i> in the procedure had influenced the time taken for administration by the maintenance of uniform pressure and gradual squeezing of the content during administration of <i>niruha</i>  (decoction type of enema)<sup class=\"reference\" id=\"cite_ref-1\"><a href=\"#cite_note-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup>. Also, it influenced the extent of reach of medication in the colon and its quantity. Usage of animal bladder for preparation of <i>bastiputaka</i> (bag or vessel) was possible and justified in earlier days, however, is not feasible and practical today. As an alternative, a plastic bag of 50 microns thickness and having 1.5 l capacity has been reported recently and is disposed of after single use.<sup class=\"reference\" id=\"cite_ref-2\"><a href=\"#cite_note-2\"><span class=\"cite-bracket\">[</span>2<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 1 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#cite_note-1"
+                },
+                {
+                    "text": "[ 2 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#cite_note-2"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Defects of basti nozzle",
+            "html": "<h3><span class=\"mw-headline\" id=\"Defects_of_basti_nozzle\">Defects of <i><a href=\"/index.php?title=Basti\" title=\"Basti\">basti</a></i> nozzle</span></h3>",
+            "links": [
+                {
+                    "text": "basti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Basti"
+                }
+            ],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Defect in netra are eight in number and each of them affects the proper administration of basti procedure. Recommendable netra according to Charak, should have the following attributes: apertures(at the tip, i.e outlet aperture and at the base (inlet aperture) of the netra ) equal to little and thumb in circumference (यथावयोऽङ्गुष्ठकनिष्ठिकाभ्यां मूलाग्रयोः स्युः परिणाहवन्ति), straight (ऋजूनि), alike tail of a cow in shape (गोपुच्छसमाकृतीनि), smooth (श्लक्ष्णानि), curved in tip/round or circular (र्गुडिकामुखानि) and two round protuberances – one at the distal ¼ and other at the proximal end (कर्णिकैकाऽग्रचतुर्थभागे मूलाश्रिते बस्तिनिबन्धने द्वे). [Cha. Sa. Siddhi sthana 3/3]",
+            "html": "<p>Defect in <i>netra</i> are eight in number and each of them affects the proper administration of <i><a href=\"/index.php?title=Basti\" title=\"Basti\">basti</a></i> procedure. Recommendable <i>netra</i> according to Charak, should have the following attributes:   apertures(at the tip, i.e outlet aperture and at the base (inlet aperture) of the <i>netra</i>) equal to little and thumb in circumference (यथावयोऽङ्गुष्ठकनिष्ठिकाभ्यां मूलाग्रयोः स्युः परिणाहवन्ति), straight (ऋजूनि), alike tail of a cow in shape (गोपुच्छसमाकृतीनि), smooth (श्लक्ष्णानि), curved in tip/round or circular (र्गुडिकामुखानि) and two round protuberances – one at the distal ¼ and other at the proximal end (कर्णिकैकाऽग्रचतुर्थभागे मूलाश्रिते बस्तिनिबन्धने द्वे). [Cha. Sa.<a class=\"new\" href=\"/index.php?title=Siddhi_sthana&amp;action=edit&amp;redlink=1\" title=\"Siddhi sthana (page does not exist)\">Siddhi sthana</a> 3/3]\n</p>",
+            "links": [
+                {
+                    "text": "basti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Basti"
+                },
+                {
+                    "text": "Siddhi sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Siddhi_sthana&action=edit&redlink=1"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Chakrapani has made it clear that aprapti and atigati of the dravya happens. He has interpreted tanu as krisha (thin, emaciated) having equivalent meaning. He also adds that this limits the reach of medication to guda alone and causes discomfort locally. Jeernam has been interpreted by him as karkasha (meaning rough), thereby the term jeernam implying two characters – disintegrated and/or rough.",
+            "html": "<p>Chakrapani has made it clear that <i>aprapti</i> and <i>atigati</i> of the <i>dravya</i> happens. He has interpreted <i>tanu</i> as <i>krisha</i> (thin, emaciated) having equivalent meaning. He also adds that this limits the reach of medication to <i>guda</i> alone and causes discomfort locally. <i>Jeernam</i> has been interpreted by him as <i>karkasha</i> (meaning rough), thereby the term <i>jeernam</i> implying two characters – disintegrated and/or rough.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "On a critical view, one may note that two kinds of harmful effect of defective netra are grouped here –",
+            "html": "<p>On a critical view, one may note that two kinds of harmful effect of defective <i>netra</i> are grouped here – \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "ol",
+            "text": "before administration such as leakage of medication in shithilabandhanam and after the administration such as transverse travel of medication in the colon vakram . Majority of them fall in the second category.",
+            "html": "<ol><li>before administration such as leakage of medication in <i>shithilabandhanam</i> and</li>\n<li>after the administration such as transverse travel of medication in the colon <i>vakram</i>. Majority of them fall in the second category.</li></ol>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "before administration such as leakage of medication in shithilabandhanam and",
+                    "links": []
+                },
+                {
+                    "text": "after the administration such as transverse travel of medication in the colon vakram . Majority of them fall in the second category.",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "The dosha resulting from sthoolam is mentioned as karshana meaning emaciation which lacks clarity. The vyapat of atisthoola is considered along with those caused by karkasha, asrimat ( netra having edges/having hole) and avanata (downwards) by Sushruta and explained as causing gharshana (friction/rubbing), gudakshata (injury to guda ) and ruk (pain) [ 3 ]",
+            "html": "<p>The <i>dosha</i> resulting from <i>sthoolam</i> is mentioned as <i>karshana</i> meaning emaciation which lacks clarity. The <i>vyapat</i> of <i>atisthoola</i> is considered along with those caused by <i>karkasha, asrimat</i> (<i>netra</i> having edges/having hole) and <i>avanata</i> (downwards) by Sushruta and explained as causing <i>gharshana</i> (friction/rubbing), <i>gudakshata</i> (injury to <i>guda</i>) and <i>ruk</i> (pain)<sup class=\"reference\" id=\"cite_ref-Su1_3-0\"><a href=\"#cite_note-Su1-3\"><span class=\"cite-bracket\">[</span>3<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 3 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#cite_note-Su1-3"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "This explanation of Sushruta seems to be more apt to the context. Also, the number of netra dosha varies in Sushruta and eleven are considered there viz. atisthoola, avanata, karkasha, anubhinnam, sannikrushtakarnika (round protuberance designed close to the outlet aperture), viprakrushtakarnika (round protuberance designed far from outlet aperture), sookshmachidra (subtle aperture), atichhidra (wider aperture), atideergha, atihrasva and asrimat [ 4 ]",
+            "html": "<p>This explanation of Sushruta seems to be more apt to the context. Also, the number of <i>netra dosha</i> varies in Sushruta and eleven are considered there viz. <i>atisthoola, avanata, karkasha, anubhinnam, sannikrushtakarnika</i> (round protuberance designed close to the outlet aperture), <i>viprakrushtakarnika</i> (round protuberance designed far from outlet aperture), <i>sookshmachidra</i> (subtle aperture), <i>atichhidra</i> (wider aperture), <i>atideergha, atihrasva</i> and <i>asrimat</i><sup class=\"reference\" id=\"cite_ref-4\"><a href=\"#cite_note-4\"><span class=\"cite-bracket\">[</span>4<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 4 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#cite_note-4"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Defects of basti putaka (enema pot)",
+            "html": "<h3><span id=\"Defects_of_basti_putaka_.28enema_pot.29\"></span><span class=\"mw-headline\" id=\"Defects_of_basti_putaka_(enema_pot)\">Defects of <i><a href=\"/index.php?title=Basti\" title=\"Basti\">basti</a> putaka</i> (enema pot)</span></h3>",
+            "links": [
+                {
+                    "text": "basti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Basti"
+                }
+            ],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Defective basti putaka are eight in number and each of them affects the proper appliance in the procedure. When basti was used in olden times, a basti devoid of veins was selected from a dead animal (natural death/healthy and butchered) and it was processed prior by soaking in kashaya , (decoctions) gently rubbed and dried (दृढस्तनुर्नष्टसिरो विगन्धः कषायरक्तः सुमृदुः सुशुद्धः) [ 5 ]",
+            "html": "<p>Defective <i>basti putaka</i> are eight in number and each of them affects the proper appliance in the procedure. When <i>basti</i> was used in olden times, a <i>basti</i> devoid of veins was selected from a dead animal (natural death/healthy and butchered) and it was processed prior by soaking in <i>kashaya</i>, (decoctions) gently rubbed and dried (दृढस्तनुर्नष्टसिरो विगन्धः कषायरक्तः सुमृदुः सुशुद्धः)<sup class=\"reference\" id=\"cite_ref-5\"><a href=\"#cite_note-5\"><span class=\"cite-bracket\">[</span>5<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 5 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#cite_note-5"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Chakrapani has commented upon the terms vishama, sthoola, jalika, vatala, snigdha and klinna among defective basti . He has also elaborated on visratva, daurgrahya, chyuti and adharyatva . As discussed earlier, practicality and feasibility issues and stringent laws in procuring animal parts have led to the replacement of basti ( putaka ) with plastic bags.",
+            "html": "<p><i>Chakrapani</i> has commented upon the terms <i>vishama, sthoola, jalika, vatala, snigdha</i> and <i>klinna</i> among defective <i>basti</i>. He has also elaborated on <i>visratva, daurgrahya, chyuti</i> and <i>adharyatva</i>. As discussed earlier, practicality and feasibility issues and stringent laws in procuring animal parts have led to the replacement of <i>basti</i> (<i>putaka</i>) with plastic bags. \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Sushruta has limited the number to five viz. praasteerna [prāstIrNa; प्रास्तीर्ण (extended/flat/having network of veins)], bahala [bahala; बहल (thick/bushy/dense)], durbaddha [durbaddha; दुर्बद्ध (badly fastened)], sacchidra [sacchidra; सछिद्र (along with holes)] and alpa [alpa; अल्प (tiny)] [ 3 ] Praasteerna causes leakage of medication and alpa in less effective due to less amount of medication getting administered [ 6 ]",
+            "html": "<p>Sushruta has limited the number to five viz. <i>praasteerna</i> [prāstIrNa; प्रास्तीर्ण (extended/flat/having network of veins)], <i>bahala</i> [bahala; बहल (thick/bushy/dense)], <i>durbaddha</i> [durbaddha; दुर्बद्ध (badly fastened)], <i>sacchidra</i> [sacchidra; सछिद्र (along with holes)] and <i>alpa</i> [alpa; अल्प (tiny)]<sup class=\"reference\" id=\"cite_ref-Su1_3-1\"><a href=\"#cite_note-Su1-3\"><span class=\"cite-bracket\">[</span>3<span class=\"cite-bracket\">]</span></a></sup>\n<i>Praasteerna</i> causes leakage of medication and <i>alpa</i> in less effective due to less amount of medication getting administered <sup class=\"reference\" id=\"cite_ref-6\"><a href=\"#cite_note-6\"><span class=\"cite-bracket\">[</span>6<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 3 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#cite_note-Su1-3"
+                },
+                {
+                    "text": "[ 6 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#cite_note-6"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Errors during administration and management of complications",
+            "html": "<h3><span class=\"mw-headline\" id=\"Errors_during_administration_and_management_of_complications\">Errors during administration and management of complications</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "The probable errors committed by the person who administers basti are 10 in number. Charak in 3rd chapter of siddhi has laid down the standard operative procedure of administration as follows:",
+            "html": "<p>The probable errors committed by the person who administers <i><a href=\"/index.php?title=Basti\" title=\"Basti\">basti</a></i> are 10 in number.  Charak in 3rd chapter of <i>siddhi</i> has laid down the standard operative procedure of administration as follows:\n</p>",
+            "links": [
+                {
+                    "text": "basti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Basti"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Guda (and the distal ¼ of the netra ) should be anointed first (स्निग्धे गुदे नेत्रचतुर्थभागं स्निग्धं) and slowly the netra should be introduced in the direction of spine (शनैरृज्वनपृष्ठवंशम्), without any trembling, tremor etc., with skilled hands (अकम्पनावेपनलाघवादीन् पाण्योर्गुणांश्चापि विदर्शयंस्तम्) and the medication should be emptied in a single squeeze from basti (प्रपीड्य चैकग्रहणेन दत्तं) and slowly netra can be withdrawn (नेत्रं शनैरेव ततोऽपकर्षेत्). [Cha.Sa. Siddhi Sthana 3/19, 20]",
+            "html": "<p><i>Guda</i> (and the distal ¼ of the <i>netra</i>) should be anointed first (स्निग्धे गुदे नेत्रचतुर्थभागं स्निग्धं) and slowly the <i>netra</i> should be introduced in the direction of spine (शनैरृज्वनपृष्ठवंशम्), without any trembling, tremor etc., with skilled hands (अकम्पनावेपनलाघवादीन् पाण्योर्गुणांश्चापि विदर्शयंस्तम्) and the medication should be emptied in a single squeeze from <i>basti</i> (प्रपीड्य चैकग्रहणेन दत्तं) and slowly <i>netra</i> can be withdrawn (नेत्रं शनैरेव ततोऽपकर्षेत्). [Cha.Sa. <a href=\"/index.php?title=Siddhi_Sthana\" title=\"Siddhi Sthana\">Siddhi Sthana</a> 3/19, 20]\n</p>",
+            "links": [
+                {
+                    "text": "Siddhi Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Siddhi_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Chakrapani categorizes these as pranayana, badha and peedana . Savata is a defect committed during badha (filling and tying of basti ) and peedana (squeezing of basti ). Atidruta, utkshipta, tiryak, kampita, ati, and bahyaga are considered as defects committed during pranayana (introduction of netra into the anus). Ullupta, mandavega and ativega are committed while peedana .",
+            "html": "<p>Chakrapani categorizes these as <i>pranayana, badha</i> and <i>peedana</i>. <i>Savata</i> is a defect committed during <i>badha</i> (filling and tying of <i>basti</i>) and <i>peedana</i> (squeezing of <i>basti</i>). <i>Atidruta, utkshipta, tiryak, kampita, ati,</i> and <i>bahyaga</i> are considered as defects committed during <i>pranayana</i> (introduction of <i>netra</i> into the anus). <i>Ullupta, mandavega</i> and <i>ativega</i> are committed while <i>peedana</i>.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Sushruta has explained pranidhanadosha and peedana dosha separately and are six and four in number respectively [ 7 ] . Peedanakala was not specified by Charak and Vagbhata have mentioned its significance in the procedure. Direct reference to peedanakala by Sushruta lacks clarity, even though Dalhana gives commentary on peedanakala as thirty matra for a person with mridu (delicate/tender) koshtha कोष्ठ (bowels) [ 8 ]",
+            "html": "<p>Sushruta has explained <i>pranidhanadosha</i> and <i>peedana dosha</i> separately and are six and four in number respectively<sup class=\"reference\" id=\"cite_ref-7\"><a href=\"#cite_note-7\"><span class=\"cite-bracket\">[</span>7<span class=\"cite-bracket\">]</span></a></sup>. <i>Peedanakala</i> was not specified by Charak and Vagbhata have mentioned its significance in the procedure. Direct reference to peedanakala by Sushruta lacks clarity, even though Dalhana gives commentary on <i>peedanakala</i> as thirty <i>matra</i> for a person with <i>mridu</i> (delicate/tender) <i>koshtha</i> कोष्ठ (bowels)<sup class=\"reference\" id=\"cite_ref-8\"><a href=\"#cite_note-8\"><span class=\"cite-bracket\">[</span>8<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 7 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#cite_note-7"
+                },
+                {
+                    "text": "[ 8 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#cite_note-8"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Practically, it is seen that conducting a per rectal examination prior to the introduction of netra provides not only valuable information on the condition of rectum but also de-sensitizes [ 9 ] the rectum thereby ensuring smooth conduct of the procedure. It is observed that chances of most defects in introduction are done away with the adoption of this maneuver in practice. Also, during squeezing of basti , if any resistance is felt, it is better to retract the netra and re-introduce it as chances are likely that the aperture of netra may be directed towards the wall of the anal canal. (Verse 8)",
+            "html": "<p>Practically, it is seen that conducting a per rectal examination prior to the introduction of <i>netra</i> provides not only valuable information on the condition of rectum but also de-sensitizes<sup class=\"reference\" id=\"cite_ref-9\"><a href=\"#cite_note-9\"><span class=\"cite-bracket\">[</span>9<span class=\"cite-bracket\">]</span></a></sup> the rectum thereby ensuring smooth conduct of the procedure. It is observed that chances of most defects in introduction are done away with the adoption of this maneuver in practice. Also, during squeezing of <i>basti</i>, if any resistance is felt, it is better to retract the <i>netra</i> and re-introduce it as chances are likely that the aperture of <i>netra</i> may be directed towards the wall of the anal canal. (Verse 8)\n</p>",
+            "links": [
+                {
+                    "text": "[ 9 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#cite_note-9"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Chakrapani comments that even though wrong practices in administration were non-recommended earlier itself, details are being discussed further focusing their management. Sushruta has explained the entry of air into rectum as a resultant of repeated squeezing of basti and is manifested with abdominal distension and severe stomach ache. Suitable basti is advised as management. (Verse 9-10)",
+            "html": "<p>Chakrapani comments that even though wrong practices in administration were non-recommended earlier itself, details are being discussed further focusing their management. Sushruta has explained the entry of air into rectum as a resultant of repeated squeezing of <i>basti</i> and is manifested with abdominal distension and severe stomach ache. Suitable <i>basti</i> is advised as management. (Verse 9-10)\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "If any pain/discomfort is reported by the patient during the procedure, it is better to retract the netra and re-introduce it. (Verse 10-11)",
+            "html": "<p>If any pain/discomfort is reported by the patient during the procedure, it is better to retract the <i>netra</i> and re-introduce it. (Verse 10-11)\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Sushruta has expressed views consistent to that of Charak in this case. It is important to remember that as per the standard procedure of basti , a varti (thread/pad) has to be placed in the aperture of netra after tying it to basti , and then medication has to be poured to the basti . So, there are chances that a piece of the thread/pad may remain inside the aperture and care has to be taken to check it before introduction into guda . (Verse 12)",
+            "html": "<p>Sushruta has expressed views consistent to that of Charak in this case. It is important to remember that as per the standard procedure of <i><a href=\"/index.php?title=Basti\" title=\"Basti\">basti</a></i>, a <i>varti</i> (thread/pad) has to be placed in the aperture of <i>netra</i> after tying it to <i>basti</i>, and then medication has to be poured to the <i>basti</i>. So, there are chances that a piece of the thread/pad may remain inside the aperture and care has to be taken to check it before introduction into <i>guda</i>. (Verse 12)\n</p>",
+            "links": [
+                {
+                    "text": "basti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Basti"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Even though the karnika near to the distal end of netra prevents extensive introduction of the netra into guda , sometimes the force with which netra is introduced into guda inflicts injury. Picchabasti , explained elsewhere arrests the prolapse and controls the inflammation of the local structures. Sushruta has advised all measures explained in sadyakshata (acute injury) as management. (Verse 16)",
+            "html": "<p>Even though the <i>karnika</i> near to the distal end of <i>netra</i> prevents extensive introduction of the <i>netra</i> into <i>guda</i>, sometimes the force with which <i>netra</i> is introduced into <i>guda</i> inflicts injury. <i>Picchabasti</i>, explained elsewhere arrests the prolapse and controls the inflammation of the local structures. Sushruta has advised all measures explained in <i>sadyakshata</i> (acute injury) as management. (Verse 16)\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Chakrapani clarifies that the term bhavyati used here means its non-entry to pakvashaya . He adds that in manda and ativega , avarana of vata occurs and in ativega , it is due to the absence of avarana that results medicine ascending up to throat. He further says that in case of retention of medicine basti or vireka is advisable and in case of medicine reaching the throat, galapeeda has to be done.",
+            "html": "<p>Chakrapani clarifies that the term <i>bhavyati</i> used here means its non-entry to <i>pakvashaya</i>. He adds that in <i>manda</i> and <i>ativega</i>, <i>avarana</i> of <i><a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a></i> occurs and in <i>ativega</i>, it is due to the absence of <i>avarana</i> that results medicine ascending up to throat. He further says that in case of retention of medicine <i><a href=\"/index.php?title=Basti\" title=\"Basti\">basti</a></i> or <i>vireka</i> is advisable and in case of medicine reaching the throat, <i>galapeeda</i> has to be done.\n</p>",
+            "links": [
+                {
+                    "text": "vata",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vata"
+                },
+                {
+                    "text": "basti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Basti"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Sushruta has explained that in ativega , the medicine may come out through nose, mouth etc. He has advised teekshana nasya in addition to vireka, galapeeda and pouring of medicines in cold state. Also, Dalhana has commented on a maneuver mentioned as avadhoonana as holding the head by hairs and shaking it.",
+            "html": "<p>Sushruta has explained that in <i>ativega</i>, the medicine may come out through nose, mouth etc. He has advised <i>teekshana <a href=\"/index.php?title=Nasya\" title=\"Nasya\">nasya</a></i> in addition to <i>vireka, galapeeda</i> and pouring of medicines in cold state. Also, Dalhana has commented on a maneuver mentioned as <i>avadhoonana</i> as holding the head by hairs and shaking it.\n</p>",
+            "links": [
+                {
+                    "text": "nasya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Nasya"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Retention of basti medicine inside the body is a serious complication and measures have to be adopted with an emergency management perspective. It is mandatory to monitor the retention time in basti and many a times it suggests the pharmacokinetics also. (Verse 17-18)",
+            "html": "<p>Retention of <i><a href=\"/index.php?title=Basti\" title=\"Basti\">basti</a></i> medicine inside the body is a serious complication and measures have to be adopted with an emergency management perspective. It is mandatory to monitor the retention time in <i><a href=\"/index.php?title=Basti\" title=\"Basti\">basti</a></i> and many a times it suggests the pharmacokinetics also. (Verse 17-18)\n</p>",
+            "links": [
+                {
+                    "text": "basti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Basti"
+                },
+                {
+                    "text": "basti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Basti"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "As discussed earlier, with the knowledge of siddhi one acquires not only routine practice but expertise in prevention, identification, rectification and management of complications related to the respective karma .(Verse 19)",
+            "html": "<p>As discussed earlier, with the knowledge of <i>siddhi</i> one acquires not only routine practice but expertise in prevention, identification, rectification and management of complications related to the respective <i>karma</i>.(Verse 19)\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Send us your suggestions and feedback on this page.",
+            "html": "<p><big><b><a href=\"/index.php?title=Special:ContactMe\" title=\"Special:ContactMe\">Send us your suggestions and feedback on this page.</a></b></big>\n</p>",
+            "links": [
+                {
+                    "text": "Send us your suggestions and feedback on this page.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Special:ContactMe"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "References",
+            "html": "<h2><span class=\"mw-headline\" id=\"References\">References</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "text",
+            "text": "Back to the Top"
+        },
+        {
+            "type": "ol",
+            "text": "↑ Gundeti MS, Raut AA, Kamat NM. Basti: Does the equipment and method of administration matter?. J Ayurveda Integr Med 2013;4:9-12 ↑ Nampoothiri MR, Mahadevan L. Principles and Practice of Vasti. 1st ed. Derisanamcope: Y. Mahadeva Iyer’s Sri Sarada Ayurvedic Hospital; 2007. p. 49 ↑ 3.0 3.1 Sushruta. Chikitsa Sthana, Cha.36 Netrabasti Vyapat Chikitsitam Adhyaya. In: Jadavaji Trikamji Aacharya, Editor. Sushruta Samhita. ?? ed. Varanasi: Krishnadas Ayurveda series 51, Krishnadas Academy; 1980. p. 513. ↑ Sushruta. Chikitsa Sthana, Cha.35 Netrabastipramanapravibhaga Chikitsitam Adhyaya,Verse 4-5 In: Jadavaji Trikamji Aacharya, Editor. Sushruta Samhita. ?? ed. Varanasi: Krishnadas Ayurveda series 51, Krishnadas Academy; 1980. p. 515. ↑ Charak. Siddhi Sthana, Cha.3 Bastisutitam Siddhi Adhyaya. In: Jadavaji Trikamji Aacharya, Editors. Charak Samhita. 1st ed. Varanasi: Krishnadas Academy;2000. p.1-24. ↑ Sushruta. Chikitsa Sthana, Cha.35 Netrabastipramanapravibhaga Chikitsitam Adhyaya,Verse 6-7 In: Jadavaji Trikamji Aacharya, Editor. Sushruta Samhita. ?? ed. Varanasi: Krishnadas Ayurveda series 51, Krishnadas Academy; 1980. p. 515. ↑ Sushruta. Chikitsa Sthana, Cha.35 Netrabastipramanapravibhaga Chikitsitam Adhyaya,In: Jadavaji Trikamji Aacharya, Editor. Sushruta Samhita. ?? ed. Varanasi: Krishnadas Ayurveda series 51, Krishnadas Academy; 1980. p. 515. ↑ Sushruta. Chikitsa Sthana, Cha.38 Niruhakrama Chikitsitam Adhyaya,In: Jadavaji Trikamji Aacharya, Editor. Sushruta Samhita. ?? ed. Varanasi: Krishnadas Ayurveda series 51, Krishnadas Academy; 1980. p. 534. ↑ Manojkumar A K, Jigeesh P P, Binitha A, Subin V R. Kaśhāyavasti. In, Manojkumar A K (ed). Standard Operative Procedure of Pancakarma, 1st edition. Kottakkal, Regional Offset, 2013.",
+            "html": "<ol class=\"references\">\n<li id=\"cite_note-1\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-1\">↑</a></span> <span class=\"reference-text\">Gundeti MS, Raut AA, Kamat NM. Basti: Does the equipment and method of administration matter?. J <a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a> Integr Med 2013;4:9-12</span>\n</li>\n<li id=\"cite_note-2\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-2\">↑</a></span> <span class=\"reference-text\">Nampoothiri MR, Mahadevan L. Principles and Practice of Vasti. 1st ed. Derisanamcope: Y. Mahadeva Iyer’s Sri Sarada Ayurvedic Hospital; 2007. p. 49</span>\n</li>\n<li id=\"cite_note-Su1-3\"><span class=\"mw-cite-backlink\">↑ <sup><a href=\"#cite_ref-Su1_3-0\">3.0</a></sup> <sup><a href=\"#cite_ref-Su1_3-1\">3.1</a></sup></span> <span class=\"reference-text\">Sushruta. Chikitsa Sthana, Cha.36 Netrabasti Vyapat Chikitsitam Adhyaya. In: Jadavaji Trikamji Aacharya, Editor. Sushruta Samhita. ?? ed. Varanasi: Krishnadas Ayurveda series 51, Krishnadas Academy; 1980. p. 513.</span>\n</li>\n<li id=\"cite_note-4\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-4\">↑</a></span> <span class=\"reference-text\">Sushruta. Chikitsa Sthana, Cha.35 Netrabastipramanapravibhaga Chikitsitam Adhyaya,Verse 4-5 In: Jadavaji Trikamji Aacharya, Editor. Sushruta Samhita. ?? ed. Varanasi: Krishnadas Ayurveda series 51, Krishnadas Academy; 1980. p. 515.</span>\n</li>\n<li id=\"cite_note-5\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-5\">↑</a></span> <span class=\"reference-text\">Charak. Siddhi Sthana, Cha.3   Bastisutitam Siddhi Adhyaya. In: Jadavaji Trikamji Aacharya, Editors. Charak Samhita. 1st ed. Varanasi: Krishnadas Academy;2000. p.1-24.</span>\n</li>\n<li id=\"cite_note-6\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-6\">↑</a></span> <span class=\"reference-text\">Sushruta. Chikitsa Sthana, Cha.35 Netrabastipramanapravibhaga Chikitsitam Adhyaya,Verse 6-7 In: Jadavaji Trikamji Aacharya, Editor. Sushruta Samhita. ?? ed. Varanasi: Krishnadas Ayurveda series 51, Krishnadas Academy; 1980. p. 515.</span>\n</li>\n<li id=\"cite_note-7\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-7\">↑</a></span> <span class=\"reference-text\">Sushruta. Chikitsa Sthana, Cha.35 Netrabastipramanapravibhaga Chikitsitam Adhyaya,In: Jadavaji Trikamji Aacharya, Editor. Sushruta Samhita. ?? ed. Varanasi: Krishnadas Ayurveda series 51, Krishnadas Academy; 1980. p. 515.</span>\n</li>\n<li id=\"cite_note-8\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-8\">↑</a></span> <span class=\"reference-text\">Sushruta. Chikitsa Sthana, Cha.38 Niruhakrama Chikitsitam Adhyaya,In: Jadavaji Trikamji Aacharya, Editor. Sushruta Samhita. ?? ed. Varanasi: Krishnadas Ayurveda series 51, Krishnadas Academy; 1980. p. 534.</span>\n</li>\n<li id=\"cite_note-9\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-9\">↑</a></span> <span class=\"reference-text\">Manojkumar A K, Jigeesh P P, Binitha A, Subin V R. Kaśhāyavasti. In, Manojkumar A K (ed). Standard Operative Procedure of Pancakarma, 1st edition. Kottakkal, Regional Offset, 2013.</span>\n</li>\n</ol>",
+            "links": [
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#cite_ref-1"
+                },
+                {
+                    "text": "Ayurveda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayurveda"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#cite_ref-2"
+                },
+                {
+                    "text": "3.0",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#cite_ref-Su1_3-0"
+                },
+                {
+                    "text": "3.1",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#cite_ref-Su1_3-1"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#cite_ref-4"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#cite_ref-5"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#cite_ref-6"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#cite_ref-7"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#cite_ref-8"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#cite_ref-9"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "↑ Gundeti MS, Raut AA, Kamat NM. Basti: Does the equipment and method of administration matter?. J Ayurveda Integr Med 2013;4:9-12",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#cite_ref-1"
+                        },
+                        {
+                            "text": "Ayurveda",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ayurveda"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Nampoothiri MR, Mahadevan L. Principles and Practice of Vasti. 1st ed. Derisanamcope: Y. Mahadeva Iyer’s Sri Sarada Ayurvedic Hospital; 2007. p. 49",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#cite_ref-2"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ 3.0 3.1 Sushruta. Chikitsa Sthana, Cha.36 Netrabasti Vyapat Chikitsitam Adhyaya. In: Jadavaji Trikamji Aacharya, Editor. Sushruta Samhita. ?? ed. Varanasi: Krishnadas Ayurveda series 51, Krishnadas Academy; 1980. p. 513.",
+                    "links": [
+                        {
+                            "text": "3.0",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#cite_ref-Su1_3-0"
+                        },
+                        {
+                            "text": "3.1",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#cite_ref-Su1_3-1"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Sushruta. Chikitsa Sthana, Cha.35 Netrabastipramanapravibhaga Chikitsitam Adhyaya,Verse 4-5 In: Jadavaji Trikamji Aacharya, Editor. Sushruta Samhita. ?? ed. Varanasi: Krishnadas Ayurveda series 51, Krishnadas Academy; 1980. p. 515.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#cite_ref-4"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Charak. Siddhi Sthana, Cha.3 Bastisutitam Siddhi Adhyaya. In: Jadavaji Trikamji Aacharya, Editors. Charak Samhita. 1st ed. Varanasi: Krishnadas Academy;2000. p.1-24.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#cite_ref-5"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Sushruta. Chikitsa Sthana, Cha.35 Netrabastipramanapravibhaga Chikitsitam Adhyaya,Verse 6-7 In: Jadavaji Trikamji Aacharya, Editor. Sushruta Samhita. ?? ed. Varanasi: Krishnadas Ayurveda series 51, Krishnadas Academy; 1980. p. 515.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#cite_ref-6"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Sushruta. Chikitsa Sthana, Cha.35 Netrabastipramanapravibhaga Chikitsitam Adhyaya,In: Jadavaji Trikamji Aacharya, Editor. Sushruta Samhita. ?? ed. Varanasi: Krishnadas Ayurveda series 51, Krishnadas Academy; 1980. p. 515.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#cite_ref-7"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Sushruta. Chikitsa Sthana, Cha.38 Niruhakrama Chikitsitam Adhyaya,In: Jadavaji Trikamji Aacharya, Editor. Sushruta Samhita. ?? ed. Varanasi: Krishnadas Ayurveda series 51, Krishnadas Academy; 1980. p. 534.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#cite_ref-8"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Manojkumar A K, Jigeesh P P, Binitha A, Subin V R. Kaśhāyavasti. In, Manojkumar A K (ed). Standard Operative Procedure of Pancakarma, 1st edition. Kottakkal, Regional Offset, 2013.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi#cite_ref-9"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "text": "NewPP limit report\nCached time: 20261113014534\nCache expiry: 86400\nReduced expiry: false\nComplications: [vary‐revision‐id, show‐toc]\nCPU time usage: 0.103 seconds\nReal time usage: 0.318 seconds\nPreprocessor visited node count: 317/1000000\nPost‐expand include size: 2473/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 3/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 1578/5000000 bytes\nLua time usage: 0.150/7 seconds\nLua virtual size: 20484096/209715200 bytes\nLua estimated memory usage: 0 bytes"
+        },
+        {
+            "type": "text",
+            "text": "Transclusion expansion time report (%,ms,calls,template)\n100.00% 250.700 1 -total\n98.23% 246.259 1 Template:Infobox\n0.65% 1.629 1 Template:CiteButton"
+        },
+        {
+            "type": "text",
+            "text": "Saved in parser cache with key carakas1_carakasa:pcache:idhash:2659-0!canonical and timestamp 20261113014534 and revision id 44582. Rendering was triggered because: diff-page"
+        },
+        {
+            "type": "text",
+            "text": "Retrieved from \""
+        },
+        {
+            "type": "text",
+            "text": "https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi&oldid=44582"
+        },
+        {
+            "type": "text",
+            "text": "\""
+        }
+    ],
+    "html_sha256": "8fb16a5516019e415d8259385132cf78db8a4a19a2294fd9160036757d8d53a5"
+}

@@ -1,0 +1,4450 @@
+==========================================================================================
+CHARAKA SAMHITA
+VAMANA VIRECHANA VYAPAT SIDDHI
+==========================================================================================
+
+Source URL: https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi
+Extraction Date: 2026-11-13T10:25:00
+Total Blocks: 739
+
+==========================================================================================
+
+
+[BLOCK 1: H1]
+----------------------------------------------------------------------
+Vamana Virechana Vyapat Siddhi
+
+
+[BLOCK 2: TEXT]
+----------------------------------------------------------------------
+From Charak Samhita
+
+
+[BLOCK 3: TEXT]
+----------------------------------------------------------------------
+Jump to navigation
+
+
+[BLOCK 4: TEXT]
+----------------------------------------------------------------------
+Jump to search
+
+
+[BLOCK 5: FIGURE]
+----------------------------------------------------------------------
+
+
+[REFERENCES / LINKS]
+ : https://www.carakasamhitaonline.com/index.php?title=Special:CiteThisPage&page=Vamana_Virechana_Vyapat_Siddhi&id=44583&wpFormIdentifier=titleform
+
+[IMAGES]
+ : https://www.carakasamhitaonline.com/images/5/58/Cite.png
+
+
+[BLOCK 6: P]
+----------------------------------------------------------------------
+Siddhi Sthana Chapter 6. Management of complications of improper therapeutic emesis and purgation
+
+[REFERENCES / LINKS]
+Siddhi Sthana : https://www.carakasamhitaonline.com/index.php?title=Siddhi_Sthana
+
+
+[BLOCK 7: TABLE]
+----------------------------------------------------------------------
+[COMPLETE TABLE]
+
+Row 1:
+Column 1: Section/Chapter
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Siddhi Sthana Chapter 6
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 2:
+Column 1: Preceding Chapter
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Netrabastivyapat Siddhi
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 3:
+Column 1: Succeeding Chapter
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Bastivyapat Siddhi
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 4:
+Column 1: Other Sections
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Sutra Sthana , Nidana Sthana , Vimana Sthana , Sharira Sthana , Indriya Sthana , Chikitsa Sthana , Kalpa Sthana
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 5:
+Column 1: Translator and commentator
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Ramya A.
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 6:
+Column 1: Reviewer
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Mangalasseri P.
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 7:
+Column 1: Editors
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Thakar A. B., Mangalasseri P., Deole Y.S. , Basisht G.
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 8:
+Column 1: Year of publication
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: 2020
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 9:
+Column 1: Publisher
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Charak Samhita Research, Training and Skill Development Centre
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 10:
+Column 1: DOI
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: 10.47468/CSNE.2020.e01.s08.007
+  Type: td, Rowspan: 1, Colspan: 1
+
+[REFERENCES / LINKS]
+Siddhi Sthana : https://www.carakasamhitaonline.com/index.php?title=Siddhi_Sthana
+Netrabastivyapat Siddhi : https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi
+Bastivyapat Siddhi : https://www.carakasamhitaonline.com/index.php?title=Bastivyapat_Siddhi
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+Nidana Sthana : https://www.carakasamhitaonline.com/index.php?title=Nidana_Sthana
+Vimana Sthana : https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana
+Sharira Sthana : https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana
+Indriya Sthana : https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana
+Chikitsa Sthana : https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana
+Kalpa Sthana : https://www.carakasamhitaonline.com/index.php?title=Kalpa_Sthana
+Deole Y.S. : https://www.carakasamhitaonline.com/index.php?title=Yogesh_Deole
+Basisht G. : https://www.carakasamhitaonline.com/index.php?title=Gopal_Basisht
+Charak Samhita Research, Training and Skill Development Centre : https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Skill_Development_Centre
+10.47468/CSNE.2020.e01.s08.007 : https://doi.org/10.47468/CSNE.2020.e01.s08.007
+
+
+[BLOCK 8: P]
+----------------------------------------------------------------------
+Abstract
+
+
+[BLOCK 9: P]
+----------------------------------------------------------------------
+The chapter deals with complications due to improper administration of purification therapies vamana (therapeutic emesis) and virechana ( therapeutic purgation). Adequate dosage according to agni (digestion power) and koshtha (bowel habit), proper quality of medicine, time of administration, follow up diet regimens are important to prevent complications. Observation of status of patient during purification therapy with the signs of proper, inadequate, excess elimination, causes and management of complications are described in detail in this chapter. The ten common complications like aadhmana (distension of abdomen), parikartika (fissure in ano), srava (excess discharge), hrid-graha (congestion in cardiac region), gatra-graha (body stiffness), jeevaadana (bleeding), vibhramsha (prolapse of rectum), stambha (body stiffness), upadrava (complications) and klama (fatigue without exertion) are elaborated. The causes behind this include incompetency either of the attendant, or drug, or physician or the patient. Keywords : Vamana (therapeutic emesis), Virechana (therapeutic purgation), Vyapad (complications), Shodhana (purification therapy).
+
+[REFERENCES / LINKS]
+vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+Vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+Virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+Shodhana : https://www.carakasamhitaonline.com/index.php?title=Shodhana
+
+
+[BLOCK 10: P]
+----------------------------------------------------------------------
+
+
+
+[BLOCK 11: H2]
+----------------------------------------------------------------------
+Contents
+
+
+[BLOCK 12: UL]
+----------------------------------------------------------------------
+1. 1 Introduction
+2. 2 Sanskrit text, Transliteration and English Translation 2.1 Seasons for purification 2.2 Importance of oleation in Panchakarma 2.3 Indications of purification 2.4 Procedure of taking purgatives for therapy 2.5 Consequences if medicines taken during indigestion 2.6 Characteristics of appropriate dosage of medicine 2.7 Careful administration of medicine with mental concentration 2.8 Diet before purification therapy 2.9 Signs of proper elimination 2.10 Signs of digested and undigested medicine 2.11 Ten complications of emesis and purgation 2.12 Three types of purification according to its signs 2.13 Various conditions and management 2.14 Signs of excess elimination and management 2.15 Importance of diet after purification 2.16 Complication of adhmana (abdominal distension) and its management 2.17 Complication of parikartika (fissure in ano) and its management 2.18 Complication of paristrava (discharge) and its management 2.19 Complication of hridgraha (chest congestion) and its management 2.20 Complication of gatra-graha (body stiffness) and its management 2.21 Complication of jeevadana (bleeding) and its management 2.22 Complication of gudavibhramsha (rectum prolapse) and its management 2.23 Complication of stambha (stiffness) and its management 2.24 Complications and its management 2.25 Klama (fatigue without exertion) and its management 2.26 Summary
+3. 3 Tattva Vimarsha (Fundamental Principles)
+4. 4 Vidhi Vimarsha (Applied Inferences ) 4.1 Importance of oleation and sudation therapies before purification 4.2 Indications of Virechana 4.3 Indications of Sneha Virechana and Ruksha Virechana 4.4 Procedure of virechana 4.5 Similes for action of virechana 4.6 Contraindication in state of indigestion 4.7 Characteristics of proper dosage 4.8 Importance of concentration while taking purification treatment 4.9 Diet before purification treatment 4.10 Signs of proper purification 4.11 After measures of vamana 4.12 Importance of specific diet after purification treatment 4.13 Signs of digestion of purification medicine 4.14 Complications of purification treatment 4.15 Signs of improper purification and its consequences 4.16 Ayoga (less purification) 4.17 Hazards of excess purification and its management 4.18 Management of excess emesis 4.19 Diet after procedure 4.20 Important concepts in the chapter
+5. 5 References
+
+[REFERENCES / LINKS]
+1 Introduction : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#Introduction
+2 Sanskrit text, Transliteration and English Translation : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#Sanskrit_text,_Transliteration_and_English_Translation
+2.1 Seasons for purification : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#Seasons_for_purification
+2.2 Importance of oleation in Panchakarma : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#Importance_of_oleation_in_Panchakarma
+2.3 Indications of purification : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#Indications_of_purification
+2.4 Procedure of taking purgatives for therapy : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#Procedure_of_taking_purgatives_for_therapy
+2.5 Consequences if medicines taken during indigestion : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#Consequences_if_medicines_taken_during_indigestion
+2.6 Characteristics of appropriate dosage of medicine : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#Characteristics_of_appropriate_dosage_of_medicine
+2.7 Careful administration of medicine with mental concentration : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#Careful_administration_of_medicine_with_mental_concentration
+2.8 Diet before purification therapy : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#Diet_before_purification_therapy
+2.9 Signs of proper elimination : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#Signs_of_proper_elimination
+2.10 Signs of digested and undigested medicine : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#Signs_of_digested_and_undigested_medicine
+2.11 Ten complications of emesis and purgation : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#Ten_complications_of_emesis_and_purgation
+2.12 Three types of purification according to its signs : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#Three_types_of_purification_according_to_its_signs
+2.13 Various conditions and management : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#Various_conditions_and_management
+2.14 Signs of excess elimination and management : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#Signs_of_excess_elimination_and_management
+2.15 Importance of diet after purification : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#Importance_of_diet_after_purification
+2.16 Complication of adhmana (abdominal distension) and its management : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#Complication_of_adhmana_(abdominal_distension)_and_its_management
+2.17 Complication of parikartika (fissure in ano) and its management : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#Complication_of_parikartika_(fissure_in_ano)_and_its_management
+2.18 Complication of paristrava (discharge) and its management : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#Complication_of_paristrava_(discharge)_and_its_management
+2.19 Complication of hridgraha (chest congestion) and its management : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#Complication_of_hridgraha_(chest_congestion)_and_its_management
+2.20 Complication of gatra-graha (body stiffness) and its management : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#Complication_of_gatra-graha_(body_stiffness)_and_its_management
+2.21 Complication of jeevadana (bleeding) and its management : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#Complication_of_jeevadana_(bleeding)_and_its_management
+2.22 Complication of gudavibhramsha (rectum prolapse) and its management : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#Complication_of_gudavibhramsha_(rectum_prolapse)_and_its_management
+2.23 Complication of stambha (stiffness) and its management : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#Complication_of_stambha_(stiffness)_and_its_management
+2.24 Complications and its management : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#Complications_and_its_management
+2.25 Klama (fatigue without exertion) and its management : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#Klama_(fatigue_without_exertion)_and_its_management
+2.26 Summary : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#Summary
+3 Tattva Vimarsha (Fundamental Principles) : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#Tattva_Vimarsha_(Fundamental_Principles)
+4 Vidhi Vimarsha (Applied Inferences ) : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#Vidhi_Vimarsha_(Applied_Inferences_)
+4.1 Importance of oleation and sudation therapies before purification : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#Importance_of_oleation_and_sudation_therapies_before_purification
+4.2 Indications of Virechana : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#Indications_of_Virechana
+4.3 Indications of Sneha Virechana and Ruksha Virechana : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#Indications_of_Sneha_Virechana_and_Ruksha_Virechana
+4.4 Procedure of virechana : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#Procedure_of_virechana
+4.5 Similes for action of virechana : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#Similes_for_action_of_virechana
+4.6 Contraindication in state of indigestion : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#Contraindication_in_state_of_indigestion
+4.7 Characteristics of proper dosage : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#Characteristics_of_proper_dosage
+4.8 Importance of concentration while taking purification treatment : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#Importance_of_concentration_while_taking_purification_treatment
+4.9 Diet before purification treatment : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#Diet_before_purification_treatment
+4.10 Signs of proper purification : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#Signs_of_proper_purification
+4.11 After measures of vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#After_measures_of_vamana
+4.12 Importance of specific diet after purification treatment : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#Importance_of_specific_diet_after_purification_treatment
+4.13 Signs of digestion of purification medicine : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#Signs_of_digestion_of_purification_medicine
+4.14 Complications of purification treatment : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#Complications_of_purification_treatment
+4.15 Signs of improper purification and its consequences : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#Signs_of_improper_purification_and_its_consequences
+4.16 Ayoga (less purification) : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#Ayoga_(less_purification)
+4.17 Hazards of excess purification and its management : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#Hazards_of_excess_purification_and_its_management
+4.18 Management of excess emesis : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#Management_of_excess_emesis
+4.19 Diet after procedure : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#Diet_after_procedure
+4.20 Important concepts in the chapter : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#Important_concepts_in_the_chapter
+5 References : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#References
+
+
+[BLOCK 13: H2]
+----------------------------------------------------------------------
+Introduction
+
+
+[BLOCK 14: P]
+----------------------------------------------------------------------
+The chapter Vamana Virechana Vyapat Siddhi explains the complications of improper administration of shodhana karma and their effective management. Three earlier chapters dealt with complications of basti (therapeutic enema). In same sequence of describing complications of purification therapies, those of therapeutic emesis and purgation are described in this chapter.
+
+[REFERENCES / LINKS]
+shodhana : https://www.carakasamhitaonline.com/index.php?title=Shodhana
+basti : https://www.carakasamhitaonline.com/index.php?title=Basti
+
+
+[BLOCK 15: P]
+----------------------------------------------------------------------
+Earlier in Sutra Sthana 15th chapter ( Upakalpaniya Adhyaya ), the procedure of vamana and virechana are explained in detail. Their further specifications like signs and symptoms of proper, inadequate and excess actions are explained in first chapter ( Kalpana Siddhi ) of this section. The indications and and contra-indications are described in the second chapter ( Panchakarmiya Siddhi ). The remaining details of therapeutic emesis and purgation are explained in the present chapter.
+
+[REFERENCES / LINKS]
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+Upakalpaniya Adhyaya : https://www.carakasamhitaonline.com/index.php?title=Upakalpaniya_Adhyaya
+vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+Kalpana Siddhi : https://www.carakasamhitaonline.com/index.php?title=Kalpana_Siddhi
+Panchakarmiya Siddhi : https://www.carakasamhitaonline.com/index.php?title=Panchakarmiya_Siddhi
+
+
+[BLOCK 16: P]
+----------------------------------------------------------------------
+The suitable seasons for shodhana , proper timing for the administration of snehana (oleation) and swedana (sudation) are required because doshas get naturally vitiated in specific seasons and are associated in case of disease. Specific pre-requisites for adequate purification are to be considered prior to the procedure. Assessment of vitiation of dosha , agni (digestive power), koshtha (bowel) and unctuousness of patient are most important factors for administration of purification therapy. Proper diet and digestion of previous day meal, stable mental state of patient is important to get benefits of purification.
+
+[REFERENCES / LINKS]
+shodhana : https://www.carakasamhitaonline.com/index.php?title=Shodhana
+snehana : https://www.carakasamhitaonline.com/index.php?title=Snehana
+swedana : https://www.carakasamhitaonline.com/index.php?title=Swedana
+doshas : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 17: P]
+----------------------------------------------------------------------
+The physician should keenly observe the patient during purification therapy for assessing signs of eliminating doshas otherwise complications may arise. The physician shall be well versed with diagnosis and management of these complications.
+
+[REFERENCES / LINKS]
+doshas : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 18: H2]
+----------------------------------------------------------------------
+Sanskrit text, Transliteration and English Translation
+
+
+[BLOCK 19: P]
+----------------------------------------------------------------------
+अथातो वमनविरेचनव्यापत्सिद्धिम् व्याख्यास्याम: ||१||
+
+
+[BLOCK 20: P]
+----------------------------------------------------------------------
+इति ह स्माह भगवानात्रेय: ||२||
+
+
+[BLOCK 21: P]
+----------------------------------------------------------------------
+अथ शोधनयो: सम्यग्विधिमूर्ध्वानुलोमयो: |
+
+
+[BLOCK 22: P]
+----------------------------------------------------------------------
+असम्यकृतयोश्चैव दोषान् वक्ष्यामि सौषधान् ||३||
+
+
+[BLOCK 23: P]
+----------------------------------------------------------------------
+AthAto vamanavirechana vyApatsiddhim vyAkhyAsyAmah I
+
+
+[BLOCK 24: P]
+----------------------------------------------------------------------
+Iti ha SmAh BhagwAnAtreyah II
+
+
+[BLOCK 25: P]
+----------------------------------------------------------------------
+Atha Shodhanayoh Samyagvidhimurdhvanulomayoh I
+
+
+[BLOCK 26: P]
+----------------------------------------------------------------------
+Asamyak krutayohshchaiva doshAn vakshyAmi SaushadhAn II
+
+
+[BLOCK 27: P]
+----------------------------------------------------------------------
+Now we shall expound the chapter "Vamana Virechana Vyapat Siddhi" (Management of complications of improper therapeutic emesis and purgation). Thus said Lord Atreya.
+
+
+[BLOCK 28: P]
+----------------------------------------------------------------------
+Now, let me explain:
+
+
+[BLOCK 29: UL]
+----------------------------------------------------------------------
+1. The procedure for proper administration of vamana and virechana
+2. The complications appearing because of inappropriate administration
+3. The effective treatment for the management of complications.[1-3]
+
+[REFERENCES / LINKS]
+vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+
+
+[BLOCK 30: H3]
+----------------------------------------------------------------------
+Seasons for purification
+
+
+[BLOCK 31: P]
+----------------------------------------------------------------------
+अत्युष्णवर्षशीता हि ग्रीष्मवर्षाहिमागमाः|
+
+
+[BLOCK 32: P]
+----------------------------------------------------------------------
+तदन्तरे प्रावृडाद्यास्तेषां साधारणास्त्रयः||४||
+
+
+[BLOCK 33: P]
+----------------------------------------------------------------------
+atyuṣṇavarṣaśītā hi grīṣmavarṣāhimāgamāḥ|
+
+
+[BLOCK 34: P]
+----------------------------------------------------------------------
+tadantarē prāvr̥ḍādyāstēṣāṁ sādhāraṇāstrayaḥ||4||
+
+
+[BLOCK 35: P]
+----------------------------------------------------------------------
+atyuShNavarShashItA hi grIShmavarShAhimAgamAH|
+
+
+[BLOCK 36: P]
+----------------------------------------------------------------------
+tadantare prAvRuDAdyAsteShAM sAdhAraNAstrayaH||4||
+
+
+[BLOCK 37: P]
+----------------------------------------------------------------------
+Excess heat, rain and cold are the signature features of summer ( greeshma ), rainy ( varsha ) and winter ( hemanta ) seasons respectively. The three seasons viz., the period between summer and rains ( pravrita ), autumn ( sharada ) and spring ( vasanta ), which come in between the above mentioned are known as general seasons ( sadharana ritu ). [4]
+
+
+[BLOCK 38: P]
+----------------------------------------------------------------------
+प्रावृट् शुचिनभौ ज्ञेयौ शरदूर्जसहौ पुनः|
+
+
+[BLOCK 39: P]
+----------------------------------------------------------------------
+तपस्यश्च मधुश्चैव वसन्तः शोधनं प्रति||५||
+
+
+[BLOCK 40: P]
+----------------------------------------------------------------------
+एतानृतून् विकल्प्यैवं दद्यात् संशोधनं भिषक्|
+
+
+[BLOCK 41: P]
+----------------------------------------------------------------------
+स्वस्थवृत्तमभिप्रेत्य व्याधौ व्याधिवशेन तु||६||
+
+
+[BLOCK 42: P]
+----------------------------------------------------------------------
+prāvr̥ṭ śucinabhau jñēyau śaradūrjasahau punaḥ|
+
+
+[BLOCK 43: P]
+----------------------------------------------------------------------
+tapasyaśca madhuścaiva vasantaḥ śōdhanaṁ prati||5||
+
+
+[BLOCK 44: P]
+----------------------------------------------------------------------
+ētānr̥tūn vikalpyaivaṁ dadyāt saṁśōdhanaṁ bhiṣak|
+
+
+[BLOCK 45: P]
+----------------------------------------------------------------------
+svasthavr̥ttamabhiprētya vyādhau vyādhivaśēna tu||6||
+
+
+[BLOCK 46: P]
+----------------------------------------------------------------------
+prAvRuT shucinabhau j~jeyau sharadUrjasahau punaH|
+
+
+[BLOCK 47: P]
+----------------------------------------------------------------------
+tapasyashca madhushcaiva vasantaH shodhanaM prati||5||
+
+
+[BLOCK 48: P]
+----------------------------------------------------------------------
+etAnRutUn vikalpyaivaM dadyAt saMshodhanaM bhiShak|
+
+
+[BLOCK 49: P]
+----------------------------------------------------------------------
+svasthavRuttamabhipretya vyAdhau vyAdhivashena tu||6||
+
+
+[BLOCK 50: P]
+----------------------------------------------------------------------
+The months Shuchi ( Aashadha , Mid June to Mid July) and Nabha ( Shravana , Mid July to Mid August) together are known as Pravrita ritu . The months Urja ( Kartika , Mid October to Mid November) and Saha ( Margashersha –Mid November to Mid December) are known as Sharada ritu . The months Tapasya ( Phaalguna -Mid February to Mid March) and Madhu ( Chaitram - mid March to mid April) are known as Vasanta ritu . These seasons are specially mentioned here for the sake of administration of shodhana therapy (purificatory procedures). The physician shall select an appropriate purificatory procedure to preserve the health after determining the exact season. However, in case of disease, it has to be done with respect to the nature of the clinical condition in any of the seasons.[5-6]
+
+[REFERENCES / LINKS]
+shodhana : https://www.carakasamhitaonline.com/index.php?title=Shodhana
+
+
+[BLOCK 51: H3]
+----------------------------------------------------------------------
+Importance of oleation in Panchakarma
+
+[REFERENCES / LINKS]
+Panchakarma : https://www.carakasamhitaonline.com/index.php?title=Panchakarma
+
+
+[BLOCK 52: P]
+----------------------------------------------------------------------
+कर्मणां वमनादीनामन्तरेष्वन्तरेषु च|
+
+
+[BLOCK 53: P]
+----------------------------------------------------------------------
+स्नेहस्वेदौ प्रयुञ्जीत स्नेहं चान्ते प्रयोजयेत्||७||
+
+
+[BLOCK 54: P]
+----------------------------------------------------------------------
+karmaṇāṁ vamanādīnāmantarēṣvantarēṣu ca|
+
+
+[BLOCK 55: P]
+----------------------------------------------------------------------
+snēhasvēdau prayuñjīta snēhaṁ cāntē prayōjayēt||7||
+
+
+[BLOCK 56: P]
+----------------------------------------------------------------------
+karmaNAM vamanAdInAmantareShvantareShu ca|
+
+
+[BLOCK 57: P]
+----------------------------------------------------------------------
+snehasvedau prayu~jjIta snehaM cAnte prayojayet||7||
+
+
+[BLOCK 58: P]
+----------------------------------------------------------------------
+In between the sequential administration of purificatory procedures like vamana (emesis) etc., snehana (oleation) and swedana (sudation) therapies need to be administered and snehana (oleation) shall be administered at the end (also). [7]
+
+[REFERENCES / LINKS]
+vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+snehana : https://www.carakasamhitaonline.com/index.php?title=Snehana
+swedana : https://www.carakasamhitaonline.com/index.php?title=Swedana
+snehana : https://www.carakasamhitaonline.com/index.php?title=Snehana
+
+
+[BLOCK 59: H3]
+----------------------------------------------------------------------
+Indications of purification
+
+
+[BLOCK 60: P]
+----------------------------------------------------------------------
+विसर्पपिडकाशोफकामलापाण्डुरोगिणः |
+
+
+[BLOCK 61: P]
+----------------------------------------------------------------------
+अभिघातविषार्तांश्च नातिस्निग्धान् विरेचयेत्||८||
+
+
+[BLOCK 62: P]
+----------------------------------------------------------------------
+visarpapiḍakāśōphakāmalāpāṇḍurōgiṇaḥ |
+
+
+[BLOCK 63: P]
+----------------------------------------------------------------------
+abhighātaviṣārtāṁśca nātisnigdhān virēcayēt||8||
+
+
+[BLOCK 64: P]
+----------------------------------------------------------------------
+visarpapiDakAshophakAmalApANDurogiNaH |
+
+
+[BLOCK 65: P]
+----------------------------------------------------------------------
+abhighAtaviShArtAMshca nAtisnigdhAn virecayet||8||
+
+
+[BLOCK 66: P]
+----------------------------------------------------------------------
+In case of clinical conditions like visarpa, pidaka, shopha, kamala, pandu as well as in trauma and toxication, and in those who are not excessively oleated purification therapies shall be administered. [8]
+
+
+[BLOCK 67: P]
+----------------------------------------------------------------------
+नातिस्निग्धशरीराय दद्यात् स्नेहविरेचनम्|
+
+
+[BLOCK 68: P]
+----------------------------------------------------------------------
+स्नेहोत्क्लिष्टशरीराय रूक्षं दद्याद्विरेचनम्||९||
+
+
+[BLOCK 69: P]
+----------------------------------------------------------------------
+nātisnigdhaśarīrāya dadyāt snēhavirēcanam|
+
+
+[BLOCK 70: P]
+----------------------------------------------------------------------
+snēhōtkliṣṭaśarīrāya rūkṣaṁ dadyādvirēcanam||9||
+
+
+[BLOCK 71: P]
+----------------------------------------------------------------------
+nAtisnigdhasharIrAya dadyAt snehavirecanam|
+
+
+[BLOCK 72: P]
+----------------------------------------------------------------------
+snehotkliShTasharIrAya rUkShaM dadyAdvirecanam||9||
+
+
+[BLOCK 73: P]
+----------------------------------------------------------------------
+The individual with excessively oleated body should never be given an unctuous or snigdha virechana . The body with excessive oleation should be given un-unctuous or ruksha virechana .[9]
+
+[REFERENCES / LINKS]
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+
+
+[BLOCK 74: H3]
+----------------------------------------------------------------------
+Procedure of taking purgatives for therapy
+
+
+[BLOCK 75: P]
+----------------------------------------------------------------------
+स्नेहस्वेदोपपन्नेन जीर्णे मात्रावदौषधम्|
+
+
+[BLOCK 76: P]
+----------------------------------------------------------------------
+एकाग्रमनसा पीतं सम्यग्योगाय कल्पते||१०||
+
+
+[BLOCK 77: P]
+----------------------------------------------------------------------
+snēhasvēdōpapannēna jīrṇē mātrāvadauṣadham|
+
+
+[BLOCK 78: P]
+----------------------------------------------------------------------
+ēkāgramanasā pītaṁ samyagyōgāya kalpatē||10||
+
+
+[BLOCK 79: P]
+----------------------------------------------------------------------
+snehasvedopapannena jIrNe mAtrAvadauShadham|
+
+
+[BLOCK 80: P]
+----------------------------------------------------------------------
+ekAgramanasA pItaM samyagyogAya kalpate||10||
+
+
+[BLOCK 81: P]
+----------------------------------------------------------------------
+The person after undergoing snehana (oleation) and swedana (sudation procedures) can have the medicine for elimination with fully concentrated mind. In addition, it should be ensured that the medicine is taken only after the full digestion of previous food. Only then, the proper elimination ensues.[10]
+
+[REFERENCES / LINKS]
+snehana : https://www.carakasamhitaonline.com/index.php?title=Snehana
+swedana : https://www.carakasamhitaonline.com/index.php?title=Swedana
+
+
+[BLOCK 82: P]
+----------------------------------------------------------------------
+स्निग्धात् पात्राद्यथा तोयमयत्नेन प्रणुद्यते|
+
+
+[BLOCK 83: P]
+----------------------------------------------------------------------
+कफादयः प्रणुद्यन्ते स्निग्धाद्देहात्तथौषधैः||११||
+
+
+[BLOCK 84: P]
+----------------------------------------------------------------------
+आर्द्रं काष्ठं यथा वह्निर्विष्यन्दयति सर्वतः|
+
+
+[BLOCK 85: P]
+----------------------------------------------------------------------
+तथा स्निग्धस्य वै दोषान् स्वेदो विष्यन्दयेत् स्थिरान्||१२||
+
+
+[BLOCK 86: P]
+----------------------------------------------------------------------
+क्लिष्टं वासो यथोत्क्लेश्य मलः संशोध्यतेऽम्भसा|
+
+
+[BLOCK 87: P]
+----------------------------------------------------------------------
+स्नेहस्वेदैस्तथोत्क्लेश्य शोध्यते शोधनैर्मलः ||१३||
+
+
+[BLOCK 88: P]
+----------------------------------------------------------------------
+snigdhāt pātrādyathā tōyamayatnēna praṇudyatē|
+
+
+[BLOCK 89: P]
+----------------------------------------------------------------------
+kaphādayaḥ praṇudyantē snigdhāddēhāttathauṣadhaiḥ||11||
+
+
+[BLOCK 90: P]
+----------------------------------------------------------------------
+ārdraṁ kāṣṭhaṁ yathā vahnirviṣyandayati sarvataḥ|
+
+
+[BLOCK 91: P]
+----------------------------------------------------------------------
+tathā snigdhasya vai dōṣān svēdō viṣyandayēt sthirān||12||
+
+
+[BLOCK 92: P]
+----------------------------------------------------------------------
+kliṣṭaṁ vāsō yathōtklēśya malaḥ saṁśōdhyatē'mbhasā|
+
+
+[BLOCK 93: P]
+----------------------------------------------------------------------
+snēhasvēdaistathōtklēśya śōdhyatē śōdhanairmalaḥ ||13||
+
+
+[BLOCK 94: P]
+----------------------------------------------------------------------
+snigdhAt pAtrAdyathA toyamayatnena praNudyate|
+
+
+[BLOCK 95: P]
+----------------------------------------------------------------------
+kaphAdayaH praNudyante snigdhAddehAttathauShadhaiH||11||
+
+
+[BLOCK 96: P]
+----------------------------------------------------------------------
+ArdraM kAShThaM yathA vahnirviShyandayati sarvataH|
+
+
+[BLOCK 97: P]
+----------------------------------------------------------------------
+tathA snigdhasya vai doShAn svedo viShyandayet sthirAn||12||
+
+
+[BLOCK 98: P]
+----------------------------------------------------------------------
+kliShTaM vAso yathotkleshya malaH saMshodhyate~ambhasA|
+
+
+[BLOCK 99: P]
+----------------------------------------------------------------------
+snehasvedaistathotkleshya shodhyate shodhanairmalaH || 13||
+
+
+[BLOCK 100: P]
+----------------------------------------------------------------------
+Like how water gets out of a vessel smeared with oil, similar is the removal of doshas from a properly oleated body. Just like the fire propels the water out from the wet log wood, similarly the sudation propels out the stable doshas from the pre-oleated body. The way in which the clothes adhered with dirt is cleaned using water, which removes the dirt, similarly the stable malas that are liquefied after oleation and sudation are removed by proper purificatory therapies.[11-13]
+
+[REFERENCES / LINKS]
+doshas : https://www.carakasamhitaonline.com/index.php?title=Dosha
+doshas : https://www.carakasamhitaonline.com/index.php?title=Dosha
+malas : https://www.carakasamhitaonline.com/index.php?title=Mala
+
+
+[BLOCK 101: H3]
+----------------------------------------------------------------------
+Consequences if medicines taken during indigestion
+
+
+[BLOCK 102: P]
+----------------------------------------------------------------------
+अजीर्णे वर्धते ग्लानिर्विबन्धश्चापि जायते|
+
+
+[BLOCK 103: P]
+----------------------------------------------------------------------
+पीतं संशोधनं चैव विपरीतं प्रवर्तते||१४||
+
+
+[BLOCK 104: P]
+----------------------------------------------------------------------
+ajīrṇē vardhatē glānirvibandhaścāpi jāyatē|
+
+
+[BLOCK 105: P]
+----------------------------------------------------------------------
+pītaṁ saṁśōdhanaṁ caiva viparītaṁ pravartatē||14||
+
+
+[BLOCK 106: P]
+----------------------------------------------------------------------
+ajIrNe vardhate glAnirvibandhashcApi jAyate|
+
+
+[BLOCK 107: P]
+----------------------------------------------------------------------
+pItaM saMshodhanaM caiva viparItaM pravartate||14||
+
+
+[BLOCK 108: P]
+----------------------------------------------------------------------
+If the medicine for purification is administered before the digestion of the previous meal, it will lead to glani (tiredness), vibandha (obstruction of feces and urine), and an action that is opposite to that intended by elimination therapy. ( virechana oushadha will lead to vamana and vice versa.)[14]
+
+[REFERENCES / LINKS]
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+
+
+[BLOCK 109: H3]
+----------------------------------------------------------------------
+Characteristics of appropriate dosage of medicine
+
+
+[BLOCK 110: P]
+----------------------------------------------------------------------
+अल्पमात्रं महावेगं बहुदोषहरं सुखम्|
+
+
+[BLOCK 111: P]
+----------------------------------------------------------------------
+लघुपाकं सुखास्वादं प्रीणनं व्याधिनाशनम्||१५||
+
+
+[BLOCK 112: P]
+----------------------------------------------------------------------
+अविकारि च व्यापत्तौ नातिग्लानिकरं च यत्|
+
+
+[BLOCK 113: P]
+----------------------------------------------------------------------
+गन्धवर्णरसोपेतं विद्यान्मात्रावदौषधम्||१६||
+
+
+[BLOCK 114: P]
+----------------------------------------------------------------------
+alpamātraṁ mahāvēgaṁ bahudōṣaharaṁ sukham|
+
+
+[BLOCK 115: P]
+----------------------------------------------------------------------
+laghupākaṁ sukhāsvādaṁ prīṇanaṁ vyādhināśanam||15||
+
+
+[BLOCK 116: P]
+----------------------------------------------------------------------
+avikāri ca vyāpattau nātiglānikaraṁ ca yat|
+
+
+[BLOCK 117: P]
+----------------------------------------------------------------------
+gandhavarṇarasōpētaṁ vidyānmātrāvadauṣadham||16||
+
+
+[BLOCK 118: P]
+----------------------------------------------------------------------
+alpamAtraM mahAvegaM bahudoShaharaM sukham|
+
+
+[BLOCK 119: P]
+----------------------------------------------------------------------
+laghupAkaM sukhAsvAdaM prINanaM vyAdhinAshanam||15||
+
+
+[BLOCK 120: P]
+----------------------------------------------------------------------
+avikAri ca vyApattau nAtiglAnikaraM ca yat|
+
+
+[BLOCK 121: P]
+----------------------------------------------------------------------
+gandhavarNarasopetaM vidyAnmAtrAvadauShadham||16||
+
+
+[BLOCK 122: P]
+----------------------------------------------------------------------
+The following properties are characteristic to the appropriate dosage of medicines prescribed for purification:
+
+
+[BLOCK 123: UL]
+----------------------------------------------------------------------
+1. It should work optimally in small dosage
+2. It must have quick action
+3. It must eliminate large amounts of dosha
+4. It should bring in comfort
+5. It should be easily digestible
+6. It must be palatable
+7. It must be vitalizing and disease pacifying
+8. It should not lead to any other complication
+9. It should not produce tiredness
+10. It should be endowed with good smell, color, taste etc. and should be pleasing in nature.[15-16]
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 124: H3]
+----------------------------------------------------------------------
+Careful administration of medicine with mental concentration
+
+
+[BLOCK 125: P]
+----------------------------------------------------------------------
+विधूय मानसान् दोषान् कामादीनशुभोदयान् |
+
+
+[BLOCK 126: P]
+----------------------------------------------------------------------
+एकाग्रमनसा पीतं सम्यग्योगाय कल्पते||१७||
+
+
+[BLOCK 127: P]
+----------------------------------------------------------------------
+vidhūya mānasān dōṣān kāmādīnaśubhōdayān |
+
+
+[BLOCK 128: P]
+----------------------------------------------------------------------
+ēkāgramanasā pītaṁ samyagyōgāya kalpatē||17||
+
+
+[BLOCK 129: P]
+----------------------------------------------------------------------
+vidhUya mAnasAn doShAn kAmAdInashubhodayAn |
+
+
+[BLOCK 130: P]
+----------------------------------------------------------------------
+ekAgramanasA pItaM samyagyogAya kalpate||17||
+
+
+[BLOCK 131: P]
+----------------------------------------------------------------------
+The individual who drinks the medicine leaving away the negative mental feelings like lust etc. concentrating only on the medicines and the administration of the therapy, will bring the proper action of the medicine or therapy. [17]
+
+
+[BLOCK 132: H3]
+----------------------------------------------------------------------
+Diet before purification therapy
+
+
+[BLOCK 133: P]
+----------------------------------------------------------------------
+नरः श्वो वमनं पाता भुञ्जीत कफवर्धनम्|
+
+
+[BLOCK 134: P]
+----------------------------------------------------------------------
+सुजरं द्रवभूयिष्ठं, लघ्वशीतं विरेचनम्||१८||
+
+
+[BLOCK 135: P]
+----------------------------------------------------------------------
+उत्क्लिष्टाल्पकफत्वेन क्षिप्रं दोषाः स्रवन्ति हि|१९|
+
+
+[BLOCK 136: P]
+----------------------------------------------------------------------
+naraḥ śvō vamanaṁ pātā bhuñjīta kaphavardhanam|
+
+
+[BLOCK 137: P]
+----------------------------------------------------------------------
+sujaraṁ dravabhūyiṣṭhaṁ, laghvaśītaṁ virēcanam||18||
+
+
+[BLOCK 138: P]
+----------------------------------------------------------------------
+utkliṣṭālpakaphatvēna kṣipraṁ dōṣāḥ sravanti hi|19|
+
+
+[BLOCK 139: P]
+----------------------------------------------------------------------
+naraH shvo vamanaM pAtA bhu~jjIta kaphavardhanam|
+
+
+[BLOCK 140: P]
+----------------------------------------------------------------------
+sujaraM dravabhUyiShThaM, laghvashItaM virecanam||18||
+
+
+[BLOCK 141: P]
+----------------------------------------------------------------------
+utkliShTAlpakaphatvena kShipraM doShAH sravanti hi|19|
+
+
+[BLOCK 142: P]
+----------------------------------------------------------------------
+The individual scheduled to undergo vamana on the next day should have foods which are easily digestible, rich in fluids and will increase the kapha dosha . Similarly, the individual scheduled to undergo virechana should have foods which are light and hot. Since the first diet leads to vitiation and second diet leads to reduction of kapha , the doshas are removed quickly and completely. [18-18½]
+
+[REFERENCES / LINKS]
+vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+kapha dosha : https://www.carakasamhitaonline.com/index.php?title=Kapha_dosha
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+doshas : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 143: H3]
+----------------------------------------------------------------------
+Signs of proper elimination
+
+
+[BLOCK 144: P]
+----------------------------------------------------------------------
+पीतौषधस्य तु भिषक् शुद्धिलिङ्गानि लक्षयेत्||१९||
+
+
+[BLOCK 145: P]
+----------------------------------------------------------------------
+ऊर्ध्वं कफानुगे पित्ते विट्पित्तेऽनुकफे त्वधः|
+
+
+[BLOCK 146: P]
+----------------------------------------------------------------------
+हृतदोषं वदेत् कार्श्यदौर्बल्ये चेत् सलाघवे||२०||
+
+
+[BLOCK 147: P]
+----------------------------------------------------------------------
+pītauṣadhasya tu bhiṣak śuddhiliṅgāni lakṣayēt||19||
+
+
+[BLOCK 148: P]
+----------------------------------------------------------------------
+ūrdhvaṁ kaphānugē pittē viṭpittē'nukaphē tvadhaḥ|
+
+
+[BLOCK 149: P]
+----------------------------------------------------------------------
+hr̥tadōṣaṁ vadēt kārśyadaurbalyē cēt salāghavē||20||
+
+
+[BLOCK 150: P]
+----------------------------------------------------------------------
+pItauShadhasya tu bhiShak shuddhili~ggAni lakShayet||19||
+
+
+[BLOCK 151: P]
+----------------------------------------------------------------------
+UrdhvaM kaphAnuge pitte viTpitte~anukaphe tvadhaH|
+
+
+[BLOCK 152: P]
+----------------------------------------------------------------------
+hRutadoShaM vadet kArshyadaurbalye cet salAghave||20||
+
+
+[BLOCK 153: P]
+----------------------------------------------------------------------
+The physician who had administered medicines for purification must be in observation for the following symptoms:
+
+
+[BLOCK 154: UL]
+----------------------------------------------------------------------
+1. For vamana , the pitta is expelled out after the elimination of kapha
+2. For virechana , the elimination of fecal matter will be followed by pitta and thereafter by kapha
+
+[REFERENCES / LINKS]
+vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+
+
+[BLOCK 155: P]
+----------------------------------------------------------------------
+When doshas are eliminated, the patient will experience emaciation, weakness and lightness of body.[19-20]
+
+[REFERENCES / LINKS]
+doshas : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 156: P]
+----------------------------------------------------------------------
+वामयेत्तु ततः शेषमौषधं न त्वलाघवे|
+
+
+[BLOCK 157: P]
+----------------------------------------------------------------------
+स्तैमित्येऽनिलसङ्गे च निरुद्गारेऽपि वामयेत्||२१||
+
+
+[BLOCK 158: P]
+----------------------------------------------------------------------
+आलाघवात्तनुत्वाच्च कफस्यापत् परं भवेत्|२२|
+
+
+[BLOCK 159: P]
+----------------------------------------------------------------------
+vāmayēttu tataḥ śēṣamauṣadhaṁ na tvalāghavē|
+
+
+[BLOCK 160: P]
+----------------------------------------------------------------------
+staimityē'nilasaṅgē ca nirudgārē'pi vāmayēt||21||
+
+
+[BLOCK 161: P]
+----------------------------------------------------------------------
+ālāghavāttanutvācca kaphasyāpat paraṁ bhavēt|22|
+
+
+[BLOCK 162: P]
+----------------------------------------------------------------------
+vAmayettu tataH sheShamauShadhaM na tvalAghave|
+
+
+[BLOCK 163: P]
+----------------------------------------------------------------------
+staimitye~anilasa~gge ca nirudgAre~api vAmayet||21||
+
+
+[BLOCK 164: P]
+----------------------------------------------------------------------
+AlAghavAttanutvAcca kaphasyApat paraM bhavet|22|
+
+
+[BLOCK 165: P]
+----------------------------------------------------------------------
+If after the completion of the purificatory procedures, there is presence of residual medicines, vamana must be administered. If there is no feeling of lightness, then also vamana should be performed. Vamana must be specifically performed, when there is staimitya (a feeling of wet covering), obstruction of vayu and absence of belching. Vamana should be continued till there is lightness of the body and reduction of kapha . If continued, it can result in serious consequences. [21-21½]
+
+[REFERENCES / LINKS]
+vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+Vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+Vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+
+
+[BLOCK 166: P]
+----------------------------------------------------------------------
+वमिते वर्धते वह्निः शमं दोषा व्रजन्ति हि||२२||
+
+
+[BLOCK 167: P]
+----------------------------------------------------------------------
+वमितं लङ्घयेत् सम्यग्जीर्णलिङ्गान्यलक्षयन्|
+
+
+[BLOCK 168: P]
+----------------------------------------------------------------------
+तानि दृष्ट्वा तु पेयादिक्रमं कुर्यान्न लङ्घनम्||२३||
+
+
+[BLOCK 169: P]
+----------------------------------------------------------------------
+vamitē vardhatē vahniḥ śamaṁ dōṣā vrajanti hi||22||
+
+
+[BLOCK 170: P]
+----------------------------------------------------------------------
+vamitaṁ laṅghayēt samyagjīrṇaliṅgānyalakṣayan|
+
+
+[BLOCK 171: P]
+----------------------------------------------------------------------
+tāni dr̥ṣṭvā tu pēyādikramaṁ kuryānna laṅghanam||23||
+
+
+[BLOCK 172: P]
+----------------------------------------------------------------------
+vamite vardhate vahniH shamaM doShA vrajanti hi||22||
+
+
+[BLOCK 173: P]
+----------------------------------------------------------------------
+vamitaM la~gghayet samyagjIrNali~ggAnyalakShayan|
+
+
+[BLOCK 174: P]
+----------------------------------------------------------------------
+tAni dRuShTvA tu peyAdikramaM kuryAnna la~gghanam||23||
+
+
+[BLOCK 175: P]
+----------------------------------------------------------------------
+The one who has been purified by vamana will have augmented agni , leading to the alleviation of dosha . He need to undergo fasting till the signs of proper digestion of drugs for vamana is seen. For one having those signs, peyadi kramam (regulatory diet regimen) has to be initiated. He should not undergo further langhana (fasting). [22-23]
+
+[REFERENCES / LINKS]
+vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+langhana : https://www.carakasamhitaonline.com/index.php?title=Langhana
+
+
+[BLOCK 176: P]
+----------------------------------------------------------------------
+संशोधनाभ्यां शुद्धस्य हृतदोषस्य देहिनः|
+
+
+[BLOCK 177: P]
+----------------------------------------------------------------------
+यात्यग्निर्मन्दतां तस्मात् क्रमं पेयादिमाचरेत्||२४||
+
+
+[BLOCK 178: P]
+----------------------------------------------------------------------
+saṁśōdhanābhyāṁ śuddhasya hr̥tadōṣasya dēhinaḥ|
+
+
+[BLOCK 179: P]
+----------------------------------------------------------------------
+yātyagnirmandatāṁ tasmāt kramaṁ pēyādimācarēt||24||
+
+
+[BLOCK 180: P]
+----------------------------------------------------------------------
+saMshodhanAbhyAM shuddhasya hRutadoShasya dehinaH|
+
+
+[BLOCK 181: P]
+----------------------------------------------------------------------
+yAtyagnirmandatAM tasmAt kramaM peyAdimAcaret||24||
+
+
+[BLOCK 182: P]
+----------------------------------------------------------------------
+The individual who is purified after elimination therapy and removal of dosha from the body, has his agni diminished. Hence it is highly pertinent to institute dietary regimen termed peyaadi kramam . [24]
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 183: P]
+----------------------------------------------------------------------
+कफपित्ते विशुद्धेऽल्पं मद्यपे वातपैत्तिके|
+
+
+[BLOCK 184: P]
+----------------------------------------------------------------------
+तर्पणादिक्रमं कुर्यात् पेयाऽभिष्यन्दयेद्धि तान्||२५||
+
+
+[BLOCK 185: P]
+----------------------------------------------------------------------
+kaphapittē viśuddhē'lpaṁ madyapē vātapaittikē|
+
+
+[BLOCK 186: P]
+----------------------------------------------------------------------
+tarpaṇādikramaṁ kuryāt pēyā'bhiṣyandayēddhi tān||25||
+
+
+[BLOCK 187: P]
+----------------------------------------------------------------------
+kaphapitte vishuddhe~alpaM madyape vAtapaittike|
+
+
+[BLOCK 188: P]
+----------------------------------------------------------------------
+tarpaNAdikramaM kuryAt peyA~abhiShyandayeddhi tAn||25||
+
+
+[BLOCK 189: P]
+----------------------------------------------------------------------
+When there is little elimination of kapha and pitta through purification therapy, in alcoholics and in persons with predominance of vata and pitta dosha , the dietary regimen called tarpanaadi kramam need to be started instead of peyaadi kramam , as peyadi may increase kapha causing abhishyandam (clogging of the channels of circulation).[25]
+
+[REFERENCES / LINKS]
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+pitta dosha : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+
+
+[BLOCK 190: H3]
+----------------------------------------------------------------------
+Signs of digested and undigested medicine
+
+
+[BLOCK 191: P]
+----------------------------------------------------------------------
+अनुलोमोऽनिलः स्वास्थ्यं क्षुत्तृष्णोर्जो मनस्विता|
+
+
+[BLOCK 192: P]
+----------------------------------------------------------------------
+लघुत्वमिन्द्रियोद्गारशुद्धिर्जीर्णौषधाकृतिः||२६||
+
+
+[BLOCK 193: P]
+----------------------------------------------------------------------
+क्लमो दाहोऽङ्गसदनं भ्रमो मूर्च्छा शिरोरुजा|
+
+
+[BLOCK 194: P]
+----------------------------------------------------------------------
+अरतिर्बलहानिश्च सावशेषौषधाकृतिः||२७||
+
+
+[BLOCK 195: P]
+----------------------------------------------------------------------
+anulōmō'nilaḥ svāsthyaṁ kṣuttr̥ṣṇōrjō manasvitā|
+
+
+[BLOCK 196: P]
+----------------------------------------------------------------------
+laghutvamindriyōdgāraśuddhirjīrṇauṣadhākr̥tiḥ||26||
+
+
+[BLOCK 197: P]
+----------------------------------------------------------------------
+klamō dāhō'ṅgasadanaṁ bhramō mūrcchā śirōrujā|
+
+
+[BLOCK 198: P]
+----------------------------------------------------------------------
+aratirbalahāniśca sāvaśēṣauṣadhākr̥tiḥ||27||
+
+
+[BLOCK 199: P]
+----------------------------------------------------------------------
+anulomo~anilaH svAsthyaM kShuttRuShNorjo manasvitA|
+
+
+[BLOCK 200: P]
+----------------------------------------------------------------------
+laghutvamindriyodgArashuddhirjIrNauShadhAkRutiH||26||
+
+
+[BLOCK 201: P]
+----------------------------------------------------------------------
+klamo dAho~a~ggasadanaM bhramo mUrcchA shirorujA|
+
+
+[BLOCK 202: P]
+----------------------------------------------------------------------
+aratirbalahAnishca sAvasheShauShadhAkRutiH||27||
+
+
+[BLOCK 203: P]
+----------------------------------------------------------------------
+The signs of properly digested medicine include:
+
+
+[BLOCK 204: UL]
+----------------------------------------------------------------------
+1. Normal movement of vayu
+2. Timely manifestation of hunger
+3. Thirst
+4. Enthusiasm
+5. Mental happiness
+6. A feeling of lightness
+7. Proper functioning of sensorium
+8. Clear belching
+
+
+[BLOCK 205: P]
+----------------------------------------------------------------------
+The signs of presence of undigested medicinal residue are:
+
+
+[BLOCK 206: UL]
+----------------------------------------------------------------------
+1. Fatigue
+2. Burning sensation
+3. General weakness
+4. Giddiness
+5. Fainting
+6. Headache
+7. Restlessness
+8. Loss of strength
+
+
+[BLOCK 207: P]
+----------------------------------------------------------------------
+अकालेऽल्पातिमात्रं च पुराणं न च भावितम्|
+
+
+[BLOCK 208: P]
+----------------------------------------------------------------------
+असम्यक्संस्कृतं चैव व्यापद्येतौषधं द्रुतम्||२८||
+
+
+[BLOCK 209: P]
+----------------------------------------------------------------------
+akālē'lpātimātraṁ ca purāṇaṁ na ca bhāvitam|
+
+
+[BLOCK 210: P]
+----------------------------------------------------------------------
+asamyaksaṁskr̥taṁ caiva vyāpadyētauṣadhaṁ drutam||28||
+
+
+[BLOCK 211: P]
+----------------------------------------------------------------------
+akAle~alpAtimAtraM ca purANaM na ca bhAvitam|
+
+
+[BLOCK 212: P]
+----------------------------------------------------------------------
+asamyaksaMskRutaM caiva vyApadyetauShadhaM drutam||28||
+
+
+[BLOCK 213: P]
+----------------------------------------------------------------------
+The drug of the following nature may result in quick complication:
+
+
+[BLOCK 214: UL]
+----------------------------------------------------------------------
+1. Unseasonal use
+2. Being administered in sub or supra-optimal dose.
+3. Being stored for a longer time
+4. Being not properly triturated.
+5. Being not properly processed.
+
+
+[BLOCK 215: H3]
+----------------------------------------------------------------------
+Ten complications of emesis and purgation
+
+
+[BLOCK 216: P]
+----------------------------------------------------------------------
+आध्मानं परिकर्तिश्च स्रावो हृद्गात्रयोर्ग्रहः|
+
+
+[BLOCK 217: P]
+----------------------------------------------------------------------
+जीवादानं सविभ्रंशः स्तम्भः सोपद्रवः क्लमः||२९||
+
+
+[BLOCK 218: P]
+----------------------------------------------------------------------
+अयोगादतियोगाच्च दशैता व्यापदो मताः|
+
+
+[BLOCK 219: P]
+----------------------------------------------------------------------
+प्रेष्यभैषज्यवैद्यानां वैगुण्यादातुरस्य च||३०||
+
+
+[BLOCK 220: P]
+----------------------------------------------------------------------
+ādhmānaṁ parikartiśca srāvō hr̥dgātrayōrgrahaḥ|
+
+
+[BLOCK 221: P]
+----------------------------------------------------------------------
+jīvādānaṁ savibhraṁśaḥ stambhaḥ sōpadravaḥ klamaḥ||29||
+
+
+[BLOCK 222: P]
+----------------------------------------------------------------------
+ayōgādatiyōgācca daśaitā vyāpadō matāḥ|
+
+
+[BLOCK 223: P]
+----------------------------------------------------------------------
+prēṣyabhaiṣajyavaidyānāṁ vaiguṇyādāturasya ca||30||
+
+
+[BLOCK 224: P]
+----------------------------------------------------------------------
+AdhmAnaM parikartishca srAvo hRudgAtrayorgrahaH|
+
+
+[BLOCK 225: P]
+----------------------------------------------------------------------
+jIvAdAnaM savibhraMshaH stambhaH sopadravaH klamaH||29||
+
+
+[BLOCK 226: P]
+----------------------------------------------------------------------
+ayogAdatiyogAcca dashaitA vyApado matAH|
+
+
+[BLOCK 227: P]
+----------------------------------------------------------------------
+preShyabhaiShajyavaidyAnAM vaiguNyAdAturasya ca||30||
+
+
+[BLOCK 228: P]
+----------------------------------------------------------------------
+The ten cardinal complications arising out of improper administration of emesis and purgation are:
+
+
+[BLOCK 229: UL]
+----------------------------------------------------------------------
+1. Aadhmana (distension of abdomen)
+2. Parikartika (fissure in ano)
+3. Srava (excess discharge)
+4. Hrid-graha (congestion in cardiac region)
+5. Gaatra-graha (body stiffness )
+6. Jeevaadana (bleeding)
+7. Vibhramsha (prolapse of rectum)
+8. Stambha (body stiffness)
+9. Upadrava (complications)
+10. Klama (fatigue without exertion)
+
+
+[BLOCK 230: P]
+----------------------------------------------------------------------
+The above complications arise out of either under activity or excessive activity of the drug because of the following:
+
+
+[BLOCK 231: UL]
+----------------------------------------------------------------------
+1. Preshya-vaigunyam (incompetency of the attendant)
+2. Bhaishajya-vaigunya (incompetency of drug)
+3. Vaidya-vaigunya (incompetency of physician)
+4. Aatura-vaigunya (incompetency of the patient). [29-30]
+
+
+[BLOCK 232: H3]
+----------------------------------------------------------------------
+Three types of purification according to its signs
+
+
+[BLOCK 233: P]
+----------------------------------------------------------------------
+योगः सम्यक्प्रवृत्तिः स्यादतियोगोऽतिवर्तनम्|
+
+
+[BLOCK 234: P]
+----------------------------------------------------------------------
+अयोगः प्रातिलोम्येन न चाल्पं वा प्रवर्तनम्||३१||
+
+
+[BLOCK 235: P]
+----------------------------------------------------------------------
+श्लेष्मोत्क्लिष्टेन दुर्गन्धमहृद्यमति वा बहु|
+
+
+[BLOCK 236: P]
+----------------------------------------------------------------------
+विरेचनमजीर्णे च पीतमूर्ध्वं प्रवर्तते||३२||
+
+
+[BLOCK 237: P]
+----------------------------------------------------------------------
+क्षुधार्तमृदुकोष्ठाभ्यां स्वल्पोत्क्लिष्टकफेन वा|
+
+
+[BLOCK 238: P]
+----------------------------------------------------------------------
+तीक्ष्णं पीतं स्थितं क्षुब्धं वमनं स्याद्विरेचनम्||३३||
+
+
+[BLOCK 239: P]
+----------------------------------------------------------------------
+प्रातिलोम्येन दोषाणां हरणात्ते ह्यकृत्स्नशः|
+
+
+[BLOCK 240: P]
+----------------------------------------------------------------------
+अयोगसञ्ज्ञे, कृच्छ्रेण याति दोषो नवाऽल्पशः||३४||
+
+
+[BLOCK 241: P]
+----------------------------------------------------------------------
+yōgaḥ samyakpravr̥ttiḥ syādatiyōgō'tivartanam|
+
+
+[BLOCK 242: P]
+----------------------------------------------------------------------
+ayōgaḥ prātilōmyēna na cālpaṁ vā pravartanam||31||
+
+
+[BLOCK 243: P]
+----------------------------------------------------------------------
+ślēṣmōtkliṣṭēna durgandhamahr̥dyamati vā bahu|
+
+
+[BLOCK 244: P]
+----------------------------------------------------------------------
+virēcanamajīrṇē ca pītamūrdhvaṁ pravartatē||32||
+
+
+[BLOCK 245: P]
+----------------------------------------------------------------------
+kṣudhārtamr̥dukōṣṭhābhyāṁ svalpōtkliṣṭakaphēna vā|
+
+
+[BLOCK 246: P]
+----------------------------------------------------------------------
+tīkṣṇaṁ pītaṁ sthitaṁ kṣubdhaṁ vamanaṁ syādvirēcanam||33||
+
+
+[BLOCK 247: P]
+----------------------------------------------------------------------
+prātilōmyēna dōṣāṇāṁ haraṇāttē hyakr̥tsnaśaḥ|
+
+
+[BLOCK 248: P]
+----------------------------------------------------------------------
+ayōgasañjñē, kr̥cchrēṇa yāti dōṣō navā'lpaśaḥ||34||
+
+
+[BLOCK 249: P]
+----------------------------------------------------------------------
+yogaH samyakpravRuttiH syAdatiyogo~ativartanam|
+
+
+[BLOCK 250: P]
+----------------------------------------------------------------------
+ayogaH prAtilomyena na cAlpaM vA pravartanam||31||
+
+
+[BLOCK 251: P]
+----------------------------------------------------------------------
+shleShmotkliShTena durgandhamahRudyamati vA bahu|
+
+
+[BLOCK 252: P]
+----------------------------------------------------------------------
+virecanamajIrNe ca pItamUrdhvaM pravartate||32||
+
+
+[BLOCK 253: P]
+----------------------------------------------------------------------
+kShudhArtamRudukoShThAbhyAM svalpotkliShTakaphena vA|
+
+
+[BLOCK 254: P]
+----------------------------------------------------------------------
+tIkShNaM pItaM sthitaM kShubdhaM vamanaM syAdvirecanam||33||
+
+
+[BLOCK 255: P]
+----------------------------------------------------------------------
+prAtilomyena doShANAM haraNAtte hyakRutsnashaH|
+
+
+[BLOCK 256: P]
+----------------------------------------------------------------------
+ayogasa~jj~je, kRucchreNa yAti doSho navA~alpashaH||34||
+
+
+[BLOCK 257: P]
+----------------------------------------------------------------------
+The three types of outcome for Vamana and Virechana are:
+
+[REFERENCES / LINKS]
+Vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+Virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+
+
+[BLOCK 258: UL]
+----------------------------------------------------------------------
+1. Samyaka yoga indicates optimum action of elimination therapy
+2. Ati-yoga indicates excess elimination
+3. Ayoga indicates insufficient or no elimination
+
+
+[BLOCK 259: P]
+----------------------------------------------------------------------
+The medicines administered for virechana , in a patient with aggravated and excited status of kapha , will act as vamaka under the following conditions:
+
+[REFERENCES / LINKS]
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+
+
+[BLOCK 260: UL]
+----------------------------------------------------------------------
+1. If the medicine is having bad smell
+2. The drug not being wholesome
+3. Large quantity of medicine
+4. Intake of medicine before the previous meal is digested
+
+
+[BLOCK 261: P]
+----------------------------------------------------------------------
+The medicines administered for vamana will cause virechana under the following conditions:
+
+[REFERENCES / LINKS]
+vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+
+
+[BLOCK 262: UL]
+----------------------------------------------------------------------
+1. Vamana is performed on an individual who is hungry,
+2. An individual with mridu –koshtha ,
+3. An individual with little increase of kapha ,
+4. If the medicine is tikshna (penetrating / potent),
+5. If the medicine is reminent and agitating
+
+[REFERENCES / LINKS]
+Vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+
+
+[BLOCK 263: P]
+----------------------------------------------------------------------
+Whether in vamana or virechana , if the medicines work in opposite, it is termed ayoga or inadequate action. It is also called the same, if doshas are not eliminated or eliminated with difficulty. [31-34]
+
+[REFERENCES / LINKS]
+vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+doshas : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 264: H3]
+----------------------------------------------------------------------
+Various conditions and management
+
+
+[BLOCK 265: P]
+----------------------------------------------------------------------
+पीतौषधो न शुद्धश्चेज्जीर्णे तस्मिन् पुनः पिबेत्|
+
+
+[BLOCK 266: P]
+----------------------------------------------------------------------
+औषधं न त्वजीर्णेऽन्यद्भयं स्यादतियोगतः||३५||
+
+
+[BLOCK 267: P]
+----------------------------------------------------------------------
+कोष्ठस्य गुरुतां ज्ञात्वा लघुत्वं बलमेव च|
+
+
+[BLOCK 268: P]
+----------------------------------------------------------------------
+अयोगे मृदु वा दद्यादौषधं तीक्ष्णमेव वा||३६||
+
+
+[BLOCK 269: P]
+----------------------------------------------------------------------
+pītauṣadhō na śuddhaścējjīrṇē tasmin punaḥ pibēt|
+
+
+[BLOCK 270: P]
+----------------------------------------------------------------------
+auṣadhaṁ na tvajīrṇē'nyadbhayaṁ syādatiyōgataḥ||35||
+
+
+[BLOCK 271: P]
+----------------------------------------------------------------------
+kōṣṭhasya gurutāṁ jñātvā laghutvaṁ balamēva ca|
+
+
+[BLOCK 272: P]
+----------------------------------------------------------------------
+ayōgē mr̥du vā dadyādauṣadhaṁ tīkṣṇamēva vā||36||
+
+
+[BLOCK 273: P]
+----------------------------------------------------------------------
+pItauShadho na shuddhashcejjIrNe tasmin punaH pibet|
+
+
+[BLOCK 274: P]
+----------------------------------------------------------------------
+auShadhaM na tvajIrNe~anyadbhayaM syAdatiyogataH||35||
+
+
+[BLOCK 275: P]
+----------------------------------------------------------------------
+koShThasya gurutAM j~jAtvA laghutvaM balameva ca|
+
+
+[BLOCK 276: P]
+----------------------------------------------------------------------
+ayoge mRudu vA dadyAdauShadhaM tIkShNameva vA||36||
+
+
+[BLOCK 277: P]
+----------------------------------------------------------------------
+If after intake of medicine for elimination, the medicine is digested and there is no elimination, then the medicine should be taken again.
+If the medicine is not digested, it should not be given as it may lead to atiyoga .
+
+
+[BLOCK 278: P]
+----------------------------------------------------------------------
+One has to understand the nature of koshtha (whether guru or laghu ) and the strength of the body for giving either mild ( mridu ) or potent ( teekshna ) medicine. [35-36]
+
+
+[BLOCK 279: P]
+----------------------------------------------------------------------
+वमनं न तु दुश्छर्दं दुष्कोष्ठं न विरेचनम्|
+
+
+[BLOCK 280: P]
+----------------------------------------------------------------------
+पाययेतौषधं भूयो हन्यात् पीतं पुनर्हि तौ||३७||
+
+
+[BLOCK 281: P]
+----------------------------------------------------------------------
+vamanaṁ na tu duśchardaṁ duṣkōṣṭhaṁ na virēcanam|
+
+
+[BLOCK 282: P]
+----------------------------------------------------------------------
+pāyayētauṣadhaṁ bhūyō hanyāt pītaṁ punarhi tau||37||
+
+
+[BLOCK 283: P]
+----------------------------------------------------------------------
+vamanaM na tu dushchardaM duShkoShThaM na virecanam|
+
+
+[BLOCK 284: P]
+----------------------------------------------------------------------
+pAyayetauShadhaM bhUyo hanyAt pItaM punarhi tau||37||
+
+
+[BLOCK 285: P]
+----------------------------------------------------------------------
+Never give emetic drug to people who are unsuitable for vamana ; virechana to those with unsuitable koshtha , if medicine intake happens in such conditions it may even lead to death.[37]
+
+[REFERENCES / LINKS]
+vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+
+
+[BLOCK 286: P]
+----------------------------------------------------------------------
+अस्निग्धास्विन्नदेहस्य रूक्षस्यानवमौषधम्|
+
+
+[BLOCK 287: P]
+----------------------------------------------------------------------
+दोषानुत्क्लिश्य निर्हर्तुमशक्तं जनयेद्गदान्||३८||
+
+
+[BLOCK 288: P]
+----------------------------------------------------------------------
+विभ्रंशं श्वयथुं हिक्कां तमसो दर्शनं भृशम् |
+
+
+[BLOCK 289: P]
+----------------------------------------------------------------------
+पिण्डिकोद्वेष्टनं कण्डूमूर्वोः सादं विवर्णताम्||३९||
+
+
+[BLOCK 290: P]
+----------------------------------------------------------------------
+asnigdhāsvinnadēhasya rūkṣasyānavamauṣadham|
+
+
+[BLOCK 291: P]
+----------------------------------------------------------------------
+dōṣānutkliśya nirhartumaśaktaṁ janayēdgadān||38||
+
+
+[BLOCK 292: P]
+----------------------------------------------------------------------
+vibhraṁśaṁ śvayathuṁ hikkāṁ tamasō darśanaṁ bhr̥śam |
+
+
+[BLOCK 293: P]
+----------------------------------------------------------------------
+piṇḍikōdvēṣṭanaṁ kaṇḍūmūrvōḥ sādaṁ vivarṇatām||39||
+
+
+[BLOCK 294: P]
+----------------------------------------------------------------------
+asnigdhAsvinnadehasya rUkShasyAnavamauShadham|
+
+
+[BLOCK 295: P]
+----------------------------------------------------------------------
+doShAnutklishya nirhartumashaktaM janayedgadAn||38||
+
+
+[BLOCK 296: P]
+----------------------------------------------------------------------
+vibhraMshaM shvayathuM hikkAM tamaso darshanaM bhRusham |
+
+
+[BLOCK 297: P]
+----------------------------------------------------------------------
+piNDikodveShTanaM kaNDUmUrvoH sAdaM vivarNatAm||39||
+
+
+[BLOCK 298: P]
+----------------------------------------------------------------------
+Ayoga happens when asnigdha (under-oleated) and asvinna (under-sudated) person with ruksha nature of the body, is administered a recipe, which is stored for long duration. Here, the drug is unable to remove doshas from the body by creating dosha -utklesha . Such a condition will lead to symptoms like vibhramsha ( virechana oushadha will lead to vamana and vice versa), swelling, hiccups, black-out, cramps in calf muscle, itching, fainting and discoloration.[38-39]
+
+[REFERENCES / LINKS]
+doshas : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+
+
+[BLOCK 299: P]
+----------------------------------------------------------------------
+स्निग्धस्विन्नस्य चात्यल्पं दीप्ताग्नेर्जीर्णमौषधम्|
+
+
+[BLOCK 300: P]
+----------------------------------------------------------------------
+शीतैर्वा स्तब्धमामे वा दोषानुत्क्लिश्य नाहरेत्||४०||
+
+
+[BLOCK 301: P]
+----------------------------------------------------------------------
+तानेव जनयेद्रोगानयोगः सर्व एव सः|
+
+
+[BLOCK 302: P]
+----------------------------------------------------------------------
+विज्ञाय मतिमांस्तत्र यथोक्तां कारयेत् क्रियाम्||४१||
+
+
+[BLOCK 303: P]
+----------------------------------------------------------------------
+तं तैललवणाभ्यक्तं स्विन्नं प्रस्तरसङ्करैः|
+
+
+[BLOCK 304: P]
+----------------------------------------------------------------------
+पाययेत पुनर्जीर्णे समूत्रैर्वा निरूहयेत्||४२||
+
+
+[BLOCK 305: P]
+----------------------------------------------------------------------
+निरूढं च रसैर्धान्वैर्भोजयित्वाऽनुवासयेत्|
+
+
+[BLOCK 306: P]
+----------------------------------------------------------------------
+फलमागधिकादारुसिद्धतैलेन मात्रया||४३||
+
+
+[BLOCK 307: P]
+----------------------------------------------------------------------
+स्निग्धं वातहरैः स्नेहैः पुनस्तीक्ष्णेन शोधयेत्|
+
+
+[BLOCK 308: P]
+----------------------------------------------------------------------
+न चातितीक्ष्णेन ततो ह्यतियोगस्तु जायते||४४||
+
+
+[BLOCK 309: P]
+----------------------------------------------------------------------
+snigdhasvinnasya cātyalpaṁ dīptāgnērjīrṇamauṣadham|
+
+
+[BLOCK 310: P]
+----------------------------------------------------------------------
+śītairvā stabdhamāmē vā dōṣānutkliśya nāharēt||40||
+
+
+[BLOCK 311: P]
+----------------------------------------------------------------------
+tānēva janayēdrōgānayōgaḥ sarva ēva saḥ|
+
+
+[BLOCK 312: P]
+----------------------------------------------------------------------
+vijñāya matimāṁstatra yathōktāṁ kārayēt kriyām||41||
+
+
+[BLOCK 313: P]
+----------------------------------------------------------------------
+taṁ tailalavaṇābhyaktaṁ svinnaṁ prastarasaṅkaraiḥ|
+
+
+[BLOCK 314: P]
+----------------------------------------------------------------------
+pāyayēta punarjīrṇē samūtrairvā nirūhayēt||42||
+
+
+[BLOCK 315: P]
+----------------------------------------------------------------------
+nirūḍhaṁ ca rasairdhānvairbhōjayitvā'nuvāsayēt|
+
+
+[BLOCK 316: P]
+----------------------------------------------------------------------
+phalamāgadhikādārusiddhatailēna mātrayā||43||
+
+
+[BLOCK 317: P]
+----------------------------------------------------------------------
+snigdhaṁ vātaharaiḥ snēhaiḥ punastīkṣṇēna śōdhayēt|
+
+
+[BLOCK 318: P]
+----------------------------------------------------------------------
+na cātitīkṣṇēna tatō hyatiyōgastu jāyatē||44||
+
+
+[BLOCK 319: P]
+----------------------------------------------------------------------
+snigdhasvinnasya cAtyalpaM dIptAgnerjIrNamauShadham|
+
+
+[BLOCK 320: P]
+----------------------------------------------------------------------
+shItairvA stabdhamAme vA doShAnutklishya nAharet||40||
+
+
+[BLOCK 321: P]
+----------------------------------------------------------------------
+tAneva janayedrogAnayogaH sarva eva saH|
+
+
+[BLOCK 322: P]
+----------------------------------------------------------------------
+vij~jAya matimAMstatra yathoktAM kArayet kriyAm||41||
+
+
+[BLOCK 323: P]
+----------------------------------------------------------------------
+taM tailalavaNAbhyaktaM svinnaM prastarasa~gkaraiH|
+
+
+[BLOCK 324: P]
+----------------------------------------------------------------------
+pAyayeta punarjIrNe samUtrairvA nirUhayet||42||
+
+
+[BLOCK 325: P]
+----------------------------------------------------------------------
+nirUDhaM ca rasairdhAnvairbhojayitvA~anuvAsayet|
+
+
+[BLOCK 326: P]
+----------------------------------------------------------------------
+phalamAgadhikAdArusiddhatailena mAtrayA||43||
+
+
+[BLOCK 327: P]
+----------------------------------------------------------------------
+snigdhaM vAtaharaiH snehaiH punastIkShNena shodhayet|
+
+
+[BLOCK 328: P]
+----------------------------------------------------------------------
+na cAtitIkShNena tato hyatiyogastu jAyate||44||
+
+
+[BLOCK 329: P]
+----------------------------------------------------------------------
+Ayoga happens in the following conditions too :
+
+
+[BLOCK 330: UL]
+----------------------------------------------------------------------
+1. Even after proper sneha-sweda there is sub-optimal dose of medicine
+2. Due to increased agni (digestive capacity), quick digestion of medicine happens
+
+
+[BLOCK 331: P]
+----------------------------------------------------------------------
+If there is ama dosha , the medicine for vamana will not work in the desired manner. The case is similar also with virechana drugs.
+
+[REFERENCES / LINKS]
+vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+
+
+[BLOCK 332: P]
+----------------------------------------------------------------------
+Because of the above mentioned causes, the earlier mentioned conditions like vibhramsha will happen. These come under ayoga . The intelligent physician must understand the same and treat accordingly.
+
+
+[BLOCK 333: P]
+----------------------------------------------------------------------
+Here the taila (oil) processed with lavana (salt) has to be applied and made to undergo prastara and sankara kind of sudation. Once the medicine for vamana or virechana must be administered again or else kashaya basti (decoction enema) with cow’s urine has to be done. After the administration of kashaya basti , food with meats of animals of arid regions ( jangala mamsa rasa ) should be taken and should be followed by administration of sneha basti (oil enema).
+
+[REFERENCES / LINKS]
+vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+basti : https://www.carakasamhitaonline.com/index.php?title=Basti
+basti : https://www.carakasamhitaonline.com/index.php?title=Basti
+basti : https://www.carakasamhitaonline.com/index.php?title=Basti
+
+
+[BLOCK 334: P]
+----------------------------------------------------------------------
+Sneha basti can be done by oil processed with madana (Randia dumetorum), pippali (Piper longum), devadaru (Cedrus deodara), in proper dose. Once adequate oleation happens, elimination must be done with a recipe containing teekshna drugs.
+
+[REFERENCES / LINKS]
+basti : https://www.carakasamhitaonline.com/index.php?title=Basti
+
+
+[BLOCK 335: P]
+----------------------------------------------------------------------
+However, the medicines that are ati-teekshna should not be given, as it may result in atiyoga .[40-44]
+
+
+[BLOCK 336: H3]
+----------------------------------------------------------------------
+Signs of excess elimination and management
+
+
+[BLOCK 337: P]
+----------------------------------------------------------------------
+अतितीक्ष्णं क्षुधार्तस्य मृदुकोष्ठस्य भेषजम्|
+
+
+[BLOCK 338: P]
+----------------------------------------------------------------------
+हृत्वाऽऽशु विट्पित्तकफान् धातून्विस्रावयेद्द्रवान्||४५||
+
+
+[BLOCK 339: P]
+----------------------------------------------------------------------
+बलस्वरक्षयं दाहं कण्ठशोषं भ्रमं तृषाम्|
+
+
+[BLOCK 340: P]
+----------------------------------------------------------------------
+कुर्याच्च मधुरैस्तत्र शेषमौषधमुल्लिखेत्||४६||
+
+
+[BLOCK 341: P]
+----------------------------------------------------------------------
+वमने तु विरेकः स्याद्विरेके वमनं पुनः |
+
+
+[BLOCK 342: P]
+----------------------------------------------------------------------
+परिषेकावगाहाद्यैः सुशीतैः स्तम्भयेच्च तत्||४७||
+
+
+[BLOCK 343: P]
+----------------------------------------------------------------------
+कषायमधुरैः शीतैरन्नपानौषधैस्तथा|
+
+
+[BLOCK 344: P]
+----------------------------------------------------------------------
+रक्तपित्तातिसारघ्नैर्दाहज्वरहरैरपि||४८||
+
+
+[BLOCK 345: P]
+----------------------------------------------------------------------
+अञ्जनं चन्दनोशीरमज्जासृक्शर्करोदकम्|
+
+
+[BLOCK 346: P]
+----------------------------------------------------------------------
+लाजचूर्णैः पिबेन्मन्थमतियोगहरं परम्||४९||
+
+
+[BLOCK 347: P]
+----------------------------------------------------------------------
+शुङ्गाभिर्वा वटादीनां सिद्धां पेयां समाक्षिकाम्|
+
+
+[BLOCK 348: P]
+----------------------------------------------------------------------
+वर्चःसाङ्ग्राहिकैः सिद्धं क्षीरं भोज्यं च दापयेत्||५०||
+
+
+[BLOCK 349: P]
+----------------------------------------------------------------------
+जाङ्गलैर्वा रसैर्भोज्यं पिच्छाबस्तिश्च शस्यते|
+
+
+[BLOCK 350: P]
+----------------------------------------------------------------------
+मधुरैरनुवास्यश्च सिद्धेन क्षीरसर्पिषा||५१||
+
+
+[BLOCK 351: P]
+----------------------------------------------------------------------
+atitīkṣṇaṁ kṣudhārtasya mr̥dukōṣṭhasya bhēṣajam|
+
+
+[BLOCK 352: P]
+----------------------------------------------------------------------
+hr̥tvā śu viṭpittakaphān dhātūnvisrāvayēddravān||45||
+
+
+[BLOCK 353: P]
+----------------------------------------------------------------------
+balasvarakṣayaṁ dāhaṁ kaṇṭhaśōṣaṁ bhramaṁ tr̥ṣām|
+
+
+[BLOCK 354: P]
+----------------------------------------------------------------------
+kuryācca madhuraistatra śēṣamauṣadhamullikhēt||46||
+
+
+[BLOCK 355: P]
+----------------------------------------------------------------------
+vamanē tu virēkaḥ syādvirēkē vamanaṁ punaḥ |
+
+
+[BLOCK 356: P]
+----------------------------------------------------------------------
+pariṣēkāvagāhādyaiḥ suśītaiḥ stambhayēcca tat||47||
+
+
+[BLOCK 357: P]
+----------------------------------------------------------------------
+kaṣāyamadhuraiḥ śītairannapānauṣadhaistathā|
+
+
+[BLOCK 358: P]
+----------------------------------------------------------------------
+raktapittātisāraghnairdāhajvaraharairapi||48||
+
+
+[BLOCK 359: P]
+----------------------------------------------------------------------
+añjanaṁ candanōśīramajjāsr̥kśarkarōdakam|
+
+
+[BLOCK 360: P]
+----------------------------------------------------------------------
+lājacūrṇaiḥ pibēnmanthamatiyōgaharaṁ param||49||
+
+
+[BLOCK 361: P]
+----------------------------------------------------------------------
+śuṅgābhirvā vaṭādīnāṁ siddhāṁ pēyāṁ samākṣikām|
+
+
+[BLOCK 362: P]
+----------------------------------------------------------------------
+varcaḥsāṅgrāhikaiḥ siddhaṁ kṣīraṁ bhōjyaṁ ca dāpayēt||50||
+
+
+[BLOCK 363: P]
+----------------------------------------------------------------------
+jāṅgalairvā rasairbhōjyaṁ picchābastiśca śasyatē|
+
+
+[BLOCK 364: P]
+----------------------------------------------------------------------
+madhurairanuvāsyaśca siddhēna kṣīrasarpiṣā||51||
+
+
+[BLOCK 365: P]
+----------------------------------------------------------------------
+atitIkShNaM kShudhArtasya mRudukoShThasya bheShajam|
+
+
+[BLOCK 366: P]
+----------------------------------------------------------------------
+hRutvA~a~ashu viTpittakaphAn dhAtUnvisrAvayeddravAn||45||
+
+
+[BLOCK 367: P]
+----------------------------------------------------------------------
+balasvarakShayaM dAhaM kaNThashoShaM bhramaM tRuShAm|
+
+
+[BLOCK 368: P]
+----------------------------------------------------------------------
+kuryAcca madhuraistatra sheShamauShadhamullikhet||46||
+
+
+[BLOCK 369: P]
+----------------------------------------------------------------------
+vamane tu virekaH syAdvireke vamanaM punaH |
+
+
+[BLOCK 370: P]
+----------------------------------------------------------------------
+pariShekAvagAhAdyaiH sushItaiH stambhayecca tat||47||
+
+
+[BLOCK 371: P]
+----------------------------------------------------------------------
+kaShAyamadhuraiH shItairannapAnauShadhaistathA|
+
+
+[BLOCK 372: P]
+----------------------------------------------------------------------
+raktapittAtisAraghnairdAhajvaraharairapi||48||
+
+
+[BLOCK 373: P]
+----------------------------------------------------------------------
+a~jjanaM candanoshIramajjAsRuksharkarodakam|
+
+
+[BLOCK 374: P]
+----------------------------------------------------------------------
+lAjacUrNaiH pibenmanthamatiyogaharaM param||49||
+
+
+[BLOCK 375: P]
+----------------------------------------------------------------------
+shu~ggAbhirvA vaTAdInAM siddhAM peyAM samAkShikAm|
+
+
+[BLOCK 376: P]
+----------------------------------------------------------------------
+varcaHsA~ggrAhikaiH siddhaM kShIraM bhojyaM ca dApayet||50||
+
+
+[BLOCK 377: P]
+----------------------------------------------------------------------
+jA~ggalairvA rasairbhojyaM picchAbastishca shasyate|
+
+
+[BLOCK 378: P]
+----------------------------------------------------------------------
+madhurairanuvAsyashca siddhena kShIrasarpiShA||51||
+
+
+[BLOCK 379: P]
+----------------------------------------------------------------------
+When a patient who is with mridukoshtha , who is affected with hunger, is provided with an exceedingly strong vamana or virechana , it results in the quick elimination of not only the faecal matter, pitta and kapha , but also the drava-dhatu (liquid content of the body). Consequently, there will be sudden depression of strength and voice, dryness of throat, giddiness and thirst. In such a condition, it is preferable to eliminate the residual drug in the koshtha using the drugs of madhura gana (mentioned in sweet category).
+
+[REFERENCES / LINKS]
+vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+
+
+[BLOCK 380: P]
+----------------------------------------------------------------------
+If ati-yoga happens like this during attempting vamana , the residual doshas are eliminated by initiating a virechana and vice-versa.
+
+[REFERENCES / LINKS]
+vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+doshas : https://www.carakasamhitaonline.com/index.php?title=Dosha
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+
+
+[BLOCK 381: P]
+----------------------------------------------------------------------
+The following remedies need to be instituted fast for stambhana (To check the supra-optimal purificatory effect of therapy).
+
+[REFERENCES / LINKS]
+stambhana : https://www.carakasamhitaonline.com/index.php?title=Stambhana
+
+
+[BLOCK 382: P]
+----------------------------------------------------------------------
+By providing cold irrigation ( parishekam ) and tub bath ( avagaaham )
+
+
+[BLOCK 383: P]
+----------------------------------------------------------------------
+By providing foods, drinks and medicine which are sheeta (cold), kashaya (astrigent) and madhura (sweet).
+
+
+[BLOCK 384: P]
+----------------------------------------------------------------------
+By following appropriate regimens prescribed for rakta-pitta, atisaara, daaha and jwara .
+
+[REFERENCES / LINKS]
+jwara : https://www.carakasamhitaonline.com/index.php?title=Jwara
+
+
+[BLOCK 385: P]
+----------------------------------------------------------------------
+For ati-yoga of virechana , sharkarodakam (sugar syrup) added with rasaanjana (Berberis aristata), chandana (Santalum album), usheera (Vetivera zizanoides), blood of goat, cornflake powder etc. can be taken to stop excessive loss of fluid. Then peya made from vata shunga (leaf buds of banyan tree) added with honey, milk or porridge processed with samgraahi substances (that which pacifies excess bowel movements) like the priyangvaadi gana, food added with jaangala maamsa rasam (meat soup of animals from arid region), picchha basti mentioned in rakta-arshas, sneha basti using ghee made out of milk processed with madhura aushadha (sweet drugs).[46-51]
+
+[REFERENCES / LINKS]
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+basti : https://www.carakasamhitaonline.com/index.php?title=Basti
+basti : https://www.carakasamhitaonline.com/index.php?title=Basti
+
+
+[BLOCK 386: P]
+----------------------------------------------------------------------
+वमनस्यातियोगे तु शीताम्बुपरिषेचितः|
+
+
+[BLOCK 387: P]
+----------------------------------------------------------------------
+पिबेत् कफहरैर्मन्थं सघृतक्षौद्रशर्करम्||५२||
+
+
+[BLOCK 388: P]
+----------------------------------------------------------------------
+सोद्गारायां भृशं वम्यां मूर्च्छायां धान्यमुस्तयोः|
+
+
+[BLOCK 389: P]
+----------------------------------------------------------------------
+समधूकाञ्जनं चूर्णं लेहयेन्मधुसंयुतम्||५३||
+
+
+[BLOCK 390: P]
+----------------------------------------------------------------------
+वमतोऽन्तःप्रविष्टायां जिह्वायां कवलग्रहाः|
+
+
+[BLOCK 391: P]
+----------------------------------------------------------------------
+स्निग्धाम्ललवणैर्हृद्यैर्यूषक्षीररसैर्हिताः||५४||
+
+
+[BLOCK 392: P]
+----------------------------------------------------------------------
+फलान्यम्लानि खादेयुस्तस्य चान्येऽग्रतो नराः|
+
+
+[BLOCK 393: P]
+----------------------------------------------------------------------
+निःसृतां तु तिलद्राक्षाकल्कलिप्तां प्रवेशयेत्||५५||
+
+
+[BLOCK 394: P]
+----------------------------------------------------------------------
+वाग्ग्रहानिलरोगेषु घृतमांसोपसाधिताम्|
+
+
+[BLOCK 395: P]
+----------------------------------------------------------------------
+यवागूं तनुकां दद्यात् स्नेहस्वेदौ च बुद्धिमान्||५६||
+
+
+[BLOCK 396: P]
+----------------------------------------------------------------------
+vamanasyātiyōgē tu śītāmbupariṣēcitaḥ|
+
+
+[BLOCK 397: P]
+----------------------------------------------------------------------
+pibēt kaphaharairmanthaṁ saghr̥takṣaudraśarkaram||52||
+
+
+[BLOCK 398: P]
+----------------------------------------------------------------------
+sōdgārāyāṁ bhr̥śaṁ vamyāṁ mūrcchāyāṁ dhānyamustayōḥ|
+
+
+[BLOCK 399: P]
+----------------------------------------------------------------------
+samadhūkāñjanaṁ cūrṇaṁ lēhayēnmadhusaṁyutam||53||
+
+
+[BLOCK 400: P]
+----------------------------------------------------------------------
+vamatō'ntaḥpraviṣṭāyāṁ jihvāyāṁ kavalagrahāḥ|
+
+
+[BLOCK 401: P]
+----------------------------------------------------------------------
+snigdhāmlalavaṇairhr̥dyairyūṣakṣīrarasairhitāḥ||54||
+
+
+[BLOCK 402: P]
+----------------------------------------------------------------------
+phalānyamlāni khādēyustasya cānyē'gratō narāḥ|
+
+
+[BLOCK 403: P]
+----------------------------------------------------------------------
+niḥsr̥tāṁ tu tiladrākṣākalkaliptāṁ pravēśayēt||55||
+
+
+[BLOCK 404: P]
+----------------------------------------------------------------------
+vāggrahānilarōgēṣu ghr̥tamāṁsōpasādhitām|
+
+
+[BLOCK 405: P]
+----------------------------------------------------------------------
+yavāgūṁ tanukāṁ dadyāt snēhasvēdau ca buddhimān||56||
+
+
+[BLOCK 406: P]
+----------------------------------------------------------------------
+vamanasyAtiyoge tu shItAmbupariShecitaH|
+
+
+[BLOCK 407: P]
+----------------------------------------------------------------------
+pibet kaphaharairmanthaM saghRutakShaudrasharkaram||52||
+
+
+[BLOCK 408: P]
+----------------------------------------------------------------------
+sodgArAyAM bhRushaM vamyAM mUrcchAyAM dhAnyamustayoH|
+
+
+[BLOCK 409: P]
+----------------------------------------------------------------------
+samadhUkA~jjanaM cUrNaM lehayenmadhusaMyutam||53||
+
+
+[BLOCK 410: P]
+----------------------------------------------------------------------
+vamato~antaHpraviShTAyAM jihvAyAM kavalagrahAH|
+
+
+[BLOCK 411: P]
+----------------------------------------------------------------------
+snigdhAmlalavaNairhRudyairyUShakShIrarasairhitAH||54||
+
+
+[BLOCK 412: P]
+----------------------------------------------------------------------
+phalAnyamlAni khAdeyustasya cAnye~agrato narAH|
+
+
+[BLOCK 413: P]
+----------------------------------------------------------------------
+niHsRutAM tu tiladrAkShAkalkaliptAM praveshayet||55||
+
+
+[BLOCK 414: P]
+----------------------------------------------------------------------
+vAggrahAnilarogeShu ghRutamAMsopasAdhitAm|
+
+
+[BLOCK 415: P]
+----------------------------------------------------------------------
+yavAgUM tanukAM dadyAt snehasvedau ca buddhimAn||56||
+
+
+[BLOCK 416: P]
+----------------------------------------------------------------------
+In atiyoga of vamana , the whole body irrigation must be done with cold water. Mantha must be prepared with ghee, honey and sugar.
+
+[REFERENCES / LINKS]
+vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+
+
+[BLOCK 417: P]
+----------------------------------------------------------------------
+If atiyoga happens with belching and fainting, powdered dhanyaka (Coriandum sativum), musta (Cyonodon dactylon), rasanjana (Berberis aristata) etc. added with honey can be licked.
+
+
+[BLOCK 418: P]
+----------------------------------------------------------------------
+If due to excessive vamana , his tongue goes inside, a vegetable soup milk or meat soup which are prepared by incorporating unctuous, salty, sour and pleasant ingredients can be used for gargling. Eating sour fruits in front of him by others will also be helpful.
+
+[REFERENCES / LINKS]
+vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+
+
+[BLOCK 419: P]
+----------------------------------------------------------------------
+If the tongue comes out, a paste of tila (sesame) and draksha (grapes) can be applied over it and can be made to move out.
+
+
+[BLOCK 420: P]
+----------------------------------------------------------------------
+If there is problem in speech or other disorders of vata , he can be given a porridge made of ghee and meat juice. The intelligent physician then must do snehana (oleation) and swedana (sudation).[52-56]
+
+[REFERENCES / LINKS]
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+snehana : https://www.carakasamhitaonline.com/index.php?title=Snehana
+swedana : https://www.carakasamhitaonline.com/index.php?title=Swedana
+
+
+[BLOCK 421: H3]
+----------------------------------------------------------------------
+Importance of diet after purification
+
+
+[BLOCK 422: P]
+----------------------------------------------------------------------
+वमितश्च विरिक्तश्च मन्दाग्निश्च विलङ्घितः|
+
+
+[BLOCK 423: P]
+----------------------------------------------------------------------
+अग्निप्राणविवृद्ध्यर्थं क्रमं पेयादिकं भजेत् ||५७||
+
+
+[BLOCK 424: P]
+----------------------------------------------------------------------
+vamitaśca viriktaśca mandāgniśca vilaṅghitaḥ|
+
+
+[BLOCK 425: P]
+----------------------------------------------------------------------
+agniprāṇavivr̥ddhyarthaṁ kramaṁ pēyādikaṁ bhajēt ||57||
+
+
+[BLOCK 426: P]
+----------------------------------------------------------------------
+vamitashca viriktashca mandAgnishca vila~gghitaH|
+
+
+[BLOCK 427: P]
+----------------------------------------------------------------------
+agniprANavivRuddhyarthaM kramaM peyAdikaM bhajet ||57||
+
+
+[BLOCK 428: P]
+----------------------------------------------------------------------
+Peyadi krama ( peyadi diet regimen) must be followed by those who undergo Vamana and Virechana , who have diminished agni and who is under fasting for improving the jatharaagni ( digestion and metabolism) and prana shakti (vitality)
+
+[REFERENCES / LINKS]
+Vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+Virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+
+
+[BLOCK 429: H3]
+----------------------------------------------------------------------
+Complication of adhmana (abdominal distension) and its management
+
+
+[BLOCK 430: P]
+----------------------------------------------------------------------
+बहुदोषस्य रूक्षस्य हीनाग्नेरल्पमौषधम्|
+
+
+[BLOCK 431: P]
+----------------------------------------------------------------------
+सोदावर्तस्य चोत्क्लिश्य दोषान्मार्गान्निरुध्य च||५८||
+
+
+[BLOCK 432: P]
+----------------------------------------------------------------------
+भृशमाध्मापयेन्नाभिं पृष्ठपार्श्वशिरोरुजम्|
+
+
+[BLOCK 433: P]
+----------------------------------------------------------------------
+श्वासविण्मूत्रवातानां सङ्गं कुर्याच्च दारुणम्||५९||
+
+
+[BLOCK 434: P]
+----------------------------------------------------------------------
+अभ्यङ्गस्वेदवर्त्यादि सनिरूहानुवासनम्|
+
+
+[BLOCK 435: P]
+----------------------------------------------------------------------
+उदावर्तहरं सर्वं कर्माध्मातस्य शस्यते||६०||
+
+
+[BLOCK 436: P]
+----------------------------------------------------------------------
+bahudōṣasya rūkṣasya hīnāgnēralpamauṣadham|
+
+
+[BLOCK 437: P]
+----------------------------------------------------------------------
+sōdāvartasya cōtkliśya dōṣānmārgānnirudhya ca||58||
+
+
+[BLOCK 438: P]
+----------------------------------------------------------------------
+bhr̥śamādhmāpayēnnābhiṁ pr̥ṣṭhapārśvaśirōrujam|
+
+
+[BLOCK 439: P]
+----------------------------------------------------------------------
+śvāsaviṇmūtravātānāṁ saṅgaṁ kuryācca dāruṇam||59||
+
+
+[BLOCK 440: P]
+----------------------------------------------------------------------
+abhyaṅgasvēdavartyādi sanirūhānuvāsanam|
+
+
+[BLOCK 441: P]
+----------------------------------------------------------------------
+udāvartaharaṁ sarvaṁ karmādhmātasya śasyatē||60||
+
+
+[BLOCK 442: P]
+----------------------------------------------------------------------
+bahudoShasya rUkShasya hInAgneralpamauShadham|
+
+
+[BLOCK 443: P]
+----------------------------------------------------------------------
+sodAvartasya cotklishya doShAnmArgAnnirudhya ca||58||
+
+
+[BLOCK 444: P]
+----------------------------------------------------------------------
+bhRushamAdhmApayennAbhiM pRuShThapArshvashirorujam|
+
+
+[BLOCK 445: P]
+----------------------------------------------------------------------
+shvAsaviNmUtravAtAnAM sa~ggaM kuryAcca dAruNam||59||
+
+
+[BLOCK 446: P]
+----------------------------------------------------------------------
+abhya~ggasvedavartyAdi sanirUhAnuvAsanam|
+
+
+[BLOCK 447: P]
+----------------------------------------------------------------------
+udAvartaharaM sarvaM karmAdhmAtasya shasyate||60||
+
+
+[BLOCK 448: P]
+----------------------------------------------------------------------
+If medicine with low potency and in small quantity is given in patients with excessively vitiated dosha , excess dryness in body, low digestive power and udavarta then it leads to further aggravation of dosha resulting in obstruction in channels, severe abdominal distension in umbilical region, pain in the back, flanks and head, severe dyspnea, retention of urine, feces and flatus. This condition shall be treated with abhyanga (oil massage), swedana (sudation), varti (use of suppositories), niruha along with anuvasana (decoction and oil enema) and all the treatment that cure udavarta . [58-60]
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+swedana : https://www.carakasamhitaonline.com/index.php?title=Swedana
+
+
+[BLOCK 449: H3]
+----------------------------------------------------------------------
+Complication of parikartika (fissure in ano) and its management
+
+
+[BLOCK 450: P]
+----------------------------------------------------------------------
+स्निग्धेन गुरुकोष्ठेन सामे बलवदौषधम्| क्षामेण मृदुकोष्ठेन श्रान्तेनाल्पबलेन वा||६१||
+
+
+[BLOCK 451: P]
+----------------------------------------------------------------------
+पीतं गत्वा गुदं साममाशु दोषं निरस्य च| तीव्रशूलां सपिच्छास्रां करोति परिकर्तिकाम्||६२||
+
+
+[BLOCK 452: P]
+----------------------------------------------------------------------
+लङ्घनं पाचनं सामे रूक्षोष्णं लघुभोजनम्| बृंहणीयो विधिः सर्वः क्षामस्य मधुरस्तथा||६३||
+
+
+[BLOCK 453: P]
+----------------------------------------------------------------------
+snigdhēna gurukōṣṭhēna sāmē balavadauṣadham| kṣāmēṇa mr̥dukōṣṭhēna śrāntēnālpabalēna vā||61||
+
+
+[BLOCK 454: P]
+----------------------------------------------------------------------
+pītaṁ gatvā gudaṁ sāmamāśu dōṣaṁ nirasya ca| tīvraśūlāṁ sapicchāsrāṁ karōti parikartikām||62||
+
+
+[BLOCK 455: P]
+----------------------------------------------------------------------
+laṅghanaṁ pācanaṁ sāmē rūkṣōṣṇaṁ laghubhōjanam| br̥ṁhaṇīyō vidhiḥ sarvaḥ kṣāmasya madhurastathā||63||
+
+
+[BLOCK 456: P]
+----------------------------------------------------------------------
+snigdhena gurukoShThena sAme balavadauShadham| kShAmeNa mRudukoShThena shrAntenAlpabalena vA||61||
+
+
+[BLOCK 457: P]
+----------------------------------------------------------------------
+pItaM gatvA gudaM sAmamAshu doShaM nirasya ca| tIvrashUlAM sapicchAsrAM karoti parikartikAm||62||
+
+
+[BLOCK 458: P]
+----------------------------------------------------------------------
+la~gghanaM pAcanaM sAme rUkShoShNaM laghubhojanam| bRuMhaNIyo vidhiH sarvaH kShAmasya madhurastathA||63||
+
+
+[BLOCK 459: P]
+----------------------------------------------------------------------
+If potent (purification) medicine is given in properly oleated patients, with guru koshtha (heavy bowel), in cases of ama dosha , body being lean with mridu koshtha (soft bowel), fatigued and less strength, then doshas reach guda (rectum) in sama condition and get expelled out immediately. It results in parikartika (fissure in ano) with severe pain, mucous and bloody secretions. In amadosha or sama conditions, fasting ( langhana ), digestive ( pachana ), drying ( rukshana ), should be done and easily digestible (light) and hot food must be taken. For those whose body is emaciated, every brimhana (nourishing) measure like food with madhura rasa (sweet taste) dominance must be taken. [61-63]
+
+[REFERENCES / LINKS]
+doshas : https://www.carakasamhitaonline.com/index.php?title=Dosha
+langhana : https://www.carakasamhitaonline.com/index.php?title=Langhana
+pachana : https://www.carakasamhitaonline.com/index.php?title=Pachana
+rukshana : https://www.carakasamhitaonline.com/index.php?title=Rukshana
+brimhana : https://www.carakasamhitaonline.com/index.php?title=Brimhana
+
+
+[BLOCK 460: P]
+----------------------------------------------------------------------
+आमे जीर्णेऽनुबन्धश्चेत् क्षाराम्लं लघु शस्यते| पुष्पकासीसमिश्रं वा क्षारेण लवणेन वा||६४||
+
+
+[BLOCK 461: P]
+----------------------------------------------------------------------
+सदाडिमरसं सर्पिः पिबेद्वातेऽधिके सति| दध्यम्लं भोजने पाने संयुक्तं दाडिमत्वचा||६५||
+
+
+[BLOCK 462: P]
+----------------------------------------------------------------------
+देवदारुतिलानां वा कल्कमुष्णाम्बुना पिबेत्| अश्वत्थोदुम्बरप्लक्षकदम्बैर्वा शृतं पयः||६६||
+
+
+[BLOCK 463: P]
+----------------------------------------------------------------------
+कषायमधुरं शीतं पिच्छाबस्तिमथापि वा| यष्टीमधुकसिद्धं वा स्नेहबस्तिं प्रदापयेत्||६७||
+
+
+[BLOCK 464: P]
+----------------------------------------------------------------------
+āmē jīrṇē'nubandhaścēt kṣārāmlaṁ laghu śasyatē| puṣpakāsīsamiśraṁ vā kṣārēṇa lavaṇēna vā||64||
+
+
+[BLOCK 465: P]
+----------------------------------------------------------------------
+sadāḍimarasaṁ sarpiḥ pibēdvātē'dhikē sati| dadhyamlaṁ bhōjanē pānē saṁyuktaṁ dāḍimatvacā||65||
+
+
+[BLOCK 466: P]
+----------------------------------------------------------------------
+dēvadārutilānāṁ vā kalkamuṣṇāmbunā pibēt| aśvatthōdumbaraplakṣakadambairvā śr̥taṁ payaḥ||66||
+
+
+[BLOCK 467: P]
+----------------------------------------------------------------------
+kaṣāyamadhuraṁ śītaṁ picchābastimathāpi vā| yaṣṭīmadhukasiddhaṁ vā snēhabastiṁ pradāpayēt||67||
+
+
+[BLOCK 468: P]
+----------------------------------------------------------------------
+Ame jIrNe~anubandhashcet kShArAmlaM laghu shasyate| puShpakAsIsamishraM vA kShAreNa lavaNena vA||64||
+
+
+[BLOCK 469: P]
+----------------------------------------------------------------------
+sadADimarasaM sarpiH pibedvAte~adhike sati| dadhyamlaM bhojane pAne saMyuktaM dADimatvacA||65||
+
+
+[BLOCK 470: P]
+----------------------------------------------------------------------
+devadArutilAnAM vA kalkamuShNAmbunA pibet| ashvatthodumbaraplakShakadambairvA shRutaM payaH||66||
+
+
+[BLOCK 471: P]
+----------------------------------------------------------------------
+kaShAyamadhuraM shItaM picchAbastimathApi vA| yaShTImadhukasiddhaM vA snehabastiM pradApayet||67||
+
+
+[BLOCK 472: P]
+----------------------------------------------------------------------
+If parikartika continues even if the ama got digested, light food added with kshara (alkalizing) and amla (sour) is good. For aggravated vayu , ghee medicated with pomegranate juice, puspa-kaaseesa (green vitriol- Ferrous sulphate), kshara (alkalies), lavana (salts) and dadima (Punica granatum) can be used. The powder of skin of dadima along with sour curd can be taken or with other food. The paste made of devadaru (Cedrus deodara) and tila (sesame) can be taken in hot water. Milk processed with the skin of ashwatha (Ficus bengalensis), udumbara (Ficus glomerata), plaksha (Ficus lacor) and kadamba (Anthocephalus kadamba) can be taken. Pichchha basti can be done using madhura rasa (drugs with sweet taste) and cooling ingredients and sneha basti with oil processed with yashti madhu (Glycerrhiza glabra) can be done.[64-67]
+
+[REFERENCES / LINKS]
+basti : https://www.carakasamhitaonline.com/index.php?title=Basti
+basti : https://www.carakasamhitaonline.com/index.php?title=Basti
+
+
+[BLOCK 473: H3]
+----------------------------------------------------------------------
+Complication of paristrava (discharge) and its management
+
+
+[BLOCK 474: P]
+----------------------------------------------------------------------
+अल्पं तु बहुदोषस्य दोषमुत्क्लिश्य भेषजम्|
+
+
+[BLOCK 475: P]
+----------------------------------------------------------------------
+अल्पाल्पं स्रावयेत् कण्डूं शोफं कुष्ठानि गौरवम्||६८||
+
+
+[BLOCK 476: P]
+----------------------------------------------------------------------
+कुर्याच्चाग्निबलोत्क्लेशस्तैमित्यारुचिपाण्डुताः|
+
+
+[BLOCK 477: P]
+----------------------------------------------------------------------
+परिस्रावः स, तं दोषं शमयेद्वामयेदपि||६९||
+
+
+[BLOCK 478: P]
+----------------------------------------------------------------------
+स्नेहितं वा पुनस्तीक्ष्णं पाययेत् विरेचनम्|
+
+
+[BLOCK 479: P]
+----------------------------------------------------------------------
+शुद्धे चूर्णासवारिष्टान् संस्कृतांश्च प्रदापयेत्||७०||
+
+
+[BLOCK 480: P]
+----------------------------------------------------------------------
+alpaṁ tu bahudōṣasya dōṣamutkliśya bhēṣajam|
+
+
+[BLOCK 481: P]
+----------------------------------------------------------------------
+alpālpaṁ srāvayēt kaṇḍūṁ śōphaṁ kuṣṭhāni gauravam||68||
+
+
+[BLOCK 482: P]
+----------------------------------------------------------------------
+kuryāccāgnibalōtklēśastaimityārucipāṇḍutāḥ|
+
+
+[BLOCK 483: P]
+----------------------------------------------------------------------
+parisrāvaḥ sa, taṁ dōṣaṁ śamayēdvāmayēdapi||69||
+
+
+[BLOCK 484: P]
+----------------------------------------------------------------------
+snēhitaṁ vā punastīkṣṇaṁ pāyayēt virēcanam|
+
+
+[BLOCK 485: P]
+----------------------------------------------------------------------
+śuddhē cūrṇāsavāriṣṭān saṁskr̥tāṁśca pradāpayēt||70||
+
+
+[BLOCK 486: P]
+----------------------------------------------------------------------
+alpaM tu bahudoShasya doShamutklishya bheShajam|
+
+
+[BLOCK 487: P]
+----------------------------------------------------------------------
+alpAlpaM srAvayet kaNDUM shophaM kuShThAni gauravam||68||
+
+
+[BLOCK 488: P]
+----------------------------------------------------------------------
+kuryAccAgnibalotkleshastaimityArucipANDutAH|
+
+
+[BLOCK 489: P]
+----------------------------------------------------------------------
+parisrAvaH sa, taM doShaM shamayedvAmayedapi||69||
+
+
+[BLOCK 490: P]
+----------------------------------------------------------------------
+snehitaM vA punastIkShNaM pAyayet virecanam|
+
+
+[BLOCK 491: P]
+----------------------------------------------------------------------
+shuddhe cUrNAsavAriShTAn saMskRutAMshca pradApayet||70||
+
+
+[BLOCK 492: P]
+----------------------------------------------------------------------
+In the patients with excessively vitiated doshas , when only a small dose of medicine is given, the dosha get aggravated and discharged out in little quantity frequently. This result in alpa shopha (swelling), kandu (itching), kushtam (skin diseases), gauravam (heaviness), agni naasham (destruction of digestive power), utklesham (nausea), staimityam ( feeling of body covered with wet cloths), aruchi (ageusia) and pandu (anemia). The entire spectrum is called parisravam . In this condition, the aggravated dosha must either be alleviated or removed out by emesis. Otherwise after oleation, potent virechana medicine can be given again for purification after which arishta (alcoholic medicated preparations) processed with drugs that enhance agni (digestive power) can be used. [68-70]
+
+[REFERENCES / LINKS]
+doshas : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+
+
+[BLOCK 493: H3]
+----------------------------------------------------------------------
+Complication of hridgraha (chest congestion) and its management
+
+
+[BLOCK 494: P]
+----------------------------------------------------------------------
+पीतौषधस्य वेगानां निग्रहान्मारुतादयः|
+
+
+[BLOCK 495: P]
+----------------------------------------------------------------------
+कुपिता हृदयं गत्वा घोरं कुर्वन्ति हृद्ग्रहम्||७१||
+
+
+[BLOCK 496: P]
+----------------------------------------------------------------------
+स हिक्काकासपार्श्वार्तिदैन्यलालाक्षिविभ्रमैः|
+
+
+[BLOCK 497: P]
+----------------------------------------------------------------------
+जिह्वां खादति निःसञ्ज्ञो दन्तान् किटिकिटापयन्||७२||
+
+
+[BLOCK 498: P]
+----------------------------------------------------------------------
+न गच्छेद्विभ्रमं तत्र वामयेदाशु तं भिषक्|
+
+
+[BLOCK 499: P]
+----------------------------------------------------------------------
+मधुरैः पित्तमूर्च्छार्तं कटुभिः कफमूर्च्छितम्||७३||
+
+
+[BLOCK 500: P]
+----------------------------------------------------------------------
+पाचनीयैस्ततश्चास्य दोषशेषं विपाचयेत्|
+
+
+[BLOCK 501: P]
+----------------------------------------------------------------------
+कायाग्निं च बलं चास्य क्रमेणोत्थापयेत्ततः ||७४||
+
+
+[BLOCK 502: P]
+----------------------------------------------------------------------
+पवनेनातिवमतो हृदयं यस्य पीड्यते|
+
+
+[BLOCK 503: P]
+----------------------------------------------------------------------
+तस्मै स्निग्धाम्ललवणं दद्यात् पित्तकफेऽन्यथा||७५||
+
+
+[BLOCK 504: P]
+----------------------------------------------------------------------
+pītauṣadhasya vēgānāṁ nigrahānmārutādayaḥ|
+
+
+[BLOCK 505: P]
+----------------------------------------------------------------------
+kupitā hr̥dayaṁ gatvā ghōraṁ kurvanti hr̥dgraham||71||
+
+
+[BLOCK 506: P]
+----------------------------------------------------------------------
+sa hikkākāsapārśvārtidainyalālākṣivibhramaiḥ|
+
+
+[BLOCK 507: P]
+----------------------------------------------------------------------
+jihvāṁ khādati niḥsañjñō dantān kiṭikiṭāpayan||72||
+
+
+[BLOCK 508: P]
+----------------------------------------------------------------------
+na gacchēdvibhramaṁ tatra vāmayēdāśu taṁ bhiṣak|
+
+
+[BLOCK 509: P]
+----------------------------------------------------------------------
+madhuraiḥ pittamūrcchārtaṁ kaṭubhiḥ kaphamūrcchitam||73||
+
+
+[BLOCK 510: P]
+----------------------------------------------------------------------
+pācanīyaistataścāsya dōṣaśēṣaṁ vipācayēt|
+
+
+[BLOCK 511: P]
+----------------------------------------------------------------------
+kāyāgniṁ ca balaṁ cāsya kramēṇōtthāpayēttataḥ ||74||
+
+
+[BLOCK 512: P]
+----------------------------------------------------------------------
+pavanēnātivamatō hr̥dayaṁ yasya pīḍyatē|
+
+
+[BLOCK 513: P]
+----------------------------------------------------------------------
+tasmai snigdhāmlalavaṇaṁ dadyāt pittakaphē'nyathā||75||
+
+
+[BLOCK 514: P]
+----------------------------------------------------------------------
+pItauShadhasya vegAnAM nigrahAnmArutAdayaH|
+
+
+[BLOCK 515: P]
+----------------------------------------------------------------------
+kupitA hRudayaM gatvA ghoraM kurvanti hRudgraham||71||
+
+
+[BLOCK 516: P]
+----------------------------------------------------------------------
+sa hikkAkAsapArshvArtidainyalAlAkShivibhramaiH|
+
+
+[BLOCK 517: P]
+----------------------------------------------------------------------
+jihvAM khAdati niHsa~jj~jo dantAn kiTikiTApayan||72||
+
+
+[BLOCK 518: P]
+----------------------------------------------------------------------
+na gacchedvibhramaM tatra vAmayedAshu taM bhiShak|
+
+
+[BLOCK 519: P]
+----------------------------------------------------------------------
+madhuraiH pittamUrcchArtaM kaTubhiH kaphamUrcchitam||73||
+
+
+[BLOCK 520: P]
+----------------------------------------------------------------------
+pAcanIyaistatashcAsya doShasheShaM vipAcayet|
+
+
+[BLOCK 521: P]
+----------------------------------------------------------------------
+kAyAgniM ca balaM cAsya krameNotthApayettataH ||74||
+
+
+[BLOCK 522: P]
+----------------------------------------------------------------------
+pavanenAtivamato hRudayaM yasya pIDyate|
+
+
+[BLOCK 523: P]
+----------------------------------------------------------------------
+tasmai snigdhAmlalavaNaM dadyAt pittakaphe~anyathA||75||
+
+
+[BLOCK 524: P]
+----------------------------------------------------------------------
+After taking (emetic) medicine, if one restricts the urges (of vomiting bouts), vata etc. dosha get aggravated and located in precordium, resulting in severe chest congestion. This leads to hiccups, pain in flanks, cough, fatigue, salivation, perplexion of eyes/rolling of eyes, fainting with tongue bite and severe grinding of teeth. In this case, without getting confused, the physician must immediately make the patient to vomit. For pitta murchita (fainting due to aggravation of pitta ), madhura rasa (sweet taste) medicines need to be used and for kapha murchita (fainting due to aggravation of kapha ), katu rasa (pungent taste) need to be used.
+
+[REFERENCES / LINKS]
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+
+
+[BLOCK 525: P]
+----------------------------------------------------------------------
+Digestive medicines shall be given to digest remaining dosha and sequential rehabilitation to re-instate agni (digestive power) and strength of the body shall be done. If there is excessive vomiting because of vitiation of vayu leading to chest congestion, then it shall be treated with unctuous, sour and salty medicines. If there is increase in kapha and pitta , those opposite to unctuous, sour and salty properties that is un-unctuous, bitter and pungent tastes need to be taken.[71-75]
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+
+
+[BLOCK 526: H3]
+----------------------------------------------------------------------
+Complication of gatra-graha (body stiffness) and its management
+
+
+[BLOCK 527: P]
+----------------------------------------------------------------------
+पीतौषधस्य वेगानां निग्रहेण कफेन वा|
+
+
+[BLOCK 528: P]
+----------------------------------------------------------------------
+रुद्धोऽति वा विशुद्धस्य गृह्णात्यङ्गानि मारुतः||७६||
+
+
+[BLOCK 529: P]
+----------------------------------------------------------------------
+स्तम्भवेपथुनिस्तोदसादोद्वेष्टनमन्थनैः|
+
+
+[BLOCK 530: P]
+----------------------------------------------------------------------
+तत्र वातहरं सर्वं स्नेहस्वेदादि कारयेत् ||७७||
+
+
+[BLOCK 531: P]
+----------------------------------------------------------------------
+pītauṣadhasya vēgānāṁ nigrahēṇa kaphēna vā|
+
+
+[BLOCK 532: P]
+----------------------------------------------------------------------
+ruddhō'ti vā viśuddhasya gr̥hṇātyaṅgāni mārutaḥ||76||
+
+
+[BLOCK 533: P]
+----------------------------------------------------------------------
+stambhavēpathunistōdasādōdvēṣṭanamanthanaiḥ|
+
+
+[BLOCK 534: P]
+----------------------------------------------------------------------
+tatra vātaharaṁ sarvaṁ snēhasvēdādi kārayēt ||77||
+
+
+[BLOCK 535: P]
+----------------------------------------------------------------------
+pItauShadhasya vegAnAM nigraheNa kaphena vA|
+
+
+[BLOCK 536: P]
+----------------------------------------------------------------------
+ruddho~ati vA vishuddhasya gRuhNAtya~ggAni mArutaH||76||
+
+
+[BLOCK 537: P]
+----------------------------------------------------------------------
+stambhavepathunistodasAdodveShTanamanthanaiH|
+
+
+[BLOCK 538: P]
+----------------------------------------------------------------------
+tatra vAtaharaM sarvaM snehasvedAdi kArayet ||77||
+
+
+[BLOCK 539: P]
+----------------------------------------------------------------------
+After taking (emetic) medicines, if one restricts the urges (vomiting bouts) or get obstructed because of vitiated kapha , then the excessively vitiated vata causes body stiffness. This results in stiffness, tremor, pricking pain, fainting, cramps and fatigue. This condition shall be managed with all vata alleviating treatments like oleation, sudation etc. [76-77]
+
+[REFERENCES / LINKS]
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+
+
+[BLOCK 540: H3]
+----------------------------------------------------------------------
+Complication of jeevadana (bleeding) and its management
+
+
+[BLOCK 541: P]
+----------------------------------------------------------------------
+अतितीक्ष्णं मृदौ कोष्ठे लघुदोषस्य भेषजम्|
+
+
+[BLOCK 542: P]
+----------------------------------------------------------------------
+दोषान् हृत्वा विनिर्मथ्य जीवं हरति शोणितम्||७८||
+
+
+[BLOCK 543: P]
+----------------------------------------------------------------------
+तेनान्नं मिश्रितं दद्याद्वायसाय शुनेऽपि वा|
+
+
+[BLOCK 544: P]
+----------------------------------------------------------------------
+भुङ्क्ते तच्चेद्वदेज्जीवं न भुङ्क्ते पित्तमादिशेत्||७९||
+
+
+[BLOCK 545: P]
+----------------------------------------------------------------------
+शुक्लं वा भावितं वस्त्रमावानं कोष्णवारिणा|
+
+
+[BLOCK 546: P]
+----------------------------------------------------------------------
+प्रक्षालितं विवर्णं स्यात् पित्ते शुद्धं तु शोणिते||८०||
+
+
+[BLOCK 547: P]
+----------------------------------------------------------------------
+तृष्णामूर्च्छामदार्तस्य कुर्यादामरणात् क्रियाम्|
+
+
+[BLOCK 548: P]
+----------------------------------------------------------------------
+तस्य पित्तहरीं सर्वामतियोगे च या हिता ||८१||
+
+
+[BLOCK 549: P]
+----------------------------------------------------------------------
+मृगगोमहिषाजानां सद्यस्कं जीवतामसृक्|
+
+
+[BLOCK 550: P]
+----------------------------------------------------------------------
+पिबेज्जीवाभिसन्धानं जीवं तद्ध्याशु गच्छति ||८२||
+
+
+[BLOCK 551: P]
+----------------------------------------------------------------------
+तदेव दर्भमृदितं रक्तं बस्तिं प्रदापयेत्|
+
+
+[BLOCK 552: P]
+----------------------------------------------------------------------
+श्यामाकाश्मर्यबदरीदूर्वोशीरैः शृतं पयः||८३||
+
+
+[BLOCK 553: P]
+----------------------------------------------------------------------
+घृतमण्डाञ्जनयुतं शीतं बस्तिं प्रदापयेत्|
+
+
+[BLOCK 554: P]
+----------------------------------------------------------------------
+पिच्छाबस्तिं सुशीतं वा घृतमण्डानुवासनम्||८४||
+
+
+[BLOCK 555: P]
+----------------------------------------------------------------------
+atitīkṣṇaṁ mr̥dau kōṣṭhē laghudōṣasya bhēṣajam|
+
+
+[BLOCK 556: P]
+----------------------------------------------------------------------
+dōṣān hr̥tvā vinirmathya jīvaṁ harati śōṇitam||78||
+
+
+[BLOCK 557: P]
+----------------------------------------------------------------------
+tēnānnaṁ miśritaṁ dadyādvāyasāya śunē'pi vā|
+
+
+[BLOCK 558: P]
+----------------------------------------------------------------------
+bhuṅktē taccēdvadējjīvaṁ na bhuṅktē pittamādiśēt||79||
+
+
+[BLOCK 559: P]
+----------------------------------------------------------------------
+śuklaṁ vā bhāvitaṁ vastramāvānaṁ kōṣṇavāriṇā|
+
+
+[BLOCK 560: P]
+----------------------------------------------------------------------
+prakṣālitaṁ vivarṇaṁ syāt pittē śuddhaṁ tu śōṇitē||80||
+
+
+[BLOCK 561: P]
+----------------------------------------------------------------------
+tr̥ṣṇāmūrcchāmadārtasya kuryādāmaraṇāt kriyām|
+
+
+[BLOCK 562: P]
+----------------------------------------------------------------------
+tasya pittaharīṁ sarvāmatiyōgē ca yā hitā ||81||
+
+
+[BLOCK 563: P]
+----------------------------------------------------------------------
+mr̥gagōmahiṣājānāṁ sadyaskaṁ jīvatāmasr̥k|
+
+
+[BLOCK 564: P]
+----------------------------------------------------------------------
+pibējjīvābhisandhānaṁ jīvaṁ taddhyāśu gacchati ||82||
+
+
+[BLOCK 565: P]
+----------------------------------------------------------------------
+tadēva darbhamr̥ditaṁ raktaṁ bastiṁ pradāpayēt|
+
+
+[BLOCK 566: P]
+----------------------------------------------------------------------
+śyāmākāśmaryabadarīdūrvōśīraiḥ śr̥taṁ payaḥ||83||
+
+
+[BLOCK 567: P]
+----------------------------------------------------------------------
+ghr̥tamaṇḍāñjanayutaṁ śītaṁ bastiṁ pradāpayēt|
+
+
+[BLOCK 568: P]
+----------------------------------------------------------------------
+picchābastiṁ suśītaṁ vā ghr̥tamaṇḍānuvāsanam||84||
+
+
+[BLOCK 569: P]
+----------------------------------------------------------------------
+atitIkShNaM mRudau koShThe laghudoShasya bheShajam|
+
+
+[BLOCK 570: P]
+----------------------------------------------------------------------
+doShAn hRutvA vinirmathya jIvaM harati shoNitam||78||
+
+
+[BLOCK 571: P]
+----------------------------------------------------------------------
+tenAnnaM mishritaM dadyAdvAyasAya shune~api vA|
+
+
+[BLOCK 572: P]
+----------------------------------------------------------------------
+bhu~gkte taccedvadejjIvaM na bhu~gkte pittamAdishet||79||
+
+
+[BLOCK 573: P]
+----------------------------------------------------------------------
+shuklaM vA bhAvitaM vastramAvAnaM koShNavAriNA|
+
+
+[BLOCK 574: P]
+----------------------------------------------------------------------
+prakShAlitaM vivarNaM syAt pitte shuddhaM tu shoNite||80||
+
+
+[BLOCK 575: P]
+----------------------------------------------------------------------
+tRuShNAmUrcchAmadArtasya kuryAdAmaraNAt kriyAm|
+
+
+[BLOCK 576: P]
+----------------------------------------------------------------------
+tasya pittaharIM sarvAmatiyoge ca yA hitA ||81||
+
+
+[BLOCK 577: P]
+----------------------------------------------------------------------
+mRugagomahiShAjAnAM sadyaskaM jIvatAmasRuk|
+
+
+[BLOCK 578: P]
+----------------------------------------------------------------------
+pibejjIvAbhisandhAnaM jIvaM taddhyAshu gacchati ||82||
+
+
+[BLOCK 579: P]
+----------------------------------------------------------------------
+tadeva darbhamRuditaM raktaM bastiM pradApayet|
+
+
+[BLOCK 580: P]
+----------------------------------------------------------------------
+shyAmAkAshmaryabadarIdUrvoshIraiH shRutaM payaH||83||
+
+
+[BLOCK 581: P]
+----------------------------------------------------------------------
+ghRutamaNDA~jjanayutaM shItaM bastiM pradApayet|
+
+
+[BLOCK 582: P]
+----------------------------------------------------------------------
+picchAbastiM sushItaM vA ghRutamaNDAnuvAsanam||84||
+
+
+[BLOCK 583: P]
+----------------------------------------------------------------------
+If in the individual with mridu koshtha (soft bowel), and less aggravated dosha , highly potent ( virechana ) medicine is administered, that will result in the removal of dosha after which bleeding ensues and then finally lead to evacuation of jeeva rakta (pure, functioning blood).
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 584: P]
+----------------------------------------------------------------------
+If the evacuated material is mixed with food and given to crow or dog, if they eat it, it can be confirmed that it is jeeva-rakta . If, they do not eat, then the blood is mixed with pitta (as seen in rakta-pitta ).
+
+[REFERENCES / LINKS]
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+
+
+[BLOCK 585: P]
+----------------------------------------------------------------------
+If the evacuated blood is applied over a cloth and the cloth is washed with hot water, if the blood remains, it is bile and if the cloth clears off, it is jeeva-rakta .
+
+
+[BLOCK 586: P]
+----------------------------------------------------------------------
+When jeeva-rakta gets evacuated, it results in burning sensation, fainting and intoxication. Here all treatments for impending death, all kinds of pitta nashaka treatments and treatments told in atiyoga must be done. For those whose jeeva-rakta is getting evacuated immediately, the blood of deer, cow, buffalo, goat etc. need to be given orally. That will sustain life because blood of animals gets immediately transformed to the human. The same blood can be used for basti by adding churna of darbha (Desmostachya bipinnata).
+
+[REFERENCES / LINKS]
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+basti : https://www.carakasamhitaonline.com/index.php?title=Basti
+
+
+[BLOCK 587: P]
+----------------------------------------------------------------------
+Basti , coolant in nature, using milk processed with drugs like shyama (Cassia fistula), kashmari (Gmelina arborea), badara (Zizyphus mauritiana), durva (Cyonodon dactylon), usheera (Vetiveria zizanoides) need to be done. Or coolant pichchha basti or sneha basti with ghrita manda is effective. [78-84]
+
+[REFERENCES / LINKS]
+Basti : https://www.carakasamhitaonline.com/index.php?title=Basti
+basti : https://www.carakasamhitaonline.com/index.php?title=Basti
+basti : https://www.carakasamhitaonline.com/index.php?title=Basti
+
+
+[BLOCK 588: H3]
+----------------------------------------------------------------------
+Complication of gudavibhramsha (rectum prolapse) and its management
+
+
+[BLOCK 589: P]
+----------------------------------------------------------------------
+गुदं भ्रष्टं कषायैश्च स्तम्भयित्वा प्रवेशयेत्|
+
+
+[BLOCK 590: P]
+----------------------------------------------------------------------
+साम गान्धर्वशब्दांश्च सञ्ज्ञानाशेऽस्य कारयेत्||८५||
+
+
+[BLOCK 591: P]
+----------------------------------------------------------------------
+यदा विरेचनं पीतं विडन्तमवतिष्ठते|
+
+
+[BLOCK 592: P]
+----------------------------------------------------------------------
+वमनं भेषजान्तं वा दोषानुत्क्लिश्य नावहेत्||८६||
+
+
+[BLOCK 593: P]
+----------------------------------------------------------------------
+तदा कुर्वन्ति कण्ड्वादीन् दोषाः प्रकुपिता गदान्|
+
+
+[BLOCK 594: P]
+----------------------------------------------------------------------
+स विभ्रंशो मतस्तत्र स्याद्यथाव्याधि भेषजम्||८७||
+
+
+[BLOCK 595: P]
+----------------------------------------------------------------------
+gudaṁ bhraṣṭaṁ kaṣāyaiśca stambhayitvā pravēśayēt|
+
+
+[BLOCK 596: P]
+----------------------------------------------------------------------
+sāma gāndharvaśabdāṁśca sañjñānāśē'sya kārayēt||85||
+
+
+[BLOCK 597: P]
+----------------------------------------------------------------------
+yadā virēcanaṁ pītaṁ viḍantamavatiṣṭhatē|
+
+
+[BLOCK 598: P]
+----------------------------------------------------------------------
+vamanaṁ bhēṣajāntaṁ vā dōṣānutkliśya nāvahēt||86||
+
+
+[BLOCK 599: P]
+----------------------------------------------------------------------
+tadā kurvanti kaṇḍvādīn dōṣāḥ prakupitā gadān|
+
+
+[BLOCK 600: P]
+----------------------------------------------------------------------
+sa vibhraṁśō matastatra syādyathāvyādhi bhēṣajam||87||
+
+
+[BLOCK 601: P]
+----------------------------------------------------------------------
+gudaM bhraShTaM kaShAyaishca stambhayitvA praveshayet|
+
+
+[BLOCK 602: P]
+----------------------------------------------------------------------
+sAma gAndharvashabdAMshca sa~jj~jAnAshe~asya kArayet||85||
+
+
+[BLOCK 603: P]
+----------------------------------------------------------------------
+yadA virecanaM pItaM viDantamavatiShThate|
+
+
+[BLOCK 604: P]
+----------------------------------------------------------------------
+vamanaM bheShajAntaM vA doShAnutklishya nAvahet||86||
+
+
+[BLOCK 605: P]
+----------------------------------------------------------------------
+tadA kurvanti kaNDvAdIn doShAH prakupitA gadAn|
+
+
+[BLOCK 606: P]
+----------------------------------------------------------------------
+sa vibhraMsho matastatra syAdyathAvyAdhi bheShajam||87||
+
+
+[BLOCK 607: P]
+----------------------------------------------------------------------
+If there is rectal prolapse, it should be positioned by using kashaya dravya (astringent drugs) and pushed in its own location. If there is loss of consciousness, then he should be consoled and exposed to music therapy.
+
+
+[BLOCK 608: P]
+----------------------------------------------------------------------
+If the virechana drug stops action after the elimination of the fecal matter and the emetic recipe stops action after the elimination of medicine, the excited doshas do not get properly eliminated leading to symptoms like itching etc. This spectrum is termed as vibhramsha . These should be managed as per their individual disease protocols. [85-87]
+
+[REFERENCES / LINKS]
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+doshas : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 609: H3]
+----------------------------------------------------------------------
+Complication of stambha (stiffness) and its management
+
+
+[BLOCK 610: P]
+----------------------------------------------------------------------
+पीतं स्निग्धेन सस्नेहं तद्दोषैर्मार्दवाद्वृतम्|
+
+
+[BLOCK 611: P]
+----------------------------------------------------------------------
+न वाहयति दोषांस्तु स्वस्थानात् स्तम्भयेच्च्युतान्||८८||
+
+
+[BLOCK 612: P]
+----------------------------------------------------------------------
+वातसङ्गगुदस्तम्भशूलैः क्षरति चाल्पशः|
+
+
+[BLOCK 613: P]
+----------------------------------------------------------------------
+तीक्ष्णं बस्तिं विरेकं वा सोऽर्हो लङ्घितपाचितः||८९||
+
+
+[BLOCK 614: P]
+----------------------------------------------------------------------
+pītaṁ snigdhēna sasnēhaṁ taddōṣairmārdavādvr̥tam|
+
+
+[BLOCK 615: P]
+----------------------------------------------------------------------
+na vāhayati dōṣāṁstu svasthānāt stambhayēccyutān||88||
+
+
+[BLOCK 616: P]
+----------------------------------------------------------------------
+vātasaṅgagudastambhaśūlaiḥ kṣarati cālpaśaḥ|
+
+
+[BLOCK 617: P]
+----------------------------------------------------------------------
+tīkṣṇaṁ bastiṁ virēkaṁ vā sō'rhō laṅghitapācitaḥ||89||
+
+
+[BLOCK 618: P]
+----------------------------------------------------------------------
+pItaM snigdhena sasnehaM taddoShairmArdavAdvRutam|
+
+
+[BLOCK 619: P]
+----------------------------------------------------------------------
+na vAhayati doShAMstu svasthAnAt stambhayeccyutAn||88||
+
+
+[BLOCK 620: P]
+----------------------------------------------------------------------
+vAtasa~ggagudastambhashUlaiH kSharati cAlpashaH|
+
+
+[BLOCK 621: P]
+----------------------------------------------------------------------
+tIkShNaM bastiM virekaM vA so~arho la~gghitapAcitaH||89||
+
+
+[BLOCK 622: P]
+----------------------------------------------------------------------
+Unctuous medicine for virechana when given to a person with an oleated body, because of the mild nature of doshas , they are not let out and cause occlusion in its own site. Because of the obstructed vayu , there will be obstruction and pain in the rectum and there will be frequent expulsion of doshas in little quantity.
+
+[REFERENCES / LINKS]
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+doshas : https://www.carakasamhitaonline.com/index.php?title=Dosha
+doshas : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 623: P]
+----------------------------------------------------------------------
+Here highly potent basti or virechana , need to be given. First he must observe fast or take light food ( langhana ), then give pachana (digestive medicine ). [88-89]
+
+[REFERENCES / LINKS]
+basti : https://www.carakasamhitaonline.com/index.php?title=Basti
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+langhana : https://www.carakasamhitaonline.com/index.php?title=Langhana
+pachana : https://www.carakasamhitaonline.com/index.php?title=Pachana
+
+
+[BLOCK 624: H3]
+----------------------------------------------------------------------
+Complications and its management
+
+
+[BLOCK 625: P]
+----------------------------------------------------------------------
+रूक्षं विरेचनं पीतं रूक्षेणाल्पबलेन वा|
+
+
+[BLOCK 626: P]
+----------------------------------------------------------------------
+मारुतं कोपयित्वाऽऽशु कुर्याद्धोरानुपद्रवान्||९०||
+
+
+[BLOCK 627: P]
+----------------------------------------------------------------------
+स्तम्भशूलानि घोराणि सर्वगात्रेषु मुह्यतः|
+
+
+[BLOCK 628: P]
+----------------------------------------------------------------------
+स्नेहस्वेदादिकस्तत्र कार्यो वातहरो विधिः||९१||
+
+
+[BLOCK 629: P]
+----------------------------------------------------------------------
+rūkṣaṁ virēcanaṁ pītaṁ rūkṣēṇālpabalēna vā|
+
+
+[BLOCK 630: P]
+----------------------------------------------------------------------
+mārutaṁ kōpayitvā śu kuryāddhōrānupadravān||90||
+
+
+[BLOCK 631: P]
+----------------------------------------------------------------------
+stambhaśūlāni ghōrāṇi sarvagātrēṣu muhyataḥ|
+
+
+[BLOCK 632: P]
+----------------------------------------------------------------------
+snēhasvēdādikastatra kāryō vātaharō vidhiḥ||91||
+
+
+[BLOCK 633: P]
+----------------------------------------------------------------------
+rUkShaM virecanaM pItaM rUkSheNAlpabalena vA|
+
+
+[BLOCK 634: P]
+----------------------------------------------------------------------
+mArutaM kopayitvA~a~ashu kuryAddhorAnupadravAn||90||
+
+
+[BLOCK 635: P]
+----------------------------------------------------------------------
+stambhashUlAni ghorANi sarvagAtreShu muhyataH|
+
+
+[BLOCK 636: P]
+----------------------------------------------------------------------
+snehasvedAdikastatra kAryo vAtaharo vidhiH||91||
+
+
+[BLOCK 637: P]
+----------------------------------------------------------------------
+Individual with un-unctuous body and who is weak, when given an un-unctuous virechana recipe, will result in severe vitiation of vayu and cause serious complications. Vitiated vayu results in whole body stiffness and colicky pain. Here oleation and sudation therapies along with protocol for management of vata needs to be adopted. [90-91]
+
+[REFERENCES / LINKS]
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+
+
+[BLOCK 638: H3]
+----------------------------------------------------------------------
+Klama (fatigue without exertion) and its management
+
+
+[BLOCK 639: P]
+----------------------------------------------------------------------
+स्निग्धस्य मृदुकोष्ठस्य मृदूत्क्लिश्यौषधं कफम्|
+
+
+[BLOCK 640: P]
+----------------------------------------------------------------------
+पित्तं वातं च संरुध्य सतन्द्रागौरवं क्लमम्||९२||
+
+
+[BLOCK 641: P]
+----------------------------------------------------------------------
+दौर्बल्यं चाङ्गसादं च कुर्यादाशु तदुल्लिखेत्|
+
+
+[BLOCK 642: P]
+----------------------------------------------------------------------
+लङ्घनं पाचनं चात्र स्निग्धं तीक्ष्णं च शोधनम्||९३||
+
+
+[BLOCK 643: P]
+----------------------------------------------------------------------
+snigdhasya mr̥dukōṣṭhasya mr̥dūtkliśyauṣadhaṁ kapham|
+
+
+[BLOCK 644: P]
+----------------------------------------------------------------------
+pittaṁ vātaṁ ca saṁrudhya satandrāgauravaṁ klamam||92||
+
+
+[BLOCK 645: P]
+----------------------------------------------------------------------
+daurbalyaṁ cāṅgasādaṁ ca kuryādāśu tadullikhēt|
+
+
+[BLOCK 646: P]
+----------------------------------------------------------------------
+laṅghanaṁ pācanaṁ cātra snigdhaṁ tīkṣṇaṁ ca śōdhanam||93||
+
+
+[BLOCK 647: P]
+----------------------------------------------------------------------
+snigdhasya mRudukoShThasya mRudUtklishyauShadhaM kapham|
+
+
+[BLOCK 648: P]
+----------------------------------------------------------------------
+pittaM vAtaM ca saMrudhya satandrAgauravaM klamam||92||
+
+
+[BLOCK 649: P]
+----------------------------------------------------------------------
+daurbalyaM cA~ggasAdaM ca kuryAdAshu tadullikhet|
+
+
+[BLOCK 650: P]
+----------------------------------------------------------------------
+la~gghanaM pAcanaM cAtra snigdhaM tIkShNaM ca shodhanam||93||
+
+
+[BLOCK 651: P]
+----------------------------------------------------------------------
+For those with unctuous and mridu koshtha , if mild purificatory medicine is given, there is aggravation of kapha causing obstruction to pitta and vata resulting in fatigue, heaviness of body, loss of strength, excruciating pain. Here the medicine must be given to vomit immediately. Then accordingly langhana (fasting) and pachana (digestive medicine) need to be done followed by purification with strong and unctuous medicines. [92-93]
+
+[REFERENCES / LINKS]
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+langhana : https://www.carakasamhitaonline.com/index.php?title=Langhana
+pachana : https://www.carakasamhitaonline.com/index.php?title=Pachana
+
+
+[BLOCK 652: H3]
+----------------------------------------------------------------------
+Summary
+
+
+[BLOCK 653: P]
+----------------------------------------------------------------------
+तत्र श्लोकौ-
+
+
+[BLOCK 654: P]
+----------------------------------------------------------------------
+इत्येता व्यापदः प्रोक्ताः सरूपाः सचिकित्सिताः|
+
+
+[BLOCK 655: P]
+----------------------------------------------------------------------
+वमनस्य विरेकस्य कृतस्याकुशलैर्नृणाम् ||९४||
+
+
+[BLOCK 656: P]
+----------------------------------------------------------------------
+एता विज्ञाय मतिमानवस्थाश्चैव तत्त्वतः|
+
+
+[BLOCK 657: P]
+----------------------------------------------------------------------
+दद्यात् संशोधनं सम्यगारोग्यार्थी नृणां सदा||९५||
+
+
+[BLOCK 658: P]
+----------------------------------------------------------------------
+tatra ślōkau-
+
+
+[BLOCK 659: P]
+----------------------------------------------------------------------
+ityētā vyāpadaḥ prōktāḥ sarūpāḥ sacikitsitāḥ|
+
+
+[BLOCK 660: P]
+----------------------------------------------------------------------
+vamanasya virēkasya kr̥tasyākuśalairnr̥ṇām ||94||
+
+
+[BLOCK 661: P]
+----------------------------------------------------------------------
+ētā vijñāya matimānavasthāścaiva tattvataḥ|
+
+
+[BLOCK 662: P]
+----------------------------------------------------------------------
+dadyāt saṁśōdhanaṁ samyagārōgyārthī nr̥ṇāṁ sadā||95||
+
+
+[BLOCK 663: P]
+----------------------------------------------------------------------
+tatra shlokau-
+
+
+[BLOCK 664: P]
+----------------------------------------------------------------------
+ityetA vyApadaH proktAH sarUpAH sacikitsitAH|
+
+
+[BLOCK 665: P]
+----------------------------------------------------------------------
+vamanasya virekasya kRutasyAkushalairnRuNAm ||94||
+
+
+[BLOCK 666: P]
+----------------------------------------------------------------------
+etA vij~jAya matimAnavasthAshcaiva tattvataH|
+
+
+[BLOCK 667: P]
+----------------------------------------------------------------------
+dadyAt saMshodhanaM samyagArogyArthI nRuNAM sadA||95||
+
+
+[BLOCK 668: P]
+----------------------------------------------------------------------
+Thus the features of complications that may arise due to vamana and virechana by un-skilled physician and their management are described. Intelligent ones must always properly understand these states and administer proper purification therapy in the persons desiring health. [94-95]
+
+[REFERENCES / LINKS]
+vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+
+
+[BLOCK 669: H2]
+----------------------------------------------------------------------
+Tattva Vimarsha (Fundamental Principles)
+
+
+[BLOCK 670: UL]
+----------------------------------------------------------------------
+1. The purification treatments shall be done in specific seasons in which the doshas are in vitiated state naturally. In case of disease, it can be followed anytime.
+2. Vamana (therapeutic emesis) for kapha dosha shall be followed in vasanta (spring season from mid February to mid April in India); virechana (therapeutic purgation) for pitta dosha shall be followed in sharada (Autumn season from mid October to mid December in India); basti (therapeutic enema) for vata dosha shall be followed in pravrita (early rains season from mid June to mid August in India).
+3. Snehana (oleation) therapy shall be done in between two purification therapies and at the end of purification. This is to prevent vitiation of vata dosha after purification.
+4. Oleation shall neither be excess nor be less for proper purification.
+5. Purification therapy shall always be taken after proper digestion of previous day meal and in appropriate dosage.
+6. The stable mental state of patient is important to get benefits of purification.
+7. Diet before and after purification is important for maximum sustaining effects. The previous day meal before vamana shall be easily digestible, rich in fluids and increasing kapha . The previous day meal before virechana shall be light to digest and hot.
+8. In proper vamana , the pitta is expelled out at the end. In proper virechana , kapha is expelled out at the end. Emaciation, weakness and lightness of body are other signs of proper purification.
+9. The physician should keenly observe the patient during purification therapy for assessing signs of eliminating doshas . The conditions and complications shall be treated based on dosha dominance and disease protocols.
+10. Assessment of vitiation of dosha , agni (digestive power), koshtha (bowel) and unctuousness of patient are most important factors for administration of purification therapy. Otherwise complications may arise due to improper dosage, potency of medicines.
+
+[REFERENCES / LINKS]
+doshas : https://www.carakasamhitaonline.com/index.php?title=Dosha
+Vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+kapha dosha : https://www.carakasamhitaonline.com/index.php?title=Kapha_dosha
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+pitta dosha : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha
+basti : https://www.carakasamhitaonline.com/index.php?title=Basti
+vata dosha : https://www.carakasamhitaonline.com/index.php?title=Vata_dosha
+Snehana : https://www.carakasamhitaonline.com/index.php?title=Snehana
+vata dosha : https://www.carakasamhitaonline.com/index.php?title=Vata_dosha
+vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+doshas : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 671: H2]
+----------------------------------------------------------------------
+Vidhi Vimarsha (Applied Inferences )
+
+
+[BLOCK 672: H3]
+----------------------------------------------------------------------
+Importance of oleation and sudation therapies before purification
+
+
+[BLOCK 673: P]
+----------------------------------------------------------------------
+The shloka highlights the importance of the spacing of sneha-sweda in between the therapies. Shodhanaanga snehapaana and swedana before vamana or virechana brings in the utklishta doshas (after snehapaana ), to the koshtha (after swedana ) and eliminates it [ 1 ]
+
+[REFERENCES / LINKS]
+swedana : https://www.carakasamhitaonline.com/index.php?title=Swedana
+vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+doshas : https://www.carakasamhitaonline.com/index.php?title=Dosha
+swedana : https://www.carakasamhitaonline.com/index.php?title=Swedana
+[ 1 ] : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#cite_note-1
+
+
+[BLOCK 674: P]
+----------------------------------------------------------------------
+Chakrapani while commenting here says, one should not misunderstand the context as sneha sweda is required only once before all shodhana . The mentioning of sneham ca ante prayojayet , is important in clinical practice. Once the patient gets discharged from the hospital after shodhana , the physician must use a sneha internally after peyadikramam . Chakrapani says, it is to control the fatigue caused by the samshodhana karma that the use of samshamana sneha is told here.(Verse 7)
+
+[REFERENCES / LINKS]
+shodhana : https://www.carakasamhitaonline.com/index.php?title=Shodhana
+shodhana : https://www.carakasamhitaonline.com/index.php?title=Shodhana
+
+
+[BLOCK 675: H3]
+----------------------------------------------------------------------
+Indications of Virechana
+
+[REFERENCES / LINKS]
+Virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+
+
+[BLOCK 676: P]
+----------------------------------------------------------------------
+On analyzing the samprapti of the conditions ( visarpa, pidaka etc.) mentioned here, it is well evident that the common thread in them is kapha - pitta dushti . Shopha is also a clinical condition where there is prohibition to use oleating substances like guda, aanoopa-amisha etc. [ 2 ] . Here abhighaata and visha which is always an acute emergency presenting kapha - pitta dushti also requires immediate shodhana without much swedana . Pandu roga is a condition which is entitled for the use of sneha prayoga like kalyanakaghrita . Here, Acharya cautions not to reach ati-snigdhatwam . Visarpa is also a condition where in snehana is prohibited.
+
+[REFERENCES / LINKS]
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+[ 2 ] : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#cite_note-2
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+shodhana : https://www.carakasamhitaonline.com/index.php?title=Shodhana
+swedana : https://www.carakasamhitaonline.com/index.php?title=Swedana
+snehana : https://www.carakasamhitaonline.com/index.php?title=Snehana
+
+
+[BLOCK 677: P]
+----------------------------------------------------------------------
+In practice, usually in all these conditions virechana is done with ruuksha prayoga like churna, kashaya etc. Avipathi churna , Vidangatandulaadi churna , [ 3 ] , Trivrita kashaya, Maanibhadra churna ( churna form of Maanibhadra gudam -) [ 4 ] , Patolaadi shodhana kashayam ( sahasrayoga ) are used.(Verse 8)
+
+[REFERENCES / LINKS]
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+[ 3 ] : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#cite_note-3
+[ 4 ] : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#cite_note-4
+
+
+[BLOCK 678: H3]
+----------------------------------------------------------------------
+Indications of Sneha Virechana and Ruksha Virechana
+
+[REFERENCES / LINKS]
+Virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+Virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+
+
+[BLOCK 679: P]
+----------------------------------------------------------------------
+Following the principle, vridhisamane sarvesham vipareetai viparyata [ 5 ] if an excessively oleated person is administered a drug which is unctuous in nature, it will not work, rather when medicine of opposite guna like ruksha is used for shodhana , the appropriate action will happen. Chakrapani says sneha virechana means snigdha virechana , that is virechana with snigdha (unctuous) dravya . If sneha virechana is given to an atisnigdha shareera , because of sneha prakarsha (excess sneha ) the vitiated doshas already in a the morbid state cannot be removed. These vitiated doshas that has already moved from their site will clog the srotas . Hence to remove this vitiated dosha ununctuous/ruksha kind of shodhana need to be performed. (Verse 9)
+
+[REFERENCES / LINKS]
+[ 5 ] : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#cite_note-5
+guna : https://www.carakasamhitaonline.com/index.php?title=Guna
+shodhana : https://www.carakasamhitaonline.com/index.php?title=Shodhana
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+doshas : https://www.carakasamhitaonline.com/index.php?title=Dosha
+doshas : https://www.carakasamhitaonline.com/index.php?title=Dosha
+shodhana : https://www.carakasamhitaonline.com/index.php?title=Shodhana
+
+
+[BLOCK 680: H3]
+----------------------------------------------------------------------
+Procedure of virechana
+
+[REFERENCES / LINKS]
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+
+
+[BLOCK 681: P]
+----------------------------------------------------------------------
+Samyak is the word used to indicate appropriate/ optimum action in many contexts. Any kriyakrama is performed for its appropriate outcome as desired by the physician. The shloka here reveals the four important limbs of it, which are equally important. The first being the proper preparation of the patient in the form of sneha sweda , the second being the physiological status of the patient with respect to ahaara, only then can the agni do its duty. So the medicine has to be given after the ahaara is digested. The third being the importance of maatra which is previously well explained in Trividhakukshiya Vimana . There, the Acharya lays importance to the appropriate maatra of ahaara . Here Acharya, gives importance to the appropriate maatra of aushadha . Only the desired dosage is acted upon by agni to create the optimum response in the body.
+
+[REFERENCES / LINKS]
+Trividhakukshiya Vimana : https://www.carakasamhitaonline.com/index.php?title=Trividhakukshiya_Vimana
+
+
+[BLOCK 682: P]
+----------------------------------------------------------------------
+Fourthly, the relevance of focused mind is explained. Chakrapani says the patient must concentrate only on the action of shodhana , the presence of negative emotions like lust, anger, jealousy will only have negative effect on the outcome.(Verse 10)
+
+[REFERENCES / LINKS]
+shodhana : https://www.carakasamhitaonline.com/index.php?title=Shodhana
+
+
+[BLOCK 683: H3]
+----------------------------------------------------------------------
+Similes for action of virechana
+
+[REFERENCES / LINKS]
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+
+
+[BLOCK 684: P]
+----------------------------------------------------------------------
+We can see the use of similes at various contexts in Ayurvedic classics. It not only gives the reader a clear idea behind the concept, but it also reveal observational talent of Ayurvedic seers to relate external world (macrocosm) with the internal world (microcosm), principles acting inside the body are similar to that act outside and vice versa. The simile of pot smeared with oil to oleated body and water that can be taken out linked to shodhana therapy explain the action to its fullest. Similarly, the malas removed from the body by shodhana similar to the dirt adhered to the cloth by rinsing in water also explains the mechanism of action in the most understandable way. (Verses 11-13)
+
+[REFERENCES / LINKS]
+shodhana : https://www.carakasamhitaonline.com/index.php?title=Shodhana
+malas : https://www.carakasamhitaonline.com/index.php?title=Mala
+shodhana : https://www.carakasamhitaonline.com/index.php?title=Shodhana
+
+
+[BLOCK 685: H3]
+----------------------------------------------------------------------
+Contraindication in state of indigestion
+
+
+[BLOCK 686: P]
+----------------------------------------------------------------------
+The importance of understanding the physiological state of the human body during the shodhana therapy is revealed here. We can see the lakshana indicating srotorodha and ama-avastha like glaani and vibandha on administering medicine to patient in ajeerna avastha . Here this ajeerna will definitely lead to ama , which will again aggravate the condition.
+
+[REFERENCES / LINKS]
+shodhana : https://www.carakasamhitaonline.com/index.php?title=Shodhana
+
+
+[BLOCK 687: P]
+----------------------------------------------------------------------
+For the practical assessment of the jeerna-ahaara in the patient to be administered with the shodhana therapy, the following signs and symptoms can be assessed like the elimination of the feces and urine unobstructed, when the mind is clear, belching are pure, hunger is well manifest, flatus moving downward, digestive activity is clean, sense organs are clear, body is light as mentioned in by Vagbhata [ 6 ] can be taken into account. (Verses 14)
+
+[REFERENCES / LINKS]
+shodhana : https://www.carakasamhitaonline.com/index.php?title=Shodhana
+[ 6 ] : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#cite_note-6
+
+
+[BLOCK 688: H3]
+----------------------------------------------------------------------
+Characteristics of proper dosage
+
+
+[BLOCK 689: P]
+----------------------------------------------------------------------
+The lakshana of maatravada aushadham touches all aspects of an ideal drug. We can see the pharmacoleptic, pharmacological and pharmacokinetic aspects being mentioned here for selecting the right drug in the appropriate dosage.
+
+
+[BLOCK 690: P]
+----------------------------------------------------------------------
+Each formulation has its own guna with respect to its contents. Even though the drug has its guna , the outcome of the kriyakrama in the patient will also depend on the physiological and the environmental factors too. However, an ideal drug and its ideal dosage in a particular clinical condition, in a particular patient can only be assessed only after the continuous practice and experience of the physician. The same medicine may have different outcome in different patients. Hence, an ideal drug even though is important, more important is fixing the dosage appropriately considering all other factors.(Verses 15-16)
+
+[REFERENCES / LINKS]
+guna : https://www.carakasamhitaonline.com/index.php?title=Guna
+guna : https://www.carakasamhitaonline.com/index.php?title=Guna
+
+
+[BLOCK 691: H3]
+----------------------------------------------------------------------
+Importance of concentration while taking purification treatment
+
+
+[BLOCK 692: P]
+----------------------------------------------------------------------
+The shloka 17 explains the context of ekagra manah , as mentioned earlier. It reinforces the idea that negative emotions of mind like kaamaadi would hinder the effective outcome of shodhana for which the mind must be free and fully concentrating only on shodhana therapy.(Verse 17 )
+
+[REFERENCES / LINKS]
+shodhana : https://www.carakasamhitaonline.com/index.php?title=Shodhana
+shodhana : https://www.carakasamhitaonline.com/index.php?title=Shodhana
+
+
+[BLOCK 693: H3]
+----------------------------------------------------------------------
+Diet before purification treatment
+
+
+[BLOCK 694: P]
+----------------------------------------------------------------------
+After warning about ajeerna ahaara , the present context explain the guna of ahaara . For vamana , all kind of kapha -aggravating ahaara that is easily digestible and liquid in nature is advised on the previous day which is to facilitate the intending karma . The increased kapha state as specified in Kalpana Siddhi as well as the decreased kapha state are important for vamana and virechana respectively. Kapha is the dosha that basically decides the action [Cha.Sa. Siddhi Sthana 1/9]
+
+[REFERENCES / LINKS]
+guna : https://www.carakasamhitaonline.com/index.php?title=Guna
+vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+Kalpana Siddhi : https://www.carakasamhitaonline.com/index.php?title=Kalpana_Siddhi
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+Kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+Siddhi Sthana : https://www.carakasamhitaonline.com/index.php?title=Siddhi_Sthana
+
+
+[BLOCK 695: P]
+----------------------------------------------------------------------
+For virechana , the ahaara on the previous day is mentioned to be laghu and asheeta , that is, easily digestible and hot. Hence, the action of vamana happens with utklishta kapha and for virechana with alpa kapha . In similar context, Susruta Samhita Chikitsa Sthana, he speaks of pitta -utklehsa before virechana , with amla dravya like beeja-purka rasa . This will also ultimately result in alpa-kaphatvam .
+
+[REFERENCES / LINKS]
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+
+
+[BLOCK 696: P]
+----------------------------------------------------------------------
+In practice, we give porridge made of maasha (black gram) with sugar, yogurt, boiled fish with no spices, preparation of masha like idli (south Indian dish), rice and milk porridge, milk peda, jalebi (north indian sweet) as kaphakara ahaara before vamana . On previous day of virechana like hot rasam (A south Indian dish mainly of tamarind juice, lime juice etc. with meal.) (Verse 18)
+
+[REFERENCES / LINKS]
+kaphakara : https://www.carakasamhitaonline.com/index.php?title=Kapha
+vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+
+
+[BLOCK 697: H3]
+----------------------------------------------------------------------
+Signs of proper purification
+
+
+[BLOCK 698: P]
+----------------------------------------------------------------------
+The sloka explains specific objective signs to assess optimum activity of the shodhana karma . Like in vamana , the output of kapha is succeeded by bile and in virechana , first feces must come out followed by pitta and then kapha . However, after both the procedure, if done properly, will make the patient feel light, fatigued and emaciated which indicates the expulsion or mitigation of kapha and pitta and increase of vata as expected after any shodhana therapy. (Verse 19-20)
+
+[REFERENCES / LINKS]
+shodhana : https://www.carakasamhitaonline.com/index.php?title=Shodhana
+vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+shodhana : https://www.carakasamhitaonline.com/index.php?title=Shodhana
+
+
+[BLOCK 699: P]
+----------------------------------------------------------------------
+Even though acharya gives us practical tips to understand the presence of residual drug and emesis to be done to remove the residue, in our limited experience, we have not come across such practice. The practice of vamana as a correction therapy other than main procedure is seldom done. (Verse 21)
+
+[REFERENCES / LINKS]
+vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+
+
+[BLOCK 700: H3]
+----------------------------------------------------------------------
+After measures of vamana
+
+[REFERENCES / LINKS]
+vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+
+
+[BLOCK 701: P]
+----------------------------------------------------------------------
+The after-measure of vamana is specifically told here. It probably highlights the seriousness of the procedure, which is the only one done in the pratiloma direction among the Panchakarma . Hence, the removal of residual dosha becomes even more pertinent. (Verse 22-23)
+
+[REFERENCES / LINKS]
+vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+Panchakarma : https://www.carakasamhitaonline.com/index.php?title=Panchakarma
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 702: H3]
+----------------------------------------------------------------------
+Importance of specific diet after purification treatment
+
+
+[BLOCK 703: P]
+----------------------------------------------------------------------
+As explained already in the first chapter of Siddhi Sthana , the mentioning of peyaadikrama here again, is only to reinforce its importance in the practice of shodhana karma . However, Chakrapani, in his commentary reminds the fact that, after basti , peyadi is not mentioned because the status of agni after basti is not hampered as much as in virechana and vamana .
+
+[REFERENCES / LINKS]
+Siddhi Sthana : https://www.carakasamhitaonline.com/index.php?title=Siddhi_Sthana
+shodhana : https://www.carakasamhitaonline.com/index.php?title=Shodhana
+basti : https://www.carakasamhitaonline.com/index.php?title=Basti
+basti : https://www.carakasamhitaonline.com/index.php?title=Basti
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+
+
+[BLOCK 704: P]
+----------------------------------------------------------------------
+Chakrapani intelligently compare the context wherein it is mentioned that shodhanakriya improves / kindles agni . He says it is as mentioned in [ Cha. Sa. Siddhi Stahan 1/17,22]. He says the agni is kindled when compared to the earlier status of agni before shodhana . (Verse 24-25)
+
+[REFERENCES / LINKS]
+Siddhi Stahan : https://www.carakasamhitaonline.com/index.php?title=Siddhi_Stahan&action=edit&redlink=1
+shodhana : https://www.carakasamhitaonline.com/index.php?title=Shodhana
+
+
+[BLOCK 705: H3]
+----------------------------------------------------------------------
+Signs of digestion of purification medicine
+
+
+[BLOCK 706: P]
+----------------------------------------------------------------------
+We can see jeerna-aushadha lakshana exhibits all types of jeerna-ahaara lakshana too. Signs of residual drug indicate lakshana of ama . In the next shloka , he warns of inappropriate medicine, which is unseasonal, untimely collected, stored for long period, improperly processed etc. This shloka sequentially expresses the idea that if there are signs of residual drug, the factors considered here may be reasoned upon. (Verse 26-28)
+
+
+[BLOCK 707: H3]
+----------------------------------------------------------------------
+Complications of purification treatment
+
+
+[BLOCK 708: P]
+----------------------------------------------------------------------
+The 10 sets of vyapat are explained either as ayoga or atiyoga , because ultimately drug can act broadly only in these contexts. Very intelligently acharya says, this can happen because of defect in preshya (attendant), bhaishajya (drug), vaidya (physician) and atura (patient). These are also the chatushpada mentioned in Ayurveda . [ 7 ] . In the above context, we can see the change in the order. The attendant comes in first, then drug, then the physician and then only the patient.
+
+[REFERENCES / LINKS]
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+[ 7 ] : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#cite_note-7
+
+
+[BLOCK 709: P]
+----------------------------------------------------------------------
+Probably the clinical observation of acharya might have lead him to this conclusion, but most of the time, it is the attendant who becomes responsible, because of ill-equipped expertise, then comes the drug. However, the position of rogi is the last one, because the vaidya must have the capability to correct even the rogi . (Verse 29-30)
+
+
+[BLOCK 710: P]
+----------------------------------------------------------------------
+Any procedure can have the outcome only in three ways, which is explained here. Hence, the procedure has to be analyzed within the frame of these three outcomes. (Verse 31)
+
+
+[BLOCK 711: H3]
+----------------------------------------------------------------------
+Signs of improper purification and its consequences
+
+
+[BLOCK 712: P]
+----------------------------------------------------------------------
+When virechana dravya with the said qualities causes vamana , two conditions mentioned here are shleshmotklishta avastha and ajeerna avastha . In both cases, there is always a tendency for vamana which is of course not the classical shodhana but just to let out the things because the body could not assimilate the virechana aushadha intended to cause virechana . Now similarly, when the patient who is hungry with less kapha and has the potent drug for vamana will lead to virechana . The reason being the digestion of aushadha by the agni . It is very well told that the virechana aushadha can act only in paripakwa avastha and vamana in avipaakwa avastha . (Verse 32-34)
+
+[REFERENCES / LINKS]
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+shodhana : https://www.carakasamhitaonline.com/index.php?title=Shodhana
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+
+
+[BLOCK 713: P]
+----------------------------------------------------------------------
+Finally the status of koshtha and strength of the patient decides which kind of medicine has to be given in case of ayoga . The mentioning of avoiding repeated dose if the patient is not suitable also gains clinical relevance. Acharya warns in the context that such usage inappropriately can even lead to death. (Verse 35-37)
+
+
+[BLOCK 714: H3]
+----------------------------------------------------------------------
+Ayoga (less purification)
+
+
+[BLOCK 715: P]
+----------------------------------------------------------------------
+Before going for specific vyapat , the general presentation of ayoga is explained. Here also, the aspect touching the preparation of the individual, quality of medicine is touched upon. The medicine that is stored for a long time is used in an improperly oleated and sudated individual will not be able to move out the morbid doshas properly. Here we can see mostly the vata kopa lakshanas , like the pindikodweshtana, tamaso darshanam etc. Kapha - pitta dushti lakshana like kandu is also seen.
+
+[REFERENCES / LINKS]
+doshas : https://www.carakasamhitaonline.com/index.php?title=Dosha
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+Kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+
+
+[BLOCK 716: P]
+----------------------------------------------------------------------
+Usually in clinical practice, this is encountered commonly, when the snehapana is compromised for various reasons without attaining proper samyak lakshana , medicines with low quality or long stored ones is also seen to play its role. (Verse 38-39)
+
+
+[BLOCK 717: P]
+----------------------------------------------------------------------
+These verses explain the possibility of ayoga even after proper sneha sweda . The relevance of agni and quality of medicine are reinforced here. (Verse 40-41)
+
+
+[BLOCK 718: P]
+----------------------------------------------------------------------
+The treatment mentioned here is again reversing the dosha dushti using various kriya krama . The role of niruha basti here relates to the context where in durvirechya , due to ruksha bahvaanila krura koshta are advised to undergo niruha first. (Verse 42-44)
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+basti : https://www.carakasamhitaonline.com/index.php?title=Basti
+
+
+[BLOCK 719: H3]
+----------------------------------------------------------------------
+Hazards of excess purification and its management
+
+
+[BLOCK 720: P]
+----------------------------------------------------------------------
+Chakrapani in the context comments that this indicates atiyoga of virechana only since seeing of vata , pitta , kapha is mentioned and on administering medicine in patient who is hungry and with mridu koshtha is mentioned. He also adds that the context can also be interpreted as atiyoga of vamana by using the ati-teekshna dravya and atiyoga of virechana if medicine is used in a hungry patient with mridu koshta . He says, the order of vata , pitta and kapha should be changed and applied to the context logically.
+
+[REFERENCES / LINKS]
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+
+
+[BLOCK 721: P]
+----------------------------------------------------------------------
+The signs and symptoms presented here points to many emergency contexts. The practice of going for vamana in case of atiyoga of virechana and vice-versa is not done widely. However, the use of parisheka, avagaaha and managing with internal medicines are done more. Vilwadi gutika, sidhamakara dhwaja, dhanwantaram gutika, kalashakadi kashaya etc are the commonly used ones. (Verse 45-48)
+
+[REFERENCES / LINKS]
+vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+
+
+[BLOCK 722: P]
+----------------------------------------------------------------------
+The treatment for atiyoga of vamana and virechana is mentioned separately. For virechana , the effect of internal medicines is told. The use of milk which itself is rechana in nature is used while processing with drugs of opposite guna . Picha basti and anuvasana basti with madhura gana dravya will definitely be sthambhana in action. (Verse 49-51)
+
+[REFERENCES / LINKS]
+vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+guna : https://www.carakasamhitaonline.com/index.php?title=Guna
+basti : https://www.carakasamhitaonline.com/index.php?title=Basti
+basti : https://www.carakasamhitaonline.com/index.php?title=Basti
+sthambhana : https://www.carakasamhitaonline.com/index.php?title=Sthambhana&action=edit&redlink=1
+
+
+[BLOCK 723: H3]
+----------------------------------------------------------------------
+Management of excess emesis
+
+
+[BLOCK 724: P]
+----------------------------------------------------------------------
+For vamanatiyoga, kaphahara dravya has to be considered. Here we can see many emergency situations like fainting, protrusion of tongue inside and outside, vakgraha etc. the management has also to be fixed by using simple techniques like eating tamarind in front of the patient which will stimulate the physiology to correct itself. Techniques like pushing back of the tongue to normal after applying the paste of tila and draaksha demand the skill of the physician. (Verse 52-56)
+
+[REFERENCES / LINKS]
+kaphahara : https://www.carakasamhitaonline.com/index.php?title=Kapha
+
+
+[BLOCK 725: H3]
+----------------------------------------------------------------------
+Diet after procedure
+
+
+[BLOCK 726: P]
+----------------------------------------------------------------------
+The shloka lays importance to the use of peyadi after atiyoga of vamana and virechana considering the excessively hampered agni . (Verse 57)
+
+[REFERENCES / LINKS]
+vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+
+
+[BLOCK 727: H3]
+----------------------------------------------------------------------
+Important concepts in the chapter
+
+
+[BLOCK 728: P]
+----------------------------------------------------------------------
+The ten vyapat adhmana, parikatika, parisraava, hrdayopasarana, anga graham, jeevaadaana, vibhramsha, sthambha, upadrava and klama are explained in a systematic manner. Each vyapat represent a cluster of signs and symptoms. However, every context begins with explaining the possible causative factors for the happening. On analyzing the various causes told for vyapat , we can see the doshic status, the general quality of the sharira and the koshtha , the status of agni , the physiological state of the individual-all plays an important role. The treatments mentioned are also grouped. The physician may not see all the signs and symptoms for each as told in the text, but can infer from some of the presentation. It becomes the responsibility of the intelligent physician to select the appropriate karma for the treatment of the complication presented. The presentation of vyapat itself reveals the clinical skill of Charak to observe the minute presentation in the body. Each complication is self-explanatory as mentioned in the text. However, in the present day practice, how much a modern day Ayurveda physician encounters these complications is an issue to be discussed about. Whether the lack of quality of the shodhana performed, change in practical standards, problem at all four levels of the chatushpada could be the cause.(Verse 58-90)
+
+[REFERENCES / LINKS]
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+shodhana : https://www.carakasamhitaonline.com/index.php?title=Shodhana
+
+
+[BLOCK 729: P]
+----------------------------------------------------------------------
+The chapter ends by reinforcing the idea of a knowledgeable physician who knows, where, when, how to apply shodhana therapy accurately and thus avoid complications.
+
+[REFERENCES / LINKS]
+shodhana : https://www.carakasamhitaonline.com/index.php?title=Shodhana
+
+
+[BLOCK 730: P]
+----------------------------------------------------------------------
+Send us your suggestions and feedback on this page.
+
+[REFERENCES / LINKS]
+Send us your suggestions and feedback on this page. : https://www.carakasamhitaonline.com/index.php?title=Special:ContactMe
+
+
+[BLOCK 731: H2]
+----------------------------------------------------------------------
+References
+
+
+[BLOCK 732: TEXT]
+----------------------------------------------------------------------
+Back to the Top
+
+
+[BLOCK 733: OL]
+----------------------------------------------------------------------
+1. ↑ Vagbhata. Sutra Sthana, Cha.17 Swedavidhi Adhyaya verse 29. In: Harishastri Paradkar Vaidya, Editors. Ashtanga Hridayam. 1st ed. Varanasi: Krishnadas Academy;2000.p.4.
+2. ↑ Vagbhata. Sutra Sthana, Cha.16 Snehavidhi Adhyaya verse 43. In: Harishastri Paradkar Vaidya, Editors. Ashtanga Hridayam. 1st ed. Varanasi: Krishnadas Academy;2000.p.4.
+3. ↑ Vagbhata. Kalpa Sthana. In: Harishastri Paradkar Vaidya, Editors. Ashtanga Hridayam. 1st ed. Varanasi: Krishnadas Academy;2000.p.4
+4. ↑ Vagbhata. Chikitsa Sthana, In: Harishastri Paradkar Vaidya, Editors. Ashtanga Hridayam. 1st ed. Varanasi: Krishnadas Academy;2000.p.4.
+5. ↑ Vagbhata. Sutra Sthana, Cha.1 Ayushkamiya Adhyaya verse 14. In: Harishastri Paradkar Vaidya, Editors. Ashtanga Hridayam. 1st ed. Varanasi: Krishnadas Academy;2000.p.4.
+6. ↑ Vagbhata. Sutra Sthana, Cha.8 Matrasheetiyam Adhyaya verse 55. In: Harishastri Paradkar Vaidya, Editors. Ashtanga Hridayam. 1st ed. Varanasi: Krishnadas Academy;2000.p.4. Maatrasheetiyam Adhyayam
+7. ↑ Vagbhata. Sutra Sthana, Cha.1 Ayushkamiya Adhyaya verse 27. In: Harishastri Paradkar Vaidya, Editors. Ashtanga Hridayam. 1st ed. Varanasi: Krishnadas Academy;2000.p.4.
+
+[REFERENCES / LINKS]
+↑ : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#cite_ref-1
+↑ : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#cite_ref-2
+↑ : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#cite_ref-3
+↑ : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#cite_ref-4
+↑ : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#cite_ref-5
+↑ : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#cite_ref-6
+↑ : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi#cite_ref-7
+
+
+[BLOCK 734: TEXT]
+----------------------------------------------------------------------
+NewPP limit report
+Cached time: 20261112104929
+Cache expiry: 86400
+Reduced expiry: false
+Complications: [vary‐revision‐id, show‐toc]
+CPU time usage: 0.142 seconds
+Real time usage: 0.363 seconds
+Preprocessor visited node count: 746/1000000
+Post‐expand include size: 2475/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 3/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1085/5000000 bytes
+Lua time usage: 0.170/7 seconds
+Lua virtual size: 20484096/209715200 bytes
+Lua estimated memory usage: 0 bytes
+
+
+[BLOCK 735: TEXT]
+----------------------------------------------------------------------
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 295.942 1 -total
+98.47% 291.417 1 Template:Infobox
+0.60% 1.773 1 Template:CiteButton
+
+
+[BLOCK 736: TEXT]
+----------------------------------------------------------------------
+Saved in parser cache with key carakas1_carakasa:pcache:idhash:2660-0!canonical and timestamp 20261112104929 and revision id 44583. Rendering was triggered because: diff-page
+
+
+[BLOCK 737: TEXT]
+----------------------------------------------------------------------
+Retrieved from "
+
+
+[BLOCK 738: TEXT]
+----------------------------------------------------------------------
+https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi&oldid=44583
+
+
+[BLOCK 739: TEXT]
+----------------------------------------------------------------------
+"
+
+
+==========================================================================================
+END OF CHAPTER
+==========================================================================================

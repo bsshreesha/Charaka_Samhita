@@ -1,0 +1,1336 @@
+{
+    "source": "Charaka Samhita",
+    "chapter": "Akasha mahabhuta",
+    "chapter_id": "Akasha_mahabhuta",
+    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta",
+    "xpath": "//*[@id=\"content\"]",
+    "extraction_date": "2026-11-19T10:10:00",
+    "total_blocks": 55,
+    "total_tables": 1,
+    "total_headings": 18,
+    "total_paragraphs": 13,
+    "content": [
+        {
+            "type": "h1",
+            "text": "Akasha mahabhuta",
+            "html": "<h1 class=\"firstHeading mw-first-heading\" id=\"firstHeading\"><span class=\"mw-page-title-main\">Akasha mahabhuta</span></h1>",
+            "links": [],
+            "images": [],
+            "level": 1
+        },
+        {
+            "type": "text",
+            "text": "From Charak Samhita"
+        },
+        {
+            "type": "text",
+            "text": "Jump to navigation"
+        },
+        {
+            "type": "text",
+            "text": "Jump to search"
+        },
+        {
+            "type": "figure",
+            "text": "",
+            "html": "<figure class=\"mw-default-size mw-halign-right\" typeof=\"mw:File\"><a href=\"https://www.charakasamhitauptodate.com/index.php?title=Special:CiteThisPage&amp;page=Akasha_mahabhuta&amp;id=44607&amp;wpFormIdentifier=titleform\" rel=\"nofollow\"><img class=\"mw-file-element\" decoding=\"async\" height=\"47\" src=\"/images/5/58/Cite.png\" width=\"180\"/></a><figcaption></figcaption></figure>",
+            "links": [
+                {
+                    "text": "",
+                    "url": "https://www.charakasamhitauptodate.com/index.php?title=Special:CiteThisPage&page=Akasha_mahabhuta&id=44607&wpFormIdentifier=titleform"
+                }
+            ],
+            "images": [
+                {
+                    "url": "https://www.carakasamhitaonline.com/images/5/58/Cite.png",
+                    "alt": "",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "The word Akasha literally means ‘a free or open space’ or ‘the ether’, ‘sky’ or ‘atmosphere’. [ 1 ] It is one of the panchamahabhuta [Cha.Sa. Sharira Sthana 1/27]. In human biology, the empty space in the body or cavity corresponds to akasha mahabhuta. Akasha is one of the five basic constituents or fundamental elements of the universe.",
+            "html": "<p style=\"text-align:justify;\">The word Akasha literally means ‘a free or open space’ or ‘the ether’, ‘sky’ or ‘atmosphere’.<sup class=\"reference\" id=\"cite_ref-1\"><a href=\"#cite_note-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup> It is one of the <a class=\"mw-redirect\" href=\"/index.php?title=Panchamahabhuta\" title=\"Panchamahabhuta\">panchamahabhuta</a> [Cha.Sa.<a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 1/27]. In human biology, the empty space in the body or cavity corresponds to akasha mahabhuta. Akasha is one of the five basic constituents or fundamental elements of the universe. </p>",
+            "links": [
+                {
+                    "text": "[ 1 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta#cite_note-1"
+                },
+                {
+                    "text": "panchamahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Panchamahabhuta"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "Section/Chapter/topic",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Sharira / Pachamahabhuta / Akasha",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Sharira",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira"
+                            },
+                            {
+                                "text": "Pachamahabhuta",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Pachamahabhuta"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Authors",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Aneesh E.G., Deole Y.S.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Deole Y.S.",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Yogesh_Deole"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Reviewed by",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Basisht G.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Basisht G.",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Gopal_Basisht"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Affiliations",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Charak Samhita Research, Training and Development Centre , I.P.G.T.& R.A., Jamnagar",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Charak Samhita Research, Training and Development Centre",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Correspondence email:",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "dryogeshdeole@gmail.com, carakasamhita@gmail.com",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Publisher",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Charak Samhita Research, Training and Development Centre , I.T.R.A., Jamnagar, India",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Charak Samhita Research, Training and Development Centre",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Date of first publication:",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "April 10, 2020",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "DOI",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "10.47468/CSNE.2020.e01.s09.007",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "10.47468/CSNE.2020.e01.s09.007",
+                                "url": "https://doi.org/10.47468/CSNE.2020.e01.s09.007"
+                            }
+                        ]
+                    }
+                ]
+            ],
+            "html": "<table class=\"infobox\" style=\"width:22em\"><caption>Contributors</caption><tbody><tr><th scope=\"row\">Section/Chapter/topic</th><td>\n<a href=\"/index.php?title=Sharira\" title=\"Sharira\">Sharira</a> / <a class=\"mw-redirect\" href=\"/index.php?title=Pachamahabhuta\" title=\"Pachamahabhuta\">Pachamahabhuta</a> / Akasha</td></tr><tr><th scope=\"row\">Authors</th><td>\nAneesh E.G., <a href=\"/index.php?title=Yogesh_Deole\" title=\"Yogesh Deole\">Deole Y.S.</a></td></tr><tr><th scope=\"row\">Reviewed by</th><td>\n<a href=\"/index.php?title=Gopal_Basisht\" title=\"Gopal Basisht\">Basisht G.</a></td></tr><tr><th scope=\"row\">Affiliations</th><td>\n<a class=\"mw-redirect\" href=\"/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre\" title=\"Charak Samhita Research, Training and Development Centre\">Charak Samhita Research, Training and Development Centre</a>, I.P.G.T.&amp; R.A., Jamnagar</td></tr><tr><th scope=\"row\">Correspondence email:</th><td>\ndryogeshdeole@gmail.com, carakasamhita@gmail.com</td></tr><tr><th scope=\"row\">Publisher</th><td>\n<a class=\"mw-redirect\" href=\"/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre\" title=\"Charak Samhita Research, Training and Development Centre\">Charak Samhita Research, Training and Development Centre</a>, I.T.R.A., Jamnagar, India</td></tr><tr><th scope=\"row\">Date of first publication:</th><td>\nApril 10, 2020</td></tr><tr><th scope=\"row\">DOI</th><td>\n<a class=\"external text\" href=\"https://doi.org/10.47468/CSNE.2020.e01.s09.007\" rel=\"nofollow\">10.47468/CSNE.2020.e01.s09.007</a></td></tr></tbody></table>",
+            "links": [
+                {
+                    "text": "Sharira",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira"
+                },
+                {
+                    "text": "Pachamahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pachamahabhuta"
+                },
+                {
+                    "text": "Deole Y.S.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Yogesh_Deole"
+                },
+                {
+                    "text": "Basisht G.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Gopal_Basisht"
+                },
+                {
+                    "text": "Charak Samhita Research, Training and Development Centre",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre"
+                },
+                {
+                    "text": "Charak Samhita Research, Training and Development Centre",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre"
+                },
+                {
+                    "text": "10.47468/CSNE.2020.e01.s09.007",
+                    "url": "https://doi.org/10.47468/CSNE.2020.e01.s09.007"
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Contents",
+            "html": "<h2 id=\"mw-toc-heading\">Contents</h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ul",
+            "text": "1 Etymology and derivation 2 Synonyms 3 Contextual meanings 4 Evolution of Akasha mahabhuta 5 Numerology of Akasha 6 General characteristics 7 Specific characteristics 8 Importance 8.1 In the constitution of garbha (fetus) and embryogenesis 8.2 Organs and constituents in the body 8.3 Inherent properties 9 Importance in clinical practice 10 Current views and researches 11 More information 11.1 Related articles 12 References",
+            "html": "<ul>\n<li class=\"toclevel-1 tocsection-1\"><a href=\"#Etymology_and_derivation\"><span class=\"tocnumber\">1</span> <span class=\"toctext\">Etymology and derivation</span></a></li>\n<li class=\"toclevel-1 tocsection-2\"><a href=\"#Synonyms\"><span class=\"tocnumber\">2</span> <span class=\"toctext\">Synonyms</span></a></li>\n<li class=\"toclevel-1 tocsection-3\"><a href=\"#Contextual_meanings\"><span class=\"tocnumber\">3</span> <span class=\"toctext\">Contextual meanings</span></a></li>\n<li class=\"toclevel-1 tocsection-4\"><a href=\"#Evolution_of_Akasha_mahabhuta\"><span class=\"tocnumber\">4</span> <span class=\"toctext\">Evolution of Akasha mahabhuta</span></a></li>\n<li class=\"toclevel-1 tocsection-5\"><a href=\"#Numerology_of_Akasha\"><span class=\"tocnumber\">5</span> <span class=\"toctext\">Numerology of Akasha</span></a></li>\n<li class=\"toclevel-1 tocsection-6\"><a href=\"#General_characteristics\"><span class=\"tocnumber\">6</span> <span class=\"toctext\">General characteristics</span></a></li>\n<li class=\"toclevel-1 tocsection-7\"><a href=\"#Specific_characteristics\"><span class=\"tocnumber\">7</span> <span class=\"toctext\">Specific characteristics</span></a></li>\n<li class=\"toclevel-1 tocsection-8\"><a href=\"#Importance\"><span class=\"tocnumber\">8</span> <span class=\"toctext\">Importance</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-9\"><a href=\"#In_the_constitution_of_garbha_(fetus)_and_embryogenesis\"><span class=\"tocnumber\">8.1</span> <span class=\"toctext\">In the constitution of garbha (fetus) and embryogenesis</span></a></li>\n<li class=\"toclevel-2 tocsection-10\"><a href=\"#Organs_and_constituents_in_the_body\"><span class=\"tocnumber\">8.2</span> <span class=\"toctext\">Organs and constituents in the body</span></a></li>\n<li class=\"toclevel-2 tocsection-11\"><a href=\"#Inherent_properties\"><span class=\"tocnumber\">8.3</span> <span class=\"toctext\">Inherent properties</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-12\"><a href=\"#Importance_in_clinical_practice\"><span class=\"tocnumber\">9</span> <span class=\"toctext\">Importance in clinical practice</span></a></li>\n<li class=\"toclevel-1 tocsection-13\"><a href=\"#Current_views_and_researches\"><span class=\"tocnumber\">10</span> <span class=\"toctext\">Current views and researches</span></a></li>\n<li class=\"toclevel-1 tocsection-14\"><a href=\"#More_information\"><span class=\"tocnumber\">11</span> <span class=\"toctext\">More information</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-15\"><a href=\"#Related_articles\"><span class=\"tocnumber\">11.1</span> <span class=\"toctext\">Related articles</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-16\"><a href=\"#References\"><span class=\"tocnumber\">12</span> <span class=\"toctext\">References</span></a></li>\n</ul>",
+            "links": [
+                {
+                    "text": "1 Etymology and derivation",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta#Etymology_and_derivation"
+                },
+                {
+                    "text": "2 Synonyms",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta#Synonyms"
+                },
+                {
+                    "text": "3 Contextual meanings",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta#Contextual_meanings"
+                },
+                {
+                    "text": "4 Evolution of Akasha mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta#Evolution_of_Akasha_mahabhuta"
+                },
+                {
+                    "text": "5 Numerology of Akasha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta#Numerology_of_Akasha"
+                },
+                {
+                    "text": "6 General characteristics",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta#General_characteristics"
+                },
+                {
+                    "text": "7 Specific characteristics",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta#Specific_characteristics"
+                },
+                {
+                    "text": "8 Importance",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta#Importance"
+                },
+                {
+                    "text": "8.1 In the constitution of garbha (fetus) and embryogenesis",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta#In_the_constitution_of_garbha_(fetus)_and_embryogenesis"
+                },
+                {
+                    "text": "8.2 Organs and constituents in the body",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta#Organs_and_constituents_in_the_body"
+                },
+                {
+                    "text": "8.3 Inherent properties",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta#Inherent_properties"
+                },
+                {
+                    "text": "9 Importance in clinical practice",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta#Importance_in_clinical_practice"
+                },
+                {
+                    "text": "10 Current views and researches",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta#Current_views_and_researches"
+                },
+                {
+                    "text": "11 More information",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta#More_information"
+                },
+                {
+                    "text": "11.1 Related articles",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta#Related_articles"
+                },
+                {
+                    "text": "12 References",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta#References"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "1 Etymology and derivation",
+                    "links": [
+                        {
+                            "text": "1 Etymology and derivation",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta#Etymology_and_derivation"
+                        }
+                    ]
+                },
+                {
+                    "text": "2 Synonyms",
+                    "links": [
+                        {
+                            "text": "2 Synonyms",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta#Synonyms"
+                        }
+                    ]
+                },
+                {
+                    "text": "3 Contextual meanings",
+                    "links": [
+                        {
+                            "text": "3 Contextual meanings",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta#Contextual_meanings"
+                        }
+                    ]
+                },
+                {
+                    "text": "4 Evolution of Akasha mahabhuta",
+                    "links": [
+                        {
+                            "text": "4 Evolution of Akasha mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta#Evolution_of_Akasha_mahabhuta"
+                        }
+                    ]
+                },
+                {
+                    "text": "5 Numerology of Akasha",
+                    "links": [
+                        {
+                            "text": "5 Numerology of Akasha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta#Numerology_of_Akasha"
+                        }
+                    ]
+                },
+                {
+                    "text": "6 General characteristics",
+                    "links": [
+                        {
+                            "text": "6 General characteristics",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta#General_characteristics"
+                        }
+                    ]
+                },
+                {
+                    "text": "7 Specific characteristics",
+                    "links": [
+                        {
+                            "text": "7 Specific characteristics",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta#Specific_characteristics"
+                        }
+                    ]
+                },
+                {
+                    "text": "8 Importance 8.1 In the constitution of garbha (fetus) and embryogenesis 8.2 Organs and constituents in the body 8.3 Inherent properties",
+                    "links": [
+                        {
+                            "text": "8 Importance",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta#Importance"
+                        },
+                        {
+                            "text": "8.1 In the constitution of garbha (fetus) and embryogenesis",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta#In_the_constitution_of_garbha_(fetus)_and_embryogenesis"
+                        },
+                        {
+                            "text": "8.2 Organs and constituents in the body",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta#Organs_and_constituents_in_the_body"
+                        },
+                        {
+                            "text": "8.3 Inherent properties",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta#Inherent_properties"
+                        }
+                    ]
+                },
+                {
+                    "text": "9 Importance in clinical practice",
+                    "links": [
+                        {
+                            "text": "9 Importance in clinical practice",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta#Importance_in_clinical_practice"
+                        }
+                    ]
+                },
+                {
+                    "text": "10 Current views and researches",
+                    "links": [
+                        {
+                            "text": "10 Current views and researches",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta#Current_views_and_researches"
+                        }
+                    ]
+                },
+                {
+                    "text": "11 More information 11.1 Related articles",
+                    "links": [
+                        {
+                            "text": "11 More information",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta#More_information"
+                        },
+                        {
+                            "text": "11.1 Related articles",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta#Related_articles"
+                        }
+                    ]
+                },
+                {
+                    "text": "12 References",
+                    "links": [
+                        {
+                            "text": "12 References",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta#References"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Etymology and derivation",
+            "html": "<h2><span class=\"mw-headline\" id=\"Etymology_and_derivation\">Etymology and derivation</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "The word akasha is derived from Kashru-deptau dhatu, meaning ‘that spreads all over’. [ 2 ]",
+            "html": "<p>The word akasha is derived from Kashru-deptau dhatu, meaning  ‘that spreads all over’.<sup class=\"reference\" id=\"cite_ref-Dingari2012_2-0\"><a href=\"#cite_note-Dingari2012-2\"><span class=\"cite-bracket\">[</span>2<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 2 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta#cite_note-Dingari2012-2"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Synonyms",
+            "html": "<h2><span class=\"mw-headline\" id=\"Synonyms\">Synonyms</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "Nabha, gagana, vyoma, nakshatra loka, divyaloka, viyat, antariksha and kha [ 2 ]",
+            "html": "<p>Nabha, gagana, vyoma, nakshatra loka, divyaloka, viyat, antariksha and kha<sup class=\"reference\" id=\"cite_ref-Dingari2012_2-1\"><a href=\"#cite_note-Dingari2012-2\"><span class=\"cite-bracket\">[</span>2<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 2 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta#cite_note-Dingari2012-2"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Contextual meanings",
+            "html": "<h2><span class=\"mw-headline\" id=\"Contextual_meanings\">Contextual meanings</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "The term Akasha denotes mainly the following meanings",
+            "html": "<p>The term Akasha denotes mainly the following meanings \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "ol",
+            "text": "Akasha mahabhuta Sky Space/ether",
+            "html": "<ol><li>Akasha mahabhuta</li>\n<li>Sky</li>\n<li>Space/ether</li></ol>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Akasha mahabhuta",
+                    "links": []
+                },
+                {
+                    "text": "Sky",
+                    "links": []
+                },
+                {
+                    "text": "Space/ether",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Evolution of Akasha mahabhuta",
+            "html": "<h2><span class=\"mw-headline\" id=\"Evolution_of_Akasha_mahabhuta\">Evolution of Akasha mahabhuta</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "In the sequence of the evolution process of panchamahabhuta , Akasha is the first mahabhuta. It evolves from subtle form of sound, ‘shabdatanmatra.’ [ 3 ]",
+            "html": "<p>In the sequence of the evolution process of <a class=\"mw-redirect\" href=\"/index.php?title=Panchamahabhuta\" title=\"Panchamahabhuta\">panchamahabhuta</a>, Akasha is the first mahabhuta. It evolves from subtle form of sound, ‘shabdatanmatra.’<sup class=\"reference\" id=\"cite_ref-3\"><a href=\"#cite_note-3\"><span class=\"cite-bracket\">[</span>3<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "panchamahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Panchamahabhuta"
+                },
+                {
+                    "text": "[ 3 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta#cite_note-3"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Numerology of Akasha",
+            "html": "<h2><span class=\"mw-headline\" id=\"Numerology_of_Akasha\">Numerology of Akasha</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "Akasha is unique(eka) [Tarkasangraha]. [ 2 ] It is eternal and spreads all over. [Chakrapani on Cha.Sa. Sutra Sthana 1/50].",
+            "html": "<p>Akasha is unique(eka) [Tarkasangraha].<sup class=\"reference\" id=\"cite_ref-Dingari2012_2-2\"><a href=\"#cite_note-Dingari2012-2\"><span class=\"cite-bracket\">[</span>2<span class=\"cite-bracket\">]</span></a></sup> It is eternal and spreads all over. [Chakrapani on Cha.Sa.<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 1/50]. \n</p>",
+            "links": [
+                {
+                    "text": "[ 2 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta#cite_note-Dingari2012-2"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "General characteristics",
+            "html": "<h2><span class=\"mw-headline\" id=\"General_characteristics\">General characteristics</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "A material with the predominance of Akasha mahabhuta possesses the following characteristics.",
+            "html": "<p>A material with the predominance of Akasha mahabhuta possesses the following characteristics. \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "ul",
+            "text": "Soft (mrudu) Light( laghu) Subtle (sukshma) Smooth (shlakshna)[Cha.Sa. Sutra Sthana .26/11] The abundance of sound (shabdaguna). This property is unique for akasha mahabhuta only [Cha.Sa. Sharira Sthana .1/27].",
+            "html": "<ul><li>Soft (mrudu)</li>\n<li>Light( laghu)</li>\n<li>Subtle (sukshma)</li>\n<li>Smooth (shlakshna)[Cha.Sa.<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a>.26/11]</li>\n<li>The abundance of sound (shabdaguna). This property is unique for akasha mahabhuta only [Cha.Sa.<a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a>.1/27].</li></ul>",
+            "links": [
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Soft (mrudu)",
+                    "links": []
+                },
+                {
+                    "text": "Light( laghu)",
+                    "links": []
+                },
+                {
+                    "text": "Subtle (sukshma)",
+                    "links": []
+                },
+                {
+                    "text": "Smooth (shlakshna)[Cha.Sa. Sutra Sthana .26/11]",
+                    "links": [
+                        {
+                            "text": "Sutra Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                        }
+                    ]
+                },
+                {
+                    "text": "The abundance of sound (shabdaguna). This property is unique for akasha mahabhuta only [Cha.Sa. Sharira Sthana .1/27].",
+                    "links": [
+                        {
+                            "text": "Sharira Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Specific characteristics",
+            "html": "<h2><span class=\"mw-headline\" id=\"Specific_characteristics\">Specific characteristics</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "Free flow/unobstructability (apratighatatva) is the characteristic feature of akasha mahabhuta [Cha.Sa. Sharira Sthana 01/29]. Free flow or transport of nutrients in transportation systems (srotasa) indicates this feature of akasha. The empty space or hollow cavities in biological systems are denoted.",
+            "html": "<p>Free flow/unobstructability (apratighatatva) is the characteristic feature of akasha mahabhuta [Cha.Sa.<a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 01/29]. Free flow or transport of nutrients in transportation systems (srotasa) indicates this feature of akasha. The empty space or hollow cavities in biological systems are denoted. \n</p>",
+            "links": [
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Importance",
+            "html": "<h2><span class=\"mw-headline\" id=\"Importance\">Importance</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "Akasha mahabhuta is one of the basic six constituents of purusha or holistic human being. [Cha.Sa. Sharira Sthana 05/04]",
+            "html": "<p>Akasha mahabhuta is one of the basic six constituents of <a href=\"/index.php?title=Purusha\" title=\"Purusha\">purusha</a> or holistic human being. [Cha.Sa.<a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 05/04]\n</p>",
+            "links": [
+                {
+                    "text": "purusha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "In the constitution of garbha (fetus) and embryogenesis",
+            "html": "<h3><span id=\"In_the_constitution_of_garbha_.28fetus.29_and_embryogenesis\"></span><span class=\"mw-headline\" id=\"In_the_constitution_of_garbha_(fetus)_and_embryogenesis\">In the constitution of garbha (fetus) and embryogenesis</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Sound (shabda), audition (shrotra), lightness (laghava), fineness(saukshmya ) and disintegration (viveka) in the fetus are attributed to akasha mahabhuta[Cha.Sa. Sharira Sthana 04/12]. Akasha mahabhuta is a factor responsible for determining constitution ( prakriti ) of human being formed in embryonic life. It is categorized under mahabhutavikara prakriti . [Cha.Sa. Vimana Sthana .08/95]\nAfter the formation of fetus(garbha), akasha is responsible for enlargement (vivardhana) [Su.Sa.Sha 5/3]. It provides space for enlargement of the size of the fetus.",
+            "html": "<p>Sound (shabda), audition (shrotra), lightness (laghava), fineness(saukshmya ) and disintegration (viveka) in the fetus are attributed to akasha mahabhuta[Cha.Sa.<a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a>04/12]. Akasha mahabhuta is a factor responsible for determining constitution (<a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">prakriti</a>) of human being formed in embryonic life. It is categorized under mahabhutavikara <a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">prakriti</a>. [Cha.Sa.<a href=\"/index.php?title=Vimana_Sthana\" title=\"Vimana Sthana\">Vimana Sthana</a>.08/95] \nAfter the formation of fetus(garbha), akasha is responsible for enlargement (vivardhana) [Su.Sa.Sha 5/3]. It provides space for enlargement of the size of the fetus. \n</p>",
+            "links": [
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                },
+                {
+                    "text": "prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "Vimana Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Organs and constituents in the body",
+            "html": "<h3><span class=\"mw-headline\" id=\"Organs_and_constituents_in_the_body\">Organs and constituents in the body</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "ul",
+            "text": "Sound, auditory organ, all orifices and distinctness (bones, blood vessels, ligaments etc) in the body are attributed to akasha mahabhuta [Su.Sa.Sha 1/19]. In the person, akasha is represented in the form of embodiment, space [Cha.Sa. Sharira Sthana 5/5].",
+            "html": "<ul><li>Sound, auditory organ, all orifices and distinctness (bones, blood vessels, ligaments etc) in the body are attributed to akasha mahabhuta [Su.Sa.Sha 1/19].</li>\n<li>In the person, akasha is represented in the form of embodiment, space [Cha.Sa.<a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 5/5].</li></ul>",
+            "links": [
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Sound, auditory organ, all orifices and distinctness (bones, blood vessels, ligaments etc) in the body are attributed to akasha mahabhuta [Su.Sa.Sha 1/19].",
+                    "links": []
+                },
+                {
+                    "text": "In the person, akasha is represented in the form of embodiment, space [Cha.Sa. Sharira Sthana 5/5].",
+                    "links": [
+                        {
+                            "text": "Sharira Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h3",
+            "text": "Inherent properties",
+            "html": "<h3><span class=\"mw-headline\" id=\"Inherent_properties\">Inherent properties</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "ul",
+            "text": "Akasha mahabhuta in its subtle form is one among eightfold nature of all beings (ashta prakriti ) [Cha.Sa. Sharira sthana 1/64] It is most subtle in nature and as a result, it is the lightest among mahabhuta [Cha.Sa. Sharira Sthana 4/12] Akasha possesses dominance of sattva guna. Hence it shows the purest form. [Su.Sa.Sha 1/20]",
+            "html": "<ul><li>Akasha mahabhuta in its subtle form is one among eightfold nature of all beings (ashta <a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">prakriti</a>) [Cha.Sa.<a class=\"mw-redirect\" href=\"/index.php?title=Sharira_sthana\" title=\"Sharira sthana\">Sharira sthana</a> 1/64]</li>\n<li>It is most subtle in nature and as a result, it is the lightest among <a class=\"mw-redirect\" href=\"/index.php?title=Mahabhuta\" title=\"Mahabhuta\">mahabhuta</a> [Cha.Sa.<a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 4/12]</li>\n<li>Akasha possesses dominance of sattva guna. Hence it shows the purest form. [Su.Sa.Sha 1/20]</li></ul>",
+            "links": [
+                {
+                    "text": "prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "Sharira sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_sthana"
+                },
+                {
+                    "text": "mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahabhuta"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Akasha mahabhuta in its subtle form is one among eightfold nature of all beings (ashta prakriti ) [Cha.Sa. Sharira sthana 1/64]",
+                    "links": [
+                        {
+                            "text": "prakriti",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                        },
+                        {
+                            "text": "Sharira sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_sthana"
+                        }
+                    ]
+                },
+                {
+                    "text": "It is most subtle in nature and as a result, it is the lightest among mahabhuta [Cha.Sa. Sharira Sthana 4/12]",
+                    "links": [
+                        {
+                            "text": "mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Mahabhuta"
+                        },
+                        {
+                            "text": "Sharira Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                        }
+                    ]
+                },
+                {
+                    "text": "Akasha possesses dominance of sattva guna. Hence it shows the purest form. [Su.Sa.Sha 1/20]",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Importance in clinical practice",
+            "html": "<h2><span class=\"mw-headline\" id=\"Importance_in_clinical_practice\">Importance in clinical practice</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ul",
+            "text": "The vata dosha is constituted from vayu and akasha mahabhuta [AS.Su.20/2]. In vata prakriti individual, the dominance of properties of akasha mahabhuta are observed. Similarly, in conditions of vata dosha aggravation, akasha mahabuta predominance is observed. The treatment of such conditions is done by avoiding diet and lifestyle measures with akasha predominance. On the other side, the akasha mahabhuta dominant regimen is indicated in conditions of kapha dosha aggravation. The action of drugs having more akasha mahabhuta is pacification of dosha (shamana) [Su.Sa.Su.41/6-9]. Akasha predominant drugs are selected for pacifying (shamana) treatment. The drugs which are bitter in taste (tikta) have panchamahabhuta constitution as vayu and akasha[Su.Sa.Su.42/3]. This can produce softness (mardava), porousness (saushirya) and lightness(laghava) in the body [Cha.Sa. Sutra Sthana .26/11]. Therefore these are part of reducing( langhana ) treatment prescribed in diseases due to over-nutrition.",
+            "html": "<ul><li>The <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a><a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> is constituted from <a class=\"mw-redirect\" href=\"/index.php?title=Vayu\" title=\"Vayu\">vayu</a> and akasha mahabhuta [AS.Su.20/2]. In <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a> <a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">prakriti</a> individual, the dominance of properties of akasha mahabhuta are observed.</li>\n<li>Similarly, in conditions of <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a><a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> aggravation, akasha mahabuta predominance is observed. The treatment of such conditions is done by avoiding diet and lifestyle measures with akasha predominance.</li>\n<li>On the other side, the akasha mahabhuta dominant regimen is indicated in conditions of <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a> <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> aggravation.</li>\n<li>The action of drugs having more akasha mahabhuta is pacification of <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> (shamana) [Su.Sa.Su.41/6-9]. Akasha predominant drugs are selected for pacifying (shamana) treatment.</li>\n<li>The drugs which are bitter in taste (tikta) have panchamahabhuta constitution as <a class=\"mw-redirect\" href=\"/index.php?title=Vayu\" title=\"Vayu\">vayu</a> and akasha[Su.Sa.Su.42/3]. This can produce softness (mardava), porousness (saushirya) and lightness(laghava) in the body [Cha.Sa.<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a>.26/11]. Therefore these are part of reducing(<a href=\"/index.php?title=Langhana\" title=\"Langhana\">langhana</a>) treatment prescribed in diseases due to over-nutrition.</li></ul>",
+            "links": [
+                {
+                    "text": "vata",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vata"
+                },
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "vayu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu"
+                },
+                {
+                    "text": "vata",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vata"
+                },
+                {
+                    "text": "prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "vata",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vata"
+                },
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "kapha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kapha"
+                },
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "vayu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "langhana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Langhana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "The vata dosha is constituted from vayu and akasha mahabhuta [AS.Su.20/2]. In vata prakriti individual, the dominance of properties of akasha mahabhuta are observed.",
+                    "links": [
+                        {
+                            "text": "vata",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vata"
+                        },
+                        {
+                            "text": "dosha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                        },
+                        {
+                            "text": "vayu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu"
+                        },
+                        {
+                            "text": "vata",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vata"
+                        },
+                        {
+                            "text": "prakriti",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                        }
+                    ]
+                },
+                {
+                    "text": "Similarly, in conditions of vata dosha aggravation, akasha mahabuta predominance is observed. The treatment of such conditions is done by avoiding diet and lifestyle measures with akasha predominance.",
+                    "links": [
+                        {
+                            "text": "vata",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vata"
+                        },
+                        {
+                            "text": "dosha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                        }
+                    ]
+                },
+                {
+                    "text": "On the other side, the akasha mahabhuta dominant regimen is indicated in conditions of kapha dosha aggravation.",
+                    "links": [
+                        {
+                            "text": "kapha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Kapha"
+                        },
+                        {
+                            "text": "dosha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                        }
+                    ]
+                },
+                {
+                    "text": "The action of drugs having more akasha mahabhuta is pacification of dosha (shamana) [Su.Sa.Su.41/6-9]. Akasha predominant drugs are selected for pacifying (shamana) treatment.",
+                    "links": [
+                        {
+                            "text": "dosha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                        }
+                    ]
+                },
+                {
+                    "text": "The drugs which are bitter in taste (tikta) have panchamahabhuta constitution as vayu and akasha[Su.Sa.Su.42/3]. This can produce softness (mardava), porousness (saushirya) and lightness(laghava) in the body [Cha.Sa. Sutra Sthana .26/11]. Therefore these are part of reducing( langhana ) treatment prescribed in diseases due to over-nutrition.",
+                    "links": [
+                        {
+                            "text": "vayu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu"
+                        },
+                        {
+                            "text": "Sutra Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                        },
+                        {
+                            "text": "langhana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Langhana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Current views and researches",
+            "html": "<h2><span class=\"mw-headline\" id=\"Current_views_and_researches\">Current views and researches</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "The tanmatra form of all mahabhuta is considered as eternal. During the evolution the ‘indistinct’ ( avyakta ) acts as a seat for mass and energy. Due to the potential difference in the energy, elementary forces come into action to produce vibrations. These vibrations produce the sound potential first or shabdha tanmatra. [ 4 ] In view of quantum mechanics, the akasha mahabhuta corroborates to spin 2 (graviton) and superfield gravity. In the body, it corresponds with the body channels and spaces. [ 5 ]",
+            "html": "<p>The tanmatra form of all mahabhuta is considered as eternal. During the evolution the ‘indistinct’ (<a href=\"/index.php?title=Avyakta\" title=\"Avyakta\">avyakta</a>) acts as a seat for mass and energy. Due to the potential difference in the energy, elementary forces come into action to produce vibrations. These vibrations produce the sound potential first or shabdha tanmatra. <sup class=\"reference\" id=\"cite_ref-4\"><a href=\"#cite_note-4\"><span class=\"cite-bracket\">[</span>4<span class=\"cite-bracket\">]</span></a></sup> \nIn view of quantum mechanics, the akasha mahabhuta corroborates to spin 2 (graviton) and superfield gravity.  In the body, it corresponds with the body channels and spaces.<sup class=\"reference\" id=\"cite_ref-5\"><a href=\"#cite_note-5\"><span class=\"cite-bracket\">[</span>5<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "avyakta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta"
+                },
+                {
+                    "text": "[ 4 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta#cite_note-4"
+                },
+                {
+                    "text": "[ 5 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta#cite_note-5"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "More information",
+            "html": "<h2><span class=\"mw-headline\" id=\"More_information\">More information</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ul",
+            "text": "Vatakalakaliya Adhyaya Katidhapurusha Sharira Indriyopakramaniya Adhyaya",
+            "html": "<ul><li><a href=\"/index.php?title=Vatakalakaliya_Adhyaya\" title=\"Vatakalakaliya Adhyaya\">Vatakalakaliya Adhyaya</a></li>\n<li><a href=\"/index.php?title=Katidhapurusha_Sharira\" title=\"Katidhapurusha Sharira\">Katidhapurusha Sharira</a></li>\n<li><a href=\"/index.php?title=Indriyopakramaniya_Adhyaya\" title=\"Indriyopakramaniya Adhyaya\">Indriyopakramaniya Adhyaya</a></li></ul>",
+            "links": [
+                {
+                    "text": "Vatakalakaliya Adhyaya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vatakalakaliya_Adhyaya"
+                },
+                {
+                    "text": "Katidhapurusha Sharira",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Katidhapurusha_Sharira"
+                },
+                {
+                    "text": "Indriyopakramaniya Adhyaya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriyopakramaniya_Adhyaya"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Vatakalakaliya Adhyaya",
+                    "links": [
+                        {
+                            "text": "Vatakalakaliya Adhyaya",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vatakalakaliya_Adhyaya"
+                        }
+                    ]
+                },
+                {
+                    "text": "Katidhapurusha Sharira",
+                    "links": [
+                        {
+                            "text": "Katidhapurusha Sharira",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Katidhapurusha_Sharira"
+                        }
+                    ]
+                },
+                {
+                    "text": "Indriyopakramaniya Adhyaya",
+                    "links": [
+                        {
+                            "text": "Indriyopakramaniya Adhyaya",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Indriyopakramaniya_Adhyaya"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h3",
+            "text": "Related articles",
+            "html": "<h3><span class=\"mw-headline\" id=\"Related_articles\">Related articles</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "ul",
+            "text": "Vayu mahabhuta Agni mahabhuta Jala mahabhuta Prithvi mahabhuta Pancha mahabhuta",
+            "html": "<ul><li><a href=\"/index.php?title=Vayu_mahabhuta\" title=\"Vayu mahabhuta\">Vayu mahabhuta</a></li>\n<li><a href=\"/index.php?title=Agni_mahabhuta\" title=\"Agni mahabhuta\">Agni mahabhuta</a></li>\n<li><a href=\"/index.php?title=Jala_mahabhuta\" title=\"Jala mahabhuta\">Jala mahabhuta</a></li>\n<li><a href=\"/index.php?title=Prithvi_mahabhuta\" title=\"Prithvi mahabhuta\">Prithvi mahabhuta</a></li>\n<li><a href=\"/index.php?title=Pancha_mahabhuta\" title=\"Pancha mahabhuta\">Pancha mahabhuta</a></li></ul>",
+            "links": [
+                {
+                    "text": "Vayu mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta"
+                },
+                {
+                    "text": "Agni mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta"
+                },
+                {
+                    "text": "Jala mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Jala_mahabhuta"
+                },
+                {
+                    "text": "Prithvi mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta"
+                },
+                {
+                    "text": "Pancha mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pancha_mahabhuta"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Vayu mahabhuta",
+                    "links": [
+                        {
+                            "text": "Vayu mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta"
+                        }
+                    ]
+                },
+                {
+                    "text": "Agni mahabhuta",
+                    "links": [
+                        {
+                            "text": "Agni mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta"
+                        }
+                    ]
+                },
+                {
+                    "text": "Jala mahabhuta",
+                    "links": [
+                        {
+                            "text": "Jala mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Jala_mahabhuta"
+                        }
+                    ]
+                },
+                {
+                    "text": "Prithvi mahabhuta",
+                    "links": [
+                        {
+                            "text": "Prithvi mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta"
+                        }
+                    ]
+                },
+                {
+                    "text": "Pancha mahabhuta",
+                    "links": [
+                        {
+                            "text": "Pancha mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pancha_mahabhuta"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "The list of references for Akasha in Charak Samhita can be seen here",
+            "html": "<p>The list of references for Akasha in Charak Samhita can be seen <a class=\"internal\" href=\"/images/d/d9/Table_of_references_for_Akasha.pdf\" title=\"Table of references for Akasha.pdf\">here</a>\n</p>",
+            "links": [
+                {
+                    "text": "here",
+                    "url": "https://www.carakasamhitaonline.com/images/d/d9/Table_of_references_for_Akasha.pdf"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Send us your suggestions and feedback on this page.",
+            "html": "<p><big><b><a href=\"/index.php?title=Special:ContactMe\" title=\"Special:ContactMe\">Send us your suggestions and feedback on this page.</a></b></big>\n</p>",
+            "links": [
+                {
+                    "text": "Send us your suggestions and feedback on this page.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Special:ContactMe"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "References",
+            "html": "<h2><span class=\"mw-headline\" id=\"References\">References</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "text",
+            "text": "Back to the Top"
+        },
+        {
+            "type": "ol",
+            "text": "↑ Monier-Williams, Monier-Williams Sanskrit- English Dictionary, 1st edition; Oxford University Press, akasa, Page 126-27 ↑ 2.0 2.1 2.2 Dingarilakshmanachary.Acharya’sAyurvedeeyapadarthavigyana. Delhi: Chaukhamba Sanskrit pratisthan;2012.Chapter 11,Akasha nirupana;page 64-65 ↑ BK Dwivedi.Padarthavijnana. Varanasi: Chowkhambakrishnadasacademy;2003.Chapter 2,Dravya vigyana;page 70 ↑ Nalage D H. A study of Samskara and its role in alteration of Pancha-Bhautika composition of Dravya [MD Dissertation]. Jamnagar: Gujarat Ayurved University; 2004 ↑ Sharma Hari,Christopher Clark. Contemporary Ayurveda: Medicine and Research in Maharishi Ayur-Veda.Churchill Livingstone; 1 edition;1997,36-37",
+            "html": "<ol class=\"references\">\n<li id=\"cite_note-1\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-1\">↑</a></span> <span class=\"reference-text\">Monier-Williams, Monier-Williams Sanskrit- English Dictionary, 1st edition; Oxford University Press, akasa, Page 126-27</span>\n</li>\n<li id=\"cite_note-Dingari2012-2\"><span class=\"mw-cite-backlink\">↑ <sup><a href=\"#cite_ref-Dingari2012_2-0\">2.0</a></sup> <sup><a href=\"#cite_ref-Dingari2012_2-1\">2.1</a></sup> <sup><a href=\"#cite_ref-Dingari2012_2-2\">2.2</a></sup></span> <span class=\"reference-text\">Dingarilakshmanachary.Acharya’sAyurvedeeyapadarthavigyana. Delhi: Chaukhamba Sanskrit pratisthan;2012.Chapter 11,Akasha nirupana;page 64-65</span>\n</li>\n<li id=\"cite_note-3\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-3\">↑</a></span> <span class=\"reference-text\">BK Dwivedi.Padarthavijnana. Varanasi: Chowkhambakrishnadasacademy;2003.Chapter 2,Dravya vigyana;page 70</span>\n</li>\n<li id=\"cite_note-4\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-4\">↑</a></span> <span class=\"reference-text\">Nalage D H. A study of Samskara and its role in alteration of Pancha-Bhautika composition of Dravya [MD Dissertation]. Jamnagar: Gujarat Ayurved University; 2004</span>\n</li>\n<li id=\"cite_note-5\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-5\">↑</a></span> <span class=\"reference-text\">Sharma Hari,Christopher Clark. Contemporary Ayurveda: Medicine and Research in Maharishi Ayur-Veda.Churchill Livingstone; 1 edition;1997,36-37</span>\n</li>\n</ol>",
+            "links": [
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta#cite_ref-1"
+                },
+                {
+                    "text": "2.0",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta#cite_ref-Dingari2012_2-0"
+                },
+                {
+                    "text": "2.1",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta#cite_ref-Dingari2012_2-1"
+                },
+                {
+                    "text": "2.2",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta#cite_ref-Dingari2012_2-2"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta#cite_ref-3"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta#cite_ref-4"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta#cite_ref-5"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "↑ Monier-Williams, Monier-Williams Sanskrit- English Dictionary, 1st edition; Oxford University Press, akasa, Page 126-27",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta#cite_ref-1"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ 2.0 2.1 2.2 Dingarilakshmanachary.Acharya’sAyurvedeeyapadarthavigyana. Delhi: Chaukhamba Sanskrit pratisthan;2012.Chapter 11,Akasha nirupana;page 64-65",
+                    "links": [
+                        {
+                            "text": "2.0",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta#cite_ref-Dingari2012_2-0"
+                        },
+                        {
+                            "text": "2.1",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta#cite_ref-Dingari2012_2-1"
+                        },
+                        {
+                            "text": "2.2",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta#cite_ref-Dingari2012_2-2"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ BK Dwivedi.Padarthavijnana. Varanasi: Chowkhambakrishnadasacademy;2003.Chapter 2,Dravya vigyana;page 70",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta#cite_ref-3"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Nalage D H. A study of Samskara and its role in alteration of Pancha-Bhautika composition of Dravya [MD Dissertation]. Jamnagar: Gujarat Ayurved University; 2004",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta#cite_ref-4"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Sharma Hari,Christopher Clark. Contemporary Ayurveda: Medicine and Research in Maharishi Ayur-Veda.Churchill Livingstone; 1 edition;1997,36-37",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta#cite_ref-5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "text": "NewPP limit report\nCached time: 20261118234646\nCache expiry: 86400\nReduced expiry: false\nComplications: [vary‐revision‐id, show‐toc]\nCPU time usage: 0.059 seconds\nReal time usage: 0.143 seconds\nPreprocessor visited node count: 243/1000000\nPost‐expand include size: 2109/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 3/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 1175/5000000 bytes\nLua time usage: 0.070/7 seconds\nLua virtual size: 20340736/209715200 bytes\nLua estimated memory usage: 0 bytes"
+        },
+        {
+            "type": "text",
+            "text": "Transclusion expansion time report (%,ms,calls,template)\n100.00% 115.220 1 -total\n93.53% 107.766 1 Template:Infobox\n1.57% 1.805 1 Template:CiteButton"
+        },
+        {
+            "type": "text",
+            "text": "Saved in parser cache with key carakas1_carakasa:pcache:idhash:3255-0!canonical and timestamp 20261118234646 and revision id 44607. Rendering was triggered because: diff-page"
+        },
+        {
+            "type": "text",
+            "text": "Retrieved from \""
+        },
+        {
+            "type": "text",
+            "text": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta&oldid=44607"
+        },
+        {
+            "type": "text",
+            "text": "\""
+        },
+        {
+            "type": "text",
+            "text": "Category"
+        },
+        {
+            "type": "text",
+            "text": ":"
+        },
+        {
+            "type": "ul",
+            "text": "Pancha mahabhuta",
+            "html": "<ul><li><a class=\"mw-redirect\" href=\"/index.php?title=Category:Pancha_mahabhuta\" title=\"Category:Pancha mahabhuta\">Pancha mahabhuta</a></li></ul>",
+            "links": [
+                {
+                    "text": "Pancha mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Category:Pancha_mahabhuta"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Pancha mahabhuta",
+                    "links": [
+                        {
+                            "text": "Pancha mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Category:Pancha_mahabhuta"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "html_sha256": "269c1a68b148acb4ceee864df0bd4a31b4788f44b16292b369118d87c38eb0d2"
+}

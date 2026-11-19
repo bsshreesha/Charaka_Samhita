@@ -1,0 +1,1793 @@
+{
+    "source": "Charaka Samhita",
+    "chapter": "Prithvi mahabhuta",
+    "chapter_id": "Prithvi_mahabhuta",
+    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta",
+    "xpath": "//*[@id=\"content\"]",
+    "extraction_date": "2026-11-19T10:16:56",
+    "total_blocks": 63,
+    "total_tables": 1,
+    "total_headings": 20,
+    "total_paragraphs": 16,
+    "content": [
+        {
+            "type": "h1",
+            "text": "Prithvi mahabhuta",
+            "html": "<h1 class=\"firstHeading mw-first-heading\" id=\"firstHeading\"><span class=\"mw-page-title-main\">Prithvi mahabhuta</span></h1>",
+            "links": [],
+            "images": [],
+            "level": 1
+        },
+        {
+            "type": "text",
+            "text": "From Charak Samhita"
+        },
+        {
+            "type": "text",
+            "text": "Jump to navigation"
+        },
+        {
+            "type": "text",
+            "text": "Jump to search"
+        },
+        {
+            "type": "figure",
+            "text": "",
+            "html": "<figure class=\"mw-default-size mw-halign-right\" typeof=\"mw:File\"><a href=\"https://www.carakasamhitaonline.com/index.php?title=Special:CiteThisPage&amp;page=Prithvi_mahabhuta&amp;id=44611&amp;wpFormIdentifier=titleform\" rel=\"nofollow\"><img class=\"mw-file-element\" decoding=\"async\" height=\"47\" src=\"/images/5/58/Cite.png\" width=\"180\"/></a><figcaption></figcaption></figure>",
+            "links": [
+                {
+                    "text": "",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Special:CiteThisPage&page=Prithvi_mahabhuta&id=44611&wpFormIdentifier=titleform"
+                }
+            ],
+            "images": [
+                {
+                    "url": "https://www.carakasamhitaonline.com/images/5/58/Cite.png",
+                    "alt": "",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "The word ‘Prithvi’ literally means ‘the earth’. It also represents the earth in its elemental form. [ 1 ] It is one among the panchamahabhuta [Cha.Sa. Sharira Sthana 01/27). It also represents an area or spot or the ground. The matter originated from prithvi is terms as ‘parthiva’ (of earthen origin). This article deals with prithvi in its elemental form or prithvi mahabhuta and its role in medical science.",
+            "html": "<p style=\"text-align:justify;\">The word ‘Prithvi’ literally means ‘the earth’. It also represents the earth in its elemental form.<sup class=\"reference\" id=\"cite_ref-1\"><a href=\"#cite_note-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup>  It is one among the panchamahabhuta [Cha.Sa. Sharira Sthana 01/27). It also represents an area or spot or the ground. The matter originated from prithvi is terms as ‘parthiva’ (of earthen origin). This article deals with prithvi in its elemental form or prithvi mahabhuta and its role in medical science. </p>",
+            "links": [
+                {
+                    "text": "[ 1 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#cite_note-1"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "Section/Chapter/topic",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Sharira / Pachamahabhuta / Prithvi",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Sharira",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira"
+                            },
+                            {
+                                "text": "Pachamahabhuta",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Pachamahabhuta"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Authors",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Aneesh E.G., Deole Y.S.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Deole Y.S.",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Yogesh_Deole"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Reviewed by",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Basisht G.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Basisht G.",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Gopal_Basisht"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Affiliations",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Charak Samhita Research, Training and Development Centre , I.P.G.T.& R.A., Jamnagar",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Charak Samhita Research, Training and Development Centre",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Correspondence email:",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "dryogeshdeole@gmail.com, carakasamhita@gmail.com",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Publisher",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Charak Samhita Research, Training and Development Centre , I.T.R.A., Jamnagar, India",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Charak Samhita Research, Training and Development Centre",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Date of first publication:",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "May 20, 2020",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "DOI",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "10.47468/CSNE.2020.e01.s09.011",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "10.47468/CSNE.2020.e01.s09.011",
+                                "url": "https://doi.org/10.47468/CSNE.2020.e01.s09.011"
+                            }
+                        ]
+                    }
+                ]
+            ],
+            "html": "<table class=\"infobox\" style=\"width:22em\"><caption>Contributors</caption><tbody><tr><th scope=\"row\">Section/Chapter/topic</th><td>\n<a href=\"/index.php?title=Sharira\" title=\"Sharira\">Sharira</a> / <a class=\"mw-redirect\" href=\"/index.php?title=Pachamahabhuta\" title=\"Pachamahabhuta\">Pachamahabhuta</a> / Prithvi</td></tr><tr><th scope=\"row\">Authors</th><td>\nAneesh E.G., <a href=\"/index.php?title=Yogesh_Deole\" title=\"Yogesh Deole\">Deole Y.S.</a></td></tr><tr><th scope=\"row\">Reviewed by</th><td>\n<a href=\"/index.php?title=Gopal_Basisht\" title=\"Gopal Basisht\">Basisht G.</a></td></tr><tr><th scope=\"row\">Affiliations</th><td>\n<a class=\"mw-redirect\" href=\"/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre\" title=\"Charak Samhita Research, Training and Development Centre\">Charak Samhita Research, Training and Development Centre</a>, I.P.G.T.&amp; R.A., Jamnagar</td></tr><tr><th scope=\"row\">Correspondence email:</th><td>\ndryogeshdeole@gmail.com, carakasamhita@gmail.com</td></tr><tr><th scope=\"row\">Publisher</th><td>\n<a class=\"mw-redirect\" href=\"/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre\" title=\"Charak Samhita Research, Training and Development Centre\">Charak Samhita Research, Training and Development Centre</a>, I.T.R.A., Jamnagar, India</td></tr><tr><th scope=\"row\">Date of first publication:</th><td>\nMay 20, 2020</td></tr><tr><th scope=\"row\">DOI</th><td>\n<a class=\"external text\" href=\"https://doi.org/10.47468/CSNE.2020.e01.s09.011\" rel=\"nofollow\">10.47468/CSNE.2020.e01.s09.011</a></td></tr></tbody></table>",
+            "links": [
+                {
+                    "text": "Sharira",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira"
+                },
+                {
+                    "text": "Pachamahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pachamahabhuta"
+                },
+                {
+                    "text": "Deole Y.S.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Yogesh_Deole"
+                },
+                {
+                    "text": "Basisht G.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Gopal_Basisht"
+                },
+                {
+                    "text": "Charak Samhita Research, Training and Development Centre",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre"
+                },
+                {
+                    "text": "Charak Samhita Research, Training and Development Centre",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre"
+                },
+                {
+                    "text": "10.47468/CSNE.2020.e01.s09.011",
+                    "url": "https://doi.org/10.47468/CSNE.2020.e01.s09.011"
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Contents",
+            "html": "<h2 id=\"mw-toc-heading\">Contents</h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ul",
+            "text": "1 Etymology and definition 1.1 Synonyms 1.2 Contextual meanings 2 Evolution 3 Types 4 General characteristics 5 Specific characteristics (lakshana) 6 Importance 6.1 Functions during embryogenesis and in human body 6.2 Role in determining the complexion 7 Importance in clinical practice 7.1 Application in diagnosis 7.2 Application in treatment 8 Contemporary views and current researches 8.1 List of theses 9 More information 9.1 Related articles 10 References",
+            "html": "<ul>\n<li class=\"toclevel-1 tocsection-1\"><a href=\"#Etymology_and_definition\"><span class=\"tocnumber\">1</span> <span class=\"toctext\">Etymology and definition</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-2\"><a href=\"#Synonyms\"><span class=\"tocnumber\">1.1</span> <span class=\"toctext\">Synonyms</span></a></li>\n<li class=\"toclevel-2 tocsection-3\"><a href=\"#Contextual_meanings\"><span class=\"tocnumber\">1.2</span> <span class=\"toctext\">Contextual meanings</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-4\"><a href=\"#Evolution\"><span class=\"tocnumber\">2</span> <span class=\"toctext\">Evolution</span></a></li>\n<li class=\"toclevel-1 tocsection-5\"><a href=\"#Types\"><span class=\"tocnumber\">3</span> <span class=\"toctext\">Types</span></a></li>\n<li class=\"toclevel-1 tocsection-6\"><a href=\"#General_characteristics\"><span class=\"tocnumber\">4</span> <span class=\"toctext\">General characteristics</span></a></li>\n<li class=\"toclevel-1 tocsection-7\"><a href=\"#Specific_characteristics_(lakshana)\"><span class=\"tocnumber\">5</span> <span class=\"toctext\">Specific characteristics (lakshana)</span></a></li>\n<li class=\"toclevel-1 tocsection-8\"><a href=\"#Importance\"><span class=\"tocnumber\">6</span> <span class=\"toctext\">Importance</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-9\"><a href=\"#Functions_during_embryogenesis_and_in_human_body\"><span class=\"tocnumber\">6.1</span> <span class=\"toctext\">Functions during embryogenesis and in human body</span></a></li>\n<li class=\"toclevel-2 tocsection-10\"><a href=\"#Role_in_determining_the_complexion\"><span class=\"tocnumber\">6.2</span> <span class=\"toctext\">Role in determining the complexion</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-11\"><a href=\"#Importance_in_clinical_practice\"><span class=\"tocnumber\">7</span> <span class=\"toctext\">Importance in clinical practice</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-12\"><a href=\"#Application_in_diagnosis\"><span class=\"tocnumber\">7.1</span> <span class=\"toctext\">Application in diagnosis</span></a></li>\n<li class=\"toclevel-2 tocsection-13\"><a href=\"#Application_in_treatment\"><span class=\"tocnumber\">7.2</span> <span class=\"toctext\">Application in treatment</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-14\"><a href=\"#Contemporary_views_and_current_researches\"><span class=\"tocnumber\">8</span> <span class=\"toctext\">Contemporary views and current researches</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-15\"><a href=\"#List_of_theses\"><span class=\"tocnumber\">8.1</span> <span class=\"toctext\">List of theses</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-16\"><a href=\"#More_information\"><span class=\"tocnumber\">9</span> <span class=\"toctext\">More information</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-17\"><a href=\"#Related_articles\"><span class=\"tocnumber\">9.1</span> <span class=\"toctext\">Related articles</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-18\"><a href=\"#References\"><span class=\"tocnumber\">10</span> <span class=\"toctext\">References</span></a></li>\n</ul>",
+            "links": [
+                {
+                    "text": "1 Etymology and definition",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#Etymology_and_definition"
+                },
+                {
+                    "text": "1.1 Synonyms",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#Synonyms"
+                },
+                {
+                    "text": "1.2 Contextual meanings",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#Contextual_meanings"
+                },
+                {
+                    "text": "2 Evolution",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#Evolution"
+                },
+                {
+                    "text": "3 Types",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#Types"
+                },
+                {
+                    "text": "4 General characteristics",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#General_characteristics"
+                },
+                {
+                    "text": "5 Specific characteristics (lakshana)",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#Specific_characteristics_(lakshana)"
+                },
+                {
+                    "text": "6 Importance",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#Importance"
+                },
+                {
+                    "text": "6.1 Functions during embryogenesis and in human body",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#Functions_during_embryogenesis_and_in_human_body"
+                },
+                {
+                    "text": "6.2 Role in determining the complexion",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#Role_in_determining_the_complexion"
+                },
+                {
+                    "text": "7 Importance in clinical practice",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#Importance_in_clinical_practice"
+                },
+                {
+                    "text": "7.1 Application in diagnosis",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#Application_in_diagnosis"
+                },
+                {
+                    "text": "7.2 Application in treatment",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#Application_in_treatment"
+                },
+                {
+                    "text": "8 Contemporary views and current researches",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#Contemporary_views_and_current_researches"
+                },
+                {
+                    "text": "8.1 List of theses",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#List_of_theses"
+                },
+                {
+                    "text": "9 More information",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#More_information"
+                },
+                {
+                    "text": "9.1 Related articles",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#Related_articles"
+                },
+                {
+                    "text": "10 References",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#References"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "1 Etymology and definition 1.1 Synonyms 1.2 Contextual meanings",
+                    "links": [
+                        {
+                            "text": "1 Etymology and definition",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#Etymology_and_definition"
+                        },
+                        {
+                            "text": "1.1 Synonyms",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#Synonyms"
+                        },
+                        {
+                            "text": "1.2 Contextual meanings",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#Contextual_meanings"
+                        }
+                    ]
+                },
+                {
+                    "text": "2 Evolution",
+                    "links": [
+                        {
+                            "text": "2 Evolution",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#Evolution"
+                        }
+                    ]
+                },
+                {
+                    "text": "3 Types",
+                    "links": [
+                        {
+                            "text": "3 Types",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#Types"
+                        }
+                    ]
+                },
+                {
+                    "text": "4 General characteristics",
+                    "links": [
+                        {
+                            "text": "4 General characteristics",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#General_characteristics"
+                        }
+                    ]
+                },
+                {
+                    "text": "5 Specific characteristics (lakshana)",
+                    "links": [
+                        {
+                            "text": "5 Specific characteristics (lakshana)",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#Specific_characteristics_(lakshana)"
+                        }
+                    ]
+                },
+                {
+                    "text": "6 Importance 6.1 Functions during embryogenesis and in human body 6.2 Role in determining the complexion",
+                    "links": [
+                        {
+                            "text": "6 Importance",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#Importance"
+                        },
+                        {
+                            "text": "6.1 Functions during embryogenesis and in human body",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#Functions_during_embryogenesis_and_in_human_body"
+                        },
+                        {
+                            "text": "6.2 Role in determining the complexion",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#Role_in_determining_the_complexion"
+                        }
+                    ]
+                },
+                {
+                    "text": "7 Importance in clinical practice 7.1 Application in diagnosis 7.2 Application in treatment",
+                    "links": [
+                        {
+                            "text": "7 Importance in clinical practice",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#Importance_in_clinical_practice"
+                        },
+                        {
+                            "text": "7.1 Application in diagnosis",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#Application_in_diagnosis"
+                        },
+                        {
+                            "text": "7.2 Application in treatment",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#Application_in_treatment"
+                        }
+                    ]
+                },
+                {
+                    "text": "8 Contemporary views and current researches 8.1 List of theses",
+                    "links": [
+                        {
+                            "text": "8 Contemporary views and current researches",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#Contemporary_views_and_current_researches"
+                        },
+                        {
+                            "text": "8.1 List of theses",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#List_of_theses"
+                        }
+                    ]
+                },
+                {
+                    "text": "9 More information 9.1 Related articles",
+                    "links": [
+                        {
+                            "text": "9 More information",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#More_information"
+                        },
+                        {
+                            "text": "9.1 Related articles",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#Related_articles"
+                        }
+                    ]
+                },
+                {
+                    "text": "10 References",
+                    "links": [
+                        {
+                            "text": "10 References",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#References"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Etymology and definition",
+            "html": "<h2><span class=\"mw-headline\" id=\"Etymology_and_definition\">Etymology and definition</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "Prithvi has been derived from the word ‘pruthu’, which means ‘possessing sthula guna (property of bulkiness or thickness)’. [ 2 ] Prath also means pervasive, which spreads. Another meaning is particles. Prithvi is the one which is composed of several particles. [ 3 ] That which have gandha (smell), rasa (taste), rupa (vision) and sparsha (touch) is called prithvi. [ 4 ]",
+            "html": "<p>Prithvi has been derived from the word ‘pruthu’, which means ‘possessing sthula guna (property of bulkiness or thickness)’.<sup class=\"reference\" id=\"cite_ref-2\"><a href=\"#cite_note-2\"><span class=\"cite-bracket\">[</span>2<span class=\"cite-bracket\">]</span></a></sup>  Prath also means pervasive, which spreads. Another meaning is  particles. Prithvi is the one which is composed of several particles.<sup class=\"reference\" id=\"cite_ref-3\"><a href=\"#cite_note-3\"><span class=\"cite-bracket\">[</span>3<span class=\"cite-bracket\">]</span></a></sup>  That which have gandha (smell), rasa (taste), rupa (vision) and sparsha (touch) is called prithvi.<sup class=\"reference\" id=\"cite_ref-4\"><a href=\"#cite_note-4\"><span class=\"cite-bracket\">[</span>4<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 2 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#cite_note-2"
+                },
+                {
+                    "text": "[ 3 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#cite_note-3"
+                },
+                {
+                    "text": "[ 4 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#cite_note-4"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Synonyms",
+            "html": "<h3><span class=\"mw-headline\" id=\"Synonyms\">Synonyms</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Prithvi, Kshma, kshiti, bhumi, bhu, dhara, dharati, dharitri, dharani, vasudha, vasundhara, urvi, achala, avani, avanee, jagat. [ 5 ]",
+            "html": "<p>Prithvi, Kshma, kshiti, bhumi, bhu, dhara, dharati, dharitri, dharani, vasudha, vasundhara, urvi,  achala, avani, avanee, jagat.<sup class=\"reference\" id=\"cite_ref-5\"><a href=\"#cite_note-5\"><span class=\"cite-bracket\">[</span>5<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 5 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#cite_note-5"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Contextual meanings",
+            "html": "<h3><span class=\"mw-headline\" id=\"Contextual_meanings\">Contextual meanings</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "The term prithvi/bhumi denotes the following meanings:",
+            "html": "<p>The term prithvi/bhumi denotes the following meanings:\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "ul",
+            "text": "Prithvi mahabhuta The earth/ground Place/spot/area [Cha. Sa. Chikitsa Sthana 25/118]",
+            "html": "<ul><li>Prithvi mahabhuta</li>\n<li>The earth/ground</li>\n<li>Place/spot/area [Cha. Sa. Chikitsa Sthana 25/118]</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Prithvi mahabhuta",
+                    "links": []
+                },
+                {
+                    "text": "The earth/ground",
+                    "links": []
+                },
+                {
+                    "text": "Place/spot/area [Cha. Sa. Chikitsa Sthana 25/118]",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Evolution",
+            "html": "<h2><span class=\"mw-headline\" id=\"Evolution\">Evolution</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "In the sequence of evolution, prithvi mahabhuta is formed from jala mahabhuta. Shabda, sparsha, rupa and rasa tanmatra combines with gandha tanmatra to form prithvi mahabhuta. [Su.Sa. Sharira sthana 01/04]",
+            "html": "<p>In the sequence of evolution, prithvi mahabhuta is formed from jala mahabhuta. Shabda, sparsha, rupa and rasa <a href=\"/index.php?title=Tanmatra\" title=\"Tanmatra\">tanmatra</a> combines with gandha tanmatra to form prithvi mahabhuta. [Su.Sa. Sharira sthana 01/04]\n</p>",
+            "links": [
+                {
+                    "text": "tanmatra",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Types",
+            "html": "<h2><span class=\"mw-headline\" id=\"Types\">Types</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "Prithvi mahabhuta exists in two forms: 1)Nitya (eternal) and 2) Anitya (ephemeral). [ 6 ] The paramanu(minute/subtle) form of prithvi mahabhuta is nitya(eternal). The secondary forms by combination of these paramanu are anitya (ephemeral).",
+            "html": "<p>Prithvi mahabhuta exists in two forms: 1)Nitya (eternal)  and 2) Anitya (ephemeral).<sup class=\"reference\" id=\"cite_ref-6\"><a href=\"#cite_note-6\"><span class=\"cite-bracket\">[</span>6<span class=\"cite-bracket\">]</span></a></sup> \nThe paramanu(minute/subtle) form of prithvi mahabhuta is nitya(eternal). The secondary forms by combination of these paramanu are anitya (ephemeral). \n</p>",
+            "links": [
+                {
+                    "text": "[ 6 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#cite_note-6"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "General characteristics",
+            "html": "<h2><span class=\"mw-headline\" id=\"General_characteristics\">General characteristics</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "A substance with predominance of prithvi mahabhuta possess the following characteristics: [Cha.Sa. Sutra Sthana 26/11]",
+            "html": "<p>A substance with predominance of prithvi mahabhuta possess the following characteristics: [Cha.Sa. <a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 26/11]\n</p>",
+            "links": [
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "ul",
+            "text": "Heavy (guru) Rough (khara) Hard (kathina) Slow (manda) Stable (sthira) Clear/Non slimy (vishada) Dense (sandra) Gross (sthula) Smell (gandha) dominance Shabda (sound), sparsha(touch), rupa(vision) and rasa (taste) [Cha.Sa. Sharira Sthana 01/28]",
+            "html": "<ul><li>Heavy (guru)</li>\n<li>Rough  (khara)</li>\n<li>Hard (kathina)</li>\n<li>Slow (manda)</li>\n<li>Stable (sthira)</li>\n<li>Clear/Non slimy (vishada)</li>\n<li>Dense (sandra)</li>\n<li>Gross (sthula)</li>\n<li>Smell (gandha) dominance</li>\n<li>Shabda (sound), sparsha(touch), rupa(vision) and rasa (taste) [Cha.Sa. <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 01/28]</li></ul>",
+            "links": [
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Heavy (guru)",
+                    "links": []
+                },
+                {
+                    "text": "Rough (khara)",
+                    "links": []
+                },
+                {
+                    "text": "Hard (kathina)",
+                    "links": []
+                },
+                {
+                    "text": "Slow (manda)",
+                    "links": []
+                },
+                {
+                    "text": "Stable (sthira)",
+                    "links": []
+                },
+                {
+                    "text": "Clear/Non slimy (vishada)",
+                    "links": []
+                },
+                {
+                    "text": "Dense (sandra)",
+                    "links": []
+                },
+                {
+                    "text": "Gross (sthula)",
+                    "links": []
+                },
+                {
+                    "text": "Smell (gandha) dominance",
+                    "links": []
+                },
+                {
+                    "text": "Shabda (sound), sparsha(touch), rupa(vision) and rasa (taste) [Cha.Sa. Sharira Sthana 01/28]",
+                    "links": [
+                        {
+                            "text": "Sharira Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Specific characteristics (lakshana)",
+            "html": "<h2><span id=\"Specific_characteristics_.28lakshana.29\"></span><span class=\"mw-headline\" id=\"Specific_characteristics_(lakshana)\">Specific characteristics (lakshana)</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "Kharatva (roughness) is the characteristic feature of prithvi mahabhuta [Cha.Sa. Sharira Sthana 01/29]. Among the three fundamental qualities (tri gunas ), prithvi mahabhuta is predominant in tamas guna. [Su.Sa.Sharira Sthana 01/20]",
+            "html": "<p>Kharatva (roughness) is the characteristic feature of prithvi mahabhuta [Cha.Sa. <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 01/29]. Among the three fundamental qualities (tri <a href=\"/index.php?title=Guna\" title=\"Guna\">gunas</a>), prithvi mahabhuta is predominant in <a href=\"/index.php?title=Tamas\" title=\"Tamas\">tamas</a> guna. [Su.Sa.Sharira Sthana 01/20]\n</p>",
+            "links": [
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                },
+                {
+                    "text": "gunas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Guna"
+                },
+                {
+                    "text": "tamas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tamas"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Importance",
+            "html": "<h2><span class=\"mw-headline\" id=\"Importance\">Importance</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "Prithvi is one of the six basic constituents of holistic human being or purusha . [Cha.Sa. Sharira Sthana 05/04] In the person, prithvi is represented in the form of solid structures (murthi) [Cha.Sa. Sharira Sthana 05/05]. Prithvi mahabhuta is abode for all plants and medicinal herbs. [ 7 ]",
+            "html": "<p>Prithvi is one of the six basic constituents of holistic human being or <a href=\"/index.php?title=Purusha\" title=\"Purusha\">purusha</a>. [Cha.Sa. <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira  Sthana</a> 05/04] In the person, prithvi is represented in the form of solid structures (murthi) [Cha.Sa. <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 05/05]. Prithvi mahabhuta is abode for all plants and medicinal herbs.<sup class=\"reference\" id=\"cite_ref-7\"><a href=\"#cite_note-7\"><span class=\"cite-bracket\">[</span>7<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "purusha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                },
+                {
+                    "text": "[ 7 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#cite_note-7"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Functions during embryogenesis and in human body",
+            "html": "<h3><span class=\"mw-headline\" id=\"Functions_during_embryogenesis_and_in_human_body\">Functions during embryogenesis and in human <a class=\"mw-redirect\" href=\"/index.php?title=Body\" title=\"Body\">body</a></span></h3>",
+            "links": [
+                {
+                    "text": "body",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Body"
+                }
+            ],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "ul",
+            "text": "Prithvi is one among important components of the fundamental constitution of garbha (fetus). [Su.Sa.Sharira Sthana 03/03] During embryogenesis, prithvi mahabhuta is responsible for solid structures or body mass of the embryo. [Su.Sa.Sharira Sthana 05/03] It is also responsible for the functions like development and sensation of smell, heaviness, firmness, steadiness and material form. [Cha.Sa. Sharira Sthana 04/12] The strong, big stature and forgiveness in an individual are due to the predominance of prithvi mahabhuta. [Su.Sa.Sharira Sthana 04/80] The olfactory system including nose and olfactory pathway has predominance of prithvi mahabhuta. [Cha.Sa. Sutra Sthana 08/14] In the eyeball, the muscles represent prithvi mahabhuta. [Su.Sa.Uttar Tantra 01/11]",
+            "html": "<ul><li>Prithvi is one among important components of the fundamental constitution of <a href=\"/index.php?title=Garbha\" title=\"Garbha\">garbha</a>(fetus). [Su.Sa.Sharira Sthana 03/03]</li>\n<li>During embryogenesis, prithvi mahabhuta is responsible for solid structures or body mass of  the embryo. [Su.Sa.Sharira Sthana 05/03] It is also responsible for the functions like development and sensation of smell, heaviness, firmness, steadiness and material form. [Cha.Sa. <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 04/12]</li>\n<li>The strong, big stature and forgiveness in an individual are due to the predominance of prithvi mahabhuta. [Su.Sa.Sharira Sthana 04/80]</li>\n<li>The olfactory system including nose and olfactory pathway has predominance of prithvi mahabhuta. [Cha.Sa. <a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 08/14]</li>\n<li>In the eyeball, the muscles represent prithvi mahabhuta. [Su.Sa.Uttar Tantra 01/11]</li></ul>",
+            "links": [
+                {
+                    "text": "garbha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Garbha"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Prithvi is one among important components of the fundamental constitution of garbha (fetus). [Su.Sa.Sharira Sthana 03/03]",
+                    "links": [
+                        {
+                            "text": "garbha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Garbha"
+                        }
+                    ]
+                },
+                {
+                    "text": "During embryogenesis, prithvi mahabhuta is responsible for solid structures or body mass of the embryo. [Su.Sa.Sharira Sthana 05/03] It is also responsible for the functions like development and sensation of smell, heaviness, firmness, steadiness and material form. [Cha.Sa. Sharira Sthana 04/12]",
+                    "links": [
+                        {
+                            "text": "Sharira Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                        }
+                    ]
+                },
+                {
+                    "text": "The strong, big stature and forgiveness in an individual are due to the predominance of prithvi mahabhuta. [Su.Sa.Sharira Sthana 04/80]",
+                    "links": []
+                },
+                {
+                    "text": "The olfactory system including nose and olfactory pathway has predominance of prithvi mahabhuta. [Cha.Sa. Sutra Sthana 08/14]",
+                    "links": [
+                        {
+                            "text": "Sutra Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                        }
+                    ]
+                },
+                {
+                    "text": "In the eyeball, the muscles represent prithvi mahabhuta. [Su.Sa.Uttar Tantra 01/11]",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Role in formation of dhatu:",
+            "html": "<p>Role in formation of dhatu:\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "ul",
+            "text": "The peculiar raw or musty smell of blood is due to prithvi mahabhuta. [Su.Sa.Uttar Tantra 46/09] [Su.Sa.Sutra Sthana 14/09] Prithvi mahabhuta maintains proper composition, binding, heaviness, compactness and stability in body components.[Cha.Sa. Sutra Sthana 26/11]. It is one of the fundamental constituent in the formation of asthi dhatu (bone) [Cha.Sa. Chikitsa Sthana 15/30]. In addition, it is constituent of mamsa (muscle) and meda (adipose tissue) dhatu . [Dalhana on Su.Sa. Sutra Sthana 15/10]",
+            "html": "<ul><li>The peculiar raw or musty smell of blood is due to prithvi mahabhuta. [Su.Sa.Uttar Tantra 46/09] [Su.Sa.Sutra Sthana 14/09]</li>\n<li>Prithvi mahabhuta maintains proper composition, binding, heaviness, compactness and stability in body components.[Cha.Sa. <a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 26/11].</li>\n<li>It is one of the fundamental constituent in the formation of <a href=\"/index.php?title=Asthi_dhatu\" title=\"Asthi dhatu\">asthi dhatu</a> (bone) [Cha.Sa. Chikitsa Sthana 15/30]. In addition, it is constituent of <a class=\"mw-redirect\" href=\"/index.php?title=Mamsa\" title=\"Mamsa\">mamsa</a> (muscle) and <a href=\"/index.php?title=Meda\" title=\"Meda\">meda</a> (adipose tissue) <a href=\"/index.php?title=Dhatu\" title=\"Dhatu\">dhatu</a>. [Dalhana on Su.Sa. Sutra Sthana 15/10]</li></ul>",
+            "links": [
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "asthi dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Asthi_dhatu"
+                },
+                {
+                    "text": "mamsa",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mamsa"
+                },
+                {
+                    "text": "meda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Meda"
+                },
+                {
+                    "text": "dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "The peculiar raw or musty smell of blood is due to prithvi mahabhuta. [Su.Sa.Uttar Tantra 46/09] [Su.Sa.Sutra Sthana 14/09]",
+                    "links": []
+                },
+                {
+                    "text": "Prithvi mahabhuta maintains proper composition, binding, heaviness, compactness and stability in body components.[Cha.Sa. Sutra Sthana 26/11].",
+                    "links": [
+                        {
+                            "text": "Sutra Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                        }
+                    ]
+                },
+                {
+                    "text": "It is one of the fundamental constituent in the formation of asthi dhatu (bone) [Cha.Sa. Chikitsa Sthana 15/30]. In addition, it is constituent of mamsa (muscle) and meda (adipose tissue) dhatu . [Dalhana on Su.Sa. Sutra Sthana 15/10]",
+                    "links": [
+                        {
+                            "text": "asthi dhatu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Asthi_dhatu"
+                        },
+                        {
+                            "text": "mamsa",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Mamsa"
+                        },
+                        {
+                            "text": "meda",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Meda"
+                        },
+                        {
+                            "text": "dhatu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h3",
+            "text": "Role in determining the complexion",
+            "html": "<h3><span class=\"mw-headline\" id=\"Role_in_determining_the_complexion\">Role in determining the complexion</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "ul",
+            "text": "Prithvi and vayu mahabhuta are responsible for black (krishna) complexion. [Cha.Sa. Sharira Sthana 08/15] An equilibrium of all the five mahabhutas result in shyamavarna i.e. sky-like bluish complexion. [Cha.Sa. Sharira Sthana 08/15]",
+            "html": "<ul><li>Prithvi and vayu mahabhuta are responsible for black (krishna) complexion. [Cha.Sa. <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 08/15]</li>\n<li>An equilibrium of all the five mahabhutas result in shyamavarna i.e. sky-like bluish complexion. [Cha.Sa. <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 08/15]</li></ul>",
+            "links": [
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Prithvi and vayu mahabhuta are responsible for black (krishna) complexion. [Cha.Sa. Sharira Sthana 08/15]",
+                    "links": [
+                        {
+                            "text": "Sharira Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                        }
+                    ]
+                },
+                {
+                    "text": "An equilibrium of all the five mahabhutas result in shyamavarna i.e. sky-like bluish complexion. [Cha.Sa. Sharira Sthana 08/15]",
+                    "links": [
+                        {
+                            "text": "Sharira Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Importance in clinical practice",
+            "html": "<h2><span class=\"mw-headline\" id=\"Importance_in_clinical_practice\">Importance in clinical practice</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "h3",
+            "text": "Application in diagnosis",
+            "html": "<h3><span class=\"mw-headline\" id=\"Application_in_diagnosis\">Application in diagnosis</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "ul",
+            "text": "The development of mass, compactness, binding, heaviness and stability/firmness in the body are decided by prithvi mahabhuta. [Cha.Sa. Sutra Sthana 26/11]. Abnormalities in these functions are used to assess the varying proportions of prithvi mahabhuta in the body. In this view, the flaccidity and spasticity of muscles, osteopenia and osteoporosis, structural deformity of bones are some of the disorders due to abnormal prithvi mahabhuta.",
+            "html": "<ul><li>The development of mass, compactness, binding, heaviness and stability/firmness in the body are decided by prithvi mahabhuta. [Cha.Sa. <a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 26/11]. Abnormalities in these functions are used to assess the varying proportions of prithvi mahabhuta in the body.</li>\n<li>In this view, the flaccidity and spasticity of muscles, osteopenia and osteoporosis, structural deformity of bones are some of the disorders due to abnormal prithvi mahabhuta.</li></ul>",
+            "links": [
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "The development of mass, compactness, binding, heaviness and stability/firmness in the body are decided by prithvi mahabhuta. [Cha.Sa. Sutra Sthana 26/11]. Abnormalities in these functions are used to assess the varying proportions of prithvi mahabhuta in the body.",
+                    "links": [
+                        {
+                            "text": "Sutra Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                        }
+                    ]
+                },
+                {
+                    "text": "In this view, the flaccidity and spasticity of muscles, osteopenia and osteoporosis, structural deformity of bones are some of the disorders due to abnormal prithvi mahabhuta.",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "h3",
+            "text": "Application in treatment",
+            "html": "<h3><span class=\"mw-headline\" id=\"Application_in_treatment\">Application in treatment</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "ul",
+            "text": "The substances which are heavy (guru) to digest have a predominance of prithvi and jala mahabhuta . Its overuse result in hampering the agni (digestion). [Cha.Sa. Sutra Sthana 05/06] The quantity of food is determined by inherent nature of food (light or heavy to digest) based upon fundamental panchabhautik composition and digestive capacity of an individual. In the manifestation and differentiation of rasa (taste), prithvi mahabhuta is one among the material substance. It is the source or abode for all earthen elements. [Cha.Sa. Sutra Sthana 01/64] Among the six types of tastes ( rasa ), madhura (sweet), amla (sour) and kashaya (astringent) have predominance of prithvi mahabhuta. [Cha.Sa. Sutra Sthana 26/40] By wisely prescribing the drugs having these rasas, one can treat various abnormal conditions of doshas . Medicines for therapeutic purgation ( virechana ) have predominance of prithvi mahabhuta with jala mahabhuta . Inherent property of gurutva (heaviness) causes the downward movement of these medicines leading to purgation. [Su.Sa. Sutra Sthana 41/06]. Thus it helps in expelling the doshas through rectal route. [Cha.Sa. Kalpa Sthana 01/05] Drugs predominant in qualities of prithvi and jala mahabhuta are nourishing ( brimhana ) in nature. [Su.Sa.Sutra Sthana 41/06] Hence they are used in diseases due to under-nutrition. The panchabhautika composition of kapha dosha is jala and prithvi mahabhuta. [ 8 ] The substances possessing prithvi mahabhuta pacifies vata and pitta dosha due to its properties. It increases kapha dosha . [Su.Sa.Sutra Sthana 41/07-09] Hence the medicines and diet with prithvi mahabhuta is prescribed in disorders due to vitiation of vata and pitta dosha . The parthiva bhutagni selectively carries out digestion and metabolism of food substances having dominance of prithvi mahabhuta. It nourishes the respective constituents in the body. [Cha.Sa. Chikitsa Sthana 15/13] Therefore in case of any abnormality or disequilibrium of prithvi components in the body, this agni needs to be corrected.",
+            "html": "<ul><li>The substances which are heavy (guru) to digest have a predominance of prithvi and <a href=\"/index.php?title=Jala_mahabhuta\" title=\"Jala mahabhuta\">jala mahabhuta</a>. Its overuse result in hampering the <a href=\"/index.php?title=Agni\" title=\"Agni\">agni</a> (digestion).  [Cha.Sa. <a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 05/06] The quantity of food is determined by inherent nature of food (light or heavy to digest) based upon fundamental panchabhautik composition and digestive capacity of an individual.</li>\n<li>In the manifestation and differentiation of <a href=\"/index.php?title=Rasa\" title=\"Rasa\">rasa</a> (taste), prithvi mahabhuta is one among the material substance. It is the source or abode for all earthen elements. [Cha.Sa. <a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 01/64] Among the six types of tastes (<a href=\"/index.php?title=Rasa\" title=\"Rasa\">rasa</a>), madhura (sweet), amla (sour) and kashaya (astringent) have predominance of prithvi mahabhuta. [Cha.Sa. <a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 26/40] By wisely prescribing the drugs having these rasas, one can treat various abnormal conditions of <a href=\"/index.php?title=Dosha\" title=\"Dosha\">doshas</a>.</li>\n<li>Medicines for therapeutic purgation (<a href=\"/index.php?title=Virechana\" title=\"Virechana\">virechana</a>) have predominance of prithvi mahabhuta with <a href=\"/index.php?title=Jala_mahabhuta\" title=\"Jala mahabhuta\">jala mahabhuta</a>. Inherent property of gurutva (heaviness) causes the downward movement of these medicines leading to purgation. [Su.Sa. Sutra Sthana 41/06]. Thus it helps in expelling the <a href=\"/index.php?title=Dosha\" title=\"Dosha\">doshas</a> through rectal route. [Cha.Sa. <a href=\"/index.php?title=Kalpa_Sthana\" title=\"Kalpa Sthana\">Kalpa Sthana</a> 01/05]</li>\n<li>Drugs predominant in qualities of prithvi and <a href=\"/index.php?title=Jala_mahabhuta\" title=\"Jala mahabhuta\">jala mahabhuta</a> are nourishing (<a href=\"/index.php?title=Brimhana\" title=\"Brimhana\">brimhana</a>) in nature. [Su.Sa.Sutra Sthana 41/06] Hence they are used in diseases due to under-nutrition.</li>\n<li>The panchabhautika composition of kapha dosha is jala and prithvi mahabhuta.<sup class=\"reference\" id=\"cite_ref-8\"><a href=\"#cite_note-8\"><span class=\"cite-bracket\">[</span>8<span class=\"cite-bracket\">]</span></a></sup>  The substances possessing prithvi mahabhuta pacifies <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a> and <a href=\"/index.php?title=Pitta_dosha\" title=\"Pitta dosha\">pitta dosha</a> due to its properties. It increases <a href=\"/index.php?title=Kapha_dosha\" title=\"Kapha dosha\">kapha dosha</a>. [Su.Sa.Sutra Sthana 41/07-09] Hence the medicines and diet with prithvi mahabhuta is prescribed in disorders due to vitiation of <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a> and <a href=\"/index.php?title=Pitta_dosha\" title=\"Pitta dosha\">pitta dosha</a>.</li>\n<li>The parthiva bhutagni selectively carries out digestion and metabolism of food substances having dominance of prithvi mahabhuta. It nourishes the respective constituents in the body. [Cha.Sa. <a href=\"/index.php?title=Chikitsa_Sthana\" title=\"Chikitsa Sthana\">Chikitsa Sthana</a> 15/13] Therefore in case of any abnormality or disequilibrium of prithvi components in the body, this <a href=\"/index.php?title=Agni\" title=\"Agni\">agni</a> needs to be corrected.</li></ul>",
+            "links": [
+                {
+                    "text": "jala mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Jala_mahabhuta"
+                },
+                {
+                    "text": "agni",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "rasa",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "rasa",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "doshas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "virechana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Virechana"
+                },
+                {
+                    "text": "jala mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Jala_mahabhuta"
+                },
+                {
+                    "text": "doshas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "Kalpa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kalpa_Sthana"
+                },
+                {
+                    "text": "jala mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Jala_mahabhuta"
+                },
+                {
+                    "text": "brimhana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Brimhana"
+                },
+                {
+                    "text": "[ 8 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#cite_note-8"
+                },
+                {
+                    "text": "vata",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vata"
+                },
+                {
+                    "text": "pitta dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha"
+                },
+                {
+                    "text": "kapha dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kapha_dosha"
+                },
+                {
+                    "text": "vata",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vata"
+                },
+                {
+                    "text": "pitta dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha"
+                },
+                {
+                    "text": "Chikitsa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                },
+                {
+                    "text": "agni",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "The substances which are heavy (guru) to digest have a predominance of prithvi and jala mahabhuta . Its overuse result in hampering the agni (digestion). [Cha.Sa. Sutra Sthana 05/06] The quantity of food is determined by inherent nature of food (light or heavy to digest) based upon fundamental panchabhautik composition and digestive capacity of an individual.",
+                    "links": [
+                        {
+                            "text": "jala mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Jala_mahabhuta"
+                        },
+                        {
+                            "text": "agni",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Agni"
+                        },
+                        {
+                            "text": "Sutra Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                        }
+                    ]
+                },
+                {
+                    "text": "In the manifestation and differentiation of rasa (taste), prithvi mahabhuta is one among the material substance. It is the source or abode for all earthen elements. [Cha.Sa. Sutra Sthana 01/64] Among the six types of tastes ( rasa ), madhura (sweet), amla (sour) and kashaya (astringent) have predominance of prithvi mahabhuta. [Cha.Sa. Sutra Sthana 26/40] By wisely prescribing the drugs having these rasas, one can treat various abnormal conditions of doshas .",
+                    "links": [
+                        {
+                            "text": "rasa",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa"
+                        },
+                        {
+                            "text": "Sutra Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                        },
+                        {
+                            "text": "rasa",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa"
+                        },
+                        {
+                            "text": "Sutra Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                        },
+                        {
+                            "text": "doshas",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                        }
+                    ]
+                },
+                {
+                    "text": "Medicines for therapeutic purgation ( virechana ) have predominance of prithvi mahabhuta with jala mahabhuta . Inherent property of gurutva (heaviness) causes the downward movement of these medicines leading to purgation. [Su.Sa. Sutra Sthana 41/06]. Thus it helps in expelling the doshas through rectal route. [Cha.Sa. Kalpa Sthana 01/05]",
+                    "links": [
+                        {
+                            "text": "virechana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Virechana"
+                        },
+                        {
+                            "text": "jala mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Jala_mahabhuta"
+                        },
+                        {
+                            "text": "doshas",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                        },
+                        {
+                            "text": "Kalpa Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Kalpa_Sthana"
+                        }
+                    ]
+                },
+                {
+                    "text": "Drugs predominant in qualities of prithvi and jala mahabhuta are nourishing ( brimhana ) in nature. [Su.Sa.Sutra Sthana 41/06] Hence they are used in diseases due to under-nutrition.",
+                    "links": [
+                        {
+                            "text": "jala mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Jala_mahabhuta"
+                        },
+                        {
+                            "text": "brimhana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Brimhana"
+                        }
+                    ]
+                },
+                {
+                    "text": "The panchabhautika composition of kapha dosha is jala and prithvi mahabhuta. [ 8 ] The substances possessing prithvi mahabhuta pacifies vata and pitta dosha due to its properties. It increases kapha dosha . [Su.Sa.Sutra Sthana 41/07-09] Hence the medicines and diet with prithvi mahabhuta is prescribed in disorders due to vitiation of vata and pitta dosha .",
+                    "links": [
+                        {
+                            "text": "[ 8 ]",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#cite_note-8"
+                        },
+                        {
+                            "text": "vata",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vata"
+                        },
+                        {
+                            "text": "pitta dosha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha"
+                        },
+                        {
+                            "text": "kapha dosha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Kapha_dosha"
+                        },
+                        {
+                            "text": "vata",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vata"
+                        },
+                        {
+                            "text": "pitta dosha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha"
+                        }
+                    ]
+                },
+                {
+                    "text": "The parthiva bhutagni selectively carries out digestion and metabolism of food substances having dominance of prithvi mahabhuta. It nourishes the respective constituents in the body. [Cha.Sa. Chikitsa Sthana 15/13] Therefore in case of any abnormality or disequilibrium of prithvi components in the body, this agni needs to be corrected.",
+                    "links": [
+                        {
+                            "text": "Chikitsa Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                        },
+                        {
+                            "text": "agni",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Agni"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Contemporary views and current researches",
+            "html": "<h2><span class=\"mw-headline\" id=\"Contemporary_views_and_current_researches\">Contemporary views and current researches</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "The tanmatra form of all mahabhuta is considered as eternal. During the evolution, after the formation of sound, touch, heat and light radiation and taste potential, the viscous attractions and condensations proceed further. Thus quanta with smell potential is formed and it can be correlated to gandha tanmatra of prithvi mahabhuta. [ 9 ]",
+            "html": "<p>The <a href=\"/index.php?title=Tanmatra\" title=\"Tanmatra\">tanmatra</a> form of all <a class=\"mw-redirect\" href=\"/index.php?title=Mahabhuta\" title=\"Mahabhuta\">mahabhuta</a> is considered as eternal. During the evolution, after the formation of sound, touch, heat and light radiation and taste potential, the viscous attractions and condensations proceed further. Thus quanta with smell potential is formed and it can be correlated to gandha <a href=\"/index.php?title=Tanmatra\" title=\"Tanmatra\">tanmatra</a> of prithvi mahabhuta.<sup class=\"reference\" id=\"cite_ref-9\"><a href=\"#cite_note-9\"><span class=\"cite-bracket\">[</span>9<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "tanmatra",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra"
+                },
+                {
+                    "text": "mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahabhuta"
+                },
+                {
+                    "text": "tanmatra",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra"
+                },
+                {
+                    "text": "[ 9 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#cite_note-9"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "In quantum physics, The spin 0 Higgs filed (one among the five quantum mechanical spin types of a unified quantum field theory) is responsible for giving the particles their mass. [ 10 ] Dr. John Hagelin, leading physicist in the area of unified quantum field theory, thus correlates prithvi mahabhuta with the spin 0 Higgs filed. [ 11 ] Weight and mass of a substance is attributed to property of heaviness of prithvi mahabhuta. [ 12 ]",
+            "html": "<p>In quantum physics, The spin 0 Higgs filed (one among the five quantum mechanical spin types of a unified quantum field theory) is responsible for giving the particles their mass.<sup class=\"reference\" id=\"cite_ref-10\"><a href=\"#cite_note-10\"><span class=\"cite-bracket\">[</span>10<span class=\"cite-bracket\">]</span></a></sup>  Dr. John Hagelin, leading physicist in the area of unified quantum field theory, thus correlates prithvi mahabhuta with the spin 0 Higgs filed.<sup class=\"reference\" id=\"cite_ref-11\"><a href=\"#cite_note-11\"><span class=\"cite-bracket\">[</span>11<span class=\"cite-bracket\">]</span></a></sup>  Weight and mass of a substance is attributed to property of heaviness of prithvi mahabhuta.<sup class=\"reference\" id=\"cite_ref-12\"><a href=\"#cite_note-12\"><span class=\"cite-bracket\">[</span>12<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 10 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#cite_note-10"
+                },
+                {
+                    "text": "[ 11 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#cite_note-11"
+                },
+                {
+                    "text": "[ 12 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#cite_note-12"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "A single cell of living organism has combination of five mahabhutas . Prithvi mahabhuta is responsible for the structure of the cell. [ 13 ] The tough or solidified structures in a cell, including nucleus, plasma membrane are the attributes of prithvi mahabhuta. [ 14 ]",
+            "html": "<p>A single cell of living organism has combination of five <a class=\"mw-redirect\" href=\"/index.php?title=Mahabhuta\" title=\"Mahabhuta\">mahabhutas</a>. Prithvi mahabhuta is responsible for the structure of the cell.<sup class=\"reference\" id=\"cite_ref-13\"><a href=\"#cite_note-13\"><span class=\"cite-bracket\">[</span>13<span class=\"cite-bracket\">]</span></a></sup>  The tough or solidified structures in a cell, including nucleus, plasma membrane  are the attributes of prithvi mahabhuta.<sup class=\"reference\" id=\"cite_ref-14\"><a href=\"#cite_note-14\"><span class=\"cite-bracket\">[</span>14<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "mahabhutas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahabhuta"
+                },
+                {
+                    "text": "[ 13 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#cite_note-13"
+                },
+                {
+                    "text": "[ 14 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#cite_note-14"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The integrity, solidity and shape of body in the fetus is provided by prithvi mahabhuta. [ 15 ] The minerals and trace elements present in the body represent prithvi mahabhhuta. [ 16 ]",
+            "html": "<p>The integrity, solidity and shape of body in the fetus is provided by prithvi mahabhuta.<sup class=\"reference\" id=\"cite_ref-15\"><a href=\"#cite_note-15\"><span class=\"cite-bracket\">[</span>15<span class=\"cite-bracket\">]</span></a></sup> The minerals and trace elements present in the body represent prithvi mahabhhuta.<sup class=\"reference\" id=\"cite_ref-16\"><a href=\"#cite_note-16\"><span class=\"cite-bracket\">[</span>16<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 15 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#cite_note-15"
+                },
+                {
+                    "text": "[ 16 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#cite_note-16"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "List of theses",
+            "html": "<h3><span class=\"mw-headline\" id=\"List_of_theses\">List of theses</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "ol",
+            "text": "Upendra D. Dixit (1995). Concept of Panchmahabhuta& it’s utility in Chikitsa . Dr. Bishnupriya Mohanty (2004 Ph.D.) Biotransformation of Panchmahabhuta& it’s interpretation in terms of cell injury. Dwivedi L.D. (1969-M.D. and 1975-PhD).A study of concept of Panchmahabhutas Srivastav L. P. (1988).Concept of Panchmahabhutas in the light of Samkhya, Yoga & Ayurveda.",
+            "html": "<ol><li>Upendra D. Dixit (1995). Concept of Panchmahabhuta&amp; it’s utility in Chikitsa .</li>\n<li>Dr. Bishnupriya Mohanty (2004 Ph.D.) Biotransformation of Panchmahabhuta&amp; it’s interpretation in terms of cell injury.</li>\n<li>Dwivedi L.D. (1969-M.D. and 1975-PhD).A study of concept of Panchmahabhutas</li>\n<li>Srivastav L. P. (1988).Concept of Panchmahabhutas in the light of Samkhya, Yoga &amp; Ayurveda.</li></ol>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Upendra D. Dixit (1995). Concept of Panchmahabhuta& it’s utility in Chikitsa .",
+                    "links": []
+                },
+                {
+                    "text": "Dr. Bishnupriya Mohanty (2004 Ph.D.) Biotransformation of Panchmahabhuta& it’s interpretation in terms of cell injury.",
+                    "links": []
+                },
+                {
+                    "text": "Dwivedi L.D. (1969-M.D. and 1975-PhD).A study of concept of Panchmahabhutas",
+                    "links": []
+                },
+                {
+                    "text": "Srivastav L. P. (1988).Concept of Panchmahabhutas in the light of Samkhya, Yoga & Ayurveda.",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "More information",
+            "html": "<h2><span class=\"mw-headline\" id=\"More_information\">More information</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ul",
+            "text": "Indriyopakramaniya adhyaya Katidhapurusha Sharira",
+            "html": "<ul><li><a class=\"mw-redirect\" href=\"/index.php?title=Indriyopakramaniya_adhyaya\" title=\"Indriyopakramaniya adhyaya\">Indriyopakramaniya adhyaya</a></li>\n<li><a href=\"/index.php?title=Katidhapurusha_Sharira\" title=\"Katidhapurusha Sharira\">Katidhapurusha Sharira</a></li></ul>",
+            "links": [
+                {
+                    "text": "Indriyopakramaniya adhyaya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriyopakramaniya_adhyaya"
+                },
+                {
+                    "text": "Katidhapurusha Sharira",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Katidhapurusha_Sharira"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Indriyopakramaniya adhyaya",
+                    "links": [
+                        {
+                            "text": "Indriyopakramaniya adhyaya",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Indriyopakramaniya_adhyaya"
+                        }
+                    ]
+                },
+                {
+                    "text": "Katidhapurusha Sharira",
+                    "links": [
+                        {
+                            "text": "Katidhapurusha Sharira",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Katidhapurusha_Sharira"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h3",
+            "text": "Related articles",
+            "html": "<h3><span class=\"mw-headline\" id=\"Related_articles\">Related articles</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "ul",
+            "text": "Akasha mahabhuta Vayu mahabhuta Agni mahabhuta Jala mahabhuta",
+            "html": "<ul><li><a href=\"/index.php?title=Akasha_mahabhuta\" title=\"Akasha mahabhuta\">Akasha mahabhuta</a></li>\n<li><a href=\"/index.php?title=Vayu_mahabhuta\" title=\"Vayu mahabhuta\">Vayu mahabhuta</a></li>\n<li><a href=\"/index.php?title=Agni_mahabhuta\" title=\"Agni mahabhuta\">Agni mahabhuta</a></li>\n<li><a href=\"/index.php?title=Jala_mahabhuta\" title=\"Jala mahabhuta\">Jala mahabhuta</a></li></ul>",
+            "links": [
+                {
+                    "text": "Akasha mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta"
+                },
+                {
+                    "text": "Vayu mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta"
+                },
+                {
+                    "text": "Agni mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta"
+                },
+                {
+                    "text": "Jala mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Jala_mahabhuta"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Akasha mahabhuta",
+                    "links": [
+                        {
+                            "text": "Akasha mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta"
+                        }
+                    ]
+                },
+                {
+                    "text": "Vayu mahabhuta",
+                    "links": [
+                        {
+                            "text": "Vayu mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta"
+                        }
+                    ]
+                },
+                {
+                    "text": "Agni mahabhuta",
+                    "links": [
+                        {
+                            "text": "Agni mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta"
+                        }
+                    ]
+                },
+                {
+                    "text": "Jala mahabhuta",
+                    "links": [
+                        {
+                            "text": "Jala mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Jala_mahabhuta"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Abbreviations used in bracket : Cha.= Charaka, Sa.= Samhita, Su.= Sushruta the first number is sequential number of chapter in index. The number after slash (/) is sequential number of verse in that chapter.",
+            "html": "<p><b>Abbreviations used in bracket :</b> Cha.= Charaka,  Sa.= Samhita, Su.= Sushruta the first number is sequential number of chapter in index. The number after slash (/) is sequential number of verse in that chapter.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Send us your suggestions and feedback on this page.",
+            "html": "<p><big><b><a href=\"/index.php?title=Special:ContactMe\" title=\"Special:ContactMe\">Send us your suggestions and feedback on this page.</a></b></big>\n</p>",
+            "links": [
+                {
+                    "text": "Send us your suggestions and feedback on this page.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Special:ContactMe"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "References",
+            "html": "<h2><span class=\"mw-headline\" id=\"References\">References</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "text",
+            "text": "Back to the Top"
+        },
+        {
+            "type": "ol",
+            "text": "↑ Monier-Williams, Monier-Williams Sanskrit- English Dictionary, 1st edition; Oxford University Press, prithvi, Page 647. ↑ Jha madan Mohan.Shabdakalpadruma application ↑ Sushmajee dictionary of Hindu religion, Prithvi [Internet] [updated 2012 Nov 11; cited 2020 Apr 18]. Available from: http://www.sushmajee.com/reldictionary/dictionary/page-P-Q/prithvi.htm ↑ Dr K P Sreekumari Amma,editor. Padartha Vijnanam. Trivandrum:Ayurveda college Trivandrum; 2001.chapter 2, prithvi nirupana;p.12. ↑ Synonyms of Prithvi [Internet]. 2018 [cited 2020 Apr 18]. Available from: https://www.wordtodictionary.com/%E0%A4%AA%E0%A5%83%E0%A4%A5%E0%A5%8D%E0%A4%B5%E0%A5%80-%E0%A4%95%E0%A4%BE-%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%B5%E0%A4%BE%E0%A4%9A%E0%A5%80-prithvi-paryayvachi-shabd/ ↑ Dingari Lakshmanachary.Acharya’s Ayurvedeeya padartha vigyana. Delhi: Chaukhamba Sanskrit pratisthan;2012.Chapter 07, Pruthvi nirupana;p.54. ↑ Hari Shastri Paraadakara Vaidya, editor. Ashtanga Hridaya by Vaagbhata with Sarvanga Sundara and Ayurveda Rasayana Commentary. 10th edition. Varanasi: Chaukhambha Orientalia, 2011. Sutra sthana 09/01; p.164. ↑ Shivprasad Sharma, editor. Ashtanga samgraha by vridha vaagbata with Sasilekha Commentry. 3rd edition. Varanasi: Chowkhambha Sanskrit series office, 2012. Sutra sthana 20/02; p ↑ Nalage D H. A study of Samskara and its role in alteration of Pancha-Bhautika composition of Dravya [MD Dissertation]. Jamnagar: Gujarat Ayurved University; 2004 ↑ Sharma H. Correlation of physiological principles of Ayurveda with spin types of quantum physics. Annals Ayurvedic Med [Internet]. 2018 [cited 2020 Apr 03];7(3-4):72-74. Available from: https://www.aamjournal.in/fulltext/70-1531160335.pdf ↑ Hagelin.J. S. Is Consciousness the Unified Field? A Field Theorist’s Perspective. Modem Science and Vedic Science [Internet]. 1987 [cited 2020 Apr 03];7(1):29-87. Available from: https://www.psychicstudent.com/wp-content/uploads/hagelin.pdf ↑ Dr Raghuram YS, Panchamahabhutas- Application, areas of utility in ayurvedic treatment [Internet]. 2017 [cited 2020 Apr 09]. Available from: https://www.easyayurveda.com/2016/05/24/understanding-concept-panchamahabhuta-application-areas-utility-ayurveda-treatment/ ↑ Dr Kusum Malik, Dr Brijesh Mishra. Panchamahabhuta- Aadharbhut Siddhant and their application in Chikitsa. J Ayurveda Integr Med Sci 2018;5:146-150. http://dx.doi.org/10.21760/jaims.v3i5.13833 ↑ Kamath Nagaraj, Kulkarni Pratibha. Critical analysis of panchabhautik organization at cellular level. International Ayurvedic Medical Journal [Internet]. 2014 [cited 2020 Apr 08]; Available from: http://www.iamj.in/posts/images/upload/364_367.pdf ↑ Dr Raghuram YS, Panchamahabhutas- Application, areas of utility in ayurvedic treatment [Internet]. 2017 [cited 2020 Apr 09]. Available from: https://www.easyayurveda.com/2016/05/24/understanding-concept-panchamahabhuta-application-areas-utility-ayurveda-treatment/ ↑ Shambhu Sharan, Vidyavati Pathak. Concepts of Panchamahabhut at Elemental Level. WJPMR, 2017,3(7), 80-89",
+            "html": "<ol class=\"references\">\n<li id=\"cite_note-1\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-1\">↑</a></span> <span class=\"reference-text\">Monier-Williams, Monier-Williams Sanskrit- English Dictionary, 1st edition; Oxford University Press, prithvi, Page 647.</span>\n</li>\n<li id=\"cite_note-2\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-2\">↑</a></span> <span class=\"reference-text\">Jha madan Mohan.Shabdakalpadruma application</span>\n</li>\n<li id=\"cite_note-3\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-3\">↑</a></span> <span class=\"reference-text\">Sushmajee dictionary of Hindu religion, Prithvi [Internet] [updated 2012 Nov 11; cited 2020 Apr 18]. Available from: <a class=\"external free\" href=\"http://www.sushmajee.com/reldictionary/dictionary/page-P-Q/prithvi.htm\" rel=\"nofollow\">http://www.sushmajee.com/reldictionary/dictionary/page-P-Q/prithvi.htm</a></span>\n</li>\n<li id=\"cite_note-4\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-4\">↑</a></span> <span class=\"reference-text\">Dr K P Sreekumari Amma,editor. Padartha Vijnanam. Trivandrum:Ayurveda college Trivandrum; 2001.chapter 2, prithvi nirupana;p.12.</span>\n</li>\n<li id=\"cite_note-5\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-5\">↑</a></span> <span class=\"reference-text\">Synonyms of Prithvi [Internet]. 2018 [cited 2020 Apr 18]. Available from: <a class=\"external free\" href=\"https://www.wordtodictionary.com/%E0%A4%AA%E0%A5%83%E0%A4%A5%E0%A5%8D%E0%A4%B5%E0%A5%80-%E0%A4%95%E0%A4%BE-%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%B5%E0%A4%BE%E0%A4%9A%E0%A5%80-prithvi-paryayvachi-shabd/\" rel=\"nofollow\">https://www.wordtodictionary.com/%E0%A4%AA%E0%A5%83%E0%A4%A5%E0%A5%8D%E0%A4%B5%E0%A5%80-%E0%A4%95%E0%A4%BE-%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%B5%E0%A4%BE%E0%A4%9A%E0%A5%80-prithvi-paryayvachi-shabd/</a></span>\n</li>\n<li id=\"cite_note-6\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-6\">↑</a></span> <span class=\"reference-text\">Dingari Lakshmanachary.Acharya’s Ayurvedeeya padartha vigyana. Delhi: Chaukhamba Sanskrit pratisthan;2012.Chapter 07, Pruthvi nirupana;p.54.</span>\n</li>\n<li id=\"cite_note-7\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-7\">↑</a></span> <span class=\"reference-text\">Hari Shastri Paraadakara Vaidya, editor. Ashtanga Hridaya by Vaagbhata with Sarvanga Sundara and Ayurveda Rasayana Commentary. 10th edition. Varanasi: Chaukhambha Orientalia, 2011. Sutra sthana 09/01; p.164.</span>\n</li>\n<li id=\"cite_note-8\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-8\">↑</a></span> <span class=\"reference-text\">Shivprasad Sharma, editor. Ashtanga samgraha by vridha vaagbata with Sasilekha Commentry. 3rd edition. Varanasi: Chowkhambha Sanskrit series office, 2012. Sutra sthana 20/02; p</span>\n</li>\n<li id=\"cite_note-9\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-9\">↑</a></span> <span class=\"reference-text\">Nalage D H. A study of Samskara and its role in alteration of Pancha-Bhautika composition of Dravya [MD Dissertation]. Jamnagar: Gujarat Ayurved University; 2004</span>\n</li>\n<li id=\"cite_note-10\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-10\">↑</a></span> <span class=\"reference-text\">Sharma H. Correlation of physiological principles of Ayurveda with spin types of quantum physics. Annals Ayurvedic Med [Internet]. 2018 [cited 2020 Apr 03];7(3-4):72-74. Available from: <a class=\"external free\" href=\"https://www.aamjournal.in/fulltext/70-1531160335.pdf\" rel=\"nofollow\">https://www.aamjournal.in/fulltext/70-1531160335.pdf</a></span>\n</li>\n<li id=\"cite_note-11\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-11\">↑</a></span> <span class=\"reference-text\">Hagelin.J. S. Is Consciousness the Unified Field? A Field Theorist’s Perspective. Modem Science and Vedic Science [Internet]. 1987 [cited 2020 Apr 03];7(1):29-87. Available from:<a class=\"external free\" href=\"https://www.psychicstudent.com/wp-content/uploads/hagelin.pdf\" rel=\"nofollow\">https://www.psychicstudent.com/wp-content/uploads/hagelin.pdf</a></span>\n</li>\n<li id=\"cite_note-12\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-12\">↑</a></span> <span class=\"reference-text\">Dr Raghuram YS, Panchamahabhutas- Application, areas of utility in ayurvedic treatment [Internet]. 2017 [cited 2020 Apr 09]. Available from: <a class=\"external free\" href=\"https://www.easyayurveda.com/2016/05/24/understanding-concept-panchamahabhuta-application-areas-utility-ayurveda-treatment/\" rel=\"nofollow\">https://www.easyayurveda.com/2016/05/24/understanding-concept-panchamahabhuta-application-areas-utility-ayurveda-treatment/</a></span>\n</li>\n<li id=\"cite_note-13\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-13\">↑</a></span> <span class=\"reference-text\">Dr Kusum Malik, Dr Brijesh Mishra. Panchamahabhuta- Aadharbhut Siddhant and their application in Chikitsa. J Ayurveda Integr Med Sci 2018;5:146-150. <a class=\"external free\" href=\"http://dx.doi.org/10.21760/jaims.v3i5.13833\" rel=\"nofollow\">http://dx.doi.org/10.21760/jaims.v3i5.13833</a></span>\n</li>\n<li id=\"cite_note-14\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-14\">↑</a></span> <span class=\"reference-text\">Kamath Nagaraj, Kulkarni Pratibha. Critical analysis of panchabhautik organization at cellular level. International Ayurvedic Medical Journal [Internet]. 2014 [cited 2020 Apr 08]; Available from: <a class=\"external free\" href=\"http://www.iamj.in/posts/images/upload/364_367.pdf\" rel=\"nofollow\">http://www.iamj.in/posts/images/upload/364_367.pdf</a></span>\n</li>\n<li id=\"cite_note-15\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-15\">↑</a></span> <span class=\"reference-text\">Dr Raghuram YS, Panchamahabhutas- Application, areas of utility in ayurvedic treatment [Internet]. 2017 [cited 2020 Apr 09]. Available from: <a class=\"external free\" href=\"https://www.easyayurveda.com/2016/05/24/understanding-concept-panchamahabhuta-application-areas-utility-ayurveda-treatment/\" rel=\"nofollow\">https://www.easyayurveda.com/2016/05/24/understanding-concept-panchamahabhuta-application-areas-utility-ayurveda-treatment/</a></span>\n</li>\n<li id=\"cite_note-16\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-16\">↑</a></span> <span class=\"reference-text\">Shambhu Sharan, Vidyavati Pathak. Concepts of Panchamahabhut at Elemental Level. WJPMR, 2017,3(7), 80-89</span>\n</li>\n</ol>",
+            "links": [
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#cite_ref-1"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#cite_ref-2"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#cite_ref-3"
+                },
+                {
+                    "text": "http://www.sushmajee.com/reldictionary/dictionary/page-P-Q/prithvi.htm",
+                    "url": "http://www.sushmajee.com/reldictionary/dictionary/page-P-Q/prithvi.htm"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#cite_ref-4"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#cite_ref-5"
+                },
+                {
+                    "text": "https://www.wordtodictionary.com/%E0%A4%AA%E0%A5%83%E0%A4%A5%E0%A5%8D%E0%A4%B5%E0%A5%80-%E0%A4%95%E0%A4%BE-%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%B5%E0%A4%BE%E0%A4%9A%E0%A5%80-prithvi-paryayvachi-shabd/",
+                    "url": "https://www.wordtodictionary.com/%E0%A4%AA%E0%A5%83%E0%A4%A5%E0%A5%8D%E0%A4%B5%E0%A5%80-%E0%A4%95%E0%A4%BE-%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%B5%E0%A4%BE%E0%A4%9A%E0%A5%80-prithvi-paryayvachi-shabd/"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#cite_ref-6"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#cite_ref-7"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#cite_ref-8"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#cite_ref-9"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#cite_ref-10"
+                },
+                {
+                    "text": "https://www.aamjournal.in/fulltext/70-1531160335.pdf",
+                    "url": "https://www.aamjournal.in/fulltext/70-1531160335.pdf"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#cite_ref-11"
+                },
+                {
+                    "text": "https://www.psychicstudent.com/wp-content/uploads/hagelin.pdf",
+                    "url": "https://www.psychicstudent.com/wp-content/uploads/hagelin.pdf"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#cite_ref-12"
+                },
+                {
+                    "text": "https://www.easyayurveda.com/2016/05/24/understanding-concept-panchamahabhuta-application-areas-utility-ayurveda-treatment/",
+                    "url": "https://www.easyayurveda.com/2016/05/24/understanding-concept-panchamahabhuta-application-areas-utility-ayurveda-treatment/"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#cite_ref-13"
+                },
+                {
+                    "text": "http://dx.doi.org/10.21760/jaims.v3i5.13833",
+                    "url": "http://dx.doi.org/10.21760/jaims.v3i5.13833"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#cite_ref-14"
+                },
+                {
+                    "text": "http://www.iamj.in/posts/images/upload/364_367.pdf",
+                    "url": "http://www.iamj.in/posts/images/upload/364_367.pdf"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#cite_ref-15"
+                },
+                {
+                    "text": "https://www.easyayurveda.com/2016/05/24/understanding-concept-panchamahabhuta-application-areas-utility-ayurveda-treatment/",
+                    "url": "https://www.easyayurveda.com/2016/05/24/understanding-concept-panchamahabhuta-application-areas-utility-ayurveda-treatment/"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#cite_ref-16"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "↑ Monier-Williams, Monier-Williams Sanskrit- English Dictionary, 1st edition; Oxford University Press, prithvi, Page 647.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#cite_ref-1"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Jha madan Mohan.Shabdakalpadruma application",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#cite_ref-2"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Sushmajee dictionary of Hindu religion, Prithvi [Internet] [updated 2012 Nov 11; cited 2020 Apr 18]. Available from: http://www.sushmajee.com/reldictionary/dictionary/page-P-Q/prithvi.htm",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#cite_ref-3"
+                        },
+                        {
+                            "text": "http://www.sushmajee.com/reldictionary/dictionary/page-P-Q/prithvi.htm",
+                            "url": "http://www.sushmajee.com/reldictionary/dictionary/page-P-Q/prithvi.htm"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Dr K P Sreekumari Amma,editor. Padartha Vijnanam. Trivandrum:Ayurveda college Trivandrum; 2001.chapter 2, prithvi nirupana;p.12.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#cite_ref-4"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Synonyms of Prithvi [Internet]. 2018 [cited 2020 Apr 18]. Available from: https://www.wordtodictionary.com/%E0%A4%AA%E0%A5%83%E0%A4%A5%E0%A5%8D%E0%A4%B5%E0%A5%80-%E0%A4%95%E0%A4%BE-%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%B5%E0%A4%BE%E0%A4%9A%E0%A5%80-prithvi-paryayvachi-shabd/",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#cite_ref-5"
+                        },
+                        {
+                            "text": "https://www.wordtodictionary.com/%E0%A4%AA%E0%A5%83%E0%A4%A5%E0%A5%8D%E0%A4%B5%E0%A5%80-%E0%A4%95%E0%A4%BE-%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%B5%E0%A4%BE%E0%A4%9A%E0%A5%80-prithvi-paryayvachi-shabd/",
+                            "url": "https://www.wordtodictionary.com/%E0%A4%AA%E0%A5%83%E0%A4%A5%E0%A5%8D%E0%A4%B5%E0%A5%80-%E0%A4%95%E0%A4%BE-%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%B5%E0%A4%BE%E0%A4%9A%E0%A5%80-prithvi-paryayvachi-shabd/"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Dingari Lakshmanachary.Acharya’s Ayurvedeeya padartha vigyana. Delhi: Chaukhamba Sanskrit pratisthan;2012.Chapter 07, Pruthvi nirupana;p.54.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#cite_ref-6"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Hari Shastri Paraadakara Vaidya, editor. Ashtanga Hridaya by Vaagbhata with Sarvanga Sundara and Ayurveda Rasayana Commentary. 10th edition. Varanasi: Chaukhambha Orientalia, 2011. Sutra sthana 09/01; p.164.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#cite_ref-7"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Shivprasad Sharma, editor. Ashtanga samgraha by vridha vaagbata with Sasilekha Commentry. 3rd edition. Varanasi: Chowkhambha Sanskrit series office, 2012. Sutra sthana 20/02; p",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#cite_ref-8"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Nalage D H. A study of Samskara and its role in alteration of Pancha-Bhautika composition of Dravya [MD Dissertation]. Jamnagar: Gujarat Ayurved University; 2004",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#cite_ref-9"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Sharma H. Correlation of physiological principles of Ayurveda with spin types of quantum physics. Annals Ayurvedic Med [Internet]. 2018 [cited 2020 Apr 03];7(3-4):72-74. Available from: https://www.aamjournal.in/fulltext/70-1531160335.pdf",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#cite_ref-10"
+                        },
+                        {
+                            "text": "https://www.aamjournal.in/fulltext/70-1531160335.pdf",
+                            "url": "https://www.aamjournal.in/fulltext/70-1531160335.pdf"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Hagelin.J. S. Is Consciousness the Unified Field? A Field Theorist’s Perspective. Modem Science and Vedic Science [Internet]. 1987 [cited 2020 Apr 03];7(1):29-87. Available from: https://www.psychicstudent.com/wp-content/uploads/hagelin.pdf",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#cite_ref-11"
+                        },
+                        {
+                            "text": "https://www.psychicstudent.com/wp-content/uploads/hagelin.pdf",
+                            "url": "https://www.psychicstudent.com/wp-content/uploads/hagelin.pdf"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Dr Raghuram YS, Panchamahabhutas- Application, areas of utility in ayurvedic treatment [Internet]. 2017 [cited 2020 Apr 09]. Available from: https://www.easyayurveda.com/2016/05/24/understanding-concept-panchamahabhuta-application-areas-utility-ayurveda-treatment/",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#cite_ref-12"
+                        },
+                        {
+                            "text": "https://www.easyayurveda.com/2016/05/24/understanding-concept-panchamahabhuta-application-areas-utility-ayurveda-treatment/",
+                            "url": "https://www.easyayurveda.com/2016/05/24/understanding-concept-panchamahabhuta-application-areas-utility-ayurveda-treatment/"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Dr Kusum Malik, Dr Brijesh Mishra. Panchamahabhuta- Aadharbhut Siddhant and their application in Chikitsa. J Ayurveda Integr Med Sci 2018;5:146-150. http://dx.doi.org/10.21760/jaims.v3i5.13833",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#cite_ref-13"
+                        },
+                        {
+                            "text": "http://dx.doi.org/10.21760/jaims.v3i5.13833",
+                            "url": "http://dx.doi.org/10.21760/jaims.v3i5.13833"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Kamath Nagaraj, Kulkarni Pratibha. Critical analysis of panchabhautik organization at cellular level. International Ayurvedic Medical Journal [Internet]. 2014 [cited 2020 Apr 08]; Available from: http://www.iamj.in/posts/images/upload/364_367.pdf",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#cite_ref-14"
+                        },
+                        {
+                            "text": "http://www.iamj.in/posts/images/upload/364_367.pdf",
+                            "url": "http://www.iamj.in/posts/images/upload/364_367.pdf"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Dr Raghuram YS, Panchamahabhutas- Application, areas of utility in ayurvedic treatment [Internet]. 2017 [cited 2020 Apr 09]. Available from: https://www.easyayurveda.com/2016/05/24/understanding-concept-panchamahabhuta-application-areas-utility-ayurveda-treatment/",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#cite_ref-15"
+                        },
+                        {
+                            "text": "https://www.easyayurveda.com/2016/05/24/understanding-concept-panchamahabhuta-application-areas-utility-ayurveda-treatment/",
+                            "url": "https://www.easyayurveda.com/2016/05/24/understanding-concept-panchamahabhuta-application-areas-utility-ayurveda-treatment/"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Shambhu Sharan, Vidyavati Pathak. Concepts of Panchamahabhut at Elemental Level. WJPMR, 2017,3(7), 80-89",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta#cite_ref-16"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "text": "NewPP limit report\nCached time: 20261119044339\nCache expiry: 86400\nReduced expiry: false\nComplications: [vary‐revision‐id, show‐toc]\nCPU time usage: 0.107 seconds\nReal time usage: 0.274 seconds\nPreprocessor visited node count: 375/1000000\nPost‐expand include size: 2103/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 3/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 2501/5000000 bytes\nLua time usage: 0.150/7 seconds\nLua virtual size: 20348928/209715200 bytes\nLua estimated memory usage: 0 bytes"
+        },
+        {
+            "type": "text",
+            "text": "Transclusion expansion time report (%,ms,calls,template)\n100.00% 241.543 1 -total\n95.60% 230.911 1 Template:Infobox\n0.92% 2.216 1 Template:CiteButton"
+        },
+        {
+            "type": "text",
+            "text": "Saved in parser cache with key carakas1_carakasa:pcache:idhash:3210-0!canonical and timestamp 20261119044339 and revision id 44611. Rendering was triggered because: page-view"
+        },
+        {
+            "type": "text",
+            "text": "Retrieved from \""
+        },
+        {
+            "type": "text",
+            "text": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta&oldid=44611"
+        },
+        {
+            "type": "text",
+            "text": "\""
+        },
+        {
+            "type": "text",
+            "text": "Category"
+        },
+        {
+            "type": "text",
+            "text": ":"
+        },
+        {
+            "type": "ul",
+            "text": "Pancha mahabhuta",
+            "html": "<ul><li><a class=\"mw-redirect\" href=\"/index.php?title=Category:Pancha_mahabhuta\" title=\"Category:Pancha mahabhuta\">Pancha mahabhuta</a></li></ul>",
+            "links": [
+                {
+                    "text": "Pancha mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Category:Pancha_mahabhuta"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Pancha mahabhuta",
+                    "links": [
+                        {
+                            "text": "Pancha mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Category:Pancha_mahabhuta"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "html_sha256": "c07ec8b2fc3356b3a23bee4b5235fd5a60161931c32cc124ca40f75c3a7723f9"
+}

@@ -1,0 +1,2802 @@
+{
+    "source": "Charaka Samhita",
+    "chapter": "Dravya",
+    "chapter_id": "Dravya",
+    "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya",
+    "xpath": "//*[@id=\"content\"]",
+    "extraction_date": "2026-11-18T11:16:46",
+    "total_blocks": 116,
+    "total_tables": 1,
+    "total_headings": 16,
+    "total_paragraphs": 70,
+    "content": [
+        {
+            "type": "h1",
+            "text": "Dravya",
+            "html": "<h1 class=\"firstHeading mw-first-heading\" id=\"firstHeading\"><span class=\"mw-page-title-main\">Dravya</span></h1>",
+            "links": [],
+            "images": [],
+            "level": 1
+        },
+        {
+            "type": "text",
+            "text": "From Charak Samhita"
+        },
+        {
+            "type": "text",
+            "text": "Jump to navigation"
+        },
+        {
+            "type": "text",
+            "text": "Jump to search"
+        },
+        {
+            "type": "figure",
+            "text": "",
+            "html": "<figure class=\"mw-default-size mw-halign-right\" typeof=\"mw:File\"><a href=\"https://www.charakasamhitauptodate.com/index.php?title=Special:CiteThisPage&amp;page=Dravya&amp;id=44626&amp;wpFormIdentifier=titleform\" rel=\"nofollow\"><img class=\"mw-file-element\" decoding=\"async\" height=\"47\" src=\"/images/5/58/Cite.png\" width=\"180\"/></a><figcaption></figcaption></figure>",
+            "links": [
+                {
+                    "text": "",
+                    "url": "https://www.charakasamhitauptodate.com/index.php?title=Special:CiteThisPage&page=Dravya&id=44626&wpFormIdentifier=titleform"
+                }
+            ],
+            "images": [
+                {
+                    "url": "https://www.carakasamhitaonline.com/images/5/58/Cite.png",
+                    "alt": "",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "The term ‘dravya’ means matter, substance, or anything with a quality and activity. Dravya is an entity with an inseparable relationship ( samavaya ) with the attributes of quality and action. (SAT-A.176) [ 1 ] Among the six categories (shatpadartha), dravya is essential to understand the existence of the other five categories. Dravya is the basis of any clinical studies as a drug or formulation. It is a cause ( karana ) behind the effect (karya) as per the cause-and-effect theory (karya-karana bhava). In contemporary science, dravya is considered a substratum, matter, or substance. A substratum is the underlying support or foundation. It is a substance that is a permanent subject of qualities or phenomena. It is the material from which something is made and derives its special qualities. It is matter or substance that has mass and occupies space. The universe has countless dravya with multimodal properties. Permutation and combination of dravya and its properties leads to infinite numbers of effects. It becomes challenging to study them separately and to practice them individually. So, dravya are classified in different ways for easy understanding of the dravya for its application in therapeutics.",
+            "html": "<p style=\"text-align:justify;\">The term ‘dravya’ means matter, substance, or anything with a quality and activity. Dravya is an entity with an inseparable relationship (<a href=\"/index.php?title=Samavaya\" title=\"Samavaya\">samavaya</a>) with the attributes of quality and action. (SAT-A.176)<sup class=\"reference\" id=\"cite_ref-1\"><a href=\"#cite_note-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup> Among the six categories (shatpadartha), dravya is essential to understand the existence of the other five categories. Dravya is the basis of any clinical studies as a drug or formulation. It is a cause (<a href=\"/index.php?title=Karana\" title=\"Karana\">karana</a>) behind the effect (karya) as per the cause-and-effect theory (karya-karana bhava). \n<br/>In contemporary science, dravya is considered a substratum, matter, or substance. A substratum is the underlying support or foundation. It is a substance that is a permanent subject of qualities or phenomena. It is the material from which something is made and derives its special qualities.  It is matter or substance that has mass and occupies space.\n<br/>\nThe universe has countless dravya with multimodal properties. Permutation and combination of dravya and its properties leads to infinite numbers of effects.  It becomes challenging to study them separately and to practice them individually. So, dravya are classified in different ways for easy understanding of the dravya for its application in therapeutics. </p>",
+            "links": [
+                {
+                    "text": "samavaya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Samavaya"
+                },
+                {
+                    "text": "[ 1 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#cite_note-1"
+                },
+                {
+                    "text": "karana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Karana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "Section/Chapter/topic",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Concepts / Dravya",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Authors",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Bhojani M.K. 1 , Durga Rani 1 , Tanwar Ankur kumar 1",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Reviewers",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "T.Saketh Ram 2 , Basisht G. 3 , Khandel S.K. 4",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Basisht G.",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Gopal_Basisht"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Editor",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Deole Y.S. 5",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Deole Y.S.",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Yogesh_Deole"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Affiliations",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "1 Department of Kriya Sharira, A.I.I.A. , New Delhi, India 2 National Institute of Indian Medical Heritage, C.C.R.A.S. Hyderabad, India 3 Rheumatologist, Orlando, Florida, U.S.A. 4 Arogyalaxmi Ayurveda Consultancy, Jaipur, India 5 Department of Kayachikitsa, G.J.Patel Institute of Ayurvedic Studies and Research, New Vallabhvidya Nagar, Anand, Gujarat, India",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Correspondence email",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "meera.samhita@aiia.gov.in, carakasamhita@gmail.com",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Publisher",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Charak Samhita Research, Training and Development Centre , I.T.R.A., Jamnagar, India",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Charak Samhita Research, Training and Development Centre",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Date of first publication:",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "June 30, 2022",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "DOI",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "10.47468/CSNE.2022.e01.s09.101",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "10.47468/CSNE.2022.e01.s09.101",
+                                "url": "https://doi.org/10.47468/CSNE.2022.e01.s09.101"
+                            }
+                        ]
+                    }
+                ]
+            ],
+            "html": "<table class=\"infobox\" style=\"width:22em\"><caption>Dravya</caption><tbody><tr><th scope=\"row\">Section/Chapter/topic</th><td>\nConcepts / <a class=\"mw-selflink selflink\">Dravya</a></td></tr><tr><th scope=\"row\">Authors</th><td>\nBhojani M.K.<sup>1</sup>, Durga Rani<sup>1</sup>, Tanwar Ankur kumar<sup>1</sup></td></tr><tr><th scope=\"row\">Reviewers</th><td>\nT.Saketh Ram<sup>2</sup>, <a href=\"/index.php?title=Gopal_Basisht\" title=\"Gopal Basisht\">Basisht G.</a><sup>3</sup>, Khandel S.K.<sup>4</sup></td></tr><tr><th scope=\"row\">Editor</th><td>\n<a href=\"/index.php?title=Yogesh_Deole\" title=\"Yogesh Deole\">Deole Y.S.</a><sup>5</sup></td></tr><tr><th scope=\"row\">Affiliations</th><td>\n<p><sup>1</sup> Department of Kriya Sharira,  A.I.I.A. , New Delhi, India\n</p><p><sup>2</sup>National Institute of Indian Medical Heritage, C.C.R.A.S. Hyderabad, India\n</p><p><sup>3</sup> Rheumatologist, Orlando, Florida, U.S.A.\n<sup>4</sup>Arogyalaxmi Ayurveda Consultancy, Jaipur, India\n</p>\n<sup>5</sup> Department of Kayachikitsa, G.J.Patel Institute of Ayurvedic Studies and Research, New Vallabhvidya Nagar, Anand, Gujarat, India</td></tr><tr><th scope=\"row\">Correspondence email</th><td>\nmeera.samhita@aiia.gov.in, carakasamhita@gmail.com</td></tr><tr><th scope=\"row\">Publisher</th><td>\n<a class=\"mw-redirect\" href=\"/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre\" title=\"Charak Samhita Research, Training and Development Centre\">Charak Samhita Research, Training and Development Centre</a>, I.T.R.A., Jamnagar, India</td></tr><tr><th scope=\"row\">Date of first publication:</th><td>\nJune 30, 2022</td></tr><tr><th scope=\"row\">DOI</th><td>\n<a class=\"external text\" href=\"https://doi.org/10.47468/CSNE.2022.e01.s09.101\" rel=\"nofollow\">10.47468/CSNE.2022.e01.s09.101</a></td></tr></tbody></table>",
+            "links": [
+                {
+                    "text": "Basisht G.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Gopal_Basisht"
+                },
+                {
+                    "text": "Deole Y.S.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Yogesh_Deole"
+                },
+                {
+                    "text": "Charak Samhita Research, Training and Development Centre",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre"
+                },
+                {
+                    "text": "10.47468/CSNE.2022.e01.s09.101",
+                    "url": "https://doi.org/10.47468/CSNE.2022.e01.s09.101"
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Contents",
+            "html": "<h2 id=\"mw-toc-heading\">Contents</h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ul",
+            "text": "1 Etymology & derivation 2 Synonyms 3 Definition 4 Panchabhautikatva of dravya 5 Importance of dravya 6 Classification 7 Methods of drug identification 7.1 Classical method of drug identification 7.2 Current methods of drug identification 8 Current researches 9 Available database of herbs and formulations 10 Future area of research 11 Theses done 12 References",
+            "html": "<ul>\n<li class=\"toclevel-1 tocsection-1\"><a href=\"#Etymology_&amp;_derivation\"><span class=\"tocnumber\">1</span> <span class=\"toctext\">Etymology &amp; derivation</span></a></li>\n<li class=\"toclevel-1 tocsection-2\"><a href=\"#Synonyms\"><span class=\"tocnumber\">2</span> <span class=\"toctext\">Synonyms</span></a></li>\n<li class=\"toclevel-1 tocsection-3\"><a href=\"#Definition\"><span class=\"tocnumber\">3</span> <span class=\"toctext\">Definition</span></a></li>\n<li class=\"toclevel-1 tocsection-4\"><a href=\"#Panchabhautikatva_of_dravya\"><span class=\"tocnumber\">4</span> <span class=\"toctext\">Panchabhautikatva of dravya</span></a></li>\n<li class=\"toclevel-1 tocsection-5\"><a href=\"#Importance_of_dravya\"><span class=\"tocnumber\">5</span> <span class=\"toctext\">Importance of dravya</span></a></li>\n<li class=\"toclevel-1 tocsection-6\"><a href=\"#Classification\"><span class=\"tocnumber\">6</span> <span class=\"toctext\">Classification</span></a></li>\n<li class=\"toclevel-1 tocsection-7\"><a href=\"#Methods_of_drug_identification\"><span class=\"tocnumber\">7</span> <span class=\"toctext\">Methods of drug identification</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-8\"><a href=\"#Classical_method_of_drug_identification\"><span class=\"tocnumber\">7.1</span> <span class=\"toctext\">Classical method of drug identification</span></a></li>\n<li class=\"toclevel-2 tocsection-9\"><a href=\"#Current_methods_of_drug_identification\"><span class=\"tocnumber\">7.2</span> <span class=\"toctext\">Current methods of drug identification</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-10\"><a href=\"#Current_researches\"><span class=\"tocnumber\">8</span> <span class=\"toctext\">Current researches</span></a></li>\n<li class=\"toclevel-1 tocsection-11\"><a href=\"#Available_database_of_herbs_and_formulations\"><span class=\"tocnumber\">9</span> <span class=\"toctext\">Available database of herbs and formulations</span></a></li>\n<li class=\"toclevel-1 tocsection-12\"><a href=\"#Future_area_of_research\"><span class=\"tocnumber\">10</span> <span class=\"toctext\">Future area of research</span></a></li>\n<li class=\"toclevel-1 tocsection-13\"><a href=\"#Theses_done\"><span class=\"tocnumber\">11</span> <span class=\"toctext\">Theses done</span></a></li>\n<li class=\"toclevel-1 tocsection-14\"><a href=\"#References\"><span class=\"tocnumber\">12</span> <span class=\"toctext\">References</span></a></li>\n</ul>",
+            "links": [
+                {
+                    "text": "1 Etymology & derivation",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#Etymology_&_derivation"
+                },
+                {
+                    "text": "2 Synonyms",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#Synonyms"
+                },
+                {
+                    "text": "3 Definition",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#Definition"
+                },
+                {
+                    "text": "4 Panchabhautikatva of dravya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#Panchabhautikatva_of_dravya"
+                },
+                {
+                    "text": "5 Importance of dravya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#Importance_of_dravya"
+                },
+                {
+                    "text": "6 Classification",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#Classification"
+                },
+                {
+                    "text": "7 Methods of drug identification",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#Methods_of_drug_identification"
+                },
+                {
+                    "text": "7.1 Classical method of drug identification",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#Classical_method_of_drug_identification"
+                },
+                {
+                    "text": "7.2 Current methods of drug identification",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#Current_methods_of_drug_identification"
+                },
+                {
+                    "text": "8 Current researches",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#Current_researches"
+                },
+                {
+                    "text": "9 Available database of herbs and formulations",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#Available_database_of_herbs_and_formulations"
+                },
+                {
+                    "text": "10 Future area of research",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#Future_area_of_research"
+                },
+                {
+                    "text": "11 Theses done",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#Theses_done"
+                },
+                {
+                    "text": "12 References",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#References"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "1 Etymology & derivation",
+                    "links": [
+                        {
+                            "text": "1 Etymology & derivation",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#Etymology_&_derivation"
+                        }
+                    ]
+                },
+                {
+                    "text": "2 Synonyms",
+                    "links": [
+                        {
+                            "text": "2 Synonyms",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#Synonyms"
+                        }
+                    ]
+                },
+                {
+                    "text": "3 Definition",
+                    "links": [
+                        {
+                            "text": "3 Definition",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#Definition"
+                        }
+                    ]
+                },
+                {
+                    "text": "4 Panchabhautikatva of dravya",
+                    "links": [
+                        {
+                            "text": "4 Panchabhautikatva of dravya",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#Panchabhautikatva_of_dravya"
+                        }
+                    ]
+                },
+                {
+                    "text": "5 Importance of dravya",
+                    "links": [
+                        {
+                            "text": "5 Importance of dravya",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#Importance_of_dravya"
+                        }
+                    ]
+                },
+                {
+                    "text": "6 Classification",
+                    "links": [
+                        {
+                            "text": "6 Classification",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#Classification"
+                        }
+                    ]
+                },
+                {
+                    "text": "7 Methods of drug identification 7.1 Classical method of drug identification 7.2 Current methods of drug identification",
+                    "links": [
+                        {
+                            "text": "7 Methods of drug identification",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#Methods_of_drug_identification"
+                        },
+                        {
+                            "text": "7.1 Classical method of drug identification",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#Classical_method_of_drug_identification"
+                        },
+                        {
+                            "text": "7.2 Current methods of drug identification",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#Current_methods_of_drug_identification"
+                        }
+                    ]
+                },
+                {
+                    "text": "8 Current researches",
+                    "links": [
+                        {
+                            "text": "8 Current researches",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#Current_researches"
+                        }
+                    ]
+                },
+                {
+                    "text": "9 Available database of herbs and formulations",
+                    "links": [
+                        {
+                            "text": "9 Available database of herbs and formulations",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#Available_database_of_herbs_and_formulations"
+                        }
+                    ]
+                },
+                {
+                    "text": "10 Future area of research",
+                    "links": [
+                        {
+                            "text": "10 Future area of research",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#Future_area_of_research"
+                        }
+                    ]
+                },
+                {
+                    "text": "11 Theses done",
+                    "links": [
+                        {
+                            "text": "11 Theses done",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#Theses_done"
+                        }
+                    ]
+                },
+                {
+                    "text": "12 References",
+                    "links": [
+                        {
+                            "text": "12 References",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#References"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Etymology & derivation",
+            "html": "<h2><span id=\"Etymology_.26_derivation\"></span><span class=\"mw-headline\" id=\"Etymology_&amp;_derivation\">Etymology &amp; derivation</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "The Sanskrit word ‘dravya’ is derived from ‘dru-gatau’ dhatu (verb) having ‘yat’ pratyaya (suffix). It means anything which has movement and attainment or which changes to resultant.",
+            "html": "<p>The Sanskrit word ‘dravya’ is derived from ‘dru-gatau’ dhatu (verb) having ‘yat’ pratyaya (suffix). It means anything which has movement and attainment or which changes to resultant.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Synonyms",
+            "html": "<h2><span class=\"mw-headline\" id=\"Synonyms\">Synonyms</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "Vitta, dhana, vasu, sadhana, grantha, drug, elementary substance, wealth, properties, modesty, medication or anything used in medicine.",
+            "html": "<p>Vitta, dhana, vasu, sadhana, grantha, drug, elementary substance, wealth, properties, modesty, medication or anything used in medicine.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Definition",
+            "html": "<h2><span class=\"mw-headline\" id=\"Definition\">Definition</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "Dravya is the substratum that shelters quality ( guna ) and action ( karma ) in an inseparable relationship (samavayisambandha) with each other. [Cha.Sa. Sutra Sthana 1/51] [Vaisheshik Darshan.1/4] [ 2 ] [Su.Sa.Sutra Sthana 40/3] [ 3 ]",
+            "html": "<p>Dravya is the substratum that shelters quality (<a href=\"/index.php?title=Guna\" title=\"Guna\">guna</a>) and action (<a href=\"/index.php?title=Karma\" title=\"Karma\">karma</a>) in an inseparable relationship (samavayisambandha) with each other. [Cha.Sa.<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 1/51] [Vaisheshik Darshan.1/4]<sup class=\"reference\" id=\"cite_ref-Va.D_2-0\"><a href=\"#cite_note-Va.D-2\"><span class=\"cite-bracket\">[</span>2<span class=\"cite-bracket\">]</span></a></sup> [Su.Sa.Sutra Sthana 40/3]<sup class=\"reference\" id=\"cite_ref-Susruta_3-0\"><a href=\"#cite_note-Susruta-3\"><span class=\"cite-bracket\">[</span>3<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "guna",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Guna"
+                },
+                {
+                    "text": "karma",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Karma"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "[ 2 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#cite_note-Va.D-2"
+                },
+                {
+                    "text": "[ 3 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#cite_note-Susruta-3"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Panchabhautikatva of dravya",
+            "html": "<h2><span class=\"mw-headline\" id=\"Panchabhautikatva_of_dravya\">Panchabhautikatva of dravya</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "All dravyas have a specific composition of panchamahabhuta with an appropriate combination and separation (samyoga and vibhaga). There is a dominance of a particular mahabhuta . This defines them as akashiya ( akasha dominant), vayavya ( vayu dominant), agneya ( agni dominant), apya ( apa dominant) and parthiva ( prithvi dominant).[Vaisheshik Darshan. 1/5] [ 2 ]",
+            "html": "<p>All dravyas have a specific composition of <a class=\"mw-redirect\" href=\"/index.php?title=Panchamahabhuta\" title=\"Panchamahabhuta\">panchamahabhuta</a> with an appropriate combination and separation (samyoga and vibhaga). There is a dominance of a particular <a class=\"mw-redirect\" href=\"/index.php?title=Mahabhuta\" title=\"Mahabhuta\">mahabhuta</a>. This defines them as akashiya (<a class=\"mw-redirect\" href=\"/index.php?title=Akasha\" title=\"Akasha\">akasha</a> dominant), vayavya (<a class=\"mw-redirect\" href=\"/index.php?title=Vayu\" title=\"Vayu\">vayu</a> dominant), agneya (<a href=\"/index.php?title=Agni\" title=\"Agni\">agni</a> dominant), apya (<a class=\"mw-redirect\" href=\"/index.php?title=Apa\" title=\"Apa\">apa</a> dominant) and parthiva (<a class=\"mw-redirect\" href=\"/index.php?title=Prithvi\" title=\"Prithvi\">prithvi</a> dominant).[Vaisheshik Darshan. 1/5]<sup class=\"reference\" id=\"cite_ref-Va.D_2-1\"><a href=\"#cite_note-Va.D-2\"><span class=\"cite-bracket\">[</span>2<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "panchamahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Panchamahabhuta"
+                },
+                {
+                    "text": "mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahabhuta"
+                },
+                {
+                    "text": "akasha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha"
+                },
+                {
+                    "text": "vayu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu"
+                },
+                {
+                    "text": "agni",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni"
+                },
+                {
+                    "text": "apa",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Apa"
+                },
+                {
+                    "text": "prithvi",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi"
+                },
+                {
+                    "text": "[ 2 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#cite_note-Va.D-2"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Importance of dravya",
+            "html": "<h2><span class=\"mw-headline\" id=\"Importance_of_dravya\">Importance of dravya</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "The importance of dravya is described through multiple assumptions. No transformation (paka) can occur without potency ( veerya ); no potency ( veerya ) without tastes ( rasa ) and no tastes ( rasa ) without dravya. Thus, dravya is the substratum of all the padartha like, rasa , guna etc. The seven padartha are responsible for actions ( karma ) that reside in the dravya. They do not have independent existence without dravya. Therefore, dravya is most important in all padartha .",
+            "html": "<p>The importance of dravya is described through multiple assumptions. No transformation (paka) can occur without potency (<a href=\"/index.php?title=Veerya\" title=\"Veerya\">veerya</a>); no potency (<a href=\"/index.php?title=Veerya\" title=\"Veerya\">veerya</a>) without tastes (<a href=\"/index.php?title=Rasa\" title=\"Rasa\">rasa</a>) and no tastes (<a href=\"/index.php?title=Rasa\" title=\"Rasa\">rasa</a>) without dravya. Thus, dravya is the substratum of all the <a href=\"/index.php?title=Padartha\" title=\"Padartha\">padartha</a> like, <a href=\"/index.php?title=Rasa\" title=\"Rasa\">rasa</a>, <a href=\"/index.php?title=Guna\" title=\"Guna\">guna</a> etc. The seven <a href=\"/index.php?title=Padartha\" title=\"Padartha\">padartha</a> are responsible for actions (<a href=\"/index.php?title=Karma\" title=\"Karma\">karma</a>) that reside in the dravya. They do not have independent existence without dravya. Therefore, dravya is most important in all <a href=\"/index.php?title=Padartha\" title=\"Padartha\">padartha</a>.\n</p>",
+            "links": [
+                {
+                    "text": "veerya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Veerya"
+                },
+                {
+                    "text": "veerya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Veerya"
+                },
+                {
+                    "text": "rasa",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa"
+                },
+                {
+                    "text": "rasa",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa"
+                },
+                {
+                    "text": "padartha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Padartha"
+                },
+                {
+                    "text": "rasa",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa"
+                },
+                {
+                    "text": "guna",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Guna"
+                },
+                {
+                    "text": "padartha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Padartha"
+                },
+                {
+                    "text": "karma",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Karma"
+                },
+                {
+                    "text": "padartha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Padartha"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Guna residing in a dravya is like soul living in a body. The body gives shelter to soul and manifests its various desires and qualities. Dravya gives support to rasa and guna , and manifests its actions or effects. Hence, the dravya is considered as prime (pradhana) in all padartha .[Su. Sa. Sutra Sthana 40/3] [ 3 ]",
+            "html": "<p><a href=\"/index.php?title=Guna\" title=\"Guna\">Guna</a> residing in a dravya is like soul living in a body. The body gives shelter to soul and manifests its various desires and qualities. Dravya gives support to <a href=\"/index.php?title=Rasa\" title=\"Rasa\">rasa</a> and <a href=\"/index.php?title=Guna\" title=\"Guna\">guna</a>, and manifests its actions or effects. Hence, the dravya is considered as prime (pradhana) in all <a href=\"/index.php?title=Padartha\" title=\"Padartha\">padartha</a>.[Su. Sa. Sutra Sthana 40/3]<sup class=\"reference\" id=\"cite_ref-Susruta_3-1\"><a href=\"#cite_note-Susruta-3\"><span class=\"cite-bracket\">[</span>3<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "Guna",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Guna"
+                },
+                {
+                    "text": "rasa",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa"
+                },
+                {
+                    "text": "guna",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Guna"
+                },
+                {
+                    "text": "padartha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Padartha"
+                },
+                {
+                    "text": "[ 3 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#cite_note-Susruta-3"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The reasons for the importance of dravya are described below. [Su. Sa. Sutra Sthana 40/3] [ 3 ]",
+            "html": "<p>The reasons for the importance of dravya are described below. [Su. Sa. Sutra Sthana 40/3]<sup class=\"reference\" id=\"cite_ref-Susruta_3-2\"><a href=\"#cite_note-Susruta-3\"><span class=\"cite-bracket\">[</span>3<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 3 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#cite_note-Susruta-3"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "ol",
+            "text": "Specific stability (vyavasthitatva): Dravya is fixed & stable. But the rasas are not stable and can change. e.g. The rasa of an unripe fruit may not be observed in the ripe one due to physiochemical changes concerning time. Whereas the drug or dravya remains the same. Eternity (nityatva): The dravya is eternal due to its constant nature. While properties may be changed to different forms like paste or decoction, cold and hot infusion. It means, in various preparations, the drug is the same but other properties are inconstant. Therefore, dravya is considered to be of primary importance. Geno-specificity (svajatyavasthanatva): The substance belonging to a group remains the same. It will not change to another. Drugs in prithvi mahabhuta remain as parthiva and do not become apya or any other. Perceived through all the senses (panchendriyagrahyatva): Dravya is perceptible through all the sense organs. However, the rasa and guna cannot be assessed by all the sense organs. The rasa is only perceived by gustatory sense, and more than one sense can assess guna . Abode (ashrayatva): Dravya gives shelter to the five padartha i.e. rasa , guna , veerya , vipaka , and prabhava . Initiation of treatment (arambhasamarthya): Dravya is selected for treatment procedures. Dravya is considered for initiation of a specific pharmacological action used in treatment. Classical reference (shashtrapramanya): Ancient classical literature described the properties and actions of different dravya and their utilities in therapeutics. Even though the properties are responsible for depletion or increase of dosha , properties are not directly indicated for treatment. Degree of the maturity of drug and qualities (karmaapeksitatva): Rasadi constituents of dravya depend on dravya itself. In an immature state, constituents residing in the dravya are also immature. As the dravya matures, the rasadi constituents change to acquire the mature state. Utility or fractionalization (ekdeshasadhyatva): A different part of dravya can be used for treatment, while rasadi cannot be used partly. E.g. latex of Euphorbia nerifolia L. ( snuhi ) can be used in many diseases, but its rasa cannot be. No-grading (taratamayoganupalabdhi): Gradation of properties (tara tamayoga) is only seen in rasa and guna (like madhuratara, madhuratama and laghutara and laghutama grading according to mild, moderate and severe). This kind of grading is not possible with dravya. So, the constituents may vary in nature. Dravya remains stable, therefore, dravya is important. Possibility of various formulations (vikalpa samarthya): Dravya can be utilized in multiple formulations like paste, decoctions, juice, powder, etc. But the rasa , guna cannot be used in this manner. Occupying the space (pratighata samarthya): Among all the constituents, dravya is the only one that possesses some definite form, shape, and structure, and occupies the space while others do not. Hence dravya is stated to be superior.",
+            "html": "<ol><li>Specific stability (vyavasthitatva): Dravya is fixed &amp; stable. But the <a href=\"/index.php?title=Rasa\" title=\"Rasa\">rasas</a> are not stable and can change. e.g. The <a href=\"/index.php?title=Rasa\" title=\"Rasa\">rasa</a> of an unripe fruit may not be observed in the ripe one due to physiochemical changes concerning time. Whereas the drug or dravya remains the same.</li>\n<li>Eternity (nityatva): The dravya is eternal due to its constant nature. While properties may be changed to different forms like paste or decoction, cold and hot infusion. It means, in various preparations, the drug is the same but other properties are inconstant. Therefore, dravya is considered to be of primary importance.</li>\n<li>Geno-specificity (svajatyavasthanatva): The substance belonging to a group remains the same. It will not change to another. Drugs in <a href=\"/index.php?title=Prithvi_mahabhuta\" title=\"Prithvi mahabhuta\">prithvi mahabhuta</a> remain as parthiva and do not become apya or any other.</li>\n<li>Perceived through all the senses (panchendriyagrahyatva):  Dravya is perceptible through all the sense organs. However, the <a href=\"/index.php?title=Rasa\" title=\"Rasa\">rasa</a> and <a href=\"/index.php?title=Guna\" title=\"Guna\">guna</a> cannot be assessed by all the sense organs. The <a href=\"/index.php?title=Rasa\" title=\"Rasa\">rasa</a> is only perceived by gustatory sense, and more than one sense can assess <a href=\"/index.php?title=Guna\" title=\"Guna\">guna</a>.</li>\n<li>Abode (ashrayatva): Dravya gives shelter to the five <a href=\"/index.php?title=Padartha\" title=\"Padartha\">padartha</a> i.e. <a href=\"/index.php?title=Rasa\" title=\"Rasa\">rasa</a>, <a href=\"/index.php?title=Guna\" title=\"Guna\">guna</a>, <a href=\"/index.php?title=Veerya\" title=\"Veerya\">veerya</a>, <a href=\"/index.php?title=Vipaka\" title=\"Vipaka\">vipaka</a>, and <a href=\"/index.php?title=Prabhava\" title=\"Prabhava\">prabhava</a>.</li>\n<li>Initiation of treatment (arambhasamarthya): Dravya is selected for treatment procedures. Dravya is considered for initiation of a specific pharmacological action used in treatment.</li>\n<li>Classical reference (shashtrapramanya): Ancient classical literature described the properties and actions of different dravya and their utilities in therapeutics. Even though the properties are responsible for depletion or increase of <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a>, properties are not directly indicated for treatment.</li>\n<li>Degree of the maturity of drug and qualities (karmaapeksitatva): Rasadi constituents of dravya depend on dravya itself. In an immature state, constituents residing in the dravya are also immature. As the dravya matures, the rasadi constituents change to acquire the mature state.</li>\n<li>Utility or fractionalization (ekdeshasadhyatva): A different part of dravya can be used for treatment, while rasadi cannot be used partly. E.g. latex of Euphorbia nerifolia L. (<a href=\"/index.php?title=Snuhi\" title=\"Snuhi\">snuhi</a>) can be used in many diseases, but its <a href=\"/index.php?title=Rasa\" title=\"Rasa\">rasa</a> cannot be.</li>\n<li>No-grading (taratamayoganupalabdhi): Gradation of properties (tara tamayoga) is only seen in <a href=\"/index.php?title=Rasa\" title=\"Rasa\">rasa</a> and <a href=\"/index.php?title=Guna\" title=\"Guna\">guna</a> (like madhuratara, madhuratama and laghutara and laghutama grading according to mild, moderate and severe). This kind of grading is not possible with dravya. So, the constituents may vary in nature. Dravya remains stable, therefore, dravya is important.</li>\n<li>Possibility of various formulations (vikalpa samarthya): Dravya can be utilized in multiple formulations like paste, decoctions, juice, powder, etc. But the <a href=\"/index.php?title=Rasa\" title=\"Rasa\">rasa</a> , <a href=\"/index.php?title=Guna\" title=\"Guna\">guna</a> cannot be used in this manner.</li>\n<li>Occupying the space (pratighata samarthya): Among all the constituents, dravya is the only one that possesses some definite form, shape, and structure, and occupies the space while others do not. Hence dravya is stated to be superior.</li></ol>",
+            "links": [
+                {
+                    "text": "rasas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa"
+                },
+                {
+                    "text": "rasa",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa"
+                },
+                {
+                    "text": "prithvi mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta"
+                },
+                {
+                    "text": "rasa",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa"
+                },
+                {
+                    "text": "guna",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Guna"
+                },
+                {
+                    "text": "rasa",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa"
+                },
+                {
+                    "text": "guna",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Guna"
+                },
+                {
+                    "text": "padartha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Padartha"
+                },
+                {
+                    "text": "rasa",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa"
+                },
+                {
+                    "text": "guna",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Guna"
+                },
+                {
+                    "text": "veerya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Veerya"
+                },
+                {
+                    "text": "vipaka",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vipaka"
+                },
+                {
+                    "text": "prabhava",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prabhava"
+                },
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "snuhi",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Snuhi"
+                },
+                {
+                    "text": "rasa",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa"
+                },
+                {
+                    "text": "rasa",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa"
+                },
+                {
+                    "text": "guna",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Guna"
+                },
+                {
+                    "text": "rasa",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa"
+                },
+                {
+                    "text": "guna",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Guna"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Specific stability (vyavasthitatva): Dravya is fixed & stable. But the rasas are not stable and can change. e.g. The rasa of an unripe fruit may not be observed in the ripe one due to physiochemical changes concerning time. Whereas the drug or dravya remains the same.",
+                    "links": [
+                        {
+                            "text": "rasas",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa"
+                        },
+                        {
+                            "text": "rasa",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa"
+                        }
+                    ]
+                },
+                {
+                    "text": "Eternity (nityatva): The dravya is eternal due to its constant nature. While properties may be changed to different forms like paste or decoction, cold and hot infusion. It means, in various preparations, the drug is the same but other properties are inconstant. Therefore, dravya is considered to be of primary importance.",
+                    "links": []
+                },
+                {
+                    "text": "Geno-specificity (svajatyavasthanatva): The substance belonging to a group remains the same. It will not change to another. Drugs in prithvi mahabhuta remain as parthiva and do not become apya or any other.",
+                    "links": [
+                        {
+                            "text": "prithvi mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta"
+                        }
+                    ]
+                },
+                {
+                    "text": "Perceived through all the senses (panchendriyagrahyatva): Dravya is perceptible through all the sense organs. However, the rasa and guna cannot be assessed by all the sense organs. The rasa is only perceived by gustatory sense, and more than one sense can assess guna .",
+                    "links": [
+                        {
+                            "text": "rasa",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa"
+                        },
+                        {
+                            "text": "guna",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Guna"
+                        },
+                        {
+                            "text": "rasa",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa"
+                        },
+                        {
+                            "text": "guna",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Guna"
+                        }
+                    ]
+                },
+                {
+                    "text": "Abode (ashrayatva): Dravya gives shelter to the five padartha i.e. rasa , guna , veerya , vipaka , and prabhava .",
+                    "links": [
+                        {
+                            "text": "padartha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Padartha"
+                        },
+                        {
+                            "text": "rasa",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa"
+                        },
+                        {
+                            "text": "guna",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Guna"
+                        },
+                        {
+                            "text": "veerya",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Veerya"
+                        },
+                        {
+                            "text": "vipaka",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vipaka"
+                        },
+                        {
+                            "text": "prabhava",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prabhava"
+                        }
+                    ]
+                },
+                {
+                    "text": "Initiation of treatment (arambhasamarthya): Dravya is selected for treatment procedures. Dravya is considered for initiation of a specific pharmacological action used in treatment.",
+                    "links": []
+                },
+                {
+                    "text": "Classical reference (shashtrapramanya): Ancient classical literature described the properties and actions of different dravya and their utilities in therapeutics. Even though the properties are responsible for depletion or increase of dosha , properties are not directly indicated for treatment.",
+                    "links": [
+                        {
+                            "text": "dosha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                        }
+                    ]
+                },
+                {
+                    "text": "Degree of the maturity of drug and qualities (karmaapeksitatva): Rasadi constituents of dravya depend on dravya itself. In an immature state, constituents residing in the dravya are also immature. As the dravya matures, the rasadi constituents change to acquire the mature state.",
+                    "links": []
+                },
+                {
+                    "text": "Utility or fractionalization (ekdeshasadhyatva): A different part of dravya can be used for treatment, while rasadi cannot be used partly. E.g. latex of Euphorbia nerifolia L. ( snuhi ) can be used in many diseases, but its rasa cannot be.",
+                    "links": [
+                        {
+                            "text": "snuhi",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Snuhi"
+                        },
+                        {
+                            "text": "rasa",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa"
+                        }
+                    ]
+                },
+                {
+                    "text": "No-grading (taratamayoganupalabdhi): Gradation of properties (tara tamayoga) is only seen in rasa and guna (like madhuratara, madhuratama and laghutara and laghutama grading according to mild, moderate and severe). This kind of grading is not possible with dravya. So, the constituents may vary in nature. Dravya remains stable, therefore, dravya is important.",
+                    "links": [
+                        {
+                            "text": "rasa",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa"
+                        },
+                        {
+                            "text": "guna",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Guna"
+                        }
+                    ]
+                },
+                {
+                    "text": "Possibility of various formulations (vikalpa samarthya): Dravya can be utilized in multiple formulations like paste, decoctions, juice, powder, etc. But the rasa , guna cannot be used in this manner.",
+                    "links": [
+                        {
+                            "text": "rasa",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa"
+                        },
+                        {
+                            "text": "guna",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Guna"
+                        }
+                    ]
+                },
+                {
+                    "text": "Occupying the space (pratighata samarthya): Among all the constituents, dravya is the only one that possesses some definite form, shape, and structure, and occupies the space while others do not. Hence dravya is stated to be superior.",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Classification",
+            "html": "<h2><span class=\"mw-headline\" id=\"Classification\">Classification</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "Two fold classification: Karana dravya and karya dravya [Cha.Sa. Sutra Sthana 1/48]",
+            "html": "<p>Two fold classification: Karana dravya and karya dravya [Cha.Sa.<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 1/48]\n</p>",
+            "links": [
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Karana dravya",
+            "html": "<p><b>Karana dravya</b>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Karana dravyas are the causative factors that are responsible for all results.[Cha.Sa. Sutra Sthana 1/48] There are nine karana dravyas described by Charak, Sushruta, Nyaya, Vaisheshik darshan for any creation (karyautpatti). They are - Akasha , vayu , agni , jala , prithvi , atma , manas , kala , and disha .",
+            "html": "<p>Karana dravyas are the causative factors that are responsible for all results.[Cha.Sa.<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 1/48] There are nine karana dravyas described by Charak, Sushruta, Nyaya, Vaisheshik darshan for any creation (karyautpatti). They are - <a class=\"mw-redirect\" href=\"/index.php?title=Akasha\" title=\"Akasha\">Akasha</a>, <a class=\"mw-redirect\" href=\"/index.php?title=Vayu\" title=\"Vayu\">vayu</a>, <a href=\"/index.php?title=Agni\" title=\"Agni\">agni</a>, <a class=\"mw-redirect\" href=\"/index.php?title=Jala\" title=\"Jala\">jala</a>, <a class=\"mw-redirect\" href=\"/index.php?title=Prithvi\" title=\"Prithvi\">prithvi</a>, <a href=\"/index.php?title=Atma\" title=\"Atma\">atma</a>, <a href=\"/index.php?title=Manas\" title=\"Manas\">manas</a>, <a href=\"/index.php?title=Kala\" title=\"Kala\">kala</a>, and <a href=\"/index.php?title=Disha\" title=\"Disha\">disha</a>.\n</p>",
+            "links": [
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "Akasha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha"
+                },
+                {
+                    "text": "vayu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu"
+                },
+                {
+                    "text": "agni",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni"
+                },
+                {
+                    "text": "jala",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Jala"
+                },
+                {
+                    "text": "prithvi",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi"
+                },
+                {
+                    "text": "atma",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Atma"
+                },
+                {
+                    "text": "manas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Manas"
+                },
+                {
+                    "text": "kala",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kala"
+                },
+                {
+                    "text": "disha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Disha"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Karya dravya",
+            "html": "<p><b>Karya dravya</b>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "All karya dravya in the universe is the result of karana dravya.[Cha.Sa. Sutra Sthana 26/20] Karana dravya is the causative factor behind any action, whether visible or not visible. Karya dravya has its further classification.",
+            "html": "<p>All karya dravya in the universe is the result of karana dravya.[Cha.Sa.<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 26/20] Karana dravya is the causative factor behind any action, whether visible or not visible. Karya dravya has its further classification.\n</p>",
+            "links": [
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Chetana dravya (living or with consciousness): All living substances with sense organs show visible internal and external activities categorized under chetana dravyas.[Cha.Sa. Sutra Sthana 1/48] [Cha.Sa. Sutra Sthana 26/10]",
+            "html": "<p><b>Chetana dravya (living or with consciousness):</b> All living substances with sense organs show visible internal and external activities categorized under chetana dravyas.[Cha.Sa.<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 1/48] [Cha.Sa.<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 26/10]\n</p>",
+            "links": [
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "a) Antaschetana (plant kingdom): Antaschetana are those substances that only have internal consciousness and activity. They are devoid of sense organs. They were classified into four groups- [Cha.Sa. Sutra Sthana 1/72] [Su.Sa.Sutra Sthana 1/29] [ 3 ]",
+            "html": "<p>a) Antaschetana (plant kingdom): Antaschetana are those substances that only have internal consciousness and activity. They are devoid of sense organs. They were classified into four groups- [Cha.Sa.<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 1/72] [Su.Sa.Sutra Sthana 1/29]<sup class=\"reference\" id=\"cite_ref-Susruta_3-3\"><a href=\"#cite_note-Susruta-3\"><span class=\"cite-bracket\">[</span>3<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "[ 3 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#cite_note-Susruta-3"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "ol",
+            "text": "Vanaspati: Trees that bear fruit without having a flower come under vanaspati. e.g. Ficus bengalensis (vata) and Ficus racemosa (udumbara) etc. Vanaspatya: Trees that have fruits and flowers are called vanaspatya or vriksha. e.g. Mangifera indica Linn. (amra) and Syzygium cumini (jamuna). Virudha: Those plants whose branches twine and crawl around the tree or any other objects come under virudha. It has two types- lata and gulma (climbers and shrubs). e.g. Tinospora cordifolia ( guduchi ). Aushadha: Plants that perish after yielding their mature fruits are called aushadha. e.g. wheat, pulses and rice.",
+            "html": "<ol><li>Vanaspati: Trees that bear fruit without having a flower come under vanaspati. e.g. Ficus bengalensis (vata) and Ficus racemosa (udumbara) etc.</li>\n<li>Vanaspatya: Trees that have fruits and flowers are called vanaspatya or vriksha. e.g. Mangifera indica Linn. (amra) and Syzygium cumini (jamuna).</li>\n<li>Virudha: Those plants whose branches twine and crawl around the tree or any other objects come under virudha. It has two types- lata and gulma (climbers and shrubs). e.g. Tinospora cordifolia (<a href=\"/index.php?title=Guduchi\" title=\"Guduchi\">guduchi</a>).</li>\n<li>Aushadha: Plants that perish after yielding their mature fruits are called aushadha. e.g. wheat, pulses and rice.</li></ol>",
+            "links": [
+                {
+                    "text": "guduchi",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Guduchi"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Vanaspati: Trees that bear fruit without having a flower come under vanaspati. e.g. Ficus bengalensis (vata) and Ficus racemosa (udumbara) etc.",
+                    "links": []
+                },
+                {
+                    "text": "Vanaspatya: Trees that have fruits and flowers are called vanaspatya or vriksha. e.g. Mangifera indica Linn. (amra) and Syzygium cumini (jamuna).",
+                    "links": []
+                },
+                {
+                    "text": "Virudha: Those plants whose branches twine and crawl around the tree or any other objects come under virudha. It has two types- lata and gulma (climbers and shrubs). e.g. Tinospora cordifolia ( guduchi ).",
+                    "links": [
+                        {
+                            "text": "guduchi",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Guduchi"
+                        }
+                    ]
+                },
+                {
+                    "text": "Aushadha: Plants that perish after yielding their mature fruits are called aushadha. e.g. wheat, pulses and rice.",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "b) Bahischetana (jangam dravya or animal kingdom): They are substances with internal and external consciousness and activity with all the sense organs.[Su.Sa.Sutra Sthana 1/30] [ 3 ]",
+            "html": "<p>b) Bahischetana (jangam dravya or animal kingdom): They are substances with internal and external consciousness and activity with all the sense organs.[Su.Sa.Sutra Sthana 1/30]<sup class=\"reference\" id=\"cite_ref-Susruta_3-4\"><a href=\"#cite_note-Susruta-3\"><span class=\"cite-bracket\">[</span>3<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 3 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#cite_note-Susruta-3"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "They are further classified into four groups",
+            "html": "<p>They are further classified into four groups\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "ol",
+            "text": "Jarayuja: Living beings that take birth from the placenta e.g. Human and Mammals. Andaja: Those who reproduce through the eggs. e.g. Birds. Swedaja: They take birth from sweat or moisture. e.g. Lice (yuka), Likha, parasites/micro-organisms (krimi). Udbhija: Creatures that come out of earth or soil. e.g. Earthworm (indragopa) & frog (manduka).",
+            "html": "<ol><li>Jarayuja: Living beings that take birth from the placenta e.g. Human and Mammals.</li>\n<li>Andaja: Those who reproduce through the eggs. e.g. Birds.</li>\n<li>Swedaja: They take birth from sweat or moisture.  e.g. Lice (yuka), Likha, parasites/micro-organisms (krimi).</li>\n<li>Udbhija: Creatures that come out of earth or soil. e.g. Earthworm (indragopa) &amp; frog (manduka).</li></ol>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Jarayuja: Living beings that take birth from the placenta e.g. Human and Mammals.",
+                    "links": []
+                },
+                {
+                    "text": "Andaja: Those who reproduce through the eggs. e.g. Birds.",
+                    "links": []
+                },
+                {
+                    "text": "Swedaja: They take birth from sweat or moisture. e.g. Lice (yuka), Likha, parasites/micro-organisms (krimi).",
+                    "links": []
+                },
+                {
+                    "text": "Udbhija: Creatures that come out of earth or soil. e.g. Earthworm (indragopa) & frog (manduka).",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Achetana dravya (non living): All non-living substances which are devoid of sense organs are categorized under achetana dravyas.\n[Cha.Sa. Sutra Sthana 1/48][Cha.Sa. Sutra Sthana 26/10].",
+            "html": "<p><b>Achetana dravya (non living):</b> All non-living substances which are devoid of sense organs are categorized under achetana dravyas.\n[Cha.Sa.<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 1/48][Cha.Sa.<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 26/10].\n</p>",
+            "links": [
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "They are of two kinds:",
+            "html": "<p>They are of two kinds:\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "a) Khanija (minerals): All minerals come under the khanija category. E.g. gold",
+            "html": "<p>a)\tKhanija (minerals): All minerals come under the khanija category. E.g. gold\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "b) Kritrima (artificial): Kritrima is an artificially generated substance.",
+            "html": "<p>b)\tKritrima (artificial): Kritrima is an artificially generated substance.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Classification according to doshakarma [Cha.Sa. Sutra Sthana 1/67]",
+            "html": "<p><b>Classification according to doshakarma</b> [Cha.Sa.<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 1/67]\n</p>",
+            "links": [
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Dravya are categorized into three varieties based on their action ( karma ). They include -",
+            "html": "<p>Dravya are categorized into three varieties based on their action (<a href=\"/index.php?title=Karma\" title=\"Karma\">karma</a>). They include -\n</p>",
+            "links": [
+                {
+                    "text": "karma",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Karma"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "a) Dosha prashamana dravya (pacifier): Dravya is a pacifier of doshas .",
+            "html": "<p>a)\tDosha prashamana dravya (pacifier): Dravya is a pacifier of <a href=\"/index.php?title=Dosha\" title=\"Dosha\">doshas</a>.\n</p>",
+            "links": [
+                {
+                    "text": "doshas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "b) Dhatu pradushana dravya (vitiator): Some drugs vitiate dhatu . e.g. Poison (visha)",
+            "html": "<p>b)\tDhatu pradushana dravya (vitiator): Some drugs vitiate <a href=\"/index.php?title=Dhatu\" title=\"Dhatu\">dhatu</a>. e.g. Poison (visha)\n</p>",
+            "links": [
+                {
+                    "text": "dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "c) Swasthavrittikara dravya (maintainer): Dravya is responsible for maintaining the good health status of the body.",
+            "html": "<p>c)\tSwasthavrittikara dravya (maintainer): Dravya is responsible for maintaining the good health status of the body.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Classification according to their origin",
+            "html": "<p><b>Classification according to their origin</b>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "ol",
+            "text": "Jangama dravya: Dravyas which have an animal origin, such as milk & its products, honey, urine, skin, semen, bile, ligament, fat, marrow, blood, flesh, feces, bone, horn, nail, hoof, hairs etc. are considered as jangama dravyas. Audhbhida dravya: Dravyas of vegetable origin are audhbhida. They are of four types vanaspati, vanaspatya, aushadi, and virudha. Parthiva dravya: Dravya obtained from the earth such as metals and mineral products such as gold, five metals (lohas), silver, copper, lead, and tin, along with their excreta silica, calcites, realgar, orpiment, etc. [Cha.Sa. Sutra Sthana 1/68]",
+            "html": "<ol><li>Jangama dravya: Dravyas which have an animal origin, such as milk &amp; its products, honey, urine, skin, semen, bile, ligament, fat, marrow, blood, flesh, feces, bone, horn, nail, hoof, hairs etc. are considered as jangama dravyas.</li>\n<li>Audhbhida dravya: Dravyas of vegetable origin are audhbhida. They are of four types vanaspati, vanaspatya, aushadi, and virudha.</li>\n<li>Parthiva dravya: Dravya obtained from the earth such as metals and mineral products such as gold, five metals (lohas), silver, copper, lead, and tin, along with their excreta silica, calcites, realgar, orpiment, etc. [Cha.Sa.<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 1/68]</li></ol>",
+            "links": [
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Jangama dravya: Dravyas which have an animal origin, such as milk & its products, honey, urine, skin, semen, bile, ligament, fat, marrow, blood, flesh, feces, bone, horn, nail, hoof, hairs etc. are considered as jangama dravyas.",
+                    "links": []
+                },
+                {
+                    "text": "Audhbhida dravya: Dravyas of vegetable origin are audhbhida. They are of four types vanaspati, vanaspatya, aushadi, and virudha.",
+                    "links": []
+                },
+                {
+                    "text": "Parthiva dravya: Dravya obtained from the earth such as metals and mineral products such as gold, five metals (lohas), silver, copper, lead, and tin, along with their excreta silica, calcites, realgar, orpiment, etc. [Cha.Sa. Sutra Sthana 1/68]",
+                    "links": [
+                        {
+                            "text": "Sutra Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Classification based on utility:",
+            "html": "<p><b>Classification based on utility:</b>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "According to the use, dravya is of two types, dietary (ahara dravya) and medicinal (aushadha dravya).[Cha.Sa. Sutra Sthana 2/17] [Cha.Sa. Sutra Sthana 25/38-39]",
+            "html": "<p>According to the use, dravya is of two types, dietary (ahara dravya) and medicinal (aushadha dravya).[Cha.Sa.<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 2/17] [Cha.Sa.<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 25/38-39]\n</p>",
+            "links": [
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "ol",
+            "text": "Dietary articles (ahara dravya): These are predominantly taste dependent ( rasa pradhana) in nature, used to nourish rasadi dhatus . Ahara dravya protects the body and helps in the maintenance of health. Medicines (aushadha dravya): They are potency dependent ( veerya pradhana) in nature. Aushadha or drugs are used to treat the disease. They act on the body through the potency of drugs. They are further classified into-",
+            "html": "<ol><li>Dietary articles (ahara dravya): These are predominantly taste dependent (<a href=\"/index.php?title=Rasa\" title=\"Rasa\">rasa</a> pradhana) in nature, used to nourish <a href=\"/index.php?title=Rasa\" title=\"Rasa\">rasadi</a> <a href=\"/index.php?title=Dhatu\" title=\"Dhatu\">dhatus</a>. Ahara dravya protects the body and helps in the maintenance of health.</li>\n<li>Medicines (aushadha dravya): They are potency dependent (<a href=\"/index.php?title=Veerya\" title=\"Veerya\">veerya</a> pradhana) in nature. <a href=\"/index.php?title=Aushadha\" title=\"Aushadha\">Aushadha</a> or drugs are used to treat the disease. They act on the body through the potency of drugs. They are further classified into-</li></ol>",
+            "links": [
+                {
+                    "text": "rasa",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa"
+                },
+                {
+                    "text": "rasadi",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa"
+                },
+                {
+                    "text": "dhatus",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu"
+                },
+                {
+                    "text": "veerya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Veerya"
+                },
+                {
+                    "text": "Aushadha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Aushadha"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Dietary articles (ahara dravya): These are predominantly taste dependent ( rasa pradhana) in nature, used to nourish rasadi dhatus . Ahara dravya protects the body and helps in the maintenance of health.",
+                    "links": [
+                        {
+                            "text": "rasa",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa"
+                        },
+                        {
+                            "text": "rasadi",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa"
+                        },
+                        {
+                            "text": "dhatus",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu"
+                        }
+                    ]
+                },
+                {
+                    "text": "Medicines (aushadha dravya): They are potency dependent ( veerya pradhana) in nature. Aushadha or drugs are used to treat the disease. They act on the body through the potency of drugs. They are further classified into-",
+                    "links": [
+                        {
+                            "text": "veerya",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Veerya"
+                        },
+                        {
+                            "text": "Aushadha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Aushadha"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Tikshnaveerya dravya: Zingiber officinale Roscoe ( shunthi ) etc. Madhyamaveerya dravya: Aegle marmelos ( bilva ), Clerodendrum phlomidis Linn. ( agnimantha ). Mriduveerya dravya: Emblica officinalis ( amalaki ). [Cha.Sa. Sutra Sthana 2/17]",
+            "html": "<ul><li>Tikshnaveerya dravya: Zingiber officinale Roscoe (<a href=\"/index.php?title=Shunthi\" title=\"Shunthi\">shunthi</a>) etc.</li>\n<li>Madhyamaveerya dravya: Aegle marmelos (<a href=\"/index.php?title=Bilva\" title=\"Bilva\">bilva</a>), Clerodendrum phlomidis Linn. (<a href=\"/index.php?title=Agnimantha\" title=\"Agnimantha\">agnimantha</a>).</li>\n<li>Mriduveerya dravya: Emblica officinalis (<a href=\"/index.php?title=Amalaki\" title=\"Amalaki\">amalaki</a>). [Cha.Sa.<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 2/17]</li></ul>",
+            "links": [
+                {
+                    "text": "shunthi",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Shunthi"
+                },
+                {
+                    "text": "bilva",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Bilva"
+                },
+                {
+                    "text": "agnimantha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agnimantha"
+                },
+                {
+                    "text": "amalaki",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Amalaki"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Tikshnaveerya dravya: Zingiber officinale Roscoe ( shunthi ) etc.",
+                    "links": [
+                        {
+                            "text": "shunthi",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Shunthi"
+                        }
+                    ]
+                },
+                {
+                    "text": "Madhyamaveerya dravya: Aegle marmelos ( bilva ), Clerodendrum phlomidis Linn. ( agnimantha ).",
+                    "links": [
+                        {
+                            "text": "bilva",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Bilva"
+                        },
+                        {
+                            "text": "agnimantha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Agnimantha"
+                        }
+                    ]
+                },
+                {
+                    "text": "Mriduveerya dravya: Emblica officinalis ( amalaki ). [Cha.Sa. Sutra Sthana 2/17]",
+                    "links": [
+                        {
+                            "text": "amalaki",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Amalaki"
+                        },
+                        {
+                            "text": "Sutra Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Classification based on panchabhautika composition:",
+            "html": "<p><b>Classification based on panchabhautika composition:</b>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Depending upon the predominance of particular mahabhuta , dravyas are of five types: parthiva, apya, tejas , vayavya and akashiya dravya. [Cha.Sa. Sutra Sthana 26/11] [Su.Sa.Sutra Sthana 41/6-8] [ 3 ]",
+            "html": "<p>Depending upon the predominance of particular <a class=\"mw-redirect\" href=\"/index.php?title=Mahabhuta\" title=\"Mahabhuta\">mahabhuta</a>, dravyas are of five types: parthiva, apya, <a class=\"mw-redirect\" href=\"/index.php?title=Tejas\" title=\"Tejas\">tejas</a>, vayavya and akashiya dravya. [Cha.Sa.<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 26/11] [Su.Sa.Sutra Sthana 41/6-8]<sup class=\"reference\" id=\"cite_ref-Susruta_3-5\"><a href=\"#cite_note-Susruta-3\"><span class=\"cite-bracket\">[</span>3<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahabhuta"
+                },
+                {
+                    "text": "tejas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tejas"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "[ 3 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#cite_note-Susruta-3"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Classification according to different taste ( rasa ):",
+            "html": "<p><b>Classification according to different taste (<a href=\"/index.php?title=Rasa\" title=\"Rasa\">rasa</a>):</b>\n</p>",
+            "links": [
+                {
+                    "text": "rasa",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Depending upon the predominance of taste ( rasa ), dravya is classified into six groups.",
+            "html": "<p>Depending upon the predominance of taste (<a href=\"/index.php?title=Rasa\" title=\"Rasa\">rasa</a>), dravya is classified into six groups.\n</p>",
+            "links": [
+                {
+                    "text": "rasa",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "ol",
+            "text": "Madhura skandha: Fritillaria roylei Hook ( kakoli ) & Ksheerakakoli etc. Amla skandha: Punica granatum L. ( dadima ) & Emblica officinalis (amalaka) etc. Lavana skandha: Rock salt (saindhava) & Unaqua sodium chloride (sauvarchala) etc. Katu skandha: Piper longum ( pippali ), Scindapsus officinalis ( gajapippali ) etc. Tikta skandha: Swertia chiraita (kiratatikta), Celatrus panniculatus Willd. ( jyotishmati ) etc. Kashaya skandha: Callicarpa macrophylla (priyangu), Clerodendrum phlomidis Linn. ( agnimantha ) etc. [Cha.Sa. Vimana Sthana 8/139]",
+            "html": "<ol><li>Madhura skandha: Fritillaria roylei Hook (<a href=\"/index.php?title=Kakoli\" title=\"Kakoli\">kakoli</a>) &amp; Ksheerakakoli etc.</li>\n<li>Amla skandha: Punica granatum L. (<a href=\"/index.php?title=Dadima\" title=\"Dadima\">dadima</a>) &amp; Emblica officinalis (amalaka) etc.</li>\n<li>Lavana skandha: Rock salt (saindhava) &amp; Unaqua sodium chloride (sauvarchala) etc.</li>\n<li>Katu skandha: Piper longum (<a href=\"/index.php?title=Pippali\" title=\"Pippali\">pippali</a>), Scindapsus officinalis (<a href=\"/index.php?title=Gajapippali\" title=\"Gajapippali\">gajapippali</a>) etc.</li>\n<li>Tikta skandha: Swertia chiraita (kiratatikta), Celatrus panniculatus Willd. (<a href=\"/index.php?title=Jyotishmati\" title=\"Jyotishmati\">jyotishmati</a>) etc.</li>\n<li>Kashaya skandha: Callicarpa macrophylla (priyangu), Clerodendrum phlomidis Linn. (<a href=\"/index.php?title=Agnimantha\" title=\"Agnimantha\">agnimantha</a>) etc. [Cha.Sa.<a href=\"/index.php?title=Vimana_Sthana\" title=\"Vimana Sthana\">Vimana Sthana</a> 8/139]</li></ol>",
+            "links": [
+                {
+                    "text": "kakoli",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kakoli"
+                },
+                {
+                    "text": "dadima",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dadima"
+                },
+                {
+                    "text": "pippali",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pippali"
+                },
+                {
+                    "text": "gajapippali",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Gajapippali"
+                },
+                {
+                    "text": "jyotishmati",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Jyotishmati"
+                },
+                {
+                    "text": "agnimantha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agnimantha"
+                },
+                {
+                    "text": "Vimana Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Madhura skandha: Fritillaria roylei Hook ( kakoli ) & Ksheerakakoli etc.",
+                    "links": [
+                        {
+                            "text": "kakoli",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Kakoli"
+                        }
+                    ]
+                },
+                {
+                    "text": "Amla skandha: Punica granatum L. ( dadima ) & Emblica officinalis (amalaka) etc.",
+                    "links": [
+                        {
+                            "text": "dadima",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dadima"
+                        }
+                    ]
+                },
+                {
+                    "text": "Lavana skandha: Rock salt (saindhava) & Unaqua sodium chloride (sauvarchala) etc.",
+                    "links": []
+                },
+                {
+                    "text": "Katu skandha: Piper longum ( pippali ), Scindapsus officinalis ( gajapippali ) etc.",
+                    "links": [
+                        {
+                            "text": "pippali",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pippali"
+                        },
+                        {
+                            "text": "gajapippali",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Gajapippali"
+                        }
+                    ]
+                },
+                {
+                    "text": "Tikta skandha: Swertia chiraita (kiratatikta), Celatrus panniculatus Willd. ( jyotishmati ) etc.",
+                    "links": [
+                        {
+                            "text": "jyotishmati",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Jyotishmati"
+                        }
+                    ]
+                },
+                {
+                    "text": "Kashaya skandha: Callicarpa macrophylla (priyangu), Clerodendrum phlomidis Linn. ( agnimantha ) etc. [Cha.Sa. Vimana Sthana 8/139]",
+                    "links": [
+                        {
+                            "text": "agnimantha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Agnimantha"
+                        },
+                        {
+                            "text": "Vimana Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Classification based on potency ( veerya ): [Cha.Sa. Chikitsa Sthana 3/258] [Cha.Sa. Sutra Sthana 2/267]",
+            "html": "<p><b>Classification based on potency (<a href=\"/index.php?title=Veerya\" title=\"Veerya\">veerya</a>):</b> [Cha.Sa.<a href=\"/index.php?title=Chikitsa_Sthana\" title=\"Chikitsa Sthana\">Chikitsa Sthana</a> 3/258] [Cha.Sa.<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 2/267]\n</p>",
+            "links": [
+                {
+                    "text": "veerya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Veerya"
+                },
+                {
+                    "text": "Chikitsa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "ol",
+            "text": "Sheetavirya dravya (cold potency): Santalum album ( chandana ), Saccharum officinarum ( ikshu ). Ushnavirya dravya (hot potency): Aquilaria agallocha (agaru), Saussurea costus (kustha) & Valeriana wallichii ( tagara )",
+            "html": "<ol><li>Sheetavirya dravya (cold potency): Santalum album (<a href=\"/index.php?title=Chandana\" title=\"Chandana\">chandana</a>), Saccharum officinarum (<a href=\"/index.php?title=Ikshu\" title=\"Ikshu\">ikshu</a>).</li>\n<li>Ushnavirya dravya (hot potency): Aquilaria agallocha (agaru), Saussurea costus (kustha) &amp; Valeriana wallichii (<a href=\"/index.php?title=Tagara\" title=\"Tagara\">tagara</a>)</li></ol>",
+            "links": [
+                {
+                    "text": "chandana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chandana"
+                },
+                {
+                    "text": "ikshu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshu"
+                },
+                {
+                    "text": "tagara",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tagara"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Sheetavirya dravya (cold potency): Santalum album ( chandana ), Saccharum officinarum ( ikshu ).",
+                    "links": [
+                        {
+                            "text": "chandana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Chandana"
+                        },
+                        {
+                            "text": "ikshu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ikshu"
+                        }
+                    ]
+                },
+                {
+                    "text": "Ushnavirya dravya (hot potency): Aquilaria agallocha (agaru), Saussurea costus (kustha) & Valeriana wallichii ( tagara )",
+                    "links": [
+                        {
+                            "text": "tagara",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Tagara"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Classification based on post digestive effect ( vipaka )",
+            "html": "<p><b>Classification based on post digestive effect (<a href=\"/index.php?title=Vipaka\" title=\"Vipaka\">vipaka</a>)</b>\n</p>",
+            "links": [
+                {
+                    "text": "vipaka",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vipaka"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Based on the end product formed during the process of digestion of dravya, they are classified into three types:",
+            "html": "<p>Based on the end product formed during the process of digestion of dravya, they are classified into three types:\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "ol",
+            "text": "Madhura vipaka dravya: e.g. Zingiber officinalis ( shunthi ), Piper longum ( pippali ). Amla vipaka dravya: e.g. Rice grain (vrihi), Dolichos biflorus (kulattha). Katu vipaka dravya: e.g. Sesame oil (taila), Salt (lavana). [Su.Sa.Sutra Sthana 40/10] [ 3 ]",
+            "html": "<ol><li>Madhura vipaka dravya: e.g. Zingiber officinalis (<a href=\"/index.php?title=Shunthi\" title=\"Shunthi\">shunthi</a>), Piper longum (<a href=\"/index.php?title=Pippali\" title=\"Pippali\">pippali</a>).</li>\n<li>Amla vipaka dravya: e.g. Rice grain (vrihi), Dolichos biflorus (kulattha).</li>\n<li>Katu vipaka dravya: e.g. Sesame oil (taila), Salt (lavana). [Su.Sa.Sutra Sthana 40/10]<sup class=\"reference\" id=\"cite_ref-Susruta_3-6\"><a href=\"#cite_note-Susruta-3\"><span class=\"cite-bracket\">[</span>3<span class=\"cite-bracket\">]</span></a></sup></li></ol>",
+            "links": [
+                {
+                    "text": "shunthi",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Shunthi"
+                },
+                {
+                    "text": "pippali",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pippali"
+                },
+                {
+                    "text": "[ 3 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#cite_note-Susruta-3"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Madhura vipaka dravya: e.g. Zingiber officinalis ( shunthi ), Piper longum ( pippali ).",
+                    "links": [
+                        {
+                            "text": "shunthi",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Shunthi"
+                        },
+                        {
+                            "text": "pippali",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pippali"
+                        }
+                    ]
+                },
+                {
+                    "text": "Amla vipaka dravya: e.g. Rice grain (vrihi), Dolichos biflorus (kulattha).",
+                    "links": []
+                },
+                {
+                    "text": "Katu vipaka dravya: e.g. Sesame oil (taila), Salt (lavana). [Su.Sa.Sutra Sthana 40/10] [ 3 ]",
+                    "links": [
+                        {
+                            "text": "[ 3 ]",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#cite_note-Susruta-3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Classification based on formulation types:",
+            "html": "<p><b>Classification based on formulation types:</b>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Based on the usefulness in different types of formulations prescribed in treatment, dravya may be classified as",
+            "html": "<p>Based on the usefulness in different types of formulations prescribed in treatment, dravya may be classified as \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "ul",
+            "text": "Kwatha dravya (used in the form of decoction) Kalka dravya (used in the form of paste or powder) Swarasa dravya (used in the form of juices) Hima dravya (used in the form of cold suspension) Phanta dravya (used in the form of tea etc.) [Sha.Sa.M.K.1/1] [ 4 ]",
+            "html": "<ul><li>Kwatha dravya (used in the form of decoction)</li>\n<li>Kalka dravya (used in the form of paste or powder)</li>\n<li>Swarasa dravya (used in the form of juices)</li>\n<li>Hima dravya (used in the form of cold suspension)</li>\n<li>Phanta dravya (used in the form of tea etc.) [Sha.Sa.M.K.1/1] <sup class=\"reference\" id=\"cite_ref-Shargadara_4-0\"><a href=\"#cite_note-Shargadara-4\"><span class=\"cite-bracket\">[</span>4<span class=\"cite-bracket\">]</span></a></sup></li></ul>",
+            "links": [
+                {
+                    "text": "[ 4 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#cite_note-Shargadara-4"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Kwatha dravya (used in the form of decoction)",
+                    "links": []
+                },
+                {
+                    "text": "Kalka dravya (used in the form of paste or powder)",
+                    "links": []
+                },
+                {
+                    "text": "Swarasa dravya (used in the form of juices)",
+                    "links": []
+                },
+                {
+                    "text": "Hima dravya (used in the form of cold suspension)",
+                    "links": []
+                },
+                {
+                    "text": "Phanta dravya (used in the form of tea etc.) [Sha.Sa.M.K.1/1] [ 4 ]",
+                    "links": [
+                        {
+                            "text": "[ 4 ]",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#cite_note-Shargadara-4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Classification based on panchakarma intervention",
+            "html": "<p><b>Classification based on <a href=\"/index.php?title=Panchakarma\" title=\"Panchakarma\">panchakarma</a> intervention</b>\n</p>",
+            "links": [
+                {
+                    "text": "panchakarma",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Panchakarma"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Usefulness of different dravya is observed in various panchakarma interventions. Based on this the dravya are classified as:",
+            "html": "<p>Usefulness of different dravya is observed in various <a href=\"/index.php?title=Panchakarma\" title=\"Panchakarma\">panchakarma</a> interventions. Based on this the dravya are classified as:\n</p>",
+            "links": [
+                {
+                    "text": "panchakarma",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Panchakarma"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "ul",
+            "text": "Vamana dravya: useful in emesis Virechana dravya: useful in purgation Basti dravya: useful in medicated enema Nasya dravya: useful for application on the nostril.[Cha.Sa. Vimana Sthana 8/135-151]",
+            "html": "<ul><li><a href=\"/index.php?title=Vamana\" title=\"Vamana\">Vamana</a> dravya: useful in emesis</li>\n<li><a href=\"/index.php?title=Virechana\" title=\"Virechana\">Virechana</a> dravya: useful in purgation</li>\n<li><a href=\"/index.php?title=Basti\" title=\"Basti\">Basti</a> dravya: useful in medicated enema</li>\n<li><a href=\"/index.php?title=Nasya\" title=\"Nasya\">Nasya</a> dravya: useful for application on the nostril.[Cha.Sa.<a href=\"/index.php?title=Vimana_Sthana\" title=\"Vimana Sthana\">Vimana Sthana</a> 8/135-151]</li></ul>",
+            "links": [
+                {
+                    "text": "Vamana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vamana"
+                },
+                {
+                    "text": "Virechana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Virechana"
+                },
+                {
+                    "text": "Basti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Basti"
+                },
+                {
+                    "text": "Nasya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Nasya"
+                },
+                {
+                    "text": "Vimana Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Vamana dravya: useful in emesis",
+                    "links": [
+                        {
+                            "text": "Vamana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vamana"
+                        }
+                    ]
+                },
+                {
+                    "text": "Virechana dravya: useful in purgation",
+                    "links": [
+                        {
+                            "text": "Virechana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Virechana"
+                        }
+                    ]
+                },
+                {
+                    "text": "Basti dravya: useful in medicated enema",
+                    "links": [
+                        {
+                            "text": "Basti",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Basti"
+                        }
+                    ]
+                },
+                {
+                    "text": "Nasya dravya: useful for application on the nostril.[Cha.Sa. Vimana Sthana 8/135-151]",
+                    "links": [
+                        {
+                            "text": "Nasya",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Nasya"
+                        },
+                        {
+                            "text": "Vimana Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Classification of dravya based on the changes observed after digestion",
+            "html": "<p><b>Classification of dravya based on the changes observed after digestion</b>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "ul",
+            "text": "Samanapratyayarabdha: Substance retains its panchabhautika composition throughout the digestion and metabolism Vichitrapratyayarabdha: Panchabhautika composition of the substance is changed after digestion and metabolism [Arundatta on A.Hr. 9/27] [ 5 ] [Chakrapani on Cha.Sa. Sutra Sthana 26/45]",
+            "html": "<ul><li>Samanapratyayarabdha: Substance retains its panchabhautika composition throughout the digestion and metabolism</li>\n<li>Vichitrapratyayarabdha: Panchabhautika composition of the substance is changed after digestion and metabolism [Arundatta on A.Hr. 9/27]<sup class=\"reference\" id=\"cite_ref-Hridaya_5-0\"><a href=\"#cite_note-Hridaya-5\"><span class=\"cite-bracket\">[</span>5<span class=\"cite-bracket\">]</span></a></sup> [Chakrapani on Cha.Sa.<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 26/45]</li></ul>",
+            "links": [
+                {
+                    "text": "[ 5 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#cite_note-Hridaya-5"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Samanapratyayarabdha: Substance retains its panchabhautika composition throughout the digestion and metabolism",
+                    "links": []
+                },
+                {
+                    "text": "Vichitrapratyayarabdha: Panchabhautika composition of the substance is changed after digestion and metabolism [Arundatta on A.Hr. 9/27] [ 5 ] [Chakrapani on Cha.Sa. Sutra Sthana 26/45]",
+                    "links": [
+                        {
+                            "text": "[ 5 ]",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#cite_note-Hridaya-5"
+                        },
+                        {
+                            "text": "Sutra Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Methods of drug identification",
+            "html": "<h2><span class=\"mw-headline\" id=\"Methods_of_drug_identification\">Methods of drug identification</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "h3",
+            "text": "Classical method of drug identification",
+            "html": "<h3><span class=\"mw-headline\" id=\"Classical_method_of_drug_identification\">Classical method of drug identification</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "There are three broad methods of drug identification in Ayurveda as below:",
+            "html": "<p>There are three broad methods of drug identification in <a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a> as below:\n</p>",
+            "links": [
+                {
+                    "text": "Ayurveda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayurveda"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "ol",
+            "text": "Nomenclature and organoleptic features (namarupagyanam): Nama means name of a dravya or its synonyms, while ‘rupa’ specifies morphology (akriti) as well as properties and actions ( guna karma ). The branch of science, dravyaguna deals with the study of ‘nama’ and ‘rupa’ of dravya. Pharmacognosy deals with identifying drugs in terms of name, morphology, properties and actions. Mahabhuta dominance (Panchabhautika pariksha): All dravya in the universe are made from panchamahabhuta . (five basic elements) – akasha , vayu , agni , jala , and prithvi . The characteristic features of mahabhuta present in dravya are identified to know more about dravya. Examination in different stages (Bheshajaavasthantar pariksha): It means examination of drugs in various stages or conditions. e.g. ripe/unripe, fresh/dry, various combination, various dosage forms.",
+            "html": "<ol><li>Nomenclature and organoleptic features (namarupagyanam): Nama means name of a dravya or its synonyms, while ‘rupa’ specifies morphology (akriti) as well as properties and actions (<a href=\"/index.php?title=Guna\" title=\"Guna\">guna</a> <a href=\"/index.php?title=Karma\" title=\"Karma\">karma</a>). The branch of science, dravyaguna deals with the study of ‘nama’ and ‘rupa’ of dravya. Pharmacognosy deals with identifying drugs in terms of name, morphology, properties and actions.</li>\n<li><a class=\"mw-redirect\" href=\"/index.php?title=Mahabhuta\" title=\"Mahabhuta\">Mahabhuta</a> dominance (Panchabhautika pariksha): All dravya in the universe are made from <a class=\"mw-redirect\" href=\"/index.php?title=Panchamahabhuta\" title=\"Panchamahabhuta\">panchamahabhuta</a>. (five basic elements) – <a class=\"mw-redirect\" href=\"/index.php?title=Akasha\" title=\"Akasha\">akasha</a>, <a class=\"mw-redirect\" href=\"/index.php?title=Vayu\" title=\"Vayu\">vayu</a>, <a href=\"/index.php?title=Agni\" title=\"Agni\">agni</a>, <a class=\"mw-redirect\" href=\"/index.php?title=Jala\" title=\"Jala\">jala</a>, and <a class=\"mw-redirect\" href=\"/index.php?title=Prithvi\" title=\"Prithvi\">prithvi</a>. The characteristic features of <a class=\"mw-redirect\" href=\"/index.php?title=Mahabhuta\" title=\"Mahabhuta\">mahabhuta</a> present in dravya are identified to know more about dravya.</li>\n<li>Examination in different stages (Bheshajaavasthantar pariksha): It means examination of drugs in various stages or conditions. e.g. ripe/unripe, fresh/dry, various combination, various dosage forms.</li></ol>",
+            "links": [
+                {
+                    "text": "guna",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Guna"
+                },
+                {
+                    "text": "karma",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Karma"
+                },
+                {
+                    "text": "Mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahabhuta"
+                },
+                {
+                    "text": "panchamahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Panchamahabhuta"
+                },
+                {
+                    "text": "akasha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha"
+                },
+                {
+                    "text": "vayu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu"
+                },
+                {
+                    "text": "agni",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni"
+                },
+                {
+                    "text": "jala",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Jala"
+                },
+                {
+                    "text": "prithvi",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi"
+                },
+                {
+                    "text": "mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahabhuta"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Nomenclature and organoleptic features (namarupagyanam): Nama means name of a dravya or its synonyms, while ‘rupa’ specifies morphology (akriti) as well as properties and actions ( guna karma ). The branch of science, dravyaguna deals with the study of ‘nama’ and ‘rupa’ of dravya. Pharmacognosy deals with identifying drugs in terms of name, morphology, properties and actions.",
+                    "links": [
+                        {
+                            "text": "guna",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Guna"
+                        },
+                        {
+                            "text": "karma",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Karma"
+                        }
+                    ]
+                },
+                {
+                    "text": "Mahabhuta dominance (Panchabhautika pariksha): All dravya in the universe are made from panchamahabhuta . (five basic elements) – akasha , vayu , agni , jala , and prithvi . The characteristic features of mahabhuta present in dravya are identified to know more about dravya.",
+                    "links": [
+                        {
+                            "text": "Mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Mahabhuta"
+                        },
+                        {
+                            "text": "panchamahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Panchamahabhuta"
+                        },
+                        {
+                            "text": "akasha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha"
+                        },
+                        {
+                            "text": "vayu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu"
+                        },
+                        {
+                            "text": "agni",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Agni"
+                        },
+                        {
+                            "text": "jala",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Jala"
+                        },
+                        {
+                            "text": "prithvi",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi"
+                        },
+                        {
+                            "text": "mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Mahabhuta"
+                        }
+                    ]
+                },
+                {
+                    "text": "Examination in different stages (Bheshajaavasthantar pariksha): It means examination of drugs in various stages or conditions. e.g. ripe/unripe, fresh/dry, various combination, various dosage forms.",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "h3",
+            "text": "Current methods of drug identification",
+            "html": "<h3><span class=\"mw-headline\" id=\"Current_methods_of_drug_identification\">Current methods of drug identification</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Following are the modern methods of drug identification",
+            "html": "<p>Following are the modern methods of drug identification\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Pharmacognosy",
+            "html": "<p><b>Pharmacognosy</b>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "A) Macroscopy or organoleptic examination: It is done with the help of five senses and various equipment like scale, vernier caliper etc.",
+            "html": "<p>A)\tMacroscopy or organoleptic examination: It is done with the help of five senses and various equipment like scale, vernier caliper etc.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "B) Microscopic examination: It is done with microscopes with various magnification properties. It permits to study of minute structures with enlarged views and confirms the structural details of the drug.",
+            "html": "<p>B)\tMicroscopic examination: It is done with microscopes with various magnification properties. It permits to study of minute structures with enlarged views and confirms the structural details of the drug.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Physical examination",
+            "html": "<p><b>Physical examination</b>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Like moisture content, specific gravity, density, viscosity, optical rotation, refractive index, melting point, ash value, etc.",
+            "html": "<p>Like moisture content, specific gravity, density, viscosity, optical rotation, refractive index, melting point, ash value, etc.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Chemical examination",
+            "html": "<p><b>Chemical examination</b>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Chemical test & assays, identification & isolation of active constituents of drug, quantitative chemical testing like saponification, detection of adulteration, Helphen’s test for cotton seed oil etc.",
+            "html": "<p>Chemical test &amp; assays, identification &amp; isolation of active constituents of drug, quantitative chemical testing like saponification, detection of adulteration, Helphen’s test for cotton seed oil etc.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Physical assay",
+            "html": "<p><b>Physical assay</b>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Trimetric estimation for alkaloids, spectroscopic analysis in various wave lengths.",
+            "html": "<p>Trimetric estimation for alkaloids, spectroscopic analysis in various wave lengths.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Qualitative and quantitative evaluation",
+            "html": "<p><b>Qualitative and quantitative evaluation</b>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Thin-layer chromatography (TLC), High-performance thin layer chromatography (HPTLC), High-performance liquid chromatography (HPLC), Gas chromatography.",
+            "html": "<p>Thin-layer chromatography (TLC), High-performance thin layer chromatography (HPTLC), High-performance liquid chromatography (HPLC), Gas chromatography.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Bioassays",
+            "html": "<p><b>Bioassays</b>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Estimating potency of crude drugs by means of living organisms like bacteria and animal tissue are the methods of standardization and confirmation of the therapeutic effect of raw material and finished product.",
+            "html": "<p>Estimating potency of crude drugs by means of living organisms like bacteria and animal tissue are the methods of standardization and confirmation of the therapeutic effect of raw material and finished product.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Screening",
+            "html": "<p><b>Screening</b>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Screening for antibacterial and antifungal activities of bio-constituents is done by microbiological techniques.",
+            "html": "<p>Screening for antibacterial and antifungal activities of bio-constituents is done by microbiological techniques.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Phytochemical screening",
+            "html": "<p><b>Phytochemical screening</b>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "It is essential for qualitative and quantitative evaluation as well as physiological and therapeutic evaluation of the drug.",
+            "html": "<p>It is essential for qualitative and quantitative evaluation as well as physiological and therapeutic evaluation of the drug.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Finger printing",
+            "html": "<p><b>Finger printing</b>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "It is the most advanced and confirmative method of drug identification of drugs in finger printing which gives exact confirmatory images of the drug.",
+            "html": "<p>It is the most advanced and confirmative method of drug identification of drugs in finger printing which gives exact confirmatory images of the drug.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Current researches",
+            "html": "<h2><span class=\"mw-headline\" id=\"Current_researches\">Current researches</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "The herbs and formulations described in the classics of Ayurveda are studied for their utility in the prevention and treatment of diseases. Some of the newer approaches are mentioned below.",
+            "html": "<p>The herbs and formulations described in the classics of <a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a> are studied for their utility in the prevention and treatment of diseases. Some of the newer approaches are mentioned below.\n</p>",
+            "links": [
+                {
+                    "text": "Ayurveda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayurveda"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Ayurveda dravya as nutraceuticals: A review focused on the ayurvedic nutraceutical approach gives natural physiological advantages of Ayurveda formulations and reduces illness risk. [ 6 ] Formulations like Chyavanaprasha, Brahma Rasayana, Phala Ghrita, Arjuna Ksheerapaka, Shatavari Ghrita, and Rasona Ksheerapaka are studied, among other traditional nutraceuticals. All of these nutraceuticals have health benefits such as preventing respiratory diseases, improving physical and mental strength, sexual empowerment, cardio-protection, female hormonal regulation maintenance, etc. The focus of the article was on the ayurvedic perspective of nutraceuticals.",
+            "html": "<p><b><a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a> dravya as nutraceuticals:</b> A review focused on the ayurvedic nutraceutical approach gives natural physiological advantages of <a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a> formulations and reduces illness risk.<sup class=\"reference\" id=\"cite_ref-6\"><a href=\"#cite_note-6\"><span class=\"cite-bracket\">[</span>6<span class=\"cite-bracket\">]</span></a></sup> Formulations like Chyavanaprasha, Brahma Rasayana, Phala Ghrita, Arjuna Ksheerapaka, Shatavari Ghrita, and Rasona Ksheerapaka are studied, among other traditional nutraceuticals. All of these nutraceuticals have health benefits such as preventing respiratory diseases, improving physical and mental strength, sexual empowerment, cardio-protection, female hormonal regulation maintenance, etc. The focus of the article was on the ayurvedic perspective of nutraceuticals.\n</p>",
+            "links": [
+                {
+                    "text": "Ayurveda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayurveda"
+                },
+                {
+                    "text": "Ayurveda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayurveda"
+                },
+                {
+                    "text": "[ 6 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#cite_note-6"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Rasayana dravya in oxidative stress: Stress levels within cells have grown due to changing diet and lifestyle, necessitating an ayurvedic strategy to compensate and rejuvenate, known as Rasayana . In a review paper, the researchers focused on raising knowledge of rasayana therapy and its effects on oxidative stress and premature aging. The review concluded that rasayana dravya is beneficial in preventing oxidative stress. [ 7 ] An ayurvedic formulation rasayana ghana vati showed significant results in reducing stress and premature ageing with anti-depressant and anxiolytic effect. [ 8 ] Rasayana avaleha, an ayurvedic formulation, showed efficacy in reducing adverse effects of chemotherapy and radiotherapy in cancer patients. [ 9 ]",
+            "html": "<p><b><a href=\"/index.php?title=Rasayana\" title=\"Rasayana\">Rasayana</a> dravya in oxidative stress:</b> Stress levels within cells have grown due to changing diet and lifestyle, necessitating an ayurvedic strategy to compensate and rejuvenate, known as <a href=\"/index.php?title=Rasayana\" title=\"Rasayana\">Rasayana</a>. In a review paper, the researchers focused on raising knowledge of <a href=\"/index.php?title=Rasayana\" title=\"Rasayana\">rasayana</a> therapy and its effects on oxidative stress and premature aging. The review concluded that <a href=\"/index.php?title=Rasayana\" title=\"Rasayana\">rasayana</a> dravya is beneficial in preventing oxidative stress.<sup class=\"reference\" id=\"cite_ref-7\"><a href=\"#cite_note-7\"><span class=\"cite-bracket\">[</span>7<span class=\"cite-bracket\">]</span></a></sup> An ayurvedic formulation rasayana ghana vati showed significant results in reducing stress and premature ageing with anti-depressant and anxiolytic effect.<sup class=\"reference\" id=\"cite_ref-8\"><a href=\"#cite_note-8\"><span class=\"cite-bracket\">[</span>8<span class=\"cite-bracket\">]</span></a></sup> Rasayana avaleha, an ayurvedic formulation, showed efficacy in reducing adverse effects of chemotherapy and radiotherapy in cancer patients.<sup class=\"reference\" id=\"cite_ref-9\"><a href=\"#cite_note-9\"><span class=\"cite-bracket\">[</span>9<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "Rasayana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rasayana"
+                },
+                {
+                    "text": "Rasayana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rasayana"
+                },
+                {
+                    "text": "rasayana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rasayana"
+                },
+                {
+                    "text": "rasayana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rasayana"
+                },
+                {
+                    "text": "[ 7 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#cite_note-7"
+                },
+                {
+                    "text": "[ 8 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#cite_note-8"
+                },
+                {
+                    "text": "[ 9 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#cite_note-9"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Applied aspect of Samana and Vichitra Pratyayarabdha dravya w.s.r. to Vipaka : Arabdhata and Pratyaarabdhata are two Ayurvedic concepts that are related to the conjugation and configuration of mahabhuta (five elements). During digestion and metabolism, every material experiences some modifications. A clinical investigation was conducted on 24 healthy adults to better grasp the concepts of arabdhata and pratyarabdhatadata using four distinct medications with the same composition but two different vipaka . The study's findings revealed that all of the drugs affected koshtha (bowel pattern) according to their vipaka in a few parameters, particularly stool and defecation habits. But most of the other parameters were statistically insignificant, implying that drugs act according to vipaka to some extent. However, vipaka is not the only factor that determines the pharmacological action of the drug. [ 10 ]",
+            "html": "<p><b>Applied aspect of Samana and Vichitra Pratyayarabdha dravya w.s.r. to <a href=\"/index.php?title=Vipaka\" title=\"Vipaka\">Vipaka</a>:</b> Arabdhata and Pratyaarabdhata are two Ayurvedic concepts that are related to the conjugation and configuration of <a class=\"mw-redirect\" href=\"/index.php?title=Mahabhuta\" title=\"Mahabhuta\">mahabhuta</a> (five elements). During digestion and metabolism, every material experiences some modifications. A clinical investigation was conducted on 24 healthy adults to better grasp the concepts of arabdhata and pratyarabdhatadata using four distinct medications with the same composition but two different <a href=\"/index.php?title=Vipaka\" title=\"Vipaka\">vipaka</a>. The study's findings revealed that all of the drugs affected koshtha (bowel pattern) according to their <a href=\"/index.php?title=Vipaka\" title=\"Vipaka\">vipaka</a> in a few parameters, particularly stool and defecation habits. But most of the other parameters were statistically insignificant, implying that drugs act according to <a href=\"/index.php?title=Vipaka\" title=\"Vipaka\">vipaka</a> to some extent. However, <a href=\"/index.php?title=Vipaka\" title=\"Vipaka\">vipaka</a> is not the only factor that determines the pharmacological action of the drug.<sup class=\"reference\" id=\"cite_ref-10\"><a href=\"#cite_note-10\"><span class=\"cite-bracket\">[</span>10<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "Vipaka",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vipaka"
+                },
+                {
+                    "text": "mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahabhuta"
+                },
+                {
+                    "text": "vipaka",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vipaka"
+                },
+                {
+                    "text": "vipaka",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vipaka"
+                },
+                {
+                    "text": "vipaka",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vipaka"
+                },
+                {
+                    "text": "vipaka",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vipaka"
+                },
+                {
+                    "text": "[ 10 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#cite_note-10"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Available database of herbs and formulations",
+            "html": "<h2><span class=\"mw-headline\" id=\"Available_database_of_herbs_and_formulations\">Available database of herbs and formulations</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "Currently Available database:",
+            "html": "<p><b>Currently Available database:</b>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "ol",
+            "text": "Ayurvedic pharmacopeia of India ( https://dravyagunatvpm.wordpress.com/e-ayupharmacopoeia-of-india/ ) Ayurvedic formulary of India ( https://dravyagunatvpm.wordpress.com/ayurvedic-formulary-of-india/ ) ENVIS ( http://envis.frlht.org/ ) IMPPAT: A curated database of Indian Medicinal Plants, Phytochemistry and Therapeutics ( https://cb.imsc.res.in/imppat/ ) Database on Medicinal Plants (http//:www.nmpb-mpdb.nic.in) Medicinal plant database of India ( https://bsi.gov.in/page/en/medicinal-plant-database ) Electronic Information Resources for Herbal Medicine — Society for Medicinal Plant. ( https://www.unom.ac.in/webportal/uploads/library/gcl-opac/HMedicine.htm ) Herb society of America ( https://www.herbsociety.org/ ) United States Department of Agriculture- plant database ( https://plants.usda.gov/ ) Database on medicinal plants all the volumes of CCRAS",
+            "html": "<ol><li>Ayurvedic pharmacopeia of India (<a class=\"external free\" href=\"https://dravyagunatvpm.wordpress.com/e-ayupharmacopoeia-of-india/\" rel=\"nofollow\">https://dravyagunatvpm.wordpress.com/e-ayupharmacopoeia-of-india/</a>)</li>\n<li>Ayurvedic formulary of India (<a class=\"external free\" href=\"https://dravyagunatvpm.wordpress.com/ayurvedic-formulary-of-india/\" rel=\"nofollow\">https://dravyagunatvpm.wordpress.com/ayurvedic-formulary-of-india/</a>)</li>\n<li>ENVIS (<a class=\"external free\" href=\"http://envis.frlht.org/\" rel=\"nofollow\">http://envis.frlht.org/</a>)</li>\n<li>IMPPAT: A curated database of Indian Medicinal Plants, Phytochemistry and Therapeutics (<a class=\"external free\" href=\"https://cb.imsc.res.in/imppat/\" rel=\"nofollow\">https://cb.imsc.res.in/imppat/</a>)</li>\n<li>Database on Medicinal Plants (http//:www.nmpb-mpdb.nic.in)</li>\n<li>Medicinal plant database of India (<a class=\"external free\" href=\"https://bsi.gov.in/page/en/medicinal-plant-database\" rel=\"nofollow\">https://bsi.gov.in/page/en/medicinal-plant-database</a>)</li>\n<li>Electronic Information Resources for Herbal Medicine — Society for Medicinal Plant. (<a class=\"external free\" href=\"https://www.unom.ac.in/webportal/uploads/library/gcl-opac/HMedicine.htm\" rel=\"nofollow\">https://www.unom.ac.in/webportal/uploads/library/gcl-opac/HMedicine.htm</a>)</li>\n<li>Herb society of America (<a class=\"external free\" href=\"https://www.herbsociety.org/\" rel=\"nofollow\">https://www.herbsociety.org/</a>)</li>\n<li>United States Department of Agriculture- plant database (<a class=\"external free\" href=\"https://plants.usda.gov/\" rel=\"nofollow\">https://plants.usda.gov/</a>)</li>\n<li>Database on medicinal plants all the volumes of CCRAS</li></ol>",
+            "links": [
+                {
+                    "text": "https://dravyagunatvpm.wordpress.com/e-ayupharmacopoeia-of-india/",
+                    "url": "https://dravyagunatvpm.wordpress.com/e-ayupharmacopoeia-of-india/"
+                },
+                {
+                    "text": "https://dravyagunatvpm.wordpress.com/ayurvedic-formulary-of-india/",
+                    "url": "https://dravyagunatvpm.wordpress.com/ayurvedic-formulary-of-india/"
+                },
+                {
+                    "text": "http://envis.frlht.org/",
+                    "url": "http://envis.frlht.org/"
+                },
+                {
+                    "text": "https://cb.imsc.res.in/imppat/",
+                    "url": "https://cb.imsc.res.in/imppat/"
+                },
+                {
+                    "text": "https://bsi.gov.in/page/en/medicinal-plant-database",
+                    "url": "https://bsi.gov.in/page/en/medicinal-plant-database"
+                },
+                {
+                    "text": "https://www.unom.ac.in/webportal/uploads/library/gcl-opac/HMedicine.htm",
+                    "url": "https://www.unom.ac.in/webportal/uploads/library/gcl-opac/HMedicine.htm"
+                },
+                {
+                    "text": "https://www.herbsociety.org/",
+                    "url": "https://www.herbsociety.org/"
+                },
+                {
+                    "text": "https://plants.usda.gov/",
+                    "url": "https://plants.usda.gov/"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Ayurvedic pharmacopeia of India ( https://dravyagunatvpm.wordpress.com/e-ayupharmacopoeia-of-india/ )",
+                    "links": [
+                        {
+                            "text": "https://dravyagunatvpm.wordpress.com/e-ayupharmacopoeia-of-india/",
+                            "url": "https://dravyagunatvpm.wordpress.com/e-ayupharmacopoeia-of-india/"
+                        }
+                    ]
+                },
+                {
+                    "text": "Ayurvedic formulary of India ( https://dravyagunatvpm.wordpress.com/ayurvedic-formulary-of-india/ )",
+                    "links": [
+                        {
+                            "text": "https://dravyagunatvpm.wordpress.com/ayurvedic-formulary-of-india/",
+                            "url": "https://dravyagunatvpm.wordpress.com/ayurvedic-formulary-of-india/"
+                        }
+                    ]
+                },
+                {
+                    "text": "ENVIS ( http://envis.frlht.org/ )",
+                    "links": [
+                        {
+                            "text": "http://envis.frlht.org/",
+                            "url": "http://envis.frlht.org/"
+                        }
+                    ]
+                },
+                {
+                    "text": "IMPPAT: A curated database of Indian Medicinal Plants, Phytochemistry and Therapeutics ( https://cb.imsc.res.in/imppat/ )",
+                    "links": [
+                        {
+                            "text": "https://cb.imsc.res.in/imppat/",
+                            "url": "https://cb.imsc.res.in/imppat/"
+                        }
+                    ]
+                },
+                {
+                    "text": "Database on Medicinal Plants (http//:www.nmpb-mpdb.nic.in)",
+                    "links": []
+                },
+                {
+                    "text": "Medicinal plant database of India ( https://bsi.gov.in/page/en/medicinal-plant-database )",
+                    "links": [
+                        {
+                            "text": "https://bsi.gov.in/page/en/medicinal-plant-database",
+                            "url": "https://bsi.gov.in/page/en/medicinal-plant-database"
+                        }
+                    ]
+                },
+                {
+                    "text": "Electronic Information Resources for Herbal Medicine — Society for Medicinal Plant. ( https://www.unom.ac.in/webportal/uploads/library/gcl-opac/HMedicine.htm )",
+                    "links": [
+                        {
+                            "text": "https://www.unom.ac.in/webportal/uploads/library/gcl-opac/HMedicine.htm",
+                            "url": "https://www.unom.ac.in/webportal/uploads/library/gcl-opac/HMedicine.htm"
+                        }
+                    ]
+                },
+                {
+                    "text": "Herb society of America ( https://www.herbsociety.org/ )",
+                    "links": [
+                        {
+                            "text": "https://www.herbsociety.org/",
+                            "url": "https://www.herbsociety.org/"
+                        }
+                    ]
+                },
+                {
+                    "text": "United States Department of Agriculture- plant database ( https://plants.usda.gov/ )",
+                    "links": [
+                        {
+                            "text": "https://plants.usda.gov/",
+                            "url": "https://plants.usda.gov/"
+                        }
+                    ]
+                },
+                {
+                    "text": "Database on medicinal plants all the volumes of CCRAS",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Books and encyclopaedia for further reading",
+            "html": "<p><b>Books and encyclopaedia for further reading</b>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "ul",
+            "text": "Dravya Guna Vigyan by P.V.Sharma. Dravya guna vigyan by Prof.D.S.Lucas Bhavprakash nigantu by Bhavmishra Abhinav butidarpan by Shri Ruplal ji vaishya Prayogatamaka Dravyaguna Vigyana by Dr. Maya Ram Uniyal Textbook of Dravyaguna by Dr.K.Nishteswar Himalaya ki arogyadayi vanaspatiya by Ayush Dept. Govt. of India. Vanaushadi Chandrodya by Shri Chandraraj bhandari Ayurvedic pharmacology and therapeutic uses of medicinal plants by Vaidya V.M.Gogte Chemistry and pharmacology of Ayurvedic medicinal plants by Vd. Mukund Sabnis Medicinal plants of Uttranchal state by Dr. Anil K. Dhiman Classical uses of medicinal plants by Prof. P.V.Sharma Spices and medicinal plants by P.C. Bansil Studies of medicinal plants and drugs in Dhanvantri nigantu by Dr. S.D.Kamat Reviews on Indian medicinal plants all the volumes by Medicinal plant unit- ICMR Delhi Indian medicinal plants by Kirtikar and Basu Quality standard of Indian medicinal plants all the volumes by ICMR. Handbook of the Indian flora by C. Drury A manual of poisonous plants by L.H. Pammel The flora of British India by J.D. Hooker Pharmacopeia indica by K.C. Bose Indian Medicinal plants- forgotten healers by Dr. Prakash Paranjape Glossary of Vegetable Drugs in Bhrittrayis by Thakur Balwant Singh & Vd. Krishna Chandra Chunekar",
+            "html": "<ul><li>Dravya Guna Vigyan by P.V.Sharma.</li>\n<li>Dravya guna vigyan by Prof.D.S.Lucas</li>\n<li>Bhavprakash nigantu by Bhavmishra</li>\n<li>Abhinav butidarpan by Shri Ruplal ji vaishya</li>\n<li>Prayogatamaka Dravyaguna Vigyana by Dr. Maya Ram Uniyal</li>\n<li>Textbook of Dravyaguna by Dr.K.Nishteswar</li>\n<li>Himalaya ki arogyadayi vanaspatiya by Ayush Dept. Govt. of India.</li>\n<li>Vanaushadi Chandrodya by Shri Chandraraj bhandari</li>\n<li>Ayurvedic pharmacology and therapeutic uses of medicinal plants by Vaidya V.M.Gogte</li>\n<li>Chemistry and pharmacology of Ayurvedic medicinal plants by Vd. Mukund Sabnis</li>\n<li>Medicinal plants of Uttranchal state by Dr. Anil K. Dhiman</li>\n<li>Classical uses of medicinal plants by Prof. P.V.Sharma</li>\n<li>Spices and medicinal plants by P.C. Bansil</li>\n<li>Studies of medicinal plants and drugs in Dhanvantri nigantu by Dr. S.D.Kamat</li>\n<li>Reviews on Indian medicinal plants all the volumes by Medicinal plant unit- ICMR Delhi</li>\n<li>Indian medicinal plants by Kirtikar and Basu</li>\n<li>Quality standard of Indian medicinal plants all the volumes by ICMR.</li>\n<li>Handbook of the Indian flora by C. Drury</li>\n<li>A manual of poisonous plants by L.H. Pammel</li>\n<li>The flora of British India by J.D. Hooker</li>\n<li>Pharmacopeia indica by K.C. Bose</li>\n<li>Indian Medicinal plants- forgotten healers by Dr. Prakash Paranjape</li>\n<li>Glossary of Vegetable Drugs in Bhrittrayis by Thakur Balwant Singh &amp; Vd. Krishna Chandra Chunekar</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Dravya Guna Vigyan by P.V.Sharma.",
+                    "links": []
+                },
+                {
+                    "text": "Dravya guna vigyan by Prof.D.S.Lucas",
+                    "links": []
+                },
+                {
+                    "text": "Bhavprakash nigantu by Bhavmishra",
+                    "links": []
+                },
+                {
+                    "text": "Abhinav butidarpan by Shri Ruplal ji vaishya",
+                    "links": []
+                },
+                {
+                    "text": "Prayogatamaka Dravyaguna Vigyana by Dr. Maya Ram Uniyal",
+                    "links": []
+                },
+                {
+                    "text": "Textbook of Dravyaguna by Dr.K.Nishteswar",
+                    "links": []
+                },
+                {
+                    "text": "Himalaya ki arogyadayi vanaspatiya by Ayush Dept. Govt. of India.",
+                    "links": []
+                },
+                {
+                    "text": "Vanaushadi Chandrodya by Shri Chandraraj bhandari",
+                    "links": []
+                },
+                {
+                    "text": "Ayurvedic pharmacology and therapeutic uses of medicinal plants by Vaidya V.M.Gogte",
+                    "links": []
+                },
+                {
+                    "text": "Chemistry and pharmacology of Ayurvedic medicinal plants by Vd. Mukund Sabnis",
+                    "links": []
+                },
+                {
+                    "text": "Medicinal plants of Uttranchal state by Dr. Anil K. Dhiman",
+                    "links": []
+                },
+                {
+                    "text": "Classical uses of medicinal plants by Prof. P.V.Sharma",
+                    "links": []
+                },
+                {
+                    "text": "Spices and medicinal plants by P.C. Bansil",
+                    "links": []
+                },
+                {
+                    "text": "Studies of medicinal plants and drugs in Dhanvantri nigantu by Dr. S.D.Kamat",
+                    "links": []
+                },
+                {
+                    "text": "Reviews on Indian medicinal plants all the volumes by Medicinal plant unit- ICMR Delhi",
+                    "links": []
+                },
+                {
+                    "text": "Indian medicinal plants by Kirtikar and Basu",
+                    "links": []
+                },
+                {
+                    "text": "Quality standard of Indian medicinal plants all the volumes by ICMR.",
+                    "links": []
+                },
+                {
+                    "text": "Handbook of the Indian flora by C. Drury",
+                    "links": []
+                },
+                {
+                    "text": "A manual of poisonous plants by L.H. Pammel",
+                    "links": []
+                },
+                {
+                    "text": "The flora of British India by J.D. Hooker",
+                    "links": []
+                },
+                {
+                    "text": "Pharmacopeia indica by K.C. Bose",
+                    "links": []
+                },
+                {
+                    "text": "Indian Medicinal plants- forgotten healers by Dr. Prakash Paranjape",
+                    "links": []
+                },
+                {
+                    "text": "Glossary of Vegetable Drugs in Bhrittrayis by Thakur Balwant Singh & Vd. Krishna Chandra Chunekar",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Future area of research",
+            "html": "<h2><span class=\"mw-headline\" id=\"Future_area_of_research\">Future area of research</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "Identifying and knowing all dravya in the universe is a continuous learning process. Changes in primary structures of dravya due to evolution, environmental changes, climatic conditions, soil, need to be researched and updated in the knowledge base. Newer herbs, high-breed grains, and their genetic structures need to be studied for their dietary and medicinal utility based on principles of Ayurveda .",
+            "html": "<p>Identifying and knowing all dravya in the universe is a continuous learning process. Changes in primary structures of dravya due to evolution, environmental changes, climatic conditions, soil, need to be researched and updated in the knowledge base. Newer herbs, high-breed grains, and their genetic structures need to be studied for their dietary and medicinal utility based on principles of <a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a>.\n</p>",
+            "links": [
+                {
+                    "text": "Ayurveda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayurveda"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Theses done",
+            "html": "<h2><span class=\"mw-headline\" id=\"Theses_done\">Theses done</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ol",
+            "text": "Nalage Dilip H (2004): A study of Samskara and its role in alteration of Pancha-Bhautika composition of Dravya. Dept of Basic principles, IPGT & RA, Gujarat. Dileep Singh Baghel (2006).: A Pharmaceutical standardization of Kwatha (Phalatrikadi Kwatha) with special reference to determination of practical size of Kwatha Dravya. Dept. of Rasashastra and Bhaishajya Kalpana, IPGT & RA, Gujarat. Hemant S Pol (2010): The Concept of Dravya Guna & its Role in Physiopathology W.S.R. to Amlapitta.. Dept of Basic principles, IPGT & RA, Gujarat. Anuruchi Jadoun (2012): Concept of Panchabhautika Arabdhata of Dravyas (Conjugation & Configuration of Mahabhuta and Applied Aspect of Samana and Vichitra Pratyayarabdhat. Department of Basic Principles, IPGT & RA, Gujarat. Agrawal Kanhaiya (2016): Comparative Studies on three types of best virechana Dravyas. Department of Dravyaguna. BHU, Varanasi.",
+            "html": "<ol><li>Nalage Dilip H (2004): A study of Samskara and its role in alteration of Pancha-Bhautika composition of Dravya. Dept of Basic principles, IPGT &amp; RA, Gujarat.</li>\n<li>Dileep Singh Baghel (2006).: A Pharmaceutical standardization of Kwatha (Phalatrikadi Kwatha) with special reference to determination of practical size of Kwatha Dravya. Dept. of Rasashastra and Bhaishajya Kalpana, IPGT &amp; RA, Gujarat.</li>\n<li>Hemant S Pol (2010): The Concept of Dravya Guna &amp; its Role in Physiopathology W.S.R. to Amlapitta.. Dept of Basic principles, IPGT &amp; RA, Gujarat.</li>\n<li>Anuruchi Jadoun (2012): Concept of Panchabhautika Arabdhata of Dravyas (Conjugation &amp; Configuration of Mahabhuta and Applied Aspect of Samana and Vichitra Pratyayarabdhat. Department of Basic Principles, IPGT &amp; RA, Gujarat.</li>\n<li>Agrawal Kanhaiya (2016): Comparative Studies on three types of best virechana Dravyas. Department of Dravyaguna. BHU, Varanasi.</li></ol>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Nalage Dilip H (2004): A study of Samskara and its role in alteration of Pancha-Bhautika composition of Dravya. Dept of Basic principles, IPGT & RA, Gujarat.",
+                    "links": []
+                },
+                {
+                    "text": "Dileep Singh Baghel (2006).: A Pharmaceutical standardization of Kwatha (Phalatrikadi Kwatha) with special reference to determination of practical size of Kwatha Dravya. Dept. of Rasashastra and Bhaishajya Kalpana, IPGT & RA, Gujarat.",
+                    "links": []
+                },
+                {
+                    "text": "Hemant S Pol (2010): The Concept of Dravya Guna & its Role in Physiopathology W.S.R. to Amlapitta.. Dept of Basic principles, IPGT & RA, Gujarat.",
+                    "links": []
+                },
+                {
+                    "text": "Anuruchi Jadoun (2012): Concept of Panchabhautika Arabdhata of Dravyas (Conjugation & Configuration of Mahabhuta and Applied Aspect of Samana and Vichitra Pratyayarabdhat. Department of Basic Principles, IPGT & RA, Gujarat.",
+                    "links": []
+                },
+                {
+                    "text": "Agrawal Kanhaiya (2016): Comparative Studies on three types of best virechana Dravyas. Department of Dravyaguna. BHU, Varanasi.",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Send us your suggestions and feedback on this page.",
+            "html": "<p><big><b><a href=\"/index.php?title=Special:ContactMe\" title=\"Special:ContactMe\">Send us your suggestions and feedback on this page.</a></b></big>\n</p>",
+            "links": [
+                {
+                    "text": "Send us your suggestions and feedback on this page.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Special:ContactMe"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "References",
+            "html": "<h2><span class=\"mw-headline\" id=\"References\">References</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "text",
+            "text": "Back to the Top"
+        },
+        {
+            "type": "ol",
+            "text": "↑ National AYUSH Morbidity and Standardized Terminologies Electronic Portal by Ministry of AYUSH Available on http://namstp.ayush.gov.in/#/Ayurveda ↑ 2.0 2.1 Rajaram Pandit. Vaisheshik darshan. Lahore: Bombay machine press; 1976. ↑ 3.0 3.1 3.2 3.3 3.4 3.5 3.6 Sushruta. Sushruta Samhita. Edited by Jadavaji Trikamji Aacharya. 8th ed. Varanasi: Chaukhambha Orientalia;2005. ↑ Sharangadhara. Sharangadhara Samhita. Translated from Sanskrit by K.R. Srikantha Murthy. Reprint ed. Varanasi: Chaukhambha orientalia;2016. ↑ Vagbhata. Ashtanga Hridayam. Edited by Harishastri Paradkar Vaidya. 1st ed. Varanasi: Krishnadas Academy;2000. ↑ Rahul, Kumar Gupta, Rahul Soni, Pradeep Singh, Rohit Shrivastava, Jitendra Rajput, Pawan. Health benefits of natural nutrients: ayurveda dravya as nutraceuticals. WJPMR. 2018; 4(4);253-255. ↑ Manish Choudhari, Naresh Jain. Role of different rasayana dravya in oxidative stress – a review study. IJSR. 2020; 9(3):71-72. ↑ Deole YS, Chavan SS, Ashok B K, Ravishankar B, Thakar A B, Chandola H M. Evaluation of anti-depressant and anxiolytic activity of Rasayana Ghana Tablet (A compound Ayurvedic formulation) in albino mice. AYU [serial online] 2011 [cited 2022 Jun 22];32:375-9. Available from: https://www.ayujournal.org/text.asp?2011/32/3/375/93918 ↑ Vyas P, Thakar A B, Baghel M S, Sisodia A, Deole Y. Efficacy of Rasayana Avaleha as adjuvant to radiotherapy and chemotherapy in reducing adverse effects. AYU [serial online] 2010 [cited 2022 Jun 22];31:417-23. Available from: https://www.ayujournal.org/text.asp?2010/31/4/417/82029 ↑ Jadoun A, Dwivedi R. Effect of selected Samana and Vicitra Pratyayarabdha Dravya w.s.r. to Vipaka. Ayu. 2013;34(4):373-378. doi:10.4103/0974-8520.127718",
+            "html": "<ol class=\"references\">\n<li id=\"cite_note-1\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-1\">↑</a></span> <span class=\"reference-text\">National AYUSH Morbidity and Standardized Terminologies Electronic Portal by Ministry of AYUSH Available on <a class=\"external free\" href=\"http://namstp.ayush.gov.in/#/Ayurveda\" rel=\"nofollow\">http://namstp.ayush.gov.in/#/Ayurveda</a></span>\n</li>\n<li id=\"cite_note-Va.D-2\"><span class=\"mw-cite-backlink\">↑ <sup><a href=\"#cite_ref-Va.D_2-0\">2.0</a></sup> <sup><a href=\"#cite_ref-Va.D_2-1\">2.1</a></sup></span> <span class=\"reference-text\"> Rajaram Pandit. Vaisheshik darshan. Lahore: Bombay machine press; 1976.</span>\n</li>\n<li id=\"cite_note-Susruta-3\"><span class=\"mw-cite-backlink\">↑ <sup><a href=\"#cite_ref-Susruta_3-0\">3.0</a></sup> <sup><a href=\"#cite_ref-Susruta_3-1\">3.1</a></sup> <sup><a href=\"#cite_ref-Susruta_3-2\">3.2</a></sup> <sup><a href=\"#cite_ref-Susruta_3-3\">3.3</a></sup> <sup><a href=\"#cite_ref-Susruta_3-4\">3.4</a></sup> <sup><a href=\"#cite_ref-Susruta_3-5\">3.5</a></sup> <sup><a href=\"#cite_ref-Susruta_3-6\">3.6</a></sup></span> <span class=\"reference-text\"> Sushruta. Sushruta Samhita. Edited by Jadavaji Trikamji Aacharya. 8th ed. Varanasi: Chaukhambha Orientalia;2005.</span>\n</li>\n<li id=\"cite_note-Shargadara-4\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-Shargadara_4-0\">↑</a></span> <span class=\"reference-text\"> Sharangadhara. Sharangadhara Samhita. Translated from Sanskrit by K.R. Srikantha Murthy. Reprint ed. Varanasi: Chaukhambha orientalia;2016.</span>\n</li>\n<li id=\"cite_note-Hridaya-5\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-Hridaya_5-0\">↑</a></span> <span class=\"reference-text\"> Vagbhata. Ashtanga Hridayam. Edited by Harishastri Paradkar Vaidya. 1st ed. Varanasi: Krishnadas Academy;2000.</span>\n</li>\n<li id=\"cite_note-6\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-6\">↑</a></span> <span class=\"reference-text\">Rahul, Kumar Gupta, Rahul  Soni, Pradeep Singh, Rohit Shrivastava, Jitendra Rajput, Pawan. Health benefits of natural nutrients: ayurveda dravya as nutraceuticals. WJPMR. 2018; 4(4);253-255.</span>\n</li>\n<li id=\"cite_note-7\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-7\">↑</a></span> <span class=\"reference-text\">Manish Choudhari, Naresh Jain. Role of different rasayana dravya in oxidative stress – a review study. IJSR. 2020; 9(3):71-72.</span>\n</li>\n<li id=\"cite_note-8\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-8\">↑</a></span> <span class=\"reference-text\">Deole YS, Chavan SS, Ashok B K, Ravishankar B, Thakar A B, Chandola H M. Evaluation of anti-depressant and anxiolytic activity of Rasayana Ghana Tablet (A compound Ayurvedic formulation) in albino mice. AYU [serial online] 2011 [cited 2022 Jun 22];32:375-9. Available from: <a class=\"external free\" href=\"https://www.ayujournal.org/text.asp?2011/32/3/375/93918\" rel=\"nofollow\">https://www.ayujournal.org/text.asp?2011/32/3/375/93918</a></span>\n</li>\n<li id=\"cite_note-9\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-9\">↑</a></span> <span class=\"reference-text\">Vyas P, Thakar A B, Baghel M S, Sisodia A, Deole Y. Efficacy of Rasayana Avaleha as adjuvant to radiotherapy and chemotherapy in reducing adverse effects. AYU [serial online] 2010 [cited 2022 Jun 22];31:417-23. Available from: <a class=\"external free\" href=\"https://www.ayujournal.org/text.asp?2010/31/4/417/82029\" rel=\"nofollow\">https://www.ayujournal.org/text.asp?2010/31/4/417/82029</a></span>\n</li>\n<li id=\"cite_note-10\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-10\">↑</a></span> <span class=\"reference-text\">Jadoun A, Dwivedi R. Effect of selected Samana and Vicitra Pratyayarabdha Dravya w.s.r. to Vipaka. Ayu. 2013;34(4):373-378. doi:10.4103/0974-8520.127718</span>\n</li>\n</ol>",
+            "links": [
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#cite_ref-1"
+                },
+                {
+                    "text": "http://namstp.ayush.gov.in/#/Ayurveda",
+                    "url": "http://namstp.ayush.gov.in/#/Ayurveda"
+                },
+                {
+                    "text": "2.0",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#cite_ref-Va.D_2-0"
+                },
+                {
+                    "text": "2.1",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#cite_ref-Va.D_2-1"
+                },
+                {
+                    "text": "3.0",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#cite_ref-Susruta_3-0"
+                },
+                {
+                    "text": "3.1",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#cite_ref-Susruta_3-1"
+                },
+                {
+                    "text": "3.2",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#cite_ref-Susruta_3-2"
+                },
+                {
+                    "text": "3.3",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#cite_ref-Susruta_3-3"
+                },
+                {
+                    "text": "3.4",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#cite_ref-Susruta_3-4"
+                },
+                {
+                    "text": "3.5",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#cite_ref-Susruta_3-5"
+                },
+                {
+                    "text": "3.6",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#cite_ref-Susruta_3-6"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#cite_ref-Shargadara_4-0"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#cite_ref-Hridaya_5-0"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#cite_ref-6"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#cite_ref-7"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#cite_ref-8"
+                },
+                {
+                    "text": "https://www.ayujournal.org/text.asp?2011/32/3/375/93918",
+                    "url": "https://www.ayujournal.org/text.asp?2011/32/3/375/93918"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#cite_ref-9"
+                },
+                {
+                    "text": "https://www.ayujournal.org/text.asp?2010/31/4/417/82029",
+                    "url": "https://www.ayujournal.org/text.asp?2010/31/4/417/82029"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#cite_ref-10"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "↑ National AYUSH Morbidity and Standardized Terminologies Electronic Portal by Ministry of AYUSH Available on http://namstp.ayush.gov.in/#/Ayurveda",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#cite_ref-1"
+                        },
+                        {
+                            "text": "http://namstp.ayush.gov.in/#/Ayurveda",
+                            "url": "http://namstp.ayush.gov.in/#/Ayurveda"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ 2.0 2.1 Rajaram Pandit. Vaisheshik darshan. Lahore: Bombay machine press; 1976.",
+                    "links": [
+                        {
+                            "text": "2.0",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#cite_ref-Va.D_2-0"
+                        },
+                        {
+                            "text": "2.1",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#cite_ref-Va.D_2-1"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ 3.0 3.1 3.2 3.3 3.4 3.5 3.6 Sushruta. Sushruta Samhita. Edited by Jadavaji Trikamji Aacharya. 8th ed. Varanasi: Chaukhambha Orientalia;2005.",
+                    "links": [
+                        {
+                            "text": "3.0",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#cite_ref-Susruta_3-0"
+                        },
+                        {
+                            "text": "3.1",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#cite_ref-Susruta_3-1"
+                        },
+                        {
+                            "text": "3.2",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#cite_ref-Susruta_3-2"
+                        },
+                        {
+                            "text": "3.3",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#cite_ref-Susruta_3-3"
+                        },
+                        {
+                            "text": "3.4",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#cite_ref-Susruta_3-4"
+                        },
+                        {
+                            "text": "3.5",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#cite_ref-Susruta_3-5"
+                        },
+                        {
+                            "text": "3.6",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#cite_ref-Susruta_3-6"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Sharangadhara. Sharangadhara Samhita. Translated from Sanskrit by K.R. Srikantha Murthy. Reprint ed. Varanasi: Chaukhambha orientalia;2016.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#cite_ref-Shargadara_4-0"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Vagbhata. Ashtanga Hridayam. Edited by Harishastri Paradkar Vaidya. 1st ed. Varanasi: Krishnadas Academy;2000.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#cite_ref-Hridaya_5-0"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Rahul, Kumar Gupta, Rahul Soni, Pradeep Singh, Rohit Shrivastava, Jitendra Rajput, Pawan. Health benefits of natural nutrients: ayurveda dravya as nutraceuticals. WJPMR. 2018; 4(4);253-255.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#cite_ref-6"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Manish Choudhari, Naresh Jain. Role of different rasayana dravya in oxidative stress – a review study. IJSR. 2020; 9(3):71-72.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#cite_ref-7"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Deole YS, Chavan SS, Ashok B K, Ravishankar B, Thakar A B, Chandola H M. Evaluation of anti-depressant and anxiolytic activity of Rasayana Ghana Tablet (A compound Ayurvedic formulation) in albino mice. AYU [serial online] 2011 [cited 2022 Jun 22];32:375-9. Available from: https://www.ayujournal.org/text.asp?2011/32/3/375/93918",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#cite_ref-8"
+                        },
+                        {
+                            "text": "https://www.ayujournal.org/text.asp?2011/32/3/375/93918",
+                            "url": "https://www.ayujournal.org/text.asp?2011/32/3/375/93918"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Vyas P, Thakar A B, Baghel M S, Sisodia A, Deole Y. Efficacy of Rasayana Avaleha as adjuvant to radiotherapy and chemotherapy in reducing adverse effects. AYU [serial online] 2010 [cited 2022 Jun 22];31:417-23. Available from: https://www.ayujournal.org/text.asp?2010/31/4/417/82029",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#cite_ref-9"
+                        },
+                        {
+                            "text": "https://www.ayujournal.org/text.asp?2010/31/4/417/82029",
+                            "url": "https://www.ayujournal.org/text.asp?2010/31/4/417/82029"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Jadoun A, Dwivedi R. Effect of selected Samana and Vicitra Pratyayarabdha Dravya w.s.r. to Vipaka. Ayu. 2013;34(4):373-378. doi:10.4103/0974-8520.127718",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya#cite_ref-10"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "text": "NewPP limit report\nCached time: 20261118010047\nCache expiry: 86400\nReduced expiry: false\nComplications: [vary‐revision‐id, show‐toc]\nCPU time usage: 0.082 seconds\nReal time usage: 0.170 seconds\nPreprocessor visited node count: 672/1000000\nPost‐expand include size: 3233/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 6/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 2874/5000000 bytes\nLua time usage: 0.070/7 seconds\nLua virtual size: 20471808/209715200 bytes\nLua estimated memory usage: 0 bytes"
+        },
+        {
+            "type": "text",
+            "text": "Transclusion expansion time report (%,ms,calls,template)\n100.00% 132.505 1 -total\n92.08% 122.017 1 Template:Infobox\n3.40% 4.506 1 Template:DoiWithLink\n1.68% 2.229 1 Template:CiteButton"
+        },
+        {
+            "type": "text",
+            "text": "Saved in parser cache with key carakas1_carakasa:pcache:idhash:3214-0!canonical and timestamp 20261118010047 and revision id 44626. Rendering was triggered because: diff-page"
+        },
+        {
+            "type": "text",
+            "text": "Retrieved from \""
+        },
+        {
+            "type": "text",
+            "text": "https://www.carakasamhitaonline.com/index.php?title=Dravya&oldid=44626"
+        },
+        {
+            "type": "text",
+            "text": "\""
+        }
+    ],
+    "html_sha256": "d92b8cebe6991c3b66de07bd3557482866960ff3de4cf52034a1bcd2e31ae659"
+}

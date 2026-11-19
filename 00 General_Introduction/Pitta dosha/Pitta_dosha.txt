@@ -1,0 +1,2773 @@
+==========================================================================================
+CHARAKA SAMHITA
+PITTA DOSHA
+==========================================================================================
+
+Source URL: https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha
+Extraction Date: 2026-11-19T10:26:02
+Total Blocks: 397
+
+==========================================================================================
+
+
+[BLOCK 1: H1]
+----------------------------------------------------------------------
+Pitta dosha
+
+
+[BLOCK 2: TEXT]
+----------------------------------------------------------------------
+From Charak Samhita
+
+
+[BLOCK 3: TEXT]
+----------------------------------------------------------------------
+Jump to navigation
+
+
+[BLOCK 4: TEXT]
+----------------------------------------------------------------------
+Jump to search
+
+
+[BLOCK 5: FIGURE]
+----------------------------------------------------------------------
+
+
+[REFERENCES / LINKS]
+ : https://www.charakasamhitauptodate.com/index.php?title=Special:CiteThisPage&page=Pitta_dosha&id=44641&wpFormIdentifier=titleform
+
+[IMAGES]
+ : https://www.carakasamhitaonline.com/images/5/58/Cite.png
+
+
+[BLOCK 6: P]
+----------------------------------------------------------------------
+Pitta dosha is responsible for maintaining body temperature, digestion and metabolism. Pitta dosha is agni mahabhuta predominant. [Code:SAT-B.401] [ 1 ] This chapter describes the physiological functions and pathological importance of pitta dosha.
+
+[REFERENCES / LINKS]
+body : https://www.carakasamhitaonline.com/index.php?title=Sharira
+agni mahabhuta : https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta
+[ 1 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-1
+
+
+[BLOCK 7: TABLE]
+----------------------------------------------------------------------
+[COMPLETE TABLE]
+
+Row 1:
+Column 1: Section/Chapter/topic
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Concepts/ Dosha / Pitta Dosha
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 2:
+Column 1: Authors
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Bhojani M. K. 1 , Tanwar Ankur Kumar 1
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 3:
+Column 1: Reviewer
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Basisht G. 2
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 4:
+Column 1: Editor
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Deole Y.S. 3
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 5:
+Column 1: Affiliations
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: 1 Department of Sharir Kriya, All India Institute of Ayurveda, New Delhi, India 2 Rheumatologist, Orlando, Florida, U.S.A. 3 Department of Kayachikitsa, G.J.Patel Institute of Ayurvedic Studies and Research, New Vallabh Vidyanagar, Gujarat, India
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 6:
+Column 1: Correspondence emails
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: meera.samhita@aiia.gov.in, carakasamhita@gmail.com
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 7:
+Column 1: Publisher
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Charak Samhita Research, Training and Development Centre , I.T.R.A., Jamnagar, India
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 8:
+Column 1: Date of publication:
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: December 16, 2022
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 9:
+Column 1: DOI
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: 10.47468/CSNE.2022.e01.s09.122
+  Type: td, Rowspan: 1, Colspan: 1
+
+[REFERENCES / LINKS]
+Dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+Pitta Dosha : https://www.carakasamhitaonline.com/index.php?title=Pitta_Dosha
+Basisht G. : https://www.carakasamhitaonline.com/index.php?title=Gopal_Basisht
+Deole Y.S. : https://www.carakasamhitaonline.com/index.php?title=Yogesh_Deole
+Charak Samhita Research, Training and Development Centre : https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre
+10.47468/CSNE.2022.e01.s09.122 : https://doi.org/10.47468/CSNE.2022.e01.s09.122
+
+
+[BLOCK 8: H2]
+----------------------------------------------------------------------
+Contents
+
+
+[BLOCK 9: UL]
+----------------------------------------------------------------------
+1. 1 Etymology and derivation
+2. 2 Synonyms
+3. 3 Bhautika composition 3.1 Pitta dosha and triguna 3.2 Sites of pitta 3.3 Attributes
+4. 4 Functions of Pitta
+5. 5 Classification 5.1 Five types of pitta dosha, sites and functions:
+6. 6 Pitta dominant constitution (prakriti) 6.1 Loka Purusha Samya 6.2 Factors responsible for abnormal states of pitta 6.2.1 Natural factors 6.2.2 Acquired factors
+7. 7 Clinical aspects 7.1 Stages of dosha: 7.2 Hyperfunctioning of pitta (vriddhi lakshana): 7.3 Hypo functioning of pitta (kshaya lakshana): 7.4 Diagnosis: 7.5 Diagnostic and assessment tools
+8. 8 Treatment
+9. 9 Current researches 9.1 Analysis of physiology of vision: 9.2 Functions of pitta dosha as per gender and prakriti: 9.3 Pitta detection using finger photoplethysmography: 9.4 Analysis of pitta imbalance using machine learning algorithm:
+10. 10 Theses done
+11. 11 Future area of research
+12. 12 References
+
+[REFERENCES / LINKS]
+1 Etymology and derivation : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#Etymology_and_derivation
+2 Synonyms : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#Synonyms
+3 Bhautika composition : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#Bhautika_composition
+3.1 Pitta dosha and triguna : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#Pitta_dosha_and_triguna
+3.2 Sites of pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#Sites_of_pitta
+3.3 Attributes : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#Attributes
+4 Functions of Pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#Functions_of_Pitta
+5 Classification : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#Classification
+5.1 Five types of pitta dosha, sites and functions: : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#Five_types_of_pitta_dosha,_sites_and_functions:
+6 Pitta dominant constitution (prakriti) : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#Pitta_dominant_constitution_(prakriti)
+6.1 Loka Purusha Samya : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#Loka_Purusha_Samya
+6.2 Factors responsible for abnormal states of pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#Factors_responsible_for_abnormal_states_of_pitta
+6.2.1 Natural factors : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#Natural_factors
+6.2.2 Acquired factors : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#Acquired_factors
+7 Clinical aspects : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#Clinical_aspects
+7.1 Stages of dosha: : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#Stages_of_dosha:
+7.2 Hyperfunctioning of pitta (vriddhi lakshana): : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#Hyperfunctioning_of_pitta_(vriddhi_lakshana):
+7.3 Hypo functioning of pitta (kshaya lakshana): : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#Hypo_functioning_of_pitta_(kshaya_lakshana):
+7.4 Diagnosis: : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#Diagnosis:
+7.5 Diagnostic and assessment tools : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#Diagnostic_and_assessment_tools
+8 Treatment : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#Treatment
+9 Current researches : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#Current_researches
+9.1 Analysis of physiology of vision: : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#Analysis_of_physiology_of_vision:
+9.2 Functions of pitta dosha as per gender and prakriti: : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#Functions_of_pitta_dosha_as_per_gender_and_prakriti:
+9.3 Pitta detection using finger photoplethysmography: : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#Pitta_detection_using_finger_photoplethysmography:
+9.4 Analysis of pitta imbalance using machine learning algorithm: : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#Analysis_of_pitta_imbalance_using_machine_learning_algorithm:
+10 Theses done : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#Theses_done
+11 Future area of research : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#Future_area_of_research
+12 References : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#References
+
+
+[BLOCK 10: H2]
+----------------------------------------------------------------------
+Etymology and derivation
+
+
+[BLOCK 11: TEXT]
+----------------------------------------------------------------------
+The word ‘Pitta’ is derived from Sanskrit root “tap”.[Su. Sa. Sutra Sthana 21/5]
+
+
+[BLOCK 12: TEXT]
+----------------------------------------------------------------------
+[
+
+
+[BLOCK 13: TEXT]
+----------------------------------------------------------------------
+2
+
+
+[BLOCK 14: TEXT]
+----------------------------------------------------------------------
+]
+
+
+[BLOCK 15: TEXT]
+----------------------------------------------------------------------
+The root word ‘tap’ has three meaning: 1) tap dahe means to burn, 2) tap santape means heat generator and 3) tap aishwarye means able to procure eight types of attainments of a yogi (animadi aishwarye).
+
+
+[BLOCK 16: TEXT]
+----------------------------------------------------------------------
+[
+
+
+[BLOCK 17: TEXT]
+----------------------------------------------------------------------
+3
+
+
+[BLOCK 18: TEXT]
+----------------------------------------------------------------------
+]
+
+
+[BLOCK 19: TEXT]
+----------------------------------------------------------------------
+Dahana denotes transformation or conversion (paka) in the living
+
+
+[BLOCK 20: TEXT]
+----------------------------------------------------------------------
+body
+
+
+[BLOCK 21: TEXT]
+----------------------------------------------------------------------
+. This explains the function of pitta is the transformation or modification of one substance to other.
+
+
+[BLOCK 22: H2]
+----------------------------------------------------------------------
+Synonyms
+
+
+[BLOCK 23: P]
+----------------------------------------------------------------------
+Mayu, teja, ushma, agni, anala, bile, to inflame, to nourish, a type of kala in the body. [ 3 ] [ 4 ]
+
+[REFERENCES / LINKS]
+[ 3 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref3-3
+[ 4 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref4-4
+
+
+[BLOCK 24: H2]
+----------------------------------------------------------------------
+Bhautika composition
+
+
+[BLOCK 25: TEXT]
+----------------------------------------------------------------------
+Pitta dosha has dominance of
+
+
+[BLOCK 26: TEXT]
+----------------------------------------------------------------------
+teja mahabhuta
+
+
+[BLOCK 27: TEXT]
+----------------------------------------------------------------------
+. [A.S. Sutra Sthana 20/1]
+
+
+[BLOCK 28: TEXT]
+----------------------------------------------------------------------
+[
+
+
+[BLOCK 29: TEXT]
+----------------------------------------------------------------------
+5
+
+
+[BLOCK 30: TEXT]
+----------------------------------------------------------------------
+]
+
+
+[BLOCK 31: TEXT]
+----------------------------------------------------------------------
+Pitta dosha is originated from
+
+
+[BLOCK 32: TEXT]
+----------------------------------------------------------------------
+agni or teja mahabhuta
+
+
+[BLOCK 33: TEXT]
+----------------------------------------------------------------------
+.[Chakrapani on Su.Sa. Sutra Sthana 15/8]
+
+
+[BLOCK 34: TEXT]
+----------------------------------------------------------------------
+[
+
+
+[BLOCK 35: TEXT]
+----------------------------------------------------------------------
+2
+
+
+[BLOCK 36: TEXT]
+----------------------------------------------------------------------
+]
+
+
+[BLOCK 37: TEXT]
+----------------------------------------------------------------------
+[Figure 01]
+
+
+[BLOCK 38: H3]
+----------------------------------------------------------------------
+Pitta dosha and triguna
+
+[REFERENCES / LINKS]
+triguna : https://www.carakasamhitaonline.com/index.php?title=Triguna
+
+
+[BLOCK 39: P]
+----------------------------------------------------------------------
+All the living & nonliving things originate from panchamahabhuta which originate from trigunatmaka prakriti as described in evolution process (utpatti krama). Dosha are evolved from panchamahbhuta , so these dosha bear triguna property. Pitta is evolved from agni that has sattva and raja predominance. [ 2 ] [Su. Sa.Sharira Sthana 1/20] Sharangadhara and Bhavaprakasha opines that pitta has sattva predominance. [Sha.Sa.Pratham Khanda 5] [ 6 ] [Bh. P. Purva Khand 3/103] [ 7 ] [Figure 01]
+
+[REFERENCES / LINKS]
+panchamahabhuta : https://www.carakasamhitaonline.com/index.php?title=Pancha_mahabhuta
+prakriti : https://www.carakasamhitaonline.com/index.php?title=Prakriti
+Dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+panchamahbhuta : https://www.carakasamhitaonline.com/index.php?title=Pancha_mahabhuta
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+triguna : https://www.carakasamhitaonline.com/index.php?title=Triguna
+agni : https://www.carakasamhitaonline.com/index.php?title=Agni
+sattva : https://www.carakasamhitaonline.com/index.php?title=Sattva
+raja : https://www.carakasamhitaonline.com/index.php?title=Rajas
+[ 2 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref2-2
+sattva : https://www.carakasamhitaonline.com/index.php?title=Sattva
+[ 6 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref6-6
+[ 7 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref7-7
+
+
+[BLOCK 40: FIGURE]
+----------------------------------------------------------------------
+Figure 01: Relation between triguna, mahabhauta and pitta dosha.
+
+[REFERENCES / LINKS]
+ : https://www.carakasamhitaonline.com/index.php?title=File:Figure1.jpg
+
+[IMAGES]
+Figure 01: Relation between triguna, mahabhauta and pitta dosha. : https://www.carakasamhitaonline.com/images/8/8e/Figure1.jpg
+
+
+[BLOCK 41: TEXT]
+----------------------------------------------------------------------
+Figure 01: Relation between
+
+
+[BLOCK 42: TEXT]
+----------------------------------------------------------------------
+triguna
+
+
+[BLOCK 43: TEXT]
+----------------------------------------------------------------------
+,
+
+
+[BLOCK 44: TEXT]
+----------------------------------------------------------------------
+mahabhuta
+
+
+[BLOCK 45: TEXT]
+----------------------------------------------------------------------
+and pitta dosha.
+
+
+[BLOCK 46: H3]
+----------------------------------------------------------------------
+Sites of pitta
+
+
+[BLOCK 47: P]
+----------------------------------------------------------------------
+Dosha are present in every part of the body . [Cha.Sa. Sutra Sthana 20/9] General location of pitta dosha is the middle part of the body , marked between the heart( hridaya ) and umbilicus( nabhi ).[A.S. Sutra Sthana 1/4] [ 5 ] Pitta is predominately present in body parts between the large intestine(pakvashaya) and stomach( amashaya ). [Su. Sa.Sutra Sthana 21/6] [ 2 ] The specific seats of pitta are (Figure 02):
+
+[REFERENCES / LINKS]
+Dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+body : https://www.carakasamhitaonline.com/index.php?title=Sharira
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+body : https://www.carakasamhitaonline.com/index.php?title=Sharira
+hridaya : https://www.carakasamhitaonline.com/index.php?title=Hridaya
+nabhi : https://www.carakasamhitaonline.com/index.php?title=Nabhi&action=edit&redlink=1
+[ 5 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref5-5
+body : https://www.carakasamhitaonline.com/index.php?title=Sharira
+amashaya : https://www.carakasamhitaonline.com/index.php?title=Amashaya
+[ 2 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref2-2
+
+
+[BLOCK 48: UL]
+----------------------------------------------------------------------
+1. Sweat(sweda)
+2. Nutrient body fluid or plasma ( rasa )
+3. Lymph (lasika)
+4. Blood (rudhira)
+5. Duodenum (lower part of amashaya )
+6. Umbilicus ( nabhi )
+7. Eyes (drika)
+8. Skin (twacha) [Cha.Sa. Sutra Sthana 20/8], [A.Hr. Sutra Sthana 12/2], [ 8 ] [K.S. Sutra Sthana 27/11] [ 9 ]
+
+[REFERENCES / LINKS]
+Sweat(sweda) : https://www.carakasamhitaonline.com/index.php?title=Sweda
+rasa : https://www.carakasamhitaonline.com/index.php?title=Rasa
+Blood : https://www.carakasamhitaonline.com/index.php?title=Blood&action=edit&redlink=1
+amashaya : https://www.carakasamhitaonline.com/index.php?title=Amashaya
+nabhi : https://www.carakasamhitaonline.com/index.php?title=Nabhi&action=edit&redlink=1
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+[ 8 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref8-8
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+[ 9 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref9-9
+
+
+[BLOCK 49: P]
+----------------------------------------------------------------------
+Among all these sites, duodenum ( amashaya ) and umbilicus (nabhi) are the prime sites of pitta.[Cha.Sa. Sutra Sthana 20/8][K.S. Sutra Sthana 27/11] [ 9 ] Amashaya (stomach) is located in between the breast (stana) and umbilicus( nabhi ). In amashaya , the digestion of all types of food takes place. [Cha.Sa. Vimana Sthana 2/17] Duodenum is the area of the digestive tract where maximum digestive process occurs. Acharya Chakrapani clears that the location of pitta is lower part of amashaya ( i.e. duodenum). [Chakrapani on Cha.Sa. Sutra Sthana 20/8]
+
+[REFERENCES / LINKS]
+amashaya : https://www.carakasamhitaonline.com/index.php?title=Amashaya
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+[ 9 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref9-9
+Amashaya : https://www.carakasamhitaonline.com/index.php?title=Amashaya
+nabhi : https://www.carakasamhitaonline.com/index.php?title=Nabhi&action=edit&redlink=1
+amashaya : https://www.carakasamhitaonline.com/index.php?title=Amashaya
+Vimana Sthana : https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana
+amashaya : https://www.carakasamhitaonline.com/index.php?title=Amashaya
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+
+
+[BLOCK 50: FIGURE]
+----------------------------------------------------------------------
+Figure 02. General (A)and specific sites(B) of Pitta dosha.
+
+[REFERENCES / LINKS]
+ : https://www.carakasamhitaonline.com/index.php?title=File:Fig2.jpg
+
+[IMAGES]
+Figure 02. General (A)and specific sites(B) of Pitta dosha. : https://www.carakasamhitaonline.com/images/6/63/Fig2.jpg
+
+
+[BLOCK 51: TEXT]
+----------------------------------------------------------------------
+Figure 02. General (A)and specific sites(B) of Pitta dosha.
+
+
+[BLOCK 52: H3]
+----------------------------------------------------------------------
+Attributes
+
+
+[BLOCK 53: P]
+----------------------------------------------------------------------
+The characteristics of pitta are:
+
+
+[BLOCK 54: UL]
+----------------------------------------------------------------------
+1. Slight unctuousness (sasneha or ishatsneha)[Cha.Sa. Sutra Sthana 1/60][K.S. Sutra Sthana 27/38-39] [ 9 ] [A.Hr. Sutra Sthana 1/11] [ 8 ]
+2. Hot(ushna) [Cha.Sa. Sutra Sthana 1/60] [Cha.Sa. Vimana Sthana 8/97] [Su. Sa. Sutra Sthana 21/11] [ 2 ] [A.Hr. Sutra Sthana 1/11] [ 8 ]
+3. Penetrating or sharp acting property (tikshna) [Cha.Sa. Sutra Sthana 1/60] [Cha.Sa. Vimana Sthana 8/97] [Su. Sa. Sutra Sthana 21/11] [ 2 ] [K.S. Sutra Sthana 27/38-39] [ 9 ] [A.Hr. Sutra Sthana 1/11] [ 8 ]
+4. Liquidity (drava) [Cha.Sa. Sutra Sthana 1/60] [Cha.Sa. Vimana Sthana 8/97] [Su. Sa. Sutra Sthana 21/11] [ 2 ] [A.Hr. Sutra Sthana 1/11] [ 8 ]
+5. Sour (amla) [Cha.Sa. Sutra Sthana 1/60] [Cha.Sa. Vimana Sthana 8/97] [Su. Sa. Sutra Sthana 21/11] [ 2 ] [K.S. Sutra Sthana 27/38-39] [ 9 ]
+6. Mobile (sara) [Cha.Sa. Sutra Sthana 1/60] [A.Hr. Sutra Sthana 1/11] [ 8 ]
+7. Pungent (katu) [Cha.Sa. Sutra Sthana 1/60] [Cha.Sa. Vimana Sthana 8/97] [Su. Sa. Sutra Sthana 21/11] [ 2 ] [K.S. Sutra Sthana 27/38-39] [ 9 ]
+8. Raw meat odor (vistra or puti gandha) [Cha.Sa. Vimana Sthana 8/97] [Su. Sa. Sutra Sthana 21/11] [ 2 ] [K.S. Sutra Sthana 27/38-39] [ 9 ] [A.Hr. Sutra Sthana 1/11] [ 8 ]
+9. Blue color (nila) [Su. Sa. Sutra Sthana 21/11] [ 2 ] [K.S. Sutra Sthana 27/38-39] [ 9 ]
+10. Yellow (pita) [Su. Sa. Sutra Sthana 21/11] [ 2 ] [K.S. Sutra Sthana 27/38-39] [ 9 ]
+11. Lightness (laghava) [Su. Sa. Sutra Sthana 42/7] [ 2 ] [K.S. Sutra Sthana 27/38-39] [ 9 ] [A.Hr. Sutra Sthana 1/11] [ 8 ]
+12. Cleansing property (vishada) [Su. Sa. Sutra Sthana 42/7] [ 2 ]
+
+[REFERENCES / LINKS]
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+[ 9 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref9-9
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+[ 8 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref8-8
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+Vimana Sthana : https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+[ 2 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref2-2
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+[ 8 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref8-8
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+Vimana Sthana : https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+[ 2 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref2-2
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+[ 9 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref9-9
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+[ 8 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref8-8
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+Vimana Sthana : https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+[ 2 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref2-2
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+[ 8 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref8-8
+Sour (amla) : https://www.carakasamhitaonline.com/index.php?title=Amla
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+Vimana Sthana : https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+[ 2 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref2-2
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+[ 9 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref9-9
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+[ 8 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref8-8
+Pungent (katu) : https://www.carakasamhitaonline.com/index.php?title=Katu
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+Vimana Sthana : https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+[ 2 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref2-2
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+[ 9 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref9-9
+Vimana Sthana : https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+[ 2 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref2-2
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+[ 9 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref9-9
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+[ 8 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref8-8
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+[ 2 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref2-2
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+[ 9 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref9-9
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+[ 2 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref2-2
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+[ 9 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref9-9
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+[ 2 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref2-2
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+[ 9 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref9-9
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+[ 8 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref8-8
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+[ 2 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref2-2
+
+
+[BLOCK 55: TEXT]
+----------------------------------------------------------------------
+Pitta is
+
+
+[BLOCK 56: TEXT]
+----------------------------------------------------------------------
+pungent (katu)
+
+
+[BLOCK 57: TEXT]
+----------------------------------------------------------------------
+in completely formed or mature stage. It is
+
+
+[BLOCK 58: TEXT]
+----------------------------------------------------------------------
+sour (amla)
+
+
+[BLOCK 59: TEXT]
+----------------------------------------------------------------------
+when in raw or incompletely formed stage. [Su. Sa.
+
+
+[BLOCK 60: TEXT]
+----------------------------------------------------------------------
+Sutra Sthana
+
+
+[BLOCK 61: TEXT]
+----------------------------------------------------------------------
+21/11]
+
+
+[BLOCK 62: TEXT]
+----------------------------------------------------------------------
+[
+
+
+[BLOCK 63: TEXT]
+----------------------------------------------------------------------
+2
+
+
+[BLOCK 64: TEXT]
+----------------------------------------------------------------------
+]
+
+
+[BLOCK 65: TEXT]
+----------------------------------------------------------------------
+Pitta is yellow in color in the mature stage and blue in color in raw stage. [ Dalhana on Su. Sa.
+
+
+[BLOCK 66: TEXT]
+----------------------------------------------------------------------
+Sutra Sthana
+
+
+[BLOCK 67: TEXT]
+----------------------------------------------------------------------
+21/11]
+
+
+[BLOCK 68: TEXT]
+----------------------------------------------------------------------
+[
+
+
+[BLOCK 69: TEXT]
+----------------------------------------------------------------------
+2
+
+
+[BLOCK 70: TEXT]
+----------------------------------------------------------------------
+]
+
+
+[BLOCK 71: TEXT]
+----------------------------------------------------------------------
+Acharya Chakrapani described the two types of pitta: 1) sadrava and 2) nirdrava. Sadrava is the natural pitta with liquidity and unctuousness. Nirdrava causes
+
+
+[BLOCK 72: TEXT]
+----------------------------------------------------------------------
+fever(jwara)
+
+
+[BLOCK 73: TEXT]
+----------------------------------------------------------------------
+and other
+
+
+[BLOCK 74: TEXT]
+----------------------------------------------------------------------
+diseases
+
+
+[BLOCK 75: TEXT]
+----------------------------------------------------------------------
+and is dry(rukshta). [Chakrapani on Cha.Sa.
+
+
+[BLOCK 76: TEXT]
+----------------------------------------------------------------------
+Chikitsa Sthana
+
+
+[BLOCK 77: TEXT]
+----------------------------------------------------------------------
+3/217]
+
+
+[BLOCK 78: TEXT]
+----------------------------------------------------------------------
+These attributes should be considered while taking diet and lifestyle management of health. If the food and lifestyle habits having similar characteristics are followed in excess, a person may experience pitta
+
+
+[BLOCK 79: TEXT]
+----------------------------------------------------------------------
+dosha
+
+
+[BLOCK 80: TEXT]
+----------------------------------------------------------------------
+vitiation leading to pitta disorders. Kashypa stated that pitta have all colors (varna) except white (shweta) and crimson red (aruna). [K.S.
+
+
+[BLOCK 81: TEXT]
+----------------------------------------------------------------------
+Sutra Sthana
+
+
+[BLOCK 82: TEXT]
+----------------------------------------------------------------------
+27/38-39]
+
+
+[BLOCK 83: TEXT]
+----------------------------------------------------------------------
+[
+
+
+[BLOCK 84: TEXT]
+----------------------------------------------------------------------
+9
+
+
+[BLOCK 85: TEXT]
+----------------------------------------------------------------------
+]
+
+
+[BLOCK 86: H2]
+----------------------------------------------------------------------
+Functions of Pitta
+
+
+[BLOCK 87: TEXT]
+----------------------------------------------------------------------
+Pitta has the independent function to perform within the
+
+
+[BLOCK 88: TEXT]
+----------------------------------------------------------------------
+body
+
+
+[BLOCK 89: TEXT]
+----------------------------------------------------------------------
+. The principal function of pitta dosha is to maintain the normal physiology by supplying energy to the
+
+
+[BLOCK 90: TEXT]
+----------------------------------------------------------------------
+body
+
+
+[BLOCK 91: TEXT]
+----------------------------------------------------------------------
+for all processes. The special functions of pitta are: [Cha.Sa.
+
+
+[BLOCK 92: TEXT]
+----------------------------------------------------------------------
+Sutra Sthana
+
+
+[BLOCK 93: TEXT]
+----------------------------------------------------------------------
+18/50] [Cha.Sa.
+
+
+[BLOCK 94: TEXT]
+----------------------------------------------------------------------
+Sutra Sthana
+
+
+[BLOCK 95: TEXT]
+----------------------------------------------------------------------
+12/11] [Su. Sa.Sutra Sthana 15/4]
+
+
+[BLOCK 96: TEXT]
+----------------------------------------------------------------------
+[
+
+
+[BLOCK 97: TEXT]
+----------------------------------------------------------------------
+2
+
+
+[BLOCK 98: TEXT]
+----------------------------------------------------------------------
+]
+
+
+[BLOCK 99: TEXT]
+----------------------------------------------------------------------
+[A.Hr. Sutra Sthana 11/2-3]
+
+
+[BLOCK 100: TEXT]
+----------------------------------------------------------------------
+[
+
+
+[BLOCK 101: TEXT]
+----------------------------------------------------------------------
+8
+
+
+[BLOCK 102: TEXT]
+----------------------------------------------------------------------
+]
+
+
+[BLOCK 103: UL]
+----------------------------------------------------------------------
+1. Vision (darshan)
+2. Digestion (pakti)
+3. Feeling of hunger (kshuta)
+4. Thirst ( trishna )
+5. Softness within the body (dehamardava)
+6. Luster of the body ( prabha )
+7. Cheerfulness (prasad)
+8. Intelligence ( medha or buddhi )
+9. Maintenance of normal body temperature (matratvam ushma)
+10. Normal complexion of skin (prakrit varna)
+11. Courage (shauryam)
+12. Anger (krodha)
+13. Desire of food (ruchi)
+14. Discriminative power and understanding (dhi)
+
+[REFERENCES / LINKS]
+trishna : https://www.carakasamhitaonline.com/index.php?title=Trishna_Chikitsa
+prabha : https://www.carakasamhitaonline.com/index.php?title=Prabha
+medha : https://www.carakasamhitaonline.com/index.php?title=Medha
+buddhi : https://www.carakasamhitaonline.com/index.php?title=Buddhi
+
+
+[BLOCK 104: FIGURE]
+----------------------------------------------------------------------
+Figure 03: Categorization of the functions of pitta.
+
+[REFERENCES / LINKS]
+ : https://www.carakasamhitaonline.com/index.php?title=File:Fig3.jpg
+
+[IMAGES]
+Figure 03: Categorization of the functions of pitta. : https://www.carakasamhitaonline.com/images/8/82/Fig3.jpg
+
+
+[BLOCK 105: TEXT]
+----------------------------------------------------------------------
+Figure 03: Categorization of the functions of pitta.
+
+
+[BLOCK 106: P]
+----------------------------------------------------------------------
+Acharya Sushruta first described five types of pitta and defined their particular functions as below:[Su.Sa. Sutra Sthana 15/4] [ 2 ] [Dalhana on Su.Sa. Sutra Sthana 15/4] [ 2 ]
+
+[REFERENCES / LINKS]
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+[ 2 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref2-2
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+[ 2 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref2-2
+
+
+[BLOCK 107: OL]
+----------------------------------------------------------------------
+1. Imparting normal color (ragakriit): Ranjaka pitta
+2. Process of digestion (paktikrt): Pachaka pitta
+3. Production of oja and maintenance of intelligence (ojakrit and medhakrit): Sadhaka pitta
+4. Process of vision (tejakrit): Alochaka pitta
+5. Production of heat within the body (ushmakrit): Bhrajaka pitta
+
+[REFERENCES / LINKS]
+oja : https://www.carakasamhitaonline.com/index.php?title=Ojas
+
+
+[BLOCK 108: H2]
+----------------------------------------------------------------------
+Classification
+
+
+[BLOCK 109: TEXT]
+----------------------------------------------------------------------
+The classification of pitta is based on different functions and locations in human
+
+
+[BLOCK 110: TEXT]
+----------------------------------------------------------------------
+body
+
+
+[BLOCK 111: TEXT]
+----------------------------------------------------------------------
+. [Su.Sa.
+
+
+[BLOCK 112: TEXT]
+----------------------------------------------------------------------
+Sutra Sthana
+
+
+[BLOCK 113: TEXT]
+----------------------------------------------------------------------
+21/10]
+
+
+[BLOCK 114: TEXT]
+----------------------------------------------------------------------
+[
+
+
+[BLOCK 115: TEXT]
+----------------------------------------------------------------------
+2
+
+
+[BLOCK 116: TEXT]
+----------------------------------------------------------------------
+]
+
+
+[BLOCK 117: TEXT]
+----------------------------------------------------------------------
+[A.S.
+
+
+[BLOCK 118: TEXT]
+----------------------------------------------------------------------
+Sutra Sthana
+
+
+[BLOCK 119: TEXT]
+----------------------------------------------------------------------
+20/5]
+
+
+[BLOCK 120: TEXT]
+----------------------------------------------------------------------
+[
+
+
+[BLOCK 121: TEXT]
+----------------------------------------------------------------------
+5
+
+
+[BLOCK 122: TEXT]
+----------------------------------------------------------------------
+]
+
+
+[BLOCK 123: TEXT]
+----------------------------------------------------------------------
+[A.Hr.
+
+
+[BLOCK 124: TEXT]
+----------------------------------------------------------------------
+Sutra Sthana
+
+
+[BLOCK 125: TEXT]
+----------------------------------------------------------------------
+12/12-14]
+
+
+[BLOCK 126: TEXT]
+----------------------------------------------------------------------
+[
+
+
+[BLOCK 127: TEXT]
+----------------------------------------------------------------------
+8
+
+
+[BLOCK 128: TEXT]
+----------------------------------------------------------------------
+]
+
+
+[BLOCK 129: H3]
+----------------------------------------------------------------------
+Five types of pitta dosha, sites and functions:
+
+
+[BLOCK 130: TEXT]
+----------------------------------------------------------------------
+Pachaka, ranjaka, sadhaka, alochaka, and bhrajaka are the five types of pitta dosha. Five sets of functions by which pitta dosha is divided into five types are described. [Su.Sa.
+
+
+[BLOCK 131: TEXT]
+----------------------------------------------------------------------
+Sutra Sthana
+
+
+[BLOCK 132: TEXT]
+----------------------------------------------------------------------
+15/4]
+
+
+[BLOCK 133: TEXT]
+----------------------------------------------------------------------
+[
+
+
+[BLOCK 134: TEXT]
+----------------------------------------------------------------------
+2
+
+
+[BLOCK 135: TEXT]
+----------------------------------------------------------------------
+]
+
+
+[BLOCK 136: TEXT]
+----------------------------------------------------------------------
+The location and function of five types of pitta dosha are based on different Ayurvedic texts, as given in table 01.
+
+
+[BLOCK 137: TABLE]
+----------------------------------------------------------------------
+[COMPLETE TABLE]
+
+Row 1:
+Column 1: S.No.
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Type of Pitta
+  Type: th, Rowspan: 1, Colspan: 1
+Column 3: Location
+  Type: th, Rowspan: 1, Colspan: 1
+Column 4: Function
+  Type: th, Rowspan: 1, Colspan: 1
+
+Row 2:
+Column 1: 01.
+  Type: td, Rowspan: 1, Colspan: 1
+Column 2: Pachaka
+  Type: td, Rowspan: 1, Colspan: 1
+Column 3: In between the stomach and large intestine (pakva amashaya madhya)
+  Type: td, Rowspan: 1, Colspan: 1
+Column 4: Digestion of four types of food stuff (chaturvidha annapanam pachti) Differentiation of nutrient and waste products from food (vivechyati cha dosha rasa mutra purishani) Provides support and energy to other pitta (sheshanam pitta sthananam anugraham karoti)
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 3:
+Column 1: 02.
+  Type: td, Rowspan: 1, Colspan: 1
+Column 2: Ranjaka
+  Type: td, Rowspan: 1, Colspan: 1
+Column 3: Liver (yakrit) Spleen (pliha) Amashaya (lower part of stomach and duodenum)
+  Type: td, Rowspan: 1, Colspan: 1
+Column 4: Impart color to blood (rasasya ragkrit)
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 4:
+Column 1: 03.
+  Type: td, Rowspan: 1, Colspan: 1
+Column 2: Sadhaka
+  Type: td, Rowspan: 1, Colspan: 1
+Column 3: Heart ( hridaya ) Brain (mastishka)
+  Type: td, Rowspan: 1, Colspan: 1
+Column 4: Implementation of desires (abhiparthita manoratha) Decisive power ( buddhi ) Intellect ( medha ) Self esteem (abhimana) Enthusiasm (utsaha) Perception of word ( shabda ), touch ( sparsha ) and odor ( gandha )[Bhe.Sa.4/8] [ 10 ]
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 5:
+Column 1: 04.
+  Type: td, Rowspan: 1, Colspan: 1
+Column 2: Alochaka
+  Type: td, Rowspan: 1, Colspan: 1
+Column 3: Eyes (drishti)
+  Type: td, Rowspan: 1, Colspan: 1
+Column 4: Perception of vision ( rupa grahana)
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 6:
+Column 1: 05.
+  Type: td, Rowspan: 1, Colspan: 1
+Column 2: Bhrajaka
+  Type: td, Rowspan: 1, Colspan: 1
+Column 3: Skin (twacha)
+  Type: td, Rowspan: 1, Colspan: 1
+Column 4: Absorption of various formulation applied through massage ( abhyanga ), showering ( parisheka ), tub bath (avgahana) and local application (avlepana) Radiates the glow of skin (chayanam cha prakashaka) Gives lustre to skin (kantikaritvam) [Bha. P. Purva Khand 3/125] [ 7 ] Maintenance of normal body temperature [Chakrapani on Cha.Sa. Sutra Sthana 12/11]
+  Type: td, Rowspan: 1, Colspan: 1
+
+[REFERENCES / LINKS]
+amashaya : https://www.carakasamhitaonline.com/index.php?title=Amashaya
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+rasa : https://www.carakasamhitaonline.com/index.php?title=Rasa
+mutra : https://www.carakasamhitaonline.com/index.php?title=Mutra
+Amashaya : https://www.carakasamhitaonline.com/index.php?title=Amashaya
+hridaya : https://www.carakasamhitaonline.com/index.php?title=Hridaya
+buddhi : https://www.carakasamhitaonline.com/index.php?title=Buddhi
+medha : https://www.carakasamhitaonline.com/index.php?title=Medha
+shabda : https://www.carakasamhitaonline.com/index.php?title=Shabda
+sparsha : https://www.carakasamhitaonline.com/index.php?title=Sparsha
+gandha : https://www.carakasamhitaonline.com/index.php?title=Gandha
+[ 10 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref10-10
+rupa : https://www.carakasamhitaonline.com/index.php?title=Rupa
+abhyanga : https://www.carakasamhitaonline.com/index.php?title=Abhyanga
+parisheka : https://www.carakasamhitaonline.com/index.php?title=Parisheka
+[ 7 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref7-7
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+
+
+[BLOCK 138: FIGURE]
+----------------------------------------------------------------------
+Figure 04: Physiology of different types of pitta dosha
+
+[REFERENCES / LINKS]
+ : https://www.carakasamhitaonline.com/index.php?title=File:Fig4.jpg
+
+[IMAGES]
+Figure 04: Physiology of different types of pitta dosha : https://www.carakasamhitaonline.com/images/5/57/Fig4.jpg
+
+
+[BLOCK 139: TEXT]
+----------------------------------------------------------------------
+Figure 04: Physiology of different types of pitta dosha
+
+
+[BLOCK 140: H2]
+----------------------------------------------------------------------
+Pitta dominant constitution ( prakriti )
+
+[REFERENCES / LINKS]
+prakriti : https://www.carakasamhitaonline.com/index.php?title=Prakriti
+
+
+[BLOCK 141: TEXT]
+----------------------------------------------------------------------
+The characteristic features of pitta dominant constitution individuals based on properties of pitta dosha are described as below. [Cha.Sa.
+
+
+[BLOCK 142: TEXT]
+----------------------------------------------------------------------
+Vimana Sthana
+
+
+[BLOCK 143: TEXT]
+----------------------------------------------------------------------
+8/97]
+
+
+[BLOCK 144: UL]
+----------------------------------------------------------------------
+1. The predominance of moles, pimples, wrinkles
+2. Premature graying of hair and scanty hair or baldness
+3. Presence of brownish-reddish hair
+4. Strong digestive power
+5. Excessive sweating and body odor
+6. Intolerance to summer and hot things
+7. Intake of food and water in an excessive amount
+8. Short-tempered
+9. Full of courage
+10. Intelligent person
+
+
+[BLOCK 145: H3]
+----------------------------------------------------------------------
+Loka Purusha Samya
+
+[REFERENCES / LINKS]
+Loka : https://www.carakasamhitaonline.com/index.php?title=Loka
+Purusha : https://www.carakasamhitaonline.com/index.php?title=Purusha
+
+
+[BLOCK 146: TEXT]
+----------------------------------------------------------------------
+Pitta is responsible for all destruction or catabolism in the cosmos. The
+
+
+[BLOCK 147: TEXT]
+----------------------------------------------------------------------
+agni mahabhuta
+
+
+[BLOCK 148: TEXT]
+----------------------------------------------------------------------
+is represented by the pitta dosha in human
+
+
+[BLOCK 149: TEXT]
+----------------------------------------------------------------------
+body
+
+
+[BLOCK 150: TEXT]
+----------------------------------------------------------------------
+. Nourishing (
+
+
+[BLOCK 151: TEXT]
+----------------------------------------------------------------------
+visarga
+
+
+[BLOCK 152: TEXT]
+----------------------------------------------------------------------
+), depleting (
+
+
+[BLOCK 153: TEXT]
+----------------------------------------------------------------------
+adana
+
+
+[BLOCK 154: TEXT]
+----------------------------------------------------------------------
+) and distributing (vikshepa) in the universe are carried by the moon, sun and wind. Similarly, the human
+
+
+[BLOCK 155: TEXT]
+----------------------------------------------------------------------
+body
+
+
+[BLOCK 156: TEXT]
+----------------------------------------------------------------------
+has
+
+
+[BLOCK 157: TEXT]
+----------------------------------------------------------------------
+kapha
+
+
+[BLOCK 158: TEXT]
+----------------------------------------------------------------------
+, pitta, and
+
+
+[BLOCK 159: TEXT]
+----------------------------------------------------------------------
+vata
+
+
+[BLOCK 160: TEXT]
+----------------------------------------------------------------------
+performing the same functions, respectively. [Su.Sa.
+
+
+[BLOCK 161: TEXT]
+----------------------------------------------------------------------
+Sutra Sthana
+
+
+[BLOCK 162: TEXT]
+----------------------------------------------------------------------
+29/6]
+
+
+[BLOCK 163: TEXT]
+----------------------------------------------------------------------
+[
+
+
+[BLOCK 164: TEXT]
+----------------------------------------------------------------------
+2
+
+
+[BLOCK 165: TEXT]
+----------------------------------------------------------------------
+]
+
+
+[BLOCK 166: H3]
+----------------------------------------------------------------------
+Factors responsible for abnormal states of pitta
+
+
+[BLOCK 167: TEXT]
+----------------------------------------------------------------------
+Certain factors cause excess or decline of pitta in the human
+
+
+[BLOCK 168: TEXT]
+----------------------------------------------------------------------
+body
+
+
+[BLOCK 169: TEXT]
+----------------------------------------------------------------------
+. These factors are natural or unavoidable and artificial or avoidable.
+
+
+[BLOCK 170: H4]
+----------------------------------------------------------------------
+Natural factors
+
+
+[BLOCK 171: TEXT]
+----------------------------------------------------------------------
+These factors are the essential component of biological rhythm occurring in the external as well as internal environment of the
+
+
+[BLOCK 172: TEXT]
+----------------------------------------------------------------------
+body
+
+
+[BLOCK 173: TEXT]
+----------------------------------------------------------------------
+. This natural increase is physiological. These factors are as follows:[Su.Sa.
+
+
+[BLOCK 174: TEXT]
+----------------------------------------------------------------------
+Sutra Sthana
+
+
+[BLOCK 175: TEXT]
+----------------------------------------------------------------------
+21/20]
+
+
+[BLOCK 176: TEXT]
+----------------------------------------------------------------------
+[
+
+
+[BLOCK 177: TEXT]
+----------------------------------------------------------------------
+2
+
+
+[BLOCK 178: TEXT]
+----------------------------------------------------------------------
+]
+
+
+[BLOCK 179: TEXT]
+----------------------------------------------------------------------
+, [A.Hr.
+
+
+[BLOCK 180: TEXT]
+----------------------------------------------------------------------
+Sutra Sthana
+
+
+[BLOCK 181: TEXT]
+----------------------------------------------------------------------
+1/8]
+
+
+[BLOCK 182: TEXT]
+----------------------------------------------------------------------
+[
+
+
+[BLOCK 183: TEXT]
+----------------------------------------------------------------------
+8
+
+
+[BLOCK 184: TEXT]
+----------------------------------------------------------------------
+]
+
+
+[BLOCK 185: TEXT]
+----------------------------------------------------------------------
+, [A.Hr.
+
+
+[BLOCK 186: TEXT]
+----------------------------------------------------------------------
+Sutra Sthana
+
+
+[BLOCK 187: TEXT]
+----------------------------------------------------------------------
+12/20-21]
+
+
+[BLOCK 188: TEXT]
+----------------------------------------------------------------------
+[
+
+
+[BLOCK 189: TEXT]
+----------------------------------------------------------------------
+8
+
+
+[BLOCK 190: TEXT]
+----------------------------------------------------------------------
+]
+
+
+[BLOCK 191: TEXT]
+----------------------------------------------------------------------
+[A.Hr. Nidana Sthana1/16]
+
+
+[BLOCK 192: TEXT]
+----------------------------------------------------------------------
+[
+
+
+[BLOCK 193: TEXT]
+----------------------------------------------------------------------
+8
+
+
+[BLOCK 194: TEXT]
+----------------------------------------------------------------------
+]
+
+
+[BLOCK 195: TEXT]
+----------------------------------------------------------------------
+(Figure 05)
+
+
+[BLOCK 196: UL]
+----------------------------------------------------------------------
+1. Season (ritu) : Pitta undergoes natural accumulation in rainy season( varsha ), gets vitiated during autumn(sharada) and subsides to normal during winter(hemant) .
+2. Various stages of digestion of food: Pitta gets vitiated during the meal digestion (jiryteanne).
+3. Biological rhythm of day and night: Pitta gets vitiated in the middle of the day(madhyanhe) and night (ardharatre).
+4. Age ( vaya ): In middle age, pitta is in excess as compared to other doshas .
+
+[REFERENCES / LINKS]
+Season (ritu) : https://www.carakasamhitaonline.com/index.php?title=Ritu
+varsha : https://www.carakasamhitaonline.com/index.php?title=Varsha
+autumn(sharada) : https://www.carakasamhitaonline.com/index.php?title=Sharad
+winter(hemant) : https://www.carakasamhitaonline.com/index.php?title=Hemanta
+vaya : https://www.carakasamhitaonline.com/index.php?title=Vaya&action=edit&redlink=1
+doshas : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 197: FIGURE]
+----------------------------------------------------------------------
+Figure 05: Natural factors responsible for increase in pitta.
+
+[REFERENCES / LINKS]
+ : https://www.carakasamhitaonline.com/index.php?title=File:Fig5.jpg
+
+[IMAGES]
+Figure 05: Natural factors responsible for increase in pitta. : https://www.carakasamhitaonline.com/images/6/63/Fig5.jpg
+
+
+[BLOCK 198: TEXT]
+----------------------------------------------------------------------
+Figure 05: Natural factors responsible for increase in pitta.
+
+
+[BLOCK 199: H4]
+----------------------------------------------------------------------
+Acquired factors
+
+
+[BLOCK 200: TEXT]
+----------------------------------------------------------------------
+Acquired factors cause vitiation of pitta dosha other than natural factors. These are avoidable and used in clinical practice through the concept of
+
+
+[BLOCK 201: TEXT]
+----------------------------------------------------------------------
+samanya vishesha siddhanta
+
+
+[BLOCK 202: TEXT]
+----------------------------------------------------------------------
+. These factors are as follows: [Su.Sa.
+
+
+[BLOCK 203: TEXT]
+----------------------------------------------------------------------
+Sutra Sthana
+
+
+[BLOCK 204: TEXT]
+----------------------------------------------------------------------
+21/22]
+
+
+[BLOCK 205: TEXT]
+----------------------------------------------------------------------
+[
+
+
+[BLOCK 206: TEXT]
+----------------------------------------------------------------------
+2
+
+
+[BLOCK 207: TEXT]
+----------------------------------------------------------------------
+]
+
+
+[BLOCK 208: TEXT]
+----------------------------------------------------------------------
+[A.Hr. Nidana Sthana 1 /16]
+
+
+[BLOCK 209: TEXT]
+----------------------------------------------------------------------
+[
+
+
+[BLOCK 210: TEXT]
+----------------------------------------------------------------------
+8
+
+
+[BLOCK 211: TEXT]
+----------------------------------------------------------------------
+]
+
+
+[BLOCK 212: UL]
+----------------------------------------------------------------------
+1. Diet( dravya ) and a particular property of diet: Food with the dominance of pungent (katu) , sour (amla) , and salty (lavana) taste, hot potency cause aggravation of pitta dosha. Intake of insufficient quantity at the improper time leads to vitiation of pitta dosha.
+2. Lifestyle and other activities: Fasting ( upavasa ), overstrain (ayasa) and excessive sexual indulgence (maithuna upagamana)
+3. Emotional and behavior factors: Anger(krodha), sorrow(shoka), and fear(bhaya).
+
+[REFERENCES / LINKS]
+dravya : https://www.carakasamhitaonline.com/index.php?title=Dravya
+pungent (katu) : https://www.carakasamhitaonline.com/index.php?title=Katu
+sour (amla) : https://www.carakasamhitaonline.com/index.php?title=Amla
+salty (lavana) : https://www.carakasamhitaonline.com/index.php?title=Lavana
+upavasa : https://www.carakasamhitaonline.com/index.php?title=Upavasa
+
+
+[BLOCK 213: H2]
+----------------------------------------------------------------------
+Clinical aspects
+
+
+[BLOCK 214: TEXT]
+----------------------------------------------------------------------
+Preventive aspect:
+
+
+[BLOCK 215: TEXT]
+----------------------------------------------------------------------
+A person with pitta dominant
+
+
+[BLOCK 216: TEXT]
+----------------------------------------------------------------------
+body
+
+
+[BLOCK 217: TEXT]
+----------------------------------------------------------------------
+constitution should avoid the diet and lifestyle mentioned above to maintain equilibrium and healthy status.
+
+
+[BLOCK 218: H3]
+----------------------------------------------------------------------
+Stages of dosha:
+
+
+[BLOCK 219: TEXT]
+----------------------------------------------------------------------
+Dosha
+
+
+[BLOCK 220: TEXT]
+----------------------------------------------------------------------
+continues to exist in three states: hypofunction (kshaya), hyperfunction (vriddhi), and normal physiological state (sama). [Cha.Sa.
+
+
+[BLOCK 221: TEXT]
+----------------------------------------------------------------------
+Sutra Sthana
+
+
+[BLOCK 222: TEXT]
+----------------------------------------------------------------------
+17/110] Increase and reduction in
+
+
+[BLOCK 223: TEXT]
+----------------------------------------------------------------------
+dosha
+
+
+[BLOCK 224: TEXT]
+----------------------------------------------------------------------
+functioning (
+
+
+[BLOCK 225: TEXT]
+----------------------------------------------------------------------
+karma
+
+
+[BLOCK 226: TEXT]
+----------------------------------------------------------------------
+) can be used to understand
+
+
+[BLOCK 227: TEXT]
+----------------------------------------------------------------------
+dosha
+
+
+[BLOCK 228: TEXT]
+----------------------------------------------------------------------
+increase and decline in the
+
+
+[BLOCK 229: TEXT]
+----------------------------------------------------------------------
+body
+
+
+[BLOCK 230: TEXT]
+----------------------------------------------------------------------
+.
+
+
+[BLOCK 231: TEXT]
+----------------------------------------------------------------------
+Dosha
+
+
+[BLOCK 232: TEXT]
+----------------------------------------------------------------------
+, when increased, produce their respective features in excess; when decreased, cut off their functions and when in normal state, they perform their normal functions.
+
+
+[BLOCK 233: H3]
+----------------------------------------------------------------------
+Hyperfunctioning of pitta (vriddhi lakshana):
+
+
+[BLOCK 234: TEXT]
+----------------------------------------------------------------------
+When pitta levels increase, the
+
+
+[BLOCK 235: TEXT]
+----------------------------------------------------------------------
+body
+
+
+[BLOCK 236: TEXT]
+----------------------------------------------------------------------
+exhibits various signs and symptoms as stated below: [Su.Sa.
+
+
+[BLOCK 237: TEXT]
+----------------------------------------------------------------------
+Sutra Sthana
+
+
+[BLOCK 238: TEXT]
+----------------------------------------------------------------------
+15/13]
+
+
+[BLOCK 239: TEXT]
+----------------------------------------------------------------------
+[
+
+
+[BLOCK 240: TEXT]
+----------------------------------------------------------------------
+2
+
+
+[BLOCK 241: TEXT]
+----------------------------------------------------------------------
+]
+
+
+[BLOCK 242: TEXT]
+----------------------------------------------------------------------
+, [A.Hr.
+
+
+[BLOCK 243: TEXT]
+----------------------------------------------------------------------
+Sutra Sthana
+
+
+[BLOCK 244: TEXT]
+----------------------------------------------------------------------
+11/7]
+
+
+[BLOCK 245: TEXT]
+----------------------------------------------------------------------
+[
+
+
+[BLOCK 246: TEXT]
+----------------------------------------------------------------------
+8
+
+
+[BLOCK 247: TEXT]
+----------------------------------------------------------------------
+]
+
+
+[BLOCK 248: TEXT]
+----------------------------------------------------------------------
+, [A.S.
+
+
+[BLOCK 249: TEXT]
+----------------------------------------------------------------------
+Sutra Sthana
+
+
+[BLOCK 250: TEXT]
+----------------------------------------------------------------------
+19/5]
+
+
+[BLOCK 251: TEXT]
+----------------------------------------------------------------------
+[
+
+
+[BLOCK 252: TEXT]
+----------------------------------------------------------------------
+5
+
+
+[BLOCK 253: TEXT]
+----------------------------------------------------------------------
+]
+
+
+[BLOCK 254: TEXT]
+----------------------------------------------------------------------
+:
+
+
+[BLOCK 255: UL]
+----------------------------------------------------------------------
+1. Yellowish coloration of stool( purisha ), urine( mutra ), eyes(netra) and skin(twacha).
+2. Increased hunger (kshudha)
+3. Increased thirst ( trishna )
+4. Burning sensation(daha)
+5. Less sleep(alpanidrata)
+6. Fainting (glani)
+7. Weakness of senses or inability to work properly(indriya daurbalya)
+8. Vitiation of essence(ojovisramsa)
+9. Desire for cold (shita abhilasha)
+10. Bitter feeling in mouth(tiktasyata)
+11. Giddiness(murchha)
+12. Excessive anger(krodhi)
+13. Less strength(bala hani)
+
+[REFERENCES / LINKS]
+purisha : https://www.carakasamhitaonline.com/index.php?title=Purisha
+mutra : https://www.carakasamhitaonline.com/index.php?title=Mutra
+trishna : https://www.carakasamhitaonline.com/index.php?title=Trishna_Chikitsa
+
+
+[BLOCK 256: H3]
+----------------------------------------------------------------------
+Hypo functioning of pitta (kshaya lakshana):
+
+
+[BLOCK 257: TEXT]
+----------------------------------------------------------------------
+When pitta levels decline, the
+
+
+[BLOCK 258: TEXT]
+----------------------------------------------------------------------
+body
+
+
+[BLOCK 259: TEXT]
+----------------------------------------------------------------------
+exhibits various signs and symptoms as below: [Su.Sa.
+
+
+[BLOCK 260: TEXT]
+----------------------------------------------------------------------
+Sutra Sthana
+
+
+[BLOCK 261: TEXT]
+----------------------------------------------------------------------
+15/7]
+
+
+[BLOCK 262: TEXT]
+----------------------------------------------------------------------
+[
+
+
+[BLOCK 263: TEXT]
+----------------------------------------------------------------------
+3
+
+
+[BLOCK 264: TEXT]
+----------------------------------------------------------------------
+]
+
+
+[BLOCK 265: TEXT]
+----------------------------------------------------------------------
+, [A.Hr.
+
+
+[BLOCK 266: TEXT]
+----------------------------------------------------------------------
+Sutra Sthana
+
+
+[BLOCK 267: TEXT]
+----------------------------------------------------------------------
+11/16]
+
+
+[BLOCK 268: TEXT]
+----------------------------------------------------------------------
+[
+
+
+[BLOCK 269: TEXT]
+----------------------------------------------------------------------
+8
+
+
+[BLOCK 270: TEXT]
+----------------------------------------------------------------------
+]
+
+
+[BLOCK 271: TEXT]
+----------------------------------------------------------------------
+, [A.S.
+
+
+[BLOCK 272: TEXT]
+----------------------------------------------------------------------
+Sutra Sthana
+
+
+[BLOCK 273: TEXT]
+----------------------------------------------------------------------
+19/8]
+
+
+[BLOCK 274: TEXT]
+----------------------------------------------------------------------
+[
+
+
+[BLOCK 275: TEXT]
+----------------------------------------------------------------------
+5
+
+
+[BLOCK 276: TEXT]
+----------------------------------------------------------------------
+]
+
+
+[BLOCK 277: UL]
+----------------------------------------------------------------------
+1. Poor digestive capacity and decreased digestive functions (manda anala)
+2. Coldness(shita)
+3. Loss of skin luster ( prabha hani)
+4. Stiffness( stambha )
+5. Pricking pain(toda)
+6. Less desire of food(arochaka)
+7. Excessive coarseness on the body(angaparushya)
+8. Tremors(kampa)
+9. Heaviness in body(gaurav)
+10. Whitish coloration of eyes, nails etc.(nakha-nayana shaukalayadi)
+
+[REFERENCES / LINKS]
+prabha : https://www.carakasamhitaonline.com/index.php?title=Prabha
+stambha : https://www.carakasamhitaonline.com/index.php?title=Stambhana
+
+
+[BLOCK 278: H3]
+----------------------------------------------------------------------
+Diagnosis:
+
+
+[BLOCK 279: TEXT]
+----------------------------------------------------------------------
+The state of pitta dosha can be diagnosed and assessed based on clinical features. The most common clinical features of pitta dosha are burning sensation(daha), feeling of hotness (ushnata), suppuration(paka), strava(discharge), redness(raga) rigidity(
+
+
+[BLOCK 280: TEXT]
+----------------------------------------------------------------------
+stambhana
+
+
+[BLOCK 281: TEXT]
+----------------------------------------------------------------------
+), wasting (
+
+
+[BLOCK 282: TEXT]
+----------------------------------------------------------------------
+shosha
+
+
+[BLOCK 283: TEXT]
+----------------------------------------------------------------------
+)and harshness(parusha). [Cha.Sa.
+
+
+[BLOCK 284: TEXT]
+----------------------------------------------------------------------
+Sutra Sthana
+
+
+[BLOCK 285: TEXT]
+----------------------------------------------------------------------
+20/15] [K.S.
+
+
+[BLOCK 286: TEXT]
+----------------------------------------------------------------------
+Sutra Sthana
+
+
+[BLOCK 287: TEXT]
+----------------------------------------------------------------------
+27/39]
+
+
+[BLOCK 288: TEXT]
+----------------------------------------------------------------------
+[
+
+
+[BLOCK 289: TEXT]
+----------------------------------------------------------------------
+9
+
+
+[BLOCK 290: TEXT]
+----------------------------------------------------------------------
+]
+
+
+[BLOCK 291: TEXT]
+----------------------------------------------------------------------
+Forty types of
+
+
+[BLOCK 292: TEXT]
+----------------------------------------------------------------------
+diseases
+
+
+[BLOCK 293: TEXT]
+----------------------------------------------------------------------
+are caused due to an imbalance of pitta dosha (pitta nanatmaja
+
+
+[BLOCK 294: TEXT]
+----------------------------------------------------------------------
+vyadhi
+
+
+[BLOCK 295: TEXT]
+----------------------------------------------------------------------
+).[Cha.Sa.
+
+
+[BLOCK 296: TEXT]
+----------------------------------------------------------------------
+Sutra Sthana
+
+
+[BLOCK 297: TEXT]
+----------------------------------------------------------------------
+20/14][Table 02]:
+
+
+[BLOCK 298: TABLE]
+----------------------------------------------------------------------
+[COMPLETE TABLE]
+
+Row 1:
+Column 1: Heating (osha)
+  Type: td, Rowspan: 1, Colspan: 1
+Column 2: Scorching (plosha)
+  Type: td, Rowspan: 1, Colspan: 1
+Column 3: Burning (daha)
+  Type: td, Rowspan: 1, Colspan: 1
+Column 4: Intense heat (davathu)
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 2:
+Column 1: Fuming (dhoomaka)
+  Type: td, Rowspan: 1, Colspan: 1
+Column 2: Hyperacidity (amlika)
+  Type: td, Rowspan: 1, Colspan: 1
+Column 3: Burning sensation (vidaha)
+  Type: td, Rowspan: 1, Colspan: 1
+Column 4: Internal burning (antardaha)
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 3:
+Column 1: Burning sensation in arm (amsadaha)
+  Type: td, Rowspan: 1, Colspan: 1
+Column 2: Hyperthermia (ushmadhikya)
+  Type: td, Rowspan: 1, Colspan: 1
+Column 3: Excessive sweating (atisveda)
+  Type: td, Rowspan: 1, Colspan: 1
+Column 4: Foul smell from body (angagandha)
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 4:
+Column 1: Tearing of body parts (angavadarana)
+  Type: td, Rowspan: 1, Colspan: 1
+Column 2: Retention of metabolites in blood (shonita kleda )
+  Type: td, Rowspan: 1, Colspan: 1
+Column 3: Retention of metabolites in muscles ( mamsa kleda )
+  Type: td, Rowspan: 1, Colspan: 1
+Column 4: Burning sensation in skin (tvag daha)
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 5:
+Column 1: Cracking of skin (tvagavadarana)
+  Type: td, Rowspan: 1, Colspan: 1
+Column 2: Thickness of skin (charmadalana)
+  Type: td, Rowspan: 1, Colspan: 1
+Column 3: Urticarial patches (rakta kotha)
+  Type: td, Rowspan: 1, Colspan: 1
+Column 4: Pustules (rakta visphota)
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 6:
+Column 1: Bleeding disorders ( raktapitta )
+  Type: td, Rowspan: 1, Colspan: 1
+Column 2: Hemorrhagic rounded patches/ echymosis (raktamandala)
+  Type: td, Rowspan: 1, Colspan: 1
+Column 3: Greenish discolouration (haritatva)
+  Type: td, Rowspan: 1, Colspan: 1
+Column 4: Yellowish discoloration (haridratva)
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 7:
+Column 1: Blue moles (neelika)
+  Type: td, Rowspan: 1, Colspan: 1
+Column 2: Furunculosis (kaksha)
+  Type: td, Rowspan: 1, Colspan: 1
+Column 3: Jaundice ( kamala )
+  Type: td, Rowspan: 1, Colspan: 1
+Column 4: Bitter taste in mouth (tiktasyata)
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 8:
+Column 1: Blood-like smell from the oral cavity (lohita gandhasyata)
+  Type: td, Rowspan: 1, Colspan: 1
+Column 2: Fetid smell from oral cavity, or halitosis (pootimookhata)
+  Type: td, Rowspan: 1, Colspan: 1
+Column 3: Polydypsia (trishnadhikya)
+  Type: td, Rowspan: 1, Colspan: 1
+Column 4: Loss of contentment (atripti)
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 9:
+Column 1: Stomatitis (asyavipaka)
+  Type: td, Rowspan: 1, Colspan: 1
+Column 2: Inflammation in throat (galapaka)
+  Type: td, Rowspan: 1, Colspan: 1
+Column 3: Inflammation in eyes (akshipaka)
+  Type: td, Rowspan: 1, Colspan: 1
+Column 4: Inflammation in anus (Gudapaka)
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 10:
+Column 1: Inflammation in penis (medhrapaka)
+  Type: td, Rowspan: 1, Colspan: 1
+Column 2: Discharge of pure blood (jivadana)
+  Type: td, Rowspan: 1, Colspan: 1
+Column 3: Darkness in front of the eye (tamapravesha)
+  Type: td, Rowspan: 1, Colspan: 1
+Column 4: Green-yellow discoloration of eyes, urine, stool (harita haridra netra mutra varchastva)
+  Type: td, Rowspan: 1, Colspan: 1
+
+[REFERENCES / LINKS]
+[ 10 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref10-10
+kleda : https://www.carakasamhitaonline.com/index.php?title=Kleda
+mamsa : https://www.carakasamhitaonline.com/index.php?title=Mamsa_dhatu
+kleda : https://www.carakasamhitaonline.com/index.php?title=Kleda
+raktapitta : https://www.carakasamhitaonline.com/index.php?title=Raktapitta
+kamala : https://www.carakasamhitaonline.com/index.php?title=Kamala
+mutra : https://www.carakasamhitaonline.com/index.php?title=Mutra
+
+
+[BLOCK 299: H3]
+----------------------------------------------------------------------
+Diagnostic and assessment tools
+
+
+[BLOCK 300: TEXT]
+----------------------------------------------------------------------
+Pitta dosha can be assessed by its normal or abnormal functionality through subjective methods like questionnaires and objective methods. Currently, there are no validated and standardized tools for
+
+
+[BLOCK 301: TEXT]
+----------------------------------------------------------------------
+dosha
+
+
+[BLOCK 302: TEXT]
+----------------------------------------------------------------------
+assessment within the
+
+
+[BLOCK 303: TEXT]
+----------------------------------------------------------------------
+body
+
+
+[BLOCK 304: TEXT]
+----------------------------------------------------------------------
+. Pitta vriddhi and kshaya features can be assessed through a subjective questionnaire. Ayurvedic physicians assess the normalcy and abnormality through the ayurvedic principles of examination (pariksha).
+
+
+[BLOCK 305: TEXT]
+----------------------------------------------------------------------
+Subjective and objective methods which may be used to assess the normal functioning of pitta dosha are:
+
+
+[BLOCK 306: UL]
+----------------------------------------------------------------------
+1. Test for assessment for digestive enzymes and hormones like serum lipase [ 11 ] , serum amylase [ 11 ] , serum pepsinogen [ 12 ] and serum gastrin [ 13 ] etc.
+2. Hemoglobin level, Red blood cell count, Mean Corpuscular Hemoglobin, Mean corpuscular hemoglobin concentration. [ 14 ]
+3. Subjective assessment of Intelligence quotient like Wechsler Intelligence Scale for Children (WISC) [ 15 ] .
+4. Subjective assessment of emotional intelligence like Mayer-Salovey-Caruso emotional intelligence test [ 16 ] .
+5. Cognitive assessment-Montreal Cognitive Assessment (MoCA) [ 17 ] , Mini-Cog [ 18 ] & ICMR-PNT(Picture naming test) [ 19 ] etc.
+6. Memory test through memory drum [ 20 ] .
+7. Visual acuity-Snellen’s chart [ 21 ] .
+8. Perception of vision- tachistoscope [ 22 ] .
+9. Skin test like sebum content, trans-epidermal water loss and melanin content through various instruments [ 23 ] .
+10. Assessment of body Temperature.
+11. Subjective assessment of Agni-Self-Assessment Tool to Estimate Agnibala [ 24 ] & CCRAS Agni assessment tool( http://www.ccras.res.in/ccras_sas/ ).
+
+[REFERENCES / LINKS]
+[ 11 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref12-11
+[ 11 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref12-11
+[ 12 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref13-12
+[ 13 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref14-13
+[ 14 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref15-14
+[ 15 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref16-15
+[ 16 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref17-16
+[ 17 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref18-17
+[ 18 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref19-18
+[ 19 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref20-19
+[ 20 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref21-20
+[ 21 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref22-21
+[ 22 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref23-22
+[ 23 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref24-23
+body : https://www.carakasamhitaonline.com/index.php?title=Sharira
+[ 24 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref25-24
+http://www.ccras.res.in/ccras_sas/ : http://www.ccras.res.in/ccras_sas/
+
+
+[BLOCK 307: TEXT]
+----------------------------------------------------------------------
+Application of all such tests will serve as a powerful analytical tool for assessing pitta dosha.
+
+
+[BLOCK 308: H2]
+----------------------------------------------------------------------
+Treatment
+
+
+[BLOCK 309: TEXT]
+----------------------------------------------------------------------
+To manage and prevent
+
+
+[BLOCK 310: TEXT]
+----------------------------------------------------------------------
+disease
+
+
+[BLOCK 311: TEXT]
+----------------------------------------------------------------------
+, the clinician shall follow the theory of similarity and dissimilarity (
+
+
+[BLOCK 312: TEXT]
+----------------------------------------------------------------------
+samanya vishesha siddhanta
+
+
+[BLOCK 313: TEXT]
+----------------------------------------------------------------------
+). Avoiding diet and lifestyle factors similar to properties of pitta dosha is required to pacify it. Contrarily, the decline of pitta dosha is treated by consuming foods and lifestyles that stimulate it. Therapeutic purgation (
+
+
+[BLOCK 314: TEXT]
+----------------------------------------------------------------------
+virechana
+
+
+[BLOCK 315: TEXT]
+----------------------------------------------------------------------
+) is the best intervention indicated for vitiated pitta.[Cha.Sa.
+
+
+[BLOCK 316: TEXT]
+----------------------------------------------------------------------
+Sutra Sthana
+
+
+[BLOCK 317: TEXT]
+----------------------------------------------------------------------
+20/16] [Cha. Sa.
+
+
+[BLOCK 318: TEXT]
+----------------------------------------------------------------------
+Sutra Sthana
+
+
+[BLOCK 319: TEXT]
+----------------------------------------------------------------------
+25/40]
+
+
+[BLOCK 320: TEXT]
+----------------------------------------------------------------------
+Ingestion of milk and
+
+
+[BLOCK 321: TEXT]
+----------------------------------------------------------------------
+ghee
+
+
+[BLOCK 322: TEXT]
+----------------------------------------------------------------------
+(ghrita) is best for the treatment of pitta. [Cha. Sa.
+
+
+[BLOCK 323: TEXT]
+----------------------------------------------------------------------
+Sutra Sthana
+
+
+[BLOCK 324: TEXT]
+----------------------------------------------------------------------
+25/40] [A.Hr.
+
+
+[BLOCK 325: TEXT]
+----------------------------------------------------------------------
+Sutra Sthana
+
+
+[BLOCK 326: TEXT]
+----------------------------------------------------------------------
+13/4-9]
+
+
+[BLOCK 327: TEXT]
+----------------------------------------------------------------------
+[
+
+
+[BLOCK 328: TEXT]
+----------------------------------------------------------------------
+8
+
+
+[BLOCK 329: TEXT]
+----------------------------------------------------------------------
+]
+
+
+[BLOCK 330: TEXT]
+----------------------------------------------------------------------
+The herbs having
+
+
+[BLOCK 331: TEXT]
+----------------------------------------------------------------------
+sweet
+
+
+[BLOCK 332: TEXT]
+----------------------------------------------------------------------
+,
+
+
+[BLOCK 333: TEXT]
+----------------------------------------------------------------------
+bitter
+
+
+[BLOCK 334: TEXT]
+----------------------------------------------------------------------
+,
+
+
+[BLOCK 335: TEXT]
+----------------------------------------------------------------------
+astringent
+
+
+[BLOCK 336: TEXT]
+----------------------------------------------------------------------
+, and cold qualities used in single or combination along with therapies like
+
+
+[BLOCK 337: TEXT]
+----------------------------------------------------------------------
+oleation
+
+
+[BLOCK 338: TEXT]
+----------------------------------------------------------------------
+,
+
+
+[BLOCK 339: TEXT]
+----------------------------------------------------------------------
+purgation
+
+
+[BLOCK 340: TEXT]
+----------------------------------------------------------------------
+, massage and shower etc. are helpful in the treatment of pitta disorders. [Cha.Sa.
+
+
+[BLOCK 341: TEXT]
+----------------------------------------------------------------------
+Sutra Sthana
+
+
+[BLOCK 342: TEXT]
+----------------------------------------------------------------------
+20/16] [K.S.
+
+
+[BLOCK 343: TEXT]
+----------------------------------------------------------------------
+Sutra Sthana
+
+
+[BLOCK 344: TEXT]
+----------------------------------------------------------------------
+27/39]
+
+
+[BLOCK 345: TEXT]
+----------------------------------------------------------------------
+[
+
+
+[BLOCK 346: TEXT]
+----------------------------------------------------------------------
+9
+
+
+[BLOCK 347: TEXT]
+----------------------------------------------------------------------
+]
+
+
+[BLOCK 348: P]
+----------------------------------------------------------------------
+Dietary modification: Three tastes ( rasa ) that help in controlling the vitiated pitta are – sweet (madhura) , bitter (tikta) and astringent (kashaya) . [Cha.Sa. Sutra Sthana 1/66] [A.Hr. Sutra Sthana 13/4-9] [ 8 ] Lifestyle modification: Following modifications in lifestyles and measures help to maintain equilibrium of pitta dosha and manage its disorders.
+
+[REFERENCES / LINKS]
+rasa : https://www.carakasamhitaonline.com/index.php?title=Rasa
+sweet (madhura) : https://www.carakasamhitaonline.com/index.php?title=Madhura
+bitter (tikta) : https://www.carakasamhitaonline.com/index.php?title=Tikta
+astringent (kashaya) : https://www.carakasamhitaonline.com/index.php?title=Kashaya
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+[ 8 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref8-8
+
+
+[BLOCK 349: UL]
+----------------------------------------------------------------------
+1. Frequent application of paste of cool substances like kapur (camphor), Chandana (sandalwood), and ushira (Khashkhash grass) over body
+2. Sitting in the moonlight in the evening
+3. Listening to lovely and soothing music
+4. Exposing to soft cool air
+5. Companionship of individuals who talk honestly and innocuously
+6. Living near ponds, parks, and fountains with fresh water
+7. Wearing garlands/necklaces with appealing and cooling nature.[A.Hr. Sutra Sthana 13/4-9] [ 8 ]
+
+[REFERENCES / LINKS]
+Chandana : https://www.carakasamhitaonline.com/index.php?title=Chandana
+body : https://www.carakasamhitaonline.com/index.php?title=Sharira
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+[ 8 ] : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_note-ref8-8
+
+
+[BLOCK 350: H2]
+----------------------------------------------------------------------
+Current researches
+
+
+[BLOCK 351: H3]
+----------------------------------------------------------------------
+Analysis of physiology of vision:
+
+
+[BLOCK 352: TEXT]
+----------------------------------------------------------------------
+Ayurveda
+
+
+[BLOCK 353: TEXT]
+----------------------------------------------------------------------
+describes the entire visual process in terms of
+
+
+[BLOCK 354: TEXT]
+----------------------------------------------------------------------
+vata
+
+
+[BLOCK 355: TEXT]
+----------------------------------------------------------------------
+and pitta dosha.
+
+
+[BLOCK 356: TEXT]
+----------------------------------------------------------------------
+Vata
+
+
+[BLOCK 357: TEXT]
+----------------------------------------------------------------------
+is responsible for excellence of vision (aksha patavam) and pitta dosha is responsible for vision (darshana); particularly, alochaka pitta.
+
+
+[BLOCK 358: TEXT]
+----------------------------------------------------------------------
+[
+
+
+[BLOCK 359: TEXT]
+----------------------------------------------------------------------
+25
+
+
+[BLOCK 360: TEXT]
+----------------------------------------------------------------------
+]
+
+
+[BLOCK 361: H3]
+----------------------------------------------------------------------
+Functions of pitta dosha as per gender and prakriti :
+
+[REFERENCES / LINKS]
+prakriti : https://www.carakasamhitaonline.com/index.php?title=Prakriti
+
+
+[BLOCK 362: TEXT]
+----------------------------------------------------------------------
+This study determines the variance in the functional condition of various pitta forms using objective metrics in 201 young, healthy volunteers. For pachaka pitta, serum lipids, cholesterol, total protein, and glucose levels were assessed. For ranjaka pitta, haemoglobin concentration;for alochaka pitta, visual acuity; for sadhaka pitta,
+
+
+[BLOCK 363: TEXT]
+----------------------------------------------------------------------
+memory
+
+
+[BLOCK 364: TEXT]
+----------------------------------------------------------------------
+, and response time, and for bhrajaka pitta, Red-Green-Blue(RGB) value were evaluated. Except for bhrajaka pitta, each type of pitta had a separate functional status in each
+
+
+[BLOCK 365: TEXT]
+----------------------------------------------------------------------
+prakriti
+
+
+[BLOCK 366: TEXT]
+----------------------------------------------------------------------
+for both genders. Study suggested that while organizing and assessing research based on
+
+
+[BLOCK 367: TEXT]
+----------------------------------------------------------------------
+prakriti
+
+
+[BLOCK 368: TEXT]
+----------------------------------------------------------------------
+, gender inequalities be taken into account.
+
+
+[BLOCK 369: TEXT]
+----------------------------------------------------------------------
+[
+
+
+[BLOCK 370: TEXT]
+----------------------------------------------------------------------
+26
+
+
+[BLOCK 371: TEXT]
+----------------------------------------------------------------------
+]
+
+
+[BLOCK 372: H3]
+----------------------------------------------------------------------
+Pitta detection using finger photoplethysmography:
+
+
+[BLOCK 373: TEXT]
+----------------------------------------------------------------------
+According to the study, an increase in pitta level causes changes in the finger pulse profile features. Some of the selected features, such as A2/A1 of the middle finger and TP2/TPT of the ring finger in both the left and right hands of all three participants, demonstrated a monotonic decrease in variance. According to the study, this change is noticeable primarily in the TP2/TPT feature of the right hand's ring finger due to elevated pitta levels.
+
+
+[BLOCK 374: TEXT]
+----------------------------------------------------------------------
+[
+
+
+[BLOCK 375: TEXT]
+----------------------------------------------------------------------
+27
+
+
+[BLOCK 376: TEXT]
+----------------------------------------------------------------------
+]
+
+
+[BLOCK 377: H3]
+----------------------------------------------------------------------
+Analysis of pitta imbalance using machine learning algorithm:
+
+
+[BLOCK 378: TEXT]
+----------------------------------------------------------------------
+This work focused on evaluating pitta imbalance using a machine learning method and gives fresh insights into pitta dosha analysis utilising real-time pitta datasets and machine learning technologies. Pitta dosha was assessed using the Support Vector Machine (SVM). The work used real-time pitta datasets and machine learning approaches to analyse pitta dosha in 152 healthy subjects. The study revealed that lifestyle modifications had an effect on the vata-pitta dosha.
+
+
+[BLOCK 379: TEXT]
+----------------------------------------------------------------------
+[
+
+
+[BLOCK 380: TEXT]
+----------------------------------------------------------------------
+28
+
+
+[BLOCK 381: TEXT]
+----------------------------------------------------------------------
+]
+
+
+[BLOCK 382: H2]
+----------------------------------------------------------------------
+Theses done
+
+
+[BLOCK 383: OL]
+----------------------------------------------------------------------
+1. Thamman R.K.(1996): Ranjaka pitta ka vaigyanika vivechnatmak adhyayana( yakrit ke paripreshya me), Dept. of Kriya Sharir, NIA Jaipur.
+2. Chhimpa R.(2019): Physiological study of drava and ushna guna of pitta and their applied aspect with clinical evaluation of khanda-kushmanda avaleha and patoladi kwatha in amlapitta,Dept. of Kriya Sharir, NIA Jaipur. This study concluded that guna-based research is useful for determining the appropriate medication to administer in a particular state.
+3. Gautam V.J. (2020): A study on effects of transcendental meditation on healthy volunteers with special reference to sadhaka pitta in ayurveda, Department of Rachana Sharir, B.H.U. This study concluded that by increasing the mental fortitude (sattva) among the healthy volunteers, Transcendental Meditation may be used to regulate and maintain mental health (sadhaka pitta functions) as well as minimize the reactivity to stressful situations.
+
+
+[BLOCK 384: H2]
+----------------------------------------------------------------------
+Future area of research
+
+
+[BLOCK 385: TEXT]
+----------------------------------------------------------------------
+The critical area of research is the preparation of a validated and standardization of questionnaires for assessment of states like pitta kshaya, vriddhi, and normal functioning of pitta.
+
+
+[BLOCK 386: TEXT]
+----------------------------------------------------------------------
+Guna
+
+
+[BLOCK 387: TEXT]
+----------------------------------------------------------------------
+based assessment of pitta is needed. Evaluation of digestive functions in various disorders like hypothyroidism and hyperthyroidism will help understand the pitta's normal and abnormal functioning. Assessment of pitta state in various physiological and emotional states like anger, sorrow, pleasure, pain through subjective and objective methods. Pitta assessment in criminals may be helpful in counseling and understanding their nature. This may be useful in planning diet and behavioral therapy too. Profession wise pitta assessment may be helpful to choose the best and most suitable profession for the individual.
+
+
+[BLOCK 388: P]
+----------------------------------------------------------------------
+Send us your suggestions and feedback on this page.
+
+[REFERENCES / LINKS]
+Send us your suggestions and feedback on this page. : https://www.carakasamhitaonline.com/index.php?title=Special:ContactMe
+
+
+[BLOCK 389: H2]
+----------------------------------------------------------------------
+References
+
+
+[BLOCK 390: TEXT]
+----------------------------------------------------------------------
+Back to the Top
+
+
+[BLOCK 391: OL]
+----------------------------------------------------------------------
+1. ↑ National AYUSH Morbidity and Standardized Terminologies Electronic Portal by Ministry of AYUSH Available on http://namstp.ayush.gov.in/#/Ayurveda
+2. ↑ 2.00 2.01 2.02 2.03 2.04 2.05 2.06 2.07 2.08 2.09 2.10 2.11 2.12 2.13 2.14 2.15 2.16 2.17 2.18 2.19 2.20 2.21 2.22 2.23 2.24 Sushruta. Sushruta Samhita. Edited by Jadavaji Trikamji Aacharya. 8th ed. Varanasi: Chaukhambha Orientalia;2005.
+3. ↑ 3.0 3.1 3.2 Amarkosha. Amarsimha, Edited by Pt. Haragovinda sastri. Reprint Ed. Varanasi:Chaukhambha Sanskrit Sansthan, 2020.
+4. ↑ Monier-Williams. Monier William's Sanskrit-English Dictionary, 2nd Ed., Oxford University Press;1899.
+5. ↑ 5.0 5.1 5.2 5.3 5.4 Vagbhata. Ashtanga Samgraha. Edited by Shivprasadsharma. 3rd Ed., Varanasi: Chowkhamba Sanskrit Series Office; 2012.
+6. ↑ Sharangdhara. Sharangadhara Samhita. Edited by Parashuram Shastri Vidyasagar. Varanasi: Chaukhambha Surbharati Prakashan ;2013.
+7. ↑ 7.0 7.1 Bhava mishra. Bhavaprakasha, Edited by Brahmasankara Mishra, Rupalalaji Vaisya. 5th ed. Hindi Commentary Vidyotini; Varanasi: Chaukhambha Sanskrit Sansthan, 1969.
+8. ↑ 8.00 8.01 8.02 8.03 8.04 8.05 8.06 8.07 8.08 8.09 8.10 8.11 8.12 8.13 8.14 8.15 8.16 8.17 8.18 Vagbhata. Ashtanga Hridayam. Edited by HarishastriParadkar Vaidya. 1st ed. Varanasi: Krishnadas Academy; 2000.
+9. ↑ 9.00 9.01 9.02 9.03 9.04 9.05 9.06 9.07 9.08 9.09 9.10 9.11 9.12 Kashyapa. Kashyapa Samhita. Edited by P. V. Tewari. Reprint. Varanasi: Chaukhambha vishvabharati;2008.
+10. ↑ 10.0 10.1 Bhela. Bhela Samhita. Edited by Priya Vrat Sharma. Reprint ed. Varanasi: Chaukhambha Visvabharti;2008.
+11. ↑ 11.0 11.1 Byadgi P.S., Saini N.. Maharoga Adhyaya. In: Kar A.C., Rai S., Deole Y.S., Basisht G., eds. Charak Samhita New Edition. 1st ed. Jamnagar, Ind: CSRTSDC; 2020. https://www.carakasamhitaonline.com/mediawiki-1.32.1/index.php?title=Maharoga_Adhyaya&oldid=41150 . Accessed November 6, 2022.
+12. ↑ Ismail OZ, Bhayana V. Lipase or amylase for the diagnosis of acute pancreatitis?. Clin Biochem. 2017;50(18):1275-1280.
+13. ↑ Mukoubayashi C, Yanaoka K, Ohata H, et al. Serum pepsinogen and gastric cancer screening. Intern Med. 2007;46(6):261-266.
+14. ↑ Jaffe BM. The measurement of serum gastrin. J Surg Res. 1970;10(4):193-200.
+15. ↑ George-Gay B, Parker K. Understanding the complete blood count with differential. J Perianesth Nurs. 2003;18(2):96-117.
+16. ↑ Woolger C. Wechsler intelligence scale for children-(WISC-III). InUnderstanding psychological assessment 2001 (pp. 219-233). Springer, Boston, MA.
+17. ↑ Maul A. The validity of the Mayer–Salovey–Caruso Emotional Intelligence Test (MSCEIT) as a measure of emotional intelligence. Emotion Review. 2012 Oct;4(4):394-402.
+18. ↑ Kang JM, Cho YS, Park S, et al. Montreal cognitive assessment reflects cognitive reserve. BMC Geriatr. 2018;18(1):261.
+19. ↑ Borson S, Scanlan JM, Chen P, Ganguli M. The Mini-Cog as a screen for dementia: validation in a population-based sample. J Am Geriatr Soc. 2003;51(10):1451-1454.
+20. ↑ Paplikar A, Varghese F, Alladi S, et al. Picture-naming test for a linguistically diverse population with cognitive impairment and dementia. Int J Lang Commun Disord. 2022;57(4):881-894.
+21. ↑ Loess H, Waugh NC. Short-term memory and intertrial interval. Journal of Memory and Language. 1967 Aug 1;6(4):455.
+22. ↑ Chen TA, Li J, Schallhorn JM, Sun CQ. Comparing a Home Vision Self-Assessment Test to Office-Based Snellen Visual Acuity. Clin Ophthalmol. 2021;15:3205-3211.
+23. ↑ Benschop R. What is a tachistoscope? Historical explorations of an instrument. Sci Context. 1998;11(1):23-50.
+24. ↑ Hua W, Fan LM, Dai R, et al. Comparison of two series of non-invasive instruments used for the skin physiological properties measurements: the DermaLab® from Cortex Technology vs. the series of detectors from Courage & Khazaka. Skin Res Technol. 2017;23(1):70-78.
+25. ↑ Singh A, Singh G, Patwardhan K, Gehlot S. Development, Validation, and Verification of a Self-Assessment Tool to Estimate Agnibala (Digestive Strength). Journal of Evidence-Based Complementary & Alternative Medicine. 2017;22(1):134-140.
+26. ↑ Balakrishnan P, Ashwini MJ. Conceptual analysis of Physiology of vision in Ayurveda. J Ayurveda Integr Med. 2014;5(3):190-196.
+27. ↑ Agrawal S, Gehlot S. Variations in the functions of Pitta Dosha as per gender and Prakriti. TANG [HUMANITAS MEDICINE] [Internet]. 2017 Nov 30;7(4):18.1-18.8.
+28. ↑ Singh M, Chauhan B. High pitta detection using finger photo plethysmograph based features: a feasibility study. International Journal of Computer Science and Communication. 2012;3:73-5.
+
+[REFERENCES / LINKS]
+↑ : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-1
+http://namstp.ayush.gov.in/#/Ayurveda : http://namstp.ayush.gov.in/#/Ayurveda
+2.00 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref2_2-0
+2.01 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref2_2-1
+2.02 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref2_2-2
+2.03 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref2_2-3
+2.04 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref2_2-4
+2.05 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref2_2-5
+2.06 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref2_2-6
+2.07 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref2_2-7
+2.08 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref2_2-8
+2.09 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref2_2-9
+2.10 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref2_2-10
+2.11 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref2_2-11
+2.12 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref2_2-12
+2.13 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref2_2-13
+2.14 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref2_2-14
+2.15 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref2_2-15
+2.16 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref2_2-16
+2.17 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref2_2-17
+2.18 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref2_2-18
+2.19 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref2_2-19
+2.20 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref2_2-20
+2.21 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref2_2-21
+2.22 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref2_2-22
+2.23 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref2_2-23
+2.24 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref2_2-24
+3.0 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref3_3-0
+3.1 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref3_3-1
+3.2 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref3_3-2
+↑ : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref4_4-0
+5.0 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref5_5-0
+5.1 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref5_5-1
+5.2 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref5_5-2
+5.3 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref5_5-3
+5.4 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref5_5-4
+↑ : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref6_6-0
+7.0 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref7_7-0
+7.1 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref7_7-1
+8.00 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref8_8-0
+8.01 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref8_8-1
+8.02 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref8_8-2
+8.03 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref8_8-3
+8.04 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref8_8-4
+8.05 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref8_8-5
+8.06 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref8_8-6
+8.07 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref8_8-7
+8.08 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref8_8-8
+8.09 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref8_8-9
+8.10 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref8_8-10
+8.11 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref8_8-11
+8.12 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref8_8-12
+8.13 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref8_8-13
+8.14 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref8_8-14
+8.15 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref8_8-15
+8.16 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref8_8-16
+8.17 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref8_8-17
+8.18 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref8_8-18
+9.00 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref9_9-0
+9.01 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref9_9-1
+9.02 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref9_9-2
+9.03 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref9_9-3
+9.04 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref9_9-4
+9.05 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref9_9-5
+9.06 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref9_9-6
+9.07 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref9_9-7
+9.08 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref9_9-8
+9.09 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref9_9-9
+9.10 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref9_9-10
+9.11 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref9_9-11
+9.12 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref9_9-12
+10.0 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref10_10-0
+10.1 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref10_10-1
+11.0 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref12_11-0
+11.1 : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref12_11-1
+https://www.carakasamhitaonline.com/mediawiki-1.32.1/index.php?title=Maharoga_Adhyaya&oldid=41150 : https://www.carakasamhitaonline.com/mediawiki-1.32.1/index.php?title=Maharoga_Adhyaya&oldid=41150
+↑ : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref13_12-0
+↑ : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref14_13-0
+↑ : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref15_14-0
+↑ : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref16_15-0
+↑ : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref17_16-0
+↑ : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref18_17-0
+↑ : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref19_18-0
+↑ : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref20_19-0
+↑ : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref21_20-0
+↑ : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref22_21-0
+↑ : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref23_22-0
+↑ : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref24_23-0
+↑ : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref25_24-0
+↑ : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref26_25-0
+↑ : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref27_26-0
+↑ : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref28_27-0
+↑ : https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha#cite_ref-ref29_28-0
+
+
+[BLOCK 392: TEXT]
+----------------------------------------------------------------------
+NewPP limit report
+Cached time: 20261118070015
+Cache expiry: 86400
+Reduced expiry: false
+Complications: [vary‐revision‐id, show‐toc]
+CPU time usage: 0.106 seconds
+Real time usage: 0.226 seconds
+Preprocessor visited node count: 1528/1000000
+Post‐expand include size: 2900/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 6/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 15677/5000000 bytes
+Lua time usage: 0.060/7 seconds
+Lua virtual size: 20471808/209715200 bytes
+Lua estimated memory usage: 0 bytes
+
+
+[BLOCK 393: TEXT]
+----------------------------------------------------------------------
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 109.631 1 -total
+93.19% 102.164 1 Template:Infobox
+2.85% 3.130 1 Template:DoiWithLink
+1.57% 1.717 1 Template:CiteButton
+
+
+[BLOCK 394: TEXT]
+----------------------------------------------------------------------
+Saved in parser cache with key carakas1_carakasa:pcache:idhash:2938-0!canonical and timestamp 20261118070015 and revision id 44641. Rendering was triggered because: diff-page
+
+
+[BLOCK 395: TEXT]
+----------------------------------------------------------------------
+Retrieved from "
+
+
+[BLOCK 396: TEXT]
+----------------------------------------------------------------------
+https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha&oldid=44641
+
+
+[BLOCK 397: TEXT]
+----------------------------------------------------------------------
+"
+
+
+==========================================================================================
+END OF CHAPTER
+==========================================================================================

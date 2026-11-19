@@ -1,0 +1,1579 @@
+{
+    "source": "Charaka Samhita",
+    "chapter": "Vayu mahabhuta",
+    "chapter_id": "Vayu_mahabhuta",
+    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta",
+    "xpath": "//*[@id=\"content\"]",
+    "extraction_date": "2026-11-19T10:11:26",
+    "total_blocks": 62,
+    "total_tables": 1,
+    "total_headings": 22,
+    "total_paragraphs": 13,
+    "content": [
+        {
+            "type": "h1",
+            "text": "Vayu mahabhuta",
+            "html": "<h1 class=\"firstHeading mw-first-heading\" id=\"firstHeading\"><span class=\"mw-page-title-main\">Vayu mahabhuta</span></h1>",
+            "links": [],
+            "images": [],
+            "level": 1
+        },
+        {
+            "type": "text",
+            "text": "From Charak Samhita"
+        },
+        {
+            "type": "text",
+            "text": "Jump to navigation"
+        },
+        {
+            "type": "text",
+            "text": "Jump to search"
+        },
+        {
+            "type": "figure",
+            "text": "",
+            "html": "<figure class=\"mw-default-size mw-halign-right\" typeof=\"mw:File\"><a href=\"https://www.charakasamhitauptodate.com/index.php?title=Special:CiteThisPage&amp;page=Vayu_mahabhuta&amp;id=45225&amp;wpFormIdentifier=titleform\" rel=\"nofollow\"><img class=\"mw-file-element\" decoding=\"async\" height=\"47\" src=\"/images/5/58/Cite.png\" width=\"180\"/></a><figcaption></figcaption></figure>",
+            "links": [
+                {
+                    "text": "",
+                    "url": "https://www.charakasamhitauptodate.com/index.php?title=Special:CiteThisPage&page=Vayu_mahabhuta&id=45225&wpFormIdentifier=titleform"
+                }
+            ],
+            "images": [
+                {
+                    "url": "https://www.carakasamhitaonline.com/images/5/58/Cite.png",
+                    "alt": "",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "The word ‘vayu’ literally means ‘wind’ or ‘air’ or ‘vital air’. [ 1 ] It is one among the panchamahabhuta .[Cha.Sa. Sharira sthana 1/27] In Ayurveda, it is applied to denote mahabhuta and dosha in body . There are two forms of vayu: subtle (sukshma) and gross (sthula). The subtle form is present as vital force(‘ prana ’) in sheath of vital force (pranamaya kosha). Gross (sthula) vayu is present in the body as mahabhuta and dosha in sheath formed by food (annamaya kosha). [ 2 ] This article deals with sthoola vayu in the form of mahabhuta. The concept and practice about vata dosha is dealt separately.",
+            "html": "<p style=\"text-align:justify;\">The word ‘vayu’ literally means ‘wind’ or ‘air’ or ‘vital air’.<sup class=\"reference\" id=\"cite_ref-1\"><a href=\"#cite_note-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup> It is one among the <a class=\"mw-redirect\" href=\"/index.php?title=Panchamahabhuta\" title=\"Panchamahabhuta\">panchamahabhuta</a>.[Cha.Sa.<a class=\"mw-redirect\" href=\"/index.php?title=Sharira_sthana\" title=\"Sharira sthana\">Sharira sthana</a> 1/27] In Ayurveda, it is applied to denote <a class=\"mw-redirect\" href=\"/index.php?title=Mahabhuta\" title=\"Mahabhuta\">mahabhuta</a> and <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> in <a class=\"mw-redirect\" href=\"/index.php?title=Body\" title=\"Body\">body</a>.  \n<br/>\nThere are two forms of vayu: subtle (sukshma) and gross (sthula). The subtle form is present as vital force(‘<a href=\"/index.php?title=Prana\" title=\"Prana\">prana</a>’) in sheath of vital force (pranamaya kosha). Gross (sthula) vayu is present in the body as <a class=\"mw-redirect\" href=\"/index.php?title=Mahabhuta\" title=\"Mahabhuta\">mahabhuta</a> and <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> in sheath formed by food (annamaya kosha).<sup class=\"reference\" id=\"cite_ref-2\"><a href=\"#cite_note-2\"><span class=\"cite-bracket\">[</span>2<span class=\"cite-bracket\">]</span></a></sup> This article deals with sthoola vayu in the form of mahabhuta. The concept and practice about <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a> <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> is dealt separately.  </p>",
+            "links": [
+                {
+                    "text": "[ 1 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#cite_note-1"
+                },
+                {
+                    "text": "panchamahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Panchamahabhuta"
+                },
+                {
+                    "text": "Sharira sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_sthana"
+                },
+                {
+                    "text": "mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahabhuta"
+                },
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "body",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Body"
+                },
+                {
+                    "text": "prana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prana"
+                },
+                {
+                    "text": "mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahabhuta"
+                },
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "[ 2 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#cite_note-2"
+                },
+                {
+                    "text": "vata",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vata"
+                },
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "Section/Chapter/topic",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Sharira / Pachamahabhuta / Vayu",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Sharira",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira"
+                            },
+                            {
+                                "text": "Pachamahabhuta",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Pachamahabhuta"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Authors",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Aneesh E.G., Deole Y.S.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Deole Y.S.",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Yogesh_Deole"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Reviewed by",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Basisht G.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Basisht G.",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Gopal_Basisht"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Affiliations",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Charak Samhita Research, Training and Development Centre , I.P.G.T.& R.A., Jamnagar",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Charak Samhita Research, Training and Development Centre",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Correspondence email:",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "dryogeshdeole@gmail.com, carakasamhita@gmail.com",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Publisher",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Charak Samhita Research, Training and Development Centre , I.T.R.A., Jamnagar, India",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Charak Samhita Research, Training and Development Centre",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Date of first publication:",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "April 12, 2020",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "DOI",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "10.47468/CSNE.2020.e01.s09.008",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "10.47468/CSNE.2020.e01.s09.008",
+                                "url": "https://doi.org/10.47468/CSNE.2020.e01.s09.008"
+                            }
+                        ]
+                    }
+                ]
+            ],
+            "html": "<table class=\"infobox\" style=\"width:22em\"><caption>Contributors</caption><tbody><tr><th scope=\"row\">Section/Chapter/topic</th><td>\n<a href=\"/index.php?title=Sharira\" title=\"Sharira\">Sharira</a> / <a class=\"mw-redirect\" href=\"/index.php?title=Pachamahabhuta\" title=\"Pachamahabhuta\">Pachamahabhuta</a> / Vayu</td></tr><tr><th scope=\"row\">Authors</th><td>\nAneesh E.G., <a href=\"/index.php?title=Yogesh_Deole\" title=\"Yogesh Deole\">Deole Y.S.</a></td></tr><tr><th scope=\"row\">Reviewed by</th><td>\n<a href=\"/index.php?title=Gopal_Basisht\" title=\"Gopal Basisht\">Basisht G.</a></td></tr><tr><th scope=\"row\">Affiliations</th><td>\n<a class=\"mw-redirect\" href=\"/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre\" title=\"Charak Samhita Research, Training and Development Centre\">Charak Samhita Research, Training and Development Centre</a>, I.P.G.T.&amp; R.A., Jamnagar</td></tr><tr><th scope=\"row\">Correspondence email:</th><td>\ndryogeshdeole@gmail.com, carakasamhita@gmail.com</td></tr><tr><th scope=\"row\">Publisher</th><td>\n<a class=\"mw-redirect\" href=\"/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre\" title=\"Charak Samhita Research, Training and Development Centre\">Charak Samhita Research, Training and Development Centre</a>, I.T.R.A., Jamnagar, India</td></tr><tr><th scope=\"row\">Date of first publication:</th><td>\nApril 12, 2020</td></tr><tr><th scope=\"row\">DOI</th><td>\n<a class=\"external text\" href=\"https://doi.org/10.47468/CSNE.2020.e01.s09.008\" rel=\"nofollow\">10.47468/CSNE.2020.e01.s09.008</a></td></tr></tbody></table>",
+            "links": [
+                {
+                    "text": "Sharira",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira"
+                },
+                {
+                    "text": "Pachamahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pachamahabhuta"
+                },
+                {
+                    "text": "Deole Y.S.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Yogesh_Deole"
+                },
+                {
+                    "text": "Basisht G.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Gopal_Basisht"
+                },
+                {
+                    "text": "Charak Samhita Research, Training and Development Centre",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre"
+                },
+                {
+                    "text": "Charak Samhita Research, Training and Development Centre",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre"
+                },
+                {
+                    "text": "10.47468/CSNE.2020.e01.s09.008",
+                    "url": "https://doi.org/10.47468/CSNE.2020.e01.s09.008"
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Contents",
+            "html": "<h2 id=\"mw-toc-heading\">Contents</h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ul",
+            "text": "1 Etymology and definition 2 Synonyms 3 Contextual meanings 4 Evolution 5 General characteristics 6 Specific characteristics 7 Importance 7.1 Functions in embryogenesis and human body 7.2 Role in determining the complexion 7.3 Role of vayu bhuta agni in digestion of food 7.4 Vital points (Marma) and its Vayu mahabhuta constituation 8 Importance in clinical practice 8.1 Application in diagnosis 8.2 Application in treatment 9 Current views and researches 10 List of theses done 11 More information 11.1 Related articles 11.2 List of references 12 References",
+            "html": "<ul>\n<li class=\"toclevel-1 tocsection-1\"><a href=\"#Etymology_and_definition\"><span class=\"tocnumber\">1</span> <span class=\"toctext\">Etymology and definition</span></a></li>\n<li class=\"toclevel-1 tocsection-2\"><a href=\"#Synonyms\"><span class=\"tocnumber\">2</span> <span class=\"toctext\">Synonyms</span></a></li>\n<li class=\"toclevel-1 tocsection-3\"><a href=\"#Contextual_meanings\"><span class=\"tocnumber\">3</span> <span class=\"toctext\">Contextual meanings</span></a></li>\n<li class=\"toclevel-1 tocsection-4\"><a href=\"#Evolution\"><span class=\"tocnumber\">4</span> <span class=\"toctext\">Evolution</span></a></li>\n<li class=\"toclevel-1 tocsection-5\"><a href=\"#General_characteristics\"><span class=\"tocnumber\">5</span> <span class=\"toctext\">General characteristics</span></a></li>\n<li class=\"toclevel-1 tocsection-6\"><a href=\"#Specific_characteristics\"><span class=\"tocnumber\">6</span> <span class=\"toctext\">Specific characteristics</span></a></li>\n<li class=\"toclevel-1 tocsection-7\"><a href=\"#Importance\"><span class=\"tocnumber\">7</span> <span class=\"toctext\">Importance</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-8\"><a href=\"#Functions_in_embryogenesis_and_human_body\"><span class=\"tocnumber\">7.1</span> <span class=\"toctext\">Functions in embryogenesis and human body</span></a></li>\n<li class=\"toclevel-2 tocsection-9\"><a href=\"#Role_in_determining_the_complexion\"><span class=\"tocnumber\">7.2</span> <span class=\"toctext\">Role in determining the complexion</span></a></li>\n<li class=\"toclevel-2 tocsection-10\"><a href=\"#Role_of_vayu_bhuta_agni_in_digestion_of_food\"><span class=\"tocnumber\">7.3</span> <span class=\"toctext\">Role of vayu bhuta agni in digestion of food</span></a></li>\n<li class=\"toclevel-2 tocsection-11\"><a href=\"#Vital_points_(Marma)_and_its_Vayu_mahabhuta_constituation\"><span class=\"tocnumber\">7.4</span> <span class=\"toctext\">Vital points (Marma) and its Vayu mahabhuta constituation</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-12\"><a href=\"#Importance_in_clinical_practice\"><span class=\"tocnumber\">8</span> <span class=\"toctext\">Importance in clinical practice</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-13\"><a href=\"#Application_in_diagnosis\"><span class=\"tocnumber\">8.1</span> <span class=\"toctext\">Application in diagnosis</span></a></li>\n<li class=\"toclevel-2 tocsection-14\"><a href=\"#Application_in_treatment\"><span class=\"tocnumber\">8.2</span> <span class=\"toctext\">Application in treatment</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-15\"><a href=\"#Current_views_and_researches\"><span class=\"tocnumber\">9</span> <span class=\"toctext\">Current views and researches</span></a></li>\n<li class=\"toclevel-1 tocsection-16\"><a href=\"#List_of_theses_done\"><span class=\"tocnumber\">10</span> <span class=\"toctext\">List of theses done</span></a></li>\n<li class=\"toclevel-1 tocsection-17\"><a href=\"#More_information\"><span class=\"tocnumber\">11</span> <span class=\"toctext\">More information</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-18\"><a href=\"#Related_articles\"><span class=\"tocnumber\">11.1</span> <span class=\"toctext\">Related articles</span></a></li>\n<li class=\"toclevel-2 tocsection-19\"><a href=\"#List_of_references\"><span class=\"tocnumber\">11.2</span> <span class=\"toctext\">List of references</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-20\"><a href=\"#References\"><span class=\"tocnumber\">12</span> <span class=\"toctext\">References</span></a></li>\n</ul>",
+            "links": [
+                {
+                    "text": "1 Etymology and definition",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#Etymology_and_definition"
+                },
+                {
+                    "text": "2 Synonyms",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#Synonyms"
+                },
+                {
+                    "text": "3 Contextual meanings",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#Contextual_meanings"
+                },
+                {
+                    "text": "4 Evolution",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#Evolution"
+                },
+                {
+                    "text": "5 General characteristics",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#General_characteristics"
+                },
+                {
+                    "text": "6 Specific characteristics",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#Specific_characteristics"
+                },
+                {
+                    "text": "7 Importance",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#Importance"
+                },
+                {
+                    "text": "7.1 Functions in embryogenesis and human body",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#Functions_in_embryogenesis_and_human_body"
+                },
+                {
+                    "text": "7.2 Role in determining the complexion",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#Role_in_determining_the_complexion"
+                },
+                {
+                    "text": "7.3 Role of vayu bhuta agni in digestion of food",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#Role_of_vayu_bhuta_agni_in_digestion_of_food"
+                },
+                {
+                    "text": "7.4 Vital points (Marma) and its Vayu mahabhuta constituation",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#Vital_points_(Marma)_and_its_Vayu_mahabhuta_constituation"
+                },
+                {
+                    "text": "8 Importance in clinical practice",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#Importance_in_clinical_practice"
+                },
+                {
+                    "text": "8.1 Application in diagnosis",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#Application_in_diagnosis"
+                },
+                {
+                    "text": "8.2 Application in treatment",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#Application_in_treatment"
+                },
+                {
+                    "text": "9 Current views and researches",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#Current_views_and_researches"
+                },
+                {
+                    "text": "10 List of theses done",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#List_of_theses_done"
+                },
+                {
+                    "text": "11 More information",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#More_information"
+                },
+                {
+                    "text": "11.1 Related articles",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#Related_articles"
+                },
+                {
+                    "text": "11.2 List of references",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#List_of_references"
+                },
+                {
+                    "text": "12 References",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#References"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "1 Etymology and definition",
+                    "links": [
+                        {
+                            "text": "1 Etymology and definition",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#Etymology_and_definition"
+                        }
+                    ]
+                },
+                {
+                    "text": "2 Synonyms",
+                    "links": [
+                        {
+                            "text": "2 Synonyms",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#Synonyms"
+                        }
+                    ]
+                },
+                {
+                    "text": "3 Contextual meanings",
+                    "links": [
+                        {
+                            "text": "3 Contextual meanings",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#Contextual_meanings"
+                        }
+                    ]
+                },
+                {
+                    "text": "4 Evolution",
+                    "links": [
+                        {
+                            "text": "4 Evolution",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#Evolution"
+                        }
+                    ]
+                },
+                {
+                    "text": "5 General characteristics",
+                    "links": [
+                        {
+                            "text": "5 General characteristics",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#General_characteristics"
+                        }
+                    ]
+                },
+                {
+                    "text": "6 Specific characteristics",
+                    "links": [
+                        {
+                            "text": "6 Specific characteristics",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#Specific_characteristics"
+                        }
+                    ]
+                },
+                {
+                    "text": "7 Importance 7.1 Functions in embryogenesis and human body 7.2 Role in determining the complexion 7.3 Role of vayu bhuta agni in digestion of food 7.4 Vital points (Marma) and its Vayu mahabhuta constituation",
+                    "links": [
+                        {
+                            "text": "7 Importance",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#Importance"
+                        },
+                        {
+                            "text": "7.1 Functions in embryogenesis and human body",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#Functions_in_embryogenesis_and_human_body"
+                        },
+                        {
+                            "text": "7.2 Role in determining the complexion",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#Role_in_determining_the_complexion"
+                        },
+                        {
+                            "text": "7.3 Role of vayu bhuta agni in digestion of food",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#Role_of_vayu_bhuta_agni_in_digestion_of_food"
+                        },
+                        {
+                            "text": "7.4 Vital points (Marma) and its Vayu mahabhuta constituation",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#Vital_points_(Marma)_and_its_Vayu_mahabhuta_constituation"
+                        }
+                    ]
+                },
+                {
+                    "text": "8 Importance in clinical practice 8.1 Application in diagnosis 8.2 Application in treatment",
+                    "links": [
+                        {
+                            "text": "8 Importance in clinical practice",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#Importance_in_clinical_practice"
+                        },
+                        {
+                            "text": "8.1 Application in diagnosis",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#Application_in_diagnosis"
+                        },
+                        {
+                            "text": "8.2 Application in treatment",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#Application_in_treatment"
+                        }
+                    ]
+                },
+                {
+                    "text": "9 Current views and researches",
+                    "links": [
+                        {
+                            "text": "9 Current views and researches",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#Current_views_and_researches"
+                        }
+                    ]
+                },
+                {
+                    "text": "10 List of theses done",
+                    "links": [
+                        {
+                            "text": "10 List of theses done",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#List_of_theses_done"
+                        }
+                    ]
+                },
+                {
+                    "text": "11 More information 11.1 Related articles 11.2 List of references",
+                    "links": [
+                        {
+                            "text": "11 More information",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#More_information"
+                        },
+                        {
+                            "text": "11.1 Related articles",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#Related_articles"
+                        },
+                        {
+                            "text": "11.2 List of references",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#List_of_references"
+                        }
+                    ]
+                },
+                {
+                    "text": "12 References",
+                    "links": [
+                        {
+                            "text": "12 References",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#References"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Etymology and definition",
+            "html": "<h2><span class=\"mw-headline\" id=\"Etymology_and_definition\">Etymology and definition</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "The word ‘vayu’ originates from the ‘va’ dhatu(Sanskrit root), which means ‘movement’. The word Vayu is derived from the word ‘vagatigandanayoho’, which means it exerts motility and pressure[Su.Sa.Su.21/5]. [ 3 ] Vayu possesses specific property of touch. It doesn’t have any shape.[Tarksangraha] [ 3 ]",
+            "html": "<p>The word ‘vayu’ originates from the ‘va’ dhatu(Sanskrit root), which means ‘movement’. The word Vayu is derived from the word ‘vagatigandanayoho’, which means it exerts motility and pressure[Su.Sa.Su.21/5].<sup class=\"reference\" id=\"cite_ref-Dingari2012_3-0\"><a href=\"#cite_note-Dingari2012-3\"><span class=\"cite-bracket\">[</span>3<span class=\"cite-bracket\">]</span></a></sup>Vayu possesses specific property of touch. It doesn’t have any shape.[Tarksangraha]<sup class=\"reference\" id=\"cite_ref-Dingari2012_3-1\"><a href=\"#cite_note-Dingari2012-3\"><span class=\"cite-bracket\">[</span>3<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 3 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#cite_note-Dingari2012-3"
+                },
+                {
+                    "text": "[ 3 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#cite_note-Dingari2012-3"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Synonyms",
+            "html": "<h2><span class=\"mw-headline\" id=\"Synonyms\">Synonyms</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "Vata, pavana, sadagati, anila, sameerana, maruta",
+            "html": "<p>Vata, pavana, sadagati, anila, sameerana, maruta\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Contextual meanings",
+            "html": "<h2><span class=\"mw-headline\" id=\"Contextual_meanings\">Contextual meanings</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "The term vayu denotes the following meanings",
+            "html": "<p>The term vayu denotes the following meanings\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "ol",
+            "text": "Vayu mahabhuta Wind Vatadosha Factor responsible for transformation(digestion, assimilation and metabolism) of food[Cha.Sa. Sharira Sthana 06/14]",
+            "html": "<ol><li>Vayu mahabhuta</li>\n<li>Wind</li>\n<li>Vatadosha</li>\n<li>Factor responsible for transformation(digestion, assimilation and metabolism) of food[Cha.Sa.<a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 06/14]</li></ol>",
+            "links": [
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Vayu mahabhuta",
+                    "links": []
+                },
+                {
+                    "text": "Wind",
+                    "links": []
+                },
+                {
+                    "text": "Vatadosha",
+                    "links": []
+                },
+                {
+                    "text": "Factor responsible for transformation(digestion, assimilation and metabolism) of food[Cha.Sa. Sharira Sthana 06/14]",
+                    "links": [
+                        {
+                            "text": "Sharira Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Evolution",
+            "html": "<h2><span class=\"mw-headline\" id=\"Evolution\">Evolution</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "In the sequence of evolution, vayu evolves from the akasha mahabhuta. The subtle (tanmatra) forms of shabda and sparsha unify to form vayumahabhuta[Su.Sa.Sha.1/4].Vayu shows autonomy in its functions[Su.Sa.Ni.1/5].",
+            "html": "<p>In the sequence of evolution, vayu evolves from the <a class=\"mw-redirect\" href=\"/index.php?title=Akasha\" title=\"Akasha\">akasha</a> mahabhuta. The subtle (tanmatra) forms of shabda and sparsha unify to form vayumahabhuta[Su.Sa.Sha.1/4].Vayu shows autonomy in its functions[Su.Sa.Ni.1/5].\n</p>",
+            "links": [
+                {
+                    "text": "akasha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "General characteristics",
+            "html": "<h2><span class=\"mw-headline\" id=\"General_characteristics\">General characteristics</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "The substance with the predominance of vayumahabhuta possesses the following properties [Su.Sa.Su.41/4(4)].",
+            "html": "<p>The substance with the predominance of vayumahabhuta possesses the following properties [Su.Sa.Su.41/4(4)].\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "ul",
+            "text": "Light (laghu) Dry (ruksha) Rough (khara) Clear (vishada) Subtle/minute (sukshma) Touch (sparsha) dominantly [Cha.Sa. Sutra Sthana 26/11] Sound (shabda) [Cha.Sa. Sharira Sthana 1/27]",
+            "html": "<ul><li>Light (laghu)</li>\n<li>Dry (ruksha)</li>\n<li>Rough (khara)</li>\n<li>Clear (vishada)</li>\n<li>Subtle/minute (sukshma)</li>\n<li>Touch (sparsha) dominantly [Cha.Sa.<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 26/11]</li>\n<li>Sound (shabda) [Cha.Sa.<a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 1/27]</li></ul>",
+            "links": [
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Light (laghu)",
+                    "links": []
+                },
+                {
+                    "text": "Dry (ruksha)",
+                    "links": []
+                },
+                {
+                    "text": "Rough (khara)",
+                    "links": []
+                },
+                {
+                    "text": "Clear (vishada)",
+                    "links": []
+                },
+                {
+                    "text": "Subtle/minute (sukshma)",
+                    "links": []
+                },
+                {
+                    "text": "Touch (sparsha) dominantly [Cha.Sa. Sutra Sthana 26/11]",
+                    "links": [
+                        {
+                            "text": "Sutra Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                        }
+                    ]
+                },
+                {
+                    "text": "Sound (shabda) [Cha.Sa. Sharira Sthana 1/27]",
+                    "links": [
+                        {
+                            "text": "Sharira Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Specific characteristics",
+            "html": "<h2><span class=\"mw-headline\" id=\"Specific_characteristics\">Specific characteristics</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "Movement (chalatva) is the characteristic feature of vayumahabhuta[Cha.Sa. Sharira Sthana 1/29]. It can move in all directions. That may be the reason for considering ‘tiryakgamana’(movement in all directions) as a property of vayu(Chakrapani on [Cha.Sa. Sutra Sthana 11/12).\nAmong the three fundamental qualities (triguna), vayu mahabhuta is rajas guna dominant[Su.Sa.Sha.1/20].",
+            "html": "<p>Movement (chalatva) is the characteristic feature of vayumahabhuta[Cha.Sa.<a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 1/29]. It can move in all directions. That may be the reason for considering ‘tiryakgamana’(movement in all directions) as a property of vayu(Chakrapani on [Cha.Sa.<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a>11/12).\nAmong the three fundamental qualities (triguna), vayu mahabhuta is <a href=\"/index.php?title=Rajas\" title=\"Rajas\">rajas</a> <a href=\"/index.php?title=Guna\" title=\"Guna\">guna</a> dominant[Su.Sa.Sha.1/20].\n</p>",
+            "links": [
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "rajas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rajas"
+                },
+                {
+                    "text": "guna",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Guna"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Importance",
+            "html": "<h2><span class=\"mw-headline\" id=\"Importance\">Importance</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "Vayu is represented as vital force ( prana ) in purusha . It is also responsible for initiation of any movement(utsaha )[Cha.Sa. Sharira Sthana 5/5]. Therefore, vayu is directly responsible for vitality and all functions in an individual.",
+            "html": "<p>Vayu is represented as vital force (<a href=\"/index.php?title=Prana\" title=\"Prana\">prana</a>) in <a href=\"/index.php?title=Purusha\" title=\"Purusha\">purusha</a>. It is also responsible for initiation of any movement(utsaha )[Cha.Sa.<a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 5/5]. Therefore, vayu is directly responsible for vitality and all functions in an individual. \n</p>",
+            "links": [
+                {
+                    "text": "prana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prana"
+                },
+                {
+                    "text": "purusha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Functions in embryogenesis and human body",
+            "html": "<h3><span class=\"mw-headline\" id=\"Functions_in_embryogenesis_and_human_body\">Functions in embryogenesis and human body</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "ul",
+            "text": "During embryogenesis, Vayu mahabhuta is responsible for the functions of development of touch sensation and its perception, roughness, impulsion, structure and functions of body tissues and all types of movements, transportation in channels[Cha.Sa. Sharira Sthana 4/12]. Vayu mahabhuta is also responsible for the dominancy of vata dosha in prakriti of an individual[Cha.Sa. Vimana Sthana 8/95]. Vayu mahabhuta carries out the function of division or separation of fetus (garbha) into dosha , dhatu , mala , different body parts etc.[Su.Sa.Sha.5/3]. All these functions are carried out in postnatal life too.",
+            "html": "<ul><li>During embryogenesis, Vayu mahabhuta is responsible for the functions of development of touch sensation and its perception, roughness, impulsion, structure and functions of body tissues and all types of movements, transportation in channels[Cha.Sa.<a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 4/12].</li>\n<li>Vayu mahabhuta is also responsible for the dominancy of <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a><a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> in <a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">prakriti</a> of an individual[Cha.Sa.<a href=\"/index.php?title=Vimana_Sthana\" title=\"Vimana Sthana\">Vimana Sthana</a>8/95].</li>\n<li>Vayu mahabhuta carries out the function of division or separation of fetus (garbha) into <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a>, <a href=\"/index.php?title=Dhatu\" title=\"Dhatu\">dhatu</a>, <a href=\"/index.php?title=Mala\" title=\"Mala\">mala</a>, different body parts etc.[Su.Sa.Sha.5/3].</li>\n<li>All these functions are carried out in postnatal life too.</li></ul>",
+            "links": [
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                },
+                {
+                    "text": "vata",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vata"
+                },
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "Vimana Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana"
+                },
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu"
+                },
+                {
+                    "text": "mala",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mala"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "During embryogenesis, Vayu mahabhuta is responsible for the functions of development of touch sensation and its perception, roughness, impulsion, structure and functions of body tissues and all types of movements, transportation in channels[Cha.Sa. Sharira Sthana 4/12].",
+                    "links": [
+                        {
+                            "text": "Sharira Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                        }
+                    ]
+                },
+                {
+                    "text": "Vayu mahabhuta is also responsible for the dominancy of vata dosha in prakriti of an individual[Cha.Sa. Vimana Sthana 8/95].",
+                    "links": [
+                        {
+                            "text": "vata",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vata"
+                        },
+                        {
+                            "text": "dosha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                        },
+                        {
+                            "text": "prakriti",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                        },
+                        {
+                            "text": "Vimana Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana"
+                        }
+                    ]
+                },
+                {
+                    "text": "Vayu mahabhuta carries out the function of division or separation of fetus (garbha) into dosha , dhatu , mala , different body parts etc.[Su.Sa.Sha.5/3].",
+                    "links": [
+                        {
+                            "text": "dosha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                        },
+                        {
+                            "text": "dhatu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu"
+                        },
+                        {
+                            "text": "mala",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Mala"
+                        }
+                    ]
+                },
+                {
+                    "text": "All these functions are carried out in postnatal life too.",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "h3",
+            "text": "Role in determining the complexion",
+            "html": "<h3><span class=\"mw-headline\" id=\"Role_in_determining_the_complexion\">Role in determining the complexion</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Mahabhutas contribute in determining colour and complexion.",
+            "html": "<p>Mahabhutas contribute in determining colour and complexion. \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "ul",
+            "text": "Prithvi and vayu are responsible for black complexion An equilibrium of all the five mahabhutas result in sky-like bluish complexion(shyamavarna)[Cha.Sa. Sharira Sthana 8/15]",
+            "html": "<ul><li><a class=\"mw-redirect\" href=\"/index.php?title=Prithvi\" title=\"Prithvi\">Prithvi</a> and vayu are responsible for black complexion</li>\n<li>An equilibrium of all the five mahabhutas result in sky-like bluish complexion(shyamavarna)[Cha.Sa.<a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 8/15]</li></ul>",
+            "links": [
+                {
+                    "text": "Prithvi",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Prithvi and vayu are responsible for black complexion",
+                    "links": [
+                        {
+                            "text": "Prithvi",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi"
+                        }
+                    ]
+                },
+                {
+                    "text": "An equilibrium of all the five mahabhutas result in sky-like bluish complexion(shyamavarna)[Cha.Sa. Sharira Sthana 8/15]",
+                    "links": [
+                        {
+                            "text": "Sharira Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h3",
+            "text": "Role of vayu bhuta agni in digestion of food",
+            "html": "<h3><span class=\"mw-headline\" id=\"Role_of_vayu_bhuta_agni_in_digestion_of_food\">Role of vayu bhuta agni in digestion of food</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "ul",
+            "text": "In the process of digestion and metabolism, the food passes through three levels of action of digestive fire ( agni ). During the action by bhutagni, the vayu dominant agni acts upon vata dominant components of food. It further nourishes vayu dominant body components[Cha.Sa. Chikitsa Sthana 15/12-14].",
+            "html": "<ul><li>In the process of digestion and metabolism, the food passes through three levels of action of digestive fire (<a href=\"/index.php?title=Agni\" title=\"Agni\">agni</a>). During the action by bhutagni, the vayu dominant <a href=\"/index.php?title=Agni\" title=\"Agni\">agni</a> acts upon <a class=\"mw-redirect\" href=\"/index.php?title=Vayu\" title=\"Vayu\">vata</a> dominant components of food. It further nourishes vayu dominant body components[Cha.Sa.<a href=\"/index.php?title=Chikitsa_Sthana\" title=\"Chikitsa Sthana\">Chikitsa Sthana</a> 15/12-14].</li></ul>",
+            "links": [
+                {
+                    "text": "agni",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni"
+                },
+                {
+                    "text": "agni",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni"
+                },
+                {
+                    "text": "vata",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu"
+                },
+                {
+                    "text": "Chikitsa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "In the process of digestion and metabolism, the food passes through three levels of action of digestive fire ( agni ). During the action by bhutagni, the vayu dominant agni acts upon vata dominant components of food. It further nourishes vayu dominant body components[Cha.Sa. Chikitsa Sthana 15/12-14].",
+                    "links": [
+                        {
+                            "text": "agni",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Agni"
+                        },
+                        {
+                            "text": "agni",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Agni"
+                        },
+                        {
+                            "text": "vata",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu"
+                        },
+                        {
+                            "text": "Chikitsa Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h3",
+            "text": "Vital points ( Marma ) and its Vayu mahabhuta constituation",
+            "html": "<h3><span id=\"Vital_points_.28Marma.29_and_its_Vayu_mahabhuta_constituation\"></span><span class=\"mw-headline\" id=\"Vital_points_(Marma)_and_its_Vayu_mahabhuta_constituation\">Vital points (<a href=\"/index.php?title=Marma\" title=\"Marma\">Marma</a>) and its Vayu mahabhuta constituation</span></h3>",
+            "links": [
+                {
+                    "text": "Marma",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Marma"
+                }
+            ],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "ul",
+            "text": "Vishalyaghna marma (vital points affected by foreign body) have predominance of vayu mahabhuta. The individual survives as long as vayu remains inside as obstructed by the foreign body. Rujakara marma (painful vital points) have dominance of agni and vayu. Pain is caused as a result of these two mahabhuta [Su.Sa.Sharira Sthana 6/16].",
+            "html": "<ul><li>Vishalyaghna <a href=\"/index.php?title=Marma\" title=\"Marma\">marma</a> (vital points affected by foreign body) have predominance of vayu mahabhuta. The individual survives as long as vayu remains inside as obstructed by the foreign body.</li>\n<li>Rujakara<a href=\"/index.php?title=Marma\" title=\"Marma\">marma</a>(painful vital points) have dominance of <a href=\"/index.php?title=Agni\" title=\"Agni\">agni</a> and vayu. Pain is caused as a result of these two mahabhuta [Su.Sa.Sharira Sthana 6/16].</li></ul>",
+            "links": [
+                {
+                    "text": "marma",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Marma"
+                },
+                {
+                    "text": "marma",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Marma"
+                },
+                {
+                    "text": "agni",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Vishalyaghna marma (vital points affected by foreign body) have predominance of vayu mahabhuta. The individual survives as long as vayu remains inside as obstructed by the foreign body.",
+                    "links": [
+                        {
+                            "text": "marma",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Marma"
+                        }
+                    ]
+                },
+                {
+                    "text": "Rujakara marma (painful vital points) have dominance of agni and vayu. Pain is caused as a result of these two mahabhuta [Su.Sa.Sharira Sthana 6/16].",
+                    "links": [
+                        {
+                            "text": "marma",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Marma"
+                        },
+                        {
+                            "text": "agni",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Agni"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Importance in clinical practice",
+            "html": "<h2><span class=\"mw-headline\" id=\"Importance_in_clinical_practice\">Importance in clinical practice</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "h3",
+            "text": "Application in diagnosis",
+            "html": "<h3><span class=\"mw-headline\" id=\"Application_in_diagnosis\">Application in diagnosis</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Movement is the property attributed to vayu. Therefore, it is responsible for all physiological functions related to transport and movements inside and outside body. Vayu mahabhuta carries out basic function of nourishment of its own components as in skin and touch sensation. Apart from this, lightness (loss of weight and volume), dryness, roughness, fatigue, disintegration are observed[Cha.Sa. Sutra sthana 26/11]. Abnormalities in these functions and features can be diagnosed and treated.",
+            "html": "<p>Movement is the property attributed to vayu. Therefore, it is responsible for all physiological functions related to transport and movements inside and outside body. Vayu mahabhuta carries out basic function of nourishment of its own components as in skin and touch sensation. Apart from this, lightness (loss of weight and volume), dryness, roughness, fatigue, disintegration are observed[Cha.Sa.<a class=\"new\" href=\"/index.php?title=Sutra_sthana&amp;action=edit&amp;redlink=1\" title=\"Sutra sthana (page does not exist)\">Sutra sthana</a> 26/11]. Abnormalities in these functions and features can be diagnosed and treated. \n</p>",
+            "links": [
+                {
+                    "text": "Sutra sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_sthana&action=edit&redlink=1"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Application in treatment",
+            "html": "<h3><span class=\"mw-headline\" id=\"Application_in_treatment\">Application in treatment</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "ul",
+            "text": "The vatadosha is constituted from vayu and akasha mahabhuta [AS.Su.20/2]. In vata prakriti individual, the dominance of properties of vayumahabhuta is observed. Similarly, in conditions of vata dosha aggravation, vayumahabhuta predominance is observed. The treatment of such conditions is done by avoiding diet and lifestyle measures with vayu predominance. On the other side, the vayumahabhuta dominant regimen is indicated in conditions of kapha dosha aggravation[Su.Sa.Su.41/7-8]. The substances which are pungent, bitter and astringent in taste have dominancy of vayu and akasha mahabhuta[Su.Sa.Su.42/3]. By wisely prescribing the drugs having the above said tastes, one can treat various conditions of doshas. Medicines for therapeutic emesis (vamana) have agni and vayu mahabhuta dominance. Since both of these mahabhutas have lightness as their property, it carries the dosha in upward direction and thus it helps in expelling the doshas through mouth[Su.Sa.Su.41/6]. The drugs having predominance of vayumahabhuta cause withholding (sangrahi) effect in body, since vayu does absorption of fluid (shoshana)[Su.Sa.Su.41/6]. To attain the scarifiying (lekhana) effect, drugs having more vayu and agniguna predominance are selected[Su.Sa.Su.41/6].",
+            "html": "<ul><li>The vatadosha is constituted from vayu and <a class=\"mw-redirect\" href=\"/index.php?title=Akasha\" title=\"Akasha\">akasha</a> mahabhuta [AS.Su.20/2]. In vata <a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">prakriti</a> individual, the dominance of properties of vayumahabhuta is observed.</li>\n<li>Similarly, in conditions of <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a><a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> aggravation, vayumahabhuta predominance is observed. The treatment of such conditions is done by avoiding diet and lifestyle measures with vayu predominance.</li>\n<li>On the other side, the vayumahabhuta dominant regimen is indicated in conditions of <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a><a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> aggravation[Su.Sa.Su.41/7-8].</li>\n<li>The substances which are pungent, bitter and astringent in taste have dominancy of vayu and <a class=\"mw-redirect\" href=\"/index.php?title=Akasha\" title=\"Akasha\">akasha</a> mahabhuta[Su.Sa.Su.42/3]. By wisely prescribing the drugs having the above said tastes, one can treat various conditions of doshas.</li>\n<li>Medicines for therapeutic emesis (vamana) have <a href=\"/index.php?title=Agni\" title=\"Agni\">agni</a> and vayu mahabhuta dominance. Since both of these mahabhutas have lightness as their property, it carries the dosha in upward direction and thus it helps in expelling the doshas through mouth[Su.Sa.Su.41/6].</li>\n<li>The drugs having predominance of vayumahabhuta cause withholding (sangrahi) effect in body, since vayu does absorption of fluid (shoshana)[Su.Sa.Su.41/6].</li>\n<li>To attain the scarifiying (lekhana) effect, drugs having more vayu and <a href=\"/index.php?title=Agni\" title=\"Agni\">agniguna</a> predominance are selected[Su.Sa.Su.41/6].</li></ul>",
+            "links": [
+                {
+                    "text": "akasha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha"
+                },
+                {
+                    "text": "prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "vata",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vata"
+                },
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "kapha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kapha"
+                },
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "akasha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha"
+                },
+                {
+                    "text": "agni",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni"
+                },
+                {
+                    "text": "agniguna",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "The vatadosha is constituted from vayu and akasha mahabhuta [AS.Su.20/2]. In vata prakriti individual, the dominance of properties of vayumahabhuta is observed.",
+                    "links": [
+                        {
+                            "text": "akasha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha"
+                        },
+                        {
+                            "text": "prakriti",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                        }
+                    ]
+                },
+                {
+                    "text": "Similarly, in conditions of vata dosha aggravation, vayumahabhuta predominance is observed. The treatment of such conditions is done by avoiding diet and lifestyle measures with vayu predominance.",
+                    "links": [
+                        {
+                            "text": "vata",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vata"
+                        },
+                        {
+                            "text": "dosha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                        }
+                    ]
+                },
+                {
+                    "text": "On the other side, the vayumahabhuta dominant regimen is indicated in conditions of kapha dosha aggravation[Su.Sa.Su.41/7-8].",
+                    "links": [
+                        {
+                            "text": "kapha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Kapha"
+                        },
+                        {
+                            "text": "dosha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                        }
+                    ]
+                },
+                {
+                    "text": "The substances which are pungent, bitter and astringent in taste have dominancy of vayu and akasha mahabhuta[Su.Sa.Su.42/3]. By wisely prescribing the drugs having the above said tastes, one can treat various conditions of doshas.",
+                    "links": [
+                        {
+                            "text": "akasha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha"
+                        }
+                    ]
+                },
+                {
+                    "text": "Medicines for therapeutic emesis (vamana) have agni and vayu mahabhuta dominance. Since both of these mahabhutas have lightness as their property, it carries the dosha in upward direction and thus it helps in expelling the doshas through mouth[Su.Sa.Su.41/6].",
+                    "links": [
+                        {
+                            "text": "agni",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Agni"
+                        }
+                    ]
+                },
+                {
+                    "text": "The drugs having predominance of vayumahabhuta cause withholding (sangrahi) effect in body, since vayu does absorption of fluid (shoshana)[Su.Sa.Su.41/6].",
+                    "links": []
+                },
+                {
+                    "text": "To attain the scarifiying (lekhana) effect, drugs having more vayu and agniguna predominance are selected[Su.Sa.Su.41/6].",
+                    "links": [
+                        {
+                            "text": "agniguna",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Agni"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Current views and researches",
+            "html": "<h2><span class=\"mw-headline\" id=\"Current_views_and_researches\">Current views and researches</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "The tanmatra form of all mahabhuta is considered as eternal. During the evolution the ‘indistinct’ ( avyakta ) acts as a seat for mass and energy. Due to the potential difference in the energy, elementary forces come into action to produce vibrations. These vibrations produce the sound potential first or shabdha tanmatra. The vibrations further increase compelling the elementary forces to act vigorously and thus produce the touch potential or sparsha tanmatra of vayumahabhuta. [ 4 ] In view of quantum mechanics, the vayumahabhuta corroborates to spin 3/2 i.e. gravitino (graviton) and superfield gravity [ 5 ] . In the body, it corresponds with the air elements, conduction and transportation functions.",
+            "html": "<p>The tanmatra form of all mahabhuta is considered as eternal. During the evolution the ‘indistinct’ (<a href=\"/index.php?title=Avyakta\" title=\"Avyakta\">avyakta</a>) acts as a seat for mass and energy. Due to the potential difference in the energy, elementary forces come into action to produce vibrations. These vibrations produce the sound potential first or shabdha tanmatra. The vibrations further increase compelling the elementary forces to act vigorously and thus produce the touch potential or sparsha tanmatra of vayumahabhuta.<sup class=\"reference\" id=\"cite_ref-4\"><a href=\"#cite_note-4\"><span class=\"cite-bracket\">[</span>4<span class=\"cite-bracket\">]</span></a></sup>\nIn view of quantum mechanics, the vayumahabhuta corroborates to spin 3/2 i.e. gravitino (graviton) and superfield gravity<sup class=\"reference\" id=\"cite_ref-5\"><a href=\"#cite_note-5\"><span class=\"cite-bracket\">[</span>5<span class=\"cite-bracket\">]</span></a></sup>. In the body, it corresponds with the air elements, conduction and transportation functions.\n</p>",
+            "links": [
+                {
+                    "text": "avyakta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta"
+                },
+                {
+                    "text": "[ 4 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#cite_note-4"
+                },
+                {
+                    "text": "[ 5 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#cite_note-5"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "List of theses done",
+            "html": "<h2><span class=\"mw-headline\" id=\"List_of_theses_done\">List of theses done</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ul",
+            "text": "Upendra D. Dixit (1995). Concept of Panchmahabhuta& it’s utility in Chikitsa . Dr. Bishnupriya Mohanty (2004 Ph.D.) Biotransformation of Panchmahabhuta& it’s interpretation in terms of cell injury. Dwivedi L.D. (1969-M.D. and 1975-PhD).A study of concept of Panchmahabhutas Srivastav L. P. (1988).Concept of Panchmahabhutas in the light of Samkhya, Yoga & Ayurveda.",
+            "html": "<ul><li>Upendra D. Dixit (1995). Concept of Panchmahabhuta&amp; it’s utility in Chikitsa .</li>\n<li>Dr. Bishnupriya Mohanty (2004 Ph.D.) Biotransformation of Panchmahabhuta&amp; it’s interpretation in terms of cell injury.</li>\n<li>Dwivedi L.D. (1969-M.D. and 1975-PhD).A study of concept of Panchmahabhutas</li>\n<li>Srivastav L. P. (1988).Concept of Panchmahabhutas in the light of Samkhya, Yoga &amp; Ayurveda.</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Upendra D. Dixit (1995). Concept of Panchmahabhuta& it’s utility in Chikitsa .",
+                    "links": []
+                },
+                {
+                    "text": "Dr. Bishnupriya Mohanty (2004 Ph.D.) Biotransformation of Panchmahabhuta& it’s interpretation in terms of cell injury.",
+                    "links": []
+                },
+                {
+                    "text": "Dwivedi L.D. (1969-M.D. and 1975-PhD).A study of concept of Panchmahabhutas",
+                    "links": []
+                },
+                {
+                    "text": "Srivastav L. P. (1988).Concept of Panchmahabhutas in the light of Samkhya, Yoga & Ayurveda.",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "More information",
+            "html": "<h2><span class=\"mw-headline\" id=\"More_information\">More information</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ul",
+            "text": "Vatakalakaliya Adhyaya Indriyopakramaniya Adhyaya",
+            "html": "<ul><li><a href=\"/index.php?title=Vatakalakaliya_Adhyaya\" title=\"Vatakalakaliya Adhyaya\">Vatakalakaliya Adhyaya</a></li>\n<li><a href=\"/index.php?title=Indriyopakramaniya_Adhyaya\" title=\"Indriyopakramaniya Adhyaya\">Indriyopakramaniya Adhyaya</a></li></ul>",
+            "links": [
+                {
+                    "text": "Vatakalakaliya Adhyaya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vatakalakaliya_Adhyaya"
+                },
+                {
+                    "text": "Indriyopakramaniya Adhyaya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriyopakramaniya_Adhyaya"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Vatakalakaliya Adhyaya",
+                    "links": [
+                        {
+                            "text": "Vatakalakaliya Adhyaya",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vatakalakaliya_Adhyaya"
+                        }
+                    ]
+                },
+                {
+                    "text": "Indriyopakramaniya Adhyaya",
+                    "links": [
+                        {
+                            "text": "Indriyopakramaniya Adhyaya",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Indriyopakramaniya_Adhyaya"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h3",
+            "text": "Related articles",
+            "html": "<h3><span class=\"mw-headline\" id=\"Related_articles\">Related articles</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "ul",
+            "text": "Akasha mahabhuta Agni mahabhuta Jala mahabhuta Prithvi mahabhuta Pancha mahabhuta",
+            "html": "<ul><li><a href=\"/index.php?title=Akasha_mahabhuta\" title=\"Akasha mahabhuta\">Akasha mahabhuta</a></li>\n<li><a href=\"/index.php?title=Agni_mahabhuta\" title=\"Agni mahabhuta\">Agni mahabhuta</a></li>\n<li><a href=\"/index.php?title=Jala_mahabhuta\" title=\"Jala mahabhuta\">Jala mahabhuta</a></li>\n<li><a href=\"/index.php?title=Prithvi_mahabhuta\" title=\"Prithvi mahabhuta\">Prithvi mahabhuta</a></li>\n<li><a href=\"/index.php?title=Pancha_mahabhuta\" title=\"Pancha mahabhuta\">Pancha mahabhuta</a></li></ul>",
+            "links": [
+                {
+                    "text": "Akasha mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta"
+                },
+                {
+                    "text": "Agni mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta"
+                },
+                {
+                    "text": "Jala mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Jala_mahabhuta"
+                },
+                {
+                    "text": "Prithvi mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta"
+                },
+                {
+                    "text": "Pancha mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pancha_mahabhuta"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Akasha mahabhuta",
+                    "links": [
+                        {
+                            "text": "Akasha mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta"
+                        }
+                    ]
+                },
+                {
+                    "text": "Agni mahabhuta",
+                    "links": [
+                        {
+                            "text": "Agni mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta"
+                        }
+                    ]
+                },
+                {
+                    "text": "Jala mahabhuta",
+                    "links": [
+                        {
+                            "text": "Jala mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Jala_mahabhuta"
+                        }
+                    ]
+                },
+                {
+                    "text": "Prithvi mahabhuta",
+                    "links": [
+                        {
+                            "text": "Prithvi mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta"
+                        }
+                    ]
+                },
+                {
+                    "text": "Pancha mahabhuta",
+                    "links": [
+                        {
+                            "text": "Pancha mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pancha_mahabhuta"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h3",
+            "text": "List of references",
+            "html": "<h3><span class=\"mw-headline\" id=\"List_of_references\">List of references</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "The list of references for Vayu in Charak Samhita can be seen here Table_of_reference_Vayu.pdf",
+            "html": "<p>The list of references for Vayu in Charak Samhita can be seen here <a class=\"internal\" href=\"/images/7/74/Table_of_reference_Vayu.pdf\" title=\"Table of reference Vayu.pdf\">Table_of_reference_Vayu.pdf</a>\n</p>",
+            "links": [
+                {
+                    "text": "Table_of_reference_Vayu.pdf",
+                    "url": "https://www.carakasamhitaonline.com/images/7/74/Table_of_reference_Vayu.pdf"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Send us your suggestions and feedback on this page.",
+            "html": "<p><big><b><a href=\"/index.php?title=Special:ContactMe\" title=\"Special:ContactMe\">Send us your suggestions and feedback on this page.</a></b></big>\n</p>",
+            "links": [
+                {
+                    "text": "Send us your suggestions and feedback on this page.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Special:ContactMe"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "References",
+            "html": "<h2><span class=\"mw-headline\" id=\"References\">References</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "text",
+            "text": "Back to the Top"
+        },
+        {
+            "type": "ol",
+            "text": "↑ Monier-Williams, Monier-Williams Sanskrit- English Dictionary, 1st edition; Oxford University Press, vayu, Page 942 ↑ Joshi Prama. Vayu viveka available from https://charakameemansa.wordpress.com/2018/06/01/%e0%a4%b5%e0%a4%be%e0%a4%af%e0%a5%81%e0%a4%b5%e0%a4%bf%e0%a4%b5%e0%a5%87%e0%a4%95/ ↑ 3.0 3.1 Dingarilakshmanachary.Acharya’sAyurvedeeyapadarthavigyana. Delhi: Chaukhamba Sanskrit pratisthan;2012.Chapter 10,Vayu nirupana;p.62. ↑ Nalage D H. A study of Samskara and its role in alteration of Pancha-Bhautika composition of Dravya [MD Dissertation]. Jamnagar: Gujarat Ayurved University; 2004 ↑ Sharma Hari,Christopher Clark. Contemporary Ayurveda: Medicine and Research in Maharishi Ayur-Veda.Churchill Livingstone; 1 edition;1997,36-37.",
+            "html": "<ol class=\"references\">\n<li id=\"cite_note-1\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-1\">↑</a></span> <span class=\"reference-text\">Monier-Williams, Monier-Williams Sanskrit- English Dictionary, 1st edition; Oxford University Press, vayu, Page 942</span>\n</li>\n<li id=\"cite_note-2\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-2\">↑</a></span> <span class=\"reference-text\"> Joshi Prama. Vayu viveka available from <a class=\"external free\" href=\"https://charakameemansa.wordpress.com/2018/06/01/%e0%a4%b5%e0%a4%be%e0%a4%af%e0%a5%81%e0%a4%b5%e0%a4%bf%e0%a4%b5%e0%a5%87%e0%a4%95/\" rel=\"nofollow\">https://charakameemansa.wordpress.com/2018/06/01/%e0%a4%b5%e0%a4%be%e0%a4%af%e0%a5%81%e0%a4%b5%e0%a4%bf%e0%a4%b5%e0%a5%87%e0%a4%95/</a></span>\n</li>\n<li id=\"cite_note-Dingari2012-3\"><span class=\"mw-cite-backlink\">↑ <sup><a href=\"#cite_ref-Dingari2012_3-0\">3.0</a></sup> <sup><a href=\"#cite_ref-Dingari2012_3-1\">3.1</a></sup></span> <span class=\"reference-text\">Dingarilakshmanachary.Acharya’sAyurvedeeyapadarthavigyana. Delhi: Chaukhamba Sanskrit pratisthan;2012.Chapter 10,Vayu nirupana;p.62.</span>\n</li>\n<li id=\"cite_note-4\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-4\">↑</a></span> <span class=\"reference-text\">Nalage D H. A study of Samskara and its role in alteration of Pancha-Bhautika composition of Dravya [MD Dissertation]. Jamnagar: Gujarat Ayurved University; 2004</span>\n</li>\n<li id=\"cite_note-5\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-5\">↑</a></span> <span class=\"reference-text\">Sharma Hari,Christopher Clark. Contemporary Ayurveda: Medicine and Research in Maharishi Ayur-Veda.Churchill Livingstone; 1 edition;1997,36-37.</span>\n</li>\n</ol>",
+            "links": [
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#cite_ref-1"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#cite_ref-2"
+                },
+                {
+                    "text": "https://charakameemansa.wordpress.com/2018/06/01/%e0%a4%b5%e0%a4%be%e0%a4%af%e0%a5%81%e0%a4%b5%e0%a4%bf%e0%a4%b5%e0%a5%87%e0%a4%95/",
+                    "url": "https://charakameemansa.wordpress.com/2018/06/01/%e0%a4%b5%e0%a4%be%e0%a4%af%e0%a5%81%e0%a4%b5%e0%a4%bf%e0%a4%b5%e0%a5%87%e0%a4%95/"
+                },
+                {
+                    "text": "3.0",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#cite_ref-Dingari2012_3-0"
+                },
+                {
+                    "text": "3.1",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#cite_ref-Dingari2012_3-1"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#cite_ref-4"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#cite_ref-5"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "↑ Monier-Williams, Monier-Williams Sanskrit- English Dictionary, 1st edition; Oxford University Press, vayu, Page 942",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#cite_ref-1"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Joshi Prama. Vayu viveka available from https://charakameemansa.wordpress.com/2018/06/01/%e0%a4%b5%e0%a4%be%e0%a4%af%e0%a5%81%e0%a4%b5%e0%a4%bf%e0%a4%b5%e0%a5%87%e0%a4%95/",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#cite_ref-2"
+                        },
+                        {
+                            "text": "https://charakameemansa.wordpress.com/2018/06/01/%e0%a4%b5%e0%a4%be%e0%a4%af%e0%a5%81%e0%a4%b5%e0%a4%bf%e0%a4%b5%e0%a5%87%e0%a4%95/",
+                            "url": "https://charakameemansa.wordpress.com/2018/06/01/%e0%a4%b5%e0%a4%be%e0%a4%af%e0%a5%81%e0%a4%b5%e0%a4%bf%e0%a4%b5%e0%a5%87%e0%a4%95/"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ 3.0 3.1 Dingarilakshmanachary.Acharya’sAyurvedeeyapadarthavigyana. Delhi: Chaukhamba Sanskrit pratisthan;2012.Chapter 10,Vayu nirupana;p.62.",
+                    "links": [
+                        {
+                            "text": "3.0",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#cite_ref-Dingari2012_3-0"
+                        },
+                        {
+                            "text": "3.1",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#cite_ref-Dingari2012_3-1"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Nalage D H. A study of Samskara and its role in alteration of Pancha-Bhautika composition of Dravya [MD Dissertation]. Jamnagar: Gujarat Ayurved University; 2004",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#cite_ref-4"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Sharma Hari,Christopher Clark. Contemporary Ayurveda: Medicine and Research in Maharishi Ayur-Veda.Churchill Livingstone; 1 edition;1997,36-37.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta#cite_ref-5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "text": "NewPP limit report\nCached time: 20261118162804\nCache expiry: 86400\nReduced expiry: false\nComplications: [vary‐revision‐id, show‐toc]\nCPU time usage: 0.060 seconds\nReal time usage: 0.136 seconds\nPreprocessor visited node count: 263/1000000\nPost‐expand include size: 2101/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 3/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 990/5000000 bytes\nLua time usage: 0.060/7 seconds\nLua virtual size: 20471808/209715200 bytes\nLua estimated memory usage: 0 bytes"
+        },
+        {
+            "type": "text",
+            "text": "Transclusion expansion time report (%,ms,calls,template)\n100.00% 107.686 1 -total\n92.99% 100.135 1 Template:Infobox\n1.63% 1.754 1 Template:CiteButton"
+        },
+        {
+            "type": "text",
+            "text": "Saved in parser cache with key carakas1_carakasa:pcache:idhash:3254-0!canonical and timestamp 20261118162804 and revision id 45225. Rendering was triggered because: diff-page"
+        },
+        {
+            "type": "text",
+            "text": "Retrieved from \""
+        },
+        {
+            "type": "text",
+            "text": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta&oldid=45225"
+        },
+        {
+            "type": "text",
+            "text": "\""
+        },
+        {
+            "type": "text",
+            "text": "Category"
+        },
+        {
+            "type": "text",
+            "text": ":"
+        },
+        {
+            "type": "ul",
+            "text": "Pancha mahabhuta",
+            "html": "<ul><li><a class=\"mw-redirect\" href=\"/index.php?title=Category:Pancha_mahabhuta\" title=\"Category:Pancha mahabhuta\">Pancha mahabhuta</a></li></ul>",
+            "links": [
+                {
+                    "text": "Pancha mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Category:Pancha_mahabhuta"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Pancha mahabhuta",
+                    "links": [
+                        {
+                            "text": "Pancha mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Category:Pancha_mahabhuta"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "html_sha256": "8775b221972dec2be1e73a974bc422873ac96d916afbb8af5d77b096d59b0bbb"
+}

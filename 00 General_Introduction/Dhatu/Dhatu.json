@@ -1,0 +1,3779 @@
+{
+    "source": "Charaka Samhita",
+    "chapter": "Dhatu",
+    "chapter_id": "Dhatu",
+    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu",
+    "xpath": "//*[@id=\"content\"]",
+    "extraction_date": "2026-11-18T11:11:25",
+    "total_blocks": 155,
+    "total_tables": 3,
+    "total_headings": 31,
+    "total_paragraphs": 60,
+    "content": [
+        {
+            "type": "h1",
+            "text": "Dhatu",
+            "html": "<h1 class=\"firstHeading mw-first-heading\" id=\"firstHeading\"><span class=\"mw-page-title-main\">Dhatu</span></h1>",
+            "links": [],
+            "images": [],
+            "level": 1
+        },
+        {
+            "type": "text",
+            "text": "From Charak Samhita"
+        },
+        {
+            "type": "text",
+            "text": "Jump to navigation"
+        },
+        {
+            "type": "text",
+            "text": "Jump to search"
+        },
+        {
+            "type": "figure",
+            "text": "",
+            "html": "<figure class=\"mw-default-size mw-halign-right\" typeof=\"mw:File\"><a href=\"https://www.carakasamhitaonline.com/index.php?title=Special:CiteThisPage&amp;page=Dhatu&amp;id=44648&amp;wpFormIdentifier=titleform\" rel=\"nofollow\"><img class=\"mw-file-element\" decoding=\"async\" height=\"47\" src=\"/images/5/58/Cite.png\" width=\"180\"/></a><figcaption></figcaption></figure>",
+            "links": [
+                {
+                    "text": "",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Special:CiteThisPage&page=Dhatu&id=44648&wpFormIdentifier=titleform"
+                }
+            ],
+            "images": [
+                {
+                    "url": "https://www.carakasamhitaonline.com/images/5/58/Cite.png",
+                    "alt": "",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Dhatu means body constituents which build the basic structure and carry various physiological functions. They work as body tissues, stabilize and sustain body. (Code:SAT-B.425) [ 1 ] The structural and functional integrity of body depends upon dhatu. Therefore, it is important to understand the concept of dhatu. In physics and chemistry, the term dhatu is applied to denote metals like iron, copper etc. In Sanskrit grammar, the term is applied to denote root verb and derivation.",
+            "html": "<p style=\"text-align:justify;\">Dhatu means body constituents which build the basic structure and carry various physiological functions. They work as body tissues, stabilize and sustain body. (Code:SAT-B.425)<sup class=\"reference\" id=\"cite_ref-1\"><a href=\"#cite_note-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup>   \nThe structural and functional integrity of body depends upon dhatu. Therefore, it is important to understand the concept of dhatu.\n<br/>\nIn physics and chemistry, the term dhatu is applied to denote metals like iron, copper etc. In Sanskrit grammar, the term is applied to denote root verb and derivation. </p>",
+            "links": [
+                {
+                    "text": "[ 1 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#cite_note-1"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "Section/Chapter/topic",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Sharira / Dhatu",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Sharira",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Authors",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Anagha S., Deole Y.S.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Deole Y.S.",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Yogesh_Deole"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Reviewer and Editor",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Basisht G.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Basisht G.",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Gopal_Basisht"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Affiliations",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Charak Samhita Research, Training and Development Centre , I.P.G.T.& R.A., Jamnagar",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Charak Samhita Research, Training and Development Centre",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Correspondence email",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "carakasamhita@gmail.com",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Publisher",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Charak Samhita Research, Training and Development Centre , I.T.R.A., Jamnagar, India",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Charak Samhita Research, Training and Development Centre",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Date of first publication:",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "April 16, 2020",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "DOI",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "10.47468/CSNE.2020.e01.s09.012",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "10.47468/CSNE.2020.e01.s09.012",
+                                "url": "https://doi.org/10.47468/CSNE.2020.e01.s09.012"
+                            }
+                        ]
+                    }
+                ]
+            ],
+            "html": "<table class=\"infobox\" style=\"width:22em\"><caption>Contributors</caption><tbody><tr><th scope=\"row\">Section/Chapter/topic</th><td>\n<a href=\"/index.php?title=Sharira\" title=\"Sharira\">Sharira</a> / <a class=\"mw-selflink selflink\">Dhatu</a></td></tr><tr><th scope=\"row\">Authors</th><td>\nAnagha S., <a href=\"/index.php?title=Yogesh_Deole\" title=\"Yogesh Deole\">Deole Y.S.</a></td></tr><tr><th scope=\"row\">Reviewer and Editor</th><td>\n<a href=\"/index.php?title=Gopal_Basisht\" title=\"Gopal Basisht\">Basisht G.</a></td></tr><tr><th scope=\"row\">Affiliations</th><td>\n<a class=\"mw-redirect\" href=\"/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre\" title=\"Charak Samhita Research, Training and Development Centre\">Charak Samhita Research, Training and Development Centre</a>, I.P.G.T.&amp; R.A., Jamnagar</td></tr><tr><th scope=\"row\">Correspondence email</th><td>\ncarakasamhita@gmail.com</td></tr><tr><th scope=\"row\">Publisher</th><td>\n<a class=\"mw-redirect\" href=\"/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre\" title=\"Charak Samhita Research, Training and Development Centre\">Charak Samhita Research, Training and Development Centre</a>, I.T.R.A., Jamnagar, India</td></tr><tr><th scope=\"row\">Date of first publication:</th><td>\nApril 16, 2020</td></tr><tr><th scope=\"row\">DOI</th><td>\n<a class=\"external text\" href=\"https://doi.org/10.47468/CSNE.2020.e01.s09.012\" rel=\"nofollow\">10.47468/CSNE.2020.e01.s09.012</a></td></tr></tbody></table>",
+            "links": [
+                {
+                    "text": "Sharira",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira"
+                },
+                {
+                    "text": "Deole Y.S.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Yogesh_Deole"
+                },
+                {
+                    "text": "Basisht G.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Gopal_Basisht"
+                },
+                {
+                    "text": "Charak Samhita Research, Training and Development Centre",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre"
+                },
+                {
+                    "text": "Charak Samhita Research, Training and Development Centre",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre"
+                },
+                {
+                    "text": "10.47468/CSNE.2020.e01.s09.012",
+                    "url": "https://doi.org/10.47468/CSNE.2020.e01.s09.012"
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Contents",
+            "html": "<h2 id=\"mw-toc-heading\">Contents</h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ul",
+            "text": "1 Etymology and derivation 2 Synonyms 3 Meanings in different contexts 3.1 Special Considerations 3.2 Seven dhatu 3.3 Three dhatu 3.4 Six dhatu 3.5 Eight dhatu 3.6 Twenty four dhatu 4 Formation and nourishment of dhatu 5 Functions of Dhatu 5.1 Concept of Upadhatu and Dhatumala 6 Importance of knowledge of dhatu in clinical diagnosis and treatment 6.1 Assessment of sara (excellent quality of dhatu) 7 Importance in diagnosis 7.1 Dhatukshaya (degeneration of tissues) 8 Importance in preservation of health and prevention 9 Importance in management of disease 10 Contemporary approach 10.1 Dhatu and body tissues 10.2 Dhatvagni and tissue metabolism 11 Current researches 11.1 Stem cells and poshaka dhatu 11.2 List of theses done 12 More information 12.1 Related articles 12.2 Abbreviations 12.3 List of references in Charak Samhita 13 References",
+            "html": "<ul>\n<li class=\"toclevel-1 tocsection-1\"><a href=\"#Etymology_and_derivation\"><span class=\"tocnumber\">1</span> <span class=\"toctext\">Etymology and derivation</span></a></li>\n<li class=\"toclevel-1 tocsection-2\"><a href=\"#Synonyms\"><span class=\"tocnumber\">2</span> <span class=\"toctext\">Synonyms</span></a></li>\n<li class=\"toclevel-1 tocsection-3\"><a href=\"#Meanings_in_different_contexts\"><span class=\"tocnumber\">3</span> <span class=\"toctext\">Meanings in different contexts</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-4\"><a href=\"#Special_Considerations\"><span class=\"tocnumber\">3.1</span> <span class=\"toctext\">Special Considerations</span></a></li>\n<li class=\"toclevel-2 tocsection-5\"><a href=\"#Seven_dhatu\"><span class=\"tocnumber\">3.2</span> <span class=\"toctext\">Seven dhatu</span></a></li>\n<li class=\"toclevel-2 tocsection-6\"><a href=\"#Three_dhatu\"><span class=\"tocnumber\">3.3</span> <span class=\"toctext\">Three dhatu</span></a></li>\n<li class=\"toclevel-2 tocsection-7\"><a href=\"#Six_dhatu\"><span class=\"tocnumber\">3.4</span> <span class=\"toctext\">Six dhatu</span></a></li>\n<li class=\"toclevel-2 tocsection-8\"><a href=\"#Eight_dhatu\"><span class=\"tocnumber\">3.5</span> <span class=\"toctext\">Eight dhatu</span></a></li>\n<li class=\"toclevel-2 tocsection-9\"><a href=\"#Twenty_four_dhatu\"><span class=\"tocnumber\">3.6</span> <span class=\"toctext\">Twenty four dhatu</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-10\"><a href=\"#Formation_and_nourishment_of_dhatu\"><span class=\"tocnumber\">4</span> <span class=\"toctext\">Formation and nourishment of dhatu</span></a></li>\n<li class=\"toclevel-1 tocsection-11\"><a href=\"#Functions_of_Dhatu\"><span class=\"tocnumber\">5</span> <span class=\"toctext\">Functions of Dhatu</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-12\"><a href=\"#Concept_of_Upadhatu_and_Dhatumala\"><span class=\"tocnumber\">5.1</span> <span class=\"toctext\">Concept of Upadhatu and Dhatumala</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-13\"><a href=\"#Importance_of_knowledge_of_dhatu_in_clinical_diagnosis_and_treatment\"><span class=\"tocnumber\">6</span> <span class=\"toctext\">Importance of knowledge of dhatu in clinical diagnosis and treatment</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-14\"><a href=\"#Assessment_of_sara_(excellent_quality_of_dhatu)\"><span class=\"tocnumber\">6.1</span> <span class=\"toctext\">Assessment of sara (excellent quality of dhatu)</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-15\"><a href=\"#Importance_in_diagnosis\"><span class=\"tocnumber\">7</span> <span class=\"toctext\">Importance in diagnosis</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-16\"><a href=\"#Dhatukshaya_(degeneration_of_tissues)\"><span class=\"tocnumber\">7.1</span> <span class=\"toctext\">Dhatukshaya (degeneration of tissues)</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-17\"><a href=\"#Importance_in_preservation_of_health_and_prevention\"><span class=\"tocnumber\">8</span> <span class=\"toctext\">Importance in preservation of health and prevention</span></a></li>\n<li class=\"toclevel-1 tocsection-18\"><a href=\"#Importance_in_management_of_disease\"><span class=\"tocnumber\">9</span> <span class=\"toctext\">Importance in management of disease</span></a></li>\n<li class=\"toclevel-1 tocsection-19\"><a href=\"#Contemporary_approach\"><span class=\"tocnumber\">10</span> <span class=\"toctext\">Contemporary approach</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-20\"><a href=\"#Dhatu_and_body_tissues\"><span class=\"tocnumber\">10.1</span> <span class=\"toctext\">Dhatu and body tissues</span></a></li>\n<li class=\"toclevel-2 tocsection-21\"><a href=\"#Dhatvagni_and_tissue_metabolism\"><span class=\"tocnumber\">10.2</span> <span class=\"toctext\">Dhatvagni and tissue metabolism</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-22\"><a href=\"#Current_researches\"><span class=\"tocnumber\">11</span> <span class=\"toctext\">Current researches</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-23\"><a href=\"#Stem_cells_and_poshaka_dhatu\"><span class=\"tocnumber\">11.1</span> <span class=\"toctext\">Stem cells and poshaka dhatu</span></a></li>\n<li class=\"toclevel-2 tocsection-24\"><a href=\"#List_of_theses_done\"><span class=\"tocnumber\">11.2</span> <span class=\"toctext\">List of theses done</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-25\"><a href=\"#More_information\"><span class=\"tocnumber\">12</span> <span class=\"toctext\">More information</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-26\"><a href=\"#Related_articles\"><span class=\"tocnumber\">12.1</span> <span class=\"toctext\">Related articles</span></a></li>\n<li class=\"toclevel-2 tocsection-27\"><a href=\"#Abbreviations\"><span class=\"tocnumber\">12.2</span> <span class=\"toctext\">Abbreviations</span></a></li>\n<li class=\"toclevel-2 tocsection-28\"><a href=\"#List_of_references_in_Charak_Samhita\"><span class=\"tocnumber\">12.3</span> <span class=\"toctext\">List of references in Charak Samhita</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-29\"><a href=\"#References\"><span class=\"tocnumber\">13</span> <span class=\"toctext\">References</span></a></li>\n</ul>",
+            "links": [
+                {
+                    "text": "1 Etymology and derivation",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#Etymology_and_derivation"
+                },
+                {
+                    "text": "2 Synonyms",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#Synonyms"
+                },
+                {
+                    "text": "3 Meanings in different contexts",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#Meanings_in_different_contexts"
+                },
+                {
+                    "text": "3.1 Special Considerations",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#Special_Considerations"
+                },
+                {
+                    "text": "3.2 Seven dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#Seven_dhatu"
+                },
+                {
+                    "text": "3.3 Three dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#Three_dhatu"
+                },
+                {
+                    "text": "3.4 Six dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#Six_dhatu"
+                },
+                {
+                    "text": "3.5 Eight dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#Eight_dhatu"
+                },
+                {
+                    "text": "3.6 Twenty four dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#Twenty_four_dhatu"
+                },
+                {
+                    "text": "4 Formation and nourishment of dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#Formation_and_nourishment_of_dhatu"
+                },
+                {
+                    "text": "5 Functions of Dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#Functions_of_Dhatu"
+                },
+                {
+                    "text": "5.1 Concept of Upadhatu and Dhatumala",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#Concept_of_Upadhatu_and_Dhatumala"
+                },
+                {
+                    "text": "6 Importance of knowledge of dhatu in clinical diagnosis and treatment",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#Importance_of_knowledge_of_dhatu_in_clinical_diagnosis_and_treatment"
+                },
+                {
+                    "text": "6.1 Assessment of sara (excellent quality of dhatu)",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#Assessment_of_sara_(excellent_quality_of_dhatu)"
+                },
+                {
+                    "text": "7 Importance in diagnosis",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#Importance_in_diagnosis"
+                },
+                {
+                    "text": "7.1 Dhatukshaya (degeneration of tissues)",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#Dhatukshaya_(degeneration_of_tissues)"
+                },
+                {
+                    "text": "8 Importance in preservation of health and prevention",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#Importance_in_preservation_of_health_and_prevention"
+                },
+                {
+                    "text": "9 Importance in management of disease",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#Importance_in_management_of_disease"
+                },
+                {
+                    "text": "10 Contemporary approach",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#Contemporary_approach"
+                },
+                {
+                    "text": "10.1 Dhatu and body tissues",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#Dhatu_and_body_tissues"
+                },
+                {
+                    "text": "10.2 Dhatvagni and tissue metabolism",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#Dhatvagni_and_tissue_metabolism"
+                },
+                {
+                    "text": "11 Current researches",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#Current_researches"
+                },
+                {
+                    "text": "11.1 Stem cells and poshaka dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#Stem_cells_and_poshaka_dhatu"
+                },
+                {
+                    "text": "11.2 List of theses done",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#List_of_theses_done"
+                },
+                {
+                    "text": "12 More information",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#More_information"
+                },
+                {
+                    "text": "12.1 Related articles",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#Related_articles"
+                },
+                {
+                    "text": "12.2 Abbreviations",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#Abbreviations"
+                },
+                {
+                    "text": "12.3 List of references in Charak Samhita",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#List_of_references_in_Charak_Samhita"
+                },
+                {
+                    "text": "13 References",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#References"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "1 Etymology and derivation",
+                    "links": [
+                        {
+                            "text": "1 Etymology and derivation",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#Etymology_and_derivation"
+                        }
+                    ]
+                },
+                {
+                    "text": "2 Synonyms",
+                    "links": [
+                        {
+                            "text": "2 Synonyms",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#Synonyms"
+                        }
+                    ]
+                },
+                {
+                    "text": "3 Meanings in different contexts 3.1 Special Considerations 3.2 Seven dhatu 3.3 Three dhatu 3.4 Six dhatu 3.5 Eight dhatu 3.6 Twenty four dhatu",
+                    "links": [
+                        {
+                            "text": "3 Meanings in different contexts",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#Meanings_in_different_contexts"
+                        },
+                        {
+                            "text": "3.1 Special Considerations",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#Special_Considerations"
+                        },
+                        {
+                            "text": "3.2 Seven dhatu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#Seven_dhatu"
+                        },
+                        {
+                            "text": "3.3 Three dhatu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#Three_dhatu"
+                        },
+                        {
+                            "text": "3.4 Six dhatu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#Six_dhatu"
+                        },
+                        {
+                            "text": "3.5 Eight dhatu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#Eight_dhatu"
+                        },
+                        {
+                            "text": "3.6 Twenty four dhatu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#Twenty_four_dhatu"
+                        }
+                    ]
+                },
+                {
+                    "text": "4 Formation and nourishment of dhatu",
+                    "links": [
+                        {
+                            "text": "4 Formation and nourishment of dhatu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#Formation_and_nourishment_of_dhatu"
+                        }
+                    ]
+                },
+                {
+                    "text": "5 Functions of Dhatu 5.1 Concept of Upadhatu and Dhatumala",
+                    "links": [
+                        {
+                            "text": "5 Functions of Dhatu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#Functions_of_Dhatu"
+                        },
+                        {
+                            "text": "5.1 Concept of Upadhatu and Dhatumala",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#Concept_of_Upadhatu_and_Dhatumala"
+                        }
+                    ]
+                },
+                {
+                    "text": "6 Importance of knowledge of dhatu in clinical diagnosis and treatment 6.1 Assessment of sara (excellent quality of dhatu)",
+                    "links": [
+                        {
+                            "text": "6 Importance of knowledge of dhatu in clinical diagnosis and treatment",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#Importance_of_knowledge_of_dhatu_in_clinical_diagnosis_and_treatment"
+                        },
+                        {
+                            "text": "6.1 Assessment of sara (excellent quality of dhatu)",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#Assessment_of_sara_(excellent_quality_of_dhatu)"
+                        }
+                    ]
+                },
+                {
+                    "text": "7 Importance in diagnosis 7.1 Dhatukshaya (degeneration of tissues)",
+                    "links": [
+                        {
+                            "text": "7 Importance in diagnosis",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#Importance_in_diagnosis"
+                        },
+                        {
+                            "text": "7.1 Dhatukshaya (degeneration of tissues)",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#Dhatukshaya_(degeneration_of_tissues)"
+                        }
+                    ]
+                },
+                {
+                    "text": "8 Importance in preservation of health and prevention",
+                    "links": [
+                        {
+                            "text": "8 Importance in preservation of health and prevention",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#Importance_in_preservation_of_health_and_prevention"
+                        }
+                    ]
+                },
+                {
+                    "text": "9 Importance in management of disease",
+                    "links": [
+                        {
+                            "text": "9 Importance in management of disease",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#Importance_in_management_of_disease"
+                        }
+                    ]
+                },
+                {
+                    "text": "10 Contemporary approach 10.1 Dhatu and body tissues 10.2 Dhatvagni and tissue metabolism",
+                    "links": [
+                        {
+                            "text": "10 Contemporary approach",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#Contemporary_approach"
+                        },
+                        {
+                            "text": "10.1 Dhatu and body tissues",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#Dhatu_and_body_tissues"
+                        },
+                        {
+                            "text": "10.2 Dhatvagni and tissue metabolism",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#Dhatvagni_and_tissue_metabolism"
+                        }
+                    ]
+                },
+                {
+                    "text": "11 Current researches 11.1 Stem cells and poshaka dhatu 11.2 List of theses done",
+                    "links": [
+                        {
+                            "text": "11 Current researches",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#Current_researches"
+                        },
+                        {
+                            "text": "11.1 Stem cells and poshaka dhatu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#Stem_cells_and_poshaka_dhatu"
+                        },
+                        {
+                            "text": "11.2 List of theses done",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#List_of_theses_done"
+                        }
+                    ]
+                },
+                {
+                    "text": "12 More information 12.1 Related articles 12.2 Abbreviations 12.3 List of references in Charak Samhita",
+                    "links": [
+                        {
+                            "text": "12 More information",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#More_information"
+                        },
+                        {
+                            "text": "12.1 Related articles",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#Related_articles"
+                        },
+                        {
+                            "text": "12.2 Abbreviations",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#Abbreviations"
+                        },
+                        {
+                            "text": "12.3 List of references in Charak Samhita",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#List_of_references_in_Charak_Samhita"
+                        }
+                    ]
+                },
+                {
+                    "text": "13 References",
+                    "links": [
+                        {
+                            "text": "13 References",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#References"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Etymology and derivation",
+            "html": "<h2><span class=\"mw-headline\" id=\"Etymology_and_derivation\">Etymology and derivation</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "The word ‘dhatu’ is derived from the word root “Dha” by adding suffix “Tun”.\nThe derivation of the word is as follows-",
+            "html": "<p>The word ‘dhatu’ is derived from the word root “Dha” by adding suffix “Tun”.\nThe derivation of the word is as follows-\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "“डु धाञ धारणपोषणयोः”- meaning that which sustains and nourishes.",
+            "html": "<p>“डु धाञ धारणपोषणयोः”- meaning that which sustains and nourishes.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "In general, the Sanskrit word conveys the meaning of a component, constituent, elementary substance, verbal, grammatical root or a metal. [ 2 ]",
+            "html": "<p>In general, the Sanskrit word conveys the meaning of a component, constituent, elementary substance, verbal, grammatical root or a metal.<sup class=\"reference\" id=\"cite_ref-2\"><a href=\"#cite_note-2\"><span class=\"cite-bracket\">[</span>2<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 2 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#cite_note-2"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Synonyms",
+            "html": "<h2><span class=\"mw-headline\" id=\"Synonyms\">Synonyms</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "When these physiological constituents are affected by dosha and lead to abnormalities, they are termed as dushya. [A.Hr. Sutra Sthana 1/13]",
+            "html": "<p>When these physiological constituents are affected by dosha and lead to abnormalities, they are termed as dushya. [A.Hr. Sutra Sthana 1/13]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Meanings in different contexts",
+            "html": "<h2><span class=\"mw-headline\" id=\"Meanings_in_different_contexts\">Meanings in different contexts</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "In Charak Samhita, the word dhatu is used in different contexts as follows.",
+            "html": "<p>In Charak Samhita, the word dhatu is used in different contexts as follows.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "ul",
+            "text": "Seven structural components(Sapta dhatu )[Table1]",
+            "html": "<ul><li>Seven structural components(Sapta <a class=\"mw-selflink selflink\">dhatu</a>)[Table1]</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Seven structural components(Sapta dhatu )[Table1]",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "As a collective term for dosha - dhatu - mala [Table1]",
+            "html": "<ul><li>As a collective term for <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a>-<a class=\"mw-selflink selflink\">dhatu</a>-<a href=\"/index.php?title=Mala\" title=\"Mala\">mala</a>[Table1]</li></ul>",
+            "links": [
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "mala",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mala"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "As a collective term for dosha - dhatu - mala [Table1]",
+                    "links": [
+                        {
+                            "text": "dosha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                        },
+                        {
+                            "text": "mala",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Mala"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Tridosha / a particular dosha ( vata , pitta , kapha ) [Cha. Sa. Vimana Sthana 8/122]",
+            "html": "<ul><li><a href=\"/index.php?title=Tridosha\" title=\"Tridosha\">Tridosha</a>/ a particular <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a>(<a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a>,<a href=\"/index.php?title=Pitta\" title=\"Pitta\">pitta</a>, <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a>) [Cha. Sa. <a href=\"/index.php?title=Vimana_Sthana\" title=\"Vimana Sthana\">Vimana Sthana</a> 8/122]</li></ul>",
+            "links": [
+                {
+                    "text": "Tridosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tridosha"
+                },
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "vata",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vata"
+                },
+                {
+                    "text": "pitta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pitta"
+                },
+                {
+                    "text": "kapha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kapha"
+                },
+                {
+                    "text": "Vimana Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Tridosha / a particular dosha ( vata , pitta , kapha ) [Cha. Sa. Vimana Sthana 8/122]",
+                    "links": [
+                        {
+                            "text": "Tridosha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Tridosha"
+                        },
+                        {
+                            "text": "dosha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                        },
+                        {
+                            "text": "vata",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vata"
+                        },
+                        {
+                            "text": "pitta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pitta"
+                        },
+                        {
+                            "text": "kapha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Kapha"
+                        },
+                        {
+                            "text": "Vimana Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "five elements( Panchamahabhuta ) [Cha. Sa. Sutra Sthana 8/122, Cha. Sa. Sharira Sthana 4/10, Cha. Sa. Sharira Sthana 8/15]",
+            "html": "<ul><li>five elements(<a class=\"mw-redirect\" href=\"/index.php?title=Panchamahabhuta\" title=\"Panchamahabhuta\">Panchamahabhuta</a>) [Cha. Sa. <a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 8/122, Cha. Sa. <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 4/10, Cha. Sa. <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 8/15]</li></ul>",
+            "links": [
+                {
+                    "text": "Panchamahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Panchamahabhuta"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "five elements( Panchamahabhuta ) [Cha. Sa. Sutra Sthana 8/122, Cha. Sa. Sharira Sthana 4/10, Cha. Sa. Sharira Sthana 8/15]",
+                    "links": [
+                        {
+                            "text": "Panchamahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Panchamahabhuta"
+                        },
+                        {
+                            "text": "Sutra Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                        },
+                        {
+                            "text": "Sharira Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                        },
+                        {
+                            "text": "Sharira Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Denoting any bodily element/anatomical structure[Cha. Sa. Sharira Sthana 5/12]",
+            "html": "<ul><li>Denoting any bodily element/anatomical structure[Cha. Sa. <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 5/12]</li></ul>",
+            "links": [
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Denoting any bodily element/anatomical structure[Cha. Sa. Sharira Sthana 5/12]",
+                    "links": [
+                        {
+                            "text": "Sharira Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Denoting the components of garbha(Shad dhatu) [Table1]",
+            "html": "<ul><li>Denoting the components of garbha(Shad dhatu) [Table1]</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Denoting the components of garbha(Shad dhatu) [Table1]",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "metals(Loha) [Table1]",
+            "html": "<ul><li>metals(Loha) [Table1]</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "metals(Loha) [Table1]",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "h3",
+            "text": "Special Considerations",
+            "html": "<h3><span class=\"mw-headline\" id=\"Special_Considerations\">Special Considerations</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "ul",
+            "text": "Chetana dhatu- denoting soul( Atma ) [Cha. Sa. Sharira Sthana 2/32]",
+            "html": "<ul><li>Chetana dhatu- denoting soul(<a href=\"/index.php?title=Atma\" title=\"Atma\">Atma</a>) [Cha. Sa. <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 2/32]</li></ul>",
+            "links": [
+                {
+                    "text": "Atma",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Atma"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Chetana dhatu- denoting soul( Atma ) [Cha. Sa. Sharira Sthana 2/32]",
+                    "links": [
+                        {
+                            "text": "Atma",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Atma"
+                        },
+                        {
+                            "text": "Sharira Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Beejarupa dhatu- denoting sperm- containing the essence of all seven dhatu of man( shukra ) [Cha. Sa. Sharira Sthana 4/7,10]",
+            "html": "<ul><li>Beejarupa dhatu- denoting sperm- containing the essence of all seven dhatu of man(<a class=\"mw-redirect\" href=\"/index.php?title=Shukra\" title=\"Shukra\">shukra</a>) [Cha. Sa. <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 4/7,10]</li></ul>",
+            "links": [
+                {
+                    "text": "shukra",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Shukra"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Beejarupa dhatu- denoting sperm- containing the essence of all seven dhatu of man( shukra ) [Cha. Sa. Sharira Sthana 4/7,10]",
+                    "links": [
+                        {
+                            "text": "shukra",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Shukra"
+                        },
+                        {
+                            "text": "Sharira Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Pradhana dhatu- denoting semen( shukra ) [Cha. Sa. Chikitsa Sthana 30/184]",
+            "html": "<ul><li>Pradhana dhatu- denoting semen(<a class=\"mw-redirect\" href=\"/index.php?title=Shukra\" title=\"Shukra\">shukra</a>) [Cha. Sa. <a href=\"/index.php?title=Chikitsa_Sthana\" title=\"Chikitsa Sthana\">Chikitsa Sthana</a> 30/184]</li></ul>",
+            "links": [
+                {
+                    "text": "shukra",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Shukra"
+                },
+                {
+                    "text": "Chikitsa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Pradhana dhatu- denoting semen( shukra ) [Cha. Sa. Chikitsa Sthana 30/184]",
+                    "links": [
+                        {
+                            "text": "shukra",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Shukra"
+                        },
+                        {
+                            "text": "Chikitsa Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Dravarupa dhatu- denoting pitta [Cha. Sa. Chikitsa Sthana 4/8]",
+            "html": "<ul><li>Dravarupa dhatu- denoting <a href=\"/index.php?title=Pitta\" title=\"Pitta\">pitta</a>[Cha. Sa. <a href=\"/index.php?title=Chikitsa_Sthana\" title=\"Chikitsa Sthana\">Chikitsa Sthana</a> 4/8]</li></ul>",
+            "links": [
+                {
+                    "text": "pitta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pitta"
+                },
+                {
+                    "text": "Chikitsa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Dravarupa dhatu- denoting pitta [Cha. Sa. Chikitsa Sthana 4/8]",
+                    "links": [
+                        {
+                            "text": "pitta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pitta"
+                        },
+                        {
+                            "text": "Chikitsa Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Apdhatu- denoting watery elements in body [Cha. Sa. Chikitsa Sthana 22/11,13,21]",
+            "html": "<ul><li>Apdhatu- denoting watery elements in body [Cha. Sa. <a href=\"/index.php?title=Chikitsa_Sthana\" title=\"Chikitsa Sthana\">Chikitsa Sthana</a> 22/11,13,21]</li></ul>",
+            "links": [
+                {
+                    "text": "Chikitsa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Apdhatu- denoting watery elements in body [Cha. Sa. Chikitsa Sthana 22/11,13,21]",
+                    "links": [
+                        {
+                            "text": "Chikitsa Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Dhatu term denoting vayu [Cha. Sa. Chikitsa Sthana 3/217]",
+            "html": "<ul><li>Dhatu term denoting <a class=\"mw-redirect\" href=\"/index.php?title=Vayu\" title=\"Vayu\">vayu</a>[Cha. Sa.<a href=\"/index.php?title=Chikitsa_Sthana\" title=\"Chikitsa Sthana\">Chikitsa Sthana </a> 3/217]</li></ul>",
+            "links": [
+                {
+                    "text": "vayu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu"
+                },
+                {
+                    "text": "Chikitsa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Dhatu term denoting vayu [Cha. Sa. Chikitsa Sthana 3/217]",
+                    "links": [
+                        {
+                            "text": "vayu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu"
+                        },
+                        {
+                            "text": "Chikitsa Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Dhatu term denoting pitta [Cha. Sa. Vimana Sthana 3/39]",
+            "html": "<ul><li>Dhatu term denoting <a href=\"/index.php?title=Pitta\" title=\"Pitta\">pitta</a> [Cha. Sa. <a href=\"/index.php?title=Vimana_Sthana\" title=\"Vimana Sthana\">Vimana Sthana</a> 3/39]</li></ul>",
+            "links": [
+                {
+                    "text": "pitta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pitta"
+                },
+                {
+                    "text": "Vimana Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Dhatu term denoting pitta [Cha. Sa. Vimana Sthana 3/39]",
+                    "links": [
+                        {
+                            "text": "pitta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pitta"
+                        },
+                        {
+                            "text": "Vimana Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Dhatu term denoting any product (karyadravya)[Cha. Sa. Sutra Sthana 12/8]",
+            "html": "<ul><li>Dhatu term denoting any product (karyadravya)[Cha. Sa. <a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 12/8]</li></ul>",
+            "links": [
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Dhatu term denoting any product (karyadravya)[Cha. Sa. Sutra Sthana 12/8]",
+                    "links": [
+                        {
+                            "text": "Sutra Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h3",
+            "text": "Seven dhatu",
+            "html": "<h3><span class=\"mw-headline\" id=\"Seven_dhatu\">Seven dhatu</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "The term generally refers to the seven structural components of the body.",
+            "html": "<p>The term generally refers to the seven structural components of the body. \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "They are as below:",
+            "html": "<p>They are as below: \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "ol",
+            "text": "Rasa dhatu : plasma and lymph",
+            "html": "<ol><li><a href=\"/index.php?title=Rasa_dhatu\" title=\"Rasa dhatu\">Rasa dhatu</a>: plasma and lymph</li></ol>",
+            "links": [
+                {
+                    "text": "Rasa dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa_dhatu"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Rasa dhatu : plasma and lymph",
+                    "links": [
+                        {
+                            "text": "Rasa dhatu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa_dhatu"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ol",
+            "text": "Rakta dhatu : blood tissue",
+            "html": "<ol><li><a href=\"/index.php?title=Rakta_dhatu\" title=\"Rakta dhatu\">Rakta dhatu</a>: blood tissue</li></ol>",
+            "links": [
+                {
+                    "text": "Rakta dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rakta_dhatu"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Rakta dhatu : blood tissue",
+                    "links": [
+                        {
+                            "text": "Rakta dhatu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Rakta_dhatu"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ol",
+            "text": "Mamsa dhatu : muscle tissue",
+            "html": "<ol><li><a href=\"/index.php?title=Mamsa_dhatu\" title=\"Mamsa dhatu\">Mamsa dhatu</a>: muscle tissue</li></ol>",
+            "links": [
+                {
+                    "text": "Mamsa dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mamsa_dhatu"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Mamsa dhatu : muscle tissue",
+                    "links": [
+                        {
+                            "text": "Mamsa dhatu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Mamsa_dhatu"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ol",
+            "text": "Meda dhatu : adipose tissue",
+            "html": "<ol><li><a href=\"/index.php?title=Meda_dhatu\" title=\"Meda dhatu\">Meda dhatu</a>: adipose tissue</li></ol>",
+            "links": [
+                {
+                    "text": "Meda dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Meda_dhatu"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Meda dhatu : adipose tissue",
+                    "links": [
+                        {
+                            "text": "Meda dhatu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Meda_dhatu"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ol",
+            "text": "Asthi dhatu : bone tissue",
+            "html": "<ol><li><a href=\"/index.php?title=Asthi_dhatu\" title=\"Asthi dhatu\">Asthi dhatu</a>: bone tissue</li></ol>",
+            "links": [
+                {
+                    "text": "Asthi dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Asthi_dhatu"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Asthi dhatu : bone tissue",
+                    "links": [
+                        {
+                            "text": "Asthi dhatu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Asthi_dhatu"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ol",
+            "text": "Majja dhatu : bone marrow",
+            "html": "<ol><li><a href=\"/index.php?title=Majja_dhatu\" title=\"Majja dhatu\">Majja dhatu</a>: bone marrow</li></ol>",
+            "links": [
+                {
+                    "text": "Majja dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Majja_dhatu"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Majja dhatu : bone marrow",
+                    "links": [
+                        {
+                            "text": "Majja dhatu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Majja_dhatu"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ol",
+            "text": "Shukra dhatu : reproductive fluids; semen",
+            "html": "<ol><li><a href=\"/index.php?title=Shukra_dhatu\" title=\"Shukra dhatu\">Shukra dhatu</a>: reproductive fluids; semen</li></ol>",
+            "links": [
+                {
+                    "text": "Shukra dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Shukra_dhatu"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Shukra dhatu : reproductive fluids; semen",
+                    "links": [
+                        {
+                            "text": "Shukra dhatu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Shukra_dhatu"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h3",
+            "text": "Three dhatu",
+            "html": "<h3><span class=\"mw-headline\" id=\"Three_dhatu\">Three dhatu</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Three dosha are termed as dhatu as they are responsible for maintaining body functions.",
+            "html": "<p>Three <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> are termed as dhatu as they are responsible for maintaining body functions. \n</p>",
+            "links": [
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "ol",
+            "text": "Vata Pitta Kapha [Cha. Sa. Chikitsa Sthana 3/73]",
+            "html": "<ol><li><a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">Vata</a></li>\n<li><a href=\"/index.php?title=Pitta\" title=\"Pitta\">Pitta</a></li>\n<li><a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">Kapha</a>   [Cha. Sa. <a href=\"/index.php?title=Chikitsa_Sthana\" title=\"Chikitsa Sthana\">Chikitsa Sthana</a> 3/73]</li></ol>",
+            "links": [
+                {
+                    "text": "Vata",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vata"
+                },
+                {
+                    "text": "Pitta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pitta"
+                },
+                {
+                    "text": "Kapha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kapha"
+                },
+                {
+                    "text": "Chikitsa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Vata",
+                    "links": [
+                        {
+                            "text": "Vata",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vata"
+                        }
+                    ]
+                },
+                {
+                    "text": "Pitta",
+                    "links": [
+                        {
+                            "text": "Pitta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pitta"
+                        }
+                    ]
+                },
+                {
+                    "text": "Kapha [Cha. Sa. Chikitsa Sthana 3/73]",
+                    "links": [
+                        {
+                            "text": "Kapha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Kapha"
+                        },
+                        {
+                            "text": "Chikitsa Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h3",
+            "text": "Six dhatu",
+            "html": "<h3><span class=\"mw-headline\" id=\"Six_dhatu\">Six dhatu</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "These are the components of embryo(garbha) including panchamahabhuta and atma . [Cha. Sa. Sharira Sthana 1/16]",
+            "html": "<p>These are the components of embryo(garbha) including <a class=\"mw-redirect\" href=\"/index.php?title=Panchamahabhuta\" title=\"Panchamahabhuta\">panchamahabhuta</a> and <a href=\"/index.php?title=Atma\" title=\"Atma\">atma</a>. [Cha. Sa. <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 1/16]\n</p>",
+            "links": [
+                {
+                    "text": "panchamahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Panchamahabhuta"
+                },
+                {
+                    "text": "atma",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Atma"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "It denotes the combination of akasha , vayu , Agni , jala , prithvi (i.e. the five elements) and soul( atma ).",
+            "html": "<p>It denotes the combination of <a class=\"mw-redirect\" href=\"/index.php?title=Akasha\" title=\"Akasha\">akasha</a>, <a class=\"mw-redirect\" href=\"/index.php?title=Vayu\" title=\"Vayu\">vayu</a>, <a href=\"/index.php?title=Agni\" title=\"Agni\">Agni</a>, <a class=\"mw-redirect\" href=\"/index.php?title=Jala\" title=\"Jala\">jala</a>, <a class=\"mw-redirect\" href=\"/index.php?title=Prithvi\" title=\"Prithvi\">prithvi</a>(i.e. the five elements) and soul(<a href=\"/index.php?title=Atma\" title=\"Atma\">atma</a>).\n</p>",
+            "links": [
+                {
+                    "text": "akasha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha"
+                },
+                {
+                    "text": "vayu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu"
+                },
+                {
+                    "text": "Agni",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni"
+                },
+                {
+                    "text": "jala",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Jala"
+                },
+                {
+                    "text": "prithvi",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi"
+                },
+                {
+                    "text": "atma",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Atma"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Eight dhatu",
+            "html": "<h3><span class=\"mw-headline\" id=\"Eight_dhatu\">Eight dhatu</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "These are components of prakriti . [Cha. Sa. Sharira Sthana 1/17]",
+            "html": "<p>These are components of <a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">prakriti</a>. [Cha. Sa. <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 1/17]\n</p>",
+            "links": [
+                {
+                    "text": "prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "It consists of five mahabhuta (in their subtle form), ego (ahamkara), intellect(mahat), and primordial element( avyakta ).",
+            "html": "<p>It consists of five <a class=\"mw-redirect\" href=\"/index.php?title=Mahabhuta\" title=\"Mahabhuta\">mahabhuta</a> (in their subtle form), ego (ahamkara), intellect(mahat), and primordial element(<a href=\"/index.php?title=Avyakta\" title=\"Avyakta\">avyakta</a>).\n</p>",
+            "links": [
+                {
+                    "text": "mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahabhuta"
+                },
+                {
+                    "text": "avyakta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Twenty four dhatu",
+            "html": "<h3><span class=\"mw-headline\" id=\"Twenty_four_dhatu\">Twenty four dhatu</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "These are 24 components of purusha . [Cha. Sa. Sharira Sthana 1/17]",
+            "html": "<p>These are 24 components of <a href=\"/index.php?title=Purusha\" title=\"Purusha\">purusha</a>. [Cha. Sa. <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 1/17]\n</p>",
+            "links": [
+                {
+                    "text": "purusha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Purusha comprises of twenty-four dhatu, i.e. mind, ten sensory and motor organs (indriya), five objects of sense organs, and prakriti (consisting of eight dhatu).",
+            "html": "<p><a href=\"/index.php?title=Purusha\" title=\"Purusha\">Purusha</a> comprises of twenty-four dhatu, i.e. mind, ten sensory and motor organs (indriya), five objects of sense organs, and <a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">prakriti</a> (consisting of eight dhatu).\n</p>",
+            "links": [
+                {
+                    "text": "Purusha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha"
+                },
+                {
+                    "text": "prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Formation and nourishment of dhatu",
+            "html": "<h2><span class=\"mw-headline\" id=\"Formation_and_nourishment_of_dhatu\">Formation and nourishment of dhatu</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "The dhatu are formed from first transformed food into nutrient fluid called ahara-rasa (prasada). This nutrient fluid nourishes body components in a sequential pattern. It first nourishes the rasa dhatu , then rakta , then mamsa etc. The nutrients present in the food nourish respective dhatu qualitatively and quantitatively. [Cha. Sa. Sutra Sthana 28/4]",
+            "html": "<p>The dhatu are formed from first transformed food into nutrient fluid called ahara-rasa (prasada). This nutrient fluid nourishes body components in a sequential pattern. It first nourishes the <a href=\"/index.php?title=Rasa_dhatu\" title=\"Rasa dhatu\">rasa dhatu</a>, then <a class=\"mw-redirect\" href=\"/index.php?title=Rakta\" title=\"Rakta\">rakta</a>, then <a class=\"mw-redirect\" href=\"/index.php?title=Mamsa\" title=\"Mamsa\">mamsa</a> etc. The nutrients present in the food nourish respective dhatu qualitatively and quantitatively. [Cha. Sa. <a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 28/4]\n</p>",
+            "links": [
+                {
+                    "text": "rasa dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa_dhatu"
+                },
+                {
+                    "text": "rakta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rakta"
+                },
+                {
+                    "text": "mamsa",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mamsa"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Furthermore, during the process of metabolism, dhatus undergo a specific pathway through their own characteristic digestive enzymes termed as ‘dhatvagni. In this process, each dhatu gets converted into two parts: poshya(which nourishes itself) and poshaka (which nourishes others). The poshya fraction is responsible for dhatu’s own nourishment and functions. The poshaka fraction nourishes further other dhatus.",
+            "html": "<p>Furthermore, during the process of metabolism, dhatus undergo a specific pathway through their own characteristic digestive enzymes termed as ‘dhatvagni.  In this process, each dhatu gets converted into two parts: poshya(which nourishes itself) and poshaka (which nourishes others). The poshya fraction is responsible for dhatu’s own nourishment and functions. The poshaka fraction nourishes further other dhatus.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "By-products(Upadhatu) and waste products( mala ) are also formed in this dhatu metabolic process.",
+            "html": "<p>By-products(Upadhatu) and waste products(<a href=\"/index.php?title=Mala\" title=\"Mala\">mala</a>) are also formed in this dhatu metabolic process. \n</p>",
+            "links": [
+                {
+                    "text": "mala",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mala"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Thus, each dhatu nourishes its next sequential dhatu.[Cha. Sa. Chikitsa Sthana 8/39]",
+            "html": "<p>Thus, each dhatu nourishes its next sequential dhatu.[Cha. Sa.<a href=\"/index.php?title=Chikitsa_Sthana\" title=\"Chikitsa Sthana\">Chikitsa Sthana </a> 8/39]\n</p>",
+            "links": [
+                {
+                    "text": "Chikitsa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Functions of Dhatu",
+            "html": "<h2><span class=\"mw-headline\" id=\"Functions_of_Dhatu\">Functions of Dhatu</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "The major functions of seven dhatus are listed as nourishment(preenana), vitalizing(jeevana), covering(lepa), moistening(snehana), supporting(dharana),filling(poorana), and reproduction(garbhoptpadana) respectively.[A.Hr. sutra sthana 9/4]",
+            "html": "<p>The major functions of seven dhatus are listed as nourishment(preenana), vitalizing(jeevana), covering(lepa), moistening(snehana), supporting(dharana),filling(poorana), and reproduction(garbhoptpadana) respectively.[A.Hr. sutra sthana 9/4]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "Sr. No.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "th",
+                        "text": "Dhatu",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "th",
+                        "text": "qualities ( Guna )",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Guna",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Guna"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "th",
+                        "text": "functions( Karma )",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Karma",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Karma"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "1",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Rasa dhatu",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Rasa dhatu",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa_dhatu"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Drava, snigdha, sara, manda",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "satiety (Tushti), nourishment(Preenan), nourishing blood (Raktapushti)",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "2",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Rakta dhatu",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Rakta dhatu",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Rakta_dhatu"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Drava, sara, visra, laghu",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "vitality (Jeevana), complexion(Varnaprasadana), nourishing muscles (Mamsapushti)",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "3",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Mamsa dhatu",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Mamsa dhatu",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Mamsa_dhatu"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Sthira, guru, snigdha, pichila",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "nourishing body (Dehapushti), body mass (Lepa) ,nourishing adipose tissue(medapushti)",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "4",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Meda dhatu",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Meda dhatu",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Meda_dhatu"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Snigdha, guru,shlakshna, mrudu, Sandra",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "oleation (Snehana) of eyes and body,firmness(drudhatwa), nourishing bones (asthipushti)",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "5",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Asthi dhatu",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Asthi dhatu",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Asthi_dhatu"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Sthira,guru, kathina, khara",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "holding body frame(Dharana), nourishing bone marrow (Majjapushti)",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "6",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Majja dhatu",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Majja dhatu",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Majja_dhatu"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Sandra, drava, snigdha,shlakshna",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "oleation (Snehana), strength(Balakara), filling up bones(Asthipoorana), nourishing reproductive tissues (Shukrapushti)",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "7",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Shukra dhatu",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Shukra dhatu",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Shukra_dhatu"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Drava, sheeta, snigdha",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "pleasure (Harsha), strength (Bala), reproduction(Garbhotpadana)",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ]
+            ],
+            "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Sr. No.</th>\n<th>Dhatu</th>\n<th>qualities (<a href=\"/index.php?title=Guna\" title=\"Guna\">Guna</a>)</th>\n<th>functions(<a href=\"/index.php?title=Karma\" title=\"Karma\">Karma</a>)\n</th></tr>\n<tr>\n<td>1</td>\n<td><a href=\"/index.php?title=Rasa_dhatu\" title=\"Rasa dhatu\">Rasa dhatu</a></td>\n<td>Drava, snigdha, sara, manda</td>\n<td>satiety (Tushti), nourishment(Preenan), nourishing blood (Raktapushti)\n</td></tr>\n<tr>\n<td>2</td>\n<td><a href=\"/index.php?title=Rakta_dhatu\" title=\"Rakta dhatu\">Rakta dhatu</a></td>\n<td>Drava, sara, visra, laghu</td>\n<td>vitality (Jeevana), complexion(Varnaprasadana), nourishing muscles (Mamsapushti)\n</td></tr>\n<tr>\n<td>3</td>\n<td><a href=\"/index.php?title=Mamsa_dhatu\" title=\"Mamsa dhatu\">Mamsa dhatu</a></td>\n<td>Sthira, guru, snigdha, pichila</td>\n<td>nourishing body (Dehapushti), body mass (Lepa) ,nourishing adipose tissue(medapushti)\n</td></tr>\n<tr>\n<td>4</td>\n<td><a href=\"/index.php?title=Meda_dhatu\" title=\"Meda dhatu\">Meda dhatu</a></td>\n<td>Snigdha, guru,shlakshna, mrudu, Sandra</td>\n<td>oleation (Snehana) of eyes and body,firmness(drudhatwa), nourishing bones (asthipushti)\n</td></tr>\n<tr>\n<td>5</td>\n<td><a href=\"/index.php?title=Asthi_dhatu\" title=\"Asthi dhatu\">Asthi dhatu</a></td>\n<td>Sthira,guru, kathina, khara</td>\n<td>holding body frame(Dharana), nourishing bone marrow (Majjapushti)\n</td></tr>\n<tr>\n<td>6</td>\n<td><a href=\"/index.php?title=Majja_dhatu\" title=\"Majja dhatu\">Majja dhatu</a></td>\n<td>Sandra, drava, snigdha,shlakshna</td>\n<td>oleation (Snehana), strength(Balakara), filling up bones(Asthipoorana), nourishing reproductive tissues (Shukrapushti)\n</td></tr>\n<tr>\n<td>7</td>\n<td><a href=\"/index.php?title=Shukra_dhatu\" title=\"Shukra dhatu\">Shukra dhatu</a></td>\n<td>Drava, sheeta, snigdha</td>\n<td>pleasure (Harsha), strength (Bala), reproduction(Garbhotpadana)\n</td></tr></tbody></table>",
+            "links": [
+                {
+                    "text": "Guna",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Guna"
+                },
+                {
+                    "text": "Karma",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Karma"
+                },
+                {
+                    "text": "Rasa dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa_dhatu"
+                },
+                {
+                    "text": "Rakta dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rakta_dhatu"
+                },
+                {
+                    "text": "Mamsa dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mamsa_dhatu"
+                },
+                {
+                    "text": "Meda dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Meda_dhatu"
+                },
+                {
+                    "text": "Asthi dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Asthi_dhatu"
+                },
+                {
+                    "text": "Majja dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Majja_dhatu"
+                },
+                {
+                    "text": "Shukra dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Shukra_dhatu"
+                }
+            ]
+        },
+        {
+            "type": "h3",
+            "text": "Concept of Upadhatu and Dhatumala",
+            "html": "<h3><span class=\"mw-headline\" id=\"Concept_of_Upadhatu_and_Dhatumala\">Concept of Upadhatu and Dhatumala</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Upadhatu and mala are by-products formed during the process of metabolism. The by-products are categorized into these two groups according to their functional importance. Dhatu supports the body and nourishes the subsequent dhatu. However,upadhatus do not nourish any further element. They only carry physiological functions and only support the body.",
+            "html": "<p>Upadhatu and <a href=\"/index.php?title=Mala\" title=\"Mala\">mala</a> are by-products formed during the process of metabolism. The by-products are categorized into these two groups according to their functional importance. Dhatu supports the body and nourishes the subsequent dhatu. However,upadhatus do not nourish any further element. They only carry physiological functions and only support the body. \n</p>",
+            "links": [
+                {
+                    "text": "mala",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mala"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The other by-products are dhatu-mala or excretory products. They can get easily vitiated by pathogenic factors; hence they are termed as mala .\nThe following table gives information about upadhatu and mala . [Cha. Sa. Chikitsa Sthana 15/17], [Cha.Sa. Chikitsa Sthana 15/20]",
+            "html": "<p>The other by-products are dhatu-mala or excretory products. They can get easily vitiated by pathogenic factors; hence they are termed as <a href=\"/index.php?title=Mala\" title=\"Mala\">mala</a>. \nThe following table gives information about upadhatu and <a href=\"/index.php?title=Mala\" title=\"Mala\">mala</a>. [Cha. Sa.<a href=\"/index.php?title=Chikitsa_Sthana\" title=\"Chikitsa Sthana\">Chikitsa Sthana</a> 15/17], [Cha.Sa. <a href=\"/index.php?title=Chikitsa_Sthana\" title=\"Chikitsa Sthana\">Chikitsa Sthana</a> 15/20]\n</p>",
+            "links": [
+                {
+                    "text": "mala",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mala"
+                },
+                {
+                    "text": "mala",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mala"
+                },
+                {
+                    "text": "Chikitsa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                },
+                {
+                    "text": "Chikitsa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "Sr. No.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "th",
+                        "text": "Dhatu",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "th",
+                        "text": "Upadhatu",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "th",
+                        "text": "Mala",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Mala",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Mala"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "1.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Rasa",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Rasa",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "breast milk (Stanya), menstrual blood( Rakta )",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Rakta",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Rakta"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Kapha",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Kapha",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Kapha"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "2.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Rakta",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Rakta",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Rakta"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "artery (Kandara), blood vessels (sira), menstrual blood(artava)*",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Pitta",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Pitta",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Pitta"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "3.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Mamsa",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Mamsa",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Mamsa"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "muscle fat (Vasa), six layers of skin",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "excreta in ear, nose etc.(Kha-mala )",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "4.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Meda",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Meda",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Meda"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "tendons (Snayu)",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "sweat (Sweda)",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "5.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Asthi",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Asthi",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Asthi"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "teeth(Danta)*nails(nakha)#",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "scalp hair(Kesha) and body hair(loma)",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "6.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Majja",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Majja",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Majja"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "hair(Kesha)*",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "oiliness in eyes, skin and stools(Akshi-twacha-vit sneha)",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "7.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Shukra",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Shukra",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Shukra"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Ojas *",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Ojas",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Ojas"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "--",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ]
+            ],
+            "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Sr. No.</th>\n<th>Dhatu</th>\n<th>Upadhatu</th>\n<th><a href=\"/index.php?title=Mala\" title=\"Mala\">Mala</a>\n</th></tr>\n<tr>\n<td>1.</td>\n<td><a href=\"/index.php?title=Rasa\" title=\"Rasa\">Rasa</a></td>\n<td>breast milk (Stanya), menstrual blood(<a class=\"mw-redirect\" href=\"/index.php?title=Rakta\" title=\"Rakta\">Rakta</a>)</td>\n<td><a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">Kapha</a>\n</td></tr>\n<tr>\n<td>2.</td>\n<td><a class=\"mw-redirect\" href=\"/index.php?title=Rakta\" title=\"Rakta\">Rakta</a></td>\n<td>artery  (Kandara), blood vessels (sira), menstrual blood(artava)*</td>\n<td><a href=\"/index.php?title=Pitta\" title=\"Pitta\">Pitta</a>\n</td></tr>\n<tr>\n<td>3.</td>\n<td><a class=\"mw-redirect\" href=\"/index.php?title=Mamsa\" title=\"Mamsa\">Mamsa</a></td>\n<td>muscle fat (Vasa), six layers of skin</td>\n<td>excreta in ear, nose etc.(Kha-mala )\n</td></tr>\n<tr>\n<td>4.</td>\n<td><a href=\"/index.php?title=Meda\" title=\"Meda\">Meda</a></td>\n<td>tendons (Snayu)</td>\n<td>sweat (Sweda)\n</td></tr>\n<tr>\n<td>5.</td>\n<td><a href=\"/index.php?title=Asthi\" title=\"Asthi\">Asthi</a></td>\n<td>teeth(Danta)*nails(nakha)#</td>\n<td>scalp hair(Kesha) and body hair(loma)\n</td></tr>\n<tr>\n<td>6.</td>\n<td><a href=\"/index.php?title=Majja\" title=\"Majja\">Majja</a></td>\n<td>hair(Kesha)*</td>\n<td>oiliness in eyes, skin and stools(Akshi-twacha-vit sneha)\n</td></tr>\n<tr>\n<td>7.</td>\n<td><a class=\"mw-redirect\" href=\"/index.php?title=Shukra\" title=\"Shukra\">Shukra</a></td>\n<td><a href=\"/index.php?title=Ojas\" title=\"Ojas\">Ojas</a>*</td>\n<td>--\n</td></tr></tbody></table>",
+            "links": [
+                {
+                    "text": "Mala",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mala"
+                },
+                {
+                    "text": "Rasa",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa"
+                },
+                {
+                    "text": "Rakta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rakta"
+                },
+                {
+                    "text": "Kapha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kapha"
+                },
+                {
+                    "text": "Rakta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rakta"
+                },
+                {
+                    "text": "Pitta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pitta"
+                },
+                {
+                    "text": "Mamsa",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mamsa"
+                },
+                {
+                    "text": "Meda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Meda"
+                },
+                {
+                    "text": "Asthi",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Asthi"
+                },
+                {
+                    "text": "Majja",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Majja"
+                },
+                {
+                    "text": "Shukra",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Shukra"
+                },
+                {
+                    "text": "Ojas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ojas"
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "*As opined by Sharangadhara[Sha.Sa. Purvakhanda chapter 5], # As opined by Sushruta [Su.Sa. Sutra Sthana 46/529]",
+            "html": "<ul><li>*As opined by Sharangadhara[Sha.Sa. Purvakhanda chapter 5],  # As opined by Sushruta [Su.Sa. Sutra Sthana 46/529]</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "*As opined by Sharangadhara[Sha.Sa. Purvakhanda chapter 5], # As opined by Sushruta [Su.Sa. Sutra Sthana 46/529]",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Importance of knowledge of dhatu in clinical diagnosis and treatment",
+            "html": "<h2><span class=\"mw-headline\" id=\"Importance_of_knowledge_of_dhatu_in_clinical_diagnosis_and_treatment\">Importance of knowledge of dhatu in clinical diagnosis and treatment</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "h3",
+            "text": "Assessment of sara (excellent quality of dhatu)",
+            "html": "<h3><span id=\"Assessment_of_sara_.28excellent_quality_of_dhatu.29\"></span><span class=\"mw-headline\" id=\"Assessment_of_sara_(excellent_quality_of_dhatu)\">Assessment of sara (excellent quality of dhatu)</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Sara means the excellent quality of dhatu. It is highly related with the health of tissue and endurance to pathogens. The excellent quality depends upon metabolism(dhatvagni). It is one of the assessment parameters to determine strength of an individual in ten-fold examination. The individuals are categorized on the basis of predominance of a particular dhatu as twaksara, raktasara, mamsasara, medosara, asthisara, majjasara and shukrasara. [Cha.Sa. Vimana Sthana 8/102]",
+            "html": "<p>Sara means the excellent quality of dhatu. It is highly related with the health of tissue and endurance to pathogens. The excellent quality depends upon metabolism(dhatvagni). It is one of the assessment parameters to determine strength of an individual in ten-fold examination. The individuals are categorized on the basis of predominance of a particular dhatu as twaksara, raktasara, mamsasara, medosara, asthisara, majjasara and shukrasara. [Cha.Sa. <a href=\"/index.php?title=Vimana_Sthana\" title=\"Vimana Sthana\">Vimana Sthana</a> 8/102]\n</p>",
+            "links": [
+                {
+                    "text": "Vimana Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Importance in diagnosis",
+            "html": "<h2><span class=\"mw-headline\" id=\"Importance_in_diagnosis\">Importance in diagnosis</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "Dhatu have their respective systems( srotas ). These srotas get affected due to the vitiation of dosha and lead to diseases. Thus, dhatu are the site of lesion in view of diagnosis and target receptors in view of treatment.",
+            "html": "<p>Dhatu have their respective systems(<a href=\"/index.php?title=Srotas\" title=\"Srotas\">srotas</a>). These <a href=\"/index.php?title=Srotas\" title=\"Srotas\">srotas</a> get affected due to the vitiation of <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> and lead to diseases. Thus, dhatu are the site of lesion in view of diagnosis and target receptors in view of treatment. \n</p>",
+            "links": [
+                {
+                    "text": "srotas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Srotas"
+                },
+                {
+                    "text": "srotas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Srotas"
+                },
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The increase or decrease of dhatu is also assessed for diagnosis of specific disease. The vitiated dosha reside in dhatu and produce specific clinical features as observed in the conditions of jwara and kushtha.",
+            "html": "<p>The increase or decrease of dhatu is also assessed for diagnosis of specific disease. The vitiated <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> reside in dhatu and produce specific clinical features as observed in the conditions of jwara and kushtha. \n</p>",
+            "links": [
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "In view of prognosis, the involvement of a particular dhatu has importance in prognosis also.",
+            "html": "<p>In view of prognosis, the involvement of a particular dhatu has importance in prognosis also.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "In jwara, if doshas are located in rasa , rakta , mamsa and medas dhatu, the conditionsare curable; while if those are located in the asthi and majja dhatu, then conditions are difficult to treat. If vitiated dosha are located in shukra dhatu, the condition is incurable. [Cha.Sa. Chikitsa Sthana 3/75-83]",
+            "html": "<p>In jwara, if doshas are located in <a href=\"/index.php?title=Rasa\" title=\"Rasa\">rasa</a>, <a class=\"mw-redirect\" href=\"/index.php?title=Rakta\" title=\"Rakta\">rakta</a>,<a class=\"mw-redirect\" href=\"/index.php?title=Mamsa\" title=\"Mamsa\">mamsa</a> and <a class=\"mw-redirect\" href=\"/index.php?title=Medas\" title=\"Medas\">medas</a> dhatu, the conditionsare curable; while if those are located in the <a href=\"/index.php?title=Asthi\" title=\"Asthi\">asthi</a> and <a href=\"/index.php?title=Majja\" title=\"Majja\">majja</a> dhatu, then conditions are difficult to treat. If vitiated dosha are located in <a class=\"mw-redirect\" href=\"/index.php?title=Shukra\" title=\"Shukra\">shukra</a> dhatu, the condition is incurable. [Cha.Sa. <a href=\"/index.php?title=Chikitsa_Sthana\" title=\"Chikitsa Sthana\">Chikitsa Sthana</a> 3/75-83]\n</p>",
+            "links": [
+                {
+                    "text": "rasa",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa"
+                },
+                {
+                    "text": "rakta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rakta"
+                },
+                {
+                    "text": "mamsa",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mamsa"
+                },
+                {
+                    "text": "medas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Medas"
+                },
+                {
+                    "text": "asthi",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Asthi"
+                },
+                {
+                    "text": "majja",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Majja"
+                },
+                {
+                    "text": "shukra",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Shukra"
+                },
+                {
+                    "text": "Chikitsa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "In the pathogenesis of obstinate urinary disorders(prameha) dosha ( kapha , pitta and vata ) along with the ten factors called dushya i.e, medas , rakta , shukra , body fluid(ambu), muscle fat(vasa), lymph(lasika), majja , rasa , ojas and mamsa play the role.[Cha.Sa. Chikitsa Sthana 6/8].While considering the prognosis, “Tulyadushyata” (similarity between the characteristics of dosha and dushya) is a good sign of prognosis[A.S.Sutra Sthana7/218]",
+            "html": "<p>In the pathogenesis of obstinate urinary disorders(prameha) <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> ( <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a>, <a href=\"/index.php?title=Pitta\" title=\"Pitta\">pitta</a> and <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a>) along with  the ten factors called dushya i.e, <a class=\"mw-redirect\" href=\"/index.php?title=Medas\" title=\"Medas\">medas</a>, <a class=\"mw-redirect\" href=\"/index.php?title=Rakta\" title=\"Rakta\">rakta</a>, <a class=\"mw-redirect\" href=\"/index.php?title=Shukra\" title=\"Shukra\">shukra</a>, body fluid(ambu), muscle fat(vasa), lymph(lasika),<a href=\"/index.php?title=Majja\" title=\"Majja\">majja</a>, <a href=\"/index.php?title=Rasa\" title=\"Rasa\">rasa</a>, <a href=\"/index.php?title=Ojas\" title=\"Ojas\">ojas</a>  and <a class=\"mw-redirect\" href=\"/index.php?title=Mamsa\" title=\"Mamsa\">mamsa</a>  play the role.[Cha.Sa. <a href=\"/index.php?title=Chikitsa_Sthana\" title=\"Chikitsa Sthana\">Chikitsa Sthana</a> 6/8].While considering the prognosis, “Tulyadushyata” (similarity between the characteristics of <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> and dushya) is a good sign of prognosis[A.S.Sutra Sthana7/218]\n</p>",
+            "links": [
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "kapha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kapha"
+                },
+                {
+                    "text": "pitta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pitta"
+                },
+                {
+                    "text": "vata",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vata"
+                },
+                {
+                    "text": "medas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Medas"
+                },
+                {
+                    "text": "rakta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rakta"
+                },
+                {
+                    "text": "shukra",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Shukra"
+                },
+                {
+                    "text": "majja",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Majja"
+                },
+                {
+                    "text": "rasa",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa"
+                },
+                {
+                    "text": "ojas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ojas"
+                },
+                {
+                    "text": "mamsa",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mamsa"
+                },
+                {
+                    "text": "Chikitsa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                },
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Pathology of skin diseases(kushtha) is related to the deranged physiology of seven factors. They are vata , pitta and kapha doshas in aggravated state and dhatus, namely, tvak (since the skin is the organ in which rasa dhatu is present, tvak word is used instead of rasa dhatu ), mamsa , shonita and lasika that get deranged due to aggravated dosha . The involvement of higher dhatu makes the disease more complicated. [Cha.Sa. Chikitsa Sthana 7/9-10]",
+            "html": "<p>Pathology of skin diseases(kushtha) is related to the deranged physiology of seven factors. They are <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a>, <a href=\"/index.php?title=Pitta\" title=\"Pitta\">pitta</a> and <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a> doshas in aggravated state and dhatus, namely, tvak (since the skin is the organ in which rasa dhatu is present, tvak word is used instead of <a href=\"/index.php?title=Rasa_dhatu\" title=\"Rasa dhatu\">rasa dhatu</a>),<a class=\"mw-redirect\" href=\"/index.php?title=Mamsa\" title=\"Mamsa\">mamsa</a>, <a class=\"new\" href=\"/index.php?title=Shonita&amp;action=edit&amp;redlink=1\" title=\"Shonita (page does not exist)\">shonita</a> and lasika that get deranged due to aggravated <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a>. The involvement of higher dhatu makes the disease more complicated. [Cha.Sa. <a href=\"/index.php?title=Chikitsa_Sthana\" title=\"Chikitsa Sthana\">Chikitsa Sthana</a> 7/9-10]\n</p>",
+            "links": [
+                {
+                    "text": "vata",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vata"
+                },
+                {
+                    "text": "pitta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pitta"
+                },
+                {
+                    "text": "kapha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kapha"
+                },
+                {
+                    "text": "rasa dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa_dhatu"
+                },
+                {
+                    "text": "mamsa",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mamsa"
+                },
+                {
+                    "text": "shonita",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Shonita&action=edit&redlink=1"
+                },
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "Chikitsa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Acute spreading erysepelas (Visarpa)also has the involvement of seven dhatu which determine the prognosis of the condition. [Cha.Sa. Chikitsa Sthana 21/12]",
+            "html": "<p>Acute spreading erysepelas (Visarpa)also has the involvement of seven dhatu which determine the prognosis of the condition. [Cha.Sa. <a href=\"/index.php?title=Chikitsa_Sthana\" title=\"Chikitsa Sthana\">Chikitsa Sthana</a> 21/12]\n</p>",
+            "links": [
+                {
+                    "text": "Chikitsa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "According to Acharya Sushruta, poison(visha) situated in a particular dhatu produces the dhatupradoshajavikara of that particular dhatu.[Su.sa. Kalpa Sthana 2/30]",
+            "html": "<p>According to Acharya Sushruta, poison(visha) situated in a particular dhatu produces the dhatupradoshajavikara of that particular dhatu.[Su.sa. Kalpa Sthana 2/30]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Dhatukshaya (degeneration of tissues)",
+            "html": "<h3><span id=\"Dhatukshaya_.28degeneration_of_tissues.29\"></span><span class=\"mw-headline\" id=\"Dhatukshaya_(degeneration_of_tissues)\">Dhatukshaya (degeneration of tissues)</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Dhatukshaya means degeneration or decrement of quality and/or quality of body tissues. It is considered an important event in many disease pathologies.",
+            "html": "<p>Dhatukshaya means degeneration or decrement of quality and/or quality of body tissues. It is considered an important event in many disease pathologies. \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "In wasting diseases (Rajayakshma) there is direct relation to the defect in the nourishment of body tissues. The diagnosis and treatment depend upon qualitative and quantitative assessment of dhatu. [Cha.Sa. Nidana Sthana 6/ 8-9]",
+            "html": "<p>In wasting diseases (Rajayakshma) there is direct relation to the defect in the nourishment of body tissues. The diagnosis and treatment depend upon qualitative and quantitative assessment of dhatu. [Cha.Sa. <a href=\"/index.php?title=Nidana_Sthana\" title=\"Nidana Sthana\">Nidana Sthana</a> 6/ 8-9]\n</p>",
+            "links": [
+                {
+                    "text": "Nidana Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Nidana_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Moreover, dhatukshaya is mentioned as the etiology or consequence of different diseases like",
+            "html": "<p>Moreover, dhatukshaya is mentioned as the etiology or consequence of different diseases like\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "ul",
+            "text": "Unmada[Cha.Sa. Chikitsa Sthana 9/9]",
+            "html": "<ul><li>Unmada[Cha.Sa. <a href=\"/index.php?title=Chikitsa_Sthana\" title=\"Chikitsa Sthana\">Chikitsa Sthana</a> 9/9]</li></ul>",
+            "links": [
+                {
+                    "text": "Chikitsa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Unmada[Cha.Sa. Chikitsa Sthana 9/9]",
+                    "links": [
+                        {
+                            "text": "Chikitsa Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Udara[Cha.Sa. Chikitsa Sthana 13/194]",
+            "html": "<ul><li>Udara[Cha.Sa. <a href=\"/index.php?title=Chikitsa_Sthana\" title=\"Chikitsa Sthana\">Chikitsa Sthana</a> 13/194]</li></ul>",
+            "links": [
+                {
+                    "text": "Chikitsa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Udara[Cha.Sa. Chikitsa Sthana 13/194]",
+                    "links": [
+                        {
+                            "text": "Chikitsa Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Pandu [Cha.Sa. Chikitsa Sthana 16/5]",
+            "html": "<ul><li>Pandu [Cha.Sa. <a href=\"/index.php?title=Chikitsa_Sthana\" title=\"Chikitsa Sthana\">Chikitsa Sthana</a> 16/5]</li></ul>",
+            "links": [
+                {
+                    "text": "Chikitsa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Pandu [Cha.Sa. Chikitsa Sthana 16/5]",
+                    "links": [
+                        {
+                            "text": "Chikitsa Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Hikka, Shwasa[Cha.Sa. Chikitsa Sthana 17/82]",
+            "html": "<ul><li>Hikka, Shwasa[Cha.Sa. <a href=\"/index.php?title=Chikitsa_Sthana\" title=\"Chikitsa Sthana\">Chikitsa Sthana</a> 17/82]</li></ul>",
+            "links": [
+                {
+                    "text": "Chikitsa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Hikka, Shwasa[Cha.Sa. Chikitsa Sthana 17/82]",
+                    "links": [
+                        {
+                            "text": "Chikitsa Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Kasa[Cha.Sa. Chikitsa Sthana 18/153]",
+            "html": "<ul><li>Kasa[Cha.Sa. <a href=\"/index.php?title=Chikitsa_Sthana\" title=\"Chikitsa Sthana\">Chikitsa Sthana</a> 18/153]</li></ul>",
+            "links": [
+                {
+                    "text": "Chikitsa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Kasa[Cha.Sa. Chikitsa Sthana 18/153]",
+                    "links": [
+                        {
+                            "text": "Chikitsa Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Chhardi[Cha.Sa. Chikitsa Sthana 20/46]",
+            "html": "<ul><li>Chhardi[Cha.Sa. <a href=\"/index.php?title=Chikitsa_Sthana\" title=\"Chikitsa Sthana\">Chikitsa Sthana</a> 20/46]</li></ul>",
+            "links": [
+                {
+                    "text": "Chikitsa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Chhardi[Cha.Sa. Chikitsa Sthana 20/46]",
+                    "links": [
+                        {
+                            "text": "Chikitsa Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Trushna[Cha.Sa. Chikitsa Sthana 22/5]",
+            "html": "<ul><li>Trushna[Cha.Sa. <a href=\"/index.php?title=Chikitsa_Sthana\" title=\"Chikitsa Sthana\">Chikitsa Sthana</a> 22/5]</li></ul>",
+            "links": [
+                {
+                    "text": "Chikitsa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Trushna[Cha.Sa. Chikitsa Sthana 22/5]",
+                    "links": [
+                        {
+                            "text": "Chikitsa Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Vatavyadhi [Cha.Sa. Chikitsa Sthana 28/59]",
+            "html": "<ul><li>Vatavyadhi [Cha.Sa. <a href=\"/index.php?title=Chikitsa_Sthana\" title=\"Chikitsa Sthana\">Chikitsa Sthana</a> 28/59]</li></ul>",
+            "links": [
+                {
+                    "text": "Chikitsa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Vatavyadhi [Cha.Sa. Chikitsa Sthana 28/59]",
+                    "links": [
+                        {
+                            "text": "Chikitsa Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Klaibya [Cha.Sa. Chikitsa Sthana 30/180]",
+            "html": "<ul><li>Klaibya [Cha.Sa. <a href=\"/index.php?title=Chikitsa_Sthana\" title=\"Chikitsa Sthana\">Chikitsa Sthana</a> 30/180]</li></ul>",
+            "links": [
+                {
+                    "text": "Chikitsa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Klaibya [Cha.Sa. Chikitsa Sthana 30/180]",
+                    "links": [
+                        {
+                            "text": "Chikitsa Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Marmabhighata- in Kalantarapranahara and Vaikalyakara Marma[Su.Sa. Sharira sthana 6/37-38]",
+            "html": "<ul><li>Marmabhighata- in Kalantarapranahara and Vaikalyakara Marma[Su.Sa. Sharira sthana 6/37-38]</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Marmabhighata- in Kalantarapranahara and Vaikalyakara Marma[Su.Sa. Sharira sthana 6/37-38]",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Importance in preservation of health and prevention",
+            "html": "<h2><span class=\"mw-headline\" id=\"Importance_in_preservation_of_health_and_prevention\">Importance in preservation of health and prevention</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "Disequilibrium of dhatu is disease and their equilibrium is health. Health is termed as happiness, while disorder as unhappiness.[Cha.Sa. Sutra Sthana 9/4]",
+            "html": "<p>Disequilibrium of dhatu is disease and their equilibrium is health. Health is termed as happiness, while disorder as unhappiness.[Cha.Sa. <a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 9/4]\n</p>",
+            "links": [
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "In a state of equilibrium of dhatu, diseases are prevented, tissue elements develop properly and ageing process slows down [Cha.Sa. Sutra Sthana 7/49].",
+            "html": "<p>In a state of equilibrium of dhatu, diseases are prevented, tissue elements develop properly and ageing process slows down [Cha.Sa. <a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 7/49].\n</p>",
+            "links": [
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Importance in management of disease",
+            "html": "<h2><span class=\"mw-headline\" id=\"Importance_in_management_of_disease\">Importance in management of disease</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ul",
+            "text": "While treating the conditions like dhatukshaya or dhatuvrudhi, the principles of “samanya and vishesha” are applied.For example, the mamsa dhatu get increased predominantly with the consumption of meat, rakta by rakta, meda by fat, vasa by muscle fat, asthi by cartilage(tarunasthi), shukra by semen(shukra) and fetus(garbha) by ama garbha, like egg. [Cha. Sa. Sharira Sthana 6/10]",
+            "html": "<ul><li>While treating the conditions like dhatukshaya or dhatuvrudhi, the principles of “samanya and vishesha” are applied.For example, the <a href=\"/index.php?title=Mamsa_dhatu\" title=\"Mamsa dhatu\">mamsa dhatu</a> get increased predominantly with the consumption of meat,<a class=\"mw-redirect\" href=\"/index.php?title=Rakta\" title=\"Rakta\">rakta</a> by rakta, <a href=\"/index.php?title=Meda\" title=\"Meda\">meda</a> by fat, vasa by muscle fat, <a href=\"/index.php?title=Asthi\" title=\"Asthi\">asthi</a> by cartilage(tarunasthi), <a class=\"mw-redirect\" href=\"/index.php?title=Shukra\" title=\"Shukra\">shukra</a> by semen(shukra) and fetus(garbha) by ama garbha, like egg. [Cha. Sa.<a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 6/10]</li></ul>",
+            "links": [
+                {
+                    "text": "mamsa dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mamsa_dhatu"
+                },
+                {
+                    "text": "rakta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rakta"
+                },
+                {
+                    "text": "meda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Meda"
+                },
+                {
+                    "text": "asthi",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Asthi"
+                },
+                {
+                    "text": "shukra",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Shukra"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "While treating the conditions like dhatukshaya or dhatuvrudhi, the principles of “samanya and vishesha” are applied.For example, the mamsa dhatu get increased predominantly with the consumption of meat, rakta by rakta, meda by fat, vasa by muscle fat, asthi by cartilage(tarunasthi), shukra by semen(shukra) and fetus(garbha) by ama garbha, like egg. [Cha. Sa. Sharira Sthana 6/10]",
+                    "links": [
+                        {
+                            "text": "mamsa dhatu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Mamsa_dhatu"
+                        },
+                        {
+                            "text": "rakta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Rakta"
+                        },
+                        {
+                            "text": "meda",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Meda"
+                        },
+                        {
+                            "text": "asthi",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Asthi"
+                        },
+                        {
+                            "text": "shukra",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Shukra"
+                        },
+                        {
+                            "text": "Sharira Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Acharya Sushruta says that dosha get stability(sthiratwa) and severity(mahatwa) when they invade the successive dhatu. It becomes difficult to manage them, when they have invaded the deeper dhatu as in case of a tree with deeper roots. [Su.sa. Sutra sthana 23/15-16]",
+            "html": "<ul><li>Acharya Sushruta says that dosha get stability(sthiratwa) and severity(mahatwa) when they invade the successive dhatu. It becomes difficult to manage them, when they have invaded the deeper dhatu as in case of a tree with deeper roots. [Su.sa. Sutra sthana 23/15-16]</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Acharya Sushruta says that dosha get stability(sthiratwa) and severity(mahatwa) when they invade the successive dhatu. It becomes difficult to manage them, when they have invaded the deeper dhatu as in case of a tree with deeper roots. [Su.sa. Sutra sthana 23/15-16]",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "While planning the treatment of a particular disease, the stage of the disease in terms of involvement of dhatu is important. The concept of koshtha and shakha is important here. In some contexts, the term koshtha is used for rasa dhatu and shakha refers to the succeeding dhatu( rakta , mamsa etc.).",
+            "html": "<ul><li>While planning the treatment of a particular disease, the stage of the disease in terms of involvement of dhatu is important. The concept of koshtha and shakha is important here. In some contexts, the term koshtha is used for <a href=\"/index.php?title=Rasa_dhatu\" title=\"Rasa dhatu\">rasa dhatu</a> and shakha refers to the succeeding dhatu(<a class=\"mw-redirect\" href=\"/index.php?title=Rakta\" title=\"Rakta\">rakta</a>,<a class=\"mw-redirect\" href=\"/index.php?title=Mamsa\" title=\"Mamsa\">mamsa</a> etc.).</li></ul>",
+            "links": [
+                {
+                    "text": "rasa dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa_dhatu"
+                },
+                {
+                    "text": "rakta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rakta"
+                },
+                {
+                    "text": "mamsa",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mamsa"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "While planning the treatment of a particular disease, the stage of the disease in terms of involvement of dhatu is important. The concept of koshtha and shakha is important here. In some contexts, the term koshtha is used for rasa dhatu and shakha refers to the succeeding dhatu( rakta , mamsa etc.).",
+                    "links": [
+                        {
+                            "text": "rasa dhatu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa_dhatu"
+                        },
+                        {
+                            "text": "rakta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Rakta"
+                        },
+                        {
+                            "text": "mamsa",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Mamsa"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Panchakarma procedures are indicated for the elimination of morbid dosha situated in shakha after bringing them back to koshtha. [Su.sa. Chikitsa Sthana 32/21]",
+            "html": "<p>Panchakarma procedures are indicated for the elimination of morbid <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> situated in shakha after bringing them back to koshtha. [Su.sa. Chikitsa Sthana 32/21]\n</p>",
+            "links": [
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "ul",
+            "text": "Among the benefits of snehana , rejuvenation of dhatu (pratyagradhatu)is mentioned.[Su.sa. chikitasa Sthana 31/56]",
+            "html": "<ul><li>Among the benefits of <a class=\"mw-redirect\" href=\"/index.php?title=Snehana\" title=\"Snehana\">snehana</a>, rejuvenation of dhatu (pratyagradhatu)is mentioned.[Su.sa. chikitasa Sthana 31/56]</li></ul>",
+            "links": [
+                {
+                    "text": "snehana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Snehana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Among the benefits of snehana , rejuvenation of dhatu (pratyagradhatu)is mentioned.[Su.sa. chikitasa Sthana 31/56]",
+                    "links": [
+                        {
+                            "text": "snehana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Snehana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Among the benefits of shodhana chikitsa, strength in terms of proper formation(dhatusthiratwam)is emphasized. [Su.sa. Chikitsa Sthana 33/27]",
+            "html": "<ul><li>Among the benefits of shodhana chikitsa, strength in terms of proper formation(dhatusthiratwam)is emphasized. [Su.sa. Chikitsa Sthana 33/27]</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Among the benefits of shodhana chikitsa, strength in terms of proper formation(dhatusthiratwam)is emphasized. [Su.sa. Chikitsa Sthana 33/27]",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Contemporary approach",
+            "html": "<h2><span class=\"mw-headline\" id=\"Contemporary_approach\">Contemporary approach</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "h3",
+            "text": "Dhatu and body tissues",
+            "html": "<h3><span class=\"mw-headline\" id=\"Dhatu_and_body_tissues\">Dhatu and body tissues</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "In current perspective of human physiology, the seven dhatu correspond to seven kinds of basic tissues as below:",
+            "html": "<p>In current perspective of human physiology, the seven dhatu correspond to seven kinds of basic tissues as below: \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Rasa dhatu : plasma including interstitial fluid and lymph",
+            "html": "<p><a href=\"/index.php?title=Rasa_dhatu\" title=\"Rasa dhatu\">Rasa dhatu</a>: plasma including interstitial fluid and lymph \n</p>",
+            "links": [
+                {
+                    "text": "Rasa dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa_dhatu"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Rakta dhatu : elements of blood and electrolytes",
+            "html": "<p><a href=\"/index.php?title=Rakta_dhatu\" title=\"Rakta dhatu\">Rakta dhatu</a>: elements of blood and electrolytes \n</p>",
+            "links": [
+                {
+                    "text": "Rakta dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rakta_dhatu"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Mamsa dhatu : muscle tissue",
+            "html": "<p><a href=\"/index.php?title=Mamsa_dhatu\" title=\"Mamsa dhatu\">Mamsa dhatu</a>: muscle tissue \n</p>",
+            "links": [
+                {
+                    "text": "Mamsa dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mamsa_dhatu"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Meda dhatu : adipose tissue",
+            "html": "<p><a href=\"/index.php?title=Meda_dhatu\" title=\"Meda dhatu\">Meda dhatu</a>: adipose tissue \n</p>",
+            "links": [
+                {
+                    "text": "Meda dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Meda_dhatu"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Asthi dhatu : bone tissue",
+            "html": "<p><a href=\"/index.php?title=Asthi_dhatu\" title=\"Asthi dhatu\">Asthi dhatu</a>: bone tissue \n</p>",
+            "links": [
+                {
+                    "text": "Asthi dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Asthi_dhatu"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Majja dhatu : bone marrow",
+            "html": "<p><a href=\"/index.php?title=Majja_dhatu\" title=\"Majja dhatu\">Majja dhatu</a>: bone marrow\n</p>",
+            "links": [
+                {
+                    "text": "Majja dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Majja_dhatu"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Shukra dhatu : elements of reproductive tissues [ 3 ]",
+            "html": "<p><a href=\"/index.php?title=Shukra_dhatu\" title=\"Shukra dhatu\">Shukra dhatu</a>: elements of reproductive tissues <sup class=\"reference\" id=\"cite_ref-3\"><a href=\"#cite_note-3\"><span class=\"cite-bracket\">[</span>3<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "Shukra dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Shukra_dhatu"
+                },
+                {
+                    "text": "[ 3 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#cite_note-3"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "However, the concept of dhatu is much broader than tissues. It includes the components that nourish successor dhatu, metabolic byproducts (upadhatu) and wastes(mala). All three components have importance in maintaining equilibrium in body. Therefore the types of tissues mentioned above can be included in category of dhatu, but it can't be considered as whole dhatu.",
+            "html": "<p>However, the concept of dhatu is much broader than tissues. It includes the components that nourish successor dhatu, metabolic byproducts (upadhatu) and wastes(mala). All three components have importance in maintaining equilibrium in body. Therefore the types of tissues mentioned above can be included in category of dhatu, but it can't be considered as whole dhatu.  \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Dhatvagni and tissue metabolism",
+            "html": "<h3><span class=\"mw-headline\" id=\"Dhatvagni_and_tissue_metabolism\">Dhatvagni and tissue metabolism</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "The tissue metabolism corresponds to functions of dhatvagni at various levels as below: [ 4 ]",
+            "html": "<p>The tissue metabolism corresponds to functions of dhatvagni at various levels as below:<sup class=\"reference\" id=\"cite_ref-4\"><a href=\"#cite_note-4\"><span class=\"cite-bracket\">[</span>4<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 4 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#cite_note-4"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "ol",
+            "text": "Rasadhatwagni: Glucose metabolism, circulation in portal vein, formation of WBC Raktadhatwagni:Hemopoeisis, iron metabolism, protein metabolism Mamsadhatwagni: Protein metabolism Medodhatwagni: Lipid metabolism Asthidhatwagni: Calcium and phosphorous metabolism, thyroid & parathyroid control Majjadhatwagni:Protein metabolism, iron metabolism, hemopoietic and erythroclastic activity Sukradhatwagni: Glucose metabolism, protein metabolism, vitamin E metabolism",
+            "html": "<ol><li>Rasadhatwagni: Glucose metabolism, circulation in portal vein, formation of WBC</li>\n<li>Raktadhatwagni:Hemopoeisis, iron metabolism, protein metabolism</li>\n<li>Mamsadhatwagni: Protein metabolism</li>\n<li>Medodhatwagni: Lipid metabolism</li>\n<li>Asthidhatwagni: Calcium and phosphorous metabolism, thyroid &amp; parathyroid control</li>\n<li>Majjadhatwagni:Protein metabolism, iron metabolism, hemopoietic and erythroclastic activity</li>\n<li>Sukradhatwagni: Glucose metabolism, protein metabolism, vitamin E metabolism</li></ol>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Rasadhatwagni: Glucose metabolism, circulation in portal vein, formation of WBC",
+                    "links": []
+                },
+                {
+                    "text": "Raktadhatwagni:Hemopoeisis, iron metabolism, protein metabolism",
+                    "links": []
+                },
+                {
+                    "text": "Mamsadhatwagni: Protein metabolism",
+                    "links": []
+                },
+                {
+                    "text": "Medodhatwagni: Lipid metabolism",
+                    "links": []
+                },
+                {
+                    "text": "Asthidhatwagni: Calcium and phosphorous metabolism, thyroid & parathyroid control",
+                    "links": []
+                },
+                {
+                    "text": "Majjadhatwagni:Protein metabolism, iron metabolism, hemopoietic and erythroclastic activity",
+                    "links": []
+                },
+                {
+                    "text": "Sukradhatwagni: Glucose metabolism, protein metabolism, vitamin E metabolism",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Current researches",
+            "html": "<h2><span class=\"mw-headline\" id=\"Current_researches\">Current researches</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "h3",
+            "text": "Stem cells and poshaka dhatu",
+            "html": "<h3><span class=\"mw-headline\" id=\"Stem_cells_and_poshaka_dhatu\">Stem cells and poshaka dhatu</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "In Ayurveda research field, the concept of rasayana with respect to dhatu and stem cells is initially introduced by Prasad BS [ 5 ] .On the basis of stem cell type potency, this development is continued throughout life. It is found that the bone marrow contains at least two kinds of stem cells. One population, called hematopoietic stem cells, forms all types of blood cells in the body. A second small population called non-hematopoietic stem cell can generate bone, cartilage, fat and cells that support the formation of blood and fibrous connective tissue (skeletal stem cells).",
+            "html": "<p>In Ayurveda research field, the concept of rasayana with respect to dhatu and stem cells is initially introduced by Prasad BS <sup class=\"reference\" id=\"cite_ref-5\"><a href=\"#cite_note-5\"><span class=\"cite-bracket\">[</span>5<span class=\"cite-bracket\">]</span></a></sup> .On the basis of stem cell type potency, this development is continued throughout life. It is found that the bone marrow contains at least two kinds of stem cells. One population, called hematopoietic stem cells, forms all types of blood cells in the body. A second small population called non-hematopoietic stem cell can generate bone, cartilage, fat and cells that support the formation of blood and fibrous connective tissue (skeletal stem cells). \n</p>",
+            "links": [
+                {
+                    "text": "[ 5 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#cite_note-5"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "In some organs, such as the gut and bone marrow, stem cells regularly divide to repair and replace worn out or damaged tissues. In other organs, however, such as the pancreas and the heart, stem cells only divide under special conditions. [ 6 ] Mesodermal progenitor cells are found throughout the body, they can differentiate to form multiple cell types (e.g. osteocytes, adipocytes, chondrocytes, fibroblasts, and smooth muscle cells) and they have a limited ability to self-renew. [ 7 ]",
+            "html": "<p>In some organs, such as the gut and bone marrow, stem cells regularly divide to repair and replace worn out or damaged tissues. In other organs, however, such as the pancreas and the heart, stem cells only divide under special conditions.<sup class=\"reference\" id=\"cite_ref-6\"><a href=\"#cite_note-6\"><span class=\"cite-bracket\">[</span>6<span class=\"cite-bracket\">]</span></a></sup> Mesodermal progenitor cells are found throughout the body, they can differentiate to form multiple cell types (e.g. osteocytes, adipocytes, chondrocytes, fibroblasts, and smooth muscle cells) and they have a limited ability to self-renew.<sup class=\"reference\" id=\"cite_ref-7\"><a href=\"#cite_note-7\"><span class=\"cite-bracket\">[</span>7<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 6 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#cite_note-6"
+                },
+                {
+                    "text": "[ 7 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#cite_note-7"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Rasa Dhatu may have all types of cell differentiate lineage responsible for the development of all saptadhatu, may be known as pluripotent. [ 8 ]",
+            "html": "<p><a class=\"new\" href=\"/index.php?title=Rasa_Dhatu&amp;action=edit&amp;redlink=1\" title=\"Rasa Dhatu (page does not exist)\">Rasa Dhatu</a> may have all types of cell differentiate lineage responsible for the development of all saptadhatu, may be known as pluripotent.<sup class=\"reference\" id=\"cite_ref-SharmaV2014_8-0\"><a href=\"#cite_note-SharmaV2014-8\"><span class=\"cite-bracket\">[</span>8<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "Rasa Dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa_Dhatu&action=edit&redlink=1"
+                },
+                {
+                    "text": "[ 8 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#cite_note-SharmaV2014-8"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Recent studies suggest that the spermatogonial stem cells can be reprogrammed to become ES-like cells to acquire pluripotency. [ 9 ] Wholesome shukradhatu may be considered as pluripotent, because it is responsible for the transmission of genetic information from an individual to the next generation.",
+            "html": "<p>Recent studies suggest that the spermatogonial stem cells can be reprogrammed to become ES-like cells to acquire pluripotency.<sup class=\"reference\" id=\"cite_ref-9\"><a href=\"#cite_note-9\"><span class=\"cite-bracket\">[</span>9<span class=\"cite-bracket\">]</span></a></sup> Wholesome shukradhatu may be considered as pluripotent, because it is responsible for the transmission of genetic information from an individual to the next generation. \n</p>",
+            "links": [
+                {
+                    "text": "[ 9 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#cite_note-9"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Thus, each dhatu carry the potency to regenerate further dhatu, because each avayava (organ) is formed by composition of many dhatus. [ 8 ]",
+            "html": "<p>Thus, each dhatu carry the potency to regenerate further dhatu, because each avayava (organ) is formed by composition of many dhatus.<sup class=\"reference\" id=\"cite_ref-SharmaV2014_8-1\"><a href=\"#cite_note-SharmaV2014-8\"><span class=\"cite-bracket\">[</span>8<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 8 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#cite_note-SharmaV2014-8"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "List of theses done",
+            "html": "<h3><span class=\"mw-headline\" id=\"List_of_theses_done\">List of theses done</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "1. Upadhyay Vashudev J (2001) :Medo-Dhatvagni ka Sthaulya Roga ke Sandharbha mein Saidhantika evam Prayogika Adhyayana, Department of Basic principles, IPGT&RA,Jamnagar.",
+            "html": "<p>1. Upadhyay Vashudev J (2001) :Medo-Dhatvagni ka Sthaulya Roga ke Sandharbha mein Saidhantika evam Prayogika Adhyayana, Department of Basic principles, IPGT&amp;RA,Jamnagar.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "2.Kishor G Satani(2011) : An Applied Study of Interrelationship of Jatharagni and Dhatvagni in Context to Dhatuvrddhi, Department of Basic principles, IPGT&RA,Jamnagar.",
+            "html": "<p>2.Kishor G Satani(2011) : An Applied Study of Interrelationship of Jatharagni and Dhatvagni in Context to Dhatuvrddhi, Department of Basic principles, IPGT&amp;RA,Jamnagar.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "More information",
+            "html": "<h2><span class=\"mw-headline\" id=\"More_information\">More information</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "Vividhashitapitiya Adhyaya",
+            "html": "<p><a href=\"/index.php?title=Vividhashitapitiya_Adhyaya\" title=\"Vividhashitapitiya Adhyaya\">Vividhashitapitiya Adhyaya</a>\n</p>",
+            "links": [
+                {
+                    "text": "Vividhashitapitiya Adhyaya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vividhashitapitiya_Adhyaya"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Rogabhishagjitiya Vimana",
+            "html": "<p><a href=\"/index.php?title=Rogabhishagjitiya_Vimana\" title=\"Rogabhishagjitiya Vimana\">Rogabhishagjitiya Vimana</a>\n</p>",
+            "links": [
+                {
+                    "text": "Rogabhishagjitiya Vimana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rogabhishagjitiya_Vimana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Shosha Nidana",
+            "html": "<p><a href=\"/index.php?title=Shosha_Nidana\" title=\"Shosha Nidana\">Shosha Nidana</a>\n</p>",
+            "links": [
+                {
+                    "text": "Shosha Nidana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Shosha_Nidana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Grahani Chikitsa",
+            "html": "<p><a href=\"/index.php?title=Grahani_Chikitsa\" title=\"Grahani Chikitsa\">Grahani Chikitsa</a>\n</p>",
+            "links": [
+                {
+                    "text": "Grahani Chikitsa",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Grahani_Chikitsa"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Related articles",
+            "html": "<h3><span class=\"mw-headline\" id=\"Related_articles\">Related articles</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "ul",
+            "text": "Rasa dhatu",
+            "html": "<ul><li><a href=\"/index.php?title=Rasa_dhatu\" title=\"Rasa dhatu\">Rasa dhatu</a></li></ul>",
+            "links": [
+                {
+                    "text": "Rasa dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa_dhatu"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Rasa dhatu",
+                    "links": [
+                        {
+                            "text": "Rasa dhatu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa_dhatu"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Rakta dhatu",
+            "html": "<ul><li><a href=\"/index.php?title=Rakta_dhatu\" title=\"Rakta dhatu\">Rakta dhatu</a></li></ul>",
+            "links": [
+                {
+                    "text": "Rakta dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rakta_dhatu"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Rakta dhatu",
+                    "links": [
+                        {
+                            "text": "Rakta dhatu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Rakta_dhatu"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Mamsa dhatu",
+            "html": "<ul><li><a href=\"/index.php?title=Mamsa_dhatu\" title=\"Mamsa dhatu\">Mamsa dhatu</a></li></ul>",
+            "links": [
+                {
+                    "text": "Mamsa dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mamsa_dhatu"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Mamsa dhatu",
+                    "links": [
+                        {
+                            "text": "Mamsa dhatu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Mamsa_dhatu"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Meda dhatu",
+            "html": "<ul><li><a href=\"/index.php?title=Meda_dhatu\" title=\"Meda dhatu\">Meda dhatu</a></li></ul>",
+            "links": [
+                {
+                    "text": "Meda dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Meda_dhatu"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Meda dhatu",
+                    "links": [
+                        {
+                            "text": "Meda dhatu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Meda_dhatu"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Asthi dhatu",
+            "html": "<ul><li><a href=\"/index.php?title=Asthi_dhatu\" title=\"Asthi dhatu\">Asthi dhatu</a></li></ul>",
+            "links": [
+                {
+                    "text": "Asthi dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Asthi_dhatu"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Asthi dhatu",
+                    "links": [
+                        {
+                            "text": "Asthi dhatu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Asthi_dhatu"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Majja dhatu",
+            "html": "<ul><li><a href=\"/index.php?title=Majja_dhatu\" title=\"Majja dhatu\">Majja dhatu</a></li></ul>",
+            "links": [
+                {
+                    "text": "Majja dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Majja_dhatu"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Majja dhatu",
+                    "links": [
+                        {
+                            "text": "Majja dhatu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Majja_dhatu"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Shukra dhatu",
+            "html": "<ul><li><a href=\"/index.php?title=Shukra_dhatu\" title=\"Shukra dhatu\">Shukra dhatu</a></li></ul>",
+            "links": [
+                {
+                    "text": "Shukra dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Shukra_dhatu"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Shukra dhatu",
+                    "links": [
+                        {
+                            "text": "Shukra dhatu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Shukra_dhatu"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h3",
+            "text": "Abbreviations",
+            "html": "<h3><span class=\"mw-headline\" id=\"Abbreviations\">Abbreviations</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "ul",
+            "text": "SAT = Standard Ayurveda Terminology Cha. = Charak Su. = Sushruta Ka. = Kashyapa Sha. =Sharangadhara Sa. = Samhita A. = Ashtanga Hr. = Hridaya S. = Sangraha",
+            "html": "<ul><li>SAT = Standard Ayurveda Terminology</li>\n<li>Cha. = Charak</li>\n<li>Su. = Sushruta</li>\n<li>Ka. = Kashyapa</li>\n<li>Sha. =Sharangadhara</li>\n<li>Sa. = Samhita</li>\n<li>A.   = Ashtanga</li>\n<li>Hr.  = Hridaya</li>\n<li>S.   = Sangraha</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "SAT = Standard Ayurveda Terminology",
+                    "links": []
+                },
+                {
+                    "text": "Cha. = Charak",
+                    "links": []
+                },
+                {
+                    "text": "Su. = Sushruta",
+                    "links": []
+                },
+                {
+                    "text": "Ka. = Kashyapa",
+                    "links": []
+                },
+                {
+                    "text": "Sha. =Sharangadhara",
+                    "links": []
+                },
+                {
+                    "text": "Sa. = Samhita",
+                    "links": []
+                },
+                {
+                    "text": "A. = Ashtanga",
+                    "links": []
+                },
+                {
+                    "text": "Hr. = Hridaya",
+                    "links": []
+                },
+                {
+                    "text": "S. = Sangraha",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "h3",
+            "text": "List of references in Charak Samhita",
+            "html": "<h3><span class=\"mw-headline\" id=\"List_of_references_in_Charak_Samhita\">List of references in <a class=\"mw-redirect\" href=\"/index.php?title=Charak_Samhita\" title=\"Charak Samhita\">Charak Samhita</a></span></h3>",
+            "links": [
+                {
+                    "text": "Charak Samhita",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita"
+                }
+            ],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "The list of references of dhatu observed in Charak Samhita can be downloaded here .",
+            "html": "<p>The list of references of dhatu observed in Charak Samhita can be downloaded <a class=\"internal\" href=\"/images/1/13/Dhatu-_List_of_references.pdf\" title=\"Dhatu- List of references.pdf\">here</a>.\n</p>",
+            "links": [
+                {
+                    "text": "here",
+                    "url": "https://www.carakasamhitaonline.com/images/1/13/Dhatu-_List_of_references.pdf"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Send us your suggestions and feedback on this page.",
+            "html": "<p><big><b><a href=\"/index.php?title=Special:ContactMe\" title=\"Special:ContactMe\">Send us your suggestions and feedback on this page.</a></b></big>\n</p>",
+            "links": [
+                {
+                    "text": "Send us your suggestions and feedback on this page.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Special:ContactMe"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "References",
+            "html": "<h2><span class=\"mw-headline\" id=\"References\">References</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "text",
+            "text": "Back to the Top"
+        },
+        {
+            "type": "ol",
+            "text": "↑ National AYUSH Morbidity and Standardized Terminologies Electronic Portal by Ministry of AYUSH Available on http://namstp.ayush.gov.in/#/sat ↑ https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2014/web/webtc/indexcaller.php ↑ Dwarkanath C. Introduction to Kayachikitsa. Chaukhambha Orientalia. Varanasi; 1996. Third edition.pg.318 ↑ Amardeep Kour, Gupta Vikas, Sodhi Danisha. Importance of Nyayas on Body’s Well-Being – A Conceptual Study. Int J Ayu Pharm Chem 2015 Vol. 4 Issue 1.pg.95-106 available from www.ijapc.com ↑ National Seminar on ‘Rasayana’ opened-The New Indian Express, News article published on Monday, June 11. 2012. Available from: http://www.newindianexpress.com/states/kerala/article539215.ece ↑ Ghaffari S. Cancer, stem cells and cancer stem cells: Old ideas, new developments. F1000 Med Rep. 2011;3:23 ↑ Melero-Martin JM, Dudley AC. Concise review: Vascular stem cells and tumor angiogenesis. Stem Cells. 2011;29:163–8 ↑ 8.0 8.1 Sharma V, Chaudhary AK. Concepts of Dhatu Siddhanta (theory of tissues formation and differentiation) and Rasayana; probable predecessor of stem cell therapy. Ayu. 2014;35(3):231–236. doi:10.4103/0974-8520.153731 ↑ Singh SR, Burnicka-Turek O, Chauhan C, Hou SX. Spermatogonial stem cells, infertility and testicular cancer. J Cell Mol Med. 2011;3(15):468–83",
+            "html": "<ol class=\"references\">\n<li id=\"cite_note-1\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-1\">↑</a></span> <span class=\"reference-text\">National AYUSH Morbidity and Standardized Terminologies Electronic Portal by Ministry of AYUSH Available on <a class=\"external free\" href=\"http://namstp.ayush.gov.in/#/sat\" rel=\"nofollow\">http://namstp.ayush.gov.in/#/sat</a></span>\n</li>\n<li id=\"cite_note-2\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-2\">↑</a></span> <span class=\"reference-text\"><a class=\"external free\" href=\"https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2014/web/webtc/indexcaller.php\" rel=\"nofollow\">https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2014/web/webtc/indexcaller.php</a></span>\n</li>\n<li id=\"cite_note-3\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-3\">↑</a></span> <span class=\"reference-text\"> Dwarkanath C. Introduction to Kayachikitsa. Chaukhambha Orientalia. Varanasi; 1996. Third edition.pg.318 </span>\n</li>\n<li id=\"cite_note-4\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-4\">↑</a></span> <span class=\"reference-text\">Amardeep Kour, Gupta Vikas, Sodhi Danisha. Importance of Nyayas on Body’s Well-Being – A Conceptual Study. Int J Ayu Pharm Chem 2015 Vol. 4 Issue 1.pg.95-106 available from www.ijapc.com</span>\n</li>\n<li id=\"cite_note-5\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-5\">↑</a></span> <span class=\"reference-text\">National Seminar on ‘Rasayana’ opened-The New Indian Express, News article published on Monday, June 11. 2012. Available from: <a class=\"external free\" href=\"http://www.newindianexpress.com/states/kerala/article539215.ece\" rel=\"nofollow\">http://www.newindianexpress.com/states/kerala/article539215.ece</a> </span>\n</li>\n<li id=\"cite_note-6\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-6\">↑</a></span> <span class=\"reference-text\">Ghaffari S. Cancer, stem cells and cancer stem cells: Old ideas, new developments. F1000 Med Rep. 2011;3:23 </span>\n</li>\n<li id=\"cite_note-7\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-7\">↑</a></span> <span class=\"reference-text\">Melero-Martin JM, Dudley AC. Concise review: Vascular stem cells and tumor angiogenesis. Stem Cells. 2011;29:163–8 </span>\n</li>\n<li id=\"cite_note-SharmaV2014-8\"><span class=\"mw-cite-backlink\">↑ <sup><a href=\"#cite_ref-SharmaV2014_8-0\">8.0</a></sup> <sup><a href=\"#cite_ref-SharmaV2014_8-1\">8.1</a></sup></span> <span class=\"reference-text\">Sharma V, Chaudhary AK. Concepts of Dhatu Siddhanta (theory of tissues formation and differentiation) and Rasayana; probable predecessor of stem cell therapy. Ayu. 2014;35(3):231–236. doi:10.4103/0974-8520.153731 </span>\n</li>\n<li id=\"cite_note-9\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-9\">↑</a></span> <span class=\"reference-text\">Singh SR, Burnicka-Turek O, Chauhan C, Hou SX. Spermatogonial stem cells, infertility and testicular cancer. J Cell Mol Med. 2011;3(15):468–83 </span>\n</li>\n</ol>",
+            "links": [
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#cite_ref-1"
+                },
+                {
+                    "text": "http://namstp.ayush.gov.in/#/sat",
+                    "url": "http://namstp.ayush.gov.in/#/sat"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#cite_ref-2"
+                },
+                {
+                    "text": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2014/web/webtc/indexcaller.php",
+                    "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2014/web/webtc/indexcaller.php"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#cite_ref-3"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#cite_ref-4"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#cite_ref-5"
+                },
+                {
+                    "text": "http://www.newindianexpress.com/states/kerala/article539215.ece",
+                    "url": "http://www.newindianexpress.com/states/kerala/article539215.ece"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#cite_ref-6"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#cite_ref-7"
+                },
+                {
+                    "text": "8.0",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#cite_ref-SharmaV2014_8-0"
+                },
+                {
+                    "text": "8.1",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#cite_ref-SharmaV2014_8-1"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#cite_ref-9"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "↑ National AYUSH Morbidity and Standardized Terminologies Electronic Portal by Ministry of AYUSH Available on http://namstp.ayush.gov.in/#/sat",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#cite_ref-1"
+                        },
+                        {
+                            "text": "http://namstp.ayush.gov.in/#/sat",
+                            "url": "http://namstp.ayush.gov.in/#/sat"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2014/web/webtc/indexcaller.php",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#cite_ref-2"
+                        },
+                        {
+                            "text": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2014/web/webtc/indexcaller.php",
+                            "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2014/web/webtc/indexcaller.php"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Dwarkanath C. Introduction to Kayachikitsa. Chaukhambha Orientalia. Varanasi; 1996. Third edition.pg.318",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#cite_ref-3"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Amardeep Kour, Gupta Vikas, Sodhi Danisha. Importance of Nyayas on Body’s Well-Being – A Conceptual Study. Int J Ayu Pharm Chem 2015 Vol. 4 Issue 1.pg.95-106 available from www.ijapc.com",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#cite_ref-4"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ National Seminar on ‘Rasayana’ opened-The New Indian Express, News article published on Monday, June 11. 2012. Available from: http://www.newindianexpress.com/states/kerala/article539215.ece",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#cite_ref-5"
+                        },
+                        {
+                            "text": "http://www.newindianexpress.com/states/kerala/article539215.ece",
+                            "url": "http://www.newindianexpress.com/states/kerala/article539215.ece"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Ghaffari S. Cancer, stem cells and cancer stem cells: Old ideas, new developments. F1000 Med Rep. 2011;3:23",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#cite_ref-6"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Melero-Martin JM, Dudley AC. Concise review: Vascular stem cells and tumor angiogenesis. Stem Cells. 2011;29:163–8",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#cite_ref-7"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ 8.0 8.1 Sharma V, Chaudhary AK. Concepts of Dhatu Siddhanta (theory of tissues formation and differentiation) and Rasayana; probable predecessor of stem cell therapy. Ayu. 2014;35(3):231–236. doi:10.4103/0974-8520.153731",
+                    "links": [
+                        {
+                            "text": "8.0",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#cite_ref-SharmaV2014_8-0"
+                        },
+                        {
+                            "text": "8.1",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#cite_ref-SharmaV2014_8-1"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Singh SR, Burnicka-Turek O, Chauhan C, Hou SX. Spermatogonial stem cells, infertility and testicular cancer. J Cell Mol Med. 2011;3(15):468–83",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu#cite_ref-9"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "text": "NewPP limit report\nCached time: 20261117165927\nCache expiry: 86400\nReduced expiry: false\nComplications: [vary‐revision‐id, show‐toc]\nCPU time usage: 0.114 seconds\nReal time usage: 0.288 seconds\nPreprocessor visited node count: 448/1000000\nPost‐expand include size: 2005/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 3/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 1610/5000000 bytes\nLua time usage: 0.130/7 seconds\nLua virtual size: 20480000/209715200 bytes\nLua estimated memory usage: 0 bytes"
+        },
+        {
+            "type": "text",
+            "text": "Transclusion expansion time report (%,ms,calls,template)\n100.00% 231.634 1 -total\n95.53% 221.288 1 Template:Infobox\n0.80% 1.845 1 Template:CiteButton"
+        },
+        {
+            "type": "text",
+            "text": "Saved in parser cache with key carakas1_carakasa:pcache:idhash:3152-0!canonical and timestamp 20261117165927 and revision id 44648. Rendering was triggered because: page-view"
+        },
+        {
+            "type": "text",
+            "text": "Retrieved from \""
+        },
+        {
+            "type": "text",
+            "text": "https://www.carakasamhitaonline.com/index.php?title=Dhatu&oldid=44648"
+        },
+        {
+            "type": "text",
+            "text": "\""
+        }
+    ],
+    "html_sha256": "7a72732f5e6c1b77bc7bdb923309ffc55b646856c42874fb66ce1c1aa4e9833e"
+}

@@ -1,0 +1,1395 @@
+==========================================================================================
+CHARAKA SAMHITA
+TANTRAYUKTI
+==========================================================================================
+
+Source URL: https://www.carakasamhitaonline.com/index.php?title=Tantrayukti
+Extraction Date: 2026-11-19T10:47:30
+Total Blocks: 188
+
+==========================================================================================
+
+
+[BLOCK 1: H1]
+----------------------------------------------------------------------
+Tantrayukti
+
+
+[BLOCK 2: TEXT]
+----------------------------------------------------------------------
+From Charak Samhita
+
+
+[BLOCK 3: TEXT]
+----------------------------------------------------------------------
+Jump to navigation
+
+
+[BLOCK 4: TEXT]
+----------------------------------------------------------------------
+Jump to search
+
+
+[BLOCK 5: FIGURE]
+----------------------------------------------------------------------
+
+
+[REFERENCES / LINKS]
+ : https://www.carakasamhitaonline.com/index.php?title=Special:CiteThisPage&page=Tantrayukti&id=44458&wpFormIdentifier=titleform
+
+[IMAGES]
+ : https://www.carakasamhitaonline.com/images/5/58/Cite.png
+
+
+[BLOCK 6: P]
+----------------------------------------------------------------------
+Tantrayukti are technical methods for precise understanding of text in the Sanskrit treatise.
+
+
+[BLOCK 7: TABLE]
+----------------------------------------------------------------------
+[COMPLETE TABLE]
+
+Row 1:
+Column 1: Section/Chapter/topic
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Samhita / Tantrayukti
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 2:
+Column 1: Authors
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Dixit U. 1 , Deole Y.S. 2
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 3:
+Column 1: Reviewed by
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Mhetre H. 3
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 4:
+Column 1: Edited by
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Basisht G. 4
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 5:
+Column 1: Affiliations
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: 1. Dixit Ayurveda, Goa, 2. Charak Samhita Research, Training and Development Centre ,
+3.Mhetre Ayurveda, Pune, India 4. Senior Rheumatologist, Orlando, U.S.A.
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 6:
+Column 1: Correspondence email:
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: carakasamhita@gmail.com
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 7:
+Column 1: Publisher
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Charak Samhita Research, Training and Development Centre , I.T.R.A., Jamnagar, India
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 8:
+Column 1: Date of first publication:
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: July 14, 2020
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 9:
+Column 1: DOI
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: 10.47468/CSNE.2020.e01.s09.022
+  Type: td, Rowspan: 1, Colspan: 1
+
+[REFERENCES / LINKS]
+Samhita : https://www.carakasamhitaonline.com/index.php?title=Samhita
+Deole Y.S. : https://www.carakasamhitaonline.com/index.php?title=Deole_Y.S.
+Basisht G. : https://www.carakasamhitaonline.com/index.php?title=Basisht_G.
+Charak Samhita Research, Training and Development Centre : https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre
+Charak Samhita Research, Training and Development Centre : https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre
+10.47468/CSNE.2020.e01.s09.022 : https://doi.org/10.47468/CSNE.2020.e01.s09.022
+
+
+[BLOCK 8: H2]
+----------------------------------------------------------------------
+Contents
+
+
+[BLOCK 9: UL]
+----------------------------------------------------------------------
+1. 1 Background
+2. 2 Definition 2.1 Meaning 2.2 Sources
+3. 3 Importance
+4. 4 Thirty Six Tantrayukti 4.1 1. Adhikarana (Topic of discourse) 4.2 2.Yoga(Appropriate arrangement of text) 4.3 3. Hetvartha (Extension of concepts with references) 4.4 4. Padartha (Correct meaning of word or group of words) 4.5 5. Pradesha (Partial adumbration) 4.6 6. Uddesha(Concise statement) 4.7 7. Nirdesha(Elaboration) 4.8 8. Vakyashesha(Supply of ellipsis) 4.9 9. Prayojana(Purpose) 4.10 10. Upadesha (Authoritative instruction) 4.11 11. Apadesha (Reasoning of statement) 4.12 12. Atidesha (Indication of future event) 4.13 13. Arthapatti (Implication) 4.14 14. Nirnaya (Decision) 4.15 15. Prasanga(Restatement in other context) 4.16 16. Ekanta (Categorical statement) 4.17 17. Anekanta (Compromising statement) 4.18 18. Apavarga (Exception) 4.19 19. Viparyaya (Assertion to contrary) 4.20 20. Purvapaksha (Objection) 4.21 21. Vidhana (Sequential interpretation) 4.22 22. Anumata (Acceptance of other interpretations) 4.23 23.Vyakhyana (Elaboration) 4.24 24. Samshaya (Doubt) 4.25 25. Ateetavekshana (Retrospective referencing) 4.26 26. Anagataveksha (Prospective reference) 4.27 27. Svasanjna/Swasandnya (Technical nomenclature) 4.28 28. Uhya (Logical deduction) 4.29 29. Samucchaya (Compilation/Collection) 4.30 30. Nidarshana (Illustration) 4.31 31. Nirvachana (Scientific illustrations/ Definition) 4.32 32. Niyoga (Injunction) 4.33 33. Vikalpana (Option) 4.34 34. Pratutsara (Rebuttal) 4.35 35. Uddhara(Re-affirmation) 4.36 36.Sambhava (Original source)
+5. 5 Applicability
+6. 6 References
+
+[REFERENCES / LINKS]
+1 Background : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#Background
+2 Definition : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#Definition
+2.1 Meaning : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#Meaning
+2.2 Sources : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#Sources
+3 Importance : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#Importance
+4 Thirty Six Tantrayukti : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#Thirty_Six_Tantrayukti
+4.1 1. Adhikarana (Topic of discourse) : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#1._Adhikarana_(Topic_of_discourse)
+4.2 2.Yoga(Appropriate arrangement of text) : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#2.Yoga(Appropriate_arrangement_of_text)
+4.3 3. Hetvartha (Extension of concepts with references) : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#3._Hetvartha_(Extension_of_concepts_with_references)
+4.4 4. Padartha (Correct meaning of word or group of words) : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#4._Padartha_(Correct_meaning_of_word_or_group_of_words)
+4.5 5. Pradesha (Partial adumbration) : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#5._Pradesha_(Partial_adumbration)
+4.6 6. Uddesha(Concise statement) : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#6._Uddesha(Concise_statement)
+4.7 7. Nirdesha(Elaboration) : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#7._Nirdesha(Elaboration)
+4.8 8. Vakyashesha(Supply of ellipsis) : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#8._Vakyashesha(Supply_of_ellipsis)
+4.9 9. Prayojana(Purpose) : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#9._Prayojana(Purpose)
+4.10 10. Upadesha (Authoritative instruction) : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#10._Upadesha_(Authoritative_instruction)
+4.11 11. Apadesha (Reasoning of statement) : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#11._Apadesha_(Reasoning_of_statement)
+4.12 12. Atidesha (Indication of future event) : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#12._Atidesha_(Indication_of_future_event)
+4.13 13. Arthapatti (Implication) : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#13._Arthapatti_(Implication)
+4.14 14. Nirnaya (Decision) : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#14._Nirnaya_(Decision)
+4.15 15. Prasanga(Restatement in other context) : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#15._Prasanga(Restatement_in_other_context)
+4.16 16. Ekanta (Categorical statement) : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#16._Ekanta_(Categorical_statement)
+4.17 17. Anekanta (Compromising statement) : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#17._Anekanta_(Compromising_statement)
+4.18 18. Apavarga (Exception) : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#18._Apavarga_(Exception)
+4.19 19. Viparyaya (Assertion to contrary) : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#19._Viparyaya_(Assertion_to_contrary)
+4.20 20. Purvapaksha (Objection) : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#20._Purvapaksha_(Objection)
+4.21 21. Vidhana (Sequential interpretation) : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#21._Vidhana_(Sequential_interpretation)
+4.22 22. Anumata (Acceptance of other interpretations) : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#22._Anumata_(Acceptance_of_other_interpretations)
+4.23 23.Vyakhyana (Elaboration) : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#23.Vyakhyana_(Elaboration)
+4.24 24. Samshaya (Doubt) : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#24._Samshaya_(Doubt)
+4.25 25. Ateetavekshana (Retrospective referencing) : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#25._Ateetavekshana_(Retrospective_referencing)
+4.26 26. Anagataveksha (Prospective reference) : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#26._Anagataveksha_(Prospective_reference)
+4.27 27. Svasanjna/Swasandnya (Technical nomenclature) : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#27._Svasanjna/Swasandnya_(Technical_nomenclature)
+4.28 28. Uhya (Logical deduction) : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#28._Uhya_(Logical_deduction)
+4.29 29. Samucchaya (Compilation/Collection) : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#29._Samucchaya_(Compilation/Collection)
+4.30 30. Nidarshana (Illustration) : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#30._Nidarshana_(Illustration)
+4.31 31. Nirvachana (Scientific illustrations/ Definition) : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#31._Nirvachana_(Scientific_illustrations/_Definition)
+4.32 32. Niyoga (Injunction) : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#32._Niyoga_(Injunction)
+4.33 33. Vikalpana (Option) : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#33._Vikalpana_(Option)
+4.34 34. Pratutsara (Rebuttal) : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#34._Pratutsara_(Rebuttal)
+4.35 35. Uddhara(Re-affirmation) : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#35._Uddhara(Re-affirmation)
+4.36 36.Sambhava (Original source) : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#36.Sambhava_(Original_source)
+5 Applicability : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#Applicability
+6 References : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#References
+
+
+[BLOCK 10: H2]
+----------------------------------------------------------------------
+Background
+
+
+[BLOCK 11: P]
+----------------------------------------------------------------------
+Meemansa (name of a philosophy trend), Nyaya (name of a philosophy trend) and vyakarana ( grammar) are used for proper interpretation of Vedas. Vaidya should have knowledge of Sankhya, Jyotish Shastra and Vaisheshika etc. [ 1 ] Being part of Vaidic literature, Meemansa, Nyaya and Vyakarana are most useful for proper interpretation of Ayurveda also. But Ayurveda has developed its own unique methodology for proper interpretation, termed as Tantrayukti in which certain important points from these Darshana or other sciences are already incorporated.
+
+[REFERENCES / LINKS]
+[ 1 ] : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#cite_note-1
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+
+
+[BLOCK 12: H2]
+----------------------------------------------------------------------
+Definition
+
+
+[BLOCK 13: P]
+----------------------------------------------------------------------
+Tantrayukti is the methodology or technique or systemic approach of studying a Tantra (science) to interpret its correct, unambiguous meaning for the precise practical application. [ 2 ]
+
+[REFERENCES / LINKS]
+[ 2 ] : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#cite_note-2
+
+
+[BLOCK 14: H3]
+----------------------------------------------------------------------
+Meaning
+
+
+[BLOCK 15: P]
+----------------------------------------------------------------------
+Tantra here means Shastra, i.e. guiding principles of Ayurveda . Yukti is a methodology in which multiple observations are correlated, to understand appropriate meaning. Understanding Tantrayukti is very much important, for proper understanding of Ayurveda .
+
+[REFERENCES / LINKS]
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+
+
+[BLOCK 16: P]
+----------------------------------------------------------------------
+Scholars have expressed it in various other meanings too. [ 3 ]
+
+[REFERENCES / LINKS]
+[ 3 ] : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#cite_note-3
+
+
+[BLOCK 17: OL]
+----------------------------------------------------------------------
+1. 'Methodology in Sanskrit texts on Science' by K.V.Sharma
+2. ‘Forms of Scientific argument’ by S.C.Vidyabhushana
+3. ‘Plan of a treatise’ by Shama shastry
+4. ‘Method of treatment, maxims for the interpretation of textual topics’ by Esther Solomon
+5. ‘Formal elements which gave form to a scientific work’ by Gerhard Obberhammer
+6. Methodology of theoretico-scientific treatisies in Sanskrit by Dr.W.K.Lele
+7. ‘Methodology and technique, which enable one to compose and interpret scientific treatises correctly and intelligently’by N.E.Muthuswamy (TYV)
+8. An expedient in the writing of science by Surendra Nath Mittal
+
+
+[BLOCK 18: H3]
+----------------------------------------------------------------------
+Sources
+
+
+[BLOCK 19: P]
+----------------------------------------------------------------------
+Following are important sources to understand Tantrayukti:
+
+
+[BLOCK 20: OL]
+----------------------------------------------------------------------
+1. Charak Samhita Siddhi Sthana 12th chapter with commentaries
+2. Sushruta samhita Uttara tantra 65th chapter with commentaries
+3. Ashtanga sangraha Uttara tantra 50th chapter with commentaries
+4. Ashtanga hridaya Uttara tantra 40th chapter with commentaries
+5. Tantrayukti Vichara by Neelamegha Vaidya
+6. Kautileeya Arthashastra 15
+7. Other allied Shastras like Nyaya, Meemansa, Vyakarana etc.
+
+[REFERENCES / LINKS]
+Charak Samhita : https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita
+Siddhi Sthana : https://www.carakasamhitaonline.com/index.php?title=Siddhi_Sthana
+
+
+[BLOCK 21: H2]
+----------------------------------------------------------------------
+Importance
+
+
+[BLOCK 22: P]
+----------------------------------------------------------------------
+Tantrayukti are important because of following advantages:
+
+
+[BLOCK 23: UL]
+----------------------------------------------------------------------
+1. शास्त्राधिगमः।(सुगृहीतं शास्त्रं रक्षति, दुर्गृहीतं क्षिणोति) (Ch.Si.12/48,49)Shastradhigama : proper understanding of Ayurveda . Because only proper understanding helps for maintenance of health and curing diseases. Improper knowledge may be harmful.
+
+[REFERENCES / LINKS]
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+
+
+[BLOCK 24: UL]
+----------------------------------------------------------------------
+1. प्रबोधनम्- अम्बुजवनस्यार्कः। (Ch.Si.12/46, Su.U.65/7) Prabodhanam Ambujavanasyarka: Just like the lotus blooms, in sunlight, with Tantrayukti, the meaning of Ayurvedic texts is elaborated.
+
+
+[BLOCK 25: UL]
+----------------------------------------------------------------------
+1. प्रकाशनम्- प्रदीपो वेश्मनो। (Ch.Si. 12/46, Su.U. 65/7) Prakashanam Padeepo Veshmano: Just like a light removes darkness in the house, with Tantrayukti, meaning of difficult topics becomes lucid.
+
+
+[BLOCK 26: UL]
+----------------------------------------------------------------------
+1. अनुक्तार्थज्ञानम्। (Su.U..65/6) Anuktartha Jnanartham: Tantrayukti enables to understand even the unsaid hidden meanings.
+
+
+[BLOCK 27: UL]
+----------------------------------------------------------------------
+1. आशु अन्यशास्त्रप्रबोधनम्। (Ch.Si.12/47) Aashu anyashatraprabodhanam: By knowing Tantrayukti, not only Ayurveda , but one becomes capable of understanding other allied sciences also.
+
+[REFERENCES / LINKS]
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+
+
+[BLOCK 28: UL]
+----------------------------------------------------------------------
+1. स्ववाक्यसिद्ध्यर्थम्। (Su.U..65/5) Swavakya siddhyartham:The meanings drawn with help of Tantrayukti, justifies ones statements in a scientific discourse.
+
+
+[BLOCK 29: UL]
+----------------------------------------------------------------------
+1. असद्वादिवाक्यप्रतिषेधनम्। (Su.U. 65/5) Asadvadi Vakya patishedham: In a scientific discourse, statements of those who are misinterpreting texts, can be refuted with the help of Tantrayukti.
+
+
+[BLOCK 30: P]
+----------------------------------------------------------------------
+Thus, proper application of Tantrayukti serves the purpose of understanding the depth of knowledge of the classics and their
+Ayurvedic lexicons, Research Methodology, Tantrayukti utilities in a correct methodological way. [ 4 ]
+
+[REFERENCES / LINKS]
+[ 4 ] : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#cite_note-4
+
+
+[BLOCK 31: H2]
+----------------------------------------------------------------------
+Thirty Six Tantrayukti
+
+
+[BLOCK 32: H3]
+----------------------------------------------------------------------
+1. Adhikarana (Topic of discourse)
+
+
+[BLOCK 33: P]
+----------------------------------------------------------------------
+Adhikarana is the topic of discourse. It indicates the central theme that the author expounds. e.g. specific information on rasa and dosha, like rasaprabhava and dosha is the adhikarana in the first chapter of Vimana Sthana .
+
+[REFERENCES / LINKS]
+Vimana Sthana : https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana
+
+
+[BLOCK 34: P]
+----------------------------------------------------------------------
+Before reading and understanding a text, it is important to know the topic. The treatise is structured as per the adhikarana in various categories. [ 5 ]
+
+[REFERENCES / LINKS]
+[ 5 ] : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#cite_note-5
+
+
+[BLOCK 35: OL]
+----------------------------------------------------------------------
+1. Shastra Adhikarana e.g.the topic of Charak Samhita is healthcare management.
+2. Sthana Adhikarana e.g.the topic of Nidana Sthana is diagnosis of diseases.
+3. Adhyaya Adhikarana e.g. the topic of Jwara Nidana is diagnosis of Jwara.
+4. Prakarana Adhikarana e.g. the topic of group of verses in a chapter. e.g. the verses no. 3 to 40 discuss the origin of Ayurveda .
+5. Shloka Adhikarana e.g. the topic of a particular verse. e.g the verse no.42 in first chapter of Sutra Sthana defines Ayurveda .
+
+[REFERENCES / LINKS]
+Charak Samhita : https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita
+Nidana Sthana : https://www.carakasamhitaonline.com/index.php?title=Nidana_Sthana
+Jwara Nidana : https://www.carakasamhitaonline.com/index.php?title=Jwara_Nidana
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+
+
+[BLOCK 36: P]
+----------------------------------------------------------------------
+In a adhyaya(chapter), there can be multiple adhikarana. The meaning of the words or statements, is to be understood based on the adhikarana in which they are used. Therefore, knowing adhikarana, is important. Even the modes of action of medicines can be understood as per the aadhikarana. E.g. In Chikitsa sthana 8th chapter, Under Rajayakshma Chikitsa , there are multiple adhikarana. Sitopaladi choorna is used in kasa adhikara, while talisadi choorna is used in arochaka adhikara. This enables us to understand the peculiarities of the actions of both these formulations.
+
+[REFERENCES / LINKS]
+Rajayakshma Chikitsa : https://www.carakasamhitaonline.com/index.php?title=Rajayakshma_Chikitsa
+Sitopaladi choorna : https://www.carakasamhitaonline.com/index.php?title=Sitopaladi_choorna
+talisadi choorna : https://www.carakasamhitaonline.com/index.php?title=Talisadi_choorna&action=edit&redlink=1
+
+
+[BLOCK 37: P]
+----------------------------------------------------------------------
+In clinical medicine, diagnosis of health and disease of a person is adhikarana.
+
+
+[BLOCK 38: P]
+----------------------------------------------------------------------
+In research methodology, the topic of research is its adhikarana.
+
+
+[BLOCK 39: H3]
+----------------------------------------------------------------------
+2.Yoga(Appropriate arrangement of text)
+
+
+[BLOCK 40: P]
+----------------------------------------------------------------------
+Various terms placed at different places are arranged to draw appropriate meaning. E.g .Five step methodology i.e. Pratijna (Proposition- hypothesis), Hetu (Reasoning, evidences for support, testimony), Drishtanta (examples), Upanaya (analogy) and Nigamana (deduction) is used to explain the relation between Matrija (mother engendered), Pitrija (father engendered) etc. factors which altogether lead to formation of the embryo.
+
+
+[BLOCK 41: P]
+----------------------------------------------------------------------
+In clinical medicine, arrangement of patient history, formation of pathogenesis and prescribing correct management protocol is yoga.
+
+
+[BLOCK 42: P]
+----------------------------------------------------------------------
+In research, the sequencing of events, arrangement of data and its interpretation in proper way is yoga. It is most important for scientific writing.
+
+
+[BLOCK 43: H3]
+----------------------------------------------------------------------
+3. Hetvartha (Extension of concepts with references)
+
+
+[BLOCK 44: P]
+----------------------------------------------------------------------
+It means using a concept at different places with reference. It illustrates the hidden conditions with visible and known examples. The concepts introduced in certain initial chapters of Samhita, are extended and applied to later contexts, for getting appropriate meaning and applications like clinical applications. E.g. In Charak Su.12/5, a concept that continuous consumption of substances having similar properties increases similar properties of dhatu is explained. This concept is further applied in various contexts like Cha.Sha.6.9. This concept is then applied in Chikitsa Sthana for treatment of disorder due to decrease of body constituents.
+
+[REFERENCES / LINKS]
+Chikitsa Sthana : https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana
+
+
+[BLOCK 45: P]
+----------------------------------------------------------------------
+In clinical medicine, the Hetvartha is applied to relate various causative factors for disease and treat them accordingly.
+
+
+[BLOCK 46: P]
+----------------------------------------------------------------------
+In research methodology, this is applied to support the observation and results with available evidences and references.
+
+
+[BLOCK 47: H3]
+----------------------------------------------------------------------
+4. Padartha (Correct meaning of word or group of words)
+
+
+[BLOCK 48: P]
+----------------------------------------------------------------------
+There are some Sanskrit terms with different meaning. By applying this tantrayukti,the correct meaning of the term as per the context is derived. It means that, when a word having two or more senses is used, then that meaning alone has to be accepted which suits the previous and later contexts. Here various words are aligned together, to draw appropriate meaning. The meaning is according to the context. e.g. the term Rasa is having different meaning in different context. In context of dhatu, it is body tissue similar to plasma. In pharmaceutical preparation, it means juice of herb. In context of digestion, it is the first product produced in digestive process which later gets converted into tissue.In herbo-mineral-metallic formulations, it means mercury. So by applying padartha tantrayukti, the correct meaning of rasa as per context should be understood.
+
+
+[BLOCK 49: P]
+----------------------------------------------------------------------
+In some cases, the individual words, here may have different meaning in some other context, but when combined together in this context, they provide a specific meaning, which is the technical meaning, in the present context. e.g. Svabhavoparamavada described in 16th chapter of Sutra sthana, the three different words Svabhava- Uparama-Vada are having different meanings in other contexts. But when joined together, in this context , it means a proposed theory, which suggests that for the formation and manifestation of any objects certain causative factors are responsible, but for their destruction and annihilation, no other cause is required, because, it is nature of anything which is produced to get destroyed.
+
+
+[BLOCK 50: H3]
+----------------------------------------------------------------------
+5. Pradesha (Partial adumbration)
+
+
+[BLOCK 51: P]
+----------------------------------------------------------------------
+When the information on a particular subject is vast, it is briefed in such a way that it acts as an example for readers, to guide about further details which can’t be furnished in the treatise. E.g. after providing guidelines about preparation of medicinal formulations in (Cha.Su.4/4) , (Cha.Ka.12/43) etc. places, 600 formulations are described in Kalpa Sthana . It is explained that these provide guidelines. If one understands these guidelines, one can prepare millions of such formulations.
+
+[REFERENCES / LINKS]
+(Cha.Su.4/4) : https://www.carakasamhitaonline.com/index.php?title=Shadvirechanashatashritiya_Adhyaya#Six_hundred_formulations_of_medicinal_plants
+(Cha.Ka.12/43) : https://www.carakasamhitaonline.com/index.php?title=Dantidravanti_Kalpa_Adhyaya#Guidelines_for_formulating_medicines
+Kalpa Sthana : https://www.carakasamhitaonline.com/index.php?title=Kalpa_Sthana
+
+
+[BLOCK 52: P]
+----------------------------------------------------------------------
+In clinical medicine, the important clues in small number of patients are experienced and then common guidelines for pathogenesis and management of that condition are documented.
+
+
+[BLOCK 53: P]
+----------------------------------------------------------------------
+In research methodology, small sample of population is studied to observe effect and the results are interpreted to be same in large population. [ 6 ]
+
+[REFERENCES / LINKS]
+[ 6 ] : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#cite_note-6
+
+
+[BLOCK 54: H3]
+----------------------------------------------------------------------
+6. Uddesha(Concise statement)
+
+
+[BLOCK 55: P]
+----------------------------------------------------------------------
+Uddesha is the method of briefly touching a subject without going in detail. Thus, when one says “disease” (vyadhi), it means both internal and external diseases without any kind of specification. Uddesha is a concise statement like in the first chapter of Sutra Sthana (Ch.Su.1.24) mentions that Lord Indra explained Ayurveda to Sage Bharadvaja with trifold methodology i.e. Hetu (causes), Linga (symptoms and signs) and Aushadha (treatment modalities). This is further described in the whole text, in relation to health and diseases. E.g. causes of (factors leading to) health, and causes of diseases, and so on.
+
+[REFERENCES / LINKS]
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+(Ch.Su.1.24) : https://www.carakasamhitaonline.com/index.php?title=Deerghanjiviteeya_Adhyaya#Three_principles_for_knowledge_of_Health_and_Disease
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+
+
+[BLOCK 56: P]
+----------------------------------------------------------------------
+In clinical medicine, the history of patient is described in brief in terms of diagnosis and management principles.
+
+
+[BLOCK 57: P]
+----------------------------------------------------------------------
+In research methodology, the abstract is given with important statements of all sections of study.
+
+
+[BLOCK 58: H3]
+----------------------------------------------------------------------
+7. Nirdesha(Elaboration)
+
+
+[BLOCK 59: P]
+----------------------------------------------------------------------
+It is the method of elaborating the concise statement further in detail. E.g. In Sutra Sthana three Doshas |(Cha.Su.1/57) pertaining to the body are mentioned as Vayu, Pitta and Kapha. This is like Uddesha. Now further details about these Doshas like their properties, their functions, causes for their vitiation and treatment for them are described further in the Sutra Sthana chapter one, twelve, twenty and in Vimana Sthana 6th chapter etc. This is Nirdesha.
+
+[REFERENCES / LINKS]
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+three Doshas |(Cha.Su.1/57) : https://www.carakasamhitaonline.com/index.php?title=Deerghanjiviteeya_Adhyaya#Three_Sharira_Dosha_and_two_Manas_Dosha
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+Vimana Sthana : https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana
+
+
+[BLOCK 60: P]
+----------------------------------------------------------------------
+In clinical practice, technical words are used to denote a procedure and then detail description of procedure is given.
+
+
+[BLOCK 61: P]
+----------------------------------------------------------------------
+In research, the idea is elaborated with every details in a dissertation or research article publication.
+
+
+[BLOCK 62: H3]
+----------------------------------------------------------------------
+8. Vakyashesha(Supply of ellipsis)
+
+
+[BLOCK 63: P]
+----------------------------------------------------------------------
+It consists in supplying an idea suggested by the context, but not expressly mentioned. Here authors of ancient texts ( Samhita ), don’t mention certain words in a statement, to keep the text concise. However such words can be easily understood, and are necessary for drawing correct meaning of the statement. E.g. (Cha.Su.16/28) states that for utpatti (formation, manifestation) of objects causative factors (are necessary), but not for their nirodha (cessation, annihilation). In this statement, the words in the bracket-‘are necessary’ – are not directly mentioned, but can be understood and are necessary. This is method for reading between the lines and reveal the hidden meaning of sentence by completely understanding it.
+
+[REFERENCES / LINKS]
+Samhita : https://www.carakasamhitaonline.com/index.php?title=Samhita
+(Cha.Su.16/28) : https://www.carakasamhitaonline.com/index.php?title=Chikitsaprabhritiya_Adhyaya#_Swabhavoparama_vada_(theory_of_natural_destruction)
+
+
+[BLOCK 64: P]
+----------------------------------------------------------------------
+In clinical practice, some common guidelines are applied in instructions. e.g. if a patient is instructed to avoid exercise, then he should avoid all types of exercises.
+
+
+[BLOCK 65: P]
+----------------------------------------------------------------------
+In research, the hidden meanings can be revealed by meticulous analysis of the data and its interpretation.
+
+
+[BLOCK 66: H3]
+----------------------------------------------------------------------
+9. Prayojana(Purpose)
+
+
+[BLOCK 67: P]
+----------------------------------------------------------------------
+It is the purpose for which a description is given or for which a doer initiates his actions. E.g. to produce dhatusamya (balanced state of all body constituents) is mentioned as the prayojana (purpose for promulgation) of Ayurveda .
+
+[REFERENCES / LINKS]
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+
+
+[BLOCK 68: P]
+----------------------------------------------------------------------
+In clinical medicine, every treatment is intended to create equilibrium and maintain homeostasis in body.
+
+
+[BLOCK 69: P]
+----------------------------------------------------------------------
+In research, the aims and objectives are highlighted in the purpose of research.
+
+
+[BLOCK 70: H3]
+----------------------------------------------------------------------
+10. Upadesha (Authoritative instruction)
+
+
+[BLOCK 71: P]
+----------------------------------------------------------------------
+It is the method of giving general instructions given by authorities. These are important guidelines by the ancient scientists, which are otherwise difficult to understand for a layman. It explains what exactly should be done in a given condition, while treating a patient, or for maintenance and promotion of health. It explains what to do, how to do and in which order to be done. E.g. In the thirteenth chapter of Sutra Sthana , the directions to apply swedana always after snehana are given (Cha.Su.13/99) . Such advice comes from vast knowledge, experience and wisdom of the ancient scientists. Thus this is practically very important.
+
+[REFERENCES / LINKS]
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+(Cha.Su.13/99) : https://www.carakasamhitaonline.com/index.php?title=Snehadhyaya#Sequence_for_oleation_and_sudation
+
+
+[BLOCK 72: P]
+----------------------------------------------------------------------
+In clinical medicine, the instructions given by experienced physicians about a case are to be followed.
+
+
+[BLOCK 73: P]
+----------------------------------------------------------------------
+In research, the baseline evidences with good quality researches are used as materials.
+
+
+[BLOCK 74: H3]
+----------------------------------------------------------------------
+11. Apadesha (Reasoning of statement)
+
+
+[BLOCK 75: P]
+----------------------------------------------------------------------
+It is the method of showing the reasons for statements. After stating a certain fact, logical and scientific reasoning is provided. E.g. In third chapter of Vimana Sthana , while describing epidemics, it is stated that factors like wind, water and the land are gradually more and more hazardous (Cha.Vi.3/10) . The reasoning is further provided, that these factors are more and more difficult to avoid. Somehow a person can hide at the residence or change residence to avoid exposure to polluted abnormal wind, but avoiding water will be even more difficult, because although polluted, the water sources may be finite and limited.Then avoiding land is further more difficult.
+
+[REFERENCES / LINKS]
+Vimana Sthana : https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana
+(Cha.Vi.3/10) : https://www.carakasamhitaonline.com/index.php?title=Janapadodhvansaniya_Vimana#_General_measures_for_the_management
+
+
+[BLOCK 76: P]
+----------------------------------------------------------------------
+In clinical medicine, all the disease processes and their management have certain reasons.
+
+
+[BLOCK 77: P]
+----------------------------------------------------------------------
+In research, each statement is supported with reasons. The cause and effect observed in data is discussed in the research documents.
+
+
+[BLOCK 78: H3]
+----------------------------------------------------------------------
+12. Atidesha (Indication of future event)
+
+
+[BLOCK 79: P]
+----------------------------------------------------------------------
+Application of a statement at various places is Atidesha. Anticipation of a future possible event from a present indication or prognostication is revealed from this method. E.g. from the fact of vitiation of vata in a person predicts that he will have some vata disorders in future or bowel disease( udavarta ).
+
+[REFERENCES / LINKS]
+udavarta : https://www.carakasamhitaonline.com/index.php?title=Trimarmiya_Chikitsa
+
+
+[BLOCK 80: P]
+----------------------------------------------------------------------
+In clinical medicine, important clues from history and examinations are applied to predict the prognosis, course of disease and duration of treatment.
+
+
+[BLOCK 81: P]
+----------------------------------------------------------------------
+In research, the interpretation of statistical data to state future predictions is applied.
+
+
+[BLOCK 82: H3]
+----------------------------------------------------------------------
+13. Arthapatti (Implication)
+
+
+[BLOCK 83: P]
+----------------------------------------------------------------------
+Deriving a unsaid meaning is Arthapatti. It is also used to reveal hidden meanings of the statements. E.g. it is advised to avoid eating curd at night. By implication of arthapatti, it is understood that curd can be taken in daytime. (Cha.Su.7/61)
+
+[REFERENCES / LINKS]
+(Cha.Su.7/61) : https://www.carakasamhitaonline.com/index.php?title=Naveganadharaniya_Adhyaya#Guidelines_for_consumption_of_dadhi_(curd)
+
+
+[BLOCK 84: P]
+----------------------------------------------------------------------
+In clinical medicine, the untold instructions are to be followed as described above with example of consumption of curd.
+
+
+[BLOCK 85: P]
+----------------------------------------------------------------------
+In research methodology, every meaning of a statement, its pros and cons are discussed so as to have clear understanding.
+
+
+[BLOCK 86: H3]
+----------------------------------------------------------------------
+14. Nirnaya (Decision)
+
+
+[BLOCK 87: P]
+----------------------------------------------------------------------
+Is the decision taken after a scientific discussion, taking into consideration both sides of the arguments. E.g. in the tenth chapter of Sutra Sthana , discussion between Lord Atreya and the sage Maitreya over the significance of the quadruple (consisting of the physician, attendants and nursing staff, medicines and the patient) is narrated. The argument of Maitreya, that these four factors don’t have any significant role in the disease cure, is refuted by Lord Atreya and their role is proven. The concluding statement of Lord Atreya, that these four factors when endowed with good qualities, are significant for the treatment, is called as Nirnaya. (Cha.Su.10/4-5)
+
+[REFERENCES / LINKS]
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+(Cha.Su.10/4-5) : https://www.carakasamhitaonline.com/index.php?title=Mahachatushpada_Adhyaya
+
+
+[BLOCK 88: P]
+----------------------------------------------------------------------
+In clinical medicine, the final diagnosis can be considered with this method.
+
+
+[BLOCK 89: P]
+----------------------------------------------------------------------
+In research methodology, the decision about outcome of research is derived and given in conclusion.
+
+
+[BLOCK 90: H3]
+----------------------------------------------------------------------
+15. Prasanga(Restatement in other context)
+
+
+[BLOCK 91: P]
+----------------------------------------------------------------------
+It is a virtue by which allusion is made to things repeatedly described in other chapter in different context. Here it is necessary, to refer certain facts, for proper understanding of concepts at other places in other contexts. So this is not mere repetition. E.g. As per Charak Samhita , only sama prakriti (balanced state of all three doshas) is Prakriti (natural constitution), and Vatala ( Vata dominant) etc. Prakriti (specific body constitution with predominance of one or two doshas ) are termed as in fact vikriti (imbalance, abnormality). Therefore, the treatment for them is described in seventh chapter of Sutra Sthana in (Cha.Su.7/41) . This is restated in sixth chapter of Vimana Sthana (Cha.Vi.6/14-18) to discuss about treatment for vatala etc.
+
+[REFERENCES / LINKS]
+Charak Samhita : https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita
+prakriti : https://www.carakasamhitaonline.com/index.php?title=Prakriti
+Prakriti : https://www.carakasamhitaonline.com/index.php?title=Prakriti
+Vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+Prakriti : https://www.carakasamhitaonline.com/index.php?title=Prakriti
+doshas : https://www.carakasamhitaonline.com/index.php?title=Dosha
+vikriti : https://www.carakasamhitaonline.com/index.php?title=Vikriti
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+(Cha.Su.7/41) : https://www.carakasamhitaonline.com/index.php?title=Naveganadharaniya_Adhyaya#_Preservation_of_health_and_equilibrium
+Vimana Sthana : https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana
+(Cha.Vi.6/14-18) : https://www.carakasamhitaonline.com/index.php?title=Roganika_Vimana#_Management_of_persons_having_different_types_of_physical_constitution
+
+
+[BLOCK 92: P]
+----------------------------------------------------------------------
+In clinical medicines, this is useful in linking previous events to present pathogenesis.
+
+
+[BLOCK 93: P]
+----------------------------------------------------------------------
+In research, this is quoting the same reference again in different context.
+
+
+[BLOCK 94: H3]
+----------------------------------------------------------------------
+16. Ekanta (Categorical statement)
+
+
+[BLOCK 95: P]
+----------------------------------------------------------------------
+This is a confirmation statement about the topic. It allows of affirming a specific action of things unexceptionably e.g. Madanaphala fruit induces vomiting under all circumstances. There is no scope for difference of opinion and arguments; as such things are true in any circumstances.
+
+
+[BLOCK 96: P]
+----------------------------------------------------------------------
+In clinical medicine, it is confirm or final diagnosis.
+
+
+[BLOCK 97: P]
+----------------------------------------------------------------------
+In research, it is conclusion after meta-analysis of many research studies.
+
+
+[BLOCK 98: H3]
+----------------------------------------------------------------------
+17. Anekanta (Compromising statement)
+
+
+[BLOCK 99: P]
+----------------------------------------------------------------------
+It is the virtue of which one understands that different opinions prevail on a particular subject. E.g. various opinions about the origin of Purusha (living being or a human being) are quoted. Neither any of them is absolutely wrong, nor any is completely true independently about origin of Purusha. So none of these opinions, can be accepted as complete truth. Therefore it is concluded that a Purusha originates from all these factors, collectively. (Cha.Su.25/26-29) If one would adhere to unilateral view, he wouldn’t be able to know the complete truth ever. This is called as Anekanta.
+
+[REFERENCES / LINKS]
+(Cha.Su.25/26-29) : https://www.carakasamhitaonline.com/index.php?title=Yajjah_Purushiya_Adhyaya#Explanation_and_Decision_by_Punarvasu_Atreya
+
+
+[BLOCK 100: P]
+----------------------------------------------------------------------
+In clinical medicine, multi-factorial diagnosis and multi-drug treatments are examples.
+
+
+[BLOCK 101: P]
+----------------------------------------------------------------------
+In research, the multiple references are considered, views and counter-views are considered for deriving outcome.
+
+
+[BLOCK 102: H3]
+----------------------------------------------------------------------
+18. Apavarga (Exception)
+
+
+[BLOCK 103: P]
+----------------------------------------------------------------------
+It consists in allowing exceptions to general directions. E.g. as a general rule, stale food should not be consumed, it’s not healthy. But fruits, dried meat, dried vegetables etc. are the exceptions to this general rule (Cha.Su.8/20) .
+
+[REFERENCES / LINKS]
+(Cha.Su.8/20) : https://www.carakasamhitaonline.com/index.php?title=Indriyopakramaniya_Adhyaya#_Codes/Etiquettes_for_Eating
+
+
+[BLOCK 104: P]
+----------------------------------------------------------------------
+In clinical medicine, there are exceptions given as per condition of the patient.
+
+
+[BLOCK 105: P]
+----------------------------------------------------------------------
+In research methods, the exclusion criteria is described.
+
+
+[BLOCK 106: H3]
+----------------------------------------------------------------------
+19. Viparyaya (Assertion to contrary)
+
+
+[BLOCK 107: P]
+----------------------------------------------------------------------
+By applying the Viparyaya, its contrary is also asserted from a positive or a negative assertion. E.g. it is mentioned that foods or medicines having madhura (sweet), amla (sour), and lavana (salty, saline) tastes, subdue vata. This also implies, that the opposite of them i.e. katu (pungent), tikta (bitter) and kashaya (astringent), provoke it. (Cha.Su.1/66)
+
+[REFERENCES / LINKS]
+(Cha.Su.1/66) : https://www.carakasamhitaonline.com/index.php?title=Deerghanjiviteeya_Adhyaya#Effect_of_rasa_on_state_of_dosha
+
+
+[BLOCK 108: P]
+----------------------------------------------------------------------
+In clinical medicine, same principles are applied as above.
+
+
+[BLOCK 109: P]
+----------------------------------------------------------------------
+In research, the opposite untold meaning is implied.
+
+
+[BLOCK 110: H3]
+----------------------------------------------------------------------
+20. Purvapaksha (Objection)
+
+
+[BLOCK 111: P]
+----------------------------------------------------------------------
+This is the objection raised on a statement. E.g. at different places in Samhita, some objections are raised and then the topic is discussed further in details. The raised objection with proper justification is Purvapaksha. In sixth chapter of Sharira Sthana the query, if Atma (the soul) is said to be devoid of actions, then how at the same time it is considered as responsible for all the actions? Such questions are asked to initiate a debate, which will ultimately help to understand the scientific truth.
+
+[REFERENCES / LINKS]
+Sharira Sthana : https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana
+
+
+[BLOCK 112: P]
+----------------------------------------------------------------------
+In clinical medicine, the history of a patient is discussed with objections and justifications to reach final diagnosis and proper treatment protocol.
+
+
+[BLOCK 113: P]
+----------------------------------------------------------------------
+In research, the search begins with objection to existing theories and it is discussed with review of earlier researches done on the topic.
+
+
+[BLOCK 114: H3]
+----------------------------------------------------------------------
+21. Vidhana (Sequential interpretation)
+
+
+[BLOCK 115: P]
+----------------------------------------------------------------------
+The sequence of evidences is arranged in order and they are interpreted in proper statements. Here certain concepts in the texts are elaborated, in the subsequent description in the text itself. E.g. In seventh chapter of Sutra Sthana , it is quoted that the channels for elimination of mala (metabolic by products)are affected by abnormally increased or decreased mala. Just after that we find further explanation, that such increase or decrease in the mala can be inferred by observing hampered elimination or excessive elimination from these channels, through external orifices. (Cha.Su.7/42-43)
+
+[REFERENCES / LINKS]
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+(Cha.Su.7/42-43) : https://www.carakasamhitaonline.com/index.php?title=Naveganadharaniya_Adhyaya#_Malayana_(channels_of_excretion)
+
+
+[BLOCK 116: P]
+----------------------------------------------------------------------
+In clinical medicine, the chronological sequence is arranged in order to understand pathogenesis of disease and step wise treatment is planned.
+
+
+[BLOCK 117: P]
+----------------------------------------------------------------------
+In research, proper sequence or step-wise protocol is followed.
+
+
+[BLOCK 118: H3]
+----------------------------------------------------------------------
+22. Anumata (Acceptance of other interpretations)
+
+
+[BLOCK 119: P]
+----------------------------------------------------------------------
+When the opinion of other authorities is referred to and not contradicted, it is signified that it is approved and accepted. The authors of the texts give their own interpretations and opinions. But sometimes important opinions of others are also quoted. Some of these opinions of others are refuted. But some are not refuted. Here it means that as per the authors of texts, this is not the best interpretation. But it’s not an interpretation which can be totally rejected also. It has got some valid point. Such opinions are not found refuted, indicating that they are acceptable. E.g. opinions of other authorities regarding treatment of hemorrhoids are quoted (Cha.Chi.14/33) . But further Lord Atreya has given his own opinion. Although opinion of other authorities, that hemorrhoids can be treated with surgery etc. is also not refuted. In other words, it is accepted, that these also can be the ways of treatment.
+
+[REFERENCES / LINKS]
+(Cha.Chi.14/33) : https://www.carakasamhitaonline.com/index.php?title=Arsha_Chikitsa#_Treatment_of_hemorrhoids
+
+
+[BLOCK 120: P]
+----------------------------------------------------------------------
+In clinical medicine, various valid points are discussed and interpreted in making final diagnosis and treatment protocol.
+
+
+[BLOCK 121: P]
+----------------------------------------------------------------------
+In research methods, various opinions are accepted and some different view is also quoted related to uniqueness of that research.
+
+
+[BLOCK 122: H3]
+----------------------------------------------------------------------
+23.Vyakhyana (Elaboration)
+
+
+[BLOCK 123: P]
+----------------------------------------------------------------------
+The method of elaborate description is called vyakhyanam. Certain topics are elaborately described by the author himself. E.g. Purusha(living being, human being) composed of conglomeration of 24 principles is quoted in a verse (Cha.Sha.1/17) . Further, details about the same concept are provided (Cha.Sha.1/18-42) .
+
+[REFERENCES / LINKS]
+(Cha.Sha.1/17) : https://www.carakasamhitaonline.com/index.php?title=Katidhapurusha_Sharira#_Details_about_Purusha
+(Cha.Sha.1/18-42) : https://www.carakasamhitaonline.com/index.php?title=Katidhapurusha_Sharira#_Details_about_Purusha
+
+
+[BLOCK 124: P]
+----------------------------------------------------------------------
+In clinical medicine and research, details Case Reports or case series are published for elaboration of particular case.
+
+[REFERENCES / LINKS]
+Case Reports : https://www.carakasamhitaonline.com/index.php?title=Case_Reports
+
+
+[BLOCK 125: H3]
+----------------------------------------------------------------------
+24. Samshaya (Doubt)
+
+
+[BLOCK 126: P]
+----------------------------------------------------------------------
+It allows a way of statement which may create doubt & confusion in the mind of the reader. Creating this doubt is necessary for clarity. Many times both ways of interpretation also may be correct. E.g. It is stated that as per some authorities, the parents are the cause of birth, while as per others, svabhava (nature) is the cause and so on. (Cha.Su.11/6) After raising these doubts, the answers are given, which brings clarity in understanding.
+
+[REFERENCES / LINKS]
+(Cha.Su.11/6) : https://www.carakasamhitaonline.com/index.php?title=Tistraishaniya_Adhyaya#_Desire_of_other_world_after_death
+
+
+[BLOCK 127: P]
+----------------------------------------------------------------------
+In clinical medicines, doubts about a hidden pathology are raised and cleared by detail investigations.
+
+
+[BLOCK 128: P]
+----------------------------------------------------------------------
+In research, the doubts about validation of a concepts are raised and clarified in discussion.
+
+
+[BLOCK 129: H3]
+----------------------------------------------------------------------
+25. Ateetavekshana (Retrospective referencing)
+
+
+[BLOCK 130: P]
+----------------------------------------------------------------------
+It permits alluding to things described before. Certain concepts or information mentioned in the initial sections or chapters of the text, are to be applied in the next chapters or sections, for proper understanding. E.g. Concepts from all other sections described in prior sections, are to be applied in Chikitsa Sthana , while understanding the treatments. E.g. Specific types of Sweda (sudation) are indicated in treatment of Jwara. (Cha.Chi.3/269) . The types of Sweda are already mentioned in 14 th chapter of Sutra Sthana (Cha.Su.14/39-40) . Since they are already described in Sutra Sthana , here it isn’t necessary to repeat the description, rather one can go to the previous reference.
+
+[REFERENCES / LINKS]
+Chikitsa Sthana : https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana
+(Cha.Chi.3/269) : https://www.carakasamhitaonline.com/index.php?title=Jwara_Chikitsa#_Indications_of_fomentation_for_alleviating_cold
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+(Cha.Su.14/39-40) : https://www.carakasamhitaonline.com/index.php?title=Swedadhyaya#_Thirteen_types_of_sweda
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+
+
+[BLOCK 131: P]
+----------------------------------------------------------------------
+In clinical medicine and research, various previous experiences and evidences are referred for supporting statements.
+
+
+[BLOCK 132: H3]
+----------------------------------------------------------------------
+26. Anagataveksha (Prospective reference)
+
+
+[BLOCK 133: P]
+----------------------------------------------------------------------
+It allows to leave certain things for future description and elaboration. Certain concepts or information is supposed to be described in later sections or chapters. But in that particular context, it is mentioned that one can refer later chapters or section. E.g. six hundred formulations are mentioned in fourth chapter of Sutra Sthana (Cha.Su.4/4) . All formulations are described in detail further in Kalpa Sthana .
+
+[REFERENCES / LINKS]
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+(Cha.Su.4/4) : https://www.carakasamhitaonline.com/index.php?title=Shadvirechanashatashritiya_Adhyaya#_Six_hundred_formulations_of_medicinal_plants
+Kalpa Sthana : https://www.carakasamhitaonline.com/index.php?title=Kalpa_Sthana
+
+
+[BLOCK 134: P]
+----------------------------------------------------------------------
+In clinical medicine, possible complications of a disease in future are predicted.
+
+
+[BLOCK 135: P]
+----------------------------------------------------------------------
+In research, the scope of outcome in future or trends are predicted by application of present brief information.
+
+
+[BLOCK 136: H3]
+----------------------------------------------------------------------
+27. Svasanjna/Swasandnya (Technical nomenclature)
+
+
+[BLOCK 137: P]
+----------------------------------------------------------------------
+The method of using specific terms in a sense different from what they have in other literature i.e. technical use. Certain technical terms, may have different meaning in other contemporary sciences or in Sanskrit literature. But, since it is applied as a technical term, a specific meaning is attached to that word. E.g. In literature, the word dosha means faults. However, in Ayurveda , the term dosha is used to basic vitiating factors in the body. Jentaka or holaka are some unique words, hardly found in literature, but in Charak Samhita , they are used as specific types of sweda (sudation). Whereas samsarga or sannipata literally mean to come in contact with. However in Ayurveda , they are used in the sense of pathologies in which two or three doshas are involved respectively. Similarly word dhatu may be used in the sense of metals in alchemy, or in the sense of root in grammar, but in Ayurveda , it is used in the sense of most important body constituents, which bear the existence of the body.
+
+[REFERENCES / LINKS]
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+Charak Samhita : https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+
+
+[BLOCK 138: P]
+----------------------------------------------------------------------
+The names of specific medical conditions are applied in clinical medicine as explained above.
+
+
+[BLOCK 139: P]
+----------------------------------------------------------------------
+In research, technical terms or nomenclature are used to denote specific protocols.E.g.Blind studies.
+
+
+[BLOCK 140: H3]
+----------------------------------------------------------------------
+28. Uhya (Logical deduction)
+
+
+[BLOCK 141: P]
+----------------------------------------------------------------------
+The logical interpretation of given text for better understanding is Uhya . Texts provide guidelines about diagnosis and management of a condition.However in clinical practice, the vaidya(physician)ultimately shall take the clinical decision by applying his logical interpretation by his own intelligence and wisdom. The texts have advised a vaidya to use his own wisdom at many places. E.g. while describing the medicines which can be used for basti, it is advised that a vaidya can exclude the medicines not suitable for a particular patient, and he may add similar medicines which are appropriate for the patient, but not mentioned in the text. (Cha.Vi.8/149) .
+
+[REFERENCES / LINKS]
+(Cha.Vi.8/149) : https://www.carakasamhitaonline.com/index.php?title=Rogabhishagjitiya_Vimana#_Guidelines_for_inclusion_or_exclusion_of_drugs
+
+
+[BLOCK 142: P]
+----------------------------------------------------------------------
+The same principle is applied in various clinical decisions.
+
+
+[BLOCK 143: P]
+----------------------------------------------------------------------
+In research, the analysis of data and its interpretation is done on the basis of Uhya .
+
+
+[BLOCK 144: H3]
+----------------------------------------------------------------------
+29. Samucchaya (Compilation/Collection)
+
+
+[BLOCK 145: P]
+----------------------------------------------------------------------
+It means the grouping two or more similar things together. In certain sentences, multiple words are used, while highlighting and emphasizing each word. This type of method is called as Samucchaya . E.g. The important assessment parameters of residual life span are enlisted in first chapter of Indriya Sthana . Here each word is written as varnashcha , svarashcha etc. By adding ‘ Cha ’, each word is specified. (Cha.In.1/3) . This is to denote that each of these topics are equally important and form a group.
+
+[REFERENCES / LINKS]
+Indriya Sthana : https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana
+(Cha.In.1/3) : https://www.carakasamhitaonline.com/index.php?title=Varnasvariyamindriyam_Adhyaya#_Factors_for_assessment_of_residual_span_of_life
+
+
+[BLOCK 146: P]
+----------------------------------------------------------------------
+In clinical medicine, groups of similar symptoms will lead to diagnosis of a specific disease.
+
+
+[BLOCK 147: P]
+----------------------------------------------------------------------
+In research, the data is collected and grouped together as per similar criteria.
+
+
+[BLOCK 148: H3]
+----------------------------------------------------------------------
+30. Nidarshana (Illustration)
+
+
+[BLOCK 149: P]
+----------------------------------------------------------------------
+It allows to describe anything after the analogy of other things. Here simple examples are given, which everyone can understand. These examples are taken from the things, which are well known to the society, therefore even a fool can understand. E.g. in first chapter of Sharira Sthana , it is said that Atma (soul) has to be accepted as responsible for all the actions. Because the other factors are inanimate and are not capable of doing anything on their own. it is illustrated with the example of making a pot. Those who do not accept existence of Atma , will have to say that the clay, the rod, the wheel, all come together in absence of a potter to produce a pot (Cha.Sha.1/43-44) . Such examples are known as Nidarshana .
+
+[REFERENCES / LINKS]
+Sharira Sthana : https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana
+(Cha.Sha.1/43-44) : https://www.carakasamhitaonline.com/index.php?title=Katidhapurusha_Sharira#_Rashipurusha(Holistic_human_being)
+
+
+[BLOCK 150: P]
+----------------------------------------------------------------------
+In clinical medicine, some examples are illustrated to understand the diagnosis, pathology and mode of action of medicines.
+
+
+[BLOCK 151: P]
+----------------------------------------------------------------------
+In research, possible references including illustrations are discussed.
+
+
+[BLOCK 152: H3]
+----------------------------------------------------------------------
+31. Nirvachana (Scientific illustrations/ Definition)
+
+
+[BLOCK 153: P]
+----------------------------------------------------------------------
+A scientific illustration or definition is called Nirvachana . Here such examples are given which can be understood only by the experts of that field. E.g. in sixteenth chapter of Sutra Sthana , Svabhavoparamavada is described. (Cha.Su.16/27) According to it for production and manifestation of objects, specific causative factors are required, but for their destruction or annihilation their nature itself is the cause, so no other cause is required. Every object which is produced, gets destroyed, it is the nature of the objects. To explain this, it is said that no other cause except their nature can be found, for destruction of objects. Kala (time) is continuous, and there is no cause for elapse of time except time itself. Similarly for destruction and annihilation of objects their nature itself is the cause and no other cause can be found out. Such type of examples are called as Nirvachana .
+
+[REFERENCES / LINKS]
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+(Cha.Su.16/27) : https://www.carakasamhitaonline.com/index.php?title=Chikitsaprabhritiya_Adhyaya#_Swabhavoparama_vada_(theory_of_natural_destruction)
+
+
+[BLOCK 154: P]
+----------------------------------------------------------------------
+The difference between Nirdeshana and Nirvachana is based upon the targeted reader's level of understanding. For a common person or laymen, the common examples are given to understand the concept. Whereas, for scientific or highly intellectual community, specific scientific illustrations are given.
+
+
+[BLOCK 155: H3]
+----------------------------------------------------------------------
+32. Niyoga (Injunction)
+
+
+[BLOCK 156: P]
+----------------------------------------------------------------------
+It means mandatory guidelines or directions to be followed. Certain directions are given in the text based on deep knowledge ,vast experience and scientifically developed insights. Therefore, these directions must be followed. Such directions are called as Niyoga. A student may also understand significance of such directions, as he studies with depth. In first chapter of Vimana Sthana , the principles of eating habits are given. (Cha.Vi.1/24-25) . These guidelines are to be followed, otherwise it will lead to disease.
+
+[REFERENCES / LINKS]
+Vimana Sthana : https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana
+(Cha.Vi.1/24-25) : https://www.carakasamhitaonline.com/index.php?title=Rasa_Vimana#_Ahara_vidhi_vidhana_(principles_for_taking_meals)
+
+
+[BLOCK 157: P]
+----------------------------------------------------------------------
+In clinical medicine, the management protocols of diet, lifestyle and medicines are to be followed compulsorily.
+
+
+[BLOCK 158: P]
+----------------------------------------------------------------------
+In research, the protocols for data collection, study design, grouping should be followed.
+
+
+[BLOCK 159: H3]
+----------------------------------------------------------------------
+33. Vikalpana (Option)
+
+
+[BLOCK 160: P]
+----------------------------------------------------------------------
+It is method of giving alternative or optional directions. Certain options are given and any appropriate options from them may be selected. The term Va is used to denote options. E.g. For patients of Prameha (diabetes) water processed with heartwood of medicinal plants like asana is advised. But optionally water processed with kusha grass also can be used. (Cha.Chi.6/46)
+
+[REFERENCES / LINKS]
+(Cha.Chi.6/46) : https://www.carakasamhitaonline.com/index.php?title=Prameha_Chikitsa#_Beneficial_diet_and_drinks
+
+
+[BLOCK 161: P]
+----------------------------------------------------------------------
+The same is applied in clinical medicine. However in research, the options can only be suggested for further studies.
+
+
+[BLOCK 162: H3]
+----------------------------------------------------------------------
+34. Pratutsara (Rebuttal)
+
+
+[BLOCK 163: P]
+----------------------------------------------------------------------
+In a scientific discussion, opinions of each other are refuted, with scientific reasoning. E.g. in the conference of discussion on origin of Purusha , Parikshi Maudgalya opined that Purusha (living being or human being) is originated from Atma (soul).This is further refuted by Sharaloma, who proposed that Purusha is produced from mana (mind). Further his opinion is also refuted (Cha.Su.25/8-25) . This type of methodology is called as pratyutsara.
+
+[REFERENCES / LINKS]
+(Cha.Su.25/8-25) : https://www.carakasamhitaonline.com/index.php?title=Yajjah_Purushiya_Adhyaya#_The_opinion_of_Maudgalya_Parikshi_on_Atmaja_Purusha_(spirit_theory)
+
+
+[BLOCK 164: P]
+----------------------------------------------------------------------
+In clinical discussions, the opinions of various specialist are taken and considered for differential diagnosis. Then each one of them is refuted and final diagnosis is made.
+
+
+[BLOCK 165: P]
+----------------------------------------------------------------------
+In research, the peer review method is followed to improve the scientific validity of content. The views of other scientists can be refuted with support.
+
+
+[BLOCK 166: H3]
+----------------------------------------------------------------------
+35. Uddhara(Re-affirmation)
+
+
+[BLOCK 167: P]
+----------------------------------------------------------------------
+When in a scientific discussion, not only opinion of others is refuted, but own opinion is supported with scientific reasoning, then it is called as uddhara . E.g. in twenty fifth chapter of Sutra Sthana , during discussion on origin of a Purusha , various experts not only refuted opinions of others, but also have substantiated their own opinions. Like Parikshi Maudgalya supported his opinion that Atma (soul) is responsible for the origin of a Purusha . He said that since Atma alone is animate, and other factors are inanimate, it is responsible for all the actions. Since it is responsible for all the actions, it will also take responsibility for the fruits of those actions, for which, it takes birth. Thus it is responsible for the origin of a Purusha . (Cha.Su.25/8-9) .
+
+[REFERENCES / LINKS]
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+(Cha.Su.25/8-9) : https://www.carakasamhitaonline.com/index.php?title=Yajjah_Purushiya_Adhyaya#_The_opinion_of_Maudgalya_Parikshi_on_Atmaja_Purusha_(spirit_theory)
+
+
+[BLOCK 168: P]
+----------------------------------------------------------------------
+In clinical case discussions, the provisional diagnosis and treatment protocol should be presented with strong scientific support in order to make it conclusive remark.
+
+
+[BLOCK 169: P]
+----------------------------------------------------------------------
+In research, re-instating the outcomes of research with references in discussion is observed as Uddhara .
+
+
+[BLOCK 170: H3]
+----------------------------------------------------------------------
+36.Sambhava (Original source)
+
+
+[BLOCK 171: P]
+----------------------------------------------------------------------
+The substratum or base for origin of anything, is called sambhava . It is denoted by the suffix Ja meaning source. This also denote the site of origin, progression, cause, combination or probability. E.g. The diseases due to vitiation of Rasa dhatu are enlisted as Rasapradoshaja vikara . (Cha.Su.28/9-11)
+
+[REFERENCES / LINKS]
+(Cha.Su.28/9-11) : https://www.carakasamhitaonline.com/index.php?title=Vividhashitapitiya_Adhyaya#_Diseases_due_to_vitiation_of_rasa
+
+
+[BLOCK 172: P]
+----------------------------------------------------------------------
+In clinical medicine, this is useful to elucidate the causes, site of origin, progression of disease so that the treatment can be focused on it.
+
+
+[BLOCK 173: P]
+----------------------------------------------------------------------
+In research, the original and authenticated sources are used as references. The same is enlisted in section of materials and methods.
+
+
+[BLOCK 174: P]
+----------------------------------------------------------------------
+Thus, Tantrayukti, is very important tool for proper understanding of Ayurveda , not just theoretically, but for practical application of it also.
+
+[REFERENCES / LINKS]
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+
+
+[BLOCK 175: H2]
+----------------------------------------------------------------------
+Applicability
+
+
+[BLOCK 176: P]
+----------------------------------------------------------------------
+The methods can be categorized under following categories as per their applicability in treatise.
+
+
+[BLOCK 177: P]
+----------------------------------------------------------------------
+Table 1: Categories of Tantrayukti as per applicability
+
+
+[BLOCK 178: TABLE]
+----------------------------------------------------------------------
+[COMPLETE TABLE]
+
+Row 1:
+Column 1: Sr.No.
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Applicability
+  Type: th, Rowspan: 1, Colspan: 1
+Column 3: Tantrayukti
+  Type: th, Rowspan: 1, Colspan: 1
+
+Row 2:
+Column 1: 1
+  Type: td, Rowspan: 1, Colspan: 1
+Column 2: Basic structure of text
+  Type: td, Rowspan: 1, Colspan: 1
+Column 3: Prayojana , Adhikarana , Vidhana , Yoga , Uddesha , Nirdesha
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 3:
+Column 1: 2
+  Type: td, Rowspan: 1, Colspan: 1
+Column 2: Statements of theories, principles and rules
+  Type: td, Rowspan: 1, Colspan: 1
+Column 3: Niyoga , Apavarga , Vikalpana , Upadesha , Swasandnya , Nirnaya , Prasanga , Ekanta , Anekanta , Viparyaya
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 4:
+Column 1: 3
+  Type: td, Rowspan: 1, Colspan: 1
+Column 2: Explanation and elaboration of Various concepts
+  Type: td, Rowspan: 1, Colspan: 1
+Column 3: Nirvachana , Purvapaksha , Anumata , Vyakhyana , Nidarshana , Hetvartha , Apadesha , Atidesha , Uhya
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 5:
+Column 1: 4
+  Type: td, Rowspan: 1, Colspan: 1
+Column 2: Precise editing and style of expression
+  Type: td, Rowspan: 1, Colspan: 1
+Column 3: Vakyashesha , Arthapatti , Samucchaya , Padartha , Ateetavekshana , Anagatavekshana , Predesha , Pratyutsara , Uddhara , Sambhava
+  Type: td, Rowspan: 1, Colspan: 1
+
+[REFERENCES / LINKS]
+Prayojana : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#9._Prayojana(Purpose)
+Adhikarana : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#1._Adhikarana_(Topic_of_discourse)
+Vidhana : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#21._Vidhana_(Sequential_interpretation)
+Yoga : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#_2.Yoga(Appropriate_arrangement_of_text)
+Uddesha : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#6._Uddesha(Concise_statement)
+Nirdesha : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#7._Nirdesha(Elaboration)
+Niyoga : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#32._Niyoga_(Injunction)
+Apavarga : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#18._Apavarga_(Exception)
+Vikalpana : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#33._Vikalpana_(Option)
+Upadesha : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#10._Upadesha_(Authoritative_instruction)
+Swasandnya : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#27._Svasanjna/Swasandnya(Technical_nomenclature)
+Nirnaya : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#14._Nirnaya_(Decision)
+Prasanga : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#15._Prasanga(Restatement_in_other_context)
+Ekanta : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#16._Ekanta_(Categorical_statement)
+Anekanta : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#17._Anekanta_(Compromising_statement)
+Viparyaya : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#19._Viparyaya_(Assertion_to_contrary)
+Nirvachana : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#31._Nirvachana_(Scientific_illustrations/_Definition)
+Purvapaksha : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#20._Purvapaksha_(Objection)
+Anumata : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#22._Anumata_(Acceptance_of_other_interpretations)
+Vyakhyana : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#23.Vyakhyana_(Elaboration)
+Nidarshana : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#30._Nidarshana_(Illustration)
+Hetvartha : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#3._Hetvartha_(Extension_of_concepts_with_references)
+Apadesha : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#11._Apadesha_(Reasoning_of_statement)
+Atidesha : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#12._Atidesha_(Indication_of_future_event)
+Uhya : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#28._Uhya_(Logical_deduction)
+Vakyashesha : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#8._Vakyashesha(Supply_of_ellipsis)
+Arthapatti : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#13._Arthapatti_(Implication)
+Samucchaya : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#29._Samucchaya_(Compilation/Collection)
+Padartha : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#4._Padartha_(Correct_meaning_of_word_or_group_of_words)
+Ateetavekshana : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#24._Samshaya_(Doubt)
+Anagatavekshana : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#26._Anagataveksha_(Prospective_reference)
+Predesha : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#5._Pradesha_(Partial_adumbration)
+Pratyutsara : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#34._Pratutsara_(Rebuttal)
+Uddhara : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#35._Uddhara(Re-affirmation)
+Sambhava : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#36.Sambhava_(Original_source)
+
+
+[BLOCK 179: P]
+----------------------------------------------------------------------
+Send us your suggestions and feedback on this page.
+
+[REFERENCES / LINKS]
+Send us your suggestions and feedback on this page. : https://www.carakasamhitaonline.com/index.php?title=Special:ContactMe
+
+
+[BLOCK 180: H2]
+----------------------------------------------------------------------
+References
+
+
+[BLOCK 181: TEXT]
+----------------------------------------------------------------------
+Back to the Top
+
+
+[BLOCK 182: OL]
+----------------------------------------------------------------------
+1. ↑ Dalhana, commentary on Sushruta Samhita (Sutra Sthana.4/7) available on http://niimh.nic.in/ebooks/esushruta/?mod=adhi retrieved on June 10,2019
+2. ↑ Mhetre H.B. Application of Tantrayukti in Samhita Adhyayanam [MD Thesis]. Jamnagar: Gujarat Ayurved University;1998
+3. ↑ Jayaraman M. The doctrine of Tantrayukti. Paper presented at Seminar organized by Department of Sanskrit Studies,University of Hyderabad on “Samskrit in Modern context”, February 11-13,2008
+4. ↑ Avhad D Anil et al, Application of Tantrayukti (Means of Interpreting Science) in Research Methodology. J. Res. Trad. Medicine 2016; 2(3): 81-86 http:dx.doi.org/10.21276/jrtm.2016/159
+5. ↑ Dharmadhikari A.B. Charak Uhana.Bharatiya Sanskriti Darshana Trust:Pune;2015.pp.30-34
+6. ↑ Minu Chandran, Haroon Irshad, Jaya Shankar Mund (2015),Concept of Tantrayukti with special emphasis on Pradesha Tantrayukti, Global J Res. Med. Plants & Indigen. Med., Volume 4(12): 253–258
+
+[REFERENCES / LINKS]
+↑ : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#cite_ref-1
+http://niimh.nic.in/ebooks/esushruta/?mod=adhi : http://niimh.nic.in/ebooks/esushruta/?mod=adhi
+↑ : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#cite_ref-2
+↑ : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#cite_ref-3
+↑ : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#cite_ref-4
+↑ : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#cite_ref-5
+↑ : https://www.carakasamhitaonline.com/index.php?title=Tantrayukti#cite_ref-6
+
+
+[BLOCK 183: TEXT]
+----------------------------------------------------------------------
+NewPP limit report
+Cached time: 20261119043520
+Cache expiry: 86400
+Reduced expiry: false
+Complications: [vary‐revision‐id, show‐toc]
+CPU time usage: 0.105 seconds
+Real time usage: 0.258 seconds
+Preprocessor visited node count: 410/1000000
+Post‐expand include size: 2319/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 3/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 930/5000000 bytes
+Lua time usage: 0.120/7 seconds
+Lua virtual size: 20344832/209715200 bytes
+Lua estimated memory usage: 0 bytes
+
+
+[BLOCK 184: TEXT]
+----------------------------------------------------------------------
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 214.372 1 -total
+98.06% 210.222 1 Template:Infobox
+0.66% 1.413 1 Template:CiteButton
+
+
+[BLOCK 185: TEXT]
+----------------------------------------------------------------------
+Saved in parser cache with key carakas1_carakasa:pcache:idhash:2888-0!canonical and timestamp 20261119043520 and revision id 44458. Rendering was triggered because: diff-page
+
+
+[BLOCK 186: TEXT]
+----------------------------------------------------------------------
+Retrieved from "
+
+
+[BLOCK 187: TEXT]
+----------------------------------------------------------------------
+https://www.carakasamhitaonline.com/index.php?title=Tantrayukti&oldid=44458
+
+
+[BLOCK 188: TEXT]
+----------------------------------------------------------------------
+"
+
+
+==========================================================================================
+END OF CHAPTER
+==========================================================================================

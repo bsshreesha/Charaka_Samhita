@@ -1,0 +1,953 @@
+==========================================================================================
+CHARAKA SAMHITA
+PANCHAKARMA
+==========================================================================================
+
+Source URL: https://www.carakasamhitaonline.com/index.php?title=Panchakarma
+Extraction Date: 2026-11-19T10:33:02
+Total Blocks: 85
+
+==========================================================================================
+
+
+[BLOCK 1: H1]
+----------------------------------------------------------------------
+Panchakarma
+
+
+[BLOCK 2: TEXT]
+----------------------------------------------------------------------
+From Charak Samhita
+
+
+[BLOCK 3: TEXT]
+----------------------------------------------------------------------
+Jump to navigation
+
+
+[BLOCK 4: TEXT]
+----------------------------------------------------------------------
+Jump to search
+
+
+[BLOCK 5: FIGURE]
+----------------------------------------------------------------------
+
+
+[REFERENCES / LINKS]
+ : https://www.charakasamhitauptodate.com/index.php?title=Special:CiteThisPage&page=Panchakarma&id=44725&wpFormIdentifier=titleform
+
+[IMAGES]
+ : https://www.carakasamhitaonline.com/images/5/58/Cite.png
+
+
+[BLOCK 6: P]
+----------------------------------------------------------------------
+The word panchakarma is composed of two words, ‘pancha’ and ‘karma’. Pancha means five and karma means ‘action’. [ 1 ] In this context karma represents therapeutic procedure or treatment given by a physician. Thus, Panchakarma means the five kinds of therapeutic procedures or treatments. This includes therapeutic emesis ( vamana ), therapeutic purgation ( virechana ), therapeutic enema ( basti ) with decoction ( niruha ), enema with unctuous substances ( anuvasana ) and trans-nasal drug administration ( nasya ). These procedures are intended to maintain equilibrium in body by expelling the excessively aggravated dosha outside through nearest external route. [Chakrapani on Cha.Sa. Sutra Sthana 2/15] [Su.Sa.Chikitsa Sthana 33/3]. These are indicated as seasonal regimen for preservation of health and prevention of diseases. [Cha.Sa. Sutra Sthana 7/45-50]
+
+[REFERENCES / LINKS]
+[ 1 ] : https://www.carakasamhitaonline.com/index.php?title=Panchakarma#cite_note-1
+vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+basti : https://www.carakasamhitaonline.com/index.php?title=Basti
+niruha : https://www.carakasamhitaonline.com/index.php?title=Niruha&action=edit&redlink=1
+anuvasana : https://www.carakasamhitaonline.com/index.php?title=Anuvasana
+nasya : https://www.carakasamhitaonline.com/index.php?title=Nasya
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+
+
+[BLOCK 7: TABLE]
+----------------------------------------------------------------------
+[COMPLETE TABLE]
+
+Row 1:
+Column 1: Section/Chapter/topic
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Chikitsa / Panchakarma
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 2:
+Column 1: Authors
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Aneesh E.G., Deole Y.S.
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 3:
+Column 1: Reviewed by
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Basisht G.
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 4:
+Column 1: Affiliations
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Charak Samhita Research, Training and Development Centre , I.P.G.T.& R.A., Jamnagar
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 5:
+Column 1: Correspondence email:
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: carakasamhita@gmail.com
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 6:
+Column 1: Publisher
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Charak Samhita Research, Training and Development Centre , I.T.R.A., Jamnagar, India
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 7:
+Column 1: Date of first publication:
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: June 25, 2020
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 8:
+Column 1: DOI
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: 10.47468/CSNE.2020.e01.s09.024
+  Type: td, Rowspan: 1, Colspan: 1
+
+[REFERENCES / LINKS]
+Chikitsa : https://www.carakasamhitaonline.com/index.php?title=Chikitsa
+Deole Y.S. : https://www.carakasamhitaonline.com/index.php?title=Yogesh_Deole
+Basisht G. : https://www.carakasamhitaonline.com/index.php?title=Gopal_Basisht
+Charak Samhita Research, Training and Development Centre : https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre
+Charak Samhita Research, Training and Development Centre : https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre
+10.47468/CSNE.2020.e01.s09.024 : https://doi.org/10.47468/CSNE.2020.e01.s09.024
+
+
+[BLOCK 8: H2]
+----------------------------------------------------------------------
+Contents
+
+
+[BLOCK 9: UL]
+----------------------------------------------------------------------
+1. 1 Synonyms
+2. 2 Five procedures
+3. 3 Inclusion of bloodletting (raktamokshana) in panchakarma
+4. 4 Principles of panchakarma
+5. 5 General protocol for conducting panchakarma 5.1 Preparation of patient(Purvakarma) 5.2 Main procedure (Pradhana karma) 5.3 Post therapy regimen(Pashchat karma)
+6. 6 Indications 6.1 State of dosha 6.2 Person
+7. 7 Contraindications
+8. 8 Importance of Panchakarma 8.1 Importance in preservation of health and prevention of disease 8.2 Suitable seasons for purification therapy in healthy individuals 8.3 Importance in management of disease
+9. 9 Cautions in administration of panchakarma
+10. 10 Contemporary approach
+11. 11 Current researches
+12. 12 List of theses done
+13. 13 More information 13.1 Related Articles 13.2 List of references
+14. 14 References
+
+[REFERENCES / LINKS]
+1 Synonyms : https://www.carakasamhitaonline.com/index.php?title=Panchakarma#Synonyms
+2 Five procedures : https://www.carakasamhitaonline.com/index.php?title=Panchakarma#Five_procedures
+3 Inclusion of bloodletting (raktamokshana) in panchakarma : https://www.carakasamhitaonline.com/index.php?title=Panchakarma#Inclusion_of_bloodletting_(raktamokshana)_in_panchakarma
+4 Principles of panchakarma : https://www.carakasamhitaonline.com/index.php?title=Panchakarma#Principles_of_panchakarma
+5 General protocol for conducting panchakarma : https://www.carakasamhitaonline.com/index.php?title=Panchakarma#General_protocol_for_conducting_panchakarma
+5.1 Preparation of patient(Purvakarma) : https://www.carakasamhitaonline.com/index.php?title=Panchakarma#Preparation_of_patient(Purvakarma)
+5.2 Main procedure (Pradhana karma) : https://www.carakasamhitaonline.com/index.php?title=Panchakarma#Main_procedure_(Pradhana_karma)
+5.3 Post therapy regimen(Pashchat karma) : https://www.carakasamhitaonline.com/index.php?title=Panchakarma#Post_therapy_regimen(Pashchat_karma)
+6 Indications : https://www.carakasamhitaonline.com/index.php?title=Panchakarma#Indications
+6.1 State of dosha : https://www.carakasamhitaonline.com/index.php?title=Panchakarma#State_of_dosha
+6.2 Person : https://www.carakasamhitaonline.com/index.php?title=Panchakarma#Person
+7 Contraindications : https://www.carakasamhitaonline.com/index.php?title=Panchakarma#Contraindications
+8 Importance of Panchakarma : https://www.carakasamhitaonline.com/index.php?title=Panchakarma#Importance_of_Panchakarma
+8.1 Importance in preservation of health and prevention of disease : https://www.carakasamhitaonline.com/index.php?title=Panchakarma#Importance_in_preservation_of_health_and_prevention_of_disease
+8.2 Suitable seasons for purification therapy in healthy individuals : https://www.carakasamhitaonline.com/index.php?title=Panchakarma#Suitable_seasons_for_purification_therapy_in_healthy_individuals
+8.3 Importance in management of disease : https://www.carakasamhitaonline.com/index.php?title=Panchakarma#Importance_in_management_of_disease
+9 Cautions in administration of panchakarma : https://www.carakasamhitaonline.com/index.php?title=Panchakarma#Cautions_in_administration_of_panchakarma
+10 Contemporary approach : https://www.carakasamhitaonline.com/index.php?title=Panchakarma#Contemporary_approach
+11 Current researches : https://www.carakasamhitaonline.com/index.php?title=Panchakarma#Current_researches
+12 List of theses done : https://www.carakasamhitaonline.com/index.php?title=Panchakarma#List_of_theses_done
+13 More information : https://www.carakasamhitaonline.com/index.php?title=Panchakarma#More_information
+13.1 Related Articles : https://www.carakasamhitaonline.com/index.php?title=Panchakarma#Related_Articles
+13.2 List of references : https://www.carakasamhitaonline.com/index.php?title=Panchakarma#List_of_references
+14 References : https://www.carakasamhitaonline.com/index.php?title=Panchakarma#References
+
+
+[BLOCK 10: H2]
+----------------------------------------------------------------------
+Synonyms
+
+
+[BLOCK 11: UL]
+----------------------------------------------------------------------
+1. Shodhana: It literally means purification. It is the procedure by which excessively aggravated dosha are expelled out from the body. [A.H.Sutra Sthana 14/5]
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 12: UL]
+----------------------------------------------------------------------
+1. Virechana: It literally means specifically dragging outside. At some places, this term is applied to denote evacuation of dosha through upward (mouth) and downward (anus) directions. [Cha.Sa.[[Kalpa Sthana 1/4]. Mostly this term is used to denote therapeutic purgation only.
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 13: H2]
+----------------------------------------------------------------------
+Five procedures
+
+
+[BLOCK 14: OL]
+----------------------------------------------------------------------
+1. Therapeutic emesis ( Vamana )
+2. Therapeutic purgation ( Virechana )
+3. Trans nasal drug administration( Nasya )
+4. Therapeutic enema with decoction (Niruha basti )
+5. Therapeutic enema with unctuous substances (Anuvasana basti )
+6. Bloodletting ( Raktamoksha )
+
+[REFERENCES / LINKS]
+Vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+Virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+Nasya : https://www.carakasamhitaonline.com/index.php?title=Nasya
+basti : https://www.carakasamhitaonline.com/index.php?title=Basti
+basti : https://www.carakasamhitaonline.com/index.php?title=Basti
+Raktamoksha : https://www.carakasamhitaonline.com/index.php?title=Raktamoksha
+
+
+[BLOCK 15: H2]
+----------------------------------------------------------------------
+Inclusion of bloodletting ( raktamokshana ) in panchakarma
+
+[REFERENCES / LINKS]
+raktamokshana : https://www.carakasamhitaonline.com/index.php?title=Raktamokshana
+
+
+[BLOCK 16: P]
+----------------------------------------------------------------------
+There are differences in opinions about inclusion of bloodletting ( raktamokshana ) in five purification procedures. The total number remains five only as they combine two types of enema (unctuous and non-unctuous) in single procedure. [A.H.Sutra Sthana 14/5] However, this inclusion is not supported by Charak as it does not fulfill the inclusion criteria with fundamental principles of purification. The reasons are as below:
+
+[REFERENCES / LINKS]
+raktamokshana : https://www.carakasamhitaonline.com/index.php?title=Raktamokshana
+
+
+[BLOCK 17: OL]
+----------------------------------------------------------------------
+1. Panchakarma are intended to expel out dosha only. Blood ( rakta ) is a body component under category of dhatu , not dosha .
+2. The principles of purification state to take aggravated dosha from periphery (shakha) to gut (koshtha) by preparatory procedures. Then the dosha is removed through nearest external opening of body. In case of bloodletting, the dosha in periphery are removed through artificial opening created by using some instrument.
+3. Panchakarma procedures are intended towards generalized purification of whole body with additional benefits on mind and senses. However, raktamokshan mostly shows limited local benefits on purification of rakta dhatu .
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+rakta : https://www.carakasamhitaonline.com/index.php?title=Rakta
+dhatu : https://www.carakasamhitaonline.com/index.php?title=Dhatu
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+raktamokshan : https://www.carakasamhitaonline.com/index.php?title=Raktamokshan&action=edit&redlink=1
+rakta dhatu : https://www.carakasamhitaonline.com/index.php?title=Rakta_dhatu
+
+
+[BLOCK 18: H2]
+----------------------------------------------------------------------
+Principles of panchakarma
+
+
+[BLOCK 19: P]
+----------------------------------------------------------------------
+The following principles are applied in panchakarma procedures:
+
+
+[BLOCK 20: OL]
+----------------------------------------------------------------------
+1. The procedure is intended to correct imbalance in body physiology. It shall remove excessively aggravated dosha and bring them to normal state.
+2. The procedure is performed only in a state of excess aggravation (bahu dosha ) and natural tendency to get removed (utklesha) through nearest natural orifice.
+3. If the dosha are in dormant state (leena dosha ), then procedure is performed after bringing them to gut (koshtha) from periphery (shakha). The following factors lead to movement of dosha from periphery to gut. [Cha.Sa. Sutra Sthana 28/33]
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+
+
+[BLOCK 21: UL]
+----------------------------------------------------------------------
+1. Aggravation of dosha (vriddhi)
+2. Liquefaction of dosha (vishyandana)
+3. Suppuration of dosha (paka)
+4. Clearing the body channels (srotoshodhana)
+5. Pacification of vata (vayunigraha)
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+
+
+[BLOCK 22: H2]
+----------------------------------------------------------------------
+General protocol for conducting panchakarma
+
+
+[BLOCK 23: P]
+----------------------------------------------------------------------
+For safe and effective administration, each procedure is conducted in the following three steps:
+
+
+[BLOCK 24: OL]
+----------------------------------------------------------------------
+1. Preparation of patient (Purvakarma)
+2. Main procedure (Pradhanakarma)
+3. Post therapy regimen (Pashchatkarma)
+
+
+[BLOCK 25: H3]
+----------------------------------------------------------------------
+Preparation of patient(Purvakarma)
+
+
+[BLOCK 26: P]
+----------------------------------------------------------------------
+This includes the therapies prior to a panchakarma procedure. These are mainly intended for bringing dosha in gut. The general therapies are as below:
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 27: UL]
+----------------------------------------------------------------------
+1. Deepana : This is initiation and stimulation of process of digestion and metabolism
+2. Pachana : This is enhancing process of digestion specially the undigested and poorly metabolized substances ( ama )
+3. Snehana : This is oleation therapy or lubrication in the form of internal administration and external application of unctuous substances
+4. Swedana : This is sudation or fomentation
+
+[REFERENCES / LINKS]
+Deepana : https://www.carakasamhitaonline.com/index.php?title=Deepana
+Pachana : https://www.carakasamhitaonline.com/index.php?title=Pachana
+ama : https://www.carakasamhitaonline.com/index.php?title=Ama
+Snehana : https://www.carakasamhitaonline.com/index.php?title=Snehana
+Swedana : https://www.carakasamhitaonline.com/index.php?title=Swedana
+
+
+[BLOCK 28: P]
+----------------------------------------------------------------------
+These procedures are done to detach dosha from their sites of vitiation, expedite their movement and bring them to gut to get expelled out.
+Through these procedures, the doshas are liquefied and moved towards gut. This helps in removing obstruction in the body channels and pacifying vata dosha for its normal movements.
+The medicines and time span for these preparatory procedures varies according to type of procedure and biological condition of patient or individual undergoing treatment.
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+doshas : https://www.carakasamhitaonline.com/index.php?title=Dosha
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 29: H3]
+----------------------------------------------------------------------
+Main procedure (Pradhana karma)
+
+
+[BLOCK 30: P]
+----------------------------------------------------------------------
+The main procedure is performed based upon the disease conditions, site of dosha vitiation and nearest route to expel it. If a healthy person is following these procedures for preservation of health, then the general sequence includes therapeutic emesis, followed by purgation, unctuous enema, enema with decoction, trans-nasal drug administration. For management of disease, one or more procedures are performed till dosha equilibrium is achieved. Specific parameters based on end-results of dosha state (antiki), number of episodes (vegiki) and clinical features observed (laingiki) are observed during each procedure to assess efficacy of therapy.
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 31: H3]
+----------------------------------------------------------------------
+Post therapy regimen(Pashchat karma)
+
+
+[BLOCK 32: P]
+----------------------------------------------------------------------
+Specific regimen (samsarjana krama) is indicated after completion of the main procedure. The strength is weakened due to expulsion of dosha outside. Therefore, in order to regain the strength of body and correct digestion, certain guidelines in diet and lifestyle must be followed.
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 33: H2]
+----------------------------------------------------------------------
+Indications
+
+
+[BLOCK 34: P]
+----------------------------------------------------------------------
+Mainly two factors are considered before implementing panchakarma.
+
+
+[BLOCK 35: UL]
+----------------------------------------------------------------------
+1. State of dosha
+2. Suitability and strength of person/patient. This includes co-morbidities too.
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 36: H3]
+----------------------------------------------------------------------
+State of dosha
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+
+
+[BLOCK 37: UL]
+----------------------------------------------------------------------
+1. Dosha should be in excessive aggravated state. [Cha.Sa. Sutra Sthana 16/13-16]
+2. Excessive vitiation of either kapha , pitta , rakta and wastes (mala).
+3. Affliction and obstruction of Vata dosha . [Cha.Sa. Sutra Sthana 22/19]
+
+[REFERENCES / LINKS]
+Dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+rakta : https://www.carakasamhitaonline.com/index.php?title=Rakta
+Vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+
+
+[BLOCK 38: P]
+----------------------------------------------------------------------
+The state of excess aggravation of dosha is observed by following clinical features:
+
+
+[BLOCK 39: P]
+----------------------------------------------------------------------
+Indigestion, anorexia, corpulence, anemia, heaviness, exhaustion, eruption of pimples and wheals (bumps or itchy sores), pruritis, sluggishness, indolence, weakness, foul smell of the body, lassitude, precipitation (utklesha) of kapha and pitta , sleeplessness or excessive drowsiness, impotency, impediment to intelligence, inauspicious dreams, and loss of strength and complexion inspite of taking nourishing diet and correct therapy. [Cha.Sa. Sutra Sthana 16/13-15]
+
+[REFERENCES / LINKS]
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+
+
+[BLOCK 40: H3]
+----------------------------------------------------------------------
+Person
+
+
+[BLOCK 41: P]
+----------------------------------------------------------------------
+The person should have good strength in order to withstand the purificatory procedures. [Cha.Sa. Sutra Sthana 22/19]
+
+[REFERENCES / LINKS]
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+
+
+[BLOCK 42: H2]
+----------------------------------------------------------------------
+Contraindications
+
+
+[BLOCK 43: UL]
+----------------------------------------------------------------------
+1. If the dosha are not in aggravated state or are in dormant state
+2. If dosha are deep-seated inside the body channels ( srotas ) or tissues ( dhatu )
+3. If the strength of the person is less
+4. If the seasonal condition is not favorable (unless in emergency)
+5. If the patient suffers from diseases of thigh (urustambha)
+6. If the patient is not willing to undergo treatment
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+srotas : https://www.carakasamhitaonline.com/index.php?title=Srotas
+dhatu : https://www.carakasamhitaonline.com/index.php?title=Dhatu
+
+
+[BLOCK 44: H2]
+----------------------------------------------------------------------
+Importance of Panchakarma
+
+
+[BLOCK 45: UL]
+----------------------------------------------------------------------
+1. Panchakarma are indicated for purification of body, mind and senses. It helps to maintain equilibrium of body components. It is an important part in seasonal regimen for preservation of health. It eradicates diseases from their roots. Therefore, prevention of disease occurrence and recurrence is possible through panchakarma. These are preferred over pacification therapies ( shamana ) where recurrence is possible. [Cha.Sa. Sutra Sthana 16/20]
+2. Purification results in improvement in functioning of agni (factors responsible for digestion and metabolism), clarity of sense organs, mind, intellect, strength and virility [Cha.Sa. Sutra Sthana 16/17-19]
+3. Panchakarma are pre-requisite for rejuvenation ([[rasayana]) therapy. In order to get the complete benefit of rejuvenation, purification is essential. [Su.Sa.Chikitsa Sthana 27/3]
+
+[REFERENCES / LINKS]
+shamana : https://www.carakasamhitaonline.com/index.php?title=Shamana
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+
+
+[BLOCK 46: H3]
+----------------------------------------------------------------------
+Importance in preservation of health and prevention of disease
+
+
+[BLOCK 47: P]
+----------------------------------------------------------------------
+The dosha have a natural tendency to get aggravated in specific seasons due to environmental conditions. If the aggravated dosha are removed properly by following seasonal regimen, then diseases can be prevented and equilibrium of health can be maintained. [Cha.Sa. Sutra Sthana 7/46] For example, vata dosha is aggravated in early rainy season. If it is managed through administration of therapeutic enema ( basti ) in that season, then diseases due to vata dosha can be prevented. It is the best treatment to normalize vata . [Cha.Sa. Siddhi Sthana 1/40]
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+basti : https://www.carakasamhitaonline.com/index.php?title=Basti
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+Siddhi Sthana : https://www.carakasamhitaonline.com/index.php?title=Siddhi_Sthana
+
+
+[BLOCK 48: H3]
+----------------------------------------------------------------------
+Suitable seasons for purification therapy in healthy individuals
+
+
+[BLOCK 49: P]
+----------------------------------------------------------------------
+Following panchakarma procedures are indicated in seasonal regimen to preserve health. [Cha.Sa. Sutra Sthana ]7/46] [Cha.Sa. Siddhi Sthana 6/5-6]
+
+[REFERENCES / LINKS]
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+Siddhi Sthana : https://www.carakasamhitaonline.com/index.php?title=Siddhi_Sthana
+
+
+[BLOCK 50: TABLE]
+----------------------------------------------------------------------
+[COMPLETE TABLE]
+
+Row 1:
+Column 1: Season
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Month in Indian subcontinent
+  Type: th, Rowspan: 1, Colspan: 1
+Column 3: Naturally aggravated dosha
+  Type: th, Rowspan: 1, Colspan: 1
+Column 4: Prescribed therapy for purification
+  Type: th, Rowspan: 1, Colspan: 1
+
+Row 2:
+Column 1: Early rains (Pravrit)
+  Type: td, Rowspan: 1, Colspan: 1
+Column 2: Mid June to Mid August
+  Type: td, Rowspan: 1, Colspan: 1
+Column 3: Vata
+  Type: td, Rowspan: 1, Colspan: 1
+Column 4: Therapeutic enema ( basti )
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 3:
+Column 1: Autumn (Sharad)
+  Type: td, Rowspan: 1, Colspan: 1
+Column 2: Mid October to Mid December
+  Type: td, Rowspan: 1, Colspan: 1
+Column 3: Pitta
+  Type: td, Rowspan: 1, Colspan: 1
+Column 4: Therapeutic purgation ( virechana )
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 4:
+Column 1: Spring (Vasant)
+  Type: td, Rowspan: 1, Colspan: 1
+Column 2: Mid February to Mid April
+  Type: td, Rowspan: 1, Colspan: 1
+Column 3: Kapha
+  Type: td, Rowspan: 1, Colspan: 1
+Column 4: Therapeutic emesis ( vamana )
+  Type: td, Rowspan: 1, Colspan: 1
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+Vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+basti : https://www.carakasamhitaonline.com/index.php?title=Basti
+Pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+Kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+
+
+[BLOCK 51: P]
+----------------------------------------------------------------------
+Trans-nasal administration in low dose (pratimarsha nasya ) is advised as a part of daily regimen to preserve health. It has preventive and protective effect against the diseases of head and neck region. [Su.Sa.Chikitsa Sthana 40/52] The time of trans-nasal administration varies according to season.
+
+[REFERENCES / LINKS]
+nasya : https://www.carakasamhitaonline.com/index.php?title=Nasya
+
+
+[BLOCK 52: H3]
+----------------------------------------------------------------------
+Importance in management of disease
+
+
+[BLOCK 53: P]
+----------------------------------------------------------------------
+Panchakarma are indicated in management of all diseases in which the dosha are excessively aggravated and need to be removed from body. [Cha.Sa. Vimana Sthana 3/44]
+Panchakarma are administered in acute exacerbated conditions of diseases like skin diseases (kushtha) [Cha.Sa. Chikitsa Sthana 7], erysipelas(visarpa)[Cha.Sa. Chikitsa Sthana 21], diseases of three vital organs -heart, brain and kidney (tri marma )[Cha.Sa. Chikitsa Sthana 26].
+These therapies are effective in management of chronic diseases by removing toxins like ama . Panchakarma therapies like unctuous enema (anuvasana) are utilized for restoration of health. Panchakarma is helpful in the prevention of diseases, preservation and promotion of health. [ 2 ]
+
+[REFERENCES / LINKS]
+dosha : https://www.carakasamhitaonline.com/index.php?title=Dosha
+Vimana Sthana : https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana
+Chikitsa Sthana : https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana
+Chikitsa Sthana : https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana
+marma : https://www.carakasamhitaonline.com/index.php?title=Marma
+Chikitsa Sthana : https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana
+ama : https://www.carakasamhitaonline.com/index.php?title=Ama
+[ 2 ] : https://www.carakasamhitaonline.com/index.php?title=Panchakarma#cite_note-2
+
+
+[BLOCK 54: H2]
+----------------------------------------------------------------------
+Cautions in administration of panchakarma
+
+
+[BLOCK 55: P]
+----------------------------------------------------------------------
+The only contra-indication for panchakarma is urustambha (diseases of thigh). [Cha.Sa. Chikitsa Sthana 27/20-22] In this condition, only drying therapies ( rukshana ) are indicated.
+Improper administration of panchakarma procedures can lead to diseases like skin disorders [Cha.Sa. Chikitsa Sthana 7/6], diseases of digestion (grahani) [Cha.Sa. Chikitsa Sthana 15/43], disease due to vata vitiation [Cha.Sa. Chikitsa Sthana 28/15]. Excessive or inadequate administration of panchakarma also leads to complications. [Cha.Sa. Siddhi Sthana Therefore, the panchakarma shall be administered cautiously after considering all suitable factors. Otherwise it may fail to give expected results and cause complications. [Cha.Sa. Siddhi Sthana 1/59]
+
+[REFERENCES / LINKS]
+Chikitsa Sthana : https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana
+rukshana : https://www.carakasamhitaonline.com/index.php?title=Rukshana
+Chikitsa Sthana : https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana
+Chikitsa Sthana : https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana
+vata : https://www.carakasamhitaonline.com/index.php?title=Vata
+Chikitsa Sthana : https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana
+Siddhi Sthana : https://www.carakasamhitaonline.com/index.php?title=Siddhi_Sthana
+Siddhi Sthana : https://www.carakasamhitaonline.com/index.php?title=Siddhi_Sthana
+
+
+[BLOCK 56: H2]
+----------------------------------------------------------------------
+Contemporary approach
+
+
+[BLOCK 57: P]
+----------------------------------------------------------------------
+Panchakarma are popularly known as detoxification therapies, cleansing therapies, purification therapies or elimination therapies in healthcare society today. Various modifications of these procedures are in vogue.
+
+
+[BLOCK 58: P]
+----------------------------------------------------------------------
+Some scholars classify panchakarma in two categories. 1. Classical and 2. Traditional
+
+
+[BLOCK 59: P]
+----------------------------------------------------------------------
+1. Classical panchakarma therapies are followed as described in classics.
+
+
+[BLOCK 60: P]
+----------------------------------------------------------------------
+2. Traditional panchakarma therapies are modified and sophisticated external oleation and sudation therapies based on classics. These are widely publicized as Keraliya panchakarma. Some practitioners consider pouring medicated liquid on head (shiraseka), whole body (kaya seka), application of processed rice in bolus (shashtikashalipindasweda), as paste on body (anna lepa), application of herbal paste on head (shirolepa) as keraliya panchakarma. These therapies gained global recognition due to their efficacy and practices in resorts and spas. [ 3 ] However, the fundamental principles of panchakarma therapies shall always be followed to achieve maximum benefit.
+
+[REFERENCES / LINKS]
+[ 3 ] : https://www.carakasamhitaonline.com/index.php?title=Panchakarma#cite_note-3
+
+
+[BLOCK 61: H2]
+----------------------------------------------------------------------
+Current researches
+
+
+[BLOCK 62: P]
+----------------------------------------------------------------------
+Research studies show efficacy of panchakarma therapies in management of diseases.
+
+
+[BLOCK 63: UL]
+----------------------------------------------------------------------
+1. Research has shown that it reduces risk factors for heart disease [ 4 ] and decreases blood levels of fat-soluble toxins such as polychlorinated biphenyls and agrochemicals by about 50%. [ 5 ]
+2. External and internal purification therapy is found to be effective in reducing the symptoms of blistering skin disease (visphotakushtha) within a short duration with a long lasting effect. [ 6 ]
+3. Panchakarma followed by internal medications showed amelioration of motor, sensory and sphincter deficits in case of Guillain Barre syndrome. [ 7 ]
+4. Panchakarma along with internal medications showed improvement in growth and development and also reduces spasticity in spastic cerebral palsy. [ 8 ]
+5. The quality of life of patients can be improved through panchakarma procedures especially in case of skin disorders. [ 9 ]
+6. In neurodegenerative conditions like supranuclear palsy Ayurvedic treatment modalities including panchakarma is found effective in causing symptomatic improvements. [ 10 ]
+
+[REFERENCES / LINKS]
+[ 4 ] : https://www.carakasamhitaonline.com/index.php?title=Panchakarma#cite_note-4
+[ 5 ] : https://www.carakasamhitaonline.com/index.php?title=Panchakarma#cite_note-5
+[ 6 ] : https://www.carakasamhitaonline.com/index.php?title=Panchakarma#cite_note-6
+[ 7 ] : https://www.carakasamhitaonline.com/index.php?title=Panchakarma#cite_note-7
+[ 8 ] : https://www.carakasamhitaonline.com/index.php?title=Panchakarma#cite_note-8
+[ 9 ] : https://www.carakasamhitaonline.com/index.php?title=Panchakarma#cite_note-9
+[ 10 ] : https://www.carakasamhitaonline.com/index.php?title=Panchakarma#cite_note-10
+
+
+[BLOCK 64: H2]
+----------------------------------------------------------------------
+List of theses done
+
+
+[BLOCK 65: P]
+----------------------------------------------------------------------
+There are total 121 research works done on various procedures of panchakarma in last 17 years since 2001 to 2018 at Institute for post graduate teaching and research in Ayurveda, Jamnagar.
+
+
+[BLOCK 66: P]
+----------------------------------------------------------------------
+The following table shows number of research works done on each procedure:
+
+
+[BLOCK 67: TABLE]
+----------------------------------------------------------------------
+[COMPLETE TABLE]
+
+Row 1:
+Column 1: Serial NO.
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Name of procedure
+  Type: th, Rowspan: 1, Colspan: 1
+Column 3: Number of research works
+  Type: th, Rowspan: 1, Colspan: 1
+
+Row 2:
+Column 1: 1
+  Type: td, Rowspan: 1, Colspan: 1
+Column 2: Snehana
+  Type: td, Rowspan: 1, Colspan: 1
+Column 3: 11
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 3:
+Column 1: 2
+  Type: td, Rowspan: 1, Colspan: 1
+Column 2: Swedana
+  Type: td, Rowspan: 1, Colspan: 1
+Column 3: 3
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 4:
+Column 1: 3
+  Type: td, Rowspan: 1, Colspan: 1
+Column 2: Vamana
+  Type: td, Rowspan: 1, Colspan: 1
+Column 3: 17
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 5:
+Column 1: 4
+  Type: td, Rowspan: 1, Colspan: 1
+Column 2: Virechana
+  Type: td, Rowspan: 1, Colspan: 1
+Column 3: 39
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 6:
+Column 1: 5
+  Type: td, Rowspan: 1, Colspan: 1
+Column 2: Basti
+  Type: td, Rowspan: 1, Colspan: 1
+Column 3: 35
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 7:
+Column 1: 6
+  Type: td, Rowspan: 1, Colspan: 1
+Column 2: Nasya
+  Type: td, Rowspan: 1, Colspan: 1
+Column 3: 11
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 8:
+Column 1: 5
+  Type: td, Rowspan: 1, Colspan: 1
+Column 2: Raktamoksha
+  Type: td, Rowspan: 1, Colspan: 1
+Column 3: 5
+  Type: td, Rowspan: 1, Colspan: 1
+
+[REFERENCES / LINKS]
+Snehana : https://www.carakasamhitaonline.com/index.php?title=Snehana
+Swedana : https://www.carakasamhitaonline.com/index.php?title=Swedana
+Vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+Virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+Basti : https://www.carakasamhitaonline.com/index.php?title=Basti
+Nasya : https://www.carakasamhitaonline.com/index.php?title=Nasya
+Raktamoksha : https://www.carakasamhitaonline.com/index.php?title=Raktamoksha
+
+
+[BLOCK 68: P]
+----------------------------------------------------------------------
+Following list shows theses works done with emphasis on general aspects of panchakarma.
+
+
+[BLOCK 69: OL]
+----------------------------------------------------------------------
+1. Chaturvedi GN (1959): A study of panchakarma therapy vis-a-vis its physio-pathological basis.Department of Kayachikitsa, I.P.G.T. & R.A. Jamnagar
+2. Vasant Sohanlal (1960): Panchakarma shastram. Department of Kayachikitsa, I.P.G.T. & R.A. Jamnagar
+3. Parashar BN (1965): Sodhanam dosha nirghatanam. Department of Kayachikitsa, I.P.G.T. & R.A. Jamnagar
+4. Selote SB (1962): Elimination therapy.Department of Kayachikitsa, I.P.G.T. & R.A. Jamnagar
+5. Ramu MG (1966): Diseases of raktavaha srotasa and shodhana therapy.Department of Kayachikitsa, I.P.G.T. & R.A. Jamnagar
+6. Arunachalam S (1969): Sanshodhana sanshamana chikitsa in agnimandya. Department of Kayachikitsa, I.P.G.T. & R.A. Jamnagar
+7. Pilapitiya U (1969): Sanshodhana and sanshamanachikitsa in amlapitta.Department of Kayachikitsa, I.P.G.T. & R.A. Jamnagar
+8. Vidya Shekar MS (1971): Shodhanaupakrama for tridosha.Department of Kayachikitsa, I.P.G.T. & R.A. Jamnagar
+9. Misha SK (1988): A clinical study on the role of shodhana in the management of vicharchika.Department of Kayachikitsa, I.P.G.T. & R.A. Jamnagar
+10. Moradia Ghanshyam (1990): A comparative study on the role of shodhana and shaman therapies of gridhrasi (sciatica).Department of Kayachikitsa, I.P.G.T. & R.A. Jamnagar
+11. ManoranjanSahu (2002): A critical study on aetiopathogenesis of Gridhrasi and its management with Rasna Guggulu along with shodhana therapy.Department of Kayachikitsa, I.P.G.T. & R.A. Jamnagar
+12. Nakum Sudha K (2003): Comparative study of the role of Shamana (Rasayana) and Shodhana therapy in Vicharchika. Department of Kayachikitsa, I.P.G.T. & R.A. Jamnagar
+
+
+[BLOCK 70: H2]
+----------------------------------------------------------------------
+More information
+
+
+[BLOCK 71: P]
+----------------------------------------------------------------------
+Apamarga Tanduliya Adhyaya , Snehadhyaya , Swedadhyaya , Upakalpaniya Adhyaya , Chikitsaprabhritiya Adhyaya , Kalpana Siddhi , Panchakarmiya Siddhi , Bastisutriyam Siddhi , Snehavyapat Siddhi , Netrabastivyapat Siddhi , Vamana Virechana Vyapat Siddhi , Bastivyapat Siddhi , Prasrita Yogiyam Siddhi , Trimarmiya Siddhi , Basti Siddhi , Phalamatra Siddhi , Uttar Basti Siddhi
+
+[REFERENCES / LINKS]
+Apamarga Tanduliya Adhyaya : https://www.carakasamhitaonline.com/index.php?title=Apamarga_Tanduliya_Adhyaya
+Snehadhyaya : https://www.carakasamhitaonline.com/index.php?title=Snehadhyaya
+Swedadhyaya : https://www.carakasamhitaonline.com/index.php?title=Swedadhyaya
+Upakalpaniya Adhyaya : https://www.carakasamhitaonline.com/index.php?title=Upakalpaniya_Adhyaya
+Chikitsaprabhritiya Adhyaya : https://www.carakasamhitaonline.com/index.php?title=Chikitsaprabhritiya_Adhyaya
+Kalpana Siddhi : https://www.carakasamhitaonline.com/index.php?title=Kalpana_Siddhi
+Panchakarmiya Siddhi : https://www.carakasamhitaonline.com/index.php?title=Panchakarmiya_Siddhi
+Bastisutriyam Siddhi : https://www.carakasamhitaonline.com/index.php?title=Bastisutriyam_Siddhi
+Snehavyapat Siddhi : https://www.carakasamhitaonline.com/index.php?title=Snehavyapat_Siddhi
+Netrabastivyapat Siddhi : https://www.carakasamhitaonline.com/index.php?title=Netrabastivyapat_Siddhi
+Vamana Virechana Vyapat Siddhi : https://www.carakasamhitaonline.com/index.php?title=Vamana_Virechana_Vyapat_Siddhi
+Bastivyapat Siddhi : https://www.carakasamhitaonline.com/index.php?title=Bastivyapat_Siddhi
+Prasrita Yogiyam Siddhi : https://www.carakasamhitaonline.com/index.php?title=Prasrita_Yogiyam_Siddhi
+Trimarmiya Siddhi : https://www.carakasamhitaonline.com/index.php?title=Trimarmiya_Siddhi
+Basti Siddhi : https://www.carakasamhitaonline.com/index.php?title=Basti_Siddhi
+Phalamatra Siddhi : https://www.carakasamhitaonline.com/index.php?title=Phalamatra_Siddhi
+Uttar Basti Siddhi : https://www.carakasamhitaonline.com/index.php?title=Uttar_Basti_Siddhi
+
+
+[BLOCK 72: H3]
+----------------------------------------------------------------------
+Related Articles
+
+
+[BLOCK 73: P]
+----------------------------------------------------------------------
+Vamana Virechana Basti Nasya Raktamoksha Snehana Swedana
+
+[REFERENCES / LINKS]
+Vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+Virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+Basti : https://www.carakasamhitaonline.com/index.php?title=Basti
+Nasya : https://www.carakasamhitaonline.com/index.php?title=Nasya
+Raktamoksha : https://www.carakasamhitaonline.com/index.php?title=Raktamoksha
+Snehana : https://www.carakasamhitaonline.com/index.php?title=Snehana
+Swedana : https://www.carakasamhitaonline.com/index.php?title=Swedana
+
+
+[BLOCK 74: H3]
+----------------------------------------------------------------------
+List of references
+
+
+[BLOCK 75: P]
+----------------------------------------------------------------------
+The list of references for Panchakarma in Charak Samhita can be seen here
+
+[REFERENCES / LINKS]
+here : https://www.carakasamhitaonline.com/images/4/40/References_of_word_Panchakarma_in_Charak_Samhita.pdf
+
+
+[BLOCK 76: P]
+----------------------------------------------------------------------
+Send us your suggestions and feedback on this page.
+
+[REFERENCES / LINKS]
+Send us your suggestions and feedback on this page. : https://www.carakasamhitaonline.com/index.php?title=Special:ContactMe
+
+
+[BLOCK 77: H2]
+----------------------------------------------------------------------
+References
+
+
+[BLOCK 78: TEXT]
+----------------------------------------------------------------------
+Back to the Top
+
+
+[BLOCK 79: OL]
+----------------------------------------------------------------------
+1. ↑ Monier-Williams, Monier-Williams Sanskrit- English Dictionary, 1st edition; Oxford University Press, Karman, Page 258
+2. ↑ Sharma H., Chandola H.M., Singh G., Basisht G. Utilization of Ayurveda in health care: an approach for prevention, health promotion, and treatment of disease. Part 1 – Ayurveda in primary health care. J Altern Complement Med. 2007;13(9):1011–1019.
+3. ↑ Patil Vasant. Principles and Practice of Panchakarma.Ilkal, India: Atreya Ayurveda publications,2011.pg.7.
+4. ↑ Sharma HM, Nidich SI, Sands D, Smith DE. Improvement in cardiovascular risk factors through Panchakarma purification procedures. J Res Educ Indian Med 1993;12:2–13.
+5. ↑ Herron RE, Fagan JB. Lipophil-mediated reduction of toxicants in humans: An evaluation of an Ayurvedic detoxification procedure. Altern Ther Health Med 2002;8:40–51.
+6. ↑ Aiswarya IV, Parameswaran Namboothiri K, Anandaraman PV. Effect of multi-modality Ayurvedic treatment in a case of Visphota kushta. J Ayurveda Integr Med. 2019 Jul - Sep;10(3):207-213. doi: 10.1016/j.jaim.2018.06.005.
+7. ↑ Basavaraj R Tubaki, Shruti Tarapure. Ayurveda management of Gullian Barre syndrome: A case report. J Ayurveda Integr Med. 2020 Jan - Mar;11(1):73-77. doi: 10.1016/j.jaim.2018.08.004. Epub 2019 Jan 18
+8. ↑ Sagar M Bhinde, Kalpana S Patel et al. Management of Spactic cerebral palsy through multiple Ayurveda treatment modalities. Ayu. 2014 Oct-Dec; 35(4): 462–466. doi: 10.4103/0974-8520.159044
+9. ↑ Harish Deshpande, Shivkumar et al. Assessment of quality of life in patients with skin disorders undergoing Ayurvedic Panchakarma (biopurification) as management. J Evid Based Complementary Altern Med. 2016 Jul;21(3):215-20. doi: 10.1177/2156587215615026. Epub 2015 Nov 12.
+10. ↑ Nitin Jindal, Manoj K et al. Efficacy of Ayurvedic treatment using Panchakarma combined with balance exercises for disability and balance in progressive supranuclear palsy. Anc Sci Life. 2012 Jul;32(1):54-8. doi: 10.4103/0257-7941.113793.
+
+[REFERENCES / LINKS]
+↑ : https://www.carakasamhitaonline.com/index.php?title=Panchakarma#cite_ref-1
+↑ : https://www.carakasamhitaonline.com/index.php?title=Panchakarma#cite_ref-2
+↑ : https://www.carakasamhitaonline.com/index.php?title=Panchakarma#cite_ref-3
+↑ : https://www.carakasamhitaonline.com/index.php?title=Panchakarma#cite_ref-4
+↑ : https://www.carakasamhitaonline.com/index.php?title=Panchakarma#cite_ref-5
+↑ : https://www.carakasamhitaonline.com/index.php?title=Panchakarma#cite_ref-6
+↑ : https://www.carakasamhitaonline.com/index.php?title=Panchakarma#cite_ref-7
+↑ : https://www.carakasamhitaonline.com/index.php?title=Panchakarma#cite_ref-8
+↑ : https://www.carakasamhitaonline.com/index.php?title=Panchakarma#cite_ref-9
+↑ : https://www.carakasamhitaonline.com/index.php?title=Panchakarma#cite_ref-10
+
+
+[BLOCK 80: TEXT]
+----------------------------------------------------------------------
+NewPP limit report
+Cached time: 20261118221243
+Cache expiry: 86400
+Reduced expiry: false
+Complications: [vary‐revision‐id, show‐toc]
+CPU time usage: 0.066 seconds
+Real time usage: 0.279 seconds
+Preprocessor visited node count: 281/1000000
+Post‐expand include size: 2025/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 3/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1553/5000000 bytes
+Lua time usage: 0.060/7 seconds
+Lua virtual size: 20336640/209715200 bytes
+Lua estimated memory usage: 0 bytes
+
+
+[BLOCK 81: TEXT]
+----------------------------------------------------------------------
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 242.656 1 -total
+94.58% 229.499 1 Template:Infobox
+3.12% 7.566 1 Template:CiteButton
+
+
+[BLOCK 82: TEXT]
+----------------------------------------------------------------------
+Saved in parser cache with key carakas1_carakasa:pcache:idhash:2241-0!canonical and timestamp 20261118221243 and revision id 44725. Rendering was triggered because: diff-page
+
+
+[BLOCK 83: TEXT]
+----------------------------------------------------------------------
+Retrieved from "
+
+
+[BLOCK 84: TEXT]
+----------------------------------------------------------------------
+https://www.carakasamhitaonline.com/index.php?title=Panchakarma&oldid=44725
+
+
+[BLOCK 85: TEXT]
+----------------------------------------------------------------------
+"
+
+
+==========================================================================================
+END OF CHAPTER
+==========================================================================================

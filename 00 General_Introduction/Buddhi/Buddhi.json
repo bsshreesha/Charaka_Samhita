@@ -1,0 +1,3011 @@
+{
+    "source": "Charaka Samhita",
+    "chapter": "Buddhi",
+    "chapter_id": "Buddhi",
+    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi",
+    "xpath": "//*[@id=\"content\"]",
+    "extraction_date": "2026-11-19T10:30:03",
+    "total_blocks": 125,
+    "total_tables": 3,
+    "total_headings": 29,
+    "total_paragraphs": 63,
+    "content": [
+        {
+            "type": "h1",
+            "text": "Buddhi",
+            "html": "<h1 class=\"firstHeading mw-first-heading\" id=\"firstHeading\"><span class=\"mw-page-title-main\">Buddhi</span></h1>",
+            "links": [],
+            "images": [],
+            "level": 1
+        },
+        {
+            "type": "text",
+            "text": "From Charak Samhita"
+        },
+        {
+            "type": "text",
+            "text": "Jump to navigation"
+        },
+        {
+            "type": "text",
+            "text": "Jump to search"
+        },
+        {
+            "type": "figure",
+            "text": "",
+            "html": "<figure class=\"mw-default-size mw-halign-right\" typeof=\"mw:File\"><a href=\"https://www.charakasamhitauptodate.com/index.php?title=Special:CiteThisPage&amp;page=Buddhi&amp;id=44668&amp;wpFormIdentifier=titleform\" rel=\"nofollow\"><img class=\"mw-file-element\" decoding=\"async\" height=\"47\" src=\"/images/5/58/Cite.png\" width=\"180\"/></a><figcaption></figcaption></figure>",
+            "links": [
+                {
+                    "text": "",
+                    "url": "https://www.charakasamhitauptodate.com/index.php?title=Special:CiteThisPage&page=Buddhi&id=44668&wpFormIdentifier=titleform"
+                }
+            ],
+            "images": [
+                {
+                    "url": "https://www.carakasamhitaonline.com/images/5/58/Cite.png",
+                    "alt": "",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "The word ‘buddhi’ refers to the intelligence of a person. [Cha. Sa. Sutra Sthana 1/32], [Cha. Sa. Sutra Sthana 15/5] Buddhi (intellect) is the power of forming and retaining conceptions and general notions.(SAT-A.159) [ 1 ] It includes perception, comprehension, understanding, and knowledge. Intellect is the ability of the mind to reach a correct conclusion about true and false and solve problems. [ 2 ] Dhee (intellect), dhriti (restraint), and smriti (memory) are three faculties responsible for intelligence. All the universe is a teacher for a person with sharp intelligence. Self can learn everything by the power of intellect. [Cha. Sa. Vimana Sthana 8/14] One can acquire knowledge, even beyond the limit of senses, with the help of intelligence. [Cha. Sa. Sutra Sthana 11/7] This article describes the concept of buddhi (intellect) in Ayurveda , its application in medical practices, and its relevance in healthcare management.",
+            "html": "<p style=\"text-align:justify;\">The word ‘buddhi’ refers to the intelligence of a person. [Cha. Sa. <a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 1/32], [Cha. Sa. <a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 15/5]\n<br/>Buddhi (intellect) is the power of forming and retaining conceptions and general notions.(SAT-A.159)<sup class=\"reference\" id=\"cite_ref-1\"><a href=\"#cite_note-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup> It includes perception, comprehension, understanding, and knowledge. Intellect is the ability of the mind to reach a correct conclusion about true and false and solve problems.<sup class=\"reference\" id=\"cite_ref-2\"><a href=\"#cite_note-2\"><span class=\"cite-bracket\">[</span>2<span class=\"cite-bracket\">]</span></a></sup>Dhee (intellect), dhriti (restraint), and <a href=\"/index.php?title=Smruti_(memory)\" title=\"Smruti (memory)\">smriti</a> (memory) are three faculties responsible for intelligence. \n<br/>\nAll the universe is a teacher for a person with sharp intelligence. Self can learn everything by the power of intellect. [Cha. Sa. <a href=\"/index.php?title=Vimana_Sthana\" title=\"Vimana Sthana\">Vimana Sthana</a> 8/14] One can acquire knowledge, even beyond the limit of senses, with the help of intelligence. [Cha. Sa. <a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 11/7] This article describes the concept of buddhi (intellect) in <a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a>, its application in medical practices, and its relevance in healthcare management.\n</p>",
+            "links": [
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "[ 1 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_note-1"
+                },
+                {
+                    "text": "[ 2 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_note-2"
+                },
+                {
+                    "text": "smriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Smruti_(memory)"
+                },
+                {
+                    "text": "Vimana Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "Ayurveda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayurveda"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "Section/Chapter/topic",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Sharira / Buddhi",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Sharira",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Authors",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Deole Y.S. , Anagha S.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Deole Y.S.",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Yogesh_Deole"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Reviewer and Editor",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Basisht G.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Basisht G.",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Gopal_Basisht"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Affiliations",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Charak Samhita Research, Training and Development Centre , I.T.& R.A., Jamnagar, India",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Charak Samhita Research, Training and Development Centre",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Correspondence email",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "carakasamhita@gmail.com",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Publisher",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Charak Samhita Research, Training and Development Centre , I.T.R.A., Jamnagar, India",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Charak Samhita Research, Training and Development Centre",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Date of first publication:",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "July 04, 2021",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "DOI",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "10.47468/CSNE.2021.e01.s09.064",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ]
+            ],
+            "html": "<table class=\"infobox\" style=\"width:22em\"><caption>Contributors</caption><tbody><tr><th scope=\"row\">Section/Chapter/topic</th><td>\n<a href=\"/index.php?title=Sharira\" title=\"Sharira\">Sharira</a> / <a class=\"mw-selflink selflink\">Buddhi</a></td></tr><tr><th scope=\"row\">Authors</th><td>\n<a href=\"/index.php?title=Yogesh_Deole\" title=\"Yogesh Deole\">Deole Y.S.</a>, Anagha S.</td></tr><tr><th scope=\"row\">Reviewer and Editor</th><td>\n<a href=\"/index.php?title=Gopal_Basisht\" title=\"Gopal Basisht\">Basisht G.</a></td></tr><tr><th scope=\"row\">Affiliations</th><td>\n<a class=\"mw-redirect\" href=\"/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre\" title=\"Charak Samhita Research, Training and Development Centre\">Charak Samhita Research, Training and Development Centre</a>, I.T.&amp; R.A., Jamnagar, India</td></tr><tr><th scope=\"row\">Correspondence email</th><td>\ncarakasamhita@gmail.com</td></tr><tr><th scope=\"row\">Publisher</th><td>\n<a class=\"mw-redirect\" href=\"/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre\" title=\"Charak Samhita Research, Training and Development Centre\">Charak Samhita Research, Training and Development Centre</a>, I.T.R.A., Jamnagar, India</td></tr><tr><th scope=\"row\">Date of first publication:</th><td>\nJuly 04, 2021</td></tr><tr><th scope=\"row\">DOI</th><td>\n10.47468/CSNE.2021.e01.s09.064</td></tr></tbody></table>",
+            "links": [
+                {
+                    "text": "Sharira",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira"
+                },
+                {
+                    "text": "Deole Y.S.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Yogesh_Deole"
+                },
+                {
+                    "text": "Basisht G.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Gopal_Basisht"
+                },
+                {
+                    "text": "Charak Samhita Research, Training and Development Centre",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre"
+                },
+                {
+                    "text": "Charak Samhita Research, Training and Development Centre",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre"
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Contents",
+            "html": "<h2 id=\"mw-toc-heading\">Contents</h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ul",
+            "text": "1 Importance of intellect in preservation of health 2 Etymology and derivation 3 Synonyms 4 Contextual meanings 5 Classification 6 Three categories of learners: 6.1 Intelligence quotient (IQ) 7 Anatomical aspects of buddhi 7.1 Embryological development 7.2 Site of buddhi 7.3 Anatomical considerations of intelligence 7.4 Sensory perceptions 8 Physiological aspects of buddhi 8.1 Physiology of cognition in Ayurveda 9 Importance in diagnosis of diseases 9.1 Importance of buddhi in etio-pathogenesis 10 Importance in management of disease 11 Importance in healthcare management and teaching 11.1 Role of intelligence (buddhi) of physician 12 Importance of diet and nutrition in promoting intelligence 12.1 Herbs for promotion of intelligence: 12.2 Rasayana promoting intellectual functions (medhya rasayana): 13 Activities promoting intelligence 14 Current researches 15 Theses done 16 Related Chapters 17 References",
+            "html": "<ul>\n<li class=\"toclevel-1 tocsection-1\"><a href=\"#Importance_of_intellect_in_preservation_of_health\"><span class=\"tocnumber\">1</span> <span class=\"toctext\">Importance of intellect in preservation of health</span></a></li>\n<li class=\"toclevel-1 tocsection-2\"><a href=\"#Etymology_and_derivation\"><span class=\"tocnumber\">2</span> <span class=\"toctext\">Etymology and derivation</span></a></li>\n<li class=\"toclevel-1 tocsection-3\"><a href=\"#Synonyms\"><span class=\"tocnumber\">3</span> <span class=\"toctext\">Synonyms</span></a></li>\n<li class=\"toclevel-1 tocsection-4\"><a href=\"#Contextual_meanings\"><span class=\"tocnumber\">4</span> <span class=\"toctext\">Contextual meanings</span></a></li>\n<li class=\"toclevel-1 tocsection-5\"><a href=\"#Classification\"><span class=\"tocnumber\">5</span> <span class=\"toctext\">Classification</span></a></li>\n<li class=\"toclevel-1 tocsection-6\"><a href=\"#Three_categories_of_learners:\"><span class=\"tocnumber\">6</span> <span class=\"toctext\">Three categories of learners:</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-7\"><a href=\"#Intelligence_quotient_(IQ)\"><span class=\"tocnumber\">6.1</span> <span class=\"toctext\">Intelligence quotient (IQ)</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-8\"><a href=\"#Anatomical_aspects_of_buddhi\"><span class=\"tocnumber\">7</span> <span class=\"toctext\">Anatomical aspects of buddhi</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-9\"><a href=\"#Embryological_development\"><span class=\"tocnumber\">7.1</span> <span class=\"toctext\">Embryological development</span></a></li>\n<li class=\"toclevel-2 tocsection-10\"><a href=\"#Site_of_buddhi\"><span class=\"tocnumber\">7.2</span> <span class=\"toctext\">Site of buddhi</span></a></li>\n<li class=\"toclevel-2 tocsection-11\"><a href=\"#Anatomical_considerations_of_intelligence\"><span class=\"tocnumber\">7.3</span> <span class=\"toctext\">Anatomical considerations of intelligence</span></a></li>\n<li class=\"toclevel-2 tocsection-12\"><a href=\"#Sensory_perceptions\"><span class=\"tocnumber\">7.4</span> <span class=\"toctext\">Sensory perceptions</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-13\"><a href=\"#Physiological_aspects_of_buddhi\"><span class=\"tocnumber\">8</span> <span class=\"toctext\">Physiological aspects of buddhi</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-14\"><a href=\"#Physiology_of_cognition_in_Ayurveda\"><span class=\"tocnumber\">8.1</span> <span class=\"toctext\">Physiology of cognition in Ayurveda</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-15\"><a href=\"#Importance_in_diagnosis_of_diseases\"><span class=\"tocnumber\">9</span> <span class=\"toctext\">Importance in diagnosis of diseases</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-16\"><a href=\"#Importance_of_buddhi_in_etio-pathogenesis\"><span class=\"tocnumber\">9.1</span> <span class=\"toctext\">Importance of buddhi in etio-pathogenesis</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-17\"><a href=\"#Importance_in_management_of_disease\"><span class=\"tocnumber\">10</span> <span class=\"toctext\">Importance in management of disease</span></a></li>\n<li class=\"toclevel-1 tocsection-18\"><a href=\"#Importance_in_healthcare_management_and_teaching\"><span class=\"tocnumber\">11</span> <span class=\"toctext\">Importance in healthcare management and teaching</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-19\"><a href=\"#Role_of_intelligence_(buddhi)_of_physician\"><span class=\"tocnumber\">11.1</span> <span class=\"toctext\">Role of intelligence (buddhi) of physician</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-20\"><a href=\"#Importance_of_diet_and_nutrition_in_promoting_intelligence\"><span class=\"tocnumber\">12</span> <span class=\"toctext\">Importance of diet and nutrition in promoting intelligence</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-21\"><a href=\"#Herbs_for_promotion_of_intelligence:\"><span class=\"tocnumber\">12.1</span> <span class=\"toctext\">Herbs for promotion of intelligence:</span></a></li>\n<li class=\"toclevel-2 tocsection-22\"><a href=\"#Rasayana_promoting_intellectual_functions_(medhya_rasayana):\"><span class=\"tocnumber\">12.2</span> <span class=\"toctext\">Rasayana promoting intellectual functions (medhya rasayana):</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-23\"><a href=\"#Activities_promoting_intelligence\"><span class=\"tocnumber\">13</span> <span class=\"toctext\">Activities promoting intelligence</span></a></li>\n<li class=\"toclevel-1 tocsection-24\"><a href=\"#Current_researches\"><span class=\"tocnumber\">14</span> <span class=\"toctext\">Current researches</span></a></li>\n<li class=\"toclevel-1 tocsection-25\"><a href=\"#Theses_done\"><span class=\"tocnumber\">15</span> <span class=\"toctext\">Theses done</span></a></li>\n<li class=\"toclevel-1 tocsection-26\"><a href=\"#Related_Chapters\"><span class=\"tocnumber\">16</span> <span class=\"toctext\">Related Chapters</span></a></li>\n<li class=\"toclevel-1 tocsection-27\"><a href=\"#References\"><span class=\"tocnumber\">17</span> <span class=\"toctext\">References</span></a></li>\n</ul>",
+            "links": [
+                {
+                    "text": "1 Importance of intellect in preservation of health",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#Importance_of_intellect_in_preservation_of_health"
+                },
+                {
+                    "text": "2 Etymology and derivation",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#Etymology_and_derivation"
+                },
+                {
+                    "text": "3 Synonyms",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#Synonyms"
+                },
+                {
+                    "text": "4 Contextual meanings",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#Contextual_meanings"
+                },
+                {
+                    "text": "5 Classification",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#Classification"
+                },
+                {
+                    "text": "6 Three categories of learners:",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#Three_categories_of_learners:"
+                },
+                {
+                    "text": "6.1 Intelligence quotient (IQ)",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#Intelligence_quotient_(IQ)"
+                },
+                {
+                    "text": "7 Anatomical aspects of buddhi",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#Anatomical_aspects_of_buddhi"
+                },
+                {
+                    "text": "7.1 Embryological development",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#Embryological_development"
+                },
+                {
+                    "text": "7.2 Site of buddhi",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#Site_of_buddhi"
+                },
+                {
+                    "text": "7.3 Anatomical considerations of intelligence",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#Anatomical_considerations_of_intelligence"
+                },
+                {
+                    "text": "7.4 Sensory perceptions",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#Sensory_perceptions"
+                },
+                {
+                    "text": "8 Physiological aspects of buddhi",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#Physiological_aspects_of_buddhi"
+                },
+                {
+                    "text": "8.1 Physiology of cognition in Ayurveda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#Physiology_of_cognition_in_Ayurveda"
+                },
+                {
+                    "text": "9 Importance in diagnosis of diseases",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#Importance_in_diagnosis_of_diseases"
+                },
+                {
+                    "text": "9.1 Importance of buddhi in etio-pathogenesis",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#Importance_of_buddhi_in_etio-pathogenesis"
+                },
+                {
+                    "text": "10 Importance in management of disease",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#Importance_in_management_of_disease"
+                },
+                {
+                    "text": "11 Importance in healthcare management and teaching",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#Importance_in_healthcare_management_and_teaching"
+                },
+                {
+                    "text": "11.1 Role of intelligence (buddhi) of physician",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#Role_of_intelligence_(buddhi)_of_physician"
+                },
+                {
+                    "text": "12 Importance of diet and nutrition in promoting intelligence",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#Importance_of_diet_and_nutrition_in_promoting_intelligence"
+                },
+                {
+                    "text": "12.1 Herbs for promotion of intelligence:",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#Herbs_for_promotion_of_intelligence:"
+                },
+                {
+                    "text": "12.2 Rasayana promoting intellectual functions (medhya rasayana):",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#Rasayana_promoting_intellectual_functions_(medhya_rasayana):"
+                },
+                {
+                    "text": "13 Activities promoting intelligence",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#Activities_promoting_intelligence"
+                },
+                {
+                    "text": "14 Current researches",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#Current_researches"
+                },
+                {
+                    "text": "15 Theses done",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#Theses_done"
+                },
+                {
+                    "text": "16 Related Chapters",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#Related_Chapters"
+                },
+                {
+                    "text": "17 References",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#References"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "1 Importance of intellect in preservation of health",
+                    "links": [
+                        {
+                            "text": "1 Importance of intellect in preservation of health",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#Importance_of_intellect_in_preservation_of_health"
+                        }
+                    ]
+                },
+                {
+                    "text": "2 Etymology and derivation",
+                    "links": [
+                        {
+                            "text": "2 Etymology and derivation",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#Etymology_and_derivation"
+                        }
+                    ]
+                },
+                {
+                    "text": "3 Synonyms",
+                    "links": [
+                        {
+                            "text": "3 Synonyms",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#Synonyms"
+                        }
+                    ]
+                },
+                {
+                    "text": "4 Contextual meanings",
+                    "links": [
+                        {
+                            "text": "4 Contextual meanings",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#Contextual_meanings"
+                        }
+                    ]
+                },
+                {
+                    "text": "5 Classification",
+                    "links": [
+                        {
+                            "text": "5 Classification",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#Classification"
+                        }
+                    ]
+                },
+                {
+                    "text": "6 Three categories of learners: 6.1 Intelligence quotient (IQ)",
+                    "links": [
+                        {
+                            "text": "6 Three categories of learners:",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#Three_categories_of_learners:"
+                        },
+                        {
+                            "text": "6.1 Intelligence quotient (IQ)",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#Intelligence_quotient_(IQ)"
+                        }
+                    ]
+                },
+                {
+                    "text": "7 Anatomical aspects of buddhi 7.1 Embryological development 7.2 Site of buddhi 7.3 Anatomical considerations of intelligence 7.4 Sensory perceptions",
+                    "links": [
+                        {
+                            "text": "7 Anatomical aspects of buddhi",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#Anatomical_aspects_of_buddhi"
+                        },
+                        {
+                            "text": "7.1 Embryological development",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#Embryological_development"
+                        },
+                        {
+                            "text": "7.2 Site of buddhi",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#Site_of_buddhi"
+                        },
+                        {
+                            "text": "7.3 Anatomical considerations of intelligence",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#Anatomical_considerations_of_intelligence"
+                        },
+                        {
+                            "text": "7.4 Sensory perceptions",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#Sensory_perceptions"
+                        }
+                    ]
+                },
+                {
+                    "text": "8 Physiological aspects of buddhi 8.1 Physiology of cognition in Ayurveda",
+                    "links": [
+                        {
+                            "text": "8 Physiological aspects of buddhi",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#Physiological_aspects_of_buddhi"
+                        },
+                        {
+                            "text": "8.1 Physiology of cognition in Ayurveda",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#Physiology_of_cognition_in_Ayurveda"
+                        }
+                    ]
+                },
+                {
+                    "text": "9 Importance in diagnosis of diseases 9.1 Importance of buddhi in etio-pathogenesis",
+                    "links": [
+                        {
+                            "text": "9 Importance in diagnosis of diseases",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#Importance_in_diagnosis_of_diseases"
+                        },
+                        {
+                            "text": "9.1 Importance of buddhi in etio-pathogenesis",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#Importance_of_buddhi_in_etio-pathogenesis"
+                        }
+                    ]
+                },
+                {
+                    "text": "10 Importance in management of disease",
+                    "links": [
+                        {
+                            "text": "10 Importance in management of disease",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#Importance_in_management_of_disease"
+                        }
+                    ]
+                },
+                {
+                    "text": "11 Importance in healthcare management and teaching 11.1 Role of intelligence (buddhi) of physician",
+                    "links": [
+                        {
+                            "text": "11 Importance in healthcare management and teaching",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#Importance_in_healthcare_management_and_teaching"
+                        },
+                        {
+                            "text": "11.1 Role of intelligence (buddhi) of physician",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#Role_of_intelligence_(buddhi)_of_physician"
+                        }
+                    ]
+                },
+                {
+                    "text": "12 Importance of diet and nutrition in promoting intelligence 12.1 Herbs for promotion of intelligence: 12.2 Rasayana promoting intellectual functions (medhya rasayana):",
+                    "links": [
+                        {
+                            "text": "12 Importance of diet and nutrition in promoting intelligence",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#Importance_of_diet_and_nutrition_in_promoting_intelligence"
+                        },
+                        {
+                            "text": "12.1 Herbs for promotion of intelligence:",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#Herbs_for_promotion_of_intelligence:"
+                        },
+                        {
+                            "text": "12.2 Rasayana promoting intellectual functions (medhya rasayana):",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#Rasayana_promoting_intellectual_functions_(medhya_rasayana):"
+                        }
+                    ]
+                },
+                {
+                    "text": "13 Activities promoting intelligence",
+                    "links": [
+                        {
+                            "text": "13 Activities promoting intelligence",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#Activities_promoting_intelligence"
+                        }
+                    ]
+                },
+                {
+                    "text": "14 Current researches",
+                    "links": [
+                        {
+                            "text": "14 Current researches",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#Current_researches"
+                        }
+                    ]
+                },
+                {
+                    "text": "15 Theses done",
+                    "links": [
+                        {
+                            "text": "15 Theses done",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#Theses_done"
+                        }
+                    ]
+                },
+                {
+                    "text": "16 Related Chapters",
+                    "links": [
+                        {
+                            "text": "16 Related Chapters",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#Related_Chapters"
+                        }
+                    ]
+                },
+                {
+                    "text": "17 References",
+                    "links": [
+                        {
+                            "text": "17 References",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#References"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Importance of intellect in preservation of health",
+            "html": "<h2><span class=\"mw-headline\" id=\"Importance_of_intellect_in_preservation_of_health\">Importance of intellect in preservation of health</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "The lifestyle of an individual depends upon his choices of daily living and habits. The intellect plays a key role in the decision-making of an individual. It differentiates between good and bad, beneficial and harmful perceived information. Then acquires the good and beneficial things for the preservation of health. In an abnormal state of intellect ( prajnaparadha ), the person indulges in bad and harmful objects. This disorganization of selection, discrimination and decision process leads to diseases. Prajnaparadha is one of the fundamental causes of disease. [Cha.Sa. Sutra Sthana 11/43]",
+            "html": "<p>The lifestyle of an individual depends upon his choices of daily living and habits. The intellect plays a key role in the decision-making of an individual. It differentiates between good and bad, beneficial and harmful perceived information. Then acquires the good and beneficial things for the preservation of health. In an abnormal state of intellect (<a href=\"/index.php?title=Prajnaparadha\" title=\"Prajnaparadha\">prajnaparadha</a>), the person indulges in bad and harmful objects. This disorganization of selection, discrimination and decision process leads to diseases. <a href=\"/index.php?title=Prajnaparadha\" title=\"Prajnaparadha\">Prajnaparadha</a> is one of the fundamental causes of disease. [Cha.Sa. <a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 11/43]\n</p>",
+            "links": [
+                {
+                    "text": "prajnaparadha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha"
+                },
+                {
+                    "text": "Prajnaparadha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "One who is endowed with excellent intellectual faculty, submissive mind , clear understanding and knowledge that results in positive speech and actions is not affected by diseases . [Cha. Sa. Sharira Sthana 2/47] Therefore, the preservation of buddhi is crucial for the preservation of health and prevention of diseases .",
+            "html": "<p>One who is endowed with excellent intellectual faculty, submissive <a href=\"/index.php?title=Manas\" title=\"Manas\">mind</a>, clear understanding and knowledge that results in positive speech and actions is not affected by <a href=\"/index.php?title=Vyadhi\" title=\"Vyadhi\">diseases</a>. [Cha. Sa. <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 2/47] Therefore, the preservation of buddhi is crucial for the preservation of <a href=\"/index.php?title=Health\" title=\"Health\">health</a> and prevention of <a href=\"/index.php?title=Vyadhi\" title=\"Vyadhi\">diseases</a>. \n</p>",
+            "links": [
+                {
+                    "text": "mind",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Manas"
+                },
+                {
+                    "text": "diseases",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vyadhi"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                },
+                {
+                    "text": "health",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Health"
+                },
+                {
+                    "text": "diseases",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vyadhi"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Etymology and derivation",
+            "html": "<h2><span class=\"mw-headline\" id=\"Etymology_and_derivation\">Etymology and derivation</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "The Sanskrit word ‘buddhi’ is derived from root “budh” meaning “to know”. [ 3 ]",
+            "html": "<p>The Sanskrit word ‘buddhi’ is derived from root “budh” meaning “to know”.<sup class=\"reference\" id=\"cite_ref-3\"><a href=\"#cite_note-3\"><span class=\"cite-bracket\">[</span>3<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 3 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_note-3"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Synonyms",
+            "html": "<h2><span class=\"mw-headline\" id=\"Synonyms\">Synonyms</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "The synonyms of buddhi are maneesha, dhishana, dhee, prajna, shemushi, mati, preksha, upalabdhi, chit, samvit, pratipat, jnapti, chetana, samjna, aaman, pradhana and prajnana. [ 4 ]",
+            "html": "<p>The synonyms of buddhi are maneesha, dhishana, dhee, prajna, shemushi, mati, preksha, upalabdhi, chit, samvit, pratipat, jnapti, chetana, samjna, aaman, pradhana and prajnana.<sup class=\"reference\" id=\"cite_ref-4\"><a href=\"#cite_note-4\"><span class=\"cite-bracket\">[</span>4<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 4 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_note-4"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Contextual meanings",
+            "html": "<h2><span class=\"mw-headline\" id=\"Contextual_meanings\">Contextual meanings</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "Buddhi is the primary component of cognition in the process of knowledge (jnanotpatti) [Cha. Sa. Sharira Sthana 1/22-23]. It is one of the tools or instruments of knowledge called “karana”. [Cha. Sa. Sharira Sthana 1/56]",
+            "html": "<p>Buddhi is the primary component of cognition in the process of knowledge (jnanotpatti) [Cha. Sa. <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 1/22-23]. It is one of the tools or instruments of knowledge called “karana”. [Cha. Sa. <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 1/56]   \n</p>",
+            "links": [
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "It is a quality ( guna ) attributed to the soul ( atma ) [Cha. Sa. Sutra Sthana 1/49, 8/13]. It is a characteristic feature showing the presence of soul ( atma ) in a physical body . [Cha. Sa. Sharira Sthana 1/72]",
+            "html": "<p>It is a quality (<a href=\"/index.php?title=Guna\" title=\"Guna\">guna</a>) attributed to the soul (<a href=\"/index.php?title=Atma\" title=\"Atma\">atma</a>) [Cha. Sa. <a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a>1/49, 8/13]. It is a characteristic feature showing the presence of soul (<a href=\"/index.php?title=Atma\" title=\"Atma\">atma</a>) in a physical <a href=\"/index.php?title=Sharira\" title=\"Sharira\">body</a>. [Cha. Sa. <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 1/72]\n</p>",
+            "links": [
+                {
+                    "text": "guna",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Guna"
+                },
+                {
+                    "text": "atma",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Atma"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "atma",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Atma"
+                },
+                {
+                    "text": "body",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "In Indian philosophy, the theories of the origin of the universe (srishtyutpatti) consider the supreme intellect (buddhi/ mahat tatwa) as one of the sixteen derivatives (shodasha vikara).[Cha. Sa. Sharira Sthana 1/63]",
+            "html": "<p>In Indian philosophy, the theories of the origin of the universe (srishtyutpatti) consider the supreme intellect (buddhi/ mahat tatwa) as one of the sixteen derivatives (shodasha vikara).[Cha. Sa. <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 1/63]\n</p>",
+            "links": [
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Understanding the truth or anything in its original form is called as “satya buddhi.” [Cha. Sa. Sutra Sthana 21/38],[Chakrapani, Cha. Sa. Sharira Sthana 1/142-143]",
+            "html": "<p>Understanding the truth or anything in its original form is called as “satya buddhi.” [Cha. Sa. <a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 21/38],[Chakrapani, Cha. Sa. <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 1/142-143] \n</p>",
+            "links": [
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "This knowledge is critical to prevent exogenous diseases . [Cha.Sa. Sutra Sthana 7/53-54] Acquiring pure knowledge is the treatment of mental disorders. [Cha.Sa. Sutra Sthana 1/58 ] Knowledge of truth makes the person free from all worldly bondages. It is an important mean to attain salvation(moksha).[ Cha. Sa. Sharira Sthana 5/16-19]",
+            "html": "<p>This knowledge is critical to prevent exogenous <a href=\"/index.php?title=Vyadhi\" title=\"Vyadhi\">diseases</a>. [Cha.Sa.<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 7/53-54] Acquiring pure knowledge is the treatment of mental disorders. [Cha.Sa.<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 1/58 ]  Knowledge of truth makes the person free from all worldly bondages. It is an important mean to attain salvation(moksha).[ Cha. Sa. <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 5/16-19]  \n</p>",
+            "links": [
+                {
+                    "text": "diseases",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vyadhi"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Classification",
+            "html": "<h2><span class=\"mw-headline\" id=\"Classification\">Classification</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "Intelligence (buddhi) can be of two kinds.",
+            "html": "<p>Intelligence (buddhi) can be of two kinds.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "a)Inherent (sahaja buddhi)",
+            "html": "<p>a)Inherent (sahaja buddhi)\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "b)Acquired through the process of learning (shastraja buddhi)[Cha. Sa. Sutra Sthana 9/24, chakrapani]",
+            "html": "<p>b)Acquired through the process of learning (shastraja buddhi)[Cha. Sa. <a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a>9/24, chakrapani]\n</p>",
+            "links": [
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Contemporary science documents that 50% of a person’s knowledge is inherited. The inherited genome sequence differences are identified recently by many genome-wide association studies. [ 5 ] Apart from genetic factors, environmental factors like place of residence, family status, parents' education and occupation, and physical exercise can influence a child's intelligence. [ 6 ]",
+            "html": "<p>Contemporary science documents that 50% of a person’s knowledge is inherited. The inherited genome sequence differences are identified recently by many genome-wide association studies.<sup class=\"reference\" id=\"cite_ref-5\"><a href=\"#cite_note-5\"><span class=\"cite-bracket\">[</span>5<span class=\"cite-bracket\">]</span></a></sup>  Apart from genetic factors, environmental factors like place of residence, family status, parents' education and occupation, and physical exercise can influence a child's intelligence.<sup class=\"reference\" id=\"cite_ref-6\"><a href=\"#cite_note-6\"><span class=\"cite-bracket\">[</span>6<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 5 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_note-5"
+                },
+                {
+                    "text": "[ 6 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_note-6"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Three categories of learners:",
+            "html": "<h2><span class=\"mw-headline\" id=\"Three_categories_of_learners:\">Three categories of learners:</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "There are three categories of learners or students (shishya) based on their ability to learn, grasp, understand and retain knowledge (buddhi).",
+            "html": "<p>There are three categories of learners or students (shishya) based on their ability to learn, grasp, understand and retain knowledge (buddhi). \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "a) Low intelligence (avara buddhi)",
+            "html": "<p>a) Low intelligence (avara buddhi)\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "b) Average intelligence (madhyama buddhi)",
+            "html": "<p>b) Average intelligence (madhyama buddhi)\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "c) High intelligence (pravara buddhi) [Cha. Sa. Vimana Sthana 8/3]",
+            "html": "<p>c) High intelligence (pravara buddhi) [Cha. Sa. <a href=\"/index.php?title=Vimana_Sthana\" title=\"Vimana Sthana\">Vimana Sthana</a> 8/3]\n</p>",
+            "links": [
+                {
+                    "text": "Vimana Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Intelligence quotient (IQ)",
+            "html": "<h3><span id=\"Intelligence_quotient_.28IQ.29\"></span><span class=\"mw-headline\" id=\"Intelligence_quotient_(IQ)\">Intelligence quotient (IQ)</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "A set of standardized tests is used to assess the intellectual ability of an individual. The total score obtained is known as ‘intelligence quotient (IQ)’. [ 7 ] This quotient is useful to diagnose intellectual disabilities and developmental milestones, especially in children. IQ classification based on Wechsler Intelligence Scale for Children is shown in the below table. [ 8 ]",
+            "html": "<p>A set of standardized tests is used to assess the intellectual ability of an individual. The total score obtained is known as ‘intelligence quotient (IQ)’. <sup class=\"reference\" id=\"cite_ref-7\"><a href=\"#cite_note-7\"><span class=\"cite-bracket\">[</span>7<span class=\"cite-bracket\">]</span></a></sup> This quotient is useful to diagnose intellectual disabilities and developmental milestones, especially in children.  IQ classification based on Wechsler Intelligence Scale for Children is shown in the below table.<sup class=\"reference\" id=\"cite_ref-8\"><a href=\"#cite_note-8\"><span class=\"cite-bracket\">[</span>8<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 7 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_note-7"
+                },
+                {
+                    "text": "[ 8 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_note-8"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "IQ Range (\"deviation IQ\")",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "th",
+                        "text": "IQ Classification",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "130 and above",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Extremely High",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "120-129",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Very High",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "110-119",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "High Average",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "90-109",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Average",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "80-89",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Low Average",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "70-79",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Very Low",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "69 and below",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Extremely Low",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ]
+            ],
+            "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>IQ Range (\"deviation IQ\")</th>\n<th>IQ Classification\n</th></tr>\n<tr>\n<td>130 and above</td>\n<td>Extremely High\n</td></tr>\n<tr>\n<td>120-129</td>\n<td>Very High\n</td></tr>\n<tr>\n<td>110-119</td>\n<td>High Average\n</td></tr>\n<tr>\n<td>90-109</td>\n<td>Average\n</td></tr>\n<tr>\n<td>80-89</td>\n<td>Low Average\n</td></tr>\n<tr>\n<td>70-79</td>\n<td>Very Low\n</td></tr>\n<tr>\n<td>69 and below</td>\n<td>Extremely Low\n</td></tr></tbody></table>",
+            "links": []
+        },
+        {
+            "type": "p",
+            "text": "The maximum capacity of human intellect is innumerable due to the versatility of the objects (vishaya) of perception. [Chakrapani, Cha. Sa. Sharira Sthana 1/32-33] The knowledge is limitless.",
+            "html": "<p>The maximum capacity of human intellect is innumerable due to the versatility of the objects (vishaya) of perception. [Chakrapani, Cha. Sa. <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 1/32-33] The knowledge is limitless. \n</p>",
+            "links": [
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Anatomical aspects of buddhi",
+            "html": "<h2><span class=\"mw-headline\" id=\"Anatomical_aspects_of_buddhi\">Anatomical aspects of buddhi</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "h3",
+            "text": "Embryological development",
+            "html": "<h3><span class=\"mw-headline\" id=\"Embryological_development\">Embryological development</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "In embryological development, the buddhi starts functioning in the sixth month of gestation. [Su. Sa. Sharira Sthana 3/30] It originates from soul (atmaja bhava).[Cha. Sa. Sharira Sthana 3/10]",
+            "html": "<p>In embryological development, the buddhi starts functioning in the sixth month of gestation. [Su. Sa. <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 3/30] It originates from <a href=\"/index.php?title=Atma\" title=\"Atma\">soul</a> (atmaja bhava).[Cha. Sa. <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a>3/10] \n</p>",
+            "links": [
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                },
+                {
+                    "text": "soul",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Atma"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The ultrasonographical studies confirm that the fetal responses for vibro-acquistic stimulus start from the 24 weeks of gestation [ 9 ] onwards. This shows the cognitive development (buddhi) in foetus .",
+            "html": "<p>The ultrasonographical studies confirm that the fetal responses for vibro-acquistic stimulus start from the 24 weeks of gestation<sup class=\"reference\" id=\"cite_ref-9\"><a href=\"#cite_note-9\"><span class=\"cite-bracket\">[</span>9<span class=\"cite-bracket\">]</span></a></sup>  onwards. This shows the cognitive development (buddhi) in <a href=\"/index.php?title=Garbha\" title=\"Garbha\">foetus</a>.\n</p>",
+            "links": [
+                {
+                    "text": "[ 9 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_note-9"
+                },
+                {
+                    "text": "foetus",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Garbha"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Site of buddhi",
+            "html": "<h3><span class=\"mw-headline\" id=\"Site_of_buddhi\">Site of buddhi</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "The heart (hridaya) is the site of the intellectual faculty (buddhi). [Cha. Sa. Siddhi Sthana 9/5] The \"sadhaka\" variety of pitta dosha located in heart conducts physiological functions of intellect. It works for fulfilling the common objectives of one’s life. [A. Hr. Sutra Sthana 12/13] Acharya Bhela adds a sub-type of alochaka pitta dosha and names it as “buddhirvaisheshika” (specific to intelligence). It is located in head. [Bhela Samhita]",
+            "html": "<p>The heart (hridaya) is the site of the intellectual faculty (buddhi). [Cha. Sa. <a href=\"/index.php?title=Siddhi_Sthana\" title=\"Siddhi Sthana\">Siddhi Sthana</a> 9/5] The  \"sadhaka\" variety of <a href=\"/index.php?title=Pitta\" title=\"Pitta\">pitta</a> <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> located in heart conducts physiological functions of intellect. It works for fulfilling the common objectives of one’s life. [A. Hr. Sutra Sthana 12/13]  Acharya Bhela adds a sub-type of alochaka <a href=\"/index.php?title=Pitta\" title=\"Pitta\">pitta</a> <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> and names it as “buddhirvaisheshika” (specific to intelligence). It is located in head. [Bhela Samhita]\n</p>",
+            "links": [
+                {
+                    "text": "Siddhi Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Siddhi_Sthana"
+                },
+                {
+                    "text": "pitta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pitta"
+                },
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "pitta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pitta"
+                },
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Anatomical considerations of intelligence",
+            "html": "<h3><span class=\"mw-headline\" id=\"Anatomical_considerations_of_intelligence\">Anatomical considerations of intelligence</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "The size of the brain, cortex, prefrontal cortex, and degree of encephalization are relevant for deciding intellectual capacity. The number of cortical neurons and conduction velocity are considered as the basis of information-processing capacity. [ 10 ]",
+            "html": "<p>The size of the brain, cortex, prefrontal cortex, and degree of encephalization are relevant for deciding intellectual capacity. The number of cortical neurons and conduction velocity are considered as the basis of information-processing capacity.<sup class=\"reference\" id=\"cite_ref-10\"><a href=\"#cite_note-10\"><span class=\"cite-bracket\">[</span>10<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 10 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_note-10"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Sensory perceptions",
+            "html": "<h3><span class=\"mw-headline\" id=\"Sensory_perceptions\">Sensory perceptions</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "The indriya are associated with specific areas in the cerebral cortex for proper perception and knowledge. Six types of perceptions ( indriya buddhi) are described based on the sensory faculties and mind . [Chakrapani, Cha. Sa. Sharira Sthana 1/32-33]",
+            "html": "<p>The <a href=\"/index.php?title=Indriya\" title=\"Indriya\">indriya</a> are associated with specific areas in the cerebral cortex for proper perception and knowledge. Six types of perceptions (<a href=\"/index.php?title=Indriya\" title=\"Indriya\">indriya</a> buddhi) are described based on the sensory faculties and <a href=\"/index.php?title=Manas\" title=\"Manas\">mind</a>. [Chakrapani, Cha. Sa. <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 1/32-33]\n</p>",
+            "links": [
+                {
+                    "text": "indriya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya"
+                },
+                {
+                    "text": "indriya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya"
+                },
+                {
+                    "text": "mind",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Manas"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The following table shows the association of indriya buddhi and associated areas in brain. [ 11 ]",
+            "html": "<p>The following table shows the association of <a href=\"/index.php?title=Indriya\" title=\"Indriya\">indriya</a> buddhi and associated areas in brain.<sup class=\"reference\" id=\"cite_ref-11\"><a href=\"#cite_note-11\"><span class=\"cite-bracket\">[</span>11<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "indriya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya"
+                },
+                {
+                    "text": "[ 11 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_note-11"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Table : Association of indriya and areas of cerebral cortex",
+            "html": "<p><b>Table : Association of indriya and areas of cerebral cortex</b>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "Perception",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "th",
+                        "text": "Area in Cortex",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Auditory perception (shrotrendriya buddhi)",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Auditory area (area no. 21, 22)",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Tactile perception (sparshanendriya buddhi)",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Somesthetic & Somesthetic association area (area no. 1,2,3,5&7)",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Visual perception (chakshurindriya buddhi)",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Primary visual & visual association area (area no. 17,18,19)",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Gustatory perception (rasanendriya buddhi)",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Gustatory area (area no. 43)",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "Olfactory perception (ghranendriya buddhi)",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Olfactory area (area no. 28)",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ]
+            ],
+            "html": "<table class=\"wikitable\">\n<tbody><tr>\n<th>Perception</th>\n<th>Area in Cortex\n</th></tr>\n<tr>\n<td>Auditory perception (shrotrendriya buddhi)</td>\n<td>Auditory area (area no. 21, 22)\n</td></tr>\n<tr>\n<td>Tactile perception (sparshanendriya buddhi)</td>\n<td>Somesthetic &amp; Somesthetic association area (area no. 1,2,3,5&amp;7)\n</td></tr>\n<tr>\n<td>Visual perception (chakshurindriya buddhi)</td>\n<td>Primary visual &amp; visual association area (area no. 17,18,19)\n</td></tr>\n<tr>\n<td>Gustatory perception (rasanendriya buddhi)</td>\n<td>Gustatory area (area no. 43)\n</td></tr>\n<tr>\n<td>Olfactory perception (ghranendriya buddhi)</td>\n<td>Olfactory area (area no. 28)\n</td></tr></tbody></table>",
+            "links": []
+        },
+        {
+            "type": "p",
+            "text": "The sixth sense or mind ( manas ) associated with intellect (buddhi) is called as (manasa buddhi). [Chakrapani, Cha. Sa. Sharira Sthana 1/32-33]",
+            "html": "<p>The sixth sense or mind (<a href=\"/index.php?title=Manas\" title=\"Manas\">manas</a>) associated with intellect (buddhi) is called as (manasa buddhi). [Chakrapani, Cha. Sa. <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 1/32-33]\n</p>",
+            "links": [
+                {
+                    "text": "manas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Manas"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Physiological aspects of buddhi",
+            "html": "<h2><span class=\"mw-headline\" id=\"Physiological_aspects_of_buddhi\">Physiological aspects of buddhi</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "The dosha are responsible for various intellectual functions. The process of receiving-transmitting the sensory inputs and initiating motor functions is done by vata dosha . [A. Hr. Sutra Sthana 11/3] Sharpness of intelligence (medha/dhi) is attributed to pitta dosha . [A. Hr. Sutra Sthana 11/3] Maintenance of proper intellectual function is attributed to kapha dosha . [Cha. Sa. Sutra Sthana 12/12]",
+            "html": "<p>The <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> are responsible for various intellectual functions. The process of receiving-transmitting the sensory inputs and initiating motor functions is done by <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a> <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a>. [A. Hr. Sutra Sthana 11/3] Sharpness of intelligence (medha/dhi) is attributed to <a href=\"/index.php?title=Pitta\" title=\"Pitta\">pitta</a> <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a>. [A. Hr. Sutra Sthana 11/3] Maintenance of proper intellectual function is attributed to <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a> <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a>. [Cha. Sa. <a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 12/12]\n</p>",
+            "links": [
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "vata",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vata"
+                },
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "pitta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pitta"
+                },
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "kapha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kapha"
+                },
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "As per physical constitution ( prakriti ), individuals with kapha predominant constitution are endowed with the excellence of intelligence [A.Hr. Sharira Sthana 3/96]. The persons with pitta predominant constitution exhibit sharpness of intellectual functions. [A.Hr. Sharira Sthana 3/92]",
+            "html": "<p>As per physical constitution (<a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">prakriti</a>), individuals with <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a> predominant constitution are endowed with the excellence of intelligence [A.Hr. Sharira Sthana 3/96]. The persons with <a href=\"/index.php?title=Pitta\" title=\"Pitta\">pitta</a> predominant constitution exhibit sharpness of intellectual functions. [A.Hr. Sharira Sthana 3/92] \n</p>",
+            "links": [
+                {
+                    "text": "prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "kapha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kapha"
+                },
+                {
+                    "text": "pitta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pitta"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Buddhi and medha are mentioned as the attributes of sattva guna as per the mental constitution of the person. [Su. Sa. Sharira Sthana 1/18]",
+            "html": "<p>Buddhi and medha are mentioned as the attributes of <a href=\"/index.php?title=Sattva\" title=\"Sattva\">sattva</a> <a href=\"/index.php?title=Guna\" title=\"Guna\">guna</a> as per the mental constitution of the person. [Su. Sa. Sharira Sthana 1/18]\n</p>",
+            "links": [
+                {
+                    "text": "sattva",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sattva"
+                },
+                {
+                    "text": "guna",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Guna"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "A study was conducted to analyze the relation between physical constitution ( deha prakriti ) and mental constitution ( manasa prakṛiti ) and intelligence in 150 healthy individuals. It was found that intelligence quotient (IQ) was more in kapha prakriti individuals. Moderate IQ was observed in pitta prakriti . It was comparatively less in vata prakriti individuals. [ 12 ]",
+            "html": "<p>A study was conducted to analyze the relation between physical constitution (<a href=\"/index.php?title=Deha_prakriti\" title=\"Deha prakriti\">deha prakriti</a>) and mental constitution  (<a href=\"/index.php?title=Manas_prakriti\" title=\"Manas prakriti\">manasa prakṛiti</a>) and intelligence in 150 healthy individuals. It was found that intelligence quotient (IQ) was more in <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a> <a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">prakriti</a> individuals. Moderate IQ was observed in <a href=\"/index.php?title=Pitta\" title=\"Pitta\">pitta</a> <a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">prakriti</a>. It was comparatively less in <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a> <a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">prakriti</a> individuals.<sup class=\"reference\" id=\"cite_ref-12\"><a href=\"#cite_note-12\"><span class=\"cite-bracket\">[</span>12<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "deha prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Deha_prakriti"
+                },
+                {
+                    "text": "manasa prakṛiti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Manas_prakriti"
+                },
+                {
+                    "text": "kapha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kapha"
+                },
+                {
+                    "text": "prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "pitta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pitta"
+                },
+                {
+                    "text": "prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "vata",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vata"
+                },
+                {
+                    "text": "prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "[ 12 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_note-12"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Physiology of cognition in Ayurveda",
+            "html": "<h3><span class=\"mw-headline\" id=\"Physiology_of_cognition_in_Ayurveda\">Physiology of cognition in Ayurveda</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "The process of cognition is known as “jnanotpatti”. The five sensory faculties ( jnanendriya ) give inputs to the internal processing unit, including mind , ego , and intellect. [Cha. Sa. Sharira Sthana 1/24] The sensory signals are subjected to analysis, thought process, and generation of assumptions at the level of mind . The intellect performs the process of discrimination (adhyavasaya) and decision (nishchaya). It sends signals to the motor faculty for initiation of needful action. [Cha. Sa. Sharira Sthana 1/20-23].",
+            "html": "<p>The process of cognition is known as “jnanotpatti”. The five sensory faculties (<a href=\"/index.php?title=Indriya\" title=\"Indriya\">jnanendriya</a>) give inputs to the internal processing unit, including <a href=\"/index.php?title=Manas\" title=\"Manas\">mind</a>, <a class=\"new\" href=\"/index.php?title=Ahamkara&amp;action=edit&amp;redlink=1\" title=\"Ahamkara (page does not exist)\">ego</a>, and intellect. [Cha. Sa. <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 1/24] The sensory signals are subjected to analysis, thought process, and generation of assumptions at the level of <a href=\"/index.php?title=Manas\" title=\"Manas\">mind</a>. The intellect performs the process of discrimination (adhyavasaya) and decision (nishchaya). It sends signals to the motor faculty for initiation of needful action. [Cha. Sa. <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 1/20-23].\n</p>",
+            "links": [
+                {
+                    "text": "jnanendriya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya"
+                },
+                {
+                    "text": "mind",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Manas"
+                },
+                {
+                    "text": "ego",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ahamkara&action=edit&redlink=1"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                },
+                {
+                    "text": "mind",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Manas"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "In the current view, cognitive functions include perception, attention, memory, learning, decision making, language abilities etc. [ 13 ] The process is carried out in the brain and nervous system. In perception, physical and chemical stimulation of the sensory system and transmission of signals through the nervous system to the brain occurs. Perception is influenced by the person’s learning, memory, expectation, and attention. [ 14 ] The perception, learning, and memory formation are explained based on the concept of synapses of neurons. The pre and post-synaptic neurons and their inter-cellular and intracellular signaling pathways are responsible for these functions. Recent studies state that the star-shaped cells called astrocytes occupy half of the brain volume. Earlier it was thought to have only structural and metabolic functions. They have a specific role in cognitive functions like learning, perception, conscious processing, and memory formation. [ 15 ]",
+            "html": "<p>In the current view, cognitive functions include perception, attention, memory, learning, decision making, language abilities etc.<sup class=\"reference\" id=\"cite_ref-13\"><a href=\"#cite_note-13\"><span class=\"cite-bracket\">[</span>13<span class=\"cite-bracket\">]</span></a></sup> The process is carried out in the brain and nervous system. In perception, physical and chemical stimulation of the sensory system and transmission of signals through the nervous system to the brain occurs. Perception is influenced by the person’s learning, memory, expectation, and attention.<sup class=\"reference\" id=\"cite_ref-14\"><a href=\"#cite_note-14\"><span class=\"cite-bracket\">[</span>14<span class=\"cite-bracket\">]</span></a></sup> The perception, learning, and memory formation are explained based on the concept of synapses of neurons. The pre and post-synaptic neurons and their inter-cellular and intracellular signaling pathways are responsible for these functions. Recent studies state that the star-shaped cells called astrocytes occupy half of the brain volume. Earlier it was thought to have only structural and metabolic functions. They have a specific role in cognitive functions like learning, perception, conscious processing, and memory formation.<sup class=\"reference\" id=\"cite_ref-15\"><a href=\"#cite_note-15\"><span class=\"cite-bracket\">[</span>15<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 13 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_note-13"
+                },
+                {
+                    "text": "[ 14 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_note-14"
+                },
+                {
+                    "text": "[ 15 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_note-15"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Studies on the relation of indriya (sense and motor organs), its connection with mind and soul , its influence on functions of the brain and nervous system can provide more inputs in understanding the process of cognition.",
+            "html": "<p>Studies on the relation of <a href=\"/index.php?title=Indriya\" title=\"Indriya\">indriya</a> (sense and motor organs), its connection with <a href=\"/index.php?title=Manas\" title=\"Manas\">mind</a> and <a href=\"/index.php?title=Atma\" title=\"Atma\">soul</a>, its influence on functions of the brain and nervous system can provide more inputs in understanding the process of cognition.\n</p>",
+            "links": [
+                {
+                    "text": "indriya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya"
+                },
+                {
+                    "text": "mind",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Manas"
+                },
+                {
+                    "text": "soul",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Atma"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Importance in diagnosis of diseases",
+            "html": "<h2><span class=\"mw-headline\" id=\"Importance_in_diagnosis_of_diseases\">Importance in diagnosis of diseases</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "h3",
+            "text": "Importance of buddhi in etio-pathogenesis",
+            "html": "<h3><span class=\"mw-headline\" id=\"Importance_of_buddhi_in_etio-pathogenesis\">Importance of buddhi in etio-pathogenesis</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "ul",
+            "text": "Intellectual error ( prajnaparadha ) is one of the major causative factors of all diseases. [Cha.Sa. Sutra Sthana 11/43]",
+            "html": "<ul><li>Intellectual error (<a href=\"/index.php?title=Prajnaparadha\" title=\"Prajnaparadha\">prajnaparadha</a>) is one of the major causative factors of all diseases. [Cha.Sa.<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 11/43]</li></ul>",
+            "links": [
+                {
+                    "text": "prajnaparadha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Intellectual error ( prajnaparadha ) is one of the major causative factors of all diseases. [Cha.Sa. Sutra Sthana 11/43]",
+                    "links": [
+                        {
+                            "text": "prajnaparadha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha"
+                        },
+                        {
+                            "text": "Sutra Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Perversion of intellect (buddhi vibhramsha) leads to wrong interpretation, decision, and knowledge. This results in the perception of something harmful as a useful one, and vice versa. [Cha.Sa. Sharira Sthana 1/99]",
+            "html": "<ul><li>Perversion of intellect (buddhi vibhramsha) leads to wrong interpretation, decision, and knowledge. This results in the perception of something harmful as a useful one, and vice versa. [Cha.Sa.<a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 1/99]</li></ul>",
+            "links": [
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Perversion of intellect (buddhi vibhramsha) leads to wrong interpretation, decision, and knowledge. This results in the perception of something harmful as a useful one, and vice versa. [Cha.Sa. Sharira Sthana 1/99]",
+                    "links": [
+                        {
+                            "text": "Sharira Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Distortion of the intellectual functions (buddhi vaikruta) indicates a decrease in lifespan. [Cha. Sa. Sutra Sthana 30/25]",
+            "html": "<ul><li>Distortion of the intellectual functions (buddhi vaikruta) indicates a decrease in lifespan. [Cha. Sa. <a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 30/25]</li></ul>",
+            "links": [
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Distortion of the intellectual functions (buddhi vaikruta) indicates a decrease in lifespan. [Cha. Sa. Sutra Sthana 30/25]",
+                    "links": [
+                        {
+                            "text": "Sutra Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Altered intellectual functions are a sign of an advanced stage of poisoning. [Cha. Sa. Sutra Sthana 21/48]",
+            "html": "<ul><li>Altered intellectual functions are a sign of an advanced stage of poisoning. [Cha. Sa. <a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 21/48]</li></ul>",
+            "links": [
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Altered intellectual functions are a sign of an advanced stage of poisoning. [Cha. Sa. Sutra Sthana 21/48]",
+                    "links": [
+                        {
+                            "text": "Sutra Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Sudden diminution of intellectual abilities is a poor prognostic sign. [Cha. Sa. Indriya Sthana 11/7]",
+            "html": "<ul><li>Sudden diminution of intellectual abilities is a poor prognostic sign. [Cha. Sa. <a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 11/7]</li></ul>",
+            "links": [
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Sudden diminution of intellectual abilities is a poor prognostic sign. [Cha. Sa. Indriya Sthana 11/7]",
+                    "links": [
+                        {
+                            "text": "Indriya Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Psychosis disorders ( unmada ) and seizure disorders ( apasmara ) are two major disorders with direct pathological involvement of intellectual faculty (buddhi). Psychosis (unmada) is characterized by cognitive distortion related to mind, intellect, consciousness, knowledge, memory, desire, attitude, activities and behavior. [Cha.Sa. Nidana Sthana 7/5]",
+            "html": "<ul><li>Psychosis disorders (<a class=\"mw-redirect\" href=\"/index.php?title=Unmada\" title=\"Unmada\">unmada</a>) and seizure disorders (<a class=\"mw-redirect\" href=\"/index.php?title=Apasmara\" title=\"Apasmara\">apasmara</a>) are two major disorders with direct pathological involvement of intellectual faculty (buddhi). Psychosis (unmada) is characterized by cognitive distortion related to mind, intellect, consciousness, knowledge, memory, desire, attitude, activities and behavior. [Cha.Sa.<a href=\"/index.php?title=Nidana_Sthana\" title=\"Nidana Sthana\">Nidana Sthana</a>7/5]</li></ul>",
+            "links": [
+                {
+                    "text": "unmada",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Unmada"
+                },
+                {
+                    "text": "apasmara",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Apasmara"
+                },
+                {
+                    "text": "Nidana Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Nidana_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Psychosis disorders ( unmada ) and seizure disorders ( apasmara ) are two major disorders with direct pathological involvement of intellectual faculty (buddhi). Psychosis (unmada) is characterized by cognitive distortion related to mind, intellect, consciousness, knowledge, memory, desire, attitude, activities and behavior. [Cha.Sa. Nidana Sthana 7/5]",
+                    "links": [
+                        {
+                            "text": "unmada",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Unmada"
+                        },
+                        {
+                            "text": "apasmara",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Apasmara"
+                        },
+                        {
+                            "text": "Nidana Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Nidana_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Seizure disorders ( apasmara ) develop due to perversion of memory, intellect and other mental faculties. It is characterized by transient loss of consciousness associated with aberrant activities. [Cha.Sa. Nidana Sthana 8/5]",
+            "html": "<ul><li>Seizure disorders (<a class=\"mw-redirect\" href=\"/index.php?title=Apasmara\" title=\"Apasmara\">apasmara</a>) develop due to perversion of memory, intellect and other mental faculties. It is characterized by transient loss of consciousness associated with aberrant activities. [Cha.Sa.<a href=\"/index.php?title=Nidana_Sthana\" title=\"Nidana Sthana\">Nidana Sthana</a> 8/5]</li></ul>",
+            "links": [
+                {
+                    "text": "apasmara",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Apasmara"
+                },
+                {
+                    "text": "Nidana Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Nidana_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Seizure disorders ( apasmara ) develop due to perversion of memory, intellect and other mental faculties. It is characterized by transient loss of consciousness associated with aberrant activities. [Cha.Sa. Nidana Sthana 8/5]",
+                    "links": [
+                        {
+                            "text": "apasmara",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Apasmara"
+                        },
+                        {
+                            "text": "Nidana Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Nidana_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "The condition characterized by severe distortion of intellectual functions is called as “atattwabhinivesha”. It is a dreadful disease (mahagada). [Cha. Sa. Chikitsa Sthana 10/60]",
+            "html": "<ul><li>The condition characterized by severe distortion of intellectual functions is called as “atattwabhinivesha”. It is a dreadful disease (mahagada). [Cha. Sa. <a href=\"/index.php?title=Chikitsa_Sthana\" title=\"Chikitsa Sthana\">Chikitsa Sthana</a> 10/60]</li></ul>",
+            "links": [
+                {
+                    "text": "Chikitsa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "The condition characterized by severe distortion of intellectual functions is called as “atattwabhinivesha”. It is a dreadful disease (mahagada). [Cha. Sa. Chikitsa Sthana 10/60]",
+                    "links": [
+                        {
+                            "text": "Chikitsa Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Poor functioning of intellect (abuddhitwam) is one of the diagnostic criteria (bahu dosha lakshana) for purification therapy ( shodhana ).[Cha. Sa. Sutra Sthana 16/15]",
+            "html": "<ul><li>Poor functioning of intellect (abuddhitwam) is one of the diagnostic criteria (bahu <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> lakshana) for purification therapy (<a href=\"/index.php?title=Shodhana\" title=\"Shodhana\">shodhana</a>).[Cha. Sa. <a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 16/15]</li></ul>",
+            "links": [
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "shodhana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Shodhana"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Poor functioning of intellect (abuddhitwam) is one of the diagnostic criteria (bahu dosha lakshana) for purification therapy ( shodhana ).[Cha. Sa. Sutra Sthana 16/15]",
+                    "links": [
+                        {
+                            "text": "dosha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                        },
+                        {
+                            "text": "shodhana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Shodhana"
+                        },
+                        {
+                            "text": "Sutra Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Importance in management of disease",
+            "html": "<h2><span class=\"mw-headline\" id=\"Importance_in_management_of_disease\">Importance in management of disease</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "Normal intellectual functions are crucial for following a wholesome regimen, avoiding harmful factors and preservation of health . Purification therapy ( shodhana chikitsa) is administered to attain a pleasant state of intellect (buddhi prasadana). [Cha. Sa. Sutra Sthana 16/18] In the treatment of mental disorders, uplifting intellectual functions is one of the treatment modalities. [ A.Hr. Sutra Sthana 1/ 26]",
+            "html": "<p>Normal intellectual functions are crucial for following a wholesome regimen, avoiding harmful factors and preservation of <a href=\"/index.php?title=Health\" title=\"Health\">health</a>. Purification therapy (<a href=\"/index.php?title=Shodhana\" title=\"Shodhana\">shodhana</a> chikitsa) is administered to attain a pleasant state of intellect (buddhi prasadana). [Cha. Sa. <a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 16/18] In the treatment of mental disorders, uplifting intellectual functions is one of the treatment modalities. [ A.Hr. Sutra Sthana 1/ 26] \n</p>",
+            "links": [
+                {
+                    "text": "health",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Health"
+                },
+                {
+                    "text": "shodhana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Shodhana"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Restraint of mind highly depends on intellectual abilities. The principle of Ayurveda psychotherapy (sattvavajaya chikitsa) is restoring the psychological equilibrium by giving assurance of emotional support. [ 16 ]",
+            "html": "<p>Restraint of mind highly depends on intellectual abilities. The principle of Ayurveda psychotherapy (sattvavajaya chikitsa) is restoring the psychological equilibrium by giving assurance of emotional support.<sup class=\"reference\" id=\"cite_ref-16\"><a href=\"#cite_note-16\"><span class=\"cite-bracket\">[</span>16<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 16 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_note-16"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Importance in healthcare management and teaching",
+            "html": "<h2><span class=\"mw-headline\" id=\"Importance_in_healthcare_management_and_teaching\">Importance in healthcare management and teaching</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "h3",
+            "text": "Role of intelligence (buddhi) of physician",
+            "html": "<h3><span id=\"Role_of_intelligence_.28buddhi.29_of_physician\"></span><span class=\"mw-headline\" id=\"Role_of_intelligence_(buddhi)_of_physician\">Role of intelligence (buddhi) of physician</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "The diagnosis and treatment of any disease in Ayurveda is based upon mainly four means of knowledge. [Cha. Sa. Sutra Sthana 11/17]",
+            "html": "<p>The diagnosis and treatment of any <a href=\"/index.php?title=Vyadhi\" title=\"Vyadhi\">disease</a> in <a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a> is based upon mainly four means of knowledge. [Cha. Sa. <a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 11/17]\n</p>",
+            "links": [
+                {
+                    "text": "disease",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vyadhi"
+                },
+                {
+                    "text": "Ayurveda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayurveda"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "a)Verbal testimony / textual knowledge/authoritative statements ( aptopadesha ) [Cha.Sa. Vimana Sthana 4/4]",
+            "html": "<p>a)Verbal testimony / textual knowledge/authoritative statements (<a href=\"/index.php?title=Aptopadesha\" title=\"Aptopadesha\">aptopadesha</a>) [Cha.Sa.<a href=\"/index.php?title=Vimana_Sthana\" title=\"Vimana Sthana\">Vimana Sthana</a> 4/4]\n</p>",
+            "links": [
+                {
+                    "text": "aptopadesha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Aptopadesha"
+                },
+                {
+                    "text": "Vimana Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "b)Direct perception ( pratyaksha ) [Cha. Sa. Sutra Sthana 11/20]",
+            "html": "<p>b)Direct perception (<a href=\"/index.php?title=Pratyaksha_pramana\" title=\"Pratyaksha pramana\">pratyaksha</a>) [Cha. Sa. <a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 11/20]\n</p>",
+            "links": [
+                {
+                    "text": "pratyaksha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pratyaksha_pramana"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "c)Inference ( anumana ) [Cha. Sa. Vimana Sthana 8/40]",
+            "html": "<p>c)Inference (<a href=\"/index.php?title=Anumana_pramana\" title=\"Anumana pramana\">anumana</a>) [Cha. Sa. <a href=\"/index.php?title=Vimana_Sthana\" title=\"Vimana Sthana\">Vimana Sthana</a> 8/40]\n</p>",
+            "links": [
+                {
+                    "text": "anumana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Anumana_pramana"
+                },
+                {
+                    "text": "Vimana Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "d)Logical reasoning ( yukti ) [Cha. Sa. Sutra Sthana 11/25]",
+            "html": "<p>d)Logical reasoning (<a href=\"/index.php?title=Yukti_pramana\" title=\"Yukti pramana\">yukti</a>) [Cha. Sa.<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 11/25]\n</p>",
+            "links": [
+                {
+                    "text": "yukti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Yukti_pramana"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Intellect (buddhi) of physician plays a significant role in understanding the verbal testimony (history of the disease), direct observations (examinations), and forming the inference as well as logical reasoning at the higher level.",
+            "html": "<p>Intellect (buddhi) of physician plays a significant role in understanding the verbal testimony (history of the disease), direct observations (examinations), and forming the inference as well as logical reasoning at  the higher level. \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Personified diagnosis, interpretation of pathological findings, pathogenesis ( samprapti ), prognosis, and treatment depends upon the physician's intelligence. Inherent and acquired intelligence are important in healthcare management.[Cha. Sa. Sutra Sthana 10/22], [Cha. Sa. Sutra Sthana 7/47]",
+            "html": "<p>Personified diagnosis, interpretation of pathological findings, pathogenesis (<a href=\"/index.php?title=Samprapti\" title=\"Samprapti\">samprapti</a>), prognosis, and treatment depends upon the physician's intelligence. Inherent and acquired intelligence are important in healthcare management.[Cha. Sa. <a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 10/22], [Cha. Sa. <a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 7/47]\n</p>",
+            "links": [
+                {
+                    "text": "samprapti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Samprapti"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Through experience and acquired intellectual skills, an ideal physician can connect with the patient's soul and experience his suffering state. Then he can try to cure the disease at its root level. [Cha.Sa. Vimana Sthana 4/12]",
+            "html": "<p>Through experience and acquired intellectual skills, an ideal physician can connect with the patient's soul and experience his suffering state. Then he can try to cure the disease at its root level. [Cha.Sa. <a href=\"/index.php?title=Vimana_Sthana\" title=\"Vimana Sthana\">Vimana Sthana</a> 4/12]\n</p>",
+            "links": [
+                {
+                    "text": "Vimana Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "An intelligent physician is free to make necessary changes in medical prescription to make it suitable for the patient as per the stage of disease after a thorough assessment of the condition. [Cha. Sa. Sutra Sthana 4/20],[Cha. Sa. Sutra Sthana 4/28]",
+            "html": "<p>An intelligent physician is free to make necessary changes in medical prescription to make it suitable for the patient as per the stage of disease after a thorough assessment of the condition. [Cha. Sa. <a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 4/20],[Cha. Sa. <a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 4/28]\n</p>",
+            "links": [
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Personified dose of medicines for different treatment purposes depends on the intelligence of the physician. [Cha. Sa. Sutra Sthana 5/36][Su. Sa. Chikitsa Sthana 37/106].",
+            "html": "<p>Personified dose of medicines for different treatment purposes depends on the intelligence of the physician. [Cha. Sa. <a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 5/36][Su. Sa. Chikitsa Sthana 37/106].\n</p>",
+            "links": [
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Importance of diet and nutrition in promoting intelligence",
+            "html": "<h2><span class=\"mw-headline\" id=\"Importance_of_diet_and_nutrition_in_promoting_intelligence\">Importance of diet and nutrition in promoting intelligence</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "Ghee (ghrita) is recommended for promoting intelligence. [Cha. Sa. Sutra Sthana 13/43], [A. Hr. Sutra Sthana 5/37]",
+            "html": "<p><a href=\"/index.php?title=Ghee\" title=\"Ghee\">Ghee</a> (ghrita) is recommended for promoting intelligence. [Cha. Sa. <a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 13/43], [A. Hr. Sutra Sthana 5/37] \n</p>",
+            "links": [
+                {
+                    "text": "Ghee",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ghee"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The diet deficient in iron, zinc, protein, iodine, B vitamins, omega three fatty acids, magnesium, and other nutrients either in mother during antenatal period or in child during developmental age, can result in lower intelligence. [ 17 ]",
+            "html": "<p>The diet deficient in iron, zinc, protein, iodine, B vitamins, omega three fatty acids, magnesium, and other nutrients either in mother during antenatal period or in child during developmental age, can result in lower intelligence.<sup class=\"reference\" id=\"cite_ref-17\"><a href=\"#cite_note-17\"><span class=\"cite-bracket\">[</span>17<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 17 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_note-17"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Herbs for promotion of intelligence:",
+            "html": "<h3><span class=\"mw-headline\" id=\"Herbs_for_promotion_of_intelligence:\">Herbs for promotion of intelligence:</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Different combinations of herbs and nano particles of gold (swarna) are recommended for newborns and young children to promote intellectual functions. They include the following:",
+            "html": "<p>Different combinations of herbs and nano particles of gold (swarna) are recommended for newborns and young children to promote intellectual functions. They include the following:\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "a)Powder of Saussurea lappa (kushtha) with honey and ghee",
+            "html": "<p>a)Powder of Saussurea lappa (kushtha) with <a class=\"new\" href=\"/index.php?title=Honey&amp;action=edit&amp;redlink=1\" title=\"Honey (page does not exist)\">honey</a> and <a href=\"/index.php?title=Ghee\" title=\"Ghee\">ghee</a>\n</p>",
+            "links": [
+                {
+                    "text": "honey",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Honey&action=edit&redlink=1"
+                },
+                {
+                    "text": "ghee",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ghee"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "b)Powder of Bacopa monnieri (matsyakshaka), Convolvulus pluricaulis ( shankhapushpi ) with honey and ghee .",
+            "html": "<p>b)Powder of Bacopa monnieri (matsyakshaka), Convolvulus pluricaulis (<a href=\"/index.php?title=Shankhapushpi\" title=\"Shankhapushpi\">shankhapushpi</a>) with <a class=\"new\" href=\"/index.php?title=Honey&amp;action=edit&amp;redlink=1\" title=\"Honey (page does not exist)\">honey</a> and <a href=\"/index.php?title=Ghee\" title=\"Ghee\">ghee</a>.\n</p>",
+            "links": [
+                {
+                    "text": "shankhapushpi",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Shankhapushpi"
+                },
+                {
+                    "text": "honey",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Honey&action=edit&redlink=1"
+                },
+                {
+                    "text": "ghee",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ghee"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "c)Powder of Holostemma ada-kodien (arkapushpi), Acorus calamus Linn.( vacha ) with honey and ghee .",
+            "html": "<p>c)Powder of Holostemma ada-kodien (arkapushpi), Acorus calamus Linn.(<a href=\"/index.php?title=Vacha\" title=\"Vacha\">vacha</a>) with <a class=\"new\" href=\"/index.php?title=Honey&amp;action=edit&amp;redlink=1\" title=\"Honey (page does not exist)\">honey</a> and <a href=\"/index.php?title=Ghee\" title=\"Ghee\">ghee</a>.\n</p>",
+            "links": [
+                {
+                    "text": "vacha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vacha"
+                },
+                {
+                    "text": "honey",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Honey&action=edit&redlink=1"
+                },
+                {
+                    "text": "ghee",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ghee"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "d)Powder of Murraya koenigii (kaitarya), Cynodon dactylon(durva) with honey and ghee .[ Su. Sa. Sharira Sthana 10/68-70]",
+            "html": "<p>d)Powder of Murraya koenigii (kaitarya), Cynodon dactylon(durva) with <a class=\"new\" href=\"/index.php?title=Honey&amp;action=edit&amp;redlink=1\" title=\"Honey (page does not exist)\">honey</a> and <a href=\"/index.php?title=Ghee\" title=\"Ghee\">ghee</a>.[ Su. Sa. Sharira Sthana 10/68-70]\n</p>",
+            "links": [
+                {
+                    "text": "honey",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Honey&action=edit&redlink=1"
+                },
+                {
+                    "text": "ghee",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ghee"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Rasayana promoting intellectual functions (medhya rasayana):",
+            "html": "<h3><span id=\"Rasayana_promoting_intellectual_functions_.28medhya_rasayana.29:\"></span><span class=\"mw-headline\" id=\"Rasayana_promoting_intellectual_functions_(medhya_rasayana):\">Rasayana promoting intellectual functions (medhya rasayana):</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Following herbs are known to promote intellectual functions and used in the management of disorders of intellect.",
+            "html": "<p>Following herbs are known to promote intellectual functions and used in the management of disorders of intellect. \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "ul",
+            "text": "The juice of Centella asiatica ( mandukaparni )",
+            "html": "<ul><li>The juice of Centella asiatica (<a href=\"/index.php?title=Mandukaparni\" title=\"Mandukaparni\">mandukaparni</a>)</li></ul>",
+            "links": [
+                {
+                    "text": "mandukaparni",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mandukaparni"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "The juice of Centella asiatica ( mandukaparni )",
+                    "links": [
+                        {
+                            "text": "mandukaparni",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Mandukaparni"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "The powder of Glycyrrhiza glabra ( yashtimadhu ) with milk",
+            "html": "<ul><li>The powder of Glycyrrhiza glabra (<a href=\"/index.php?title=Yashtimadhu\" title=\"Yashtimadhu\">yashtimadhu</a>) with milk</li></ul>",
+            "links": [
+                {
+                    "text": "yashtimadhu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Yashtimadhu"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "The powder of Glycyrrhiza glabra ( yashtimadhu ) with milk",
+                    "links": [
+                        {
+                            "text": "yashtimadhu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Yashtimadhu"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "The juice of Tinospora cordifolia ( guduchi )",
+            "html": "<ul><li>The juice of Tinospora cordifolia (<a href=\"/index.php?title=Guduchi\" title=\"Guduchi\">guduchi</a>)</li></ul>",
+            "links": [
+                {
+                    "text": "guduchi",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Guduchi"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "The juice of Tinospora cordifolia ( guduchi )",
+                    "links": [
+                        {
+                            "text": "guduchi",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Guduchi"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "The paste of Convolvulus pluricaulis ( shankhapushpi ) are considered especially as intellect promoting (medhya rasayana ). [Cha. Sa. Chikitsa Sthana 1/3/30-31]",
+            "html": "<ul><li>The paste of Convolvulus pluricaulis (<a href=\"/index.php?title=Shankhapushpi\" title=\"Shankhapushpi\">shankhapushpi</a>) are considered especially as intellect promoting (medhya <a href=\"/index.php?title=Rasayana\" title=\"Rasayana\">rasayana</a>). [Cha. Sa.<a href=\"/index.php?title=Chikitsa_Sthana\" title=\"Chikitsa Sthana\">Chikitsa Sthana</a> 1/3/30-31]</li></ul>",
+            "links": [
+                {
+                    "text": "shankhapushpi",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Shankhapushpi"
+                },
+                {
+                    "text": "rasayana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rasayana"
+                },
+                {
+                    "text": "Chikitsa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "The paste of Convolvulus pluricaulis ( shankhapushpi ) are considered especially as intellect promoting (medhya rasayana ). [Cha. Sa. Chikitsa Sthana 1/3/30-31]",
+                    "links": [
+                        {
+                            "text": "shankhapushpi",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Shankhapushpi"
+                        },
+                        {
+                            "text": "rasayana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Rasayana"
+                        },
+                        {
+                            "text": "Chikitsa Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Activities promoting intelligence",
+            "html": "<h2><span class=\"mw-headline\" id=\"Activities_promoting_intelligence\">Activities promoting intelligence</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "The academic and professional performance of a person depends upon his intelligence. Discussion with the experts (tadvidvya sambhasha) is the best method to improve intelligence and knowledge. [Cha.Sa. Sutra Sthana 25/40]",
+            "html": "<p>The academic and professional performance of a person depends upon his intelligence.  Discussion with the experts (tadvidvya sambhasha) is the best method to improve intelligence and knowledge. [Cha.Sa.<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 25/40] \n</p>",
+            "links": [
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The friendly and competitive debates on a particular topic of academic or professional interest help enhance intellectual skills.[Cha. Sa. Vimana Sthana 8/67]",
+            "html": "<p>The friendly and competitive debates on a particular topic of academic or professional interest help enhance intellectual skills.[Cha. Sa. <a href=\"/index.php?title=Vimana_Sthana\" title=\"Vimana Sthana\">Vimana Sthana</a> 8/67]\n</p>",
+            "links": [
+                {
+                    "text": "Vimana Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Continuous learning, engaging in friendly debates, referring, learning new things from other sciences, and devotion to the preceptors of sciences enhance intellectual abilities. [Su.Sa.Chikitsa Sthana 28/2]",
+            "html": "<p>Continuous learning, engaging in friendly debates, referring, learning new things from other sciences, and devotion to the preceptors of sciences enhance intellectual abilities. [Su.Sa.Chikitsa Sthana 28/2]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Current researches",
+            "html": "<h2><span class=\"mw-headline\" id=\"Current_researches\">Current researches</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ul",
+            "text": "A pilot study to examine the correlation among intelligence quotient (IQ), social quotient(SQ), performance quotient (PQ), maladaptive behavior and their relationship with primary (anubandhya) and secondary (anubandha) dosha was carried out. The 120 children with mild to moderate intellectual disabilities were included in the study. It revealed a positive correlation between IQ and SQ. The correlation of secondary dosha was found to be high with IQ and SQ. [ 18 ]",
+            "html": "<ul><li>A pilot study to examine the correlation among intelligence quotient (IQ), social quotient(SQ), performance quotient (PQ), maladaptive behavior and their relationship with primary (anubandhya) and secondary (anubandha) <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> was carried out. The 120 children with mild to moderate intellectual disabilities were included in the study. It revealed a positive correlation between IQ and SQ. The correlation of secondary <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> was found to be high with IQ and SQ.<sup class=\"reference\" id=\"cite_ref-18\"><a href=\"#cite_note-18\"><span class=\"cite-bracket\">[</span>18<span class=\"cite-bracket\">]</span></a></sup></li></ul>",
+            "links": [
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "[ 18 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_note-18"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "A pilot study to examine the correlation among intelligence quotient (IQ), social quotient(SQ), performance quotient (PQ), maladaptive behavior and their relationship with primary (anubandhya) and secondary (anubandha) dosha was carried out. The 120 children with mild to moderate intellectual disabilities were included in the study. It revealed a positive correlation between IQ and SQ. The correlation of secondary dosha was found to be high with IQ and SQ. [ 18 ]",
+                    "links": [
+                        {
+                            "text": "dosha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                        },
+                        {
+                            "text": "dosha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                        },
+                        {
+                            "text": "[ 18 ]",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_note-18"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "A study on 150 healthy individuals showed that the Intelligence Quotient (IQ) is more in kapha prakriti , moderate in pitta prakriti and least in vata prakriti individuals. In manas prakriti , IQ is more in sattvika prakriti , moderate in rajasika prakriti and least in tamasika prakriti . The other factors which influence IQ levels in the individuals are socio-economic status (IQ is less in lower classes when compared to others), education (higher the education, higher the IQ), diet (vegetarian diet influences IQ positively) and temperament (normal individuals have more IQ in comparison to calm and aggressive individuals). [ 19 ]",
+            "html": "<ul><li>A study on 150 healthy individuals showed that the Intelligence Quotient (IQ) is more in <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a> <a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">prakriti</a>, moderate in <a href=\"/index.php?title=Pitta\" title=\"Pitta\">pitta</a> <a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">prakriti</a> and least in <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a> <a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">prakriti</a> individuals. In <a href=\"/index.php?title=Manas_prakriti\" title=\"Manas prakriti\">manas prakriti</a>, IQ is more in sattvika <a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">prakriti</a>, moderate in rajasika <a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">prakriti</a> and least in tamasika <a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">prakriti</a>. The other factors which influence IQ levels in the individuals are socio-economic status (IQ is less in lower classes when compared to others), education (higher the education, higher the IQ), diet (vegetarian diet influences IQ positively) and temperament (normal individuals have more IQ in comparison to calm and aggressive individuals).<sup class=\"reference\" id=\"cite_ref-19\"><a href=\"#cite_note-19\"><span class=\"cite-bracket\">[</span>19<span class=\"cite-bracket\">]</span></a></sup></li></ul>",
+            "links": [
+                {
+                    "text": "kapha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kapha"
+                },
+                {
+                    "text": "prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "pitta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pitta"
+                },
+                {
+                    "text": "prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "vata",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vata"
+                },
+                {
+                    "text": "prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "manas prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Manas_prakriti"
+                },
+                {
+                    "text": "prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "[ 19 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_note-19"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "A study on 150 healthy individuals showed that the Intelligence Quotient (IQ) is more in kapha prakriti , moderate in pitta prakriti and least in vata prakriti individuals. In manas prakriti , IQ is more in sattvika prakriti , moderate in rajasika prakriti and least in tamasika prakriti . The other factors which influence IQ levels in the individuals are socio-economic status (IQ is less in lower classes when compared to others), education (higher the education, higher the IQ), diet (vegetarian diet influences IQ positively) and temperament (normal individuals have more IQ in comparison to calm and aggressive individuals). [ 19 ]",
+                    "links": [
+                        {
+                            "text": "kapha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Kapha"
+                        },
+                        {
+                            "text": "prakriti",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                        },
+                        {
+                            "text": "pitta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pitta"
+                        },
+                        {
+                            "text": "prakriti",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                        },
+                        {
+                            "text": "vata",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vata"
+                        },
+                        {
+                            "text": "prakriti",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                        },
+                        {
+                            "text": "manas prakriti",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Manas_prakriti"
+                        },
+                        {
+                            "text": "prakriti",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                        },
+                        {
+                            "text": "prakriti",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                        },
+                        {
+                            "text": "prakriti",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                        },
+                        {
+                            "text": "[ 19 ]",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_note-19"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "A placebo controlled clinical trial evaluated the efficacy of Glycyrrhiza glabra Linn.( yashtimadhu ) granules on intelligence quotient (IQ). The trial drug in a dose of 12 g per day with lukewarm milk in 94 school-going children aged between 14-16 years showed enhancement in IQ. [ 20 ]",
+            "html": "<ul><li>A placebo controlled clinical trial evaluated the efficacy of Glycyrrhiza glabra Linn.( <a href=\"/index.php?title=Yashtimadhu\" title=\"Yashtimadhu\">yashtimadhu</a> ) granules on intelligence quotient (IQ). The trial drug in a dose of 12 g per day with lukewarm milk in 94 school-going children aged between 14-16 years showed enhancement in IQ.<sup class=\"reference\" id=\"cite_ref-20\"><a href=\"#cite_note-20\"><span class=\"cite-bracket\">[</span>20<span class=\"cite-bracket\">]</span></a></sup></li></ul>",
+            "links": [
+                {
+                    "text": "yashtimadhu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Yashtimadhu"
+                },
+                {
+                    "text": "[ 20 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_note-20"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "A placebo controlled clinical trial evaluated the efficacy of Glycyrrhiza glabra Linn.( yashtimadhu ) granules on intelligence quotient (IQ). The trial drug in a dose of 12 g per day with lukewarm milk in 94 school-going children aged between 14-16 years showed enhancement in IQ. [ 20 ]",
+                    "links": [
+                        {
+                            "text": "yashtimadhu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Yashtimadhu"
+                        },
+                        {
+                            "text": "[ 20 ]",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_note-20"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Theses done",
+            "html": "<h2><span class=\"mw-headline\" id=\"Theses_done\">Theses done</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "1.Srivatsa(2000): Concept of Manasa Prakriti and its role in Psychopathology w.s.r to Anavastita Cittatva (General Anxiety Disorders) and its Management, Department of Basic Principles, I.P.G.T&R.A, Jamnagar.",
+            "html": "<p>1.Srivatsa(2000): Concept of <a href=\"/index.php?title=Manas_prakriti\" title=\"Manas prakriti\">Manasa Prakriti</a> and its role in Psychopathology w.s.r to Anavastita Cittatva (General Anxiety Disorders) and its Management, Department of Basic Principles, I.P.G.T&amp;R.A, Jamnagar.\n</p>",
+            "links": [
+                {
+                    "text": "Manasa Prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Manas_prakriti"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "2.Neeta Patel(2008): The Conceptual and Applied study of Medha and Manas in Ayurveda, Department of Basic Principles, I.P.G.T&R.A, Jamnagar",
+            "html": "<p>2.Neeta Patel(2008): The Conceptual and Applied study of Medha and <a href=\"/index.php?title=Manas\" title=\"Manas\">Manas</a> in Ayurveda, Department of Basic Principles, I.P.G.T&amp;R.A, Jamnagar\n</p>",
+            "links": [
+                {
+                    "text": "Manas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Manas"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "3.Amruta Gaikwad, (2011) “A Comparative Pharmaco-Clinical study of the effect of Madhu-Ghrita and Swarna-Vacha-Madhu-Ghrita on Neonates”, Department of Kaumarabhritya, I.P.G.T. &R.A., Jamnagar",
+            "html": "<p>3.Amruta Gaikwad, (2011) “A Comparative Pharmaco-Clinical study of the effect of Madhu-Ghrita and Swarna-Vacha-Madhu-Ghrita on Neonates”, Department of Kaumarabhritya, I.P.G.T. &amp;R.A., Jamnagar\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "4.Aniket Patil (2012), “To Clinically Evaluate the effect of Suvarna binduprashan on immunity and intelligence quotient”, BMK Ayurveda Mahavidhyalaya, KLE, Belgaum",
+            "html": "<p>4.Aniket Patil (2012), “To Clinically Evaluate the effect of Suvarna binduprashan on immunity and intelligence quotient”, BMK Ayurveda Mahavidhyalaya, KLE, Belgaum\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Related Chapters",
+            "html": "<h2><span class=\"mw-headline\" id=\"Related_Chapters\">Related Chapters</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ol",
+            "text": "Indriyopakramaniya Adhyaya Katidhapurusha Sharira Manas Indriya Purusha Prakriti Deha Prakriti Manas Prakriti",
+            "html": "<ol><li><a href=\"/index.php?title=Indriyopakramaniya_Adhyaya\" title=\"Indriyopakramaniya Adhyaya\">Indriyopakramaniya Adhyaya</a></li>\n<li><a href=\"/index.php?title=Katidhapurusha_Sharira\" title=\"Katidhapurusha Sharira\">Katidhapurusha Sharira</a></li>\n<li><a href=\"/index.php?title=Manas\" title=\"Manas\">Manas</a></li>\n<li><a href=\"/index.php?title=Indriya\" title=\"Indriya\">Indriya</a></li>\n<li><a href=\"/index.php?title=Purusha\" title=\"Purusha\">Purusha</a></li>\n<li><a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">Prakriti</a></li>\n<li><a class=\"mw-redirect\" href=\"/index.php?title=Deha_Prakriti\" title=\"Deha Prakriti\">Deha Prakriti</a></li>\n<li><a class=\"mw-redirect\" href=\"/index.php?title=Manas_Prakriti\" title=\"Manas Prakriti\">Manas Prakriti</a></li></ol>",
+            "links": [
+                {
+                    "text": "Indriyopakramaniya Adhyaya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriyopakramaniya_Adhyaya"
+                },
+                {
+                    "text": "Katidhapurusha Sharira",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Katidhapurusha_Sharira"
+                },
+                {
+                    "text": "Manas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Manas"
+                },
+                {
+                    "text": "Indriya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya"
+                },
+                {
+                    "text": "Purusha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha"
+                },
+                {
+                    "text": "Prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "Deha Prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Deha_Prakriti"
+                },
+                {
+                    "text": "Manas Prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Manas_Prakriti"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Indriyopakramaniya Adhyaya",
+                    "links": [
+                        {
+                            "text": "Indriyopakramaniya Adhyaya",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Indriyopakramaniya_Adhyaya"
+                        }
+                    ]
+                },
+                {
+                    "text": "Katidhapurusha Sharira",
+                    "links": [
+                        {
+                            "text": "Katidhapurusha Sharira",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Katidhapurusha_Sharira"
+                        }
+                    ]
+                },
+                {
+                    "text": "Manas",
+                    "links": [
+                        {
+                            "text": "Manas",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Manas"
+                        }
+                    ]
+                },
+                {
+                    "text": "Indriya",
+                    "links": [
+                        {
+                            "text": "Indriya",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya"
+                        }
+                    ]
+                },
+                {
+                    "text": "Purusha",
+                    "links": [
+                        {
+                            "text": "Purusha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha"
+                        }
+                    ]
+                },
+                {
+                    "text": "Prakriti",
+                    "links": [
+                        {
+                            "text": "Prakriti",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                        }
+                    ]
+                },
+                {
+                    "text": "Deha Prakriti",
+                    "links": [
+                        {
+                            "text": "Deha Prakriti",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Deha_Prakriti"
+                        }
+                    ]
+                },
+                {
+                    "text": "Manas Prakriti",
+                    "links": [
+                        {
+                            "text": "Manas Prakriti",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Manas_Prakriti"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Send us your suggestions and feedback on this page.",
+            "html": "<p><big><b><a href=\"/index.php?title=Special:ContactMe\" title=\"Special:ContactMe\">Send us your suggestions and feedback on this page.</a></b></big>\n</p>",
+            "links": [
+                {
+                    "text": "Send us your suggestions and feedback on this page.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Special:ContactMe"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "References",
+            "html": "<h2><span class=\"mw-headline\" id=\"References\">References</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "text",
+            "text": "Back to the Top"
+        },
+        {
+            "type": "ol",
+            "text": "↑ Available from http://namstp.ayush.gov.in/#/sat ↑ Wikipedia contributors. Intellect. Wikipedia, The Free Encyclopedia. April 13, 2021, 20:05 UTC. Available at: https://en.wikipedia.org/w/index.php?title=Intellect&oldid=1017624289 . Accessed June 30, 2021. ↑ Jha Srujan. Amarkosha online application ↑ Jha Srujan. Amarkosha online application ↑ Plomin, R., von Stumm, S. The new genetics of intelligence. Nat Rev Genet 19, 148–159 (2018). https://doi.org/10.1038/nrg.2017.104 ↑ Makharia A, Nagarajan A, Mishra A, Peddisetty S, Chahal D, Singh Y. Effect of environmental factors on intelligence quotient of children. Ind Psychiatry J. 2016;25(2):189-194. doi:10.4103/ipj.ipj_52_16 ↑ Braaten, Ellen B.; Norman, Dennis (1 November 2006). \"Intelligence (IQ) Testing\". Pediatrics in Review. 27 (11): 403–408. doi:10.1542/pir.27-11-403 ↑ Kaufman, Alan S.; Engi Raiford, Susan; Coalson, Diane L. (2016). Intelligent Testing With the WISC-V. Hoboken, New Jersey: John Wiley & Sons. p. 237. ↑ Birnholz JC, Benacerraf BR. The development of human fetal hearing. Science. 1983 Nov 4;222(4623):516-8. doi: 10.1126/science.6623091. PMID: 6623091. ↑ Roth G, Dicke U. Evolution of the brain and intelligence. Trends Cogn Sci. 2005 May;9(5):250-7. doi: 10.1016/j.tics.2005.03.005. PMID: 15866152. ↑ Aniket Anil Shilwant, Role of indriya in cognition as explained in Ayurveda with reference to receptors, Int. J. Ayur. Pharma Research, 2020;8(6):23-30. ↑ Nandvadekar V, Binorkar SV. Intelligence quotient and concept of Deha-Mānasa Prakṛti in Ayurveda. Anc Sci Life. 2016;35(4):201-206. doi:10.4103/0257-7941.188184 ↑ Kiely, Kim (2014). \"Cognitive function\". In Michalos, Kim M. (ed.). Encyclopedia of Quality of Life and Well-Being Research. Springer. pp. 974–978. ↑ Bernstein, Douglas A. (5 March 2010). Essentials of Psychology. Cengage Learning. pp. 123–124. ↑ Alfredo P Jr, Pereira MA, Furlan FA. Recent advances in brain physiology and cognitive processing. Mens Sana Monogr. 2011;9(1):183-192. doi:10.4103/0973-1229.77434 ↑ Belaguli G, Savitha H P. An empirical understanding on the concept of Sattvavajaya Chikitsa (Ayurveda Psychotherapy) and a mini-review of its research update. Indian J Health Sci Biomed Res 2019;12:15-20 ↑ Melville K (22 November 2004). \"Poor Nutrition Leads to Low IQ\". scienceagogo.com. ↑ Sharma S, Balsavar A, Beniwal RP, Bhatia T, Deshpande SN. A Pilot Study of Correlation between Intelligence Quotient, Social Quotient, and Ayurveda Parameters in Children. Indian J Psychol Med. ↑ Nandvadekar V, Binorkar SV. Intelligence quotient and concept of Deha-Mānasa Prakṛti in Ayurveda. Ancient Sci Life [serial online] 2016 [cited 2022 Aug 29];35:201-6. Available from: https://www.ancientscienceoflife.org/text.asp?2016/35/4/201/188184 ↑ Sheshagiri S, Patel KS, Rajagopala S. Randomized placebo-controlled clinical study on enhancement of Medha (intelligence quotient) in school going children with Yahstimadhu granules. Ayu. 2015 Jan-Mar;36(1):56-62. doi: 10.4103/0974-8520.169011. PMID: 26730140; PMCID: PMC4687241.",
+            "html": "<ol class=\"references\">\n<li id=\"cite_note-1\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-1\">↑</a></span> <span class=\"reference-text\">Available from  <a class=\"external free\" href=\"http://namstp.ayush.gov.in/#/sat\" rel=\"nofollow\">http://namstp.ayush.gov.in/#/sat</a></span>\n</li>\n<li id=\"cite_note-2\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-2\">↑</a></span> <span class=\"reference-text\">Wikipedia contributors. Intellect. Wikipedia, The Free Encyclopedia. April 13, 2021, 20:05 UTC. Available at: <a class=\"external free\" href=\"https://en.wikipedia.org/w/index.php?title=Intellect&amp;oldid=1017624289\" rel=\"nofollow\">https://en.wikipedia.org/w/index.php?title=Intellect&amp;oldid=1017624289</a>. Accessed June 30, 2021.</span>\n</li>\n<li id=\"cite_note-3\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-3\">↑</a></span> <span class=\"reference-text\">Jha Srujan. Amarkosha online application</span>\n</li>\n<li id=\"cite_note-4\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-4\">↑</a></span> <span class=\"reference-text\">Jha Srujan. Amarkosha online application</span>\n</li>\n<li id=\"cite_note-5\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-5\">↑</a></span> <span class=\"reference-text\">Plomin, R., von Stumm, S. The new genetics of intelligence. Nat Rev Genet 19, 148–159 (2018). <a class=\"external free\" href=\"https://doi.org/10.1038/nrg.2017.104\" rel=\"nofollow\">https://doi.org/10.1038/nrg.2017.104</a></span>\n</li>\n<li id=\"cite_note-6\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-6\">↑</a></span> <span class=\"reference-text\">Makharia A, Nagarajan A, Mishra A, Peddisetty S, Chahal D, Singh Y. Effect of environmental factors on intelligence quotient of children. Ind Psychiatry J. 2016;25(2):189-194. doi:10.4103/ipj.ipj_52_16</span>\n</li>\n<li id=\"cite_note-7\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-7\">↑</a></span> <span class=\"reference-text\">Braaten, Ellen B.; Norman, Dennis (1 November 2006). \"Intelligence (IQ) Testing\". Pediatrics in Review. 27 (11): 403–408. doi:10.1542/pir.27-11-403</span>\n</li>\n<li id=\"cite_note-8\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-8\">↑</a></span> <span class=\"reference-text\">Kaufman, Alan S.; Engi Raiford, Susan; Coalson, Diane L. (2016). Intelligent Testing With the WISC-V. Hoboken, New Jersey: John Wiley &amp; Sons. p. 237.</span>\n</li>\n<li id=\"cite_note-9\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-9\">↑</a></span> <span class=\"reference-text\">Birnholz JC, Benacerraf BR. The development of human fetal hearing. Science. 1983 Nov 4;222(4623):516-8. doi: 10.1126/science.6623091. PMID: 6623091.</span>\n</li>\n<li id=\"cite_note-10\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-10\">↑</a></span> <span class=\"reference-text\">Roth G, Dicke U. Evolution of the brain and intelligence. Trends Cogn Sci. 2005 May;9(5):250-7. doi: 10.1016/j.tics.2005.03.005. PMID: 15866152.</span>\n</li>\n<li id=\"cite_note-11\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-11\">↑</a></span> <span class=\"reference-text\">Aniket Anil Shilwant, Role of indriya in cognition as explained in Ayurveda with reference to receptors, Int. J. Ayur. Pharma Research, 2020;8(6):23-30.</span>\n</li>\n<li id=\"cite_note-12\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-12\">↑</a></span> <span class=\"reference-text\">Nandvadekar V, Binorkar SV. Intelligence quotient and concept of Deha-Mānasa Prakṛti in Ayurveda. Anc Sci Life. 2016;35(4):201-206. doi:10.4103/0257-7941.188184</span>\n</li>\n<li id=\"cite_note-13\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-13\">↑</a></span> <span class=\"reference-text\">Kiely, Kim (2014). \"Cognitive function\". In Michalos, Kim M. (ed.). Encyclopedia of Quality of Life and Well-Being Research. Springer. pp. 974–978.</span>\n</li>\n<li id=\"cite_note-14\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-14\">↑</a></span> <span class=\"reference-text\">Bernstein, Douglas A. (5 March 2010). Essentials of Psychology. Cengage Learning. pp. 123–124.</span>\n</li>\n<li id=\"cite_note-15\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-15\">↑</a></span> <span class=\"reference-text\">Alfredo P Jr, Pereira MA, Furlan FA. Recent advances in brain physiology and cognitive processing. Mens Sana Monogr. 2011;9(1):183-192. doi:10.4103/0973-1229.77434</span>\n</li>\n<li id=\"cite_note-16\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-16\">↑</a></span> <span class=\"reference-text\">Belaguli G, Savitha H P. An empirical understanding on the concept of Sattvavajaya Chikitsa (Ayurveda Psychotherapy) and a mini-review of its research update. Indian J Health Sci Biomed Res 2019;12:15-20</span>\n</li>\n<li id=\"cite_note-17\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-17\">↑</a></span> <span class=\"reference-text\">Melville K (22 November 2004). \"Poor Nutrition Leads to Low IQ\". scienceagogo.com.</span>\n</li>\n<li id=\"cite_note-18\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-18\">↑</a></span> <span class=\"reference-text\">Sharma S, Balsavar A, Beniwal RP, Bhatia T, Deshpande SN. A Pilot Study of Correlation between Intelligence Quotient, Social Quotient, and Ayurveda Parameters in Children. Indian J Psychol Med. </span>\n</li>\n<li id=\"cite_note-19\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-19\">↑</a></span> <span class=\"reference-text\">Nandvadekar V, Binorkar SV. Intelligence quotient and concept of Deha-Mānasa Prakṛti in Ayurveda. Ancient Sci Life [serial online] 2016 [cited 2022 Aug 29];35:201-6. Available from: <a class=\"external free\" href=\"https://www.ancientscienceoflife.org/text.asp?2016/35/4/201/188184\" rel=\"nofollow\">https://www.ancientscienceoflife.org/text.asp?2016/35/4/201/188184</a></span>\n</li>\n<li id=\"cite_note-20\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-20\">↑</a></span> <span class=\"reference-text\">Sheshagiri S, Patel KS, Rajagopala S. Randomized placebo-controlled clinical study on enhancement of Medha (intelligence quotient) in school going children with Yahstimadhu granules. Ayu. 2015 Jan-Mar;36(1):56-62. doi: 10.4103/0974-8520.169011. PMID: 26730140; PMCID: PMC4687241.</span>\n</li>\n</ol>",
+            "links": [
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_ref-1"
+                },
+                {
+                    "text": "http://namstp.ayush.gov.in/#/sat",
+                    "url": "http://namstp.ayush.gov.in/#/sat"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_ref-2"
+                },
+                {
+                    "text": "https://en.wikipedia.org/w/index.php?title=Intellect&oldid=1017624289",
+                    "url": "https://en.wikipedia.org/w/index.php?title=Intellect&oldid=1017624289"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_ref-3"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_ref-4"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_ref-5"
+                },
+                {
+                    "text": "https://doi.org/10.1038/nrg.2017.104",
+                    "url": "https://doi.org/10.1038/nrg.2017.104"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_ref-6"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_ref-7"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_ref-8"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_ref-9"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_ref-10"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_ref-11"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_ref-12"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_ref-13"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_ref-14"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_ref-15"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_ref-16"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_ref-17"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_ref-18"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_ref-19"
+                },
+                {
+                    "text": "https://www.ancientscienceoflife.org/text.asp?2016/35/4/201/188184",
+                    "url": "https://www.ancientscienceoflife.org/text.asp?2016/35/4/201/188184"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_ref-20"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "↑ Available from http://namstp.ayush.gov.in/#/sat",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_ref-1"
+                        },
+                        {
+                            "text": "http://namstp.ayush.gov.in/#/sat",
+                            "url": "http://namstp.ayush.gov.in/#/sat"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Wikipedia contributors. Intellect. Wikipedia, The Free Encyclopedia. April 13, 2021, 20:05 UTC. Available at: https://en.wikipedia.org/w/index.php?title=Intellect&oldid=1017624289 . Accessed June 30, 2021.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_ref-2"
+                        },
+                        {
+                            "text": "https://en.wikipedia.org/w/index.php?title=Intellect&oldid=1017624289",
+                            "url": "https://en.wikipedia.org/w/index.php?title=Intellect&oldid=1017624289"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Jha Srujan. Amarkosha online application",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_ref-3"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Jha Srujan. Amarkosha online application",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_ref-4"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Plomin, R., von Stumm, S. The new genetics of intelligence. Nat Rev Genet 19, 148–159 (2018). https://doi.org/10.1038/nrg.2017.104",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_ref-5"
+                        },
+                        {
+                            "text": "https://doi.org/10.1038/nrg.2017.104",
+                            "url": "https://doi.org/10.1038/nrg.2017.104"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Makharia A, Nagarajan A, Mishra A, Peddisetty S, Chahal D, Singh Y. Effect of environmental factors on intelligence quotient of children. Ind Psychiatry J. 2016;25(2):189-194. doi:10.4103/ipj.ipj_52_16",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_ref-6"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Braaten, Ellen B.; Norman, Dennis (1 November 2006). \"Intelligence (IQ) Testing\". Pediatrics in Review. 27 (11): 403–408. doi:10.1542/pir.27-11-403",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_ref-7"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Kaufman, Alan S.; Engi Raiford, Susan; Coalson, Diane L. (2016). Intelligent Testing With the WISC-V. Hoboken, New Jersey: John Wiley & Sons. p. 237.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_ref-8"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Birnholz JC, Benacerraf BR. The development of human fetal hearing. Science. 1983 Nov 4;222(4623):516-8. doi: 10.1126/science.6623091. PMID: 6623091.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_ref-9"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Roth G, Dicke U. Evolution of the brain and intelligence. Trends Cogn Sci. 2005 May;9(5):250-7. doi: 10.1016/j.tics.2005.03.005. PMID: 15866152.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_ref-10"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Aniket Anil Shilwant, Role of indriya in cognition as explained in Ayurveda with reference to receptors, Int. J. Ayur. Pharma Research, 2020;8(6):23-30.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_ref-11"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Nandvadekar V, Binorkar SV. Intelligence quotient and concept of Deha-Mānasa Prakṛti in Ayurveda. Anc Sci Life. 2016;35(4):201-206. doi:10.4103/0257-7941.188184",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_ref-12"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Kiely, Kim (2014). \"Cognitive function\". In Michalos, Kim M. (ed.). Encyclopedia of Quality of Life and Well-Being Research. Springer. pp. 974–978.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_ref-13"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Bernstein, Douglas A. (5 March 2010). Essentials of Psychology. Cengage Learning. pp. 123–124.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_ref-14"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Alfredo P Jr, Pereira MA, Furlan FA. Recent advances in brain physiology and cognitive processing. Mens Sana Monogr. 2011;9(1):183-192. doi:10.4103/0973-1229.77434",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_ref-15"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Belaguli G, Savitha H P. An empirical understanding on the concept of Sattvavajaya Chikitsa (Ayurveda Psychotherapy) and a mini-review of its research update. Indian J Health Sci Biomed Res 2019;12:15-20",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_ref-16"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Melville K (22 November 2004). \"Poor Nutrition Leads to Low IQ\". scienceagogo.com.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_ref-17"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Sharma S, Balsavar A, Beniwal RP, Bhatia T, Deshpande SN. A Pilot Study of Correlation between Intelligence Quotient, Social Quotient, and Ayurveda Parameters in Children. Indian J Psychol Med.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_ref-18"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Nandvadekar V, Binorkar SV. Intelligence quotient and concept of Deha-Mānasa Prakṛti in Ayurveda. Ancient Sci Life [serial online] 2016 [cited 2022 Aug 29];35:201-6. Available from: https://www.ancientscienceoflife.org/text.asp?2016/35/4/201/188184",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_ref-19"
+                        },
+                        {
+                            "text": "https://www.ancientscienceoflife.org/text.asp?2016/35/4/201/188184",
+                            "url": "https://www.ancientscienceoflife.org/text.asp?2016/35/4/201/188184"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Sheshagiri S, Patel KS, Rajagopala S. Randomized placebo-controlled clinical study on enhancement of Medha (intelligence quotient) in school going children with Yahstimadhu granules. Ayu. 2015 Jan-Mar;36(1):56-62. doi: 10.4103/0974-8520.169011. PMID: 26730140; PMCID: PMC4687241.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi#cite_ref-20"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "text": "NewPP limit report\nCached time: 20261118175555\nCache expiry: 86400\nReduced expiry: false\nComplications: [vary‐revision‐id, show‐toc]\nCPU time usage: 0.072 seconds\nReal time usage: 0.219 seconds\nPreprocessor visited node count: 576/1000000\nPost‐expand include size: 1921/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 3/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 3133/5000000 bytes\nLua time usage: 0.060/7 seconds\nLua virtual size: 20471808/209715200 bytes\nLua estimated memory usage: 0 bytes"
+        },
+        {
+            "type": "text",
+            "text": "Transclusion expansion time report (%,ms,calls,template)\n100.00% 180.522 1 -total\n90.04% 162.544 1 Template:Infobox\n1.09% 1.959 1 Template:CiteButton"
+        },
+        {
+            "type": "text",
+            "text": "Saved in parser cache with key carakas1_carakasa:pcache:idhash:3094-0!canonical and timestamp 20261118175555 and revision id 44668. Rendering was triggered because: page-view"
+        },
+        {
+            "type": "text",
+            "text": "Retrieved from \""
+        },
+        {
+            "type": "text",
+            "text": "https://www.carakasamhitaonline.com/index.php?title=Buddhi&oldid=44668"
+        },
+        {
+            "type": "text",
+            "text": "\""
+        }
+    ],
+    "html_sha256": "fe94d5832c6aa296201f7b6e9b163ce5cb2f89e588e8a832ff16c922709d37a3"
+}

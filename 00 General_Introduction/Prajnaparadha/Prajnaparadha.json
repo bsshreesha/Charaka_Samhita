@@ -1,0 +1,1754 @@
+{
+    "source": "Charaka Samhita",
+    "chapter": "Prajnaparadha",
+    "chapter_id": "Prajnaparadha",
+    "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha",
+    "xpath": "//*[@id=\"content\"]",
+    "extraction_date": "2026-11-19T10:31:32",
+    "total_blocks": 105,
+    "total_tables": 1,
+    "total_headings": 22,
+    "total_paragraphs": 37,
+    "content": [
+        {
+            "type": "h1",
+            "text": "Prajnaparadha",
+            "html": "<h1 class=\"firstHeading mw-first-heading\" id=\"firstHeading\"><span class=\"mw-page-title-main\">Prajnaparadha</span></h1>",
+            "links": [],
+            "images": [],
+            "level": 1
+        },
+        {
+            "type": "text",
+            "text": "From Charak Samhita"
+        },
+        {
+            "type": "text",
+            "text": "Jump to navigation"
+        },
+        {
+            "type": "text",
+            "text": "Jump to search"
+        },
+        {
+            "type": "figure",
+            "text": "",
+            "html": "<figure class=\"mw-default-size mw-halign-right\" typeof=\"mw:File\"><a href=\"https://www.carakasamhitaonline.com/index.php?title=Special:CiteThisPage&amp;page=Prajnaparadha&amp;id=44671&amp;wpFormIdentifier=titleform\" rel=\"nofollow\"><img class=\"mw-file-element\" decoding=\"async\" height=\"47\" src=\"/images/5/58/Cite.png\" width=\"180\"/></a><figcaption></figcaption></figure>",
+            "links": [
+                {
+                    "text": "",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Special:CiteThisPage&page=Prajnaparadha&id=44671&wpFormIdentifier=titleform"
+                }
+            ],
+            "images": [
+                {
+                    "url": "https://www.carakasamhitaonline.com/images/5/58/Cite.png",
+                    "alt": "",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Prajnaparadha is one of the three crucial fundamental causes of diseases. [Cha.Sa. Sutra Sthana 11/43]. It means an intellectual error or defective judgment. The intellect (buddhi) is the commanding factor over all habits. It differentiates between good and bad, suitable and unsuitable things for the individual, and is a major cause of distress. The errors in taking diet, opting for wrong lifestyle, which is not suitable for one’s constitution and health are mainly caused by intellectual error or defective judgements.\nThis leads to indulgence in a variety of causative factors resulting in occurrence as well as recurrence of the disease.",
+            "html": "<p style=\"text-align:justify;\">Prajnaparadha is one of the three crucial fundamental causes of diseases. [Cha.Sa.<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 11/43]. It means an intellectual error or defective judgment. The intellect (buddhi) is the commanding factor over all habits. It differentiates between good and bad, suitable and unsuitable things for the individual, and is a major cause of distress. The errors in taking diet, opting for wrong lifestyle, which is not suitable for one’s constitution and health are mainly caused by intellectual error or defective judgements.\nThis leads to indulgence in a variety of causative factors resulting in occurrence as well as recurrence of the disease.  </p>",
+            "links": [
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "Section/Chapter/topic",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Health / Prajnaparadha",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Health",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Health"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Authors",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Deole Y.S. , Anagha S.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Deole Y.S.",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Yogesh_Deole"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Reviewer and Editor",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Basisht G.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Basisht G.",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Gopal_Basisht"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Affiliations",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Charak Samhita Research, Training and Development Centre , I.P.G.T.& R.A., Jamnagar",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Charak Samhita Research, Training and Development Centre",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Correspondence email",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "dryogeshdeole@gmail.com, carakasamhita@gmail.com",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Publisher",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Charak Samhita Research, Training and Development Centre , I.T.R.A., Jamnagar, India",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Charak Samhita Research, Training and Development Centre",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Date of first publication:",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "March 27, 2021",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "DOI",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "10.47468/CSNE.2021.e01.s09.046",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ]
+            ],
+            "html": "<table class=\"infobox\" style=\"width:22em\"><caption>Contributors</caption><tbody><tr><th scope=\"row\">Section/Chapter/topic</th><td>\n<a href=\"/index.php?title=Health\" title=\"Health\">Health</a> / <a class=\"mw-selflink selflink\">Prajnaparadha</a></td></tr><tr><th scope=\"row\">Authors</th><td>\n<a href=\"/index.php?title=Yogesh_Deole\" title=\"Yogesh Deole\">Deole Y.S.</a>, Anagha S.</td></tr><tr><th scope=\"row\">Reviewer and Editor</th><td>\n<a href=\"/index.php?title=Gopal_Basisht\" title=\"Gopal Basisht\">Basisht G.</a></td></tr><tr><th scope=\"row\">Affiliations</th><td>\n<a class=\"mw-redirect\" href=\"/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre\" title=\"Charak Samhita Research, Training and Development Centre\">Charak Samhita Research, Training and Development Centre</a>, I.P.G.T.&amp; R.A., Jamnagar</td></tr><tr><th scope=\"row\">Correspondence email</th><td>\ndryogeshdeole@gmail.com, carakasamhita@gmail.com</td></tr><tr><th scope=\"row\">Publisher</th><td>\n<a class=\"mw-redirect\" href=\"/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre\" title=\"Charak Samhita Research, Training and Development Centre\">Charak Samhita Research, Training and Development Centre</a>, I.T.R.A., Jamnagar, India</td></tr><tr><th scope=\"row\">Date of first publication:</th><td>\nMarch 27, 2021</td></tr><tr><th scope=\"row\">DOI</th><td>\n10.47468/CSNE.2021.e01.s09.046</td></tr></tbody></table>",
+            "links": [
+                {
+                    "text": "Health",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Health"
+                },
+                {
+                    "text": "Deole Y.S.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Yogesh_Deole"
+                },
+                {
+                    "text": "Basisht G.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Gopal_Basisht"
+                },
+                {
+                    "text": "Charak Samhita Research, Training and Development Centre",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre"
+                },
+                {
+                    "text": "Charak Samhita Research, Training and Development Centre",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre"
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Contents",
+            "html": "<h2 id=\"mw-toc-heading\">Contents</h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ul",
+            "text": "1 Literal meaning 1.1 Definition and importance 1.2 Fundamental cause of disease 1.3 Sub-domains of intellectual defect 1.3.1 a)Defective comprehension (dhi vibhramsha)(SAT-A.196) 1.3.2 b)Defective restraint (dhriti vibramsha)(SAT-A.197) 1.3.3 c)Defective recall or memory (smriti vibramsha)(SAT-A.198) 1.4 Actions induced by intellectual defect 2 Contemporary views 2.1 Three types of indulgence 2.2 Three types of actions 3 Importance in diagnosis 3.1 The intellectual error of physician 4 Importance in management of disease 5 Importance in the preservation of health and prevention 6 Current researches 7 More information 7.1 Related Chapters 7.2 Abbreviations 8 References",
+            "html": "<ul>\n<li class=\"toclevel-1 tocsection-1\"><a href=\"#Literal_meaning\"><span class=\"tocnumber\">1</span> <span class=\"toctext\">Literal meaning</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-2\"><a href=\"#Definition_and_importance\"><span class=\"tocnumber\">1.1</span> <span class=\"toctext\">Definition and importance</span></a></li>\n<li class=\"toclevel-2 tocsection-3\"><a href=\"#Fundamental_cause_of_disease\"><span class=\"tocnumber\">1.2</span> <span class=\"toctext\">Fundamental cause of disease</span></a></li>\n<li class=\"toclevel-2 tocsection-4\"><a href=\"#Sub-domains_of_intellectual_defect\"><span class=\"tocnumber\">1.3</span> <span class=\"toctext\">Sub-domains of intellectual defect</span></a>\n<ul>\n<li class=\"toclevel-3 tocsection-5\"><a href=\"#a)Defective_comprehension_(dhi_vibhramsha)(SAT-A.196)\"><span class=\"tocnumber\">1.3.1</span> <span class=\"toctext\">a)Defective comprehension (dhi vibhramsha)(SAT-A.196)</span></a></li>\n<li class=\"toclevel-3 tocsection-6\"><a href=\"#b)Defective_restraint_(dhriti_vibramsha)(SAT-A.197)\"><span class=\"tocnumber\">1.3.2</span> <span class=\"toctext\">b)Defective restraint (dhriti vibramsha)(SAT-A.197)</span></a></li>\n<li class=\"toclevel-3 tocsection-7\"><a href=\"#c)Defective_recall_or_memory_(smriti_vibramsha)(SAT-A.198)\"><span class=\"tocnumber\">1.3.3</span> <span class=\"toctext\">c)Defective recall or memory (smriti vibramsha)(SAT-A.198)</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-2 tocsection-8\"><a href=\"#Actions_induced_by_intellectual_defect\"><span class=\"tocnumber\">1.4</span> <span class=\"toctext\">Actions induced by intellectual defect</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-9\"><a href=\"#Contemporary_views\"><span class=\"tocnumber\">2</span> <span class=\"toctext\">Contemporary views</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-10\"><a href=\"#Three_types_of_indulgence\"><span class=\"tocnumber\">2.1</span> <span class=\"toctext\">Three types of indulgence</span></a></li>\n<li class=\"toclevel-2 tocsection-11\"><a href=\"#Three_types_of_actions\"><span class=\"tocnumber\">2.2</span> <span class=\"toctext\">Three types of actions</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-12\"><a href=\"#Importance_in_diagnosis\"><span class=\"tocnumber\">3</span> <span class=\"toctext\">Importance in diagnosis</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-13\"><a href=\"#The_intellectual_error_of_physician\"><span class=\"tocnumber\">3.1</span> <span class=\"toctext\">The intellectual error of physician</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-14\"><a href=\"#Importance_in_management_of_disease\"><span class=\"tocnumber\">4</span> <span class=\"toctext\">Importance in management of disease</span></a></li>\n<li class=\"toclevel-1 tocsection-15\"><a href=\"#Importance_in_the_preservation_of_health_and_prevention\"><span class=\"tocnumber\">5</span> <span class=\"toctext\">Importance in the preservation of health and prevention</span></a></li>\n<li class=\"toclevel-1 tocsection-16\"><a href=\"#Current_researches\"><span class=\"tocnumber\">6</span> <span class=\"toctext\">Current researches</span></a></li>\n<li class=\"toclevel-1 tocsection-17\"><a href=\"#More_information\"><span class=\"tocnumber\">7</span> <span class=\"toctext\">More information</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-18\"><a href=\"#Related_Chapters\"><span class=\"tocnumber\">7.1</span> <span class=\"toctext\">Related Chapters</span></a></li>\n<li class=\"toclevel-2 tocsection-19\"><a href=\"#Abbreviations\"><span class=\"tocnumber\">7.2</span> <span class=\"toctext\">Abbreviations</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-20\"><a href=\"#References\"><span class=\"tocnumber\">8</span> <span class=\"toctext\">References</span></a></li>\n</ul>",
+            "links": [
+                {
+                    "text": "1 Literal meaning",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#Literal_meaning"
+                },
+                {
+                    "text": "1.1 Definition and importance",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#Definition_and_importance"
+                },
+                {
+                    "text": "1.2 Fundamental cause of disease",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#Fundamental_cause_of_disease"
+                },
+                {
+                    "text": "1.3 Sub-domains of intellectual defect",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#Sub-domains_of_intellectual_defect"
+                },
+                {
+                    "text": "1.3.1 a)Defective comprehension (dhi vibhramsha)(SAT-A.196)",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#a)Defective_comprehension_(dhi_vibhramsha)(SAT-A.196)"
+                },
+                {
+                    "text": "1.3.2 b)Defective restraint (dhriti vibramsha)(SAT-A.197)",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#b)Defective_restraint_(dhriti_vibramsha)(SAT-A.197)"
+                },
+                {
+                    "text": "1.3.3 c)Defective recall or memory (smriti vibramsha)(SAT-A.198)",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#c)Defective_recall_or_memory_(smriti_vibramsha)(SAT-A.198)"
+                },
+                {
+                    "text": "1.4 Actions induced by intellectual defect",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#Actions_induced_by_intellectual_defect"
+                },
+                {
+                    "text": "2 Contemporary views",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#Contemporary_views"
+                },
+                {
+                    "text": "2.1 Three types of indulgence",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#Three_types_of_indulgence"
+                },
+                {
+                    "text": "2.2 Three types of actions",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#Three_types_of_actions"
+                },
+                {
+                    "text": "3 Importance in diagnosis",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#Importance_in_diagnosis"
+                },
+                {
+                    "text": "3.1 The intellectual error of physician",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#The_intellectual_error_of_physician"
+                },
+                {
+                    "text": "4 Importance in management of disease",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#Importance_in_management_of_disease"
+                },
+                {
+                    "text": "5 Importance in the preservation of health and prevention",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#Importance_in_the_preservation_of_health_and_prevention"
+                },
+                {
+                    "text": "6 Current researches",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#Current_researches"
+                },
+                {
+                    "text": "7 More information",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#More_information"
+                },
+                {
+                    "text": "7.1 Related Chapters",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#Related_Chapters"
+                },
+                {
+                    "text": "7.2 Abbreviations",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#Abbreviations"
+                },
+                {
+                    "text": "8 References",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#References"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "1 Literal meaning 1.1 Definition and importance 1.2 Fundamental cause of disease 1.3 Sub-domains of intellectual defect 1.3.1 a)Defective comprehension (dhi vibhramsha)(SAT-A.196) 1.3.2 b)Defective restraint (dhriti vibramsha)(SAT-A.197) 1.3.3 c)Defective recall or memory (smriti vibramsha)(SAT-A.198) 1.4 Actions induced by intellectual defect",
+                    "links": [
+                        {
+                            "text": "1 Literal meaning",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#Literal_meaning"
+                        },
+                        {
+                            "text": "1.1 Definition and importance",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#Definition_and_importance"
+                        },
+                        {
+                            "text": "1.2 Fundamental cause of disease",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#Fundamental_cause_of_disease"
+                        },
+                        {
+                            "text": "1.3 Sub-domains of intellectual defect",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#Sub-domains_of_intellectual_defect"
+                        },
+                        {
+                            "text": "1.3.1 a)Defective comprehension (dhi vibhramsha)(SAT-A.196)",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#a)Defective_comprehension_(dhi_vibhramsha)(SAT-A.196)"
+                        },
+                        {
+                            "text": "1.3.2 b)Defective restraint (dhriti vibramsha)(SAT-A.197)",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#b)Defective_restraint_(dhriti_vibramsha)(SAT-A.197)"
+                        },
+                        {
+                            "text": "1.3.3 c)Defective recall or memory (smriti vibramsha)(SAT-A.198)",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#c)Defective_recall_or_memory_(smriti_vibramsha)(SAT-A.198)"
+                        },
+                        {
+                            "text": "1.4 Actions induced by intellectual defect",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#Actions_induced_by_intellectual_defect"
+                        }
+                    ]
+                },
+                {
+                    "text": "2 Contemporary views 2.1 Three types of indulgence 2.2 Three types of actions",
+                    "links": [
+                        {
+                            "text": "2 Contemporary views",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#Contemporary_views"
+                        },
+                        {
+                            "text": "2.1 Three types of indulgence",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#Three_types_of_indulgence"
+                        },
+                        {
+                            "text": "2.2 Three types of actions",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#Three_types_of_actions"
+                        }
+                    ]
+                },
+                {
+                    "text": "3 Importance in diagnosis 3.1 The intellectual error of physician",
+                    "links": [
+                        {
+                            "text": "3 Importance in diagnosis",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#Importance_in_diagnosis"
+                        },
+                        {
+                            "text": "3.1 The intellectual error of physician",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#The_intellectual_error_of_physician"
+                        }
+                    ]
+                },
+                {
+                    "text": "4 Importance in management of disease",
+                    "links": [
+                        {
+                            "text": "4 Importance in management of disease",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#Importance_in_management_of_disease"
+                        }
+                    ]
+                },
+                {
+                    "text": "5 Importance in the preservation of health and prevention",
+                    "links": [
+                        {
+                            "text": "5 Importance in the preservation of health and prevention",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#Importance_in_the_preservation_of_health_and_prevention"
+                        }
+                    ]
+                },
+                {
+                    "text": "6 Current researches",
+                    "links": [
+                        {
+                            "text": "6 Current researches",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#Current_researches"
+                        }
+                    ]
+                },
+                {
+                    "text": "7 More information 7.1 Related Chapters 7.2 Abbreviations",
+                    "links": [
+                        {
+                            "text": "7 More information",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#More_information"
+                        },
+                        {
+                            "text": "7.1 Related Chapters",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#Related_Chapters"
+                        },
+                        {
+                            "text": "7.2 Abbreviations",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#Abbreviations"
+                        }
+                    ]
+                },
+                {
+                    "text": "8 References",
+                    "links": [
+                        {
+                            "text": "8 References",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#References"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Literal meaning",
+            "html": "<h2><span class=\"mw-headline\" id=\"Literal_meaning\">Literal meaning</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "In Sanskrit, ‘prajnaparadha ’ is formed by the combination of two words, ‘prajna’ (intellect) and ‘aparadha’ (offense/fault/error). The Sanskrit word prajna is derived from the word root “jna” by adding the prefix-“pra” which denotes superior knowledge or intelligence. It means judgment, distinguishing capacity, discrimination etc. [ 1 ]",
+            "html": "<p>In Sanskrit, ‘prajnaparadha ’ is formed by the combination of two words, ‘prajna’ (intellect) and ‘aparadha’ (offense/fault/error). The Sanskrit word prajna is derived from the word root “jna” by adding the prefix-“pra” which denotes superior knowledge or intelligence. It means judgment, distinguishing capacity, discrimination etc.<sup class=\"reference\" id=\"cite_ref-1\"><a href=\"#cite_note-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 1 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#cite_note-1"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The word aparadha is derived from adding the prefix “apa” (meaning badly) to the word root “radha” (meaning to accomplish). It means error, mistake, fault, sin, offense, crime etc. [ 2 ]",
+            "html": "<p>The word aparadha is derived from adding the prefix “apa” (meaning badly) to the word root “radha” (meaning to accomplish). It means error, mistake, fault, sin, offense, crime etc.<sup class=\"reference\" id=\"cite_ref-2\"><a href=\"#cite_note-2\"><span class=\"cite-bracket\">[</span>2<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 2 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#cite_note-2"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Thus, the term 'prajnaparadha ' means intellectual error. (SAT-J.49) This leads to indulgence in harmful activities and diseases. (SAT-C.76) [ 3 ]",
+            "html": "<p>Thus, the term 'prajnaparadha ' means intellectual error. (SAT-J.49) This leads to indulgence in harmful activities and diseases. (SAT-C.76)<sup class=\"reference\" id=\"cite_ref-3\"><a href=\"#cite_note-3\"><span class=\"cite-bracket\">[</span>3<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 3 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#cite_note-3"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Definition and importance",
+            "html": "<h3><span class=\"mw-headline\" id=\"Definition_and_importance\">Definition and importance</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "ul",
+            "text": "Wrong deeds done on account of the impairment of intellect, wisdom, and memory, leading to the aggravation of all dosha is collectively known as ‘intellectual error (prajnaparadha )’. [Cha. Sa. Sharira Sthana 1/102]",
+            "html": "<ul><li>Wrong deeds done on account of the impairment of intellect, wisdom, and memory, leading to the aggravation of all <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> is collectively known as ‘intellectual error (prajnaparadha )’. [Cha. Sa. <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 1/102]</li></ul>",
+            "links": [
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Wrong deeds done on account of the impairment of intellect, wisdom, and memory, leading to the aggravation of all dosha is collectively known as ‘intellectual error (prajnaparadha )’. [Cha. Sa. Sharira Sthana 1/102]",
+                    "links": [
+                        {
+                            "text": "dosha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                        },
+                        {
+                            "text": "Sharira Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Understanding the subjects in an improper way due to the impairment of intellect and also inaccurately executing this improper judgment is termed as ‘prajnaparadha ’. [Cha.Sa. Sharira Sthana 1/109]",
+            "html": "<ul><li>Understanding the subjects in an improper way due to the impairment of intellect and also inaccurately executing this improper judgment is termed as ‘prajnaparadha ’. [Cha.Sa.<a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 1/109]</li></ul>",
+            "links": [
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Understanding the subjects in an improper way due to the impairment of intellect and also inaccurately executing this improper judgment is termed as ‘prajnaparadha ’. [Cha.Sa. Sharira Sthana 1/109]",
+                    "links": [
+                        {
+                            "text": "Sharira Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Any kind of the wrong action (karma) executed by body, mind or speech comes under the category of an intellectual error.[Cha.Sa. Sutra Sthana 11/41]",
+            "html": "<ul><li>Any kind of the wrong action (karma) executed by body, mind or speech comes under the category of an intellectual error.[Cha.Sa.<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 11/41]</li></ul>",
+            "links": [
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Any kind of the wrong action (karma) executed by body, mind or speech comes under the category of an intellectual error.[Cha.Sa. Sutra Sthana 11/41]",
+                    "links": [
+                        {
+                            "text": "Sutra Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h3",
+            "text": "Fundamental cause of disease",
+            "html": "<h3><span class=\"mw-headline\" id=\"Fundamental_cause_of_disease\">Fundamental cause of disease</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "It is considered as one of the three major causative factors for any kind of disease. The other two causes are the unwholesome union of the sense organs with their objects (asatmya indriyaartha samyoga), and seasonal effects (parinama).[Cha. Sa. Sutra Sthana 11/43], [Cha. Sa. Sutra Sthana 20/5], [Cha. Sa. Sutra Sthana 28/7], [Cha. Sa. Nidana Sthana 1/3]",
+            "html": "<p>It is considered as one of the three major causative factors for any kind of disease. The other two causes are the unwholesome union of the sense organs with their objects (asatmya indriyaartha samyoga), and seasonal effects (parinama).[Cha. Sa. <a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 11/43], [Cha. Sa. <a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 20/5], [Cha. Sa. <a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 28/7], [Cha. Sa. <a href=\"/index.php?title=Nidana_Sthana\" title=\"Nidana Sthana\">Nidana Sthana</a> 1/3] \n</p>",
+            "links": [
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "Nidana Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Nidana_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "It is a specific causative factor for exogenous (agantu) diseases.[Cha. Sa. Sutra Sthana 7/51]",
+            "html": "<p>It is a specific causative factor for exogenous (agantu) diseases.[Cha. Sa. <a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 7/51] \n</p>",
+            "links": [
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The excessive outburst of emotions like jealousy, grief, fear, anger, egoism, hatred etc. and all other mental disorders are result of defective intellectual functioning. [Cha. Sa. Sutra Sthana 7/52]",
+            "html": "<p>The excessive outburst of emotions like jealousy, grief, fear, anger, egoism, hatred etc. and all other mental disorders are result of defective intellectual functioning. [Cha. Sa. <a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 7/52] \n</p>",
+            "links": [
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The root cause of all kinds of epidemics is mentioned as “unrighteousness” (adharma) which is born out of intellectual error. [Cha. Sa. Vimana Sthana 3/20]",
+            "html": "<p>The root cause of all kinds of epidemics is mentioned as “unrighteousness” (adharma) which is born out of intellectual error. [Cha. Sa. <a href=\"/index.php?title=Vimana_Sthana\" title=\"Vimana Sthana\">Vimana Sthana </a> 3/20]\n</p>",
+            "links": [
+                {
+                    "text": "Vimana Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Sub-domains of intellectual defect",
+            "html": "<h3><span class=\"mw-headline\" id=\"Sub-domains_of_intellectual_defect\">Sub-domains of intellectual defect</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "The three domains involved in normal functioning of intellect are dhi (intelligence), dhriti (restraint) and smriti (memory).Any error in these three faculties can lead to intellectual defect or error. The error is termed as ‘vibhramsha’ or a specific defect.",
+            "html": "<p>The three domains involved in normal functioning of intellect are dhi (intelligence), dhriti (restraint) and smriti (memory).Any error in these three faculties can lead to intellectual defect or error. The error is termed as ‘vibhramsha’ or a specific defect.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h4",
+            "text": "a)Defective comprehension (dhi vibhramsha)(SAT-A.196)",
+            "html": "<h4><span id=\"a.29Defective_comprehension_.28dhi_vibhramsha.29.28SAT-A.196.29\"></span><span class=\"mw-headline\" id=\"a)Defective_comprehension_(dhi_vibhramsha)(SAT-A.196)\">a)Defective comprehension (dhi vibhramsha)(SAT-A.196)</span></h4>",
+            "links": [],
+            "images": [],
+            "level": 4
+        },
+        {
+            "type": "p",
+            "text": "Intelligence (dhi) has the power of understanding or comprehension. Incorrect comprehension or knowledge occurs due to defective intelligence. The intellect judges the beneficial as non-beneficial and vice versa. If something eternal is viewed as ephemeral and something harmful as useful, and vice versa, this is indicative of the impairment of intellect. For, the normal intellect views things as they are. [Cha.Sa. Sharira Sthana 1/99]",
+            "html": "<p>Intelligence (dhi) has the power of understanding or comprehension. Incorrect comprehension or knowledge occurs due to defective intelligence. The intellect judges the beneficial as non-beneficial and vice versa. If something eternal is viewed as ephemeral and something harmful as useful, and vice versa, this is indicative of the impairment of intellect. For, the normal intellect views things as they are. [Cha.Sa.<a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 1/99]\n</p>",
+            "links": [
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h4",
+            "text": "b)Defective restraint (dhriti vibramsha)(SAT-A.197)",
+            "html": "<h4><span id=\"b.29Defective_restraint_.28dhriti_vibramsha.29.28SAT-A.197.29\"></span><span class=\"mw-headline\" id=\"b)Defective_restraint_(dhriti_vibramsha)(SAT-A.197)\">b)Defective restraint (dhriti vibramsha)(SAT-A.197)</span></h4>",
+            "links": [],
+            "images": [],
+            "level": 4
+        },
+        {
+            "type": "p",
+            "text": "Restraint (dhriti) is the power of retention/ resolution, stability or control over intellectual functions. The ideal control of the intellect keeps the mind and the sense organs away from harmful things. When this control is lost, the person indulges in harmful things. Addictions to alcohol, smoking, etc. are the result of this kind of error. The mind indulging in worldly enjoyments cannot be restrained from harmful objects due to the impairment of dhriti (controlling power). Dhriti that can restrain the mind (from its harmful objects). [Cha.Sa. Sharira Sthana 1/100]",
+            "html": "<p>Restraint (dhriti) is the power of retention/ resolution, stability or control over intellectual functions. The ideal control of the intellect keeps the mind and the sense organs away from harmful things. When this control is lost, the person indulges in harmful things. Addictions to alcohol, smoking, etc. are the result of this kind of error. The mind indulging in worldly enjoyments cannot be restrained from harmful objects due to the impairment of dhriti (controlling power). Dhriti that can restrain the mind (from its harmful objects). [Cha.Sa.<a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a>1/100]\t\n</p>",
+            "links": [
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h4",
+            "text": "c)Defective recall or memory (smriti vibramsha)(SAT-A.198)",
+            "html": "<h4><span id=\"c.29Defective_recall_or_memory_.28smriti_vibramsha.29.28SAT-A.198.29\"></span><span class=\"mw-headline\" id=\"c)Defective_recall_or_memory_(smriti_vibramsha)(SAT-A.198)\">c)Defective recall or memory (smriti vibramsha)(SAT-A.198)</span></h4>",
+            "links": [],
+            "images": [],
+            "level": 4
+        },
+        {
+            "type": "p",
+            "text": "Remembrance of things that are directly seen, heard (scriptures) or experienced is memory. In practical life, memory reminds the person to the decision of intellect about harmful or beneficial things. If the memory is impaired due to a person being overcome by rajas and tamas, the recollection of knowledge of reality or self is impaired. This is known as the impairment of smriti. Normally smriti contains everything memorable. Thus, the person indulges in wrong or harmful things. [Cha.Sa. Sharira Sthana 1/101]",
+            "html": "<p>Remembrance of things that are directly seen, heard (scriptures) or experienced is memory. In practical life, memory reminds the person to the decision of intellect about harmful or beneficial things. If the memory is impaired due to a person being overcome by rajas and tamas, the recollection of knowledge of reality or self is impaired. This is known as the impairment of smriti. Normally smriti contains everything memorable. Thus, the person indulges in wrong or harmful things. [Cha.Sa.<a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 1/101]\n</p>",
+            "links": [
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Actions induced by intellectual defect",
+            "html": "<h3><span class=\"mw-headline\" id=\"Actions_induced_by_intellectual_defect\">Actions induced by intellectual defect</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "A person indulged in various wrong or harmful actions that can cause disease are as follows:",
+            "html": "<p>A person indulged in various wrong or harmful actions that can cause disease are as follows: \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "ul",
+            "text": "Forcible stimulation of natural urges and suppression of the manifested ones",
+            "html": "<ul><li>Forcible stimulation of natural urges and suppression of the manifested ones</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Forcible stimulation of natural urges and suppression of the manifested ones",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Exhibition of undue strength, working beyond one’s capacity",
+            "html": "<ul><li>Exhibition of undue strength, working beyond one’s capacity</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Exhibition of undue strength, working beyond one’s capacity",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Over indulgence in sexual acts",
+            "html": "<ul><li>Over indulgence in sexual acts</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Over indulgence in sexual acts",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Negligence of the suitable time and method of administering of treatment (i.e. non utilization, excessive utilization, and impaired utilization of therapies)",
+            "html": "<ul><li>Negligence of the suitable time and method of administering of treatment (i.e. non utilization, excessive utilization, and impaired utilization of therapies)</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Negligence of the suitable time and method of administering of treatment (i.e. non utilization, excessive utilization, and impaired utilization of therapies)",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Initiation of action in improper time",
+            "html": "<ul><li>Initiation of action in improper time</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Initiation of action in improper time",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Loss of modesty and good conduct",
+            "html": "<ul><li>Loss of modesty and good conduct</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Loss of modesty and good conduct",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Disrespecting those that deserve respect",
+            "html": "<ul><li>Disrespecting those that deserve respect</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Disrespecting those that deserve respect",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Indulgence in harmful objects",
+            "html": "<ul><li>Indulgence in harmful objects</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Indulgence in harmful objects",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Resorting to the factors that are responsible for the causation of madness",
+            "html": "<ul><li>Resorting to the factors that are responsible for the causation of madness</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Resorting to the factors that are responsible for the causation of madness",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Walking and travelling at improper time and places",
+            "html": "<ul><li>Walking and travelling at improper time and places</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Walking and travelling at improper time and places",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Friendship with persons of bad character",
+            "html": "<ul><li>Friendship with persons of bad character</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Friendship with persons of bad character",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Avoidance of sadvritta (noble code of conduct) described in Indriyopakramaniya Adhyaya ( Sutra Sthana 8th chapter) or",
+            "html": "<ul><li>Avoidance of <i>sadvritta</i>(noble code of conduct) described in  <a href=\"/index.php?title=Indriyopakramaniya_Adhyaya\" title=\"Indriyopakramaniya Adhyaya\">Indriyopakramaniya Adhyaya</a> (<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 8th chapter) or</li></ul>",
+            "links": [
+                {
+                    "text": "Indriyopakramaniya Adhyaya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriyopakramaniya_Adhyaya"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Avoidance of sadvritta (noble code of conduct) described in Indriyopakramaniya Adhyaya ( Sutra Sthana 8th chapter) or",
+                    "links": [
+                        {
+                            "text": "Indriyopakramaniya Adhyaya",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Indriyopakramaniya_Adhyaya"
+                        },
+                        {
+                            "text": "Sutra Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Harbouring malice, vanity, fear, anger, greed, ignorance, intoxication and bewilderment or",
+            "html": "<ul><li>Harbouring malice, vanity, fear, anger, greed, ignorance, intoxication and bewilderment or</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Harbouring malice, vanity, fear, anger, greed, ignorance, intoxication and bewilderment or",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Bad actions arising out of any of them, and/or",
+            "html": "<ul><li>Bad actions arising out of any of them, and/or</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Bad actions arising out of any of them, and/or",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Physical evil acts arising out of rajas and tamas constitute prajnaparadha.[Cha.Sa. Sharira Sthana 1/102-108]",
+            "html": "<ul><li>Physical evil acts arising out of rajas and <i>tamas</i> constitute prajnaparadha.[Cha.Sa.<a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 1/102-108]</li></ul>",
+            "links": [
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Physical evil acts arising out of rajas and tamas constitute prajnaparadha.[Cha.Sa. Sharira Sthana 1/102-108]",
+                    "links": [
+                        {
+                            "text": "Sharira Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "The intellectual defect leads to impairment of mind, sense organs. [Cha.Sa. Sharira Sthana 1/109] Thus it is a major cause of psychiatric and cognitive disorders.",
+            "html": "<p>The intellectual defect leads to impairment of mind, sense organs. [Cha.Sa.<a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 1/109] Thus it is a major cause of psychiatric and cognitive disorders.  \n</p>",
+            "links": [
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Contemporary views",
+            "html": "<h2><span class=\"mw-headline\" id=\"Contemporary_views\">Contemporary views</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "According to contemporary views, cognitive distortions are negatively biased errors in thinking which increase the vulnerability to various mental disorders like depression. [ 4 ]",
+            "html": "<p>According to contemporary views, cognitive distortions are negatively biased errors in thinking which increase the vulnerability to various mental disorders like depression.<sup class=\"reference\" id=\"cite_ref-4\"><a href=\"#cite_note-4\"><span class=\"cite-bracket\">[</span>4<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 4 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#cite_note-4"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "These include the following [ 5 ]",
+            "html": "<p>These include the following<sup class=\"reference\" id=\"cite_ref-5\"><a href=\"#cite_note-5\"><span class=\"cite-bracket\">[</span>5<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 5 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#cite_note-5"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "ul",
+            "text": "mindreading (the process of assuming that all other people think negatively about myself)",
+            "html": "<ul><li>mindreading (the process of assuming that all other people think negatively about myself)</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "mindreading (the process of assuming that all other people think negatively about myself)",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "catastrophizing (the process of forming negative predictions of upcoming events)",
+            "html": "<ul><li>catastrophizing (the process of forming negative predictions of upcoming events)</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "catastrophizing (the process of forming negative predictions of upcoming events)",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "all-or-nothing-thinking (perceiving something as either-or, without considering the other possibilities)",
+            "html": "<ul><li>all-or-nothing-thinking (perceiving something as either-or, without considering the other possibilities)</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "all-or-nothing-thinking (perceiving something as either-or, without considering the other possibilities)",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "emotional reasoning (giving more importance to emotional responses rather than objective evidence)",
+            "html": "<ul><li>emotional reasoning (giving more importance to emotional responses rather than objective evidence)</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "emotional reasoning (giving more importance to emotional responses rather than objective evidence)",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "labelling (considering oneself negatively forever based on a single adverse event)",
+            "html": "<ul><li>labelling (considering oneself negatively forever based on a single  adverse event)</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "labelling (considering oneself negatively forever based on a single adverse event)",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "mental filtering (avoiding all the positive information and focusing only on negative information)",
+            "html": "<ul><li>mental filtering (avoiding all the positive information and focusing only on negative information)</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "mental filtering (avoiding all the positive information and focusing only on negative information)",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "overgeneralization (predicting that the occurrence of one negative event will result in additional bad events related to it)",
+            "html": "<ul><li>overgeneralization (predicting that the occurrence of one negative event will result in additional bad events related to it)</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "overgeneralization (predicting that the occurrence of one negative event will result in additional bad events related to it)",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "personalization (assuming oneself as the cause of a negative event)",
+            "html": "<ul><li>personalization (assuming oneself as the cause of a negative event)</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "personalization (assuming oneself as the cause of a negative event)",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "should statements (the obstinate attitude that something should be taken place only in a certain way)",
+            "html": "<ul><li>should statements (the obstinate attitude that something should be taken place only in a certain way)</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "should statements (the obstinate attitude that something should be taken place only in a certain way)",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Minimizing or disqualifying the positive (ignoring the positive events that have happened).",
+            "html": "<ul><li>Minimizing or disqualifying the positive (ignoring the positive events that have happened).</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Minimizing or disqualifying the positive (ignoring the positive events that have happened).",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Cognitive errors may occur with different frequencies across social and achievement domains, particularly depending on the content of an individual’s core beliefs. [ 6 ]",
+            "html": "<p>Cognitive errors may occur with different frequencies across social and achievement domains, particularly depending on the content of an individual’s core beliefs.<sup class=\"reference\" id=\"cite_ref-6\"><a href=\"#cite_note-6\"><span class=\"cite-bracket\">[</span>6<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 6 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#cite_note-6"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Three types of indulgence",
+            "html": "<h3><span class=\"mw-headline\" id=\"Three_types_of_indulgence\">Three types of indulgence</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "There are three types of indulgence in all activities due to intellectual defect.",
+            "html": "<p>There are three types of indulgence in all activities due to intellectual defect. \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "a) Excessive functioning (atiyoga): Any activity that is done beyond a desirable limit.",
+            "html": "<p>a) Excessive functioning (atiyoga): Any activity that is done beyond a desirable limit.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "b) Inadequate functioning (ayoga) : Any activity that is done not up to the desirable level.",
+            "html": "<p>b) Inadequate functioning (ayoga) : Any activity that is done not up to the desirable level.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "c) Improper functioning (mithyayoga): Any activity that is done in a way other than the wholesome/ recommended manner.",
+            "html": "<p>c) Improper functioning (mithyayoga): Any activity that is done in a way other than the wholesome/ recommended manner.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Three types of actions",
+            "html": "<h3><span class=\"mw-headline\" id=\"Three_types_of_actions\">Three types of actions</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "The three types of activities are assessed for intellectual defect as follows:",
+            "html": "<p>The three types of activities are assessed for intellectual defect as follows: \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "a) Physical (kayika) actions: related to physical activity",
+            "html": "<p>a) Physical (kayika) actions: related to physical activity\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "b) Verbal (vachika): related to speech",
+            "html": "<p>b) Verbal (vachika):  related to speech\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "c) Mental (manasika): related to thoughts",
+            "html": "<p>c) Mental (manasika): related to thoughts\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Importance in diagnosis",
+            "html": "<h2><span class=\"mw-headline\" id=\"Importance_in_diagnosis\">Importance in diagnosis</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "Intellectual error (prajnaparadha) is mentioned as the main causative factor for psychosis (unmada).[Cha. Sa. Nidana Sthana 7/10]",
+            "html": "<p>Intellectual error (prajnaparadha) is mentioned as the main causative factor for psychosis (unmada).[Cha. Sa. <a href=\"/index.php?title=Nidana_Sthana\" title=\"Nidana Sthana\">Nidana Sthana</a> 7/10]\n</p>",
+            "links": [
+                {
+                    "text": "Nidana Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Nidana_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The intellectual errors or defects can be diagnosed by observation, interrogation, careful history taking, and follow-up of the patient. Good memory (smriti) is one of the qualities of patient required for successful management of the disease. [Cha.Sa. Sutra Sthana 9/21].",
+            "html": "<p>The intellectual errors or defects can be diagnosed by observation, interrogation, careful history taking, and follow-up of the patient. Good memory (smriti) is one of the qualities of patient required for successful management of the disease. [Cha.Sa.<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 9/21].\n</p>",
+            "links": [
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "If the memory is impaired as in intellectual defects, it can adversely influence the effect of therapy.",
+            "html": "<p>If the memory is impaired as in intellectual defects, it can adversely influence the effect of therapy.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "The intellectual error of physician",
+            "html": "<h3><span class=\"mw-headline\" id=\"The_intellectual_error_of_physician\">The intellectual error of physician</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Misdiagnosis or mismanagement of disease can occur due to the intellectual error of a physician. This can lead to iatrogenic errors. To know the prognosis of a disease condition, signs of good and bad prognosis are observed. An ignorant physician may sometimes wrongly perceive some symptoms as fatal signs (arishta lakshana) and sometimes he may not even recognize the evident fatal signs (arishta lakshana) in the patient and act accordingly. All these are the result of intellectual errors. [Cha. Sa. Indriya Sthana 2/6]",
+            "html": "<p>Misdiagnosis or mismanagement of disease can occur due to the intellectual error of a physician. This can lead to iatrogenic errors. To know the prognosis of a disease condition, signs of good and bad prognosis are observed. An ignorant physician may sometimes wrongly perceive some symptoms as fatal signs (arishta lakshana) and sometimes he may not even recognize the evident fatal signs (arishta lakshana) in the patient and act accordingly. All these are the result of intellectual errors. [Cha. Sa. <a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 2/6]\n</p>",
+            "links": [
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Cognitive errors are considered as one of the diagnostic errors which is an important concern regarding patient safety. They are mainly associated with failures in perception, failed heuristics, and biases. These are collectively known as cognitive dispositions to respond (CDRs). [ 7 ]",
+            "html": "<p>Cognitive errors are considered as one of the diagnostic errors which is an important concern regarding patient safety. They are mainly associated with failures in perception, failed heuristics, and biases. These are collectively known as cognitive dispositions to respond (CDRs).<sup class=\"reference\" id=\"cite_ref-7\"><a href=\"#cite_note-7\"><span class=\"cite-bracket\">[</span>7<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 7 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#cite_note-7"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Importance in management of disease",
+            "html": "<h2><span class=\"mw-headline\" id=\"Importance_in_management_of_disease\">Importance in management of disease</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "Intellectual errors (prajnaparadha) can provoke all dosha in the body. It is crucial to remove the intellectual errors in disease management and regaining health. In the management of psychological defects (manasa dosha), measures promoting knowledge of self (jnana), scientific knowledge (vijnana), restraint (dhairya), memory (smriti), and concentration (samadhi) are advised. [Cha. Sa. Sutra Sthana 1/58]",
+            "html": "<p>Intellectual errors (prajnaparadha) can provoke all <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> in the body. It is crucial to remove the intellectual errors in disease management and regaining health. In the management of psychological defects (manasa dosha), measures promoting knowledge of self (jnana), scientific knowledge (vijnana), restraint (dhairya), memory (smriti), and concentration (samadhi) are advised. [Cha. Sa. <a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 1/58] \n</p>",
+            "links": [
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Among the three treatment modalities, psychotherapy (sattwavajaya) is mentioned as the withdrawal of the mind from harmful objects. [Cha. Sa. Sutra Sthana 11/54].",
+            "html": "<p>Among the three treatment modalities, psychotherapy (sattwavajaya) is mentioned as the withdrawal of the mind from harmful objects. [Cha. Sa. <a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 11/54]. \n</p>",
+            "links": [
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Importance in the preservation of health and prevention",
+            "html": "<h2><span class=\"mw-headline\" id=\"Importance_in_the_preservation_of_health_and_prevention\">Importance in the preservation of health and prevention</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "All the mental disorders and emotions like jealousy, grief, fear, anger, egoism, hatred, etc. are born out of error in intellect. So, avoidance of such emotions, control over sense and motor organs, improving the memory power, maintain the specific orientation of place, time, and one’s own self, and following the regimen of good conduct are guidelines to prevent exogenous as well as psychological disorders. [Cha. Sa. Sutra Sthana 7/ 53]",
+            "html": "<p>All the mental disorders and emotions like jealousy, grief, fear, anger, egoism, hatred, etc. are born out of error in intellect. So, avoidance of such emotions, control over sense and motor organs, improving the memory power, maintain the specific orientation of place, time, and one’s own self, and following the regimen of good conduct are guidelines to prevent exogenous as well as psychological disorders. [Cha. Sa. <a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 7/ 53] \n</p>",
+            "links": [
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The practice of Yoga and meditation is helpful for maintaining the different domains of intellect in their proper functioning.",
+            "html": "<p>The practice of Yoga and meditation is helpful for maintaining the different domains of intellect in their proper functioning.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Current researches",
+            "html": "<h2><span class=\"mw-headline\" id=\"Current_researches\">Current researches</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ul",
+            "text": "In an observational study on 108 patients, it was found that the variety of external, occupational, social and familial factors play significant role in the pathology of premature ageing by disturbing the overall psychological status. The factors are influenced by intellectual errors (prajnaparadha). The link of mind-body relation with reference to contemporary concept of psycho-neuro endocrinology is established. [ 8 ]",
+            "html": "<ul><li>In an observational study on 108 patients, it was found that the variety of external, occupational, social and familial factors play significant role in the pathology of premature ageing by disturbing the overall psychological status. The factors are influenced by intellectual errors (prajnaparadha). The link of mind-body relation with reference to contemporary concept of psycho-neuro endocrinology is established. <sup class=\"reference\" id=\"cite_ref-8\"><a href=\"#cite_note-8\"><span class=\"cite-bracket\">[</span>8<span class=\"cite-bracket\">]</span></a></sup></li></ul>",
+            "links": [
+                {
+                    "text": "[ 8 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#cite_note-8"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "In an observational study on 108 patients, it was found that the variety of external, occupational, social and familial factors play significant role in the pathology of premature ageing by disturbing the overall psychological status. The factors are influenced by intellectual errors (prajnaparadha). The link of mind-body relation with reference to contemporary concept of psycho-neuro endocrinology is established. [ 8 ]",
+                    "links": [
+                        {
+                            "text": "[ 8 ]",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#cite_note-8"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "In a research, cellular processes such as inflammation, proliferation or death, and oxidative stress have been shown in murine models resembling cognitive impairment in humans. This leads to changes in behaviour, memory loss, inability for decision-making, and attention-related problems. [ 9 ]",
+            "html": "<ul><li>In a research, cellular processes such as inflammation, proliferation or death, and oxidative stress have been shown in murine models resembling cognitive impairment in humans. This leads to changes in behaviour, memory loss, inability for decision-making, and attention-related problems.<sup class=\"reference\" id=\"cite_ref-9\"><a href=\"#cite_note-9\"><span class=\"cite-bracket\">[</span>9<span class=\"cite-bracket\">]</span></a></sup></li></ul>",
+            "links": [
+                {
+                    "text": "[ 9 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#cite_note-9"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "In a research, cellular processes such as inflammation, proliferation or death, and oxidative stress have been shown in murine models resembling cognitive impairment in humans. This leads to changes in behaviour, memory loss, inability for decision-making, and attention-related problems. [ 9 ]",
+                    "links": [
+                        {
+                            "text": "[ 9 ]",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#cite_note-9"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Recent studies provide evidences showing the influence of yoga practices in improving cognitive functions. [ 10 ]",
+            "html": "<ul><li>Recent studies provide evidences showing the influence of yoga practices in improving cognitive functions.<sup class=\"reference\" id=\"cite_ref-10\"><a href=\"#cite_note-10\"><span class=\"cite-bracket\">[</span>10<span class=\"cite-bracket\">]</span></a></sup></li></ul>",
+            "links": [
+                {
+                    "text": "[ 10 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#cite_note-10"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Recent studies provide evidences showing the influence of yoga practices in improving cognitive functions. [ 10 ]",
+                    "links": [
+                        {
+                            "text": "[ 10 ]",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#cite_note-10"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "A randomized clinical trial conducted in 30 patients of major depression showed additional improvement in cognitive functions in patients who practiced yoga and meditation in combination with conventional antidepressant medication. Additional improvement was observed in manipulation of information in the verbal working memory, attention span as well as visuo-motor speed of the depressives. [ 11 ]",
+            "html": "<ul><li>A randomized clinical trial conducted in 30 patients of major depression showed additional improvement in cognitive functions in patients who practiced yoga and meditation in combination with conventional antidepressant medication. Additional improvement was observed in manipulation of information in the verbal working memory, attention span as well as visuo-motor speed of the depressives.<sup class=\"reference\" id=\"cite_ref-11\"><a href=\"#cite_note-11\"><span class=\"cite-bracket\">[</span>11<span class=\"cite-bracket\">]</span></a></sup></li></ul>",
+            "links": [
+                {
+                    "text": "[ 11 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#cite_note-11"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "A randomized clinical trial conducted in 30 patients of major depression showed additional improvement in cognitive functions in patients who practiced yoga and meditation in combination with conventional antidepressant medication. Additional improvement was observed in manipulation of information in the verbal working memory, attention span as well as visuo-motor speed of the depressives. [ 11 ]",
+                    "links": [
+                        {
+                            "text": "[ 11 ]",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#cite_note-11"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "More information",
+            "html": "<h2><span class=\"mw-headline\" id=\"More_information\">More information</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "h3",
+            "text": "Related Chapters",
+            "html": "<h3><span class=\"mw-headline\" id=\"Related_Chapters\">Related Chapters</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Naveganadharaniya Adhyaya , Unmada Nidana , Katidhapurusha Sharira , Manas , Buddhi , Unmada Chikitsa",
+            "html": "<p><a href=\"/index.php?title=Naveganadharaniya_Adhyaya\" title=\"Naveganadharaniya Adhyaya\">Naveganadharaniya Adhyaya</a>, <a href=\"/index.php?title=Unmada_Nidana\" title=\"Unmada Nidana\">Unmada Nidana</a>, <a href=\"/index.php?title=Katidhapurusha_Sharira\" title=\"Katidhapurusha Sharira\">Katidhapurusha Sharira</a>, <a href=\"/index.php?title=Manas\" title=\"Manas\">Manas</a>, <a href=\"/index.php?title=Buddhi\" title=\"Buddhi\">Buddhi</a>, <a href=\"/index.php?title=Unmada_Chikitsa\" title=\"Unmada Chikitsa\">Unmada Chikitsa</a>\n</p>",
+            "links": [
+                {
+                    "text": "Naveganadharaniya Adhyaya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Naveganadharaniya_Adhyaya"
+                },
+                {
+                    "text": "Unmada Nidana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Unmada_Nidana"
+                },
+                {
+                    "text": "Katidhapurusha Sharira",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Katidhapurusha_Sharira"
+                },
+                {
+                    "text": "Manas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Manas"
+                },
+                {
+                    "text": "Buddhi",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi"
+                },
+                {
+                    "text": "Unmada Chikitsa",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Unmada_Chikitsa"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Abbreviations",
+            "html": "<h3><span class=\"mw-headline\" id=\"Abbreviations\">Abbreviations</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "SAT = Standard Ayurveda Terminology, Cha. = Charak, Su. = Sushruta, Sa. = Samhita, A. = Ashtanga, Hr. = Hridaya,",
+            "html": "<p>SAT = Standard Ayurveda Terminology,  Cha. = Charak, Su. = Sushruta, Sa. = Samhita,  A. = Ashtanga,  Hr. = Hridaya,\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Send us your suggestions and feedback on this page.",
+            "html": "<p><big><b><a href=\"/index.php?title=Special:ContactMe\" title=\"Special:ContactMe\">Send us your suggestions and feedback on this page.</a></b></big>\n</p>",
+            "links": [
+                {
+                    "text": "Send us your suggestions and feedback on this page.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Special:ContactMe"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "References",
+            "html": "<h2><span class=\"mw-headline\" id=\"References\">References</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "text",
+            "text": "Back to the Top"
+        },
+        {
+            "type": "ol",
+            "text": "↑ Jha Srujan. Amarkosha online application ↑ Jha Srujan. Amarkosha online application ↑ Available from http://namstp.ayush.gov.in/#/sat ↑ Dozois, D. J. A., & Beck, A. T. (2008). Cognitive schemas, beliefs and assumptions. In K. S. Dobson & D. J. A. Dozois (Eds.), Risk factors in depression (pp. 121-143). ↑ Rnic K, Dozois DJ, Martin RA. Cognitive Distortions, Humor Styles, and Depression. Eur J Psychol. 2016;12(3):348-362. Published 2016 Aug 19. doi:10.5964/ejop.v12i3.1118 ↑ Clark, D. A., Beck, A. T., & Alford, B. A. (1999). Scientific foundations of cognitive theory and therapy of depression. New York, NY, USA: Wiley. ↑ Croskerry, Pat MD, PhD The Importance of Cognitive Errors in Diagnosis and Strategies to Minimize Them, Academic Medicine: August 2003 - Volume 78 - Issue 8 - p 775-780 ↑ Deole YS, Thakar AB, Chandola H, Ravishankar B. Observational study on external social and lifestyle related factors and their role in pathogenesis of premature ageing and stress. AYU [serial online] 2012 [cited 2021 Mar 24];33:378-86. Available from: https://www.ayujournal.org/text.asp?2012/33/3/378/108828 ↑ Tamara Cibrian-Llanderal, Montserrat Melgarejo-Gutierrez, Daniel Hernandez-Baltazar, Stress and Cognition: Psychological Basis and Support Resources, Blandina Bernal-Morales (Eds.), Health and Academic AchievementSeptember 2018, https://doi.org/10.5772/intechopen.72566 ↑ Brunner D, Abramovitch A, Etherton J. A yoga program for cognitive enhancement. PLoS One. 2017;12(8):e0182366. Published 2017 Aug 4. doi:10.1371/journal.pone.0182366 ↑ Sharma VK, Das S, Mondal S, Goswami U, Gandhi A. Effect of Sahaj Yoga on neuro-cognitive functions in patients suffering from major depression. Indian J Physiol Pharmacol. 2006 Oct-Dec;50(4):375-83. PMID: 17402267.",
+            "html": "<ol class=\"references\">\n<li id=\"cite_note-1\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-1\">↑</a></span> <span class=\"reference-text\">Jha Srujan. Amarkosha online application</span>\n</li>\n<li id=\"cite_note-2\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-2\">↑</a></span> <span class=\"reference-text\">Jha Srujan. Amarkosha online application</span>\n</li>\n<li id=\"cite_note-3\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-3\">↑</a></span> <span class=\"reference-text\">Available from  <a class=\"external free\" href=\"http://namstp.ayush.gov.in/#/sat\" rel=\"nofollow\">http://namstp.ayush.gov.in/#/sat</a></span>\n</li>\n<li id=\"cite_note-4\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-4\">↑</a></span> <span class=\"reference-text\">Dozois, D. J. A., &amp; Beck, A. T. (2008). Cognitive schemas, beliefs and assumptions. In K. S. Dobson &amp; D. J. A. Dozois (Eds.), Risk factors in depression (pp. 121-143).</span>\n</li>\n<li id=\"cite_note-5\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-5\">↑</a></span> <span class=\"reference-text\">Rnic K, Dozois DJ, Martin RA. Cognitive Distortions, Humor Styles, and Depression. Eur J Psychol. 2016;12(3):348-362. Published 2016 Aug 19. doi:10.5964/ejop.v12i3.1118</span>\n</li>\n<li id=\"cite_note-6\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-6\">↑</a></span> <span class=\"reference-text\">Clark, D. A., Beck, A. T., &amp; Alford, B. A. (1999). Scientific foundations of cognitive theory and therapy of depression. New York, NY, USA: Wiley.</span>\n</li>\n<li id=\"cite_note-7\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-7\">↑</a></span> <span class=\"reference-text\">Croskerry, Pat MD, PhD The Importance of Cognitive Errors in Diagnosis and Strategies to Minimize Them, Academic Medicine: August 2003 - Volume 78 - Issue 8 - p 775-780</span>\n</li>\n<li id=\"cite_note-8\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-8\">↑</a></span> <span class=\"reference-text\">Deole YS, Thakar AB, Chandola H, Ravishankar B. Observational study on external social and lifestyle related factors and their role in pathogenesis of premature ageing and stress. AYU [serial online] 2012 [cited 2021 Mar 24];33:378-86. Available from: <a class=\"external free\" href=\"https://www.ayujournal.org/text.asp?2012/33/3/378/108828\" rel=\"nofollow\">https://www.ayujournal.org/text.asp?2012/33/3/378/108828</a></span>\n</li>\n<li id=\"cite_note-9\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-9\">↑</a></span> <span class=\"reference-text\">Tamara Cibrian-Llanderal, Montserrat Melgarejo-Gutierrez, Daniel Hernandez-Baltazar, Stress and Cognition: Psychological Basis and Support Resources, Blandina Bernal-Morales (Eds.), Health and Academic AchievementSeptember 2018, <a class=\"external free\" href=\"https://doi.org/10.5772/intechopen.72566\" rel=\"nofollow\">https://doi.org/10.5772/intechopen.72566</a></span>\n</li>\n<li id=\"cite_note-10\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-10\">↑</a></span> <span class=\"reference-text\">Brunner D, Abramovitch A, Etherton J. A yoga program for cognitive enhancement. PLoS One. 2017;12(8):e0182366. Published 2017 Aug 4. doi:10.1371/journal.pone.0182366</span>\n</li>\n<li id=\"cite_note-11\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-11\">↑</a></span> <span class=\"reference-text\">Sharma VK, Das S, Mondal S, Goswami U, Gandhi A. Effect of Sahaj Yoga on neuro-cognitive functions in patients suffering from major depression. Indian J Physiol Pharmacol. 2006 Oct-Dec;50(4):375-83. PMID: 17402267.</span>\n</li>\n</ol>",
+            "links": [
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#cite_ref-1"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#cite_ref-2"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#cite_ref-3"
+                },
+                {
+                    "text": "http://namstp.ayush.gov.in/#/sat",
+                    "url": "http://namstp.ayush.gov.in/#/sat"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#cite_ref-4"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#cite_ref-5"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#cite_ref-6"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#cite_ref-7"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#cite_ref-8"
+                },
+                {
+                    "text": "https://www.ayujournal.org/text.asp?2012/33/3/378/108828",
+                    "url": "https://www.ayujournal.org/text.asp?2012/33/3/378/108828"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#cite_ref-9"
+                },
+                {
+                    "text": "https://doi.org/10.5772/intechopen.72566",
+                    "url": "https://doi.org/10.5772/intechopen.72566"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#cite_ref-10"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#cite_ref-11"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "↑ Jha Srujan. Amarkosha online application",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#cite_ref-1"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Jha Srujan. Amarkosha online application",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#cite_ref-2"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Available from http://namstp.ayush.gov.in/#/sat",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#cite_ref-3"
+                        },
+                        {
+                            "text": "http://namstp.ayush.gov.in/#/sat",
+                            "url": "http://namstp.ayush.gov.in/#/sat"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Dozois, D. J. A., & Beck, A. T. (2008). Cognitive schemas, beliefs and assumptions. In K. S. Dobson & D. J. A. Dozois (Eds.), Risk factors in depression (pp. 121-143).",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#cite_ref-4"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Rnic K, Dozois DJ, Martin RA. Cognitive Distortions, Humor Styles, and Depression. Eur J Psychol. 2016;12(3):348-362. Published 2016 Aug 19. doi:10.5964/ejop.v12i3.1118",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#cite_ref-5"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Clark, D. A., Beck, A. T., & Alford, B. A. (1999). Scientific foundations of cognitive theory and therapy of depression. New York, NY, USA: Wiley.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#cite_ref-6"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Croskerry, Pat MD, PhD The Importance of Cognitive Errors in Diagnosis and Strategies to Minimize Them, Academic Medicine: August 2003 - Volume 78 - Issue 8 - p 775-780",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#cite_ref-7"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Deole YS, Thakar AB, Chandola H, Ravishankar B. Observational study on external social and lifestyle related factors and their role in pathogenesis of premature ageing and stress. AYU [serial online] 2012 [cited 2021 Mar 24];33:378-86. Available from: https://www.ayujournal.org/text.asp?2012/33/3/378/108828",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#cite_ref-8"
+                        },
+                        {
+                            "text": "https://www.ayujournal.org/text.asp?2012/33/3/378/108828",
+                            "url": "https://www.ayujournal.org/text.asp?2012/33/3/378/108828"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Tamara Cibrian-Llanderal, Montserrat Melgarejo-Gutierrez, Daniel Hernandez-Baltazar, Stress and Cognition: Psychological Basis and Support Resources, Blandina Bernal-Morales (Eds.), Health and Academic AchievementSeptember 2018, https://doi.org/10.5772/intechopen.72566",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#cite_ref-9"
+                        },
+                        {
+                            "text": "https://doi.org/10.5772/intechopen.72566",
+                            "url": "https://doi.org/10.5772/intechopen.72566"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Brunner D, Abramovitch A, Etherton J. A yoga program for cognitive enhancement. PLoS One. 2017;12(8):e0182366. Published 2017 Aug 4. doi:10.1371/journal.pone.0182366",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#cite_ref-10"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Sharma VK, Das S, Mondal S, Goswami U, Gandhi A. Effect of Sahaj Yoga on neuro-cognitive functions in patients suffering from major depression. Indian J Physiol Pharmacol. 2006 Oct-Dec;50(4):375-83. PMID: 17402267.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha#cite_ref-11"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "text": "NewPP limit report\nCached time: 20261118202942\nCache expiry: 86400\nReduced expiry: false\nComplications: [vary‐revision‐id, show‐toc]\nCPU time usage: 0.097 seconds\nReal time usage: 0.273 seconds\nPreprocessor visited node count: 310/1000000\nPost‐expand include size: 1987/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 3/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 1711/5000000 bytes\nLua time usage: 0.140/7 seconds\nLua virtual size: 20480000/209715200 bytes\nLua estimated memory usage: 0 bytes"
+        },
+        {
+            "type": "text",
+            "text": "Transclusion expansion time report (%,ms,calls,template)\n100.00% 243.152 1 -total\n97.29% 236.569 1 Template:Infobox\n0.63% 1.522 1 Template:CiteButton"
+        },
+        {
+            "type": "text",
+            "text": "Saved in parser cache with key carakas1_carakasa:pcache:idhash:3066-0!canonical and timestamp 20261118202942 and revision id 44671. Rendering was triggered because: page-view"
+        },
+        {
+            "type": "text",
+            "text": "Retrieved from \""
+        },
+        {
+            "type": "text",
+            "text": "https://www.carakasamhitaonline.com/index.php?title=Prajnaparadha&oldid=44671"
+        },
+        {
+            "type": "text",
+            "text": "\""
+        }
+    ],
+    "html_sha256": "d612fe7aa17aeeadddbb69ca00f8af0dff84692c50fc5608c2d90d0069309d05"
+}

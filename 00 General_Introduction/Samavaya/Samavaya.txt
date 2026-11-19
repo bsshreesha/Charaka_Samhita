@@ -1,0 +1,596 @@
+==========================================================================================
+CHARAKA SAMHITA
+SAMAVAYA
+==========================================================================================
+
+Source URL: https://www.carakasamhitaonline.com/index.php?title=Samavaya
+Extraction Date: 2026-11-18T11:19:46
+Total Blocks: 57
+
+==========================================================================================
+
+
+[BLOCK 1: H1]
+----------------------------------------------------------------------
+Samavaya
+
+
+[BLOCK 2: TEXT]
+----------------------------------------------------------------------
+From Charak Samhita
+
+
+[BLOCK 3: TEXT]
+----------------------------------------------------------------------
+Jump to navigation
+
+
+[BLOCK 4: TEXT]
+----------------------------------------------------------------------
+Jump to search
+
+
+[BLOCK 5: FIGURE]
+----------------------------------------------------------------------
+
+
+[REFERENCES / LINKS]
+ : https://www.carakasamhitaonline.com/index.php?title=Special:CiteThisPage&page=Samavaya&id=44622&wpFormIdentifier=titleform
+
+[IMAGES]
+ : https://www.carakasamhitaonline.com/images/5/58/Cite.png
+
+
+[BLOCK 6: P]
+----------------------------------------------------------------------
+Samavaya means an eternal and inseparable relationship. For example, the relationship between mahabhuta and their qualities.[SAT-A.271] [ 1 ] It is the coexistence/concomitant relation. [ 2 ] As per philosophy and Ayurveda , samavaya is one of the six [Cha.Sa. Sutra Sthana 1/28] or seven padartha.[Tarkasangraha 2] [ 3 ] It is useful in the field of treatment ( chikitsa ). It is the interconnecting link between cause (karana) and effect (karya) or substance ( dravya ) and qualities ( guna ). Whole and its parts (avayava-avayavi), substance and its property (guna-guni). [ 4 ] The purpose of samavaya is to connect two inseparable entities. This relationship is also seen as an outward objective reality, or padartha . For example, in case of a cloth, there are two distinct entities like fabric and its colour. In addition, there is a third entity, that is the relationship between them. It is an additional objective reality. The first five categories, substance, quality, action, similarity and dis-similarity are the bricks of the Nyaya Vaishesika philosophy. Samavaya, is the mortar that holds them together. The relationship between two inseparables, ayutasiddhas, has been characterized as samavaya. This article describes the concept of samavaya and its utility in biomedical sciences.
+
+[REFERENCES / LINKS]
+mahabhuta : https://www.carakasamhitaonline.com/index.php?title=Mahabhuta
+[ 1 ] : https://www.carakasamhitaonline.com/index.php?title=Samavaya#cite_note-1
+[ 2 ] : https://www.carakasamhitaonline.com/index.php?title=Samavaya#cite_note-2
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+[ 3 ] : https://www.carakasamhitaonline.com/index.php?title=Samavaya#cite_note-Tarka-3
+chikitsa : https://www.carakasamhitaonline.com/index.php?title=Chikitsa
+dravya : https://www.carakasamhitaonline.com/index.php?title=Dravya
+guna : https://www.carakasamhitaonline.com/index.php?title=Guna
+[ 4 ] : https://www.carakasamhitaonline.com/index.php?title=Samavaya#cite_note-pippali-4
+padartha : https://www.carakasamhitaonline.com/index.php?title=Padartha
+
+
+[BLOCK 7: TABLE]
+----------------------------------------------------------------------
+[COMPLETE TABLE]
+
+Row 1:
+Column 1: Section/Chapter/topic
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Concepts / Samavaya
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 2:
+Column 1: Authors
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Bhojani M.K. 1 , Deepankar Rahul 1 , Tanwar Ankur kumar 1
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 3:
+Column 1: Reviewers
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Jamdade Y. 2 Basisht G. 3
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 4:
+Column 1: Editor
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Deole Y.S. 4
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 5:
+Column 1: Affiliations
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: 1 Department of Sharir Kriya, A.I.I.A. , New Delhi, India 2 Department of Samhita Siddhant, College of Ayurveda and Research Centre, Nigdi, Pune, India 3 Rheumatologist, Orlando, Florida, USA 4 Department of Kayachikitsa, G.J.Patel Institute of Ayurvedic Studies and Research, New Vallabhvidya Nagar, Anand, Gujarat, India
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 6:
+Column 1: Correspondence email
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: meera.samhita@aiia.gov.in, carakasamhita@gmail.com
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 7:
+Column 1: Publisher
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Charak Samhita Research, Training and Development Centre , I.T.R.A., Jamnagar, India
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 8:
+Column 1: Date of first publication:
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: May 25, 2022
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 9:
+Column 1: DOI
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: 10.47468/CSNE.2022.e01.s09.098
+  Type: td, Rowspan: 1, Colspan: 1
+
+[REFERENCES / LINKS]
+Basisht G. : https://www.carakasamhitaonline.com/index.php?title=Gopal_Basisht
+Deole Y.S. : https://www.carakasamhitaonline.com/index.php?title=Yogesh_Deole
+Charak Samhita Research, Training and Development Centre : https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre
+
+
+[BLOCK 8: H2]
+----------------------------------------------------------------------
+Contents
+
+
+[BLOCK 9: UL]
+----------------------------------------------------------------------
+1. 1 Etymology
+2. 2 Definition
+3. 3 Synonyms
+4. 4 Characteristics
+5. 5 Different understanding of Samavaya relationship
+6. 6 Difference between Samavaya and Samyoga
+7. 7 Applied aspect of Samavaya
+8. 8 Theses done
+9. 9 Researches
+10. 10 Related chapters
+11. 11 References
+
+[REFERENCES / LINKS]
+1 Etymology : https://www.carakasamhitaonline.com/index.php?title=Samavaya#Etymology
+2 Definition : https://www.carakasamhitaonline.com/index.php?title=Samavaya#Definition
+3 Synonyms : https://www.carakasamhitaonline.com/index.php?title=Samavaya#Synonyms
+4 Characteristics : https://www.carakasamhitaonline.com/index.php?title=Samavaya#Characteristics
+5 Different understanding of Samavaya relationship : https://www.carakasamhitaonline.com/index.php?title=Samavaya#Different_understanding_of_Samavaya_relationship
+6 Difference between Samavaya and Samyoga : https://www.carakasamhitaonline.com/index.php?title=Samavaya#Difference_between_Samavaya_and_Samyoga
+7 Applied aspect of Samavaya : https://www.carakasamhitaonline.com/index.php?title=Samavaya#Applied_aspect_of_Samavaya
+8 Theses done : https://www.carakasamhitaonline.com/index.php?title=Samavaya#Theses_done
+9 Researches : https://www.carakasamhitaonline.com/index.php?title=Samavaya#Researches
+10 Related chapters : https://www.carakasamhitaonline.com/index.php?title=Samavaya#Related_chapters
+11 References : https://www.carakasamhitaonline.com/index.php?title=Samavaya#References
+
+
+[BLOCK 10: H2]
+----------------------------------------------------------------------
+Etymology
+
+
+[BLOCK 11: P]
+----------------------------------------------------------------------
+The word ‘samavaya’ is made up of four words. Samavaya - sama + ava + aya + gh. [ 5 ] The word ‘sama’ denotes a combination; ‘ava’ means permanent, ‘aya’ means to go or to meet, ‘gh’ is the suffix. So samavaya means constant and inseparable connection, inseparable inherence or existence of one thing in another.
+
+[REFERENCES / LINKS]
+[ 5 ] : https://www.carakasamhitaonline.com/index.php?title=Samavaya#cite_note-5
+
+
+[BLOCK 12: H2]
+----------------------------------------------------------------------
+Definition
+
+
+[BLOCK 13: P]
+----------------------------------------------------------------------
+Samavaya is a Sanskrit word that means "to come together tightly", and it's used to describe an intimate relationship between two things that makes them inseparable. It means they can't be separated without destroying themselves. It is an intimate or long-term connection based on items that are inextricably linked.
+
+
+[BLOCK 14: H2]
+----------------------------------------------------------------------
+Synonyms
+
+
+[BLOCK 15: P]
+----------------------------------------------------------------------
+Adharadheya bhava, aprithak bhava, avibhakta bhava, ayutasiddha, nityasambandha, multitude, assemblage, collection, aggregate, close connection, cohesion, inseparable concomitance, perpetual co-inherence, inner or intimate relation, constant and intimate union.
+
+
+[BLOCK 16: H2]
+----------------------------------------------------------------------
+Characteristics
+
+
+[BLOCK 17: P]
+----------------------------------------------------------------------
+Samavaya is defined by the following characteristic features:
+
+
+[BLOCK 18: OL]
+----------------------------------------------------------------------
+1. Nityam: It is an eternal or permanent relationship between things that always exist. [Tarkasangraha 79 ] [ 3 ] [Cha.Sa. Sutra Sthana 1/40]
+2. Aprithaka bhava: Relationship between things cannot be destroyed even if the substance is destroyed. Another meaning of the word is that they can't be separated without destroying themselves.[Chakrapani on Cha.Sa. Sutra Sthana 1/40]
+3. Ekam: It is only the same relation existing between any two inseparable objects.
+4. Atindriyam: It is imperceptible to the sensory organs. Only the substance or things are visible or perceived not the relation between them.
+5. Ayutsiddhasambandha: The relationship between two dravya or things is not just a combination of two things, they cannot exist in separate forms. They always exist in co-inherence.
+
+[REFERENCES / LINKS]
+[ 3 ] : https://www.carakasamhitaonline.com/index.php?title=Samavaya#cite_note-Tarka-3
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+Sutra Sthana : https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana
+dravya : https://www.carakasamhitaonline.com/index.php?title=Dravya
+
+
+[BLOCK 19: H2]
+----------------------------------------------------------------------
+Different understanding of Samavaya relationship
+
+
+[BLOCK 20: P]
+----------------------------------------------------------------------
+Part and the whole (avayavaand avayavi): The basic element and the compound made from it are inseparable. Like cloth and thread.
+
+
+[BLOCK 21: P]
+----------------------------------------------------------------------
+Qualities and quality holder ( guna and guni): The compound or any elements and their properties have inseparable relations. Like fire and hotness. A few other examples of samavaya relationships are:
+
+[REFERENCES / LINKS]
+guna : https://www.carakasamhitaonline.com/index.php?title=Guna
+
+
+[BLOCK 22: UL]
+----------------------------------------------------------------------
+1. Coldness (sheeta) – water element ( Jala )
+2. Smell (gandha) – earth element ( Prithvi )
+3. Sound (Shabda) – ether/space element ( Akasha )
+
+[REFERENCES / LINKS]
+Jala : https://www.carakasamhitaonline.com/index.php?title=Jala
+Prithvi : https://www.carakasamhitaonline.com/index.php?title=Prithvi
+Akasha : https://www.carakasamhitaonline.com/index.php?title=Akasha
+
+
+[BLOCK 23: P]
+----------------------------------------------------------------------
+Action (kriya) and substance ( dravya ): The compound or element or thing and its actions have inseparable relations. As movement is the action of vata dosha . This kind of relationship is also found in
+
+[REFERENCES / LINKS]
+dravya : https://www.carakasamhitaonline.com/index.php?title=Dravya
+vata dosha : https://www.carakasamhitaonline.com/index.php?title=Vata_dosha
+
+
+[BLOCK 24: UL]
+----------------------------------------------------------------------
+1. Pachana (digestive)- pachaka dravya (Shunthi - ginger)
+2. Rechana (purgation) – rechaka dravya (Haritaki – Terminalia chebula)
+3. Vamana (emesis)- vamaka dravya (Madanaphala - emetic nut)
+
+[REFERENCES / LINKS]
+Pachana : https://www.carakasamhitaonline.com/index.php?title=Pachana
+Vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+
+
+[BLOCK 25: P]
+----------------------------------------------------------------------
+Inherent property (jati) and its holder (vyakti): Like humanity human beings is their inherent property. This kind of relationship is found in each species.
+
+
+[BLOCK 26: H2]
+----------------------------------------------------------------------
+Difference between Samavaya and Samyoga
+
+
+[BLOCK 27: TABLE]
+----------------------------------------------------------------------
+[COMPLETE TABLE]
+
+Row 1:
+Column 1: S.no.
+  Type: th, Rowspan: 1, Colspan: 1
+Column 2: Samavaya
+  Type: th, Rowspan: 1, Colspan: 1
+Column 3: Samyoga
+  Type: th, Rowspan: 1, Colspan: 1
+
+Row 2:
+Column 1: 1
+  Type: td, Rowspan: 1, Colspan: 1
+Column 2: Found in between inseparable entities (ayutasiddhatwa)
+  Type: td, Rowspan: 1, Colspan: 1
+Column 3: Found in two different entities which are separate from each other (yutasiddhatwa)
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 3:
+Column 1: 2
+  Type: td, Rowspan: 1, Colspan: 1
+Column 2: Eternal (nitya)
+  Type: td, Rowspan: 1, Colspan: 1
+Column 3: Transient (anitya)
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 4:
+Column 1: 3
+  Type: td, Rowspan: 1, Colspan: 1
+Column 2: Single(eka)
+  Type: td, Rowspan: 1, Colspan: 1
+Column 3: Multiple (aneka)
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 5:
+Column 1: 4
+  Type: td, Rowspan: 1, Colspan: 1
+Column 2: Permanent (sthayi)
+  Type: td, Rowspan: 1, Colspan: 1
+Column 3: Temporary (asthayi)
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 6:
+Column 1: 5
+  Type: td, Rowspan: 1, Colspan: 1
+Column 2: Inseparable (aprithagbhava)
+  Type: td, Rowspan: 1, Colspan: 1
+Column 3: Separable (prithagbhava)
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 7:
+Column 1: 6
+  Type: td, Rowspan: 1, Colspan: 1
+Column 2: Eternal relation like Avayava- avayavi, Guna-guninau, Kriya-kriyavan, Nitya-vishesha, Jati-vyakti
+  Type: td, Rowspan: 1, Colspan: 1
+Column 3: Not specific
+  Type: td, Rowspan: 1, Colspan: 1
+
+Row 8:
+Column 1: 7
+  Type: td, Rowspan: 1, Colspan: 1
+Column 2: Imperecptible (atindriya)
+  Type: td, Rowspan: 1, Colspan: 1
+Column 3: Assessable through senses (indriyagrahya)
+  Type: td, Rowspan: 1, Colspan: 1
+
+
+[BLOCK 28: H2]
+----------------------------------------------------------------------
+Applied aspect of Samavaya
+
+
+[BLOCK 29: P]
+----------------------------------------------------------------------
+Diagnosis: The disease condition shows signs and symptoms. The cardinal features that are integrally linked to the disease must also be relied on in the diagnostic factors. Disease and their cardinal features have a samavaya relationship. Thus, cardinal features are used to diagnose a condition. For examples:
+
+
+[BLOCK 30: UL]
+----------------------------------------------------------------------
+1. Obstinate urinary disorders including diabetes ( prameha ) – excessive production of urine (prabhutaavilamutrata)
+2. Diarrhea (atisara) - excessive liquid stool production (atidrava mala pravrutti)
+3. Fever ( jwara ) - hyperthermia (santapa)
+
+[REFERENCES / LINKS]
+prameha : https://www.carakasamhitaonline.com/index.php?title=Prameha
+jwara : https://www.carakasamhitaonline.com/index.php?title=Jwara
+
+
+[BLOCK 31: P]
+----------------------------------------------------------------------
+Treatment: Ayurveda also recognizes Samavaya as a distinct and significant padartha. The basic Ayurvedic idea for therapy is that the medications are employed based on their botanical or mineral properties. Effective drug selection is essential for a successful treatment. Physicians can trust in medications based on eternal relationships since they contain qualities ( guna ) and activity profiles ( karma ). In practice, the physician continuously evaluates the quality and activity of a drug.
+
+[REFERENCES / LINKS]
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+guna : https://www.carakasamhitaonline.com/index.php?title=Guna
+karma : https://www.carakasamhitaonline.com/index.php?title=Karma
+
+
+[BLOCK 32: P]
+----------------------------------------------------------------------
+For examples:
+
+
+[BLOCK 33: UL]
+----------------------------------------------------------------------
+1. Cold property (sheeta guna) and pitta pacifying action (shamana karma) has resided in Emblica officinalis (amalaka) with samavaya relation, and it is used in excessive aggravation of pitta (pittavruddhi).
+2. Randia spinosa ( Madanaphala ) - therapeutic emesis ( vamana karma) with samavaya relation; Operculina turpethum (trivrutta) - Therapeutic purgation ( virechana karma) with samavaya relation
+3. Ghee (clarified butter) - pitta shamana, honey (madhu) – kapha shamana
+
+[REFERENCES / LINKS]
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+Madanaphala : https://www.carakasamhitaonline.com/index.php?title=Madanaphala
+vamana : https://www.carakasamhitaonline.com/index.php?title=Vamana
+virechana : https://www.carakasamhitaonline.com/index.php?title=Virechana
+pitta : https://www.carakasamhitaonline.com/index.php?title=Pitta
+kapha : https://www.carakasamhitaonline.com/index.php?title=Kapha
+
+
+[BLOCK 34: P]
+----------------------------------------------------------------------
+Prevention: Food taken in the right quantity and quality has properties of nutrition, growth, and development of the body. Every food item has inherent nutritional characteristics that cannot be separated. The prevention of various diseases is achieved based on diet. Avoiding apathy is a preventive component of samavaya, as a diet with a specific property ( guna ) and action ( karma ) is bad in that sickness and should be avoided. For example: in obesity (sthaulya), milk is avoided, etc.
+
+[REFERENCES / LINKS]
+guna : https://www.carakasamhitaonline.com/index.php?title=Guna
+karma : https://www.carakasamhitaonline.com/index.php?title=Karma
+
+
+[BLOCK 35: P]
+----------------------------------------------------------------------
+Applicability in prabhava concept: Prabhava has an influential impact of some peculiar drugs; because of samavayakarana only, its existence becomes possible to exhibit its functions.
+
+[REFERENCES / LINKS]
+prabhava : https://www.carakasamhitaonline.com/index.php?title=Prabhava
+Prabhava : https://www.carakasamhitaonline.com/index.php?title=Prabhava
+
+
+[BLOCK 36: P]
+----------------------------------------------------------------------
+As a causative factor: Ayurveda listed samavaya as one of the important causative factors. Samavayikarana is responsible for all actions. Like causes ( hetu ) are samavayi for diseases.
+
+[REFERENCES / LINKS]
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+hetu : https://www.carakasamhitaonline.com/index.php?title=Hetu
+
+
+[BLOCK 37: P]
+----------------------------------------------------------------------
+As a type of perception of senses: Tarkasangraha mentioned samavaya as one among the six kinds of perception through senses (indriyasannikarsha). [Tarkasangraha 43] [ 3 ]
+
+[REFERENCES / LINKS]
+[ 3 ] : https://www.carakasamhitaonline.com/index.php?title=Samavaya#cite_note-Tarka-3
+
+
+[BLOCK 38: P]
+----------------------------------------------------------------------
+Samavaya in conventional research: Correlation analysis, regression analysis, odds ratio, and risk ratio are the types of statistical analysis used to find the samavaya sambandha.
+
+
+[BLOCK 39: H2]
+----------------------------------------------------------------------
+Theses done
+
+
+[BLOCK 40: P]
+----------------------------------------------------------------------
+1. Tushar Kanti Bhattacharya (1993): Samavaya and the Nyaya-Vaisesika realism. Department of Philosophy; The University of Burdwan. The study focused on the Nyaya- Vaisheshika's understanding of samavaya, its ontology and concept of relation.
+
+
+[BLOCK 41: P]
+----------------------------------------------------------------------
+2. Asit Baran Pal (2008): Samavaya as a relation: A critical exposition. Department of Philosophy, University of North Bengal; West Bengal. The goal of this research was to comprehend samavaya as an ontological issue within the perspective of Nyaya Vaisheshika realism and logical empiricism.
+
+
+[BLOCK 42: P]
+----------------------------------------------------------------------
+3. Anil D. Avhad (2012): An applied aspect of samavaya as karana/padartha in ayurveda chikitsa & darshana. Department of basic principles, I.P.G.T.& R.A.; Jamnagar, Gujarat. The study observed that samavaya is applied in every concept of Ayurveda. It is the basis of triskandha ayurveda.
+
+
+[BLOCK 43: P]
+----------------------------------------------------------------------
+4. Sarbani Banerjee (2003): Samavayasambandha Ek tivicharmulakalochana. Department of Philosophy; Jadavpur University.
+
+
+[BLOCK 44: H2]
+----------------------------------------------------------------------
+Researches
+
+
+[BLOCK 45: P]
+----------------------------------------------------------------------
+Application of samavaya concept: Samavaya is the sixth fundamental cause. It explains the link between substance ( dravya ), its qulities ( guna ), and actions ( karma ). In diagnostics and drug selection, an understanding of samavaya becomes a crucial tool. A total of 23 patients of ama were studied. In this practical investigation, it was observed that ama symptoms are linked inseparably with poor digestion and metabolism (agnimandya). The light-to-digest (laghu), dry (ruksha), and hot (ushna) properties of the trial herb Piper longum L. ( Pippalimula ) act on the ama . They are not present in placebo. Therefore pippalimula exhibited a substantial and better outcome in ama than placebo. [ 4 ]
+
+[REFERENCES / LINKS]
+dravya : https://www.carakasamhitaonline.com/index.php?title=Dravya
+guna : https://www.carakasamhitaonline.com/index.php?title=Guna
+karma : https://www.carakasamhitaonline.com/index.php?title=Karma
+ama : https://www.carakasamhitaonline.com/index.php?title=Ama
+ama : https://www.carakasamhitaonline.com/index.php?title=Ama
+Pippalimula : https://www.carakasamhitaonline.com/index.php?title=Pippalimula
+ama : https://www.carakasamhitaonline.com/index.php?title=Ama
+pippalimula : https://www.carakasamhitaonline.com/index.php?title=Pippalimula
+ama : https://www.carakasamhitaonline.com/index.php?title=Ama
+[ 4 ] : https://www.carakasamhitaonline.com/index.php?title=Samavaya#cite_note-pippali-4
+
+
+[BLOCK 46: H2]
+----------------------------------------------------------------------
+Related chapters
+
+
+[BLOCK 47: P]
+----------------------------------------------------------------------
+Deerghanjiviteeya Adhyaya , Ayurveda , Kaarya Kaarana Siddhanta , Samanya Vishesha Siddhanta , Dravya , Padartha , Guna , Karma , Disha , Abhava
+
+[REFERENCES / LINKS]
+Deerghanjiviteeya Adhyaya : https://www.carakasamhitaonline.com/index.php?title=Deerghanjiviteeya_Adhyaya
+Ayurveda : https://www.carakasamhitaonline.com/index.php?title=Ayurveda
+Kaarya Kaarana Siddhanta : https://www.carakasamhitaonline.com/index.php?title=Kaarya_Kaarana_Siddhanta
+Samanya Vishesha Siddhanta : https://www.carakasamhitaonline.com/index.php?title=Samanya_Vishesha_Siddhanta
+Dravya : https://www.carakasamhitaonline.com/index.php?title=Dravya
+Padartha : https://www.carakasamhitaonline.com/index.php?title=Padartha
+Guna : https://www.carakasamhitaonline.com/index.php?title=Guna
+Karma : https://www.carakasamhitaonline.com/index.php?title=Karma
+Disha : https://www.carakasamhitaonline.com/index.php?title=Disha
+Abhava : https://www.carakasamhitaonline.com/index.php?title=Abhava
+
+
+[BLOCK 48: P]
+----------------------------------------------------------------------
+Send us your suggestions and feedback on this page.
+
+[REFERENCES / LINKS]
+Send us your suggestions and feedback on this page. : https://www.carakasamhitaonline.com/index.php?title=Special:ContactMe
+
+
+[BLOCK 49: H2]
+----------------------------------------------------------------------
+References
+
+
+[BLOCK 50: TEXT]
+----------------------------------------------------------------------
+Back to the Top
+
+
+[BLOCK 51: OL]
+----------------------------------------------------------------------
+1. ↑ National AYUSH Morbidity and Standardized Terminologies Electronic Portal by Ministry of AYUSH Available on http://namstp.ayush.gov.in/#/Ayurveda
+2. ↑ Sivaditya. Saptapadarthi. Edited by Amarendra Mohan Tarkatirtha& Narendra Chandra Vedantatirtha. Calcutta. MetropolitianPriniting& Publishing House Limited; 1934.
+3. ↑ 3.0 3.1 3.2 Annam Bhatt. Takrasangraha. Edited by S.S.Sukthankar. Bombay: The Bombay book depot;1930.
+4. ↑ 4.0 4.1 Avhad AD, Dwivedi R. Effect of Pippalimula on Ama w.s.r. to Samavaya. Ayu 2014;35:35-41.
+5. ↑ Shabdakalpadruma, Radhakantdev R, editors. Delhi: Amar Publication;2018.
+
+[REFERENCES / LINKS]
+↑ : https://www.carakasamhitaonline.com/index.php?title=Samavaya#cite_ref-1
+http://namstp.ayush.gov.in/#/Ayurveda : http://namstp.ayush.gov.in/#/Ayurveda
+↑ : https://www.carakasamhitaonline.com/index.php?title=Samavaya#cite_ref-2
+3.0 : https://www.carakasamhitaonline.com/index.php?title=Samavaya#cite_ref-Tarka_3-0
+3.1 : https://www.carakasamhitaonline.com/index.php?title=Samavaya#cite_ref-Tarka_3-1
+3.2 : https://www.carakasamhitaonline.com/index.php?title=Samavaya#cite_ref-Tarka_3-2
+4.0 : https://www.carakasamhitaonline.com/index.php?title=Samavaya#cite_ref-pippali_4-0
+4.1 : https://www.carakasamhitaonline.com/index.php?title=Samavaya#cite_ref-pippali_4-1
+↑ : https://www.carakasamhitaonline.com/index.php?title=Samavaya#cite_ref-5
+
+
+[BLOCK 52: TEXT]
+----------------------------------------------------------------------
+NewPP limit report
+Cached time: 20261117082323
+Cache expiry: 86400
+Reduced expiry: false
+Complications: [vary‐revision‐id, show‐toc]
+CPU time usage: 0.103 seconds
+Real time usage: 0.378 seconds
+Preprocessor visited node count: 255/1000000
+Post‐expand include size: 2835/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 3/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1338/5000000 bytes
+Lua time usage: 0.140/7 seconds
+Lua virtual size: 20480000/209715200 bytes
+Lua estimated memory usage: 0 bytes
+
+
+[BLOCK 53: TEXT]
+----------------------------------------------------------------------
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 351.213 1 -total
+93.21% 327.379 1 Template:Infobox
+1.96% 6.894 1 Template:CiteButton
+
+
+[BLOCK 54: TEXT]
+----------------------------------------------------------------------
+Saved in parser cache with key carakas1_carakasa:pcache:idhash:3590-0!canonical and timestamp 20261117082323 and revision id 44622. Rendering was triggered because: page-view
+
+
+[BLOCK 55: TEXT]
+----------------------------------------------------------------------
+Retrieved from "
+
+
+[BLOCK 56: TEXT]
+----------------------------------------------------------------------
+https://www.carakasamhitaonline.com/index.php?title=Samavaya&oldid=44622
+
+
+[BLOCK 57: TEXT]
+----------------------------------------------------------------------
+"
+
+
+==========================================================================================
+END OF CHAPTER
+==========================================================================================

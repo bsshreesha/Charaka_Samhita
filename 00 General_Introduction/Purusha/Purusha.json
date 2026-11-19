@@ -1,0 +1,994 @@
+{
+    "source": "Charaka Samhita",
+    "chapter": "Purusha",
+    "chapter_id": "Purusha",
+    "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha",
+    "xpath": "//*[@id=\"content\"]",
+    "extraction_date": "2026-11-18T11:07:10",
+    "total_blocks": 49,
+    "total_tables": 1,
+    "total_headings": 15,
+    "total_paragraphs": 13,
+    "content": [
+        {
+            "type": "h1",
+            "text": "Purusha",
+            "html": "<h1 class=\"firstHeading mw-first-heading\" id=\"firstHeading\"><span class=\"mw-page-title-main\">Purusha</span></h1>",
+            "links": [],
+            "images": [],
+            "level": 1
+        },
+        {
+            "type": "text",
+            "text": "From Charak Samhita"
+        },
+        {
+            "type": "text",
+            "text": "Jump to navigation"
+        },
+        {
+            "type": "text",
+            "text": "Jump to search"
+        },
+        {
+            "type": "figure",
+            "text": "",
+            "html": "<figure class=\"mw-default-size mw-halign-right\" typeof=\"mw:File\"><a href=\"https://www.carakasamhitaonline.com/index.php?title=Special:CiteThisPage&amp;page=Purusha&amp;id=44603&amp;wpFormIdentifier=titleform\" rel=\"nofollow\"><img class=\"mw-file-element\" decoding=\"async\" height=\"47\" src=\"/images/5/58/Cite.png\" width=\"180\"/></a><figcaption></figcaption></figure>",
+            "links": [
+                {
+                    "text": "",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Special:CiteThisPage&page=Purusha&id=44603&wpFormIdentifier=titleform"
+                }
+            ],
+            "images": [
+                {
+                    "url": "https://www.carakasamhitaonline.com/images/5/58/Cite.png",
+                    "alt": "",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "The term purusha literally means a man, holistic human being or a member or representative of a race or generation. This word also represents the soul of the universe. [ 1 ] A proper knowledge about all the elements of a particular purusha is very essential for the successful treatment.",
+            "html": "<p style=\"text-align:justify;\">The term purusha literally means a man, holistic human being or a member or representative of a race or generation. This word also represents the soul of the universe.<sup class=\"reference\" id=\"cite_ref-1\"><a href=\"#cite_note-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup> A proper knowledge about all the elements of a particular purusha is very essential for the successful treatment. </p>",
+            "links": [
+                {
+                    "text": "[ 1 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha#cite_note-1"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "Section/Chapter/topic",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Sharira / Purusha",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Sharira",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Authors",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Aneesh E.G., Deole Y.S.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Deole Y.S.",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Yogesh_Deole"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Reviewed by",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Basisht G.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Basisht G.",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Gopal_Basisht"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Affiliations",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Charak Samhita Research, Training and Development Centre , I.P.G.T.& R.A., Jamnagar",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Charak Samhita Research, Training and Development Centre",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Correspondence email:",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "dryogeshdeole@gmail.com, carakasamhita@gmail.com",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Publisher",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Charak Samhita Research, Training and Development Centre , I.T.R.A., Jamnagar, India",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Charak Samhita Research, Training and Development Centre",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Date of first publication:",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "April 22, 2020",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "DOI",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "10.47468/CSNE.2020.e01.s09.005",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "10.47468/CSNE.2020.e01.s09.005",
+                                "url": "https://doi.org/10.47468/CSNE.2020.e01.s09.005"
+                            }
+                        ]
+                    }
+                ]
+            ],
+            "html": "<table class=\"infobox\" style=\"width:22em\"><caption>Contributors</caption><tbody><tr><th scope=\"row\">Section/Chapter/topic</th><td>\n<a href=\"/index.php?title=Sharira\" title=\"Sharira\">Sharira</a> / <a class=\"mw-selflink selflink\">Purusha</a></td></tr><tr><th scope=\"row\">Authors</th><td>\nAneesh E.G., <a href=\"/index.php?title=Yogesh_Deole\" title=\"Yogesh Deole\">Deole Y.S.</a></td></tr><tr><th scope=\"row\">Reviewed by</th><td>\n<a href=\"/index.php?title=Gopal_Basisht\" title=\"Gopal Basisht\">Basisht G.</a></td></tr><tr><th scope=\"row\">Affiliations</th><td>\n<a class=\"mw-redirect\" href=\"/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre\" title=\"Charak Samhita Research, Training and Development Centre\">Charak Samhita Research, Training and Development Centre</a>, I.P.G.T.&amp; R.A., Jamnagar</td></tr><tr><th scope=\"row\">Correspondence email:</th><td>\ndryogeshdeole@gmail.com, carakasamhita@gmail.com</td></tr><tr><th scope=\"row\">Publisher</th><td>\n<a class=\"mw-redirect\" href=\"/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre\" title=\"Charak Samhita Research, Training and Development Centre\">Charak Samhita Research, Training and Development Centre</a>, I.T.R.A., Jamnagar, India</td></tr><tr><th scope=\"row\">Date of first publication:</th><td>\nApril 22, 2020</td></tr><tr><th scope=\"row\">DOI</th><td>\n<a class=\"external text\" href=\"https://doi.org/10.47468/CSNE.2020.e01.s09.005\" rel=\"nofollow\">10.47468/CSNE.2020.e01.s09.005</a></td></tr></tbody></table>",
+            "links": [
+                {
+                    "text": "Sharira",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira"
+                },
+                {
+                    "text": "Deole Y.S.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Yogesh_Deole"
+                },
+                {
+                    "text": "Basisht G.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Gopal_Basisht"
+                },
+                {
+                    "text": "Charak Samhita Research, Training and Development Centre",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre"
+                },
+                {
+                    "text": "Charak Samhita Research, Training and Development Centre",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre"
+                },
+                {
+                    "text": "10.47468/CSNE.2020.e01.s09.005",
+                    "url": "https://doi.org/10.47468/CSNE.2020.e01.s09.005"
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Contents",
+            "html": "<h2 id=\"mw-toc-heading\">Contents</h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ul",
+            "text": "1 Etymology and derivation 2 Definition 3 Contextual meanings 4 Types 4.1 One element 4.2 Six elements 4.3 Twenty four elements 5 Discussion 6 Importance of Knowledge of Purusha 7 Current researches 8 More information 9 References from Charak Samhita 10 References",
+            "html": "<ul>\n<li class=\"toclevel-1 tocsection-1\"><a href=\"#Etymology_and_derivation\"><span class=\"tocnumber\">1</span> <span class=\"toctext\">Etymology and derivation</span></a></li>\n<li class=\"toclevel-1 tocsection-2\"><a href=\"#Definition\"><span class=\"tocnumber\">2</span> <span class=\"toctext\">Definition</span></a></li>\n<li class=\"toclevel-1 tocsection-3\"><a href=\"#Contextual_meanings\"><span class=\"tocnumber\">3</span> <span class=\"toctext\">Contextual meanings</span></a></li>\n<li class=\"toclevel-1 tocsection-4\"><a href=\"#Types\"><span class=\"tocnumber\">4</span> <span class=\"toctext\">Types</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-5\"><a href=\"#One_element\"><span class=\"tocnumber\">4.1</span> <span class=\"toctext\">One element</span></a></li>\n<li class=\"toclevel-2 tocsection-6\"><a href=\"#Six_elements\"><span class=\"tocnumber\">4.2</span> <span class=\"toctext\">Six elements</span></a></li>\n<li class=\"toclevel-2 tocsection-7\"><a href=\"#Twenty_four_elements\"><span class=\"tocnumber\">4.3</span> <span class=\"toctext\">Twenty four elements</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-8\"><a href=\"#Discussion\"><span class=\"tocnumber\">5</span> <span class=\"toctext\">Discussion</span></a></li>\n<li class=\"toclevel-1 tocsection-9\"><a href=\"#Importance_of_Knowledge_of_Purusha\"><span class=\"tocnumber\">6</span> <span class=\"toctext\">Importance of Knowledge of Purusha</span></a></li>\n<li class=\"toclevel-1 tocsection-10\"><a href=\"#Current_researches\"><span class=\"tocnumber\">7</span> <span class=\"toctext\">Current researches</span></a></li>\n<li class=\"toclevel-1 tocsection-11\"><a href=\"#More_information\"><span class=\"tocnumber\">8</span> <span class=\"toctext\">More information</span></a></li>\n<li class=\"toclevel-1 tocsection-12\"><a href=\"#References_from_Charak_Samhita\"><span class=\"tocnumber\">9</span> <span class=\"toctext\">References from Charak Samhita</span></a></li>\n<li class=\"toclevel-1 tocsection-13\"><a href=\"#References\"><span class=\"tocnumber\">10</span> <span class=\"toctext\">References</span></a></li>\n</ul>",
+            "links": [
+                {
+                    "text": "1 Etymology and derivation",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha#Etymology_and_derivation"
+                },
+                {
+                    "text": "2 Definition",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha#Definition"
+                },
+                {
+                    "text": "3 Contextual meanings",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha#Contextual_meanings"
+                },
+                {
+                    "text": "4 Types",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha#Types"
+                },
+                {
+                    "text": "4.1 One element",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha#One_element"
+                },
+                {
+                    "text": "4.2 Six elements",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha#Six_elements"
+                },
+                {
+                    "text": "4.3 Twenty four elements",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha#Twenty_four_elements"
+                },
+                {
+                    "text": "5 Discussion",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha#Discussion"
+                },
+                {
+                    "text": "6 Importance of Knowledge of Purusha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha#Importance_of_Knowledge_of_Purusha"
+                },
+                {
+                    "text": "7 Current researches",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha#Current_researches"
+                },
+                {
+                    "text": "8 More information",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha#More_information"
+                },
+                {
+                    "text": "9 References from Charak Samhita",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha#References_from_Charak_Samhita"
+                },
+                {
+                    "text": "10 References",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha#References"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "1 Etymology and derivation",
+                    "links": [
+                        {
+                            "text": "1 Etymology and derivation",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha#Etymology_and_derivation"
+                        }
+                    ]
+                },
+                {
+                    "text": "2 Definition",
+                    "links": [
+                        {
+                            "text": "2 Definition",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha#Definition"
+                        }
+                    ]
+                },
+                {
+                    "text": "3 Contextual meanings",
+                    "links": [
+                        {
+                            "text": "3 Contextual meanings",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha#Contextual_meanings"
+                        }
+                    ]
+                },
+                {
+                    "text": "4 Types 4.1 One element 4.2 Six elements 4.3 Twenty four elements",
+                    "links": [
+                        {
+                            "text": "4 Types",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha#Types"
+                        },
+                        {
+                            "text": "4.1 One element",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha#One_element"
+                        },
+                        {
+                            "text": "4.2 Six elements",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha#Six_elements"
+                        },
+                        {
+                            "text": "4.3 Twenty four elements",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha#Twenty_four_elements"
+                        }
+                    ]
+                },
+                {
+                    "text": "5 Discussion",
+                    "links": [
+                        {
+                            "text": "5 Discussion",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha#Discussion"
+                        }
+                    ]
+                },
+                {
+                    "text": "6 Importance of Knowledge of Purusha",
+                    "links": [
+                        {
+                            "text": "6 Importance of Knowledge of Purusha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha#Importance_of_Knowledge_of_Purusha"
+                        }
+                    ]
+                },
+                {
+                    "text": "7 Current researches",
+                    "links": [
+                        {
+                            "text": "7 Current researches",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha#Current_researches"
+                        }
+                    ]
+                },
+                {
+                    "text": "8 More information",
+                    "links": [
+                        {
+                            "text": "8 More information",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha#More_information"
+                        }
+                    ]
+                },
+                {
+                    "text": "9 References from Charak Samhita",
+                    "links": [
+                        {
+                            "text": "9 References from Charak Samhita",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha#References_from_Charak_Samhita"
+                        }
+                    ]
+                },
+                {
+                    "text": "10 References",
+                    "links": [
+                        {
+                            "text": "10 References",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha#References"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Etymology and derivation",
+            "html": "<h2><span class=\"mw-headline\" id=\"Etymology_and_derivation\">Etymology and derivation</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "Purusha is derived from two words. 'Pure shareere' meaning 'inside the body'and 'shete' meaning ' which resides'. So, the word ‘purusha’ means that which resides in body. [amarakosha]",
+            "html": "<p>Purusha is derived from two words. 'Pure shareere' meaning 'inside the body'and 'shete' meaning ' which resides'. So, the word ‘purusha’ means that which resides in body. [amarakosha]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Definition",
+            "html": "<h2><span class=\"mw-headline\" id=\"Definition\">Definition</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "An aggregate of soul, senses, psyche and sense objects can be considered as purusha in general. [Cha. Sa. Sutra Sthana 25/04]",
+            "html": "<p>An aggregate of soul, senses, psyche and sense objects can be considered as purusha in general. [Cha. Sa. <a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 25/04]\n</p>",
+            "links": [
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Contextual meanings",
+            "html": "<h2><span class=\"mw-headline\" id=\"Contextual_meanings\">Contextual meanings</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "In Charak samhita the word purusha denotes these following meanings:",
+            "html": "<p>In Charak samhita the word purusha denotes these following meanings:\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "ol",
+            "text": "Person /individual Atma , Self , Consciousness alone One’s actions (deeds) in this life( purushakara) Corporeal entities (Purushe murtimanto पुरुषे मूर्तिमन्तो) Holistic human being (Rashipurusha) Male ( this meaning is used only to denote difference from female gender wherever applicable)",
+            "html": "<ol><li>Person /individual</li>\n<li><a href=\"/index.php?title=Atma\" title=\"Atma\">Atma</a>, Self , Consciousness alone</li>\n<li>One’s actions (deeds) in this life( purushakara)</li>\n<li>Corporeal entities (Purushe murtimanto पुरुषे मूर्तिमन्तो)</li>\n<li>Holistic human being (Rashipurusha)</li>\n<li>Male ( this meaning is used only to denote difference from female gender wherever applicable)</li></ol>",
+            "links": [
+                {
+                    "text": "Atma",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Atma"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Person /individual",
+                    "links": []
+                },
+                {
+                    "text": "Atma , Self , Consciousness alone",
+                    "links": [
+                        {
+                            "text": "Atma",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Atma"
+                        }
+                    ]
+                },
+                {
+                    "text": "One’s actions (deeds) in this life( purushakara)",
+                    "links": []
+                },
+                {
+                    "text": "Corporeal entities (Purushe murtimanto पुरुषे मूर्तिमन्तो)",
+                    "links": []
+                },
+                {
+                    "text": "Holistic human being (Rashipurusha)",
+                    "links": []
+                },
+                {
+                    "text": "Male ( this meaning is used only to denote difference from female gender wherever applicable)",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Types",
+            "html": "<h2><span class=\"mw-headline\" id=\"Types\">Types</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "h3",
+            "text": "One element",
+            "html": "<h3><span class=\"mw-headline\" id=\"One_element\">One element</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "The element of consciousness alone could be considered as purusha. [Cha. Sa. Sharira Sthana 1/16]",
+            "html": "<p>The element of consciousness alone could be considered as purusha. [Cha. Sa.<a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 1/16]\n</p>",
+            "links": [
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Six elements",
+            "html": "<h3><span class=\"mw-headline\" id=\"Six_elements\">Six elements</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Purusha comprises of six elements (dhatus), viz. five mahabhuta (in their subtle form) and consciousness. [Cha.Sa. Sharira Sthana 1/16] Imperishable Atma and perishable panchabhautik body are the two main constituents of the purusha. They are mentioned in Yajurveda in question-answer manner as “combining and mutually supportive during life and disintegrating and merging with elements of the universe at the time of death.” The same concept is established more clearly as purusha of six constituent(sshad-dhatuka purusha) and combination of five elements( mahabhuta ) and consciousness (pancha mahabhuta shareeri samavayah purusha), and merging into mahabhuta (panchatwa prapti) at death by Charaka and Sushruta respectively. [ 2 ]",
+            "html": "<p>Purusha comprises of six elements (dhatus), viz. five <a class=\"mw-redirect\" href=\"/index.php?title=Mahabhuta\" title=\"Mahabhuta\">mahabhuta</a> (in their subtle form) and consciousness. [Cha.Sa.<a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 1/16] Imperishable <a href=\"/index.php?title=Atma\" title=\"Atma\">Atma</a> and perishable panchabhautik body are the two main constituents of the purusha. They are mentioned in Yajurveda in question-answer manner as “combining and mutually supportive during life and disintegrating and merging with elements of the universe at the time of death.” The same concept is established more clearly as purusha of six constituent(sshad-dhatuka purusha) and combination of five elements(<a class=\"mw-redirect\" href=\"/index.php?title=Mahabhuta\" title=\"Mahabhuta\">mahabhuta</a>) and consciousness (pancha mahabhuta shareeri samavayah purusha), and merging into <a class=\"mw-redirect\" href=\"/index.php?title=Mahabhuta\" title=\"Mahabhuta\">mahabhuta</a> (panchatwa prapti) at death by Charaka and Sushruta respectively.<sup class=\"reference\" id=\"cite_ref-2\"><a href=\"#cite_note-2\"><span class=\"cite-bracket\">[</span>2<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahabhuta"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                },
+                {
+                    "text": "Atma",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Atma"
+                },
+                {
+                    "text": "mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahabhuta"
+                },
+                {
+                    "text": "mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahabhuta"
+                },
+                {
+                    "text": "[ 2 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha#cite_note-2"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Twenty four elements",
+            "html": "<h3><span class=\"mw-headline\" id=\"Twenty_four_elements\">Twenty four elements</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Purusha comprises of twenty four constituents( dhatu ), i.e. mind, ten sensory and motor organs (indriyas), five objects of sense organs and prakriti (consisting of eight dhatu, viz. five mahabhuta (in their subtle form), ego( ahamkara ), intellect(mahan) and primordial element( avyakta ) [Cha.Sa. Sharira Sthana 1/17]",
+            "html": "<p>Purusha comprises of twenty four constituents(<a href=\"/index.php?title=Dhatu\" title=\"Dhatu\">dhatu</a>), i.e. mind, ten sensory and motor organs (indriyas), five objects of sense organs and <a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">prakriti</a> (consisting of eight dhatu, viz. five <a class=\"mw-redirect\" href=\"/index.php?title=Mahabhuta\" title=\"Mahabhuta\">mahabhuta</a> (in their subtle form), ego(<a class=\"new\" href=\"/index.php?title=Ahamkara&amp;action=edit&amp;redlink=1\" title=\"Ahamkara (page does not exist)\">ahamkara</a>), intellect(mahan) and primordial element(<a href=\"/index.php?title=Avyakta\" title=\"Avyakta\">avyakta</a>) [Cha.Sa. <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 1/17]\n</p>",
+            "links": [
+                {
+                    "text": "dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu"
+                },
+                {
+                    "text": "prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahabhuta"
+                },
+                {
+                    "text": "ahamkara",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ahamkara&action=edit&redlink=1"
+                },
+                {
+                    "text": "avyakta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Discussion",
+            "html": "<h2><span class=\"mw-headline\" id=\"Discussion\">Discussion</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "The word purusha denotes a holistic human being consisting of soul, senses and psyche. When the soul ( atma ) enters the physical body made of flesh and blood, it becomes a human being. So, it is the atma which gives life to the physical body. Atma or element of consciousness (chetana dhatu) is important for creation of life. In clinical practice, the physician treats a combination of mind, soul, senses, mahabhuta , intellect and ego. This gives rise to holistic system of medicine.",
+            "html": "<p>The word purusha denotes a holistic human being consisting of soul, senses and psyche. When the soul (<a href=\"/index.php?title=Atma\" title=\"Atma\">atma</a>) enters the physical body made of flesh and blood, it becomes a human being. So, it is the <a href=\"/index.php?title=Atma\" title=\"Atma\">atma</a> which gives life to the physical body. Atma or element of consciousness (chetana dhatu) is important for creation of life. In clinical practice, the physician treats a combination of mind, soul, senses, <a class=\"mw-redirect\" href=\"/index.php?title=Mahabhuta\" title=\"Mahabhuta\">mahabhuta</a>, intellect and ego. This gives rise to holistic system of medicine.\n</p>",
+            "links": [
+                {
+                    "text": "atma",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Atma"
+                },
+                {
+                    "text": "atma",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Atma"
+                },
+                {
+                    "text": "mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahabhuta"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "As per the Indian philosophy, all events in the life of person are due to the effect of his own deeds(karma) in this life or in the previous life. Ayurveda believes that rashipurusha is responsible for all deeds in his life and has to face the consequences of those deeds. It is also responsible for the (creation/gaining) of knowledge, pleasure, sorrow, and joy. Since purusha refers mainly to living human being, his deeds can also be called as purusha or purushakara because it defines that person.",
+            "html": "<p>As per the Indian philosophy, all events in the life of person are due to the effect of his own deeds(karma) in this life or in the previous life. <a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a> believes that <a href=\"/index.php?title=Rashipurusha\" title=\"Rashipurusha\">rashipurusha</a> is responsible for all deeds in his life and has to face the consequences of those deeds. It is also responsible for the (creation/gaining) of knowledge, pleasure, sorrow, and joy. Since purusha refers mainly to living human being, his deeds can also be called as purusha or purushakara because it defines that person.\n</p>",
+            "links": [
+                {
+                    "text": "Ayurveda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayurveda"
+                },
+                {
+                    "text": "rashipurusha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rashipurusha"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Purusha without a beginning, does not have an end. But the purusha with a beginning is ephemeral.[Cha.Sa. Sharira Sthana 1/59] The eternal purusha can be considered as the absolute soul and that with a beginning and end suggests the combination of soul with other elements.",
+            "html": "<p>Purusha without a beginning, does not have an end. But the purusha with a beginning is ephemeral.[Cha.Sa. <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 1/59] The eternal purusha can be considered as the absolute soul and that with a beginning and end suggests the combination of soul with other elements.\n</p>",
+            "links": [
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Importance of Knowledge of Purusha",
+            "html": "<h2><span class=\"mw-headline\" id=\"Importance_of_Knowledge_of_Purusha\">Importance of Knowledge of Purusha</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ul",
+            "text": "For treating a person, one has to know about the human body as a whole ( rashipurusha ).",
+            "html": "<ul><li>For treating a person, one has to know about the human body as a whole (<a href=\"/index.php?title=Rashipurusha\" title=\"Rashipurusha\">rashipurusha</a>).</li></ul>",
+            "links": [
+                {
+                    "text": "rashipurusha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rashipurusha"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "For treating a person, one has to know about the human body as a whole ( rashipurusha ).",
+                    "links": [
+                        {
+                            "text": "rashipurusha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Rashipurusha"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "The person who knows this rashipurusha in its true sense also understands the whole process of the genesis and destruction of life.",
+            "html": "<ul><li>The person who knows this <a href=\"/index.php?title=Rashipurusha\" title=\"Rashipurusha\">rashipurusha</a> in its true sense also understands the whole process of the genesis and destruction of life.</li></ul>",
+            "links": [
+                {
+                    "text": "rashipurusha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rashipurusha"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "The person who knows this rashipurusha in its true sense also understands the whole process of the genesis and destruction of life.",
+                    "links": [
+                        {
+                            "text": "rashipurusha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Rashipurusha"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "Such an intellectual person becomes well aware of chikitsa and nothing else remains for him to be learnt.",
+            "html": "<ul><li>Such an intellectual person becomes well aware of <a class=\"mw-redirect\" href=\"/index.php?title=Chikitsa\" title=\"Chikitsa\">chikitsa</a> and nothing else remains for him to be learnt.</li></ul>",
+            "links": [
+                {
+                    "text": "chikitsa",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Such an intellectual person becomes well aware of chikitsa and nothing else remains for him to be learnt.",
+                    "links": [
+                        {
+                            "text": "chikitsa",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "The life span of all living beings depends on the proper coordination of two factors, namely, daiva (divine/pre-determined/destiny) and purushakara (human effort/karma). Daiva means one’s own deeds in the previous life while purushakara stands for one’s actions (deeds) in this life. So proper knowledge of purusha is essential for understanding lifespan.",
+            "html": "<ul><li>The life span of all living beings depends on the proper coordination of two factors, namely, daiva (divine/pre-determined/destiny) and purushakara (human effort/karma). Daiva means one’s own deeds in the previous life while purushakara stands for one’s actions (deeds) in this life. So proper knowledge of purusha is essential for understanding lifespan.</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "The life span of all living beings depends on the proper coordination of two factors, namely, daiva (divine/pre-determined/destiny) and purushakara (human effort/karma). Daiva means one’s own deeds in the previous life while purushakara stands for one’s actions (deeds) in this life. So proper knowledge of purusha is essential for understanding lifespan.",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "ul",
+            "text": "In order to attain salvation, purusha is to be freed from rajas and tamas. If freed from the influence of rajas and tamas, the purusha is free from its association with the tattva and is said to be liberated.",
+            "html": "<ul><li>In order to attain salvation, purusha is to be freed from rajas and tamas. If freed from the influence of rajas and tamas, the purusha is free from its association with the tattva and is said to be liberated.</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "In order to attain salvation, purusha is to be freed from rajas and tamas. If freed from the influence of rajas and tamas, the purusha is free from its association with the tattva and is said to be liberated.",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Current researches",
+            "html": "<h2><span class=\"mw-headline\" id=\"Current_researches\">Current researches</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "Purusha is considered as Atman (self). Therefore, knowing purusha leads to knowledge about self. It is directly related to spiritual health. World Health Organization included spiritual dimension of health in assessment of quality of life. [ 3 ] Some researchers state that purusha is a state of self-existence which is static, undifferentiated and universal. It is a superconscious state which encompasses all other three states of consciousness-the ‘Jagrat’(awake), ‘Swapna’ (dream) and ‘Sushupti’ (deep sleep). There is no object-subject polarity (duality) in this universal state and it is unitary or singular. Thus purusha is merged with the universal consciousness. [ 4 ]",
+            "html": "<p>Purusha is considered as <a class=\"mw-redirect\" href=\"/index.php?title=Atman\" title=\"Atman\">Atman</a> (self). Therefore, knowing purusha leads to knowledge about self. It is directly related to spiritual health. World Health Organization included spiritual dimension of health in assessment of quality of life.<sup class=\"reference\" id=\"cite_ref-3\"><a href=\"#cite_note-3\"><span class=\"cite-bracket\">[</span>3<span class=\"cite-bracket\">]</span></a></sup> Some researchers state that purusha is a state of self-existence which is static, undifferentiated and universal. It is a superconscious state which encompasses all other three states of consciousness-the ‘Jagrat’(awake), ‘Swapna’ (dream) and ‘Sushupti’ (deep sleep). There is no object-subject polarity (duality) in this universal state and it is unitary or singular. Thus purusha is merged with the universal consciousness.<sup class=\"reference\" id=\"cite_ref-4\"><a href=\"#cite_note-4\"><span class=\"cite-bracket\">[</span>4<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "Atman",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Atman"
+                },
+                {
+                    "text": "[ 3 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha#cite_note-3"
+                },
+                {
+                    "text": "[ 4 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha#cite_note-4"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "More information",
+            "html": "<h2><span class=\"mw-headline\" id=\"More_information\">More information</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ol",
+            "text": "Katidhapurusha sharira Yajjah Purushiya",
+            "html": "<ol><li><a class=\"mw-redirect\" href=\"/index.php?title=Katidhapurusha_sharira\" title=\"Katidhapurusha sharira\">Katidhapurusha sharira</a></li>\n<li><a class=\"mw-redirect\" href=\"/index.php?title=Yajjah_Purushiya\" title=\"Yajjah Purushiya\">Yajjah Purushiya</a></li></ol>",
+            "links": [
+                {
+                    "text": "Katidhapurusha sharira",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Katidhapurusha_sharira"
+                },
+                {
+                    "text": "Yajjah Purushiya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Yajjah_Purushiya"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Katidhapurusha sharira",
+                    "links": [
+                        {
+                            "text": "Katidhapurusha sharira",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Katidhapurusha_sharira"
+                        }
+                    ]
+                },
+                {
+                    "text": "Yajjah Purushiya",
+                    "links": [
+                        {
+                            "text": "Yajjah Purushiya",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Yajjah_Purushiya"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "References from Charak Samhita",
+            "html": "<h2><span class=\"mw-headline\" id=\"References_from_Charak_Samhita\">References from <a class=\"mw-redirect\" href=\"/index.php?title=Charak_Samhita\" title=\"Charak Samhita\">Charak Samhita</a></span></h2>",
+            "links": [
+                {
+                    "text": "Charak Samhita",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita"
+                }
+            ],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "The list of references for word purusha in Charak Samhita can be seen here Purusha_table_of_references.pdf",
+            "html": "<p>The list of references for word purusha in Charak Samhita can be seen here <a class=\"internal\" href=\"/images/d/d4/Purusha_table_of_references.pdf\" title=\"Purusha table of references.pdf\">Purusha_table_of_references.pdf</a>\n</p>",
+            "links": [
+                {
+                    "text": "Purusha_table_of_references.pdf",
+                    "url": "https://www.carakasamhitaonline.com/images/d/d4/Purusha_table_of_references.pdf"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Send us your suggestions and feedback on this page.",
+            "html": "<p><big><b><a href=\"/index.php?title=Special:ContactMe\" title=\"Special:ContactMe\">Send us your suggestions and feedback on this page.</a></b></big>\n</p>",
+            "links": [
+                {
+                    "text": "Send us your suggestions and feedback on this page.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Special:ContactMe"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "References",
+            "html": "<h2><span class=\"mw-headline\" id=\"References\">References</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "text",
+            "text": "Back to the Top"
+        },
+        {
+            "type": "ol",
+            "text": "↑ Monier-Williams, Monier-Williams Sanskrit- English Dictionary, 1st edition; Oxford University Press, Purusha, Page 637 ↑ Thakar VJ. Historical development of basic concepts of Ayurveda from Veda up to Samhita. AYU. 2010 Oct-Dec; 31(4): 400–402. ↑ Reddy P S. Spiritual health in Āyurveda: A review through Charaka Samhitᾱ. Yoga Mimamsa 2018;50:37-40 ↑ H. R. Aravinda Prabhu, P. S. Bhat. Mind and consciousness in yoga – Vedanta: A comparative analysis with western psychological concepts Indian J Psychiatry. 2013 Jan; 55(Suppl 2): S182–S186.",
+            "html": "<ol class=\"references\">\n<li id=\"cite_note-1\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-1\">↑</a></span> <span class=\"reference-text\">Monier-Williams, Monier-Williams Sanskrit- English Dictionary, 1st edition; Oxford University Press, Purusha, Page 637</span>\n</li>\n<li id=\"cite_note-2\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-2\">↑</a></span> <span class=\"reference-text\">Thakar VJ. Historical development of basic concepts of Ayurveda from Veda up to Samhita. AYU. 2010 Oct-Dec; 31(4): 400–402.</span>\n</li>\n<li id=\"cite_note-3\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-3\">↑</a></span> <span class=\"reference-text\">Reddy P S. Spiritual health in Āyurveda: A review through Charaka Samhitᾱ. Yoga Mimamsa 2018;50:37-40</span>\n</li>\n<li id=\"cite_note-4\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-4\">↑</a></span> <span class=\"reference-text\">H. R. Aravinda Prabhu, P. S. Bhat. Mind and consciousness in yoga – Vedanta: A comparative analysis with western psychological concepts Indian J Psychiatry. 2013 Jan; 55(Suppl 2): S182–S186.</span>\n</li>\n</ol>",
+            "links": [
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha#cite_ref-1"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha#cite_ref-2"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha#cite_ref-3"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha#cite_ref-4"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "↑ Monier-Williams, Monier-Williams Sanskrit- English Dictionary, 1st edition; Oxford University Press, Purusha, Page 637",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha#cite_ref-1"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Thakar VJ. Historical development of basic concepts of Ayurveda from Veda up to Samhita. AYU. 2010 Oct-Dec; 31(4): 400–402.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha#cite_ref-2"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Reddy P S. Spiritual health in Āyurveda: A review through Charaka Samhitᾱ. Yoga Mimamsa 2018;50:37-40",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha#cite_ref-3"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ H. R. Aravinda Prabhu, P. S. Bhat. Mind and consciousness in yoga – Vedanta: A comparative analysis with western psychological concepts Indian J Psychiatry. 2013 Jan; 55(Suppl 2): S182–S186.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha#cite_ref-4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "text": "NewPP limit report\nCached time: 20261117073401\nCache expiry: 86400\nReduced expiry: false\nComplications: [vary‐revision‐id, show‐toc]\nCPU time usage: 0.105 seconds\nReal time usage: 0.259 seconds\nPreprocessor visited node count: 192/1000000\nPost‐expand include size: 2053/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 3/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 620/5000000 bytes\nLua time usage: 0.140/7 seconds\nLua virtual size: 20480000/209715200 bytes\nLua estimated memory usage: 0 bytes"
+        },
+        {
+            "type": "text",
+            "text": "Transclusion expansion time report (%,ms,calls,template)\n100.00% 231.180 1 -total\n93.26% 215.602 1 Template:Infobox\n0.93% 2.152 1 Template:CiteButton"
+        },
+        {
+            "type": "text",
+            "text": "Saved in parser cache with key carakas1_carakasa:pcache:idhash:3141-0!canonical and timestamp 20261117073401 and revision id 44603. Rendering was triggered because: unknown"
+        },
+        {
+            "type": "text",
+            "text": "Retrieved from \""
+        },
+        {
+            "type": "text",
+            "text": "https://www.carakasamhitaonline.com/index.php?title=Purusha&oldid=44603"
+        },
+        {
+            "type": "text",
+            "text": "\""
+        }
+    ],
+    "html_sha256": "73c75a9c53827e00fc1910d7fac1e6f759aecb19cef979906b70e0f0d1a41304"
+}

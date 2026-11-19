@@ -1,0 +1,2079 @@
+{
+    "source": "Charaka Samhita",
+    "chapter": "Agni mahabhuta",
+    "chapter_id": "Agni_mahabhuta",
+    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta",
+    "xpath": "//*[@id=\"content\"]",
+    "extraction_date": "2026-11-19T10:12:13",
+    "total_blocks": 65,
+    "total_tables": 1,
+    "total_headings": 22,
+    "total_paragraphs": 15,
+    "content": [
+        {
+            "type": "h1",
+            "text": "Agni mahabhuta",
+            "html": "<h1 class=\"firstHeading mw-first-heading\" id=\"firstHeading\"><span class=\"mw-page-title-main\">Agni mahabhuta</span></h1>",
+            "links": [],
+            "images": [],
+            "level": 1
+        },
+        {
+            "type": "text",
+            "text": "From Charak Samhita"
+        },
+        {
+            "type": "text",
+            "text": "Jump to navigation"
+        },
+        {
+            "type": "text",
+            "text": "Jump to search"
+        },
+        {
+            "type": "figure",
+            "text": "",
+            "html": "<figure class=\"mw-default-size mw-halign-right\" typeof=\"mw:File\"><a href=\"https://www.carakasamhitaonline.com/index.php?title=Special:CiteThisPage&amp;page=Agni_mahabhuta&amp;id=44609&amp;wpFormIdentifier=titleform\" rel=\"nofollow\"><img class=\"mw-file-element\" decoding=\"async\" height=\"47\" src=\"/images/5/58/Cite.png\" width=\"180\"/></a><figcaption></figcaption></figure>",
+            "links": [
+                {
+                    "text": "",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Special:CiteThisPage&page=Agni_mahabhuta&id=44609&wpFormIdentifier=titleform"
+                }
+            ],
+            "images": [
+                {
+                    "url": "https://www.carakasamhitaonline.com/images/5/58/Cite.png",
+                    "alt": "",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "The word ‘agni’ literally means ‘fire’. [ 1 ] The word meaning of ‘tejas’ is glow, glare, splendor, light, fire, the bright appearance of human body, vital power, essence etc. [ 2 ] It is one among the panchamahabhuta . [Cha.Sa. Sharira Sthana 1/27]. The word teja also represents vitality or essence (oja). Agni is present in two forms: mahabhuta and pitta dosha. The present article deals with agni mahabhuta. Agni related to pitta dosha is dealt with separately.",
+            "html": "<p style=\"text-align:justify;\">The word ‘agni’ literally means ‘fire’.<sup class=\"reference\" id=\"cite_ref-1\"><a href=\"#cite_note-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup> The word meaning of ‘tejas’ is glow, glare, splendor, light, fire, the bright appearance of human body, vital power, essence etc.<sup class=\"reference\" id=\"cite_ref-2\"><a href=\"#cite_note-2\"><span class=\"cite-bracket\">[</span>2<span class=\"cite-bracket\">]</span></a></sup> It is one among the <a class=\"mw-redirect\" href=\"/index.php?title=Panchamahabhuta\" title=\"Panchamahabhuta\">panchamahabhuta</a>. [Cha.Sa.<a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 1/27]. The word teja also represents vitality or essence (oja). Agni is present in two forms: mahabhuta and pitta dosha. The present article deals with agni mahabhuta. <a href=\"/index.php?title=Agni\" title=\"Agni\">Agni</a> related to <a href=\"/index.php?title=Pitta\" title=\"Pitta\">pitta</a> <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> is dealt with separately. </p>",
+            "links": [
+                {
+                    "text": "[ 1 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#cite_note-1"
+                },
+                {
+                    "text": "[ 2 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#cite_note-2"
+                },
+                {
+                    "text": "panchamahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Panchamahabhuta"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                },
+                {
+                    "text": "Agni",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni"
+                },
+                {
+                    "text": "pitta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pitta"
+                },
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "Section/Chapter/topic",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Sharira / Pachamahabhuta / Agni",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Sharira",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira"
+                            },
+                            {
+                                "text": "Pachamahabhuta",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Pachamahabhuta"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Authors",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Aneesh E.G., Deole Y.S.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Deole Y.S.",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Yogesh_Deole"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Reviewed by",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Basisht G.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Basisht G.",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Gopal_Basisht"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Affiliations",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Charak Samhita Research, Training and Development Centre , I.P.G.T.& R.A., Jamnagar",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Charak Samhita Research, Training and Development Centre",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Correspondence email:",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "dryogeshdeole@gmail.com, carakasamhita@gmail.com",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Publisher",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Charak Samhita Research, Training and Development Centre , I.T.R.A., Jamnagar, India",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Charak Samhita Research, Training and Development Centre",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Date of first publication:",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "April 13, 2020",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "DOI",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "10.47468/CSNE.2020.e01.s09.009",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "10.47468/CSNE.2020.e01.s09.009",
+                                "url": "https://doi.org/10.47468/CSNE.2020.e01.s09.009"
+                            }
+                        ]
+                    }
+                ]
+            ],
+            "html": "<table class=\"infobox\" style=\"width:22em\"><caption>Contributors</caption><tbody><tr><th scope=\"row\">Section/Chapter/topic</th><td>\n<a href=\"/index.php?title=Sharira\" title=\"Sharira\">Sharira</a> / <a class=\"mw-redirect\" href=\"/index.php?title=Pachamahabhuta\" title=\"Pachamahabhuta\">Pachamahabhuta</a> / Agni</td></tr><tr><th scope=\"row\">Authors</th><td>\nAneesh E.G., <a href=\"/index.php?title=Yogesh_Deole\" title=\"Yogesh Deole\">Deole Y.S.</a></td></tr><tr><th scope=\"row\">Reviewed by</th><td>\n<a href=\"/index.php?title=Gopal_Basisht\" title=\"Gopal Basisht\">Basisht G.</a></td></tr><tr><th scope=\"row\">Affiliations</th><td>\n<a class=\"mw-redirect\" href=\"/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre\" title=\"Charak Samhita Research, Training and Development Centre\">Charak Samhita Research, Training and Development Centre</a>, I.P.G.T.&amp; R.A., Jamnagar</td></tr><tr><th scope=\"row\">Correspondence email:</th><td>\ndryogeshdeole@gmail.com, carakasamhita@gmail.com</td></tr><tr><th scope=\"row\">Publisher</th><td>\n<a class=\"mw-redirect\" href=\"/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre\" title=\"Charak Samhita Research, Training and Development Centre\">Charak Samhita Research, Training and Development Centre</a>, I.T.R.A., Jamnagar, India</td></tr><tr><th scope=\"row\">Date of first publication:</th><td>\nApril 13, 2020</td></tr><tr><th scope=\"row\">DOI</th><td>\n<a class=\"external text\" href=\"https://doi.org/10.47468/CSNE.2020.e01.s09.009\" rel=\"nofollow\">10.47468/CSNE.2020.e01.s09.009</a></td></tr></tbody></table>",
+            "links": [
+                {
+                    "text": "Sharira",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira"
+                },
+                {
+                    "text": "Pachamahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pachamahabhuta"
+                },
+                {
+                    "text": "Deole Y.S.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Yogesh_Deole"
+                },
+                {
+                    "text": "Basisht G.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Gopal_Basisht"
+                },
+                {
+                    "text": "Charak Samhita Research, Training and Development Centre",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre"
+                },
+                {
+                    "text": "Charak Samhita Research, Training and Development Centre",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre"
+                },
+                {
+                    "text": "10.47468/CSNE.2020.e01.s09.009",
+                    "url": "https://doi.org/10.47468/CSNE.2020.e01.s09.009"
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Contents",
+            "html": "<h2 id=\"mw-toc-heading\">Contents</h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ul",
+            "text": "1 Etymology and definition 2 Synonyms 3 Contextual meanings 4 Evolution 5 Types of agni 6 General characteristics 7 Specific character (lakshana) 8 Importance 8.1 Role in the formation of dhatu 8.2 Functions in embryogenesis and human body 8.3 Role in determining the complexion 8.4 Vital points(marma) and its agnimahabhuta constitution 9 Importance in clinical practice 9.1 Application in diagnosis 9.2 Application in treatment 10 Current views and researches 11 List of theses done 12 More information 12.1 Related articles 13 References",
+            "html": "<ul>\n<li class=\"toclevel-1 tocsection-1\"><a href=\"#Etymology_and_definition\"><span class=\"tocnumber\">1</span> <span class=\"toctext\">Etymology and definition</span></a></li>\n<li class=\"toclevel-1 tocsection-2\"><a href=\"#Synonyms\"><span class=\"tocnumber\">2</span> <span class=\"toctext\">Synonyms</span></a></li>\n<li class=\"toclevel-1 tocsection-3\"><a href=\"#Contextual_meanings\"><span class=\"tocnumber\">3</span> <span class=\"toctext\">Contextual meanings</span></a></li>\n<li class=\"toclevel-1 tocsection-4\"><a href=\"#Evolution\"><span class=\"tocnumber\">4</span> <span class=\"toctext\">Evolution</span></a></li>\n<li class=\"toclevel-1 tocsection-5\"><a href=\"#Types_of_agni\"><span class=\"tocnumber\">5</span> <span class=\"toctext\">Types of agni</span></a></li>\n<li class=\"toclevel-1 tocsection-6\"><a href=\"#General_characteristics\"><span class=\"tocnumber\">6</span> <span class=\"toctext\">General characteristics</span></a></li>\n<li class=\"toclevel-1 tocsection-7\"><a href=\"#Specific_character_(lakshana)\"><span class=\"tocnumber\">7</span> <span class=\"toctext\">Specific character (lakshana)</span></a></li>\n<li class=\"toclevel-1 tocsection-8\"><a href=\"#Importance\"><span class=\"tocnumber\">8</span> <span class=\"toctext\">Importance</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-9\"><a href=\"#Role_in_the_formation_of_dhatu\"><span class=\"tocnumber\">8.1</span> <span class=\"toctext\">Role in the formation of dhatu</span></a></li>\n<li class=\"toclevel-2 tocsection-10\"><a href=\"#Functions_in_embryogenesis_and_human_body\"><span class=\"tocnumber\">8.2</span> <span class=\"toctext\">Functions in embryogenesis and human body</span></a></li>\n<li class=\"toclevel-2 tocsection-11\"><a href=\"#Role_in_determining_the_complexion\"><span class=\"tocnumber\">8.3</span> <span class=\"toctext\">Role in determining the complexion</span></a></li>\n<li class=\"toclevel-2 tocsection-12\"><a href=\"#Vital_points(marma)_and_its_agnimahabhuta_constitution\"><span class=\"tocnumber\">8.4</span> <span class=\"toctext\">Vital points(marma) and its agnimahabhuta constitution</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-13\"><a href=\"#Importance_in_clinical_practice\"><span class=\"tocnumber\">9</span> <span class=\"toctext\">Importance in clinical practice</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-14\"><a href=\"#Application_in_diagnosis\"><span class=\"tocnumber\">9.1</span> <span class=\"toctext\">Application in diagnosis</span></a></li>\n<li class=\"toclevel-2 tocsection-15\"><a href=\"#Application_in_treatment\"><span class=\"tocnumber\">9.2</span> <span class=\"toctext\">Application in treatment</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-16\"><a href=\"#Current_views_and_researches\"><span class=\"tocnumber\">10</span> <span class=\"toctext\">Current views and researches</span></a></li>\n<li class=\"toclevel-1 tocsection-17\"><a href=\"#List_of_theses_done\"><span class=\"tocnumber\">11</span> <span class=\"toctext\">List of theses done</span></a></li>\n<li class=\"toclevel-1 tocsection-18\"><a href=\"#More_information\"><span class=\"tocnumber\">12</span> <span class=\"toctext\">More information</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-19\"><a href=\"#Related_articles\"><span class=\"tocnumber\">12.1</span> <span class=\"toctext\">Related articles</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-20\"><a href=\"#References\"><span class=\"tocnumber\">13</span> <span class=\"toctext\">References</span></a></li>\n</ul>",
+            "links": [
+                {
+                    "text": "1 Etymology and definition",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#Etymology_and_definition"
+                },
+                {
+                    "text": "2 Synonyms",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#Synonyms"
+                },
+                {
+                    "text": "3 Contextual meanings",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#Contextual_meanings"
+                },
+                {
+                    "text": "4 Evolution",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#Evolution"
+                },
+                {
+                    "text": "5 Types of agni",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#Types_of_agni"
+                },
+                {
+                    "text": "6 General characteristics",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#General_characteristics"
+                },
+                {
+                    "text": "7 Specific character (lakshana)",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#Specific_character_(lakshana)"
+                },
+                {
+                    "text": "8 Importance",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#Importance"
+                },
+                {
+                    "text": "8.1 Role in the formation of dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#Role_in_the_formation_of_dhatu"
+                },
+                {
+                    "text": "8.2 Functions in embryogenesis and human body",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#Functions_in_embryogenesis_and_human_body"
+                },
+                {
+                    "text": "8.3 Role in determining the complexion",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#Role_in_determining_the_complexion"
+                },
+                {
+                    "text": "8.4 Vital points(marma) and its agnimahabhuta constitution",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#Vital_points(marma)_and_its_agnimahabhuta_constitution"
+                },
+                {
+                    "text": "9 Importance in clinical practice",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#Importance_in_clinical_practice"
+                },
+                {
+                    "text": "9.1 Application in diagnosis",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#Application_in_diagnosis"
+                },
+                {
+                    "text": "9.2 Application in treatment",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#Application_in_treatment"
+                },
+                {
+                    "text": "10 Current views and researches",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#Current_views_and_researches"
+                },
+                {
+                    "text": "11 List of theses done",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#List_of_theses_done"
+                },
+                {
+                    "text": "12 More information",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#More_information"
+                },
+                {
+                    "text": "12.1 Related articles",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#Related_articles"
+                },
+                {
+                    "text": "13 References",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#References"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "1 Etymology and definition",
+                    "links": [
+                        {
+                            "text": "1 Etymology and definition",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#Etymology_and_definition"
+                        }
+                    ]
+                },
+                {
+                    "text": "2 Synonyms",
+                    "links": [
+                        {
+                            "text": "2 Synonyms",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#Synonyms"
+                        }
+                    ]
+                },
+                {
+                    "text": "3 Contextual meanings",
+                    "links": [
+                        {
+                            "text": "3 Contextual meanings",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#Contextual_meanings"
+                        }
+                    ]
+                },
+                {
+                    "text": "4 Evolution",
+                    "links": [
+                        {
+                            "text": "4 Evolution",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#Evolution"
+                        }
+                    ]
+                },
+                {
+                    "text": "5 Types of agni",
+                    "links": [
+                        {
+                            "text": "5 Types of agni",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#Types_of_agni"
+                        }
+                    ]
+                },
+                {
+                    "text": "6 General characteristics",
+                    "links": [
+                        {
+                            "text": "6 General characteristics",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#General_characteristics"
+                        }
+                    ]
+                },
+                {
+                    "text": "7 Specific character (lakshana)",
+                    "links": [
+                        {
+                            "text": "7 Specific character (lakshana)",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#Specific_character_(lakshana)"
+                        }
+                    ]
+                },
+                {
+                    "text": "8 Importance 8.1 Role in the formation of dhatu 8.2 Functions in embryogenesis and human body 8.3 Role in determining the complexion 8.4 Vital points(marma) and its agnimahabhuta constitution",
+                    "links": [
+                        {
+                            "text": "8 Importance",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#Importance"
+                        },
+                        {
+                            "text": "8.1 Role in the formation of dhatu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#Role_in_the_formation_of_dhatu"
+                        },
+                        {
+                            "text": "8.2 Functions in embryogenesis and human body",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#Functions_in_embryogenesis_and_human_body"
+                        },
+                        {
+                            "text": "8.3 Role in determining the complexion",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#Role_in_determining_the_complexion"
+                        },
+                        {
+                            "text": "8.4 Vital points(marma) and its agnimahabhuta constitution",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#Vital_points(marma)_and_its_agnimahabhuta_constitution"
+                        }
+                    ]
+                },
+                {
+                    "text": "9 Importance in clinical practice 9.1 Application in diagnosis 9.2 Application in treatment",
+                    "links": [
+                        {
+                            "text": "9 Importance in clinical practice",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#Importance_in_clinical_practice"
+                        },
+                        {
+                            "text": "9.1 Application in diagnosis",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#Application_in_diagnosis"
+                        },
+                        {
+                            "text": "9.2 Application in treatment",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#Application_in_treatment"
+                        }
+                    ]
+                },
+                {
+                    "text": "10 Current views and researches",
+                    "links": [
+                        {
+                            "text": "10 Current views and researches",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#Current_views_and_researches"
+                        }
+                    ]
+                },
+                {
+                    "text": "11 List of theses done",
+                    "links": [
+                        {
+                            "text": "11 List of theses done",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#List_of_theses_done"
+                        }
+                    ]
+                },
+                {
+                    "text": "12 More information 12.1 Related articles",
+                    "links": [
+                        {
+                            "text": "12 More information",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#More_information"
+                        },
+                        {
+                            "text": "12.1 Related articles",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#Related_articles"
+                        }
+                    ]
+                },
+                {
+                    "text": "13 References",
+                    "links": [
+                        {
+                            "text": "13 References",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#References"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Etymology and definition",
+            "html": "<h2><span class=\"mw-headline\" id=\"Etymology_and_definition\">Etymology and definition</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "The word Agni is derived from three verbs – from 'going', from 'shining or burning', and from 'leading'. The letter \"a\" (अ) is from root \"i\" which means 'to go'. The letter \"g\" (ग्) is from the root \"añj\" meaning 'to shine' or \"dah\" meaning 'to burn'. And the last letter is by itself the root \"nī\" (नी) which means 'to lead'. [ 3 ]",
+            "html": "<p>The word Agni is derived from three verbs – from 'going', from 'shining or burning', and from 'leading'. The letter \"a\" (अ) is from root \"i\" which means 'to go'. The letter \"g\" (ग्) is from the root \"añj\" meaning 'to shine' or \"dah\" meaning 'to burn'. And the last letter is by itself the root \"nī\" (नी) which means 'to lead'.<sup class=\"reference\" id=\"cite_ref-3\"><a href=\"#cite_note-3\"><span class=\"cite-bracket\">[</span>3<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 3 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#cite_note-3"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Synonyms",
+            "html": "<h2><span class=\"mw-headline\" id=\"Synonyms\">Synonyms</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "Anala, teja, ushma, vaishvanara.",
+            "html": "<p>Anala, teja, ushma, vaishvanara.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Contextual meanings",
+            "html": "<h2><span class=\"mw-headline\" id=\"Contextual_meanings\">Contextual meanings</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "The term agni denotes the following meanings:",
+            "html": "<p>The term agni denotes the following meanings:\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "ol",
+            "text": "Agni mahabhuta factors responsible for digestion and metabolism at various levels (Jatharagni, bhutagni and dhatvagni) Pitta dosha [Cha.Sa. Chikitsa Sthana 3/39] Fire Body heat in the form of teja[Chakrapani on Cha.Sa. Chikitsa Sthana 26/132] Essence of all dhatu (oja)[Cha.Sa. Sutra Sthana 28/4] Power[Su.Sa.Su. 15/36] Brightness [Cha.Sa. Sharira Sthana 4/37]",
+            "html": "<ol><li>Agni mahabhuta</li>\n<li>factors responsible for digestion and metabolism at various levels (Jatharagni, bhutagni and dhatvagni)</li>\n<li><a href=\"/index.php?title=Pitta\" title=\"Pitta\">Pitta</a> <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> [Cha.Sa.<a href=\"/index.php?title=Chikitsa_Sthana\" title=\"Chikitsa Sthana\">Chikitsa Sthana</a> 3/39]</li>\n<li>Fire</li>\n<li>Body heat in the form of teja[Chakrapani on Cha.Sa.<a href=\"/index.php?title=Chikitsa_Sthana\" title=\"Chikitsa Sthana\">Chikitsa Sthana</a> 26/132]</li>\n<li>Essence of all <a href=\"/index.php?title=Dhatu\" title=\"Dhatu\">dhatu</a> (oja)[Cha.Sa.<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a>28/4]</li>\n<li>Power[Su.Sa.Su. 15/36]</li>\n<li>Brightness [Cha.Sa.<a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 4/37]</li></ol>",
+            "links": [
+                {
+                    "text": "Pitta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pitta"
+                },
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "Chikitsa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                },
+                {
+                    "text": "Chikitsa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                },
+                {
+                    "text": "dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Agni mahabhuta",
+                    "links": []
+                },
+                {
+                    "text": "factors responsible for digestion and metabolism at various levels (Jatharagni, bhutagni and dhatvagni)",
+                    "links": []
+                },
+                {
+                    "text": "Pitta dosha [Cha.Sa. Chikitsa Sthana 3/39]",
+                    "links": [
+                        {
+                            "text": "Pitta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pitta"
+                        },
+                        {
+                            "text": "dosha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                        },
+                        {
+                            "text": "Chikitsa Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                        }
+                    ]
+                },
+                {
+                    "text": "Fire",
+                    "links": []
+                },
+                {
+                    "text": "Body heat in the form of teja[Chakrapani on Cha.Sa. Chikitsa Sthana 26/132]",
+                    "links": [
+                        {
+                            "text": "Chikitsa Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                        }
+                    ]
+                },
+                {
+                    "text": "Essence of all dhatu (oja)[Cha.Sa. Sutra Sthana 28/4]",
+                    "links": [
+                        {
+                            "text": "dhatu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu"
+                        },
+                        {
+                            "text": "Sutra Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                        }
+                    ]
+                },
+                {
+                    "text": "Power[Su.Sa.Su. 15/36]",
+                    "links": []
+                },
+                {
+                    "text": "Brightness [Cha.Sa. Sharira Sthana 4/37]",
+                    "links": [
+                        {
+                            "text": "Sharira Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Evolution",
+            "html": "<h2><span class=\"mw-headline\" id=\"Evolution\">Evolution</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "In the sequence of evolution, agni evolves from the vayu mahabhuta . Subtle( tanmatra ) forms of sound(shabda),touch(sparsha) and shape(rupa) unify to form agnimahabhuta [Su.Sa.Sha.1/4].",
+            "html": "<p>In the sequence of evolution, <a href=\"/index.php?title=Agni\" title=\"Agni\">agni</a> evolves from the <a href=\"/index.php?title=Vayu_mahabhuta\" title=\"Vayu mahabhuta\">vayu mahabhuta</a>. Subtle(<a href=\"/index.php?title=Tanmatra\" title=\"Tanmatra\">tanmatra</a>) forms of sound(shabda),touch(sparsha) and shape(rupa) unify to form agnimahabhuta [Su.Sa.Sha.1/4].\n</p>",
+            "links": [
+                {
+                    "text": "agni",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni"
+                },
+                {
+                    "text": "vayu mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta"
+                },
+                {
+                    "text": "tanmatra",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Types of agni",
+            "html": "<h2><span class=\"mw-headline\" id=\"Types_of_agni\">Types of agni</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "Agni is present in two forms. 1)Eternal (nitya) and 2) Ephemeral(anitya ). [ 4 ] The most subtle (paramanu) form of agnimahabhuta is eternal. The secondary forms derived from it are ephemeral.\nThe ephemeral form is observed as factors responsible for heat, digestion and metabolism in body ( agni ), subject matter for vision (darshanendriyadravya ) and object of vision.",
+            "html": "<p>Agni is present in two forms. 1)Eternal (nitya) and 2) Ephemeral(anitya ).<sup class=\"reference\" id=\"cite_ref-4\"><a href=\"#cite_note-4\"><span class=\"cite-bracket\">[</span>4<span class=\"cite-bracket\">]</span></a></sup>\nThe most subtle (paramanu) form of agnimahabhuta is eternal. The secondary forms derived from it are ephemeral. \nThe ephemeral form is observed as factors responsible for heat, digestion and metabolism in body (<a href=\"/index.php?title=Agni\" title=\"Agni\">agni</a>), subject matter for vision (darshanendriyadravya ) and object of vision.\n</p>",
+            "links": [
+                {
+                    "text": "[ 4 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#cite_note-4"
+                },
+                {
+                    "text": "agni",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "General characteristics",
+            "html": "<h2><span class=\"mw-headline\" id=\"General_characteristics\">General characteristics</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "The substance with predominance of agni mahabhuta possesses following properties:",
+            "html": "<p>The substance with predominance of agni mahabhuta possesses following properties:\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "ul",
+            "text": "Hot (ushna) Sharp (teekshna) Subtle (sukshma) Light (laghu) Dry (ruksha) Clear (vishada)[Cha.Sa. Sutra Sthana 26/11] Rupa (vision) [Cha.Sa. Sharira Sthana 1/27]",
+            "html": "<ul><li>Hot (ushna)</li>\n<li>Sharp (teekshna)</li>\n<li>Subtle (sukshma)</li>\n<li>Light (laghu)</li>\n<li>Dry (ruksha)</li>\n<li>Clear (vishada)[Cha.Sa.<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 26/11]</li>\n<li>Rupa (vision) [Cha.Sa.<a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 1/27]</li></ul>",
+            "links": [
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Hot (ushna)",
+                    "links": []
+                },
+                {
+                    "text": "Sharp (teekshna)",
+                    "links": []
+                },
+                {
+                    "text": "Subtle (sukshma)",
+                    "links": []
+                },
+                {
+                    "text": "Light (laghu)",
+                    "links": []
+                },
+                {
+                    "text": "Dry (ruksha)",
+                    "links": []
+                },
+                {
+                    "text": "Clear (vishada)[Cha.Sa. Sutra Sthana 26/11]",
+                    "links": [
+                        {
+                            "text": "Sutra Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                        }
+                    ]
+                },
+                {
+                    "text": "Rupa (vision) [Cha.Sa. Sharira Sthana 1/27]",
+                    "links": [
+                        {
+                            "text": "Sharira Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Specific character (lakshana)",
+            "html": "<h2><span id=\"Specific_character_.28lakshana.29\"></span><span class=\"mw-headline\" id=\"Specific_character_(lakshana)\">Specific character (lakshana)</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "Warmth (ushnatva) is the characteristic feature of agni mahabhuta.[Cha.Sa. Sharira Sthana 1/29]. Agni mahabhuta has dominance of sattva and rajas guna among the three fundamental qualities (triguna) [Su.Sa.Sha.1/20].",
+            "html": "<p>Warmth (ushnatva) is the characteristic feature of agni mahabhuta.[Cha.Sa.<a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 1/29]. Agni mahabhuta has dominance of sattva and rajas guna among the three fundamental qualities (triguna) [Su.Sa.Sha.1/20].\n</p>",
+            "links": [
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Importance",
+            "html": "<h2><span class=\"mw-headline\" id=\"Importance\">Importance</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "Agni mahabhuta is one of the basic six constituents of purusha or holistic human being [Cha.Sa. Sharira Sthana 5/4]. Agni is represented by heat in purusha [Cha.Sa. Sharira Sthana 5/5). Therefore it is responsible for all transformation processes in the body.",
+            "html": "<p>Agni mahabhuta is one of the basic six constituents of <a href=\"/index.php?title=Purusha\" title=\"Purusha\">purusha</a> or holistic human being [Cha.Sa.<a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 5/4]. Agni is represented by heat in <a href=\"/index.php?title=Purusha\" title=\"Purusha\">purusha</a>[Cha.Sa.<a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a>5/5). Therefore it is responsible for all transformation processes in the body.\n</p>",
+            "links": [
+                {
+                    "text": "purusha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                },
+                {
+                    "text": "purusha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Role in the formation of dhatu",
+            "html": "<h3><span class=\"mw-headline\" id=\"Role_in_the_formation_of_dhatu\">Role in the formation of dhatu</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "ul",
+            "text": "The blood ( rakta dhatu ) has predominance of agnimahabhuta [Su.Sa.Su.15/10]. Menstrual blood with ovum ( artava ) also has agnimahabhuta dominance. Blood (rakta) in the eyeball represents the agni mahabhuta composition of eye [Su.Sa.Ut.1/11]. The constituents of vayu , jala and agnimahabhuta together form muscle tissue ( mamsa dhatu ) in the body.[Cha.Sa. Chikitsa Sthana 15/29) The constituents of prithvi , vayu and agnimahabhuta together form bone ( asthi dhatu ) [Su.Sa.Su.15/10].",
+            "html": "<ul><li>The blood (<a class=\"mw-redirect\" href=\"/index.php?title=Rakta\" title=\"Rakta\">rakta</a> <a href=\"/index.php?title=Dhatu\" title=\"Dhatu\">dhatu</a>) has predominance of agnimahabhuta [Su.Sa.Su.15/10]. Menstrual blood with ovum (<a href=\"/index.php?title=Artava\" title=\"Artava\">artava</a>) also has agnimahabhuta dominance. Blood (rakta)  in the eyeball represents the agni mahabhuta composition of eye [Su.Sa.Ut.1/11].</li>\n<li>The constituents of <a class=\"mw-redirect\" href=\"/index.php?title=Vayu\" title=\"Vayu\">vayu</a>, <a class=\"mw-redirect\" href=\"/index.php?title=Jala\" title=\"Jala\">jala</a> and agnimahabhuta together form muscle tissue (<a class=\"mw-redirect\" href=\"/index.php?title=Mamsa\" title=\"Mamsa\">mamsa</a> <a href=\"/index.php?title=Dhatu\" title=\"Dhatu\">dhatu</a>) in the body.[Cha.Sa.<a href=\"/index.php?title=Chikitsa_Sthana\" title=\"Chikitsa Sthana\">Chikitsa Sthana</a>15/29)</li>\n<li>The constituents of <a class=\"mw-redirect\" href=\"/index.php?title=Prithvi\" title=\"Prithvi\">prithvi</a>, <a class=\"mw-redirect\" href=\"/index.php?title=Vayu\" title=\"Vayu\">vayu</a> and agnimahabhuta together form bone (<a href=\"/index.php?title=Asthi\" title=\"Asthi\">asthi</a> <a href=\"/index.php?title=Dhatu\" title=\"Dhatu\">dhatu</a>) [Su.Sa.Su.15/10].</li></ul>",
+            "links": [
+                {
+                    "text": "rakta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rakta"
+                },
+                {
+                    "text": "dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu"
+                },
+                {
+                    "text": "artava",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Artava"
+                },
+                {
+                    "text": "vayu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu"
+                },
+                {
+                    "text": "jala",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Jala"
+                },
+                {
+                    "text": "mamsa",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mamsa"
+                },
+                {
+                    "text": "dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu"
+                },
+                {
+                    "text": "Chikitsa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                },
+                {
+                    "text": "prithvi",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi"
+                },
+                {
+                    "text": "vayu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu"
+                },
+                {
+                    "text": "asthi",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Asthi"
+                },
+                {
+                    "text": "dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "The blood ( rakta dhatu ) has predominance of agnimahabhuta [Su.Sa.Su.15/10]. Menstrual blood with ovum ( artava ) also has agnimahabhuta dominance. Blood (rakta) in the eyeball represents the agni mahabhuta composition of eye [Su.Sa.Ut.1/11].",
+                    "links": [
+                        {
+                            "text": "rakta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Rakta"
+                        },
+                        {
+                            "text": "dhatu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu"
+                        },
+                        {
+                            "text": "artava",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Artava"
+                        }
+                    ]
+                },
+                {
+                    "text": "The constituents of vayu , jala and agnimahabhuta together form muscle tissue ( mamsa dhatu ) in the body.[Cha.Sa. Chikitsa Sthana 15/29)",
+                    "links": [
+                        {
+                            "text": "vayu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu"
+                        },
+                        {
+                            "text": "jala",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Jala"
+                        },
+                        {
+                            "text": "mamsa",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Mamsa"
+                        },
+                        {
+                            "text": "dhatu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu"
+                        },
+                        {
+                            "text": "Chikitsa Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Chikitsa_Sthana"
+                        }
+                    ]
+                },
+                {
+                    "text": "The constituents of prithvi , vayu and agnimahabhuta together form bone ( asthi dhatu ) [Su.Sa.Su.15/10].",
+                    "links": [
+                        {
+                            "text": "prithvi",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi"
+                        },
+                        {
+                            "text": "vayu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu"
+                        },
+                        {
+                            "text": "asthi",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Asthi"
+                        },
+                        {
+                            "text": "dhatu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h3",
+            "text": "Functions in embryogenesis and human body",
+            "html": "<h3><span class=\"mw-headline\" id=\"Functions_in_embryogenesis_and_human_body\">Functions in embryogenesis and human body</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "ul",
+            "text": "During embryogenesis, agnimahabhuta carries out the functions of development of vision and its perception, digestion and warmth[Cha.Sa. Sharira Sthana 4/12]. Moreover, it is also responsible for colour perception, good complexion, glow, bravery, anger and quickness of action [Su.Sa.Sha.1/19]. Agnimahabhuta is also responsible for dominance of Pitta dosha in prakriti of an individual [Cha.Sa. Vimana sthana 8/95]. Agnimahabhuta carries out the function of digestion and transformation [Su.Sa.Sha.5/3]. If tejamahabhuta is absent in eye during embryogenesis, it results in congenital blindness. The excessive tejamahabhuta results in yellowish discoloration[AS.Sha.2/53]. The agnimahabhuta dominant substances produce burning(daha), digestion(paka), radiance(prabha), luster(prakasha) and colour(varna) [Cha.Sa. Sutra Sthana 26/11] All these functions are carried out in postnatal life too. Reproductive fluid (shukra) is formed from unification of vayu , agni, prithvi and jala mahabhuta in equal proportion [Cha.Sa. Sharira Sthana 2/4] The visual sensory system including eyes have predominance of tejas mahabhuta [Cha.Sa. Sutra Sthana 8/14]. Thus agnimahabhuta plays significant role in sight and its perception.",
+            "html": "<ul><li>During embryogenesis, agnimahabhuta carries out the functions of development of vision and its perception, digestion and warmth[Cha.Sa.<a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 4/12]. Moreover, it is also responsible for colour perception, good complexion, glow, bravery, anger and quickness of action [Su.Sa.Sha.1/19].</li>\n<li>Agnimahabhuta is also responsible for dominance of <a href=\"/index.php?title=Pitta\" title=\"Pitta\">Pitta</a><a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> in <a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">prakriti</a> of an individual [Cha.Sa.<a class=\"mw-redirect\" href=\"/index.php?title=Vimana_sthana\" title=\"Vimana sthana\">Vimana sthana</a> 8/95].</li>\n<li>Agnimahabhuta carries out the function of digestion and transformation [Su.Sa.Sha.5/3].</li>\n<li>If tejamahabhuta is absent in eye during embryogenesis, it results in congenital blindness. The excessive tejamahabhuta results in yellowish discoloration[AS.Sha.2/53].</li>\n<li>The agnimahabhuta dominant substances produce burning(daha), digestion(paka), radiance(prabha), luster(prakasha) and colour(varna) [Cha.Sa.<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 26/11]</li>\n<li>All these functions are carried out in postnatal life too.</li>\n<li>Reproductive fluid (shukra) is formed from unification of <a class=\"mw-redirect\" href=\"/index.php?title=Vayu\" title=\"Vayu\">vayu</a>, agni, <a class=\"mw-redirect\" href=\"/index.php?title=Prithvi\" title=\"Prithvi\">prithvi</a> and <a class=\"mw-redirect\" href=\"/index.php?title=Jala\" title=\"Jala\">jala</a>  mahabhuta in equal proportion [Cha.Sa.<a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 2/4]</li>\n<li>The visual sensory system including eyes have predominance of tejas mahabhuta [Cha.Sa.<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 8/14]. Thus agnimahabhuta plays significant role in sight and its perception.</li></ul>",
+            "links": [
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                },
+                {
+                    "text": "Pitta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pitta"
+                },
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "Vimana sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_sthana"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "vayu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu"
+                },
+                {
+                    "text": "prithvi",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi"
+                },
+                {
+                    "text": "jala",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Jala"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "During embryogenesis, agnimahabhuta carries out the functions of development of vision and its perception, digestion and warmth[Cha.Sa. Sharira Sthana 4/12]. Moreover, it is also responsible for colour perception, good complexion, glow, bravery, anger and quickness of action [Su.Sa.Sha.1/19].",
+                    "links": [
+                        {
+                            "text": "Sharira Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                        }
+                    ]
+                },
+                {
+                    "text": "Agnimahabhuta is also responsible for dominance of Pitta dosha in prakriti of an individual [Cha.Sa. Vimana sthana 8/95].",
+                    "links": [
+                        {
+                            "text": "Pitta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pitta"
+                        },
+                        {
+                            "text": "dosha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                        },
+                        {
+                            "text": "prakriti",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                        },
+                        {
+                            "text": "Vimana sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_sthana"
+                        }
+                    ]
+                },
+                {
+                    "text": "Agnimahabhuta carries out the function of digestion and transformation [Su.Sa.Sha.5/3].",
+                    "links": []
+                },
+                {
+                    "text": "If tejamahabhuta is absent in eye during embryogenesis, it results in congenital blindness. The excessive tejamahabhuta results in yellowish discoloration[AS.Sha.2/53].",
+                    "links": []
+                },
+                {
+                    "text": "The agnimahabhuta dominant substances produce burning(daha), digestion(paka), radiance(prabha), luster(prakasha) and colour(varna) [Cha.Sa. Sutra Sthana 26/11]",
+                    "links": [
+                        {
+                            "text": "Sutra Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                        }
+                    ]
+                },
+                {
+                    "text": "All these functions are carried out in postnatal life too.",
+                    "links": []
+                },
+                {
+                    "text": "Reproductive fluid (shukra) is formed from unification of vayu , agni, prithvi and jala mahabhuta in equal proportion [Cha.Sa. Sharira Sthana 2/4]",
+                    "links": [
+                        {
+                            "text": "vayu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu"
+                        },
+                        {
+                            "text": "prithvi",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi"
+                        },
+                        {
+                            "text": "jala",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Jala"
+                        },
+                        {
+                            "text": "Sharira Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                        }
+                    ]
+                },
+                {
+                    "text": "The visual sensory system including eyes have predominance of tejas mahabhuta [Cha.Sa. Sutra Sthana 8/14]. Thus agnimahabhuta plays significant role in sight and its perception.",
+                    "links": [
+                        {
+                            "text": "Sutra Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h3",
+            "text": "Role in determining the complexion",
+            "html": "<h3><span class=\"mw-headline\" id=\"Role_in_determining_the_complexion\">Role in determining the complexion</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "ul",
+            "text": "The combination of tejadhatu, jala and akasha mahabhuta results in fair(gaura/avadatavarna) complexion [Cha.Sa. Sharira Sthana 8/15]. An equilibrium of all the five mahabhuta results in sky-like bluish complexion (shyamavarna)[Cha.Sa. Sharira Sthana 8/15].",
+            "html": "<ul><li>The combination of tejadhatu, <a class=\"mw-redirect\" href=\"/index.php?title=Jala\" title=\"Jala\">jala</a> and <a class=\"mw-redirect\" href=\"/index.php?title=Akasha\" title=\"Akasha\">akasha</a> mahabhuta results in fair(gaura/avadatavarna) complexion [Cha.Sa.<a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 8/15].</li>\n<li>An equilibrium of all the five mahabhuta results in sky-like bluish complexion (shyamavarna)[Cha.Sa.<a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 8/15].</li></ul>",
+            "links": [
+                {
+                    "text": "jala",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Jala"
+                },
+                {
+                    "text": "akasha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "The combination of tejadhatu, jala and akasha mahabhuta results in fair(gaura/avadatavarna) complexion [Cha.Sa. Sharira Sthana 8/15].",
+                    "links": [
+                        {
+                            "text": "jala",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Jala"
+                        },
+                        {
+                            "text": "akasha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha"
+                        },
+                        {
+                            "text": "Sharira Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                        }
+                    ]
+                },
+                {
+                    "text": "An equilibrium of all the five mahabhuta results in sky-like bluish complexion (shyamavarna)[Cha.Sa. Sharira Sthana 8/15].",
+                    "links": [
+                        {
+                            "text": "Sharira Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h3",
+            "text": "Vital points(marma) and its agnimahabhuta constitution",
+            "html": "<h3><span id=\"Vital_points.28marma.29_and_its_agnimahabhuta_constitution\"></span><span class=\"mw-headline\" id=\"Vital_points(marma)_and_its_agnimahabhuta_constitution\">Vital points(marma) and its agnimahabhuta constitution</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "ul",
+            "text": "The injury to sadya pranahara marma (vital points)causes instant death due to agni mahabhuta predominance. Hence agni mahabhuta is responsible for instant death. The injury to kalantara pranahara marma (vital points) also leads to death after some time, because of dominance of jala mahabhuta with agni. The qualities of jalamahabhuta can pacify actions of agni for some time. Rujakara marma (vital points) have predominance of agni and vayu mahabhuta. Pain is caused as a result of these two mahabhuta [Su.Sa.Sha.6/16].",
+            "html": "<ul><li>The injury to <a class=\"new\" href=\"/index.php?title=Sadya_pranahara&amp;action=edit&amp;redlink=1\" title=\"Sadya pranahara (page does not exist)\">sadya pranahara</a><a href=\"/index.php?title=Marma\" title=\"Marma\">marma</a>(vital points)causes instant death due to agni mahabhuta predominance. Hence agni mahabhuta is responsible for instant death. The injury to <a class=\"new\" href=\"/index.php?title=Kalantara_pranahara&amp;action=edit&amp;redlink=1\" title=\"Kalantara pranahara (page does not exist)\">kalantara pranahara</a><a href=\"/index.php?title=Marma\" title=\"Marma\">marma</a>(vital points) also leads to death after some time, because of dominance of <a class=\"mw-redirect\" href=\"/index.php?title=Jala\" title=\"Jala\">jala</a> mahabhuta with agni. The qualities of <a class=\"mw-redirect\" href=\"/index.php?title=Jala\" title=\"Jala\">jalamahabhuta</a> can pacify actions of agni for some time.</li>\n<li><a class=\"new\" href=\"/index.php?title=Rujakara&amp;action=edit&amp;redlink=1\" title=\"Rujakara (page does not exist)\">Rujakara</a> <a href=\"/index.php?title=Marma\" title=\"Marma\">marma</a>(vital points) have predominance of agni and <a class=\"mw-redirect\" href=\"/index.php?title=Vayu\" title=\"Vayu\">vayu</a> mahabhuta. Pain is caused as a result of these two mahabhuta [Su.Sa.Sha.6/16].</li></ul>",
+            "links": [
+                {
+                    "text": "sadya pranahara",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sadya_pranahara&action=edit&redlink=1"
+                },
+                {
+                    "text": "marma",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Marma"
+                },
+                {
+                    "text": "kalantara pranahara",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kalantara_pranahara&action=edit&redlink=1"
+                },
+                {
+                    "text": "marma",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Marma"
+                },
+                {
+                    "text": "jala",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Jala"
+                },
+                {
+                    "text": "jalamahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Jala"
+                },
+                {
+                    "text": "Rujakara",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rujakara&action=edit&redlink=1"
+                },
+                {
+                    "text": "marma",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Marma"
+                },
+                {
+                    "text": "vayu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "The injury to sadya pranahara marma (vital points)causes instant death due to agni mahabhuta predominance. Hence agni mahabhuta is responsible for instant death. The injury to kalantara pranahara marma (vital points) also leads to death after some time, because of dominance of jala mahabhuta with agni. The qualities of jalamahabhuta can pacify actions of agni for some time.",
+                    "links": [
+                        {
+                            "text": "sadya pranahara",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sadya_pranahara&action=edit&redlink=1"
+                        },
+                        {
+                            "text": "marma",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Marma"
+                        },
+                        {
+                            "text": "kalantara pranahara",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Kalantara_pranahara&action=edit&redlink=1"
+                        },
+                        {
+                            "text": "marma",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Marma"
+                        },
+                        {
+                            "text": "jala",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Jala"
+                        },
+                        {
+                            "text": "jalamahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Jala"
+                        }
+                    ]
+                },
+                {
+                    "text": "Rujakara marma (vital points) have predominance of agni and vayu mahabhuta. Pain is caused as a result of these two mahabhuta [Su.Sa.Sha.6/16].",
+                    "links": [
+                        {
+                            "text": "Rujakara",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Rujakara&action=edit&redlink=1"
+                        },
+                        {
+                            "text": "marma",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Marma"
+                        },
+                        {
+                            "text": "vayu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Importance in clinical practice",
+            "html": "<h2><span class=\"mw-headline\" id=\"Importance_in_clinical_practice\">Importance in clinical practice</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "h3",
+            "text": "Application in diagnosis",
+            "html": "<h3><span class=\"mw-headline\" id=\"Application_in_diagnosis\">Application in diagnosis</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "ul",
+            "text": "Proper digestion, transformation, metabolic processes, heat production and thermal regulation etc. in the body is regulated by agnimahabhuta. Any abnormalities in these physiological functions are observed to assess proportion of agnimahabhuta. Excessive use of substances having agnimahabhuta predominance cause dizziness, burning pain, tremors, piercing and tearing pains [Cha.Sa. Sutra Sthana 26/43].",
+            "html": "<ul><li>Proper digestion, transformation, metabolic processes, heat production and thermal regulation etc. in the body is regulated by agnimahabhuta. Any abnormalities in these physiological functions are observed to assess proportion of agnimahabhuta. Excessive use of substances having agnimahabhuta predominance cause dizziness, burning pain, tremors, piercing and tearing pains [Cha.Sa.<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a>26/43].</li></ul>",
+            "links": [
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Proper digestion, transformation, metabolic processes, heat production and thermal regulation etc. in the body is regulated by agnimahabhuta. Any abnormalities in these physiological functions are observed to assess proportion of agnimahabhuta. Excessive use of substances having agnimahabhuta predominance cause dizziness, burning pain, tremors, piercing and tearing pains [Cha.Sa. Sutra Sthana 26/43].",
+                    "links": [
+                        {
+                            "text": "Sutra Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h3",
+            "text": "Application in treatment",
+            "html": "<h3><span class=\"mw-headline\" id=\"Application_in_treatment\">Application in treatment</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "ul",
+            "text": "The substances having light (laghu) property possess vayu and agnimahabhuta predominance. Intake of such food items increases factors responsible for digestion (agni) [Cha.Sa. Sutra Sthana 5/6). The quantity of food is determined by inherent nature of food (light or heavy to digest) based upon fundamental panchabhautik composition and capacity of an individual. The pitta dosha is constituted from agnimahabhuta [AS.Su.20/2]. In pitta prakriti individual, the dominance of properties of agnimahabhuta are observed. Similarly, in conditions of pitta dosha aggravation, agnimahabhuta predominance is observed. The treatment of such conditions is done by avoiding diet and lifestyle measures with agni predominance. On the other side, the agnimahabhuta dominant regimen is indicated in conditions of vata and kaphadosha aggravation [Su.Sa.Su.41/7-9). The substances which are sour, salty and pungent in taste have dominance of agnimahabhuta [Cha.Sa. Sutra Sthana 26/40]. By wisely prescribing the drugs having above said tastes, one can treat various conditions of doshas . Medicines for therapeutic emesis (vamana) have agni and vayumahabhuta dominance. Since both of these mahabhutas have lightness as their property, it carries the dosha in upward direction and thus it helps in expelling the doshas through mouth [Cha.Sa. Kalpa Sthana 1/5). The drugs having predominance of agnimahabhuta initiates (deepana) and expedites digestion (pachana) in body [Su.Sa.Su.41/6]. Sudation (swedana) is achieved by applying principles of heat on body physiology. It liquifies morbid dosha and clears channels. To attain the scrapping (lekhana) effect, drugs having more vayu and agniguna predominance are selected[Su.Sa.Su.41/6]. In the event of reduction in blood( rakta ) in the body, the drugs having predominance of tejamahbhuta should be used [Su.Sa.Su.15/10]. Agni, vayu and akasha properties are used to cause emaciation(apatarpana or langhana) [Ah.Su.14/3].",
+            "html": "<ul><li>The substances having light (laghu) property possess  <a class=\"mw-redirect\" href=\"/index.php?title=Vayu\" title=\"Vayu\">vayu</a> and agnimahabhuta predominance. Intake of such food items increases factors responsible for digestion (agni) [Cha.Sa.<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a>5/6). The quantity of food is determined by inherent nature of food (light or heavy to digest) based upon fundamental panchabhautik composition and capacity of an individual.</li>\n<li>The <a href=\"/index.php?title=Pitta\" title=\"Pitta\">pitta</a> <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> is constituted from agnimahabhuta [AS.Su.20/2]. In <a href=\"/index.php?title=Pitta\" title=\"Pitta\">pitta</a> <a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">prakriti</a> individual, the dominance of properties of agnimahabhuta are observed.</li>\n<li>Similarly, in conditions of <a href=\"/index.php?title=Pitta\" title=\"Pitta\">pitta</a><a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> aggravation, agnimahabhuta predominance is observed. The treatment of such conditions is done by avoiding diet and lifestyle measures with agni predominance.</li>\n<li>On the other side, the agnimahabhuta dominant regimen is indicated in conditions of <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a> and <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kaphadosha</a> aggravation [Su.Sa.Su.41/7-9).</li>\n<li>The substances which are sour, salty and pungent in taste have dominance of agnimahabhuta [Cha.Sa.<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 26/40]. By wisely prescribing the drugs having above said tastes, one can treat various conditions of <a href=\"/index.php?title=Dosha\" title=\"Dosha\">doshas</a>.</li>\n<li>Medicines for therapeutic emesis (vamana) have agni and <a class=\"mw-redirect\" href=\"/index.php?title=Vayu\" title=\"Vayu\">vayumahabhuta</a> dominance. Since both of these mahabhutas have lightness as their property, it carries the <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> in upward direction and thus it helps in expelling the <a href=\"/index.php?title=Dosha\" title=\"Dosha\">doshas</a> through mouth [Cha.Sa.<a href=\"/index.php?title=Kalpa_Sthana\" title=\"Kalpa Sthana\">Kalpa Sthana</a> 1/5).</li>\n<li>The drugs having predominance of agnimahabhuta initiates (deepana) and expedites digestion (pachana) in body [Su.Sa.Su.41/6].</li>\n<li>Sudation (swedana) is achieved by applying principles of heat on body physiology. It liquifies morbid <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> and clears channels.</li>\n<li>To attain the scrapping (lekhana) effect, drugs having more <a class=\"mw-redirect\" href=\"/index.php?title=Vayu\" title=\"Vayu\">vayu</a> and agniguna predominance are selected[Su.Sa.Su.41/6].</li>\n<li>In the event of reduction in blood(<a class=\"mw-redirect\" href=\"/index.php?title=Rakta\" title=\"Rakta\">rakta</a>) in the body, the drugs having predominance of tejamahbhuta should be used [Su.Sa.Su.15/10].</li>\n<li>Agni, <a class=\"mw-redirect\" href=\"/index.php?title=Vayu\" title=\"Vayu\">vayu</a> and <a class=\"mw-redirect\" href=\"/index.php?title=Akasha\" title=\"Akasha\">akasha</a> properties are used to cause emaciation(apatarpana or langhana) [Ah.Su.14/3].</li></ul>",
+            "links": [
+                {
+                    "text": "vayu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "pitta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pitta"
+                },
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "pitta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pitta"
+                },
+                {
+                    "text": "prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "pitta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pitta"
+                },
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "vata",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vata"
+                },
+                {
+                    "text": "kaphadosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kapha"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "doshas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "vayumahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu"
+                },
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "doshas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "Kalpa Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kalpa_Sthana"
+                },
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "vayu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu"
+                },
+                {
+                    "text": "rakta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rakta"
+                },
+                {
+                    "text": "vayu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu"
+                },
+                {
+                    "text": "akasha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "The substances having light (laghu) property possess vayu and agnimahabhuta predominance. Intake of such food items increases factors responsible for digestion (agni) [Cha.Sa. Sutra Sthana 5/6). The quantity of food is determined by inherent nature of food (light or heavy to digest) based upon fundamental panchabhautik composition and capacity of an individual.",
+                    "links": [
+                        {
+                            "text": "vayu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu"
+                        },
+                        {
+                            "text": "Sutra Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                        }
+                    ]
+                },
+                {
+                    "text": "The pitta dosha is constituted from agnimahabhuta [AS.Su.20/2]. In pitta prakriti individual, the dominance of properties of agnimahabhuta are observed.",
+                    "links": [
+                        {
+                            "text": "pitta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pitta"
+                        },
+                        {
+                            "text": "dosha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                        },
+                        {
+                            "text": "pitta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pitta"
+                        },
+                        {
+                            "text": "prakriti",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                        }
+                    ]
+                },
+                {
+                    "text": "Similarly, in conditions of pitta dosha aggravation, agnimahabhuta predominance is observed. The treatment of such conditions is done by avoiding diet and lifestyle measures with agni predominance.",
+                    "links": [
+                        {
+                            "text": "pitta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pitta"
+                        },
+                        {
+                            "text": "dosha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                        }
+                    ]
+                },
+                {
+                    "text": "On the other side, the agnimahabhuta dominant regimen is indicated in conditions of vata and kaphadosha aggravation [Su.Sa.Su.41/7-9).",
+                    "links": [
+                        {
+                            "text": "vata",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vata"
+                        },
+                        {
+                            "text": "kaphadosha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Kapha"
+                        }
+                    ]
+                },
+                {
+                    "text": "The substances which are sour, salty and pungent in taste have dominance of agnimahabhuta [Cha.Sa. Sutra Sthana 26/40]. By wisely prescribing the drugs having above said tastes, one can treat various conditions of doshas .",
+                    "links": [
+                        {
+                            "text": "Sutra Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                        },
+                        {
+                            "text": "doshas",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                        }
+                    ]
+                },
+                {
+                    "text": "Medicines for therapeutic emesis (vamana) have agni and vayumahabhuta dominance. Since both of these mahabhutas have lightness as their property, it carries the dosha in upward direction and thus it helps in expelling the doshas through mouth [Cha.Sa. Kalpa Sthana 1/5).",
+                    "links": [
+                        {
+                            "text": "vayumahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu"
+                        },
+                        {
+                            "text": "dosha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                        },
+                        {
+                            "text": "doshas",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                        },
+                        {
+                            "text": "Kalpa Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Kalpa_Sthana"
+                        }
+                    ]
+                },
+                {
+                    "text": "The drugs having predominance of agnimahabhuta initiates (deepana) and expedites digestion (pachana) in body [Su.Sa.Su.41/6].",
+                    "links": []
+                },
+                {
+                    "text": "Sudation (swedana) is achieved by applying principles of heat on body physiology. It liquifies morbid dosha and clears channels.",
+                    "links": [
+                        {
+                            "text": "dosha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                        }
+                    ]
+                },
+                {
+                    "text": "To attain the scrapping (lekhana) effect, drugs having more vayu and agniguna predominance are selected[Su.Sa.Su.41/6].",
+                    "links": [
+                        {
+                            "text": "vayu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu"
+                        }
+                    ]
+                },
+                {
+                    "text": "In the event of reduction in blood( rakta ) in the body, the drugs having predominance of tejamahbhuta should be used [Su.Sa.Su.15/10].",
+                    "links": [
+                        {
+                            "text": "rakta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Rakta"
+                        }
+                    ]
+                },
+                {
+                    "text": "Agni, vayu and akasha properties are used to cause emaciation(apatarpana or langhana) [Ah.Su.14/3].",
+                    "links": [
+                        {
+                            "text": "vayu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu"
+                        },
+                        {
+                            "text": "akasha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Current views and researches",
+            "html": "<h2><span class=\"mw-headline\" id=\"Current_views_and_researches\">Current views and researches</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "The subtle (tanmatra) form of all mahabhuta is eternal. During the evolution, the ‘indistinct’ ( avyakta ) acts as a seat for mass and energy. Due to the potential difference in the energy, elementary forces come into action and produce vibrations. These vibrations produce the sound potential i.e. first or shabdatanmatra. The vibrations further increase compelling the elementary forces to act vigorously and thus produce the touch potential or sparshatanmatra of vayumahabhuta. Once the vibrations increase, it may lead to collisions.This in turn results in the production of heat and light radiation potential.It is correlated to rupatanmatra of agni mahabhuta. [ 5 ] .",
+            "html": "<p>The subtle (tanmatra) form of all mahabhuta is eternal. During the evolution, the ‘indistinct’ (<a href=\"/index.php?title=Avyakta\" title=\"Avyakta\">avyakta</a>) acts as a seat for mass and energy. Due to the potential difference in the energy, elementary forces come into action and produce vibrations. These vibrations produce the sound potential i.e. first or shabdatanmatra. The vibrations further increase compelling the elementary forces to act vigorously and thus produce the touch potential or sparshatanmatra of vayumahabhuta.   Once the vibrations increase, it may lead to collisions.This in turn results in the production of heat and light radiation potential.It is correlated to rupatanmatra of agni mahabhuta.<sup class=\"reference\" id=\"cite_ref-5\"><a href=\"#cite_note-5\"><span class=\"cite-bracket\">[</span>5<span class=\"cite-bracket\">]</span></a></sup>.\n</p>",
+            "links": [
+                {
+                    "text": "avyakta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta"
+                },
+                {
+                    "text": "[ 5 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#cite_note-5"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Agni mahabhuta being a conversion factor is placed in middle among the panchamahabhutas . It has the capability to convert the akasha and vayumahabhuta to jala and prithvimahabhuta and vice versa. So it originates as the third mahabhuta during evolution. [ 6 ] .",
+            "html": "<p>Agni mahabhuta being a conversion factor is placed in middle among the <a class=\"mw-redirect\" href=\"/index.php?title=Panchamahabhuta\" title=\"Panchamahabhuta\">panchamahabhutas</a>. It has the capability to convert the <a class=\"mw-redirect\" href=\"/index.php?title=Akasha\" title=\"Akasha\">akasha</a> and <a class=\"mw-redirect\" href=\"/index.php?title=Vayu\" title=\"Vayu\">vayumahabhuta</a> to <a class=\"mw-redirect\" href=\"/index.php?title=Jala\" title=\"Jala\">jala</a> and <a class=\"mw-redirect\" href=\"/index.php?title=Prithvi\" title=\"Prithvi\">prithvimahabhuta</a> and vice versa. So it originates as the third mahabhuta during evolution.<sup class=\"reference\" id=\"cite_ref-6\"><a href=\"#cite_note-6\"><span class=\"cite-bracket\">[</span>6<span class=\"cite-bracket\">]</span></a></sup>.\n</p>",
+            "links": [
+                {
+                    "text": "panchamahabhutas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Panchamahabhuta"
+                },
+                {
+                    "text": "akasha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha"
+                },
+                {
+                    "text": "vayumahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu"
+                },
+                {
+                    "text": "jala",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Jala"
+                },
+                {
+                    "text": "prithvimahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi"
+                },
+                {
+                    "text": "[ 6 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#cite_note-6"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "In quantum physics Bosons and Fermions are the two classes of elementary particles.Spin is an intrinsic property of these particles. They are basic building blocks of nature. These two particles differ in their spin, which result in fundamental differences in its behavior. Bosons have spin 0, 1 etc. and fermions have spin ½, 3/2 etc. The spin-1 force field (one among the five quantum mechanical spin types of a unified quantum field theory) is electromagnetism which is responsible for heat, chemical changes and light. [ 7 ] Tejomahabhuta is responsible for heat, sight and transformations. Dr. JohnHagelin, leading physicist in the area of unified quantum field theory, thus correlates tejamahabhuta with the spin-1 force field. [ 8 ] .",
+            "html": "<p>In quantum physics Bosons and Fermions are the two classes of elementary particles.Spin is an intrinsic property of these particles. They are basic building blocks of nature. These two particles differ in their spin, which result in fundamental differences in its behavior. Bosons have spin 0, 1 etc. and fermions have spin ½, 3/2 etc. The spin-1 force field (one among the five quantum mechanical spin types of a unified quantum field theory) is electromagnetism which is responsible for heat, chemical changes and light.<sup class=\"reference\" id=\"cite_ref-7\"><a href=\"#cite_note-7\"><span class=\"cite-bracket\">[</span>7<span class=\"cite-bracket\">]</span></a></sup> Tejomahabhuta is responsible for heat, sight and transformations. Dr. JohnHagelin, leading physicist in the area of unified quantum field theory, thus correlates tejamahabhuta with the spin-1 force field.<sup class=\"reference\" id=\"cite_ref-8\"><a href=\"#cite_note-8\"><span class=\"cite-bracket\">[</span>8<span class=\"cite-bracket\">]</span></a></sup>.\n</p>",
+            "links": [
+                {
+                    "text": "[ 7 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#cite_note-7"
+                },
+                {
+                    "text": "[ 8 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#cite_note-8"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "A single cell of living organism has combination of five mahabhutas. The numerous metabolic activities taking place within the cell are governed by teja mahabhuta. [ 9 ] .",
+            "html": "<p>A single cell of living organism has combination of five mahabhutas. The numerous metabolic activities taking place within the cell are governed by teja mahabhuta.<sup class=\"reference\" id=\"cite_ref-9\"><a href=\"#cite_note-9\"><span class=\"cite-bracket\">[</span>9<span class=\"cite-bracket\">]</span></a></sup>.\n</p>",
+            "links": [
+                {
+                    "text": "[ 9 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#cite_note-9"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "List of theses done",
+            "html": "<h2><span class=\"mw-headline\" id=\"List_of_theses_done\">List of theses done</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ol",
+            "text": "Upendra D. Dixit (1995). Concept of Panchmahabhuta& it’s utility in Chikitsa . Dr. Bishnupriya Mohanty (2004 Ph.D.) Biotransformation of Panchmahabhuta& it’s interpretation in terms of cell injury. Dwivedi L.D. (1969-M.D. and 1975-PhD).A study of concept of Panchmahabhutas Srivastav L. P. (1988).Concept of Panchmahabhutas in the light of Samkhya, Yoga & Ayurveda.",
+            "html": "<ol><li>Upendra D. Dixit (1995). Concept of Panchmahabhuta&amp; it’s utility in Chikitsa .</li>\n<li>Dr. Bishnupriya Mohanty (2004 Ph.D.) Biotransformation of Panchmahabhuta&amp; it’s interpretation in terms of cell injury.</li>\n<li>Dwivedi L.D. (1969-M.D. and 1975-PhD).A study of concept of Panchmahabhutas</li>\n<li>Srivastav L. P. (1988).Concept of Panchmahabhutas in the light of Samkhya, Yoga &amp; Ayurveda.</li></ol>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Upendra D. Dixit (1995). Concept of Panchmahabhuta& it’s utility in Chikitsa .",
+                    "links": []
+                },
+                {
+                    "text": "Dr. Bishnupriya Mohanty (2004 Ph.D.) Biotransformation of Panchmahabhuta& it’s interpretation in terms of cell injury.",
+                    "links": []
+                },
+                {
+                    "text": "Dwivedi L.D. (1969-M.D. and 1975-PhD).A study of concept of Panchmahabhutas",
+                    "links": []
+                },
+                {
+                    "text": "Srivastav L. P. (1988).Concept of Panchmahabhutas in the light of Samkhya, Yoga & Ayurveda.",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "More information",
+            "html": "<h2><span class=\"mw-headline\" id=\"More_information\">More information</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ul",
+            "text": "Vatakalakaliya Adhyaya Indriyopakramaniya Adhyaya Katidhapurusha Sharira",
+            "html": "<ul><li><a href=\"/index.php?title=Vatakalakaliya_Adhyaya\" title=\"Vatakalakaliya Adhyaya\">Vatakalakaliya Adhyaya</a></li>\n<li><a href=\"/index.php?title=Indriyopakramaniya_Adhyaya\" title=\"Indriyopakramaniya Adhyaya\">Indriyopakramaniya Adhyaya</a></li>\n<li><a href=\"/index.php?title=Katidhapurusha_Sharira\" title=\"Katidhapurusha Sharira\">Katidhapurusha Sharira</a></li></ul>",
+            "links": [
+                {
+                    "text": "Vatakalakaliya Adhyaya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vatakalakaliya_Adhyaya"
+                },
+                {
+                    "text": "Indriyopakramaniya Adhyaya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriyopakramaniya_Adhyaya"
+                },
+                {
+                    "text": "Katidhapurusha Sharira",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Katidhapurusha_Sharira"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Vatakalakaliya Adhyaya",
+                    "links": [
+                        {
+                            "text": "Vatakalakaliya Adhyaya",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vatakalakaliya_Adhyaya"
+                        }
+                    ]
+                },
+                {
+                    "text": "Indriyopakramaniya Adhyaya",
+                    "links": [
+                        {
+                            "text": "Indriyopakramaniya Adhyaya",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Indriyopakramaniya_Adhyaya"
+                        }
+                    ]
+                },
+                {
+                    "text": "Katidhapurusha Sharira",
+                    "links": [
+                        {
+                            "text": "Katidhapurusha Sharira",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Katidhapurusha_Sharira"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h3",
+            "text": "Related articles",
+            "html": "<h3><span class=\"mw-headline\" id=\"Related_articles\">Related articles</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "ul",
+            "text": "Akasha mahabhuta Vayu mahabhuta Jala mahabhuta Prithvi mahabhuta Pancha mahabhuta",
+            "html": "<ul><li><a href=\"/index.php?title=Akasha_mahabhuta\" title=\"Akasha mahabhuta\">Akasha mahabhuta</a></li>\n<li><a href=\"/index.php?title=Vayu_mahabhuta\" title=\"Vayu mahabhuta\">Vayu mahabhuta</a></li>\n<li><a href=\"/index.php?title=Jala_mahabhuta\" title=\"Jala mahabhuta\">Jala mahabhuta</a></li>\n<li><a href=\"/index.php?title=Prithvi_mahabhuta\" title=\"Prithvi mahabhuta\">Prithvi mahabhuta</a></li>\n<li><a href=\"/index.php?title=Pancha_mahabhuta\" title=\"Pancha mahabhuta\">Pancha mahabhuta</a></li></ul>",
+            "links": [
+                {
+                    "text": "Akasha mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta"
+                },
+                {
+                    "text": "Vayu mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta"
+                },
+                {
+                    "text": "Jala mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Jala_mahabhuta"
+                },
+                {
+                    "text": "Prithvi mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta"
+                },
+                {
+                    "text": "Pancha mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pancha_mahabhuta"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Akasha mahabhuta",
+                    "links": [
+                        {
+                            "text": "Akasha mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta"
+                        }
+                    ]
+                },
+                {
+                    "text": "Vayu mahabhuta",
+                    "links": [
+                        {
+                            "text": "Vayu mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta"
+                        }
+                    ]
+                },
+                {
+                    "text": "Jala mahabhuta",
+                    "links": [
+                        {
+                            "text": "Jala mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Jala_mahabhuta"
+                        }
+                    ]
+                },
+                {
+                    "text": "Prithvi mahabhuta",
+                    "links": [
+                        {
+                            "text": "Prithvi mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta"
+                        }
+                    ]
+                },
+                {
+                    "text": "Pancha mahabhuta",
+                    "links": [
+                        {
+                            "text": "Pancha mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pancha_mahabhuta"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "The list of references for Agni in Charak Samhita can be seen here Table_of_references_Agni_Page_1.pdf Table_of_references_Agni_Page_2.pdf",
+            "html": "<p>The list of references for Agni in Charak Samhita can be seen here <a class=\"internal\" href=\"/images/5/59/Table_of_references_Agni_Page_1.pdf\" title=\"Table of references Agni Page 1.pdf\">Table_of_references_Agni_Page_1.pdf</a> <a class=\"internal\" href=\"/images/9/9b/Table_of_references_Agni_Page_2.pdf\" title=\"Table of references Agni Page 2.pdf\">Table_of_references_Agni_Page_2.pdf</a>\n</p>",
+            "links": [
+                {
+                    "text": "Table_of_references_Agni_Page_1.pdf",
+                    "url": "https://www.carakasamhitaonline.com/images/5/59/Table_of_references_Agni_Page_1.pdf"
+                },
+                {
+                    "text": "Table_of_references_Agni_Page_2.pdf",
+                    "url": "https://www.carakasamhitaonline.com/images/9/9b/Table_of_references_Agni_Page_2.pdf"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Send us your suggestions and feedback on this page.",
+            "html": "<p><big><b><a href=\"/index.php?title=Special:ContactMe\" title=\"Special:ContactMe\">Send us your suggestions and feedback on this page.</a></b></big>\n</p>",
+            "links": [
+                {
+                    "text": "Send us your suggestions and feedback on this page.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Special:ContactMe"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "References",
+            "html": "<h2><span class=\"mw-headline\" id=\"References\">References</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "text",
+            "text": "Back to the Top"
+        },
+        {
+            "type": "ol",
+            "text": "↑ Monier-Williams, Monier-Williams Sanskrit- English Dictionary, 1st edition; Oxford University Press, agni, Page 5 ↑ Monier-Williams, Monier-Williams Sanskrit- English Dictionary, 1st edition; Oxford University Press, tejas, Page 454 ↑ Lakshman Sarup (1998). The Nighantu and the Nirukta. Motilal Banarsidass. p. 120. ISBN 978-81-208-1381-6. Available from https://en.wikipedia.org/wiki/Agni#cite_ref-31 accessed on 11-04-2020 ↑ Dingari lakshmanachary. Acharya’s Ayurvedeeya padartha vigyana. Delhi: Chaukhamba Sanskrit pratisthan;2012.Chapter 09, Tejo nirupana;p.59. ↑ Nalage D H. A study of Samskara and its role in alteration of Pancha-Bhautika composition of Dravya [MD Dissertation]. Jamnagar: Gujarat Ayurved University; 2004 ↑ Gautam K. Critical study of “Bhutebhyohiparamyasmatnastichintachikitsite” w.s.r. to Santarpanotthaprameha& it’s management [MD Dissertation]. Jamnagar: Gujarat Ayurved University; 2007 ↑ Sharma H. Correlation of physiological principles of Ayurveda with spin types of quantum physics. Annals Ayurvedic Med [Internet]. 2018 [cited 2020 Apr 03];7(3-4):72-74. Available from: https://www.aamjournal.in/fulltext/70-1531160335.pdf ↑ Hagelin.J. S. Is Consciousness the Unified Field? A Field Theorist’s Perspective. Modem Science and Vedic Science [Internet]. 1987 [cited 2020 Apr 03];7(1):29-87. Available from: https://www.psychicstudent.com/wp-content/uploads/hagelin.pdf ↑ Dr Kusum Malik, Dr Brijesh Mishra. Panchamahabhuta- Aadharbhut Siddhant and their application in Chikitsa. J Ayurveda Integr Med Sci 2018;5:146-150. http://dx.doi.org/10.21760/jaims.v3i5.13833",
+            "html": "<ol class=\"references\">\n<li id=\"cite_note-1\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-1\">↑</a></span> <span class=\"reference-text\">Monier-Williams, Monier-Williams Sanskrit- English Dictionary, 1st edition; Oxford University Press, agni, Page 5</span>\n</li>\n<li id=\"cite_note-2\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-2\">↑</a></span> <span class=\"reference-text\">Monier-Williams, Monier-Williams Sanskrit- English Dictionary, 1st edition; Oxford University Press, tejas, Page 454</span>\n</li>\n<li id=\"cite_note-3\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-3\">↑</a></span> <span class=\"reference-text\">Lakshman Sarup (1998). The Nighantu and the Nirukta. Motilal Banarsidass. p. 120. ISBN 978-81-208-1381-6. Available from <a class=\"external free\" href=\"https://en.wikipedia.org/wiki/Agni#cite_ref-31\" rel=\"nofollow\">https://en.wikipedia.org/wiki/Agni#cite_ref-31</a> accessed on 11-04-2020</span>\n</li>\n<li id=\"cite_note-4\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-4\">↑</a></span> <span class=\"reference-text\">Dingari lakshmanachary. Acharya’s Ayurvedeeya padartha vigyana. Delhi: Chaukhamba Sanskrit pratisthan;2012.Chapter 09, Tejo nirupana;p.59.</span>\n</li>\n<li id=\"cite_note-5\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-5\">↑</a></span> <span class=\"reference-text\">Nalage D H. A study of Samskara and its role in alteration of Pancha-Bhautika composition of Dravya [MD Dissertation]. Jamnagar: Gujarat Ayurved University; 2004</span>\n</li>\n<li id=\"cite_note-6\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-6\">↑</a></span> <span class=\"reference-text\">Gautam K. Critical study of “Bhutebhyohiparamyasmatnastichintachikitsite” w.s.r. to Santarpanotthaprameha&amp; it’s management [MD Dissertation]. Jamnagar: Gujarat Ayurved University; 2007</span>\n</li>\n<li id=\"cite_note-7\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-7\">↑</a></span> <span class=\"reference-text\">Sharma H. Correlation of physiological principles of Ayurveda with spin types of quantum physics. Annals Ayurvedic Med [Internet]. 2018 [cited 2020 Apr 03];7(3-4):72-74. Available from: <a class=\"external free\" href=\"https://www.aamjournal.in/fulltext/70-1531160335.pdf\" rel=\"nofollow\">https://www.aamjournal.in/fulltext/70-1531160335.pdf</a></span>\n</li>\n<li id=\"cite_note-8\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-8\">↑</a></span> <span class=\"reference-text\">Hagelin.J. S. Is Consciousness the Unified Field? A Field Theorist’s Perspective. Modem Science and Vedic Science [Internet]. 1987 [cited 2020 Apr 03];7(1):29-87. Available from:<a class=\"external free\" href=\"https://www.psychicstudent.com/wp-content/uploads/hagelin.pdf\" rel=\"nofollow\">https://www.psychicstudent.com/wp-content/uploads/hagelin.pdf</a></span>\n</li>\n<li id=\"cite_note-9\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-9\">↑</a></span> <span class=\"reference-text\">Dr Kusum Malik, Dr Brijesh Mishra. Panchamahabhuta- Aadharbhut Siddhant and their application in Chikitsa. J Ayurveda Integr Med Sci 2018;5:146-150. <a class=\"external free\" href=\"http://dx.doi.org/10.21760/jaims.v3i5.13833\" rel=\"nofollow\">http://dx.doi.org/10.21760/jaims.v3i5.13833</a></span>\n</li>\n</ol>",
+            "links": [
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#cite_ref-1"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#cite_ref-2"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#cite_ref-3"
+                },
+                {
+                    "text": "https://en.wikipedia.org/wiki/Agni#cite_ref-31",
+                    "url": "https://en.wikipedia.org/wiki/Agni#cite_ref-31"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#cite_ref-4"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#cite_ref-5"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#cite_ref-6"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#cite_ref-7"
+                },
+                {
+                    "text": "https://www.aamjournal.in/fulltext/70-1531160335.pdf",
+                    "url": "https://www.aamjournal.in/fulltext/70-1531160335.pdf"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#cite_ref-8"
+                },
+                {
+                    "text": "https://www.psychicstudent.com/wp-content/uploads/hagelin.pdf",
+                    "url": "https://www.psychicstudent.com/wp-content/uploads/hagelin.pdf"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#cite_ref-9"
+                },
+                {
+                    "text": "http://dx.doi.org/10.21760/jaims.v3i5.13833",
+                    "url": "http://dx.doi.org/10.21760/jaims.v3i5.13833"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "↑ Monier-Williams, Monier-Williams Sanskrit- English Dictionary, 1st edition; Oxford University Press, agni, Page 5",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#cite_ref-1"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Monier-Williams, Monier-Williams Sanskrit- English Dictionary, 1st edition; Oxford University Press, tejas, Page 454",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#cite_ref-2"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Lakshman Sarup (1998). The Nighantu and the Nirukta. Motilal Banarsidass. p. 120. ISBN 978-81-208-1381-6. Available from https://en.wikipedia.org/wiki/Agni#cite_ref-31 accessed on 11-04-2020",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#cite_ref-3"
+                        },
+                        {
+                            "text": "https://en.wikipedia.org/wiki/Agni#cite_ref-31",
+                            "url": "https://en.wikipedia.org/wiki/Agni#cite_ref-31"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Dingari lakshmanachary. Acharya’s Ayurvedeeya padartha vigyana. Delhi: Chaukhamba Sanskrit pratisthan;2012.Chapter 09, Tejo nirupana;p.59.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#cite_ref-4"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Nalage D H. A study of Samskara and its role in alteration of Pancha-Bhautika composition of Dravya [MD Dissertation]. Jamnagar: Gujarat Ayurved University; 2004",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#cite_ref-5"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Gautam K. Critical study of “Bhutebhyohiparamyasmatnastichintachikitsite” w.s.r. to Santarpanotthaprameha& it’s management [MD Dissertation]. Jamnagar: Gujarat Ayurved University; 2007",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#cite_ref-6"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Sharma H. Correlation of physiological principles of Ayurveda with spin types of quantum physics. Annals Ayurvedic Med [Internet]. 2018 [cited 2020 Apr 03];7(3-4):72-74. Available from: https://www.aamjournal.in/fulltext/70-1531160335.pdf",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#cite_ref-7"
+                        },
+                        {
+                            "text": "https://www.aamjournal.in/fulltext/70-1531160335.pdf",
+                            "url": "https://www.aamjournal.in/fulltext/70-1531160335.pdf"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Hagelin.J. S. Is Consciousness the Unified Field? A Field Theorist’s Perspective. Modem Science and Vedic Science [Internet]. 1987 [cited 2020 Apr 03];7(1):29-87. Available from: https://www.psychicstudent.com/wp-content/uploads/hagelin.pdf",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#cite_ref-8"
+                        },
+                        {
+                            "text": "https://www.psychicstudent.com/wp-content/uploads/hagelin.pdf",
+                            "url": "https://www.psychicstudent.com/wp-content/uploads/hagelin.pdf"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Dr Kusum Malik, Dr Brijesh Mishra. Panchamahabhuta- Aadharbhut Siddhant and their application in Chikitsa. J Ayurveda Integr Med Sci 2018;5:146-150. http://dx.doi.org/10.21760/jaims.v3i5.13833",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta#cite_ref-9"
+                        },
+                        {
+                            "text": "http://dx.doi.org/10.21760/jaims.v3i5.13833",
+                            "url": "http://dx.doi.org/10.21760/jaims.v3i5.13833"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "text": "NewPP limit report\nCached time: 20261118050140\nCache expiry: 86400\nReduced expiry: false\nComplications: [vary‐revision‐id, show‐toc]\nCPU time usage: 0.102 seconds\nReal time usage: 0.255 seconds\nPreprocessor visited node count: 343/1000000\nPost‐expand include size: 2095/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 3/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 1395/5000000 bytes\nLua time usage: 0.120/7 seconds\nLua virtual size: 20480000/209715200 bytes\nLua estimated memory usage: 0 bytes"
+        },
+        {
+            "type": "text",
+            "text": "Transclusion expansion time report (%,ms,calls,template)\n100.00% 217.468 1 -total\n96.88% 210.681 1 Template:Infobox\n0.67% 1.460 1 Template:CiteButton"
+        },
+        {
+            "type": "text",
+            "text": "Saved in parser cache with key carakas1_carakasa:pcache:idhash:3186-0!canonical and timestamp 20261118050140 and revision id 44609. Rendering was triggered because: diff-page"
+        },
+        {
+            "type": "text",
+            "text": "Retrieved from \""
+        },
+        {
+            "type": "text",
+            "text": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta&oldid=44609"
+        },
+        {
+            "type": "text",
+            "text": "\""
+        },
+        {
+            "type": "text",
+            "text": "Category"
+        },
+        {
+            "type": "text",
+            "text": ":"
+        },
+        {
+            "type": "ul",
+            "text": "Pancha mahabhuta",
+            "html": "<ul><li><a class=\"mw-redirect\" href=\"/index.php?title=Category:Pancha_mahabhuta\" title=\"Category:Pancha mahabhuta\">Pancha mahabhuta</a></li></ul>",
+            "links": [
+                {
+                    "text": "Pancha mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Category:Pancha_mahabhuta"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Pancha mahabhuta",
+                    "links": [
+                        {
+                            "text": "Pancha mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Category:Pancha_mahabhuta"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "html_sha256": "b8b707099bba68a6f532333867746255e048c090c3c2fabe0cb5ca67ec61fd46"
+}

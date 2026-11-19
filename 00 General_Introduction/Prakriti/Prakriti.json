@@ -1,0 +1,1529 @@
+{
+    "source": "Charaka Samhita",
+    "chapter": "Prakriti",
+    "chapter_id": "Prakriti",
+    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti",
+    "xpath": "//*[@id=\"content\"]",
+    "extraction_date": "2026-11-19T10:19:38",
+    "total_blocks": 68,
+    "total_tables": 1,
+    "total_headings": 19,
+    "total_paragraphs": 26,
+    "content": [
+        {
+            "type": "h1",
+            "text": "Prakriti",
+            "html": "<h1 class=\"firstHeading mw-first-heading\" id=\"firstHeading\"><span class=\"mw-page-title-main\">Prakriti</span></h1>",
+            "links": [],
+            "images": [],
+            "level": 1
+        },
+        {
+            "type": "text",
+            "text": "From Charak Samhita"
+        },
+        {
+            "type": "text",
+            "text": "Jump to navigation"
+        },
+        {
+            "type": "text",
+            "text": "Jump to search"
+        },
+        {
+            "type": "figure",
+            "text": "",
+            "html": "<figure class=\"mw-default-size mw-halign-right\" typeof=\"mw:File\"><a href=\"https://www.charakasamhitauptodate.com/index.php?title=Special:CiteThisPage&amp;page=Prakriti&amp;id=44459&amp;wpFormIdentifier=titleform\" rel=\"nofollow\"><img class=\"mw-file-element\" decoding=\"async\" height=\"47\" src=\"/images/5/58/Cite.png\" width=\"180\"/></a><figcaption></figcaption></figure>",
+            "links": [
+                {
+                    "text": "",
+                    "url": "https://www.charakasamhitauptodate.com/index.php?title=Special:CiteThisPage&page=Prakriti&id=44459&wpFormIdentifier=titleform"
+                }
+            ],
+            "images": [
+                {
+                    "url": "https://www.carakasamhitaonline.com/images/5/58/Cite.png",
+                    "alt": "",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "The term 'Prakriti' (also spelled as Prakruti) (Sanskrit: प्रकृति) literally means \"making or placing before or at first, the original or natural form or condition of anything, original or primary substance.\" [ 1 ] Phenomenon of prakriti is fundamental to understanding the human life and its surroundings, especially, the practice of Ayurveda . Ayurvedic physician must be able assess deha prakriti of the patient before he can proceed further. Balanced deha prakriti represents health and degree of imbalance determines disease.",
+            "html": "<p style=\"text-align:justify;\">The term 'Prakriti' (also spelled as Prakruti) (Sanskrit: प्रकृति) literally means \"making or placing before or at first, the original or natural form or condition of anything, original or primary substance.\"<sup class=\"reference\" id=\"cite_ref-1\"><a href=\"#cite_note-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup> Phenomenon of prakriti is fundamental to understanding the human life and its surroundings, especially, the practice of <a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a>. Ayurvedic physician must be able assess <a href=\"/index.php?title=Deha_prakriti\" title=\"Deha prakriti\">deha prakriti</a> of the patient before he can proceed further. Balanced <a href=\"/index.php?title=Deha_prakriti\" title=\"Deha prakriti\">deha prakriti</a> represents <a href=\"/index.php?title=Health\" title=\"Health\">health</a> and degree of imbalance determines disease. </p>",
+            "links": [
+                {
+                    "text": "[ 1 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti#cite_note-1"
+                },
+                {
+                    "text": "Ayurveda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayurveda"
+                },
+                {
+                    "text": "deha prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Deha_prakriti"
+                },
+                {
+                    "text": "deha prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Deha_prakriti"
+                },
+                {
+                    "text": "health",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Health"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "Chapter/topic",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Prakriti",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Author",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Deole Y.S.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Deole Y.S.",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Deole_Y.S."
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Reviewed & Edited by",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Basisht G.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Basisht G.",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Basisht_G."
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Affiliations",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Charak Samhita Research, Training and Development Centre , I.P.G.T.& R.A., Jamnagar",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Charak Samhita Research, Training and Development Centre",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Correspondence email:",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "dryogeshdeole@gmail.com, carakasamhita@gmail.com",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Publisher",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Charak Samhita Research, Training and Development Centre , I.T.R.A., Jamnagar, India",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Charak Samhita Research, Training and Development Centre",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Date of first publication:",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "January 12, 2020",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "DOI",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "10.47468/CSNE.2020.e01.s09.002",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "10.47468/CSNE.2020.e01.s09.002",
+                                "url": "https://doi.org/10.47468/CSNE.2020.e01.s09.002"
+                            }
+                        ]
+                    }
+                ]
+            ],
+            "html": "<table class=\"infobox\" style=\"width:22em\"><caption>Contributors</caption><tbody><tr><th scope=\"row\">Chapter/topic</th><td>\n<a class=\"mw-selflink selflink\">Prakriti</a></td></tr><tr><th scope=\"row\">Author</th><td>\n<a class=\"mw-redirect\" href=\"/index.php?title=Deole_Y.S.\" title=\"Deole Y.S.\">Deole Y.S.</a></td></tr><tr><th scope=\"row\">Reviewed &amp; Edited by</th><td>\n<a class=\"mw-redirect\" href=\"/index.php?title=Basisht_G.\" title=\"Basisht G.\">Basisht G.</a></td></tr><tr><th scope=\"row\">Affiliations</th><td>\n<a class=\"mw-redirect\" href=\"/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre\" title=\"Charak Samhita Research, Training and Development Centre\">Charak Samhita Research, Training and Development Centre</a>, I.P.G.T.&amp; R.A., Jamnagar</td></tr><tr><th scope=\"row\">Correspondence email:</th><td>\ndryogeshdeole@gmail.com, carakasamhita@gmail.com</td></tr><tr><th scope=\"row\">Publisher</th><td>\n<a class=\"mw-redirect\" href=\"/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre\" title=\"Charak Samhita Research, Training and Development Centre\">Charak Samhita Research, Training and Development Centre</a>, I.T.R.A., Jamnagar, India</td></tr><tr><th scope=\"row\">Date of first publication:</th><td>\nJanuary 12, 2020</td></tr><tr><th scope=\"row\">DOI</th><td>\n<a class=\"external text\" href=\"https://doi.org/10.47468/CSNE.2020.e01.s09.002\" rel=\"nofollow\">10.47468/CSNE.2020.e01.s09.002</a></td></tr></tbody></table>",
+            "links": [
+                {
+                    "text": "Deole Y.S.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Deole_Y.S."
+                },
+                {
+                    "text": "Basisht G.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Basisht_G."
+                },
+                {
+                    "text": "Charak Samhita Research, Training and Development Centre",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre"
+                },
+                {
+                    "text": "Charak Samhita Research, Training and Development Centre",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre"
+                },
+                {
+                    "text": "10.47468/CSNE.2020.e01.s09.002",
+                    "url": "https://doi.org/10.47468/CSNE.2020.e01.s09.002"
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Contents",
+            "html": "<h2 id=\"mw-toc-heading\">Contents</h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ul",
+            "text": "1 Etymology and derivation 2 Contextual meanings 3 Categories of prakriti 4 Aspects of prakriti 4.1 Bhuta prakriti (sources of creation) 4.2 Deha prakriti (constitution of human being based on dosha dominance) 4.3 Samya (equilibrium or normal state) 4.4 Swabhava (fundamental nature) 4.5 Marana (death) 5 Relation between these meanings 5.1 Components of circle of life 6 Importance of knowledge of prakriti 7 Current researches 8 More information 8.1 List of references in Charak Samhita 8.2 Abbreviations 9 References",
+            "html": "<ul>\n<li class=\"toclevel-1 tocsection-1\"><a href=\"#Etymology_and_derivation\"><span class=\"tocnumber\">1</span> <span class=\"toctext\">Etymology and derivation</span></a></li>\n<li class=\"toclevel-1 tocsection-2\"><a href=\"#Contextual_meanings\"><span class=\"tocnumber\">2</span> <span class=\"toctext\">Contextual meanings</span></a></li>\n<li class=\"toclevel-1 tocsection-3\"><a href=\"#Categories_of_prakriti\"><span class=\"tocnumber\">3</span> <span class=\"toctext\">Categories of prakriti</span></a></li>\n<li class=\"toclevel-1 tocsection-4\"><a href=\"#Aspects_of_prakriti\"><span class=\"tocnumber\">4</span> <span class=\"toctext\">Aspects of prakriti</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-5\"><a href=\"#Bhuta_prakriti_(sources_of_creation)\"><span class=\"tocnumber\">4.1</span> <span class=\"toctext\">Bhuta prakriti (sources of creation)</span></a></li>\n<li class=\"toclevel-2 tocsection-6\"><a href=\"#Deha_prakriti_(constitution_of_human_being_based_on_dosha_dominance)\"><span class=\"tocnumber\">4.2</span> <span class=\"toctext\">Deha prakriti (constitution of human being based on dosha dominance)</span></a></li>\n<li class=\"toclevel-2 tocsection-7\"><a href=\"#Samya_(equilibrium_or_normal_state)\"><span class=\"tocnumber\">4.3</span> <span class=\"toctext\">Samya (equilibrium or normal state)</span></a></li>\n<li class=\"toclevel-2 tocsection-8\"><a href=\"#Swabhava_(fundamental_nature)\"><span class=\"tocnumber\">4.4</span> <span class=\"toctext\">Swabhava (fundamental nature)</span></a></li>\n<li class=\"toclevel-2 tocsection-9\"><a href=\"#Marana_(death)\"><span class=\"tocnumber\">4.5</span> <span class=\"toctext\">Marana (death)</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-10\"><a href=\"#Relation_between_these_meanings\"><span class=\"tocnumber\">5</span> <span class=\"toctext\">Relation between these meanings</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-11\"><a href=\"#Components_of_circle_of_life\"><span class=\"tocnumber\">5.1</span> <span class=\"toctext\">Components of circle of life</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-12\"><a href=\"#Importance_of_knowledge_of_prakriti\"><span class=\"tocnumber\">6</span> <span class=\"toctext\">Importance of knowledge of prakriti</span></a></li>\n<li class=\"toclevel-1 tocsection-13\"><a href=\"#Current_researches\"><span class=\"tocnumber\">7</span> <span class=\"toctext\">Current researches</span></a></li>\n<li class=\"toclevel-1 tocsection-14\"><a href=\"#More_information\"><span class=\"tocnumber\">8</span> <span class=\"toctext\">More information</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-15\"><a href=\"#List_of_references_in_Charak_Samhita\"><span class=\"tocnumber\">8.1</span> <span class=\"toctext\">List of references in Charak Samhita</span></a></li>\n<li class=\"toclevel-2 tocsection-16\"><a href=\"#Abbreviations\"><span class=\"tocnumber\">8.2</span> <span class=\"toctext\">Abbreviations</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-17\"><a href=\"#References\"><span class=\"tocnumber\">9</span> <span class=\"toctext\">References</span></a></li>\n</ul>",
+            "links": [
+                {
+                    "text": "1 Etymology and derivation",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti#Etymology_and_derivation"
+                },
+                {
+                    "text": "2 Contextual meanings",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti#Contextual_meanings"
+                },
+                {
+                    "text": "3 Categories of prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti#Categories_of_prakriti"
+                },
+                {
+                    "text": "4 Aspects of prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti#Aspects_of_prakriti"
+                },
+                {
+                    "text": "4.1 Bhuta prakriti (sources of creation)",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti#Bhuta_prakriti_(sources_of_creation)"
+                },
+                {
+                    "text": "4.2 Deha prakriti (constitution of human being based on dosha dominance)",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti#Deha_prakriti_(constitution_of_human_being_based_on_dosha_dominance)"
+                },
+                {
+                    "text": "4.3 Samya (equilibrium or normal state)",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti#Samya_(equilibrium_or_normal_state)"
+                },
+                {
+                    "text": "4.4 Swabhava (fundamental nature)",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti#Swabhava_(fundamental_nature)"
+                },
+                {
+                    "text": "4.5 Marana (death)",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti#Marana_(death)"
+                },
+                {
+                    "text": "5 Relation between these meanings",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti#Relation_between_these_meanings"
+                },
+                {
+                    "text": "5.1 Components of circle of life",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti#Components_of_circle_of_life"
+                },
+                {
+                    "text": "6 Importance of knowledge of prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti#Importance_of_knowledge_of_prakriti"
+                },
+                {
+                    "text": "7 Current researches",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti#Current_researches"
+                },
+                {
+                    "text": "8 More information",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti#More_information"
+                },
+                {
+                    "text": "8.1 List of references in Charak Samhita",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti#List_of_references_in_Charak_Samhita"
+                },
+                {
+                    "text": "8.2 Abbreviations",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti#Abbreviations"
+                },
+                {
+                    "text": "9 References",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti#References"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "1 Etymology and derivation",
+                    "links": [
+                        {
+                            "text": "1 Etymology and derivation",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti#Etymology_and_derivation"
+                        }
+                    ]
+                },
+                {
+                    "text": "2 Contextual meanings",
+                    "links": [
+                        {
+                            "text": "2 Contextual meanings",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti#Contextual_meanings"
+                        }
+                    ]
+                },
+                {
+                    "text": "3 Categories of prakriti",
+                    "links": [
+                        {
+                            "text": "3 Categories of prakriti",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti#Categories_of_prakriti"
+                        }
+                    ]
+                },
+                {
+                    "text": "4 Aspects of prakriti 4.1 Bhuta prakriti (sources of creation) 4.2 Deha prakriti (constitution of human being based on dosha dominance) 4.3 Samya (equilibrium or normal state) 4.4 Swabhava (fundamental nature) 4.5 Marana (death)",
+                    "links": [
+                        {
+                            "text": "4 Aspects of prakriti",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti#Aspects_of_prakriti"
+                        },
+                        {
+                            "text": "4.1 Bhuta prakriti (sources of creation)",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti#Bhuta_prakriti_(sources_of_creation)"
+                        },
+                        {
+                            "text": "4.2 Deha prakriti (constitution of human being based on dosha dominance)",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti#Deha_prakriti_(constitution_of_human_being_based_on_dosha_dominance)"
+                        },
+                        {
+                            "text": "4.3 Samya (equilibrium or normal state)",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti#Samya_(equilibrium_or_normal_state)"
+                        },
+                        {
+                            "text": "4.4 Swabhava (fundamental nature)",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti#Swabhava_(fundamental_nature)"
+                        },
+                        {
+                            "text": "4.5 Marana (death)",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti#Marana_(death)"
+                        }
+                    ]
+                },
+                {
+                    "text": "5 Relation between these meanings 5.1 Components of circle of life",
+                    "links": [
+                        {
+                            "text": "5 Relation between these meanings",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti#Relation_between_these_meanings"
+                        },
+                        {
+                            "text": "5.1 Components of circle of life",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti#Components_of_circle_of_life"
+                        }
+                    ]
+                },
+                {
+                    "text": "6 Importance of knowledge of prakriti",
+                    "links": [
+                        {
+                            "text": "6 Importance of knowledge of prakriti",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti#Importance_of_knowledge_of_prakriti"
+                        }
+                    ]
+                },
+                {
+                    "text": "7 Current researches",
+                    "links": [
+                        {
+                            "text": "7 Current researches",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti#Current_researches"
+                        }
+                    ]
+                },
+                {
+                    "text": "8 More information 8.1 List of references in Charak Samhita 8.2 Abbreviations",
+                    "links": [
+                        {
+                            "text": "8 More information",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti#More_information"
+                        },
+                        {
+                            "text": "8.1 List of references in Charak Samhita",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti#List_of_references_in_Charak_Samhita"
+                        },
+                        {
+                            "text": "8.2 Abbreviations",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti#Abbreviations"
+                        }
+                    ]
+                },
+                {
+                    "text": "9 References",
+                    "links": [
+                        {
+                            "text": "9 References",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti#References"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Etymology and derivation",
+            "html": "<h2><span class=\"mw-headline\" id=\"Etymology_and_derivation\">Etymology and derivation</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "“Pra” prefix means “principal” and “Kriti” means “creation”. Thus the word convey the meaning “one that is principal factor for creation”. Some other derivations include:\n(b) “Pra” means “sattvik”, “Kru” means “rajasik” and “ta” means “tamasik” and the word “Prakriti” thus conveys the power of the three gunas .\n(c) “Pra” means “before” and “Kriti” means creation and so Prakriti means that which existed before creation. [ 2 ]",
+            "html": "<p>“Pra” prefix means “principal” and “Kriti” means “creation”. Thus the word convey the meaning “one that is principal factor for creation”. Some other derivations include: \n(b) “Pra” means “sattvik”, “Kru” means “rajasik” and “ta” means “tamasik” and the word “Prakriti” thus conveys the power of the three <a href=\"/index.php?title=Guna\" title=\"Guna\">gunas</a>. \n(c) “Pra” means “before” and “Kriti” means creation and so Prakriti means that which existed before creation.<sup class=\"reference\" id=\"cite_ref-2\"><a href=\"#cite_note-2\"><span class=\"cite-bracket\">[</span>2<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "gunas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Guna"
+                },
+                {
+                    "text": "[ 2 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti#cite_note-2"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Contextual meanings",
+            "html": "<h2><span class=\"mw-headline\" id=\"Contextual_meanings\">Contextual meanings</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "The Prakriti is applied at various places with following different meanings: [ 3 ]",
+            "html": "<p>The Prakriti is applied at various places with following different meanings:<sup class=\"reference\" id=\"cite_ref-3\"><a href=\"#cite_note-3\"><span class=\"cite-bracket\">[</span>3<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 3 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti#cite_note-3"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "ul",
+            "text": "Cause Origin or source Nature, character, constitution, temper, disposition Fundamental form, pattern, standard, model, rule (especially in ritual)",
+            "html": "<ul><li>Cause</li>\n<li>Origin or source</li>\n<li>Nature, character, constitution, temper, disposition</li>\n<li>Fundamental form, pattern, standard, model, rule (especially in ritual)</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Cause",
+                    "links": []
+                },
+                {
+                    "text": "Origin or source",
+                    "links": []
+                },
+                {
+                    "text": "Nature, character, constitution, temper, disposition",
+                    "links": []
+                },
+                {
+                    "text": "Fundamental form, pattern, standard, model, rule (especially in ritual)",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Categories of prakriti",
+            "html": "<h2><span class=\"mw-headline\" id=\"Categories_of_prakriti\">Categories of prakriti</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "Every matter has its own constitution. This may be referred to as the fundamental structure. Therefore, prakriti can be classified into following categories for better understanding in healthcare systems.",
+            "html": "<p>Every matter has its own constitution. This may be referred to as the fundamental structure. Therefore, prakriti can be classified into following categories for better understanding in healthcare systems.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "ul",
+            "text": "Prakriti of a region, habitat and surrounding environment.",
+            "html": "<ul><li>Prakriti of a region, habitat and surrounding environment.</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Prakriti of a region, habitat and surrounding environment.",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "The constitution of a geographical region is specific.",
+            "html": "<p>The constitution of a geographical region is specific.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "ul",
+            "text": "Prakriti of a substance like a dietary article, a medicinal herb used in healthcare.",
+            "html": "<ul><li>Prakriti of a substance like a dietary article, a medicinal herb used in healthcare.</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Prakriti of a substance like a dietary article, a medicinal herb used in healthcare.",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "For example, the green gram is light to digest. Ginger is hot in its potency.",
+            "html": "<p>For example, the green gram is light to digest. Ginger is hot in its potency.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "ul",
+            "text": "Prakriti of an individual who is seeking healthcare.",
+            "html": "<ul><li>Prakriti of an individual who is seeking healthcare.</li></ul>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Prakriti of an individual who is seeking healthcare.",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Some individuals have vata dosha dominance in their constitution, while others have pitta or kapha dosha dominance.",
+            "html": "<p>Some individuals have <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a> <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> dominance in their constitution, while others have <a href=\"/index.php?title=Pitta\" title=\"Pitta\">pitta</a> or <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a> <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> dominance. \n</p>",
+            "links": [
+                {
+                    "text": "vata",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vata"
+                },
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "pitta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pitta"
+                },
+                {
+                    "text": "kapha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kapha"
+                },
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "All above categories have different characteristics and properties. However, the origin is from Panchamahabhuta and their properties are decided by the proportion of Panchamahabhuta in it.",
+            "html": "<p>All above categories have different characteristics and properties. However, the origin is from <a class=\"mw-redirect\" href=\"/index.php?title=Panchamahabhuta\" title=\"Panchamahabhuta\">Panchamahabhuta</a> and their properties are decided by the proportion of <a class=\"mw-redirect\" href=\"/index.php?title=Panchamahabhuta\" title=\"Panchamahabhuta\">Panchamahabhuta</a> in it.\n</p>",
+            "links": [
+                {
+                    "text": "Panchamahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Panchamahabhuta"
+                },
+                {
+                    "text": "Panchamahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Panchamahabhuta"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "For example: If a substance has dominance of Vayu mahabhuta , then it will be light in weight and light to digest.",
+            "html": "<p>For example: If a substance has dominance of <a href=\"/index.php?title=Vayu_mahabhuta\" title=\"Vayu mahabhuta\">Vayu mahabhuta</a>, then it will be light in weight and light to digest.\n</p>",
+            "links": [
+                {
+                    "text": "Vayu mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Aspects of prakriti",
+            "html": "<h2><span class=\"mw-headline\" id=\"Aspects_of_prakriti\">Aspects of prakriti</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "h3",
+            "text": "Bhuta prakriti (sources of creation)",
+            "html": "<h3><span id=\"Bhuta_prakriti_.28sources_of_creation.29\"></span><span class=\"mw-headline\" id=\"Bhuta_prakriti_(sources_of_creation)\">Bhuta prakriti (sources of creation)</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Prakriti means the source or origin or fundamental cause. The five subtle elements (viz. shabda tanmatra , sparsha tanmatra , rupa tanmatra , rasa tanmatra and gandha tanmatra ), buddhi (intellect), avyakta ( prakriti or nature) and ahamkara (ego) are the eight sources of creation.",
+            "html": "<p>Prakriti means the source or origin or fundamental cause. The five subtle elements (viz. <i>shabda <a href=\"/index.php?title=Tanmatra\" title=\"Tanmatra\">tanmatra</a>, sparsha <a href=\"/index.php?title=Tanmatra\" title=\"Tanmatra\">tanmatra</a>, rupa <a href=\"/index.php?title=Tanmatra\" title=\"Tanmatra\">tanmatra</a>, rasa <a href=\"/index.php?title=Tanmatra\" title=\"Tanmatra\">tanmatra</a></i> and <i>gandha <a href=\"/index.php?title=Tanmatra\" title=\"Tanmatra\">tanmatra</a></i>), <i><a href=\"/index.php?title=Buddhi\" title=\"Buddhi\">buddhi</a></i> (intellect), <i><a href=\"/index.php?title=Avyakta\" title=\"Avyakta\">avyakta</a></i> (<i>prakriti</i> or nature) and <i><a class=\"new\" href=\"/index.php?title=Ahamkara&amp;action=edit&amp;redlink=1\" title=\"Ahamkara (page does not exist)\">ahamkara</a></i> (ego) are the eight sources of creation.\n</p>",
+            "links": [
+                {
+                    "text": "tanmatra",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra"
+                },
+                {
+                    "text": "tanmatra",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra"
+                },
+                {
+                    "text": "tanmatra",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra"
+                },
+                {
+                    "text": "tanmatra",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra"
+                },
+                {
+                    "text": "tanmatra",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra"
+                },
+                {
+                    "text": "buddhi",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi"
+                },
+                {
+                    "text": "avyakta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta"
+                },
+                {
+                    "text": "ahamkara",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ahamkara&action=edit&redlink=1"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The eight bhuta prakriti are known as basic source of creation. Sixteen transformed and bio-transformed elements ( vikara ) viz. five sense faculties ( indriya ), five motor faculties, mind and five mahabhutas are originated from bhuta prakriti. [Cha. Sa. Sharira Sthana 1/63]",
+            "html": "<p>The eight bhuta prakriti are known as basic source of creation. Sixteen transformed and bio-transformed elements (<i>vikara</i>) viz. five sense faculties (<a href=\"/index.php?title=Indriya\" title=\"Indriya\">indriya</a>), five motor faculties, <a href=\"/index.php?title=Manas\" title=\"Manas\">mind</a> and five <i><a class=\"mw-redirect\" href=\"/index.php?title=Mahabhuta\" title=\"Mahabhuta\">mahabhutas</a></i> are originated from  bhuta prakriti. [Cha. Sa. <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 1/63]\n</p>",
+            "links": [
+                {
+                    "text": "indriya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya"
+                },
+                {
+                    "text": "mind",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Manas"
+                },
+                {
+                    "text": "mahabhutas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahabhuta"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Deha prakriti (constitution of human being based on dosha dominance)",
+            "html": "<h3><span id=\"Deha_prakriti_.28constitution_of_human_being_based_on_dosha_dominance.29\"></span><span class=\"mw-headline\" id=\"Deha_prakriti_(constitution_of_human_being_based_on_dosha_dominance)\"><a href=\"/index.php?title=Deha_prakriti\" title=\"Deha prakriti\">Deha prakriti</a> (constitution of human being based on <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> dominance)</span></h3>",
+            "links": [
+                {
+                    "text": "Deha prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Deha_prakriti"
+                },
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                }
+            ],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "figure",
+            "text": "Image 1: Types of Deha Prakriti",
+            "html": "<figure typeof=\"mw:File/Thumb\"><a class=\"mw-file-description\" href=\"/index.php?title=File:Types_of_Prakriti.png\"><img class=\"mw-file-element\" decoding=\"async\" height=\"208\" src=\"/images/thumb/2/26/Types_of_Prakriti.png/500px-Types_of_Prakriti.png\" srcset=\"/images/thumb/2/26/Types_of_Prakriti.png/750px-Types_of_Prakriti.png 1.5x, /images/thumb/2/26/Types_of_Prakriti.png/1000px-Types_of_Prakriti.png 2x\" width=\"500\"/></a><figcaption><b>Image 1: Types of <a href=\"/index.php?title=Deha_prakriti\" title=\"Deha prakriti\">Deha Prakriti</a></b></figcaption></figure>",
+            "links": [
+                {
+                    "text": "",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=File:Types_of_Prakriti.png"
+                },
+                {
+                    "text": "Deha Prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Deha_prakriti"
+                }
+            ],
+            "images": [
+                {
+                    "url": "https://www.carakasamhitaonline.com/images/thumb/2/26/Types_of_Prakriti.png/500px-Types_of_Prakriti.png",
+                    "alt": "",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Prakriti means basic constitution of human being depending upon dominance of dosha at the time of conception. This forms the deha prakriti meaning body constitution or trait .\nThese are further categorized under four types. [Cha. Sa. Sutra Sthana 7/39-40]",
+            "html": "<p>Prakriti means basic constitution of human being depending upon dominance of <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> at the time of conception. This forms the <a href=\"/index.php?title=Deha_prakriti\" title=\"Deha prakriti\">deha prakriti</a> meaning body constitution or trait .\nThese are further categorized under four types. [Cha. Sa. <a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 7/39-40]\n</p>",
+            "links": [
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "deha prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Deha_prakriti"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "These types of basic constitution are assessed upon specific characteristics shown by dominant dosha . [Cha. Sa. Vimana Sthana 8/96-99]",
+            "html": "<p>These types of basic constitution are assessed upon specific characteristics shown by dominant <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a>. [Cha. Sa. <a href=\"/index.php?title=Vimana_Sthana\" title=\"Vimana Sthana\">Vimana Sthana</a> 8/96-99]\n</p>",
+            "links": [
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "Vimana Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The constitution (prakriti) associated with fetus ( garbha ) is determined by following factors:",
+            "html": "<p>The constitution (prakriti) associated with fetus (<a href=\"/index.php?title=Garbha\" title=\"Garbha\">garbha</a>) is determined by following factors:   \n</p>",
+            "links": [
+                {
+                    "text": "garbha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Garbha"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "ul",
+            "text": "constitution of sperm and ovum, the time (of conception) and status of health of uterus diet and lifestyle of mother (during pregnancy) and interaction of mahabhuta . [Cha. Sa. Vimana Sthana 8/95]",
+            "html": "<ul><li>constitution of sperm and ovum,</li>\n<li>the time (of conception) and status of health of uterus</li>\n<li>diet and lifestyle of mother (during pregnancy) and</li>\n<li>interaction of <a class=\"mw-redirect\" href=\"/index.php?title=Mahabhuta\" title=\"Mahabhuta\">mahabhuta</a>.  [Cha. Sa. <a href=\"/index.php?title=Vimana_Sthana\" title=\"Vimana Sthana\">Vimana Sthana</a> 8/95]</li></ul>",
+            "links": [
+                {
+                    "text": "mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahabhuta"
+                },
+                {
+                    "text": "Vimana Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "constitution of sperm and ovum,",
+                    "links": []
+                },
+                {
+                    "text": "the time (of conception) and status of health of uterus",
+                    "links": []
+                },
+                {
+                    "text": "diet and lifestyle of mother (during pregnancy) and",
+                    "links": []
+                },
+                {
+                    "text": "interaction of mahabhuta . [Cha. Sa. Vimana Sthana 8/95]",
+                    "links": [
+                        {
+                            "text": "mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Mahabhuta"
+                        },
+                        {
+                            "text": "Vimana Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "The following factors also play important role in constitution of an individual.",
+            "html": "<p>The following factors also play important role in constitution of an individual.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Jati (origin as per social structure), Kula (race), Desha (place), Kala (time and season), Vaya (age), Pratyatmaniyata (individual habits and habitat). The different variations seen in persons are based upon their caste, race, place of living, season, age and individual habits. [Cha. Sa. Indriya Sthana 1/5]\nThus the constitutional make-up is determined and influenced by above mentioned factors.",
+            "html": "<p>Jati (origin as per social structure), Kula (race), <a href=\"/index.php?title=Desha\" title=\"Desha\">Desha</a> (place), <a href=\"/index.php?title=Kala\" title=\"Kala\">Kala</a> (time and season), <a class=\"new\" href=\"/index.php?title=Vaya&amp;action=edit&amp;redlink=1\" title=\"Vaya (page does not exist)\">Vaya</a> (age), Pratyatmaniyata (individual habits and habitat). The different variations seen in persons are based upon their caste, race, place of living, season, age and individual habits. [Cha. Sa. <a href=\"/index.php?title=Indriya_Sthana\" title=\"Indriya Sthana\">Indriya Sthana</a> 1/5]\nThus the constitutional make-up is determined and influenced by above mentioned factors.\n</p>",
+            "links": [
+                {
+                    "text": "Desha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Desha"
+                },
+                {
+                    "text": "Kala",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kala"
+                },
+                {
+                    "text": "Vaya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vaya&action=edit&redlink=1"
+                },
+                {
+                    "text": "Indriya Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Samya (equilibrium or normal state)",
+            "html": "<h3><span id=\"Samya_.28equilibrium_or_normal_state.29\"></span><span class=\"mw-headline\" id=\"Samya_(equilibrium_or_normal_state)\">Samya (equilibrium or normal state)</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "The term prakriti is also used to denote normal state or equilibrium state of dosha and dhatu in the body. This balanced state determines health. [Cha.Sa. Sutra Sthana 9/4] The objective of all components of health care system is to restore status of equilibrium in body. Other references describing normal or balanced state of dosha are listed in table 1.",
+            "html": "<p>The term prakriti is also used to denote normal state or equilibrium state of <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> and <a href=\"/index.php?title=Dhatu\" title=\"Dhatu\">dhatu</a> in the body. This balanced state determines  health. [Cha.Sa. <a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 9/4]  The objective of all components of health care system is to restore status of equilibrium in body. Other references describing normal or balanced state of <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> are listed in table 1. \n</p>",
+            "links": [
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Swabhava (fundamental nature)",
+            "html": "<h3><span id=\"Swabhava_.28fundamental_nature.29\"></span><span class=\"mw-headline\" id=\"Swabhava_(fundamental_nature)\">Swabhava (fundamental nature)</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Prakriti is also used to denote fundamental nature of a substance or basic pattern of external environment or surroundings. Each substance in the surroundings has specific natural characteristics and functions that are performed according to it. This is termed as swabhava .\nEach sense and motor organ has its own specific constitution and action. The sense organs and motor organs are the tools to maintain equilibrium. The equilibrium of sense organs with mind leads the intellect to indulge in enhanced self- consciousness . [Chakrapani on Cha. Sa. Sutra Sthana 8/15-16]. For the preservation of mental and intellectual health, it is important to maintain equilibrium in co-ordination with sense and motor organs, mind and intellect . [Chakrapani on Cha.Sa. Sutra Sthana 8/17]",
+            "html": "<p>Prakriti is also used to denote fundamental nature of a  substance or basic pattern of external environment or surroundings. Each substance in the surroundings has specific natural characteristics and functions that are performed according to it.  This is termed as swabhava .\nEach sense and motor organ has its own specific constitution and action. The <a href=\"/index.php?title=Indriya\" title=\"Indriya\">sense organs</a> and motor organs are the tools to maintain equilibrium. The equilibrium of sense organs with <a href=\"/index.php?title=Manas\" title=\"Manas\">mind</a> leads the <a class=\"mw-redirect\" href=\"/index.php?title=Intellect\" title=\"Intellect\">intellect</a> to indulge in enhanced self-<a class=\"mw-redirect\" href=\"/index.php?title=Consciousness\" title=\"Consciousness\">consciousness</a>. [Chakrapani on Cha. Sa.<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 8/15-16]. For the preservation of mental and intellectual health, it is important to maintain equilibrium in co-ordination with sense and motor organs, <a href=\"/index.php?title=Manas\" title=\"Manas\">mind</a> and <a class=\"mw-redirect\" href=\"/index.php?title=Intellect\" title=\"Intellect\">intellect</a>. [Chakrapani on Cha.Sa.<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 8/17] \n</p>",
+            "links": [
+                {
+                    "text": "sense organs",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya"
+                },
+                {
+                    "text": "mind",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Manas"
+                },
+                {
+                    "text": "intellect",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Intellect"
+                },
+                {
+                    "text": "consciousness",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Consciousness"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "mind",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Manas"
+                },
+                {
+                    "text": "intellect",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Intellect"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Marana (death)",
+            "html": "<h3><span id=\"Marana_.28death.29\"></span><span class=\"mw-headline\" id=\"Marana_(death)\">Marana (death)</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "The term prakritistha is used to denote death of an individual. [Cha.Sa. Sutra Sthana 9/26] It means that the physical body merges with nature and the soul returns to its origin or source or creation.",
+            "html": "<p>The term prakritistha is used to denote death of an individual. [Cha.Sa. <a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 9/26] It means that the <a href=\"/index.php?title=Sharira\" title=\"Sharira\">physical body</a> merges with nature and the <a href=\"/index.php?title=Atma\" title=\"Atma\">soul</a> returns to its origin or source or creation.\n</p>",
+            "links": [
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "physical body",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira"
+                },
+                {
+                    "text": "soul",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Atma"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Relation between these meanings",
+            "html": "<h2><span class=\"mw-headline\" id=\"Relation_between_these_meanings\">Relation between these meanings</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "It is worthy to note how a single word prakriti can be applied in different contexts. However, deep insights can clearly connect these meanings together to indicate a process of creation from source and unification with the source.",
+            "html": "<p>It is worthy to note how a single word prakriti can be applied in different contexts. However, deep insights can clearly connect these meanings together to indicate a process of creation from source and unification with the source. \n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Origin of purusha is from the prakriti. The principle of prakriti and purusha states that we are part of our surroundings. Our internal environment is constantly interacting with external environment. Therefore we should live in harmony with nature. After death, we merge with nature.",
+            "html": "<p>Origin of <a href=\"/index.php?title=Purusha\" title=\"Purusha\">purusha</a> is from the prakriti. The principle of prakriti and <a href=\"/index.php?title=Purusha\" title=\"Purusha\">purusha</a> states that we are part of our surroundings. Our internal environment is constantly interacting with external environment. Therefore we should live in harmony with nature. After death, we merge with nature.  \n</p>",
+            "links": [
+                {
+                    "text": "purusha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha"
+                },
+                {
+                    "text": "purusha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Components of circle of life",
+            "html": "<h3><span class=\"mw-headline\" id=\"Components_of_circle_of_life\">Components of circle of life</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "figure",
+            "text": "Image 2:Circle of life in reference to prakriti",
+            "html": "<figure typeof=\"mw:File/Thumb\"><a class=\"mw-file-description\" href=\"/index.php?title=File:Circle_of_life.png\"><img class=\"mw-file-element\" decoding=\"async\" height=\"249\" src=\"/images/thumb/1/1b/Circle_of_life.png/600px-Circle_of_life.png\" srcset=\"/images/thumb/1/1b/Circle_of_life.png/900px-Circle_of_life.png 1.5x, /images/thumb/1/1b/Circle_of_life.png/1200px-Circle_of_life.png 2x\" width=\"600\"/></a><figcaption><b>Image 2:Circle of life in reference to prakriti</b></figcaption></figure>",
+            "links": [
+                {
+                    "text": "",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=File:Circle_of_life.png"
+                }
+            ],
+            "images": [
+                {
+                    "url": "https://www.carakasamhitaonline.com/images/thumb/1/1b/Circle_of_life.png/600px-Circle_of_life.png",
+                    "alt": "",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Importance of knowledge of prakriti",
+            "html": "<h2><span class=\"mw-headline\" id=\"Importance_of_knowledge_of_prakriti\">Importance of knowledge of prakriti</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ol",
+            "text": "Status of health directly depends upon the balanced state of body components. Lifespan of an individual depends upon his prakriti. Prakriti assessment is important for knowledge of disease process. Prognosis depends upon interaction of normal dosha and affecting dosha known as causative factor of disease . Every substance has its own prakriti and it acts according to the specific characters. It is important to know the basic characters before applying it in healthcare management. The quality and quantity of diet shall always lead to equilibrium of dosha and dhatu in the body. The diet of an individual should be prescribed to maintain balanced state and should be conducive to preservation of health . Hazardous nature of a disease depends upon its prakriti and interaction of dosha - dushya . In education system, the assessment of prakriti of disciple and teacher is important for perceiving knowledge. In personalized medicine, prakriti assessment is important for decision of correct choice of drug in patients.",
+            "html": "<ol><li>Status of <a href=\"/index.php?title=Health\" title=\"Health\">health</a> directly depends upon the balanced state of body components.</li>\n<li>Lifespan of an individual depends upon his prakriti.</li>\n<li>Prakriti assessment is important for knowledge of <a href=\"/index.php?title=Vyadhi\" title=\"Vyadhi\">disease</a> process.</li>\n<li>Prognosis depends upon interaction of normal <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> and affecting <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> known as causative factor of <a href=\"/index.php?title=Vyadhi\" title=\"Vyadhi\">disease</a>.</li>\n<li>Every substance has its own prakriti and it acts according to the specific characters. It is important to know the basic characters before applying it in healthcare management.</li>\n<li>The quality and quantity of diet shall always lead to equilibrium of <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> and <a href=\"/index.php?title=Dhatu\" title=\"Dhatu\">dhatu</a> in the body. The diet of an individual should be prescribed to maintain balanced state and should be conducive to preservation of <a href=\"/index.php?title=Health\" title=\"Health\">health</a>.</li>\n<li>Hazardous nature of a disease depends upon its prakriti and interaction of <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a>-<a href=\"/index.php?title=Dushya\" title=\"Dushya\">dushya</a>.</li>\n<li>In education system, the assessment of prakriti of disciple and teacher is important for perceiving knowledge.</li>\n<li>In personalized medicine, prakriti assessment is important for decision of correct choice of drug in patients.</li></ol>",
+            "links": [
+                {
+                    "text": "health",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Health"
+                },
+                {
+                    "text": "disease",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vyadhi"
+                },
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "disease",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vyadhi"
+                },
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu"
+                },
+                {
+                    "text": "health",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Health"
+                },
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "dushya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dushya"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Status of health directly depends upon the balanced state of body components.",
+                    "links": [
+                        {
+                            "text": "health",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Health"
+                        }
+                    ]
+                },
+                {
+                    "text": "Lifespan of an individual depends upon his prakriti.",
+                    "links": []
+                },
+                {
+                    "text": "Prakriti assessment is important for knowledge of disease process.",
+                    "links": [
+                        {
+                            "text": "disease",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vyadhi"
+                        }
+                    ]
+                },
+                {
+                    "text": "Prognosis depends upon interaction of normal dosha and affecting dosha known as causative factor of disease .",
+                    "links": [
+                        {
+                            "text": "dosha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                        },
+                        {
+                            "text": "dosha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                        },
+                        {
+                            "text": "disease",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vyadhi"
+                        }
+                    ]
+                },
+                {
+                    "text": "Every substance has its own prakriti and it acts according to the specific characters. It is important to know the basic characters before applying it in healthcare management.",
+                    "links": []
+                },
+                {
+                    "text": "The quality and quantity of diet shall always lead to equilibrium of dosha and dhatu in the body. The diet of an individual should be prescribed to maintain balanced state and should be conducive to preservation of health .",
+                    "links": [
+                        {
+                            "text": "dosha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                        },
+                        {
+                            "text": "dhatu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu"
+                        },
+                        {
+                            "text": "health",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Health"
+                        }
+                    ]
+                },
+                {
+                    "text": "Hazardous nature of a disease depends upon its prakriti and interaction of dosha - dushya .",
+                    "links": [
+                        {
+                            "text": "dosha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                        },
+                        {
+                            "text": "dushya",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dushya"
+                        }
+                    ]
+                },
+                {
+                    "text": "In education system, the assessment of prakriti of disciple and teacher is important for perceiving knowledge.",
+                    "links": []
+                },
+                {
+                    "text": "In personalized medicine, prakriti assessment is important for decision of correct choice of drug in patients.",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Current researches",
+            "html": "<h2><span class=\"mw-headline\" id=\"Current_researches\">Current researches</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "Currently, research in scientific community is focused upon concept of deha prakriti only. The researchers have conceptualized the correlation between phenotype of an individual and his prakriti. Genomic variations with the classification of prakriti are studied. It is observed that PGM1 correlates with phenotype of pitta prakriti. This suggests that the phenotypic classification has a genetic basis; and its prakriti-based practice resonates with personalized medicine. [ 4 ]",
+            "html": "<p>Currently, research in scientific community is focused  upon concept of <a href=\"/index.php?title=Deha_prakriti\" title=\"Deha prakriti\">deha prakriti</a> only. The researchers  have conceptualized the correlation between phenotype of an individual and his prakriti. Genomic variations with the classification of prakriti are studied. It is observed that PGM1 correlates with phenotype of pitta prakriti.  This suggests that  the phenotypic classification has a genetic basis; and its prakriti-based practice resonates with personalized medicine. <sup class=\"reference\" id=\"cite_ref-4\"><a href=\"#cite_note-4\"><span class=\"cite-bracket\">[</span>4<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "deha prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Deha_prakriti"
+                },
+                {
+                    "text": "[ 4 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti#cite_note-4"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The researchers studied relation between clinical phenotype and predisposition of disease. The study was undertaken to determine the association of Methylenetetrahydrofolate reductase (MTHFR) C677T and A1298C with type 2 diabetes and prakriti. An extremely strong association between prakriti (kaphaja/ kapha - pittaja ) and type 2 diabetes (P < 0.00001) was detected in this study. [ 5 ]",
+            "html": "<p>The  researchers studied relation between clinical phenotype and predisposition of disease. The study was undertaken to determine the association of Methylenetetrahydrofolate reductase (MTHFR) C677T and A1298C with type 2 diabetes and prakriti. An extremely strong association between prakriti (kaphaja/<a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">kapha</a>-<a href=\"/index.php?title=Pitta\" title=\"Pitta\">pittaja</a>) and type 2 diabetes (P &lt; 0.00001) was detected in this study. <sup class=\"reference\" id=\"cite_ref-5\"><a href=\"#cite_note-5\"><span class=\"cite-bracket\">[</span>5<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "kapha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kapha"
+                },
+                {
+                    "text": "pittaja",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pitta"
+                },
+                {
+                    "text": "[ 5 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti#cite_note-5"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "More information",
+            "html": "<h2><span class=\"mw-headline\" id=\"More_information\">More information</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ol",
+            "text": "Naveganadharaniya Adhyaya Rogabhishagjitiya Vimana Deha Prakriti Manas Prakriti Panchamahabhuta Tanmatra",
+            "html": "<ol><li><a href=\"/index.php?title=Naveganadharaniya_Adhyaya\" title=\"Naveganadharaniya Adhyaya\">Naveganadharaniya Adhyaya</a></li>\n<li><a href=\"/index.php?title=Rogabhishagjitiya_Vimana\" title=\"Rogabhishagjitiya Vimana\">Rogabhishagjitiya Vimana</a></li>\n<li><a class=\"mw-redirect\" href=\"/index.php?title=Deha_Prakriti\" title=\"Deha Prakriti\">Deha Prakriti</a></li>\n<li><a href=\"/index.php?title=Manas_prakriti\" title=\"Manas prakriti\">Manas Prakriti</a></li>\n<li><a class=\"mw-redirect\" href=\"/index.php?title=Panchamahabhuta\" title=\"Panchamahabhuta\">Panchamahabhuta</a></li>\n<li><a href=\"/index.php?title=Tanmatra\" title=\"Tanmatra\">Tanmatra</a></li></ol>",
+            "links": [
+                {
+                    "text": "Naveganadharaniya Adhyaya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Naveganadharaniya_Adhyaya"
+                },
+                {
+                    "text": "Rogabhishagjitiya Vimana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rogabhishagjitiya_Vimana"
+                },
+                {
+                    "text": "Deha Prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Deha_Prakriti"
+                },
+                {
+                    "text": "Manas Prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Manas_prakriti"
+                },
+                {
+                    "text": "Panchamahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Panchamahabhuta"
+                },
+                {
+                    "text": "Tanmatra",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Naveganadharaniya Adhyaya",
+                    "links": [
+                        {
+                            "text": "Naveganadharaniya Adhyaya",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Naveganadharaniya_Adhyaya"
+                        }
+                    ]
+                },
+                {
+                    "text": "Rogabhishagjitiya Vimana",
+                    "links": [
+                        {
+                            "text": "Rogabhishagjitiya Vimana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Rogabhishagjitiya_Vimana"
+                        }
+                    ]
+                },
+                {
+                    "text": "Deha Prakriti",
+                    "links": [
+                        {
+                            "text": "Deha Prakriti",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Deha_Prakriti"
+                        }
+                    ]
+                },
+                {
+                    "text": "Manas Prakriti",
+                    "links": [
+                        {
+                            "text": "Manas Prakriti",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Manas_prakriti"
+                        }
+                    ]
+                },
+                {
+                    "text": "Panchamahabhuta",
+                    "links": [
+                        {
+                            "text": "Panchamahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Panchamahabhuta"
+                        }
+                    ]
+                },
+                {
+                    "text": "Tanmatra",
+                    "links": [
+                        {
+                            "text": "Tanmatra",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h3",
+            "text": "List of references in Charak Samhita",
+            "html": "<h3><span class=\"mw-headline\" id=\"List_of_references_in_Charak_Samhita\">List of references in Charak Samhita</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "The list of references about prakriti in Charak Samhita can be seen here.",
+            "html": "<p>The list of references about prakriti in Charak Samhita can be seen <a class=\"new\" href=\"/index.php?title=Index.php%3Ftitle%3DMedia:Prakriti_references.pdf&amp;action=edit&amp;redlink=1\" title=\"Index.php?title=Media:Prakriti references.pdf (page does not exist)\">here.</a>\n</p>",
+            "links": [
+                {
+                    "text": "here.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Index.php%3Ftitle%3DMedia:Prakriti_references.pdf&action=edit&redlink=1"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Abbreviations",
+            "html": "<h3><span class=\"mw-headline\" id=\"Abbreviations\">Abbreviations</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Cha. = Charak, Sa. = Samhita",
+            "html": "<p>Cha. = Charak,  Sa. = Samhita\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Send us your suggestions and feedback on this page.",
+            "html": "<p><big><b><a href=\"/index.php?title=Special:ContactMe\" title=\"Special:ContactMe\">Send us your suggestions and feedback on this page.</a></b></big>\n</p>",
+            "links": [
+                {
+                    "text": "Send us your suggestions and feedback on this page.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Special:ContactMe"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "References",
+            "html": "<h2><span class=\"mw-headline\" id=\"References\">References</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "text",
+            "text": "Back to the Top"
+        },
+        {
+            "type": "ol",
+            "text": "↑ Monnier-Williams (1899), Monnier William's Sanskrit-English Dictionary, 2nd Ed., Oxford University Press, Prakriti, page 654 available on Prakriti ↑ Available from https://www.wisdomlib.org/definition/prakriti ↑ Available from https://www.sanskritdictionary.com/?edd=1&q=prak%E1%B9%9Bti&iencoding=iast&lang=sans&x=65&y=14 ↑ Govindaraj, P. et al. Genome-wide analysis correlates Ayurveda Prakriti. Sci. Rep. 5, 15786; doi: 10.1038/srep15786 (2015) ↑ Gupta A, Ali A, Tewari P, Agrawal NK, Patel R, Byadgi PS. Association of kaphaja and kapha-pittaja prakriti and methylenetetrahydrofolate reductase C677T allele with type 2 diabetes. AYU [serial online] 2018 [cited 2020 Jan 5];39:146-50. Available from: http://www.ayujournal.org/text.asp?2018/39/3/146/255251",
+            "html": "<ol class=\"references\">\n<li id=\"cite_note-1\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-1\">↑</a></span> <span class=\"reference-text\">Monnier-Williams (1899), Monnier William's Sanskrit-English Dictionary, 2nd Ed., Oxford University Press, Prakriti, page 654 available on <a class=\"external text\" href=\"http://www.ibiblio.org/sripedia/ebooks/mw/0600/mw__0687.html\" rel=\"nofollow\">Prakriti</a></span>\n</li>\n<li id=\"cite_note-2\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-2\">↑</a></span> <span class=\"reference-text\">Available from <a class=\"external free\" href=\"https://www.wisdomlib.org/definition/prakriti\" rel=\"nofollow\">https://www.wisdomlib.org/definition/prakriti</a></span>\n</li>\n<li id=\"cite_note-3\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-3\">↑</a></span> <span class=\"reference-text\">Available from <a class=\"external free\" href=\"https://www.sanskritdictionary.com/?edd=1&amp;q=prak%E1%B9%9Bti&amp;iencoding=iast&amp;lang=sans&amp;x=65&amp;y=14\" rel=\"nofollow\">https://www.sanskritdictionary.com/?edd=1&amp;q=prak%E1%B9%9Bti&amp;iencoding=iast&amp;lang=sans&amp;x=65&amp;y=14</a></span>\n</li>\n<li id=\"cite_note-4\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-4\">↑</a></span> <span class=\"reference-text\"> Govindaraj, P. et al. Genome-wide analysis correlates Ayurveda Prakriti. Sci. Rep. 5, 15786; doi: 10.1038/srep15786 (2015)</span>\n</li>\n<li id=\"cite_note-5\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-5\">↑</a></span> <span class=\"reference-text\">Gupta A, Ali A, Tewari P, Agrawal NK, Patel R, Byadgi PS. Association of kaphaja and kapha-pittaja prakriti and methylenetetrahydrofolate reductase C677T allele with type 2 diabetes. AYU [serial online] 2018 [cited 2020 Jan 5];39:146-50. Available from: <a class=\"external free\" href=\"http://www.ayujournal.org/text.asp?2018/39/3/146/255251\" rel=\"nofollow\">http://www.ayujournal.org/text.asp?2018/39/3/146/255251</a></span>\n</li>\n</ol>",
+            "links": [
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti#cite_ref-1"
+                },
+                {
+                    "text": "Prakriti",
+                    "url": "http://www.ibiblio.org/sripedia/ebooks/mw/0600/mw__0687.html"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti#cite_ref-2"
+                },
+                {
+                    "text": "https://www.wisdomlib.org/definition/prakriti",
+                    "url": "https://www.wisdomlib.org/definition/prakriti"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti#cite_ref-3"
+                },
+                {
+                    "text": "https://www.sanskritdictionary.com/?edd=1&q=prak%E1%B9%9Bti&iencoding=iast&lang=sans&x=65&y=14",
+                    "url": "https://www.sanskritdictionary.com/?edd=1&q=prak%E1%B9%9Bti&iencoding=iast&lang=sans&x=65&y=14"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti#cite_ref-4"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti#cite_ref-5"
+                },
+                {
+                    "text": "http://www.ayujournal.org/text.asp?2018/39/3/146/255251",
+                    "url": "http://www.ayujournal.org/text.asp?2018/39/3/146/255251"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "↑ Monnier-Williams (1899), Monnier William's Sanskrit-English Dictionary, 2nd Ed., Oxford University Press, Prakriti, page 654 available on Prakriti",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti#cite_ref-1"
+                        },
+                        {
+                            "text": "Prakriti",
+                            "url": "http://www.ibiblio.org/sripedia/ebooks/mw/0600/mw__0687.html"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Available from https://www.wisdomlib.org/definition/prakriti",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti#cite_ref-2"
+                        },
+                        {
+                            "text": "https://www.wisdomlib.org/definition/prakriti",
+                            "url": "https://www.wisdomlib.org/definition/prakriti"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Available from https://www.sanskritdictionary.com/?edd=1&q=prak%E1%B9%9Bti&iencoding=iast&lang=sans&x=65&y=14",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti#cite_ref-3"
+                        },
+                        {
+                            "text": "https://www.sanskritdictionary.com/?edd=1&q=prak%E1%B9%9Bti&iencoding=iast&lang=sans&x=65&y=14",
+                            "url": "https://www.sanskritdictionary.com/?edd=1&q=prak%E1%B9%9Bti&iencoding=iast&lang=sans&x=65&y=14"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Govindaraj, P. et al. Genome-wide analysis correlates Ayurveda Prakriti. Sci. Rep. 5, 15786; doi: 10.1038/srep15786 (2015)",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti#cite_ref-4"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Gupta A, Ali A, Tewari P, Agrawal NK, Patel R, Byadgi PS. Association of kaphaja and kapha-pittaja prakriti and methylenetetrahydrofolate reductase C677T allele with type 2 diabetes. AYU [serial online] 2018 [cited 2020 Jan 5];39:146-50. Available from: http://www.ayujournal.org/text.asp?2018/39/3/146/255251",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti#cite_ref-5"
+                        },
+                        {
+                            "text": "http://www.ayujournal.org/text.asp?2018/39/3/146/255251",
+                            "url": "http://www.ayujournal.org/text.asp?2018/39/3/146/255251"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "text": "NewPP limit report\nCached time: 20261118113932\nCache expiry: 86400\nReduced expiry: false\nComplications: [vary‐revision‐id, show‐toc]\nCPU time usage: 0.079 seconds\nReal time usage: 0.366 seconds\nPreprocessor visited node count: 265/1000000\nPost‐expand include size: 1959/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 3/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 775/5000000 bytes\nLua time usage: 0.080/7 seconds\nLua virtual size: 20340736/209715200 bytes\nLua estimated memory usage: 0 bytes"
+        },
+        {
+            "type": "text",
+            "text": "Transclusion expansion time report (%,ms,calls,template)\n100.00% 275.749 1 -total\n92.03% 253.783 1 Template:Infobox\n2.27% 6.260 1 Template:CiteButton"
+        },
+        {
+            "type": "text",
+            "text": "Saved in parser cache with key carakas1_carakasa:pcache:idhash:3063-0!canonical and timestamp 20261118113932 and revision id 44459. Rendering was triggered because: diff-page"
+        },
+        {
+            "type": "text",
+            "text": "Retrieved from \""
+        },
+        {
+            "type": "text",
+            "text": "https://www.carakasamhitaonline.com/index.php?title=Prakriti&oldid=44459"
+        },
+        {
+            "type": "text",
+            "text": "\""
+        }
+    ],
+    "html_sha256": "a8cc558bcf26df976ac1365c2fc17b68faf09208d6ef6b112e02a95f721bbfcc"
+}

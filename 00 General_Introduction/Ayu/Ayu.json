@@ -1,0 +1,1475 @@
+{
+    "source": "Charaka Samhita",
+    "chapter": "Ayu",
+    "chapter_id": "Ayu",
+    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu",
+    "xpath": "//*[@id=\"content\"]",
+    "extraction_date": "2026-11-19T10:46:30",
+    "total_blocks": 69,
+    "total_tables": 1,
+    "total_headings": 15,
+    "total_paragraphs": 35,
+    "content": [
+        {
+            "type": "h1",
+            "text": "Ayu",
+            "html": "<h1 class=\"firstHeading mw-first-heading\" id=\"firstHeading\"><span class=\"mw-page-title-main\">Ayu</span></h1>",
+            "links": [],
+            "images": [],
+            "level": 1
+        },
+        {
+            "type": "text",
+            "text": "From Charak Samhita"
+        },
+        {
+            "type": "text",
+            "text": "Jump to navigation"
+        },
+        {
+            "type": "text",
+            "text": "Jump to search"
+        },
+        {
+            "type": "figure",
+            "text": "",
+            "html": "<figure class=\"mw-default-size mw-halign-right\" typeof=\"mw:File\"><a href=\"https://www.carakasamhitaonline.com/index.php?title=Special:CiteThisPage&amp;page=Ayu&amp;id=44456&amp;wpFormIdentifier=titleform\" rel=\"nofollow\"><img class=\"mw-file-element\" decoding=\"async\" height=\"47\" src=\"/images/5/58/Cite.png\" width=\"180\"/></a><figcaption></figcaption></figure>",
+            "links": [
+                {
+                    "text": "",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Special:CiteThisPage&page=Ayu&id=44456&wpFormIdentifier=titleform"
+                }
+            ],
+            "images": [
+                {
+                    "url": "https://www.carakasamhitaonline.com/images/5/58/Cite.png",
+                    "alt": "",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "The term ‘Ayu’ (also spelled as aayu) means lifespan. It is generally considered age, but it has broader aspects in ancient texts. Ayu is defined as span of life or the continuation of consciousness. Ayu starts with the union of sperm ( shukra ) and ovum (shonita) during fertilization and ends with the departure of consciousness ( prana ) from the body. In Ayurveda , Ayu (life) is defined as the combination of body, sense organs, mind and soul. [Cha.Sa. Sutra Sthana 1/42] Their combination leads to genesis of life or consciousness, and the loss of this combination leads to the loss of Ayu or death. The definition of Ayu and its classification into Hitayu, Ahitayu, Sukhayu and Dukhayu in Ayurveda is quoted in a way that covers both the individual and social aspects of life. The ancient holistic science of life - Ayurveda is principally the means of attaining knowledge about Ayu. [Cha.Sa. Sutra Sthana 30/23] Infact, Ayurveda is defined as the science which comprises knowledge of life span and perception of the status of the living body. [Cha.Sa. Sutra Sthana 1/41] According to Acharya Sushrut, Ayu is therein and attained thereby, thus it is called Ayurveda . [Cha.Sa. Sutra Sthana 1/23] Knowledge of Ayu is important because it helps assess the life span of a healthy person, residual life span of a person suffering from severe illness, and the rate of mortality.",
+            "html": "<p style=\"text-align:justify;\">The term ‘Ayu’ (also spelled as aayu) means lifespan. It is generally considered age, but it has broader aspects in ancient texts. Ayu is defined as span of life or the continuation of consciousness. Ayu starts with the union of sperm (<a class=\"mw-redirect\" href=\"/index.php?title=Shukra\" title=\"Shukra\">shukra</a>) and ovum (shonita) during fertilization and ends with the departure of consciousness (<a href=\"/index.php?title=Prana\" title=\"Prana\">prana</a>) from the body. In <a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a>, Ayu (life) is defined as the combination of body, sense organs, mind and soul. [Cha.Sa.<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 1/42] Their combination leads to genesis of life or consciousness, and the loss of this combination leads to the loss of Ayu or death. The definition of Ayu and its classification into Hitayu, Ahitayu, Sukhayu and Dukhayu in <a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a> is quoted in a way that covers both the individual and social aspects of life. The ancient holistic science of life - <a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a> is principally the means of attaining knowledge about Ayu. [Cha.Sa.<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 30/23] Infact, <a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a> is defined as the science which comprises knowledge of life span and perception of the status of the living body. [Cha.Sa.<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 1/41] According to Acharya Sushrut, Ayu is therein and attained thereby, thus it is called <a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a>. [Cha.Sa.<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 1/23] Knowledge of Ayu is important because it helps assess the life span of a healthy person, residual life span of a person suffering from severe illness, and the rate of mortality.\n</p>",
+            "links": [
+                {
+                    "text": "shukra",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Shukra"
+                },
+                {
+                    "text": "prana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prana"
+                },
+                {
+                    "text": "Ayurveda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayurveda"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "Ayurveda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayurveda"
+                },
+                {
+                    "text": "Ayurveda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayurveda"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "Ayurveda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayurveda"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "Ayurveda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayurveda"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "Section/Chapter/topic",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Concepts / Ayu",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Authors",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Bhojani M.K. 1 , Yadav Vandana 1",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Reviewer",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Basisht G. 2 Khandel S.K. 3",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Basisht G.",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Basisht_G."
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Editor",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Basisht G. 2 , Deole Y.S. 4",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Basisht G.",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Basisht_G."
+                            },
+                            {
+                                "text": "Deole Y.S.",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Deole_Y.S."
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Affiliations",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "1 Department of Kriya Sharira, A.I.I.A. , New Delhi, India 2 Rheumatologist, Orlando, Florida, U.S.A. 3 Arogyalaxmi Ayurveda Consultancy, Jaipur, India 4 Department of Kayachikitsa, G.J. Patel Institute of Ayurvedic Studies and Research, New Vallabh Vidyanagar, Anand, Gujarat, India",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Correspondence email",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "meera.samhita@aiia.gov.in, carakasamhita@gmail.com",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Publisher",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Charak Samhita Research, Training and Development Centre , I.T.R.A., Jamnagar, India",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Charak Samhita Research, Training and Development Centre",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Date of first publication:",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "August 07, 2022",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "DOI",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "10.47468/CSNE.2022.e01.s09.105",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "10.47468/CSNE.2022.e01.s09.105",
+                                "url": "https://doi.org/10.47468/CSNE.2022.e01.s09.105"
+                            }
+                        ]
+                    }
+                ]
+            ],
+            "html": "<table class=\"infobox\" style=\"width:22em\"><caption>Ayu</caption><tbody><tr><th scope=\"row\">Section/Chapter/topic</th><td>\nConcepts / <a class=\"mw-selflink selflink\">Ayu</a></td></tr><tr><th scope=\"row\">Authors</th><td>\nBhojani M.K.<sup>1</sup>, Yadav Vandana<sup>1</sup></td></tr><tr><th scope=\"row\">Reviewer</th><td>\n<a class=\"mw-redirect\" href=\"/index.php?title=Basisht_G.\" title=\"Basisht G.\">Basisht G.</a><sup>2</sup>Khandel S.K.<sup>3</sup></td></tr><tr><th scope=\"row\">Editor</th><td>\n<a class=\"mw-redirect\" href=\"/index.php?title=Basisht_G.\" title=\"Basisht G.\">Basisht G.</a><sup>2</sup>,<a class=\"mw-redirect\" href=\"/index.php?title=Deole_Y.S.\" title=\"Deole Y.S.\">Deole Y.S.</a><sup>4</sup></td></tr><tr><th scope=\"row\">Affiliations</th><td>\n<p><sup>1</sup> Department of Kriya Sharira, A.I.I.A. , New Delhi, India\n</p><p><sup>2</sup> Rheumatologist, Orlando, Florida, U.S.A.\n<sup>3</sup>Arogyalaxmi Ayurveda Consultancy, Jaipur, India\n</p>\n<sup>4</sup>Department of Kayachikitsa, G.J. Patel Institute of Ayurvedic Studies and Research, New Vallabh Vidyanagar, Anand, Gujarat, India</td></tr><tr><th scope=\"row\">Correspondence email</th><td>\nmeera.samhita@aiia.gov.in, carakasamhita@gmail.com</td></tr><tr><th scope=\"row\">Publisher</th><td>\n<a class=\"mw-redirect\" href=\"/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre\" title=\"Charak Samhita Research, Training and Development Centre\">Charak Samhita Research, Training and Development Centre</a>, I.T.R.A., Jamnagar, India</td></tr><tr><th scope=\"row\">Date of first publication:</th><td>\nAugust 07, 2022</td></tr><tr><th scope=\"row\">DOI</th><td>\n<a class=\"external text\" href=\"https://doi.org/10.47468/CSNE.2022.e01.s09.105\" rel=\"nofollow\">10.47468/CSNE.2022.e01.s09.105</a></td></tr></tbody></table>",
+            "links": [
+                {
+                    "text": "Basisht G.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Basisht_G."
+                },
+                {
+                    "text": "Basisht G.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Basisht_G."
+                },
+                {
+                    "text": "Deole Y.S.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Deole_Y.S."
+                },
+                {
+                    "text": "Charak Samhita Research, Training and Development Centre",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre"
+                },
+                {
+                    "text": "10.47468/CSNE.2022.e01.s09.105",
+                    "url": "https://doi.org/10.47468/CSNE.2022.e01.s09.105"
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Contents",
+            "html": "<h2 id=\"mw-toc-heading\">Contents</h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ul",
+            "text": "1 Etymology and derivation 2 Synonyms 3 Classification 3.1 Features of hitakar and ahitakar Ayu 3.2 Features of sukhayu and dukhayu 4 Directions for measuring span of life in Ayurveda 5 Assessment criteria 5.1 Quality of Life Scale by World Health Organization (WHO-QOL) 6 Importance of concept 7 Significance of every component of Ayu 8 Contemporary approach 9 Current researches 10 References",
+            "html": "<ul>\n<li class=\"toclevel-1 tocsection-1\"><a href=\"#Etymology_and_derivation\"><span class=\"tocnumber\">1</span> <span class=\"toctext\">Etymology and derivation</span></a></li>\n<li class=\"toclevel-1 tocsection-2\"><a href=\"#Synonyms\"><span class=\"tocnumber\">2</span> <span class=\"toctext\">Synonyms</span></a></li>\n<li class=\"toclevel-1 tocsection-3\"><a href=\"#Classification\"><span class=\"tocnumber\">3</span> <span class=\"toctext\">Classification</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-4\"><a href=\"#Features_of_hitakar_and_ahitakar_Ayu\"><span class=\"tocnumber\">3.1</span> <span class=\"toctext\">Features of hitakar and ahitakar Ayu</span></a></li>\n<li class=\"toclevel-2 tocsection-5\"><a href=\"#Features_of_sukhayu_and_dukhayu\"><span class=\"tocnumber\">3.2</span> <span class=\"toctext\">Features of sukhayu and dukhayu</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-6\"><a href=\"#Directions_for_measuring_span_of_life_in_Ayurveda\"><span class=\"tocnumber\">4</span> <span class=\"toctext\">Directions for measuring span of life in Ayurveda</span></a></li>\n<li class=\"toclevel-1 tocsection-7\"><a href=\"#Assessment_criteria\"><span class=\"tocnumber\">5</span> <span class=\"toctext\">Assessment criteria</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-8\"><a href=\"#Quality_of_Life_Scale_by_World_Health_Organization_(WHO-QOL)\"><span class=\"tocnumber\">5.1</span> <span class=\"toctext\">Quality of Life Scale by World Health Organization (WHO-QOL)</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-9\"><a href=\"#Importance_of_concept\"><span class=\"tocnumber\">6</span> <span class=\"toctext\">Importance of concept</span></a></li>\n<li class=\"toclevel-1 tocsection-10\"><a href=\"#Significance_of_every_component_of_Ayu\"><span class=\"tocnumber\">7</span> <span class=\"toctext\">Significance of every component of Ayu</span></a></li>\n<li class=\"toclevel-1 tocsection-11\"><a href=\"#Contemporary_approach\"><span class=\"tocnumber\">8</span> <span class=\"toctext\">Contemporary approach</span></a></li>\n<li class=\"toclevel-1 tocsection-12\"><a href=\"#Current_researches\"><span class=\"tocnumber\">9</span> <span class=\"toctext\">Current researches</span></a></li>\n<li class=\"toclevel-1 tocsection-13\"><a href=\"#References\"><span class=\"tocnumber\">10</span> <span class=\"toctext\">References</span></a></li>\n</ul>",
+            "links": [
+                {
+                    "text": "1 Etymology and derivation",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#Etymology_and_derivation"
+                },
+                {
+                    "text": "2 Synonyms",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#Synonyms"
+                },
+                {
+                    "text": "3 Classification",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#Classification"
+                },
+                {
+                    "text": "3.1 Features of hitakar and ahitakar Ayu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#Features_of_hitakar_and_ahitakar_Ayu"
+                },
+                {
+                    "text": "3.2 Features of sukhayu and dukhayu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#Features_of_sukhayu_and_dukhayu"
+                },
+                {
+                    "text": "4 Directions for measuring span of life in Ayurveda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#Directions_for_measuring_span_of_life_in_Ayurveda"
+                },
+                {
+                    "text": "5 Assessment criteria",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#Assessment_criteria"
+                },
+                {
+                    "text": "5.1 Quality of Life Scale by World Health Organization (WHO-QOL)",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#Quality_of_Life_Scale_by_World_Health_Organization_(WHO-QOL)"
+                },
+                {
+                    "text": "6 Importance of concept",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#Importance_of_concept"
+                },
+                {
+                    "text": "7 Significance of every component of Ayu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#Significance_of_every_component_of_Ayu"
+                },
+                {
+                    "text": "8 Contemporary approach",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#Contemporary_approach"
+                },
+                {
+                    "text": "9 Current researches",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#Current_researches"
+                },
+                {
+                    "text": "10 References",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#References"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "1 Etymology and derivation",
+                    "links": [
+                        {
+                            "text": "1 Etymology and derivation",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#Etymology_and_derivation"
+                        }
+                    ]
+                },
+                {
+                    "text": "2 Synonyms",
+                    "links": [
+                        {
+                            "text": "2 Synonyms",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#Synonyms"
+                        }
+                    ]
+                },
+                {
+                    "text": "3 Classification 3.1 Features of hitakar and ahitakar Ayu 3.2 Features of sukhayu and dukhayu",
+                    "links": [
+                        {
+                            "text": "3 Classification",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#Classification"
+                        },
+                        {
+                            "text": "3.1 Features of hitakar and ahitakar Ayu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#Features_of_hitakar_and_ahitakar_Ayu"
+                        },
+                        {
+                            "text": "3.2 Features of sukhayu and dukhayu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#Features_of_sukhayu_and_dukhayu"
+                        }
+                    ]
+                },
+                {
+                    "text": "4 Directions for measuring span of life in Ayurveda",
+                    "links": [
+                        {
+                            "text": "4 Directions for measuring span of life in Ayurveda",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#Directions_for_measuring_span_of_life_in_Ayurveda"
+                        }
+                    ]
+                },
+                {
+                    "text": "5 Assessment criteria 5.1 Quality of Life Scale by World Health Organization (WHO-QOL)",
+                    "links": [
+                        {
+                            "text": "5 Assessment criteria",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#Assessment_criteria"
+                        },
+                        {
+                            "text": "5.1 Quality of Life Scale by World Health Organization (WHO-QOL)",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#Quality_of_Life_Scale_by_World_Health_Organization_(WHO-QOL)"
+                        }
+                    ]
+                },
+                {
+                    "text": "6 Importance of concept",
+                    "links": [
+                        {
+                            "text": "6 Importance of concept",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#Importance_of_concept"
+                        }
+                    ]
+                },
+                {
+                    "text": "7 Significance of every component of Ayu",
+                    "links": [
+                        {
+                            "text": "7 Significance of every component of Ayu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#Significance_of_every_component_of_Ayu"
+                        }
+                    ]
+                },
+                {
+                    "text": "8 Contemporary approach",
+                    "links": [
+                        {
+                            "text": "8 Contemporary approach",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#Contemporary_approach"
+                        }
+                    ]
+                },
+                {
+                    "text": "9 Current researches",
+                    "links": [
+                        {
+                            "text": "9 Current researches",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#Current_researches"
+                        }
+                    ]
+                },
+                {
+                    "text": "10 References",
+                    "links": [
+                        {
+                            "text": "10 References",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#References"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Etymology and derivation",
+            "html": "<h2><span class=\"mw-headline\" id=\"Etymology_and_derivation\">Etymology and derivation</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ul",
+            "text": "The word Ayu is derived from prefix aa (आ) upasarga and yujiryoge (युजिर्योगे) dhatu. Thus the etymology of ayu आसमन्तात्चेतनयायुनक्तिइतिआयुः| means ayu is the one that connects to consciousness from beginning to end. तत्रायुश्चेतनानुवृत्ति| means from zygote formation till death, the soul stays tuned with the body, and it is Ayu.[Cha.Sa. Sutra Sthana 30/22]",
+            "html": "<ul><li>The word Ayu is derived from prefix aa (आ) upasarga and yujiryoge (युजिर्योगे) dhatu. Thus the etymology of ayu आसमन्तात्चेतनयायुनक्तिइतिआयुः| means ayu is the one that connects to consciousness from beginning to end.</li>\n<li>तत्रायुश्चेतनानुवृत्ति| means from zygote formation till death, the soul stays tuned with the body, and it is Ayu.[Cha.Sa.<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 30/22]</li></ul>",
+            "links": [
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "The word Ayu is derived from prefix aa (आ) upasarga and yujiryoge (युजिर्योगे) dhatu. Thus the etymology of ayu आसमन्तात्चेतनयायुनक्तिइतिआयुः| means ayu is the one that connects to consciousness from beginning to end.",
+                    "links": []
+                },
+                {
+                    "text": "तत्रायुश्चेतनानुवृत्ति| means from zygote formation till death, the soul stays tuned with the body, and it is Ayu.[Cha.Sa. Sutra Sthana 30/22]",
+                    "links": [
+                        {
+                            "text": "Sutra Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Synonyms",
+            "html": "<h2><span class=\"mw-headline\" id=\"Synonyms\">Synonyms</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ol",
+            "text": "Dhari: the one that prevents the body from decay. Jivita: which keeps alive. Nityaga: which serves as permanent substratum of the body. Anubandha: which transmigrates from one body to the other.[Cha.Sa. Sutra Sthana 1/42] Chetnanuvritti: continuity of consciousness. [Cha.Sa. Sutra Sthana 30/22]",
+            "html": "<ol><li>Dhari: the one that prevents the body from decay.</li>\n<li>Jivita: which keeps alive.</li>\n<li>Nityaga: which serves as permanent substratum of the body.</li>\n<li>Anubandha: which transmigrates from one body to the other.[Cha.Sa.<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 1/42]</li>\n<li>Chetnanuvritti: continuity of consciousness. [Cha.Sa.<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 30/22]</li></ol>",
+            "links": [
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Dhari: the one that prevents the body from decay.",
+                    "links": []
+                },
+                {
+                    "text": "Jivita: which keeps alive.",
+                    "links": []
+                },
+                {
+                    "text": "Nityaga: which serves as permanent substratum of the body.",
+                    "links": []
+                },
+                {
+                    "text": "Anubandha: which transmigrates from one body to the other.[Cha.Sa. Sutra Sthana 1/42]",
+                    "links": [
+                        {
+                            "text": "Sutra Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                        }
+                    ]
+                },
+                {
+                    "text": "Chetnanuvritti: continuity of consciousness. [Cha.Sa. Sutra Sthana 30/22]",
+                    "links": [
+                        {
+                            "text": "Sutra Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Classification",
+            "html": "<h2><span class=\"mw-headline\" id=\"Classification\">Classification</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "Ayu can be divided into four types: [Cha.Sa. Sutra Sthana 1/41]",
+            "html": "<p>Ayu can be divided into four types: [Cha.Sa.<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 1/41]\n</p>",
+            "links": [
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "ol",
+            "text": "Hitayu: A kind of life that benefits the self and society. Ahitayu: A kind of human life that is not beneficial for the self or the society. Sukhayu: Happy, ailment-free life; a life pleasant for self and society. Dukhayu: A kind of life full of sorrow; unhappy life, unpleasant social life.",
+            "html": "<ol><li>Hitayu: A kind of life that benefits the self and society.</li>\n<li>Ahitayu: A kind of human life that is not beneficial for the self or the society.</li>\n<li>Sukhayu: Happy, ailment-free life; a life pleasant for self and society.</li>\n<li>Dukhayu: A kind of life full of sorrow; unhappy life, unpleasant social life.</li></ol>",
+            "links": [],
+            "images": [],
+            "items": [
+                {
+                    "text": "Hitayu: A kind of life that benefits the self and society.",
+                    "links": []
+                },
+                {
+                    "text": "Ahitayu: A kind of human life that is not beneficial for the self or the society.",
+                    "links": []
+                },
+                {
+                    "text": "Sukhayu: Happy, ailment-free life; a life pleasant for self and society.",
+                    "links": []
+                },
+                {
+                    "text": "Dukhayu: A kind of life full of sorrow; unhappy life, unpleasant social life.",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Although sukhayu and hitakar ayu seem the same, but these are different entities. Sukhayu means instant pleasure, whereas hitayu may or may not be pleasurable at the instant but is pleasurable for self and the society in the future. Sukhayu (pleasurable life) and dukhayu (unpleasurable life) may be either beneficial (hitakar) or nonbeneficial (ahitakar). For example, drinking alcohol may provide pleasure for a short time, but its consumption for a long time is not beneficial. Here living a life that comprises regular consumption of alcohol is sukhayu, but is ahitayu. Similarly, exercise may be unpleasurable, but making exercise a routine is beneficial in the long run. So life that comprises regular exercise may be dukhayu, but is hitayu.",
+            "html": "<p>Although sukhayu and hitakar ayu seem the same, but these are different entities. Sukhayu means instant pleasure, whereas hitayu may or may not be pleasurable at the instant but is pleasurable for self and the society in the future. Sukhayu (pleasurable life) and dukhayu (unpleasurable life) may be either beneficial (hitakar) or nonbeneficial (ahitakar). For example, drinking alcohol may provide pleasure for a short time, but its consumption for a long time is not beneficial. Here living a life that comprises regular consumption of alcohol is sukhayu, but is ahitayu. Similarly, exercise may be unpleasurable, but making exercise a routine is beneficial in the long run. So life that comprises regular exercise may be dukhayu, but is hitayu.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Features of hitakar and ahitakar Ayu",
+            "html": "<h3><span class=\"mw-headline\" id=\"Features_of_hitakar_and_ahitakar_Ayu\">Features of hitakar and ahitakar Ayu</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Life is said to be beneficial if the person’s life shows the following features:",
+            "html": "<p>Life is said to be beneficial if the person’s life shows the following features:\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "ul",
+            "text": "well-wisher of all the creatures abstains from taking other’s possession the person is truth-speaking, calm, devoted to attaining knowledge, understanding and serenity of mind steps after examining the situation free from carelessness observing the three categories (virtue, wealth, and enjoyment) without their mutual conflict worshipping the worthy persons keeping company of elderly persons the person has controlled well the impulses of attachment, aversion, envy, intoxication, and conceit the person is engaged in various types of donations, constantly devoted to penance, knowledge, and peace has knowledge of and devotion to metaphysics keeping an eye on both the worlds and is endowed with memory and intelligence. [Cha.Sa. Sutra Sthana 30/24]",
+            "html": "<ul><li>well-wisher of all the creatures</li>\n<li>abstains from taking other’s possession</li>\n<li>the person is truth-speaking, calm, devoted to attaining knowledge, understanding and serenity of mind</li>\n<li>steps after examining the situation</li>\n<li>free from carelessness</li>\n<li>observing the three categories (virtue, wealth, and enjoyment) without their mutual conflict</li>\n<li>worshipping the worthy persons</li>\n<li>keeping company of elderly persons</li>\n<li>the person has controlled well the impulses of attachment, aversion, envy, intoxication, and conceit</li>\n<li>the person is engaged in various types of donations, constantly devoted to penance, knowledge, and peace</li>\n<li>has knowledge of and devotion to metaphysics</li>\n<li>keeping an eye on both the worlds and is endowed with memory and intelligence. [Cha.Sa.<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 30/24]</li></ul>",
+            "links": [
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "well-wisher of all the creatures",
+                    "links": []
+                },
+                {
+                    "text": "abstains from taking other’s possession",
+                    "links": []
+                },
+                {
+                    "text": "the person is truth-speaking, calm, devoted to attaining knowledge, understanding and serenity of mind",
+                    "links": []
+                },
+                {
+                    "text": "steps after examining the situation",
+                    "links": []
+                },
+                {
+                    "text": "free from carelessness",
+                    "links": []
+                },
+                {
+                    "text": "observing the three categories (virtue, wealth, and enjoyment) without their mutual conflict",
+                    "links": []
+                },
+                {
+                    "text": "worshipping the worthy persons",
+                    "links": []
+                },
+                {
+                    "text": "keeping company of elderly persons",
+                    "links": []
+                },
+                {
+                    "text": "the person has controlled well the impulses of attachment, aversion, envy, intoxication, and conceit",
+                    "links": []
+                },
+                {
+                    "text": "the person is engaged in various types of donations, constantly devoted to penance, knowledge, and peace",
+                    "links": []
+                },
+                {
+                    "text": "has knowledge of and devotion to metaphysics",
+                    "links": []
+                },
+                {
+                    "text": "keeping an eye on both the worlds and is endowed with memory and intelligence. [Cha.Sa. Sutra Sthana 30/24]",
+                    "links": [
+                        {
+                            "text": "Sutra Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Contrary to these features, the person's life is known as non beneficial.",
+            "html": "<p>Contrary to these features, the person's life is known as non beneficial.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Features of sukhayu and dukhayu",
+            "html": "<h3><span class=\"mw-headline\" id=\"Features_of_sukhayu_and_dukhayu\">Features of sukhayu and dukhayu</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Life is said to be happy, if the person is not afflicted with any somatic or psychic disorder. He is particularly youthful, capable with strength, energy, reputation, manliness and prowess. He is possessing knowledge of self, specific knowledge of scientific scripts and strong sense organs and sense objects. He has immense wealth, various favourable enjoyments, and has achieved desired results of all actions and freely moves about where he likes. [Cha.Sa. Sutra Sthana 30/24]",
+            "html": "<p>Life is said to be happy, if the person is not afflicted with any somatic or psychic disorder. He is particularly youthful, capable with strength, energy, reputation, manliness and prowess. He is possessing knowledge of self, specific knowledge of scientific scripts and strong sense organs and sense objects. He has immense wealth, various favourable enjoyments, and has achieved desired results of all actions and freely moves about where he likes. [Cha.Sa.<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 30/24]\n</p>",
+            "links": [
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Contrary to these features is an unhappy life.",
+            "html": "<p>Contrary to these features is an unhappy life.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Directions for measuring span of life in Ayurveda",
+            "html": "<h2><span class=\"mw-headline\" id=\"Directions_for_measuring_span_of_life_in_Ayurveda\">Directions for measuring span of life in <a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a></span></h2>",
+            "links": [
+                {
+                    "text": "Ayurveda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayurveda"
+                }
+            ],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ol",
+            "text": "The age of a healthy human being to be around is one hundred years. [A.Sa.Sharira Sthana 8/26] [ 1 ] Due to the deeds of human beings, one year of life span is lost after every hundred years. [ 1 ] The lifespan depends on the constitution of the person. Kapha predominant person lives a longer life, [Cha.Sa. Vimana Sthana 8/96] while vata prakriti individual has a shorter life span. [Cha.Sa. Vimana Sthana 8/98] Short life span can be predicted by sudden abnormal changes in sense organs, their receptions, and interpretations of objects. [Cha.Sa. Sutra Sthana 30/25] A grave prognostic sign ( arishta ) in the body and constitution indicates a person's decreasing lifespan and approach toward death. [Cha.Sa. Sutra Sthana 30/25] The deeds of past life/destiny (daiva) and deeds of present life (paurush) decide the Ayu of the person.[Cha.Sa. Vimana Sthana 3/29] The excellent blend of these leads to a long and healthy life span, while their inferior combination leads to a short and agonizing life span.[Cha.Sa. Vimana Sthana 3/34]",
+            "html": "<ol><li>The age of a healthy human being to be around is one hundred years. [A.Sa.Sharira Sthana 8/26]<sup class=\"reference\" id=\"cite_ref-Sangraha_1-0\"><a href=\"#cite_note-Sangraha-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup></li>\n<li>Due to the deeds of human beings, one year of life span is lost after every hundred years.<sup class=\"reference\" id=\"cite_ref-Sangraha_1-1\"><a href=\"#cite_note-Sangraha-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup></li>\n<li>The lifespan depends on the constitution of the person. <a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">Kapha</a> predominant person lives a longer life, [Cha.Sa.<a href=\"/index.php?title=Vimana_Sthana\" title=\"Vimana Sthana\">Vimana Sthana</a> 8/96] while <a class=\"mw-redirect\" href=\"/index.php?title=Vata\" title=\"Vata\">vata</a> <a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">prakriti</a> individual has a shorter life span. [Cha.Sa.<a href=\"/index.php?title=Vimana_Sthana\" title=\"Vimana Sthana\">Vimana Sthana</a> 8/98]</li>\n<li>Short life span can be predicted by sudden abnormal changes in sense organs, their receptions, and interpretations of objects. [Cha.Sa.<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 30/25]</li>\n<li>A grave prognostic sign (<a href=\"/index.php?title=Arishta\" title=\"Arishta\">arishta</a>) in the body and constitution indicates a person's decreasing lifespan and approach toward death. [Cha.Sa.<a href=\"/index.php?title=Sutra_Sthana\" title=\"Sutra Sthana\">Sutra Sthana</a> 30/25]</li>\n<li>The deeds of past life/destiny (daiva) and deeds of present life (paurush) decide the Ayu of the person.[Cha.Sa.<a href=\"/index.php?title=Vimana_Sthana\" title=\"Vimana Sthana\">Vimana Sthana</a> 3/29] The excellent blend of these leads to a long and healthy life span, while their inferior combination leads to a short and agonizing life span.[Cha.Sa.<a href=\"/index.php?title=Vimana_Sthana\" title=\"Vimana Sthana\">Vimana Sthana</a> 3/34]</li></ol>",
+            "links": [
+                {
+                    "text": "[ 1 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#cite_note-Sangraha-1"
+                },
+                {
+                    "text": "[ 1 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#cite_note-Sangraha-1"
+                },
+                {
+                    "text": "Kapha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kapha"
+                },
+                {
+                    "text": "Vimana Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana"
+                },
+                {
+                    "text": "vata",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vata"
+                },
+                {
+                    "text": "prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "Vimana Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "arishta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Arishta"
+                },
+                {
+                    "text": "Sutra Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                },
+                {
+                    "text": "Vimana Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana"
+                },
+                {
+                    "text": "Vimana Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "The age of a healthy human being to be around is one hundred years. [A.Sa.Sharira Sthana 8/26] [ 1 ]",
+                    "links": [
+                        {
+                            "text": "[ 1 ]",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#cite_note-Sangraha-1"
+                        }
+                    ]
+                },
+                {
+                    "text": "Due to the deeds of human beings, one year of life span is lost after every hundred years. [ 1 ]",
+                    "links": [
+                        {
+                            "text": "[ 1 ]",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#cite_note-Sangraha-1"
+                        }
+                    ]
+                },
+                {
+                    "text": "The lifespan depends on the constitution of the person. Kapha predominant person lives a longer life, [Cha.Sa. Vimana Sthana 8/96] while vata prakriti individual has a shorter life span. [Cha.Sa. Vimana Sthana 8/98]",
+                    "links": [
+                        {
+                            "text": "Kapha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Kapha"
+                        },
+                        {
+                            "text": "Vimana Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana"
+                        },
+                        {
+                            "text": "vata",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vata"
+                        },
+                        {
+                            "text": "prakriti",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                        },
+                        {
+                            "text": "Vimana Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana"
+                        }
+                    ]
+                },
+                {
+                    "text": "Short life span can be predicted by sudden abnormal changes in sense organs, their receptions, and interpretations of objects. [Cha.Sa. Sutra Sthana 30/25]",
+                    "links": [
+                        {
+                            "text": "Sutra Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                        }
+                    ]
+                },
+                {
+                    "text": "A grave prognostic sign ( arishta ) in the body and constitution indicates a person's decreasing lifespan and approach toward death. [Cha.Sa. Sutra Sthana 30/25]",
+                    "links": [
+                        {
+                            "text": "arishta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Arishta"
+                        },
+                        {
+                            "text": "Sutra Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sutra_Sthana"
+                        }
+                    ]
+                },
+                {
+                    "text": "The deeds of past life/destiny (daiva) and deeds of present life (paurush) decide the Ayu of the person.[Cha.Sa. Vimana Sthana 3/29] The excellent blend of these leads to a long and healthy life span, while their inferior combination leads to a short and agonizing life span.[Cha.Sa. Vimana Sthana 3/34]",
+                    "links": [
+                        {
+                            "text": "Vimana Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana"
+                        },
+                        {
+                            "text": "Vimana Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Assessment criteria",
+            "html": "<h2><span class=\"mw-headline\" id=\"Assessment_criteria\">Assessment criteria</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "Ancient scientists described the criteria to assess the age and lifespan of a person. The life span assessment should be done before treatment commencement. If the person has residual life span, then only treatment should be started after considering disease, season, digestive power, age, body build, mind, conducive factors, constitution, drug, and habitat. These examinations help in planning the management to obtain desirable results. Along with these criteria, the life span also depends on a person's lifestyle.[Cha.Sa. Vimana Sthana 3/38]",
+            "html": "<p>Ancient scientists described the criteria to assess the age and lifespan of a person. The life span assessment should be done before treatment commencement. If the person has residual life span, then only treatment should be started after considering disease, season, digestive power, age, body build, mind, conducive factors, constitution, drug, and habitat. These examinations help in planning the management to obtain desirable results. Along with these criteria, the life span also depends on a person's lifestyle.[Cha.Sa.<a href=\"/index.php?title=Vimana_Sthana\" title=\"Vimana Sthana\">Vimana Sthana</a> 3/38]\n</p>",
+            "links": [
+                {
+                    "text": "Vimana Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Features of the person expected to have a long life span or ayu:",
+            "html": "<p><b>Features of the person expected to have a long life span or ayu:</b>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "A person is known to have a long lifespan who has hidden (well covered & nourished) joints, blood vessels and ligaments, compact body parts, firm sense organs, and successively better physical areas. [Su.Sa.Sutra Sthana 35/5-6] [ 2 ] A person who did not suffer from any disorders during intra-uterine life and who grew with appropriate physical and mental faculties is expected to have long life span.",
+            "html": "<p>A person is known to have a long lifespan who has hidden (well covered &amp; nourished) joints, blood vessels and ligaments, compact body parts, firm sense organs, and successively better physical areas. [Su.Sa.Sutra Sthana 35/5-6]<sup class=\"reference\" id=\"cite_ref-Susruta_2-0\"><a href=\"#cite_note-Susruta-2\"><span class=\"cite-bracket\">[</span>2<span class=\"cite-bracket\">]</span></a></sup> A person who did not suffer from any disorders during intra-uterine life and who grew with appropriate physical and mental faculties is expected to have long life span.\n</p>",
+            "links": [
+                {
+                    "text": "[ 2 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#cite_note-Susruta-2"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Features of the person expected to have a medium life span or ayu:",
+            "html": "<p><b>Features of the person expected to have a medium life span or ayu:</b>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "A person is known to have a medium lifespan, in whom two, three, or more distinct and extensive marks are present below clavicles, whose feet and ears are fleshy; tip of the nose raised, and streaks in the upper portion of the back. Such a person has a lifespan of around seventy years. [Su.Sa.Sutra Sthana 35/7-8] [ 2 ]",
+            "html": "<p>A person is known to have a medium lifespan, in whom two, three, or more distinct and extensive marks are present below clavicles, whose feet and ears are fleshy; tip of the nose raised, and streaks in the upper portion of the back. Such a person has a lifespan of around seventy years. [Su.Sa.Sutra Sthana 35/7-8]<sup class=\"reference\" id=\"cite_ref-Susruta_2-1\"><a href=\"#cite_note-Susruta-2\"><span class=\"cite-bracket\">[</span>2<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 2 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#cite_note-Susruta-2"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The above features indicate such disorders in childhood may reduce lifespan. Any child who suffered clavicle fracture or dislocated shoulder during labour, or was born with thoracic outlet syndrome is likely to have marks below clavicles. Child with Winkler’s disease or polychondritis have fleshy ear; and plantar fibromas, dyshidrotic eczema, plantar warts, bursitis, cysts, synovial sarcoma or Haglund’s deformity may cause fleshy feet. The nasal polyps or sinusitis may cause the raising of the tip of the nose.",
+            "html": "<p>The above features indicate such disorders in childhood may reduce lifespan. Any child who suffered clavicle fracture or dislocated shoulder during labour, or was born with thoracic outlet syndrome is likely to have marks below clavicles. Child with Winkler’s disease or polychondritis have fleshy ear; and plantar fibromas, dyshidrotic eczema, plantar warts, bursitis, cysts, synovial sarcoma or Haglund’s deformity may cause fleshy feet. The nasal polyps or sinusitis may cause the raising of the tip of the nose.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Features of the person expected to have a short life span or ayu:",
+            "html": "<p><b>Features of the person expected to have a short life span or ayu:</b>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "A person is known to have a short life-span, if his phalanges are short, penis enormously big, crisscross hairs on chest, back is not broad enough, ears positioned upwards from its normal place, nose higher and gums visible while laughing or talking and looks bewildered. Such a person lives a short life span of around twenty-five years. [Su.Sa.Sutra Sthana 35/9-11] [ 2 ]",
+            "html": "<p>A person is known to have a short life-span, if his phalanges are short, penis enormously big, crisscross hairs on chest, back is not broad enough, ears positioned upwards from its normal place, nose higher and gums visible while laughing or talking and looks bewildered. Such a person lives a short life span of around twenty-five years. [Su.Sa.Sutra Sthana 35/9-11]<sup class=\"reference\" id=\"cite_ref-Susruta_2-2\"><a href=\"#cite_note-Susruta-2\"><span class=\"cite-bracket\">[</span>2<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 2 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#cite_note-Susruta-2"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The signs indicate that a child who is physically or mentally compromised, immune-suppressed, and suffering from severe metabolic or genetic disorders is expected to die early. Symbrachydactly may cause short phalanges. Hypospadias or varicocele may cause enlargement of the genitals. Kyphosis, Lordosis, and spinal or bone disorders may cause back deformation. Visible gums may cause gingivitis and other buccal or respiratory conditions in the future.",
+            "html": "<p>The signs indicate that a child who is physically or mentally compromised, immune-suppressed, and suffering from severe metabolic or genetic disorders is expected to die early. Symbrachydactly may cause short phalanges. Hypospadias or varicocele may cause enlargement of the genitals. Kyphosis, Lordosis, and spinal or bone disorders may cause back deformation. Visible gums may cause gingivitis and other buccal or respiratory conditions in the future.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Quality of Life Scale by World Health Organization (WHO-QOL)",
+            "html": "<h3><span id=\"Quality_of_Life_Scale_by_World_Health_Organization_.28WHO-QOL.29\"></span><span class=\"mw-headline\" id=\"Quality_of_Life_Scale_by_World_Health_Organization_(WHO-QOL)\">Quality of Life Scale by World Health Organization (WHO-QOL)</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "The World Health Organization (WHO) has developed a quality of life instrument, the WHOQOL, which captures many subjective aspects of quality of life). The abbreviated version of this scale is known as WHOQOL-BREF. It is applicable for cross-cultural comparisons of quality of life and is available in more than 40 languages. The WHOQOL-BREF is a 26-item instrument consisting of four domains: physical health (7 items), psychological health (6 items), social relationships (3 items), and environmental health (8 items); it also contains QOL and general health items. [ 3 ] , [ 4 ] Currently this scale can be applied in research related to Ayu.",
+            "html": "<p>The World Health Organization (WHO) has developed a quality of life instrument, the WHOQOL, which captures many subjective aspects of quality of life). The abbreviated version of this scale is known as WHOQOL-BREF. It is applicable for cross-cultural comparisons of quality of life and is available in more than 40 languages. The WHOQOL-BREF is a 26-item instrument consisting of four domains: physical health (7 items), psychological health (6 items), social relationships (3 items), and environmental health (8 items); it also contains QOL and general health items.<sup class=\"reference\" id=\"cite_ref-3\"><a href=\"#cite_note-3\"><span class=\"cite-bracket\">[</span>3<span class=\"cite-bracket\">]</span></a></sup>,<sup class=\"reference\" id=\"cite_ref-4\"><a href=\"#cite_note-4\"><span class=\"cite-bracket\">[</span>4<span class=\"cite-bracket\">]</span></a></sup>Currently this scale can be applied in research related to Ayu.\n</p>",
+            "links": [
+                {
+                    "text": "[ 3 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#cite_note-3"
+                },
+                {
+                    "text": "[ 4 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#cite_note-4"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Importance of concept",
+            "html": "<h2><span class=\"mw-headline\" id=\"Importance_of_concept\">Importance of concept</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "In current times, ayu is regarded as age and deals only with the physical entity, the body. The age ranges from birth to death and depends on the vitality of cells and tissues of the body. But a deeper understanding of ayu reveals that life surpasses the limits of the complexity of cells and tissues. Aspiration to seek hitakar ayu aids in developing human personality and helps him achieve the highest order of harmony in life. It flourishes the psychological and spiritual aspects of well-being, and then the human becomes healthy in the true sense.",
+            "html": "<p>In current times, ayu is regarded as age and deals only with the physical entity, the body. The age ranges from birth to death and depends on the vitality of cells and tissues of the body. But a deeper understanding of ayu reveals that life surpasses the limits of the complexity of cells and tissues. Aspiration to seek hitakar ayu aids in developing human personality and helps him achieve the highest order of harmony in life. It flourishes the psychological and spiritual aspects of well-being, and then the human becomes healthy in the true sense.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Ayurveda believes that freedom from cycle of life and death (moksha) can be achieved only if a person lives healthy life. He can achieve eternal duties (dharma), wealth (artha), and desire (kama) to ultimately achieve moksha. Ayu is required to achieve dharma, artha, and kama.\nIndian philosophy believes that every person has to pay off the debt to three people (sages, god, and parents) before dying by giving birth to a child. The birth of the person in the world is for paying off debts which the service of society can do. For this purpose, the person will have to maintain a healthy body. To pay the debts, a person needs a long life span, and hence the knowledge of ayu.",
+            "html": "<p><a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a> believes that freedom from cycle of life and death (moksha) can be achieved only if a person lives healthy life. He can achieve eternal duties (dharma), wealth (artha), and desire (kama) to ultimately achieve moksha. Ayu is required to achieve dharma, artha, and kama.\nIndian philosophy believes that every person has to pay off the debt to three people (sages, god, and parents) before dying by giving birth to a child. The birth of the person in the world is for paying off debts which the service of society can do. For this purpose, the person will have to maintain a healthy body. To pay the debts, a person needs a long life span, and hence the knowledge of ayu.\n</p>",
+            "links": [
+                {
+                    "text": "Ayurveda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayurveda"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Knowledge of ayu teaches that life's moto is not to attain instant pleasure. Instant pleasure is not real happiness.",
+            "html": "<p>Knowledge of ayu teaches that life's moto is not to attain instant pleasure. Instant pleasure is not real happiness.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Ayu vis-à-vis Vaya:",
+            "html": "<p><b>Ayu vis-à-vis Vaya:</b>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "In Ayurveda texts, in different contexts, the terms Ayu and Vaya have been referred. The word ‘Ayu’ denotes the life remaining, and the word ‘Vaya’ denotes the age passed. Thus, ‘Ayu’ is a positive notion of the futuristic life, signifying the scope of furtherance of health and happiness.",
+            "html": "<p>In <a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a> texts, in different contexts, the terms Ayu and Vaya have been referred. The word ‘Ayu’ denotes the life remaining, and the word ‘Vaya’ denotes the age passed. Thus, ‘Ayu’ is a positive notion of the futuristic life, signifying the scope of furtherance of health and happiness.\n</p>",
+            "links": [
+                {
+                    "text": "Ayurveda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayurveda"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Ayu vis-à-vis Panchakosha:",
+            "html": "<p><b>Ayu vis-à-vis Panchakosha:</b>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The concept of Ayu resembles and incorporates the Panchakosha Theory (Five interconnecting sheaths) of Yogic sciences’. The Annamaya and Pranamaya Kosha, which are the outermost represents the body component of ayu (sthula sharira), the Manomaya and Vijnanamaya Kosha represents the indriya and mana component of ayu (sukshama sharira) and Anandamaya Kosha represents the Atma component of ayu (karana sharira). Thus, the concept and components of ayu are comprehensive in all health aspects.",
+            "html": "<p>The concept of Ayu resembles and incorporates the Panchakosha Theory (Five interconnecting sheaths) of Yogic sciences’. The Annamaya and Pranamaya Kosha, which are the outermost represents the body component of ayu (sthula sharira), the Manomaya and Vijnanamaya Kosha represents the <a href=\"/index.php?title=Indriya\" title=\"Indriya\">indriya</a> and <a class=\"mw-redirect\" href=\"/index.php?title=Mana\" title=\"Mana\">mana</a> component of ayu (sukshama sharira) and Anandamaya Kosha represents the <a href=\"/index.php?title=Atma\" title=\"Atma\">Atma</a> component of ayu (karana sharira). Thus, the concept and components of ayu are comprehensive in all health aspects.\n</p>",
+            "links": [
+                {
+                    "text": "indriya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya"
+                },
+                {
+                    "text": "mana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mana"
+                },
+                {
+                    "text": "Atma",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Atma"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Significance of every component of Ayu",
+            "html": "<h2><span class=\"mw-headline\" id=\"Significance_of_every_component_of_Ayu\">Significance of every component of Ayu</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "As per the health definition by acharya Sushruta, all four components of life should be healthy. As per this definition, health is the equilibrium of body components and a blissful state of body, mind, sensory-motor organs, and soul. This classification of the Ayu or life into four components might also have a specific implication. It signifies that not only is each of the components important, but each has its peculiar pathology as well. These components have their nourishment. Considering the wider understanding of the word ‘ Ahara ’, each of these has different ahara , as requirement of each is diverse. Although the food we take nourishes body, senses and mind, but specifically and precisely, the body ( sharira ) needs to breathe, food and water ( prana , anna and udaka), and the senses ( indriya ) require a balance of the sensory inputs (samyoga of indriyaartha), mind ( mana ) needs proper subjects to ponder upon (samyoga of chintyadiartha) and the soul ( atma ) needs peace and bliss (bhutdaya, karuna, kshama, akrodha, sattvikbhava, lokakalyana etc.)",
+            "html": "<p>As per the health definition by acharya Sushruta, all four components of life should be healthy. As per this definition, health is the equilibrium of body components and a blissful state of body, mind, sensory-motor organs, and soul. This classification of the Ayu or life into four components might also have a specific implication. It signifies that not only is each of the components important, but each has its peculiar pathology as well. These components have their nourishment. Considering the wider understanding of the word ‘<a href=\"/index.php?title=Ahara\" title=\"Ahara\">Ahara</a>’, each of these has different <a href=\"/index.php?title=Ahara\" title=\"Ahara\">ahara</a>, as requirement of each is diverse. Although the food we take nourishes body, senses and mind, but specifically and precisely, the body (<a href=\"/index.php?title=Sharira\" title=\"Sharira\">sharira</a>) needs to breathe, food and water (<a href=\"/index.php?title=Prana\" title=\"Prana\">prana</a>, anna and udaka), and the senses (<a href=\"/index.php?title=Indriya\" title=\"Indriya\">indriya</a>) require a balance of the sensory inputs (samyoga of indriyaartha), mind (<a class=\"mw-redirect\" href=\"/index.php?title=Mana\" title=\"Mana\">mana</a>) needs proper subjects to ponder upon (samyoga of chintyadiartha) and the soul (<a href=\"/index.php?title=Atma\" title=\"Atma\">atma</a>) needs peace and bliss (bhutdaya, karuna, kshama, akrodha, sattvikbhava, lokakalyana etc.)\n</p>",
+            "links": [
+                {
+                    "text": "Ahara",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ahara"
+                },
+                {
+                    "text": "ahara",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ahara"
+                },
+                {
+                    "text": "sharira",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira"
+                },
+                {
+                    "text": "prana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prana"
+                },
+                {
+                    "text": "indriya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya"
+                },
+                {
+                    "text": "mana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mana"
+                },
+                {
+                    "text": "atma",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Atma"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Contemporary approach",
+            "html": "<h2><span class=\"mw-headline\" id=\"Contemporary_approach\">Contemporary approach</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "Before starting the patient's treatment, the clinician must determine his life expectancy. Nature of disease, season, digestive power, age, general health, psyche, favourable diets and habits, constitution, medicines, and geographical locality should be assessed in a patient with good life expectancy.",
+            "html": "<p>Before starting the patient's treatment, the clinician must determine his life expectancy. Nature of disease, season, digestive power, age, general health, psyche, favourable diets and habits, constitution, medicines, and geographical locality should be assessed in a patient with good life expectancy.\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Current researches",
+            "html": "<h2><span class=\"mw-headline\" id=\"Current_researches\">Current researches</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "Importance of ayu pareeksha for the management of diseases",
+            "html": "<p><b>Importance of ayu pareeksha for the management of diseases</b>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The difference between Ayu (span of life) and vaya (age) is defined. Vaya is defined as the state of body corresponding to the length of the time since birth. Characteristic features of the lifespan are presented in detail in the article. The dhatus are in the developing stage during childhood, develop during middle age and start degenerating during old age. Kapha dosha remains predominant during childhood, pitta during adulthood and vata dosha dominates during old age. The treatment of different age groups must be planned to keep the dhatus and dosha in equilibrium. Time factor (kalayoga) is the ideal time for the proper growth of the child in the uterus. Factors responsible for longevity include excellence of diet, absence of opposite factors of dhatu , practicing exercise, cheerful frame of mind, equilibrium of doshas and dhatus , hereditary factors, immunity, etc. [ 5 ]",
+            "html": "<p>The difference between Ayu (span of life) and vaya (age) is defined. Vaya is defined as the state of body corresponding to the length of the time since birth. Characteristic features of the lifespan are presented in detail in the article. The <a href=\"/index.php?title=Dhatu\" title=\"Dhatu\">dhatus</a> are in the developing stage during childhood, develop during middle age and start degenerating during old age. <a href=\"/index.php?title=Kapha_dosha\" title=\"Kapha dosha\">Kapha dosha</a> remains predominant during childhood, <a href=\"/index.php?title=Pitta\" title=\"Pitta\">pitta</a> during adulthood and <a href=\"/index.php?title=Vata_dosha\" title=\"Vata dosha\">vata dosha</a> dominates during old age. The treatment of different age groups must be planned to keep the <a href=\"/index.php?title=Dhatu\" title=\"Dhatu\">dhatus</a> and <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a> in equilibrium. Time factor (kalayoga) is the ideal time for the proper growth of the child in the uterus. Factors responsible for longevity include excellence of diet, absence of opposite factors of <a href=\"/index.php?title=Dhatu\" title=\"Dhatu\">dhatu</a>, practicing exercise, cheerful frame of mind, equilibrium of <a href=\"/index.php?title=Dosha\" title=\"Dosha\">doshas</a> and <a href=\"/index.php?title=Dhatu\" title=\"Dhatu\">dhatus</a>, hereditary factors, immunity, etc.<sup class=\"reference\" id=\"cite_ref-5\"><a href=\"#cite_note-5\"><span class=\"cite-bracket\">[</span>5<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "dhatus",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu"
+                },
+                {
+                    "text": "Kapha dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kapha_dosha"
+                },
+                {
+                    "text": "pitta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pitta"
+                },
+                {
+                    "text": "vata dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vata_dosha"
+                },
+                {
+                    "text": "dhatus",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu"
+                },
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "dhatu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu"
+                },
+                {
+                    "text": "doshas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "dhatus",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu"
+                },
+                {
+                    "text": "[ 5 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#cite_note-5"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Symbiohealth – Need of the hour",
+            "html": "<p><b>Symbiohealth – Need of the hour</b>\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "A symbiotic relationship between Allopathy and Ayurveda is fundamental in creating a health care system that is more effective than either system used alone, less expensive, less toxic and more likely to create a healthier society. Maintaining the health of self and creating a healthier society is one of the aspects of Hitakar Ayu, whiche imphasizes the role of Symbiohealth in Ayu. The human body is not like a machine but rather an ecosystem that is formed by Ashtanga Yoga at the upper level, diet rejuvenation and detoxification at the middle level, and Kayachikitsa and modern medicine at lower level. Maintaining this human ecosystem via symbiohealth is required to acquire Hitakar ayu and Sukhayu. [ 6 ]",
+            "html": "<p>A symbiotic relationship between Allopathy and <a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a> is fundamental in creating a health care system that is more effective than either system used alone, less expensive, less toxic and more likely to create a healthier society. Maintaining the health of self and creating a healthier society is one of the aspects of Hitakar Ayu, whiche imphasizes the role of Symbiohealth in Ayu. The human body is not like a machine but rather an ecosystem that is formed by Ashtanga Yoga at the upper level, diet rejuvenation and detoxification at the middle level, and <a class=\"mw-redirect\" href=\"/index.php?title=Kayachikitsa\" title=\"Kayachikitsa\">Kayachikitsa</a> and modern medicine at lower level. Maintaining this human ecosystem via symbiohealth is required to acquire Hitakar ayu and Sukhayu.<sup class=\"reference\" id=\"cite_ref-6\"><a href=\"#cite_note-6\"><span class=\"cite-bracket\">[</span>6<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "Ayurveda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayurveda"
+                },
+                {
+                    "text": "Kayachikitsa",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kayachikitsa"
+                },
+                {
+                    "text": "[ 6 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#cite_note-6"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Utility of Vaya and Ayu pariksha according to Ayurveda",
+            "html": "<p><b>Utility of Vaya and Ayu pariksha according to <a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a></b>\n</p>",
+            "links": [
+                {
+                    "text": "Ayurveda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayurveda"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "The classification of vaya according to different opinions has been presented in the article. Vaya pariksha is an essential factor for ascertaining proper diagnosis, the prognosis of the disease, and also for the appropriate treatment. Fixation of dosage is dependent on age and body mass. [ 7 ]",
+            "html": "<p>The classification of vaya according to different opinions has been presented in the article. Vaya pariksha is an essential factor for ascertaining proper diagnosis, the prognosis of the disease, and also for the appropriate treatment. Fixation of dosage is dependent on age and body mass.<sup class=\"reference\" id=\"cite_ref-7\"><a href=\"#cite_note-7\"><span class=\"cite-bracket\">[</span>7<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 7 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#cite_note-7"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Rasayana effect of Guduchi powder (churna) on the life span of Drosophilla melanogaster",
+            "html": "<p><b><a href=\"/index.php?title=Rasayana\" title=\"Rasayana\">Rasayana</a> effect of <a href=\"/index.php?title=Guduchi\" title=\"Guduchi\">Guduchi</a> powder (churna) on the life span of Drosophilla melanogaster</b>\n</p>",
+            "links": [
+                {
+                    "text": "Rasayana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rasayana"
+                },
+                {
+                    "text": "Guduchi",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Guduchi"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Regular food media mixed with Guduchi churna in different concentrations (0.25g/100ml, 0.50g/100ml and 0.70g/100ml) were exposed to Drosophila melanogaster for 30 days and increase in life span was observed in both parent and F-1 generation. [ 8 ]",
+            "html": "<p>Regular food media mixed with <a href=\"/index.php?title=Guduchi\" title=\"Guduchi\">Guduchi</a> churna in different concentrations (0.25g/100ml, 0.50g/100ml and 0.70g/100ml) were exposed to Drosophila melanogaster for 30 days and increase in life span was observed in both parent and F-1 generation.<sup class=\"reference\" id=\"cite_ref-8\"><a href=\"#cite_note-8\"><span class=\"cite-bracket\">[</span>8<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "Guduchi",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Guduchi"
+                },
+                {
+                    "text": "[ 8 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#cite_note-8"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Send us your suggestions and feedback on this page.",
+            "html": "<p><big><b><a href=\"/index.php?title=Special:ContactMe\" title=\"Special:ContactMe\">Send us your suggestions and feedback on this page.</a></b></big>\n</p>",
+            "links": [
+                {
+                    "text": "Send us your suggestions and feedback on this page.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Special:ContactMe"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "References",
+            "html": "<h2><span class=\"mw-headline\" id=\"References\">References</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "text",
+            "text": "Back to the Top"
+        },
+        {
+            "type": "ol",
+            "text": "↑ 1.0 1.1 Vridha Vagbhata, Ashtanga Sangraha. Edited by Shivaprasad Sharma. 3rd ed. Varanasi: Chaukhamba sanskrit series office;2012. ↑ 2.0 2.1 2.2 Sushruta. Sushruta Samhita. Edited by Jadavaji Trikamji Aacharya. 8th ed. Varanasi: Chaukhambha Orientalia;2005. ↑ WHO. Available from https://www.who.int/publications/i/item/WHOQOL-BREF accessed on 13/08/2022 ↑ Vahedi S. World Health Organization Quality-of-Life Scale (WHOQOL-BREF): Analyses of Their Item Response Theory Properties Based on the Graded Responses Model. Iran J Psychiatry. 2010 Fall;5(4):140-53. PMID: 22952508; PMCID: PMC3395923. ↑ Agrawal M, Byadgi PS, Dwibedy BK. Importance of Ayu Pareeksha for the Management of Diseases. J Clin Diagn Res. 2017 Jan;11(1):OE01-OE04. doi: 10.7860/JCDR/2017/20881.9144. Epub 2017 Jan 1. PMID: 28273996; PMCID: PMC5324441. ↑ Basisht GK. Symbiohealth - Need of the hour. Ayu. 2011 Jan;32(1):6-11. doi: 10.4103/0974-8520.85715. PMID: 22131751; PMCID: PMC3215420. ↑ Shankar H, Dixit M, Meena HN, Meena NN. Utility of Vaya and Ayu Pariksha according to Ayurveda. World Journal of Pharmaceutical Research. 2020 July;9(8): 1125-1131. doi: 10.20959/wjpr20208-18267. ISSN 2277– 7105. ↑ Pathak P, Vyas M, Vyas H, Naria M. Rasayana effect of Guduchi Churna on the life span of Drosophila melanogaster. Ayu. 2016 Jan-Mar;37(1):67-70. doi: 10.4103/ayu.AYU_11_16. PMID: 28827958; PMCID: PMC5541470.",
+            "html": "<ol class=\"references\">\n<li id=\"cite_note-Sangraha-1\"><span class=\"mw-cite-backlink\">↑ <sup><a href=\"#cite_ref-Sangraha_1-0\">1.0</a></sup> <sup><a href=\"#cite_ref-Sangraha_1-1\">1.1</a></sup></span> <span class=\"reference-text\"> Vridha Vagbhata, Ashtanga Sangraha. Edited by Shivaprasad Sharma. 3rd ed. Varanasi: Chaukhamba sanskrit series office;2012.</span>\n</li>\n<li id=\"cite_note-Susruta-2\"><span class=\"mw-cite-backlink\">↑ <sup><a href=\"#cite_ref-Susruta_2-0\">2.0</a></sup> <sup><a href=\"#cite_ref-Susruta_2-1\">2.1</a></sup> <sup><a href=\"#cite_ref-Susruta_2-2\">2.2</a></sup></span> <span class=\"reference-text\"> Sushruta. Sushruta Samhita. Edited by Jadavaji Trikamji Aacharya. 8th ed. Varanasi: Chaukhambha Orientalia;2005.</span>\n</li>\n<li id=\"cite_note-3\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-3\">↑</a></span> <span class=\"reference-text\">WHO. Available from <a class=\"external free\" href=\"https://www.who.int/publications/i/item/WHOQOL-BREF\" rel=\"nofollow\">https://www.who.int/publications/i/item/WHOQOL-BREF</a> accessed on 13/08/2022</span>\n</li>\n<li id=\"cite_note-4\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-4\">↑</a></span> <span class=\"reference-text\">Vahedi S. World Health Organization Quality-of-Life Scale (WHOQOL-BREF): Analyses of Their Item Response Theory Properties Based on the Graded Responses Model. Iran J Psychiatry. 2010 Fall;5(4):140-53. PMID: 22952508; PMCID: PMC3395923.</span>\n</li>\n<li id=\"cite_note-5\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-5\">↑</a></span> <span class=\"reference-text\">Agrawal M, Byadgi PS, Dwibedy BK. Importance of Ayu Pareeksha for the Management of Diseases. J Clin Diagn Res. 2017 Jan;11(1):OE01-OE04. doi: 10.7860/JCDR/2017/20881.9144. Epub 2017 Jan 1. PMID: 28273996; PMCID: PMC5324441.</span>\n</li>\n<li id=\"cite_note-6\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-6\">↑</a></span> <span class=\"reference-text\">Basisht GK. Symbiohealth - Need of the hour. Ayu. 2011 Jan;32(1):6-11. doi: 10.4103/0974-8520.85715. PMID: 22131751; PMCID: PMC3215420.</span>\n</li>\n<li id=\"cite_note-7\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-7\">↑</a></span> <span class=\"reference-text\">Shankar H, Dixit M, Meena HN, Meena NN. Utility of Vaya and Ayu Pariksha according to Ayurveda. World Journal of Pharmaceutical Research. 2020 July;9(8): 1125-1131. doi: 10.20959/wjpr20208-18267. ISSN 2277– 7105.</span>\n</li>\n<li id=\"cite_note-8\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-8\">↑</a></span> <span class=\"reference-text\">Pathak P, Vyas M, Vyas H, Naria M. Rasayana effect of Guduchi Churna on the life span of Drosophila melanogaster. Ayu. 2016 Jan-Mar;37(1):67-70. doi: 10.4103/ayu.AYU_11_16. PMID: 28827958; PMCID: PMC5541470.</span>\n</li>\n</ol>",
+            "links": [
+                {
+                    "text": "1.0",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#cite_ref-Sangraha_1-0"
+                },
+                {
+                    "text": "1.1",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#cite_ref-Sangraha_1-1"
+                },
+                {
+                    "text": "2.0",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#cite_ref-Susruta_2-0"
+                },
+                {
+                    "text": "2.1",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#cite_ref-Susruta_2-1"
+                },
+                {
+                    "text": "2.2",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#cite_ref-Susruta_2-2"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#cite_ref-3"
+                },
+                {
+                    "text": "https://www.who.int/publications/i/item/WHOQOL-BREF",
+                    "url": "https://www.who.int/publications/i/item/WHOQOL-BREF"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#cite_ref-4"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#cite_ref-5"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#cite_ref-6"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#cite_ref-7"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#cite_ref-8"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "↑ 1.0 1.1 Vridha Vagbhata, Ashtanga Sangraha. Edited by Shivaprasad Sharma. 3rd ed. Varanasi: Chaukhamba sanskrit series office;2012.",
+                    "links": [
+                        {
+                            "text": "1.0",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#cite_ref-Sangraha_1-0"
+                        },
+                        {
+                            "text": "1.1",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#cite_ref-Sangraha_1-1"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ 2.0 2.1 2.2 Sushruta. Sushruta Samhita. Edited by Jadavaji Trikamji Aacharya. 8th ed. Varanasi: Chaukhambha Orientalia;2005.",
+                    "links": [
+                        {
+                            "text": "2.0",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#cite_ref-Susruta_2-0"
+                        },
+                        {
+                            "text": "2.1",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#cite_ref-Susruta_2-1"
+                        },
+                        {
+                            "text": "2.2",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#cite_ref-Susruta_2-2"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ WHO. Available from https://www.who.int/publications/i/item/WHOQOL-BREF accessed on 13/08/2022",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#cite_ref-3"
+                        },
+                        {
+                            "text": "https://www.who.int/publications/i/item/WHOQOL-BREF",
+                            "url": "https://www.who.int/publications/i/item/WHOQOL-BREF"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Vahedi S. World Health Organization Quality-of-Life Scale (WHOQOL-BREF): Analyses of Their Item Response Theory Properties Based on the Graded Responses Model. Iran J Psychiatry. 2010 Fall;5(4):140-53. PMID: 22952508; PMCID: PMC3395923.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#cite_ref-4"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Agrawal M, Byadgi PS, Dwibedy BK. Importance of Ayu Pareeksha for the Management of Diseases. J Clin Diagn Res. 2017 Jan;11(1):OE01-OE04. doi: 10.7860/JCDR/2017/20881.9144. Epub 2017 Jan 1. PMID: 28273996; PMCID: PMC5324441.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#cite_ref-5"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Basisht GK. Symbiohealth - Need of the hour. Ayu. 2011 Jan;32(1):6-11. doi: 10.4103/0974-8520.85715. PMID: 22131751; PMCID: PMC3215420.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#cite_ref-6"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Shankar H, Dixit M, Meena HN, Meena NN. Utility of Vaya and Ayu Pariksha according to Ayurveda. World Journal of Pharmaceutical Research. 2020 July;9(8): 1125-1131. doi: 10.20959/wjpr20208-18267. ISSN 2277– 7105.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#cite_ref-7"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Pathak P, Vyas M, Vyas H, Naria M. Rasayana effect of Guduchi Churna on the life span of Drosophila melanogaster. Ayu. 2016 Jan-Mar;37(1):67-70. doi: 10.4103/ayu.AYU_11_16. PMID: 28827958; PMCID: PMC5541470.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu#cite_ref-8"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "text": "NewPP limit report\nCached time: 20261118091737\nCache expiry: 86400\nReduced expiry: false\nComplications: [vary‐revision‐id, show‐toc]\nCPU time usage: 0.107 seconds\nReal time usage: 0.389 seconds\nPreprocessor visited node count: 538/1000000\nPost‐expand include size: 2916/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 6/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 1819/5000000 bytes\nLua time usage: 0.130/7 seconds\nLua virtual size: 20484096/209715200 bytes\nLua estimated memory usage: 0 bytes"
+        },
+        {
+            "type": "text",
+            "text": "Transclusion expansion time report (%,ms,calls,template)\n100.00% 312.223 1 -total\n95.27% 297.468 1 Template:Infobox\n3.78% 11.788 1 Template:CiteButton\n1.00% 3.120 1 Template:DoiWithLink"
+        },
+        {
+            "type": "text",
+            "text": "Saved in parser cache with key carakas1_carakasa:pcache:idhash:3449-0!canonical and timestamp 20261118091737 and revision id 44456. Rendering was triggered because: page-view"
+        },
+        {
+            "type": "text",
+            "text": "Retrieved from \""
+        },
+        {
+            "type": "text",
+            "text": "https://www.carakasamhitaonline.com/index.php?title=Ayu&oldid=44456"
+        },
+        {
+            "type": "text",
+            "text": "\""
+        }
+    ],
+    "html_sha256": "cc3ab6f03a3b515c7a9e7a309c4a85024e60d7c2803a6d6744d62f1896084249"
+}

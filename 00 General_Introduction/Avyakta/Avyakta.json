@@ -1,0 +1,2064 @@
+{
+    "source": "Charaka Samhita",
+    "chapter": "Avyakta",
+    "chapter_id": "Avyakta",
+    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta",
+    "xpath": "//*[@id=\"content\"]",
+    "extraction_date": "2026-11-19T10:58:04",
+    "total_blocks": 49,
+    "total_tables": 2,
+    "total_headings": 17,
+    "total_paragraphs": 15,
+    "content": [
+        {
+            "type": "h1",
+            "text": "Avyakta",
+            "html": "<h1 class=\"firstHeading mw-first-heading\" id=\"firstHeading\"><span class=\"mw-page-title-main\">Avyakta</span></h1>",
+            "links": [],
+            "images": [],
+            "level": 1
+        },
+        {
+            "type": "text",
+            "text": "From Charak Samhita"
+        },
+        {
+            "type": "text",
+            "text": "Jump to navigation"
+        },
+        {
+            "type": "text",
+            "text": "Jump to search"
+        },
+        {
+            "type": "figure",
+            "text": "",
+            "html": "<figure class=\"mw-default-size mw-halign-right\" typeof=\"mw:File\"><a href=\"https://www.charakasamhitauptodate.com/index.php?title=Special:CiteThisPage&amp;page=Avyakta&amp;id=44605&amp;wpFormIdentifier=titleform\" rel=\"nofollow\"><img class=\"mw-file-element\" decoding=\"async\" height=\"47\" src=\"/images/5/58/Cite.png\" width=\"180\"/></a><figcaption></figcaption></figure>",
+            "links": [
+                {
+                    "text": "",
+                    "url": "https://www.charakasamhitauptodate.com/index.php?title=Special:CiteThisPage&page=Avyakta&id=44605&wpFormIdentifier=titleform"
+                }
+            ],
+            "images": [
+                {
+                    "url": "https://www.carakasamhitaonline.com/images/5/58/Cite.png",
+                    "alt": "",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "‘Avyakta’ means unmanifested, non-manifested or is yet to be manifested. [Cha. Sa. Sharira Sthana 1/66], [Su. Sa. Sharira Sthana 1/3] It is mentioned in the ancient texts like Shiva Purana , Mahabharata , Saura purana , Shilpa shastra , Ganita shastra , and Sanskrit grammar(Vyakarana) . Avyakta is the source from which the whole universe is evolved. At the time of the creation of universe or evolution, all the elements are evolved from prakriti i. e. Avyakta. Characteristics or qualities of origin ( karana padartha ) are reflected in the creation ( karya padartha ). So, it is necessary/ to know about avyakta.",
+            "html": "<p style=\"text-align:justify;\">‘Avyakta’ means unmanifested, non-manifested or is yet to be manifested. [Cha. Sa. <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 1/66], [Su. Sa. Sharira Sthana 1/3] It is mentioned in the ancient texts like <a class=\"external text\" href=\"https://en.wikipedia.org/wiki/Shiva_Purana\" rel=\"nofollow\">Shiva Purana</a>, <a class=\"external text\" href=\"https://en.wikipedia.org/wiki/Mahabharata\" rel=\"nofollow\">Mahabharata</a>, <a class=\"external text\" href=\"https://en.wikipedia.org/wiki/Saura_Purana\" rel=\"nofollow\">Saura purana</a>, <a class=\"external text\" href=\"https://en.wikipedia.org/wiki/Shilpa_Shastras\" rel=\"nofollow\">Shilpa shastra</a>, <a class=\"external text\" href=\"https://en.wikipedia.org/wiki/Indian_mathematics\" rel=\"nofollow\">Ganita shastra</a>, and <a class=\"external text\" href=\"https://en.wikipedia.org/wiki/Vy%C4%81kara%E1%B9%87a\" rel=\"nofollow\">Sanskrit grammar(Vyakarana)</a>. \n<br/>Avyakta is the source from which the whole universe is evolved. At the time of the creation of universe or evolution, all the elements are evolved from <a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">prakriti</a> i. e. Avyakta. Characteristics or qualities of origin (<a href=\"/index.php?title=Karana\" title=\"Karana\">karana</a> <a href=\"/index.php?title=Padartha\" title=\"Padartha\">padartha</a>) are reflected in the creation (<a class=\"new\" href=\"/index.php?title=Karya&amp;action=edit&amp;redlink=1\" title=\"Karya (page does not exist)\">karya</a> <a href=\"/index.php?title=Padartha\" title=\"Padartha\">padartha</a>). So, it is necessary/ to know about avyakta. </p>",
+            "links": [
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                },
+                {
+                    "text": "Shiva Purana",
+                    "url": "https://en.wikipedia.org/wiki/Shiva_Purana"
+                },
+                {
+                    "text": "Mahabharata",
+                    "url": "https://en.wikipedia.org/wiki/Mahabharata"
+                },
+                {
+                    "text": "Saura purana",
+                    "url": "https://en.wikipedia.org/wiki/Saura_Purana"
+                },
+                {
+                    "text": "Shilpa shastra",
+                    "url": "https://en.wikipedia.org/wiki/Shilpa_Shastras"
+                },
+                {
+                    "text": "Ganita shastra",
+                    "url": "https://en.wikipedia.org/wiki/Indian_mathematics"
+                },
+                {
+                    "text": "Sanskrit grammar(Vyakarana)",
+                    "url": "https://en.wikipedia.org/wiki/Vy%C4%81kara%E1%B9%87a"
+                },
+                {
+                    "text": "prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "karana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Karana"
+                },
+                {
+                    "text": "padartha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Padartha"
+                },
+                {
+                    "text": "karya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Karya&action=edit&redlink=1"
+                },
+                {
+                    "text": "padartha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Padartha"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "Section/Chapter",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Concepts / Avyakta",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Authors",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Joshi M. R. 1 , Janbandhu P. P. 1",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Reviewer",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Basisht G. 2",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Basisht G.",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Gopal_Basisht"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Editor",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Deole Y.S. 3",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Deole Y.S.",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Yogesh_Deole"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Affiliations",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "1 Department of Sanskrit Samhita Siddhanta, Tilak Ayurved Mahavidyalaya, Pune, Maharashtra, India 2 Rheumatologist, Orlando, Florida, U.S.A. 3 Department of Kayachikitsa, G.J. Patel Institute of Ayurvedic Studies and Research, New Vallabh Vidyanagar, Anand, Gujarat, India",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Correspondence email",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "manvantar@gmail.com, carakasamhita@gmail.com",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Publisher",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Charak Samhita Research, Training and Development Centre , I.T.R.A., Jamnagar, India",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Charak Samhita Research, Training and Development Centre",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Date of first publication:",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "October 07, 2022",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "DOI",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "10.47468/CSNE.2022.e01.s09.111",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "10.47468/CSNE.2022.e01.s09.111",
+                                "url": "https://doi.org/10.47468/CSNE.2022.e01.s09.111"
+                            }
+                        ]
+                    }
+                ]
+            ],
+            "html": "<table class=\"infobox\" style=\"width:22em\"><caption>Contributors</caption><tbody><tr><th scope=\"row\">Section/Chapter</th><td>\nConcepts / <a class=\"mw-selflink selflink\">Avyakta</a></td></tr><tr><th scope=\"row\">Authors</th><td>\nJoshi M. R.<sup>1</sup>, Janbandhu P. P.<sup>1</sup></td></tr><tr><th scope=\"row\">Reviewer</th><td>\n<a href=\"/index.php?title=Gopal_Basisht\" title=\"Gopal Basisht\">Basisht G.</a><sup>2</sup></td></tr><tr><th scope=\"row\">Editor</th><td>\n<a href=\"/index.php?title=Yogesh_Deole\" title=\"Yogesh Deole\">Deole Y.S.</a><sup>3</sup></td></tr><tr><th scope=\"row\">Affiliations</th><td>\n<p><sup>1</sup>Department of Sanskrit Samhita Siddhanta, Tilak Ayurved Mahavidyalaya, Pune, Maharashtra, India\n</p><p><sup>2</sup> Rheumatologist, Orlando, Florida, U.S.A.\n</p>\n<sup>3</sup>Department of Kayachikitsa, G.J. Patel Institute of Ayurvedic Studies and Research, New Vallabh Vidyanagar, Anand, Gujarat, India</td></tr><tr><th scope=\"row\">Correspondence email</th><td>\nmanvantar@gmail.com, carakasamhita@gmail.com</td></tr><tr><th scope=\"row\">Publisher</th><td>\n<a class=\"mw-redirect\" href=\"/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre\" title=\"Charak Samhita Research, Training and Development Centre\">Charak Samhita Research, Training and Development Centre</a>, I.T.R.A., Jamnagar, India</td></tr><tr><th scope=\"row\">Date of first publication:</th><td>\nOctober 07, 2022</td></tr><tr><th scope=\"row\">DOI</th><td>\n<a class=\"external text\" href=\"https://doi.org/10.47468/CSNE.2022.e01.s09.111\" rel=\"nofollow\">10.47468/CSNE.2022.e01.s09.111</a></td></tr></tbody></table>",
+            "links": [
+                {
+                    "text": "Basisht G.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Gopal_Basisht"
+                },
+                {
+                    "text": "Deole Y.S.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Yogesh_Deole"
+                },
+                {
+                    "text": "Charak Samhita Research, Training and Development Centre",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre"
+                },
+                {
+                    "text": "10.47468/CSNE.2022.e01.s09.111",
+                    "url": "https://doi.org/10.47468/CSNE.2022.e01.s09.111"
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Contents",
+            "html": "<h2 id=\"mw-toc-heading\">Contents</h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ul",
+            "text": "1 Etymology and derivation 1.1 Synonyms 1.2 Meanings 2 Different understandings of avyakta in ancient Indian literature 3 Methods of perception of avyakta 4 Concept of Avyakta in Ayurveda 4.1 According to Acharya Sushruta 4.2 Similarities between avyakta and vyakta 4.3 Dissimilarities between avyakta and vyakta 5 Concept of Avyakta in Vedanta Darshana 6 Significance of knowledge of avyakta 7 Application of Avyakta in healthcare science 8 Application of avyakta in prevention and management of disease 9 Abbreviations 10 References",
+            "html": "<ul>\n<li class=\"toclevel-1 tocsection-1\"><a href=\"#Etymology_and_derivation\"><span class=\"tocnumber\">1</span> <span class=\"toctext\">Etymology and derivation</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-2\"><a href=\"#Synonyms\"><span class=\"tocnumber\">1.1</span> <span class=\"toctext\">Synonyms</span></a></li>\n<li class=\"toclevel-2 tocsection-3\"><a href=\"#Meanings\"><span class=\"tocnumber\">1.2</span> <span class=\"toctext\">Meanings</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-4\"><a href=\"#Different_understandings_of_avyakta_in_ancient_Indian_literature\"><span class=\"tocnumber\">2</span> <span class=\"toctext\">Different understandings of avyakta in ancient Indian literature</span></a></li>\n<li class=\"toclevel-1 tocsection-5\"><a href=\"#Methods_of_perception_of_avyakta\"><span class=\"tocnumber\">3</span> <span class=\"toctext\">Methods of perception of avyakta</span></a></li>\n<li class=\"toclevel-1 tocsection-6\"><a href=\"#Concept_of_Avyakta_in_Ayurveda\"><span class=\"tocnumber\">4</span> <span class=\"toctext\">Concept of Avyakta in Ayurveda</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-7\"><a href=\"#According_to_Acharya_Sushruta\"><span class=\"tocnumber\">4.1</span> <span class=\"toctext\">According to Acharya Sushruta</span></a></li>\n<li class=\"toclevel-2 tocsection-8\"><a href=\"#Similarities_between_avyakta_and_vyakta\"><span class=\"tocnumber\">4.2</span> <span class=\"toctext\">Similarities between avyakta and vyakta</span></a></li>\n<li class=\"toclevel-2 tocsection-9\"><a href=\"#Dissimilarities_between_avyakta_and_vyakta\"><span class=\"tocnumber\">4.3</span> <span class=\"toctext\">Dissimilarities between avyakta and vyakta</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-10\"><a href=\"#Concept_of_Avyakta_in_Vedanta_Darshana\"><span class=\"tocnumber\">5</span> <span class=\"toctext\">Concept of Avyakta in Vedanta Darshana</span></a></li>\n<li class=\"toclevel-1 tocsection-11\"><a href=\"#Significance_of_knowledge_of_avyakta\"><span class=\"tocnumber\">6</span> <span class=\"toctext\">Significance of knowledge of avyakta</span></a></li>\n<li class=\"toclevel-1 tocsection-12\"><a href=\"#Application_of_Avyakta_in_healthcare_science\"><span class=\"tocnumber\">7</span> <span class=\"toctext\">Application of Avyakta in healthcare science</span></a></li>\n<li class=\"toclevel-1 tocsection-13\"><a href=\"#Application_of_avyakta_in_prevention_and_management_of_disease\"><span class=\"tocnumber\">8</span> <span class=\"toctext\">Application of avyakta in prevention and management of disease</span></a></li>\n<li class=\"toclevel-1 tocsection-14\"><a href=\"#Abbreviations\"><span class=\"tocnumber\">9</span> <span class=\"toctext\">Abbreviations</span></a></li>\n<li class=\"toclevel-1 tocsection-15\"><a href=\"#References\"><span class=\"tocnumber\">10</span> <span class=\"toctext\">References</span></a></li>\n</ul>",
+            "links": [
+                {
+                    "text": "1 Etymology and derivation",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#Etymology_and_derivation"
+                },
+                {
+                    "text": "1.1 Synonyms",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#Synonyms"
+                },
+                {
+                    "text": "1.2 Meanings",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#Meanings"
+                },
+                {
+                    "text": "2 Different understandings of avyakta in ancient Indian literature",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#Different_understandings_of_avyakta_in_ancient_Indian_literature"
+                },
+                {
+                    "text": "3 Methods of perception of avyakta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#Methods_of_perception_of_avyakta"
+                },
+                {
+                    "text": "4 Concept of Avyakta in Ayurveda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#Concept_of_Avyakta_in_Ayurveda"
+                },
+                {
+                    "text": "4.1 According to Acharya Sushruta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#According_to_Acharya_Sushruta"
+                },
+                {
+                    "text": "4.2 Similarities between avyakta and vyakta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#Similarities_between_avyakta_and_vyakta"
+                },
+                {
+                    "text": "4.3 Dissimilarities between avyakta and vyakta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#Dissimilarities_between_avyakta_and_vyakta"
+                },
+                {
+                    "text": "5 Concept of Avyakta in Vedanta Darshana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#Concept_of_Avyakta_in_Vedanta_Darshana"
+                },
+                {
+                    "text": "6 Significance of knowledge of avyakta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#Significance_of_knowledge_of_avyakta"
+                },
+                {
+                    "text": "7 Application of Avyakta in healthcare science",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#Application_of_Avyakta_in_healthcare_science"
+                },
+                {
+                    "text": "8 Application of avyakta in prevention and management of disease",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#Application_of_avyakta_in_prevention_and_management_of_disease"
+                },
+                {
+                    "text": "9 Abbreviations",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#Abbreviations"
+                },
+                {
+                    "text": "10 References",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#References"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "1 Etymology and derivation 1.1 Synonyms 1.2 Meanings",
+                    "links": [
+                        {
+                            "text": "1 Etymology and derivation",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#Etymology_and_derivation"
+                        },
+                        {
+                            "text": "1.1 Synonyms",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#Synonyms"
+                        },
+                        {
+                            "text": "1.2 Meanings",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#Meanings"
+                        }
+                    ]
+                },
+                {
+                    "text": "2 Different understandings of avyakta in ancient Indian literature",
+                    "links": [
+                        {
+                            "text": "2 Different understandings of avyakta in ancient Indian literature",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#Different_understandings_of_avyakta_in_ancient_Indian_literature"
+                        }
+                    ]
+                },
+                {
+                    "text": "3 Methods of perception of avyakta",
+                    "links": [
+                        {
+                            "text": "3 Methods of perception of avyakta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#Methods_of_perception_of_avyakta"
+                        }
+                    ]
+                },
+                {
+                    "text": "4 Concept of Avyakta in Ayurveda 4.1 According to Acharya Sushruta 4.2 Similarities between avyakta and vyakta 4.3 Dissimilarities between avyakta and vyakta",
+                    "links": [
+                        {
+                            "text": "4 Concept of Avyakta in Ayurveda",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#Concept_of_Avyakta_in_Ayurveda"
+                        },
+                        {
+                            "text": "4.1 According to Acharya Sushruta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#According_to_Acharya_Sushruta"
+                        },
+                        {
+                            "text": "4.2 Similarities between avyakta and vyakta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#Similarities_between_avyakta_and_vyakta"
+                        },
+                        {
+                            "text": "4.3 Dissimilarities between avyakta and vyakta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#Dissimilarities_between_avyakta_and_vyakta"
+                        }
+                    ]
+                },
+                {
+                    "text": "5 Concept of Avyakta in Vedanta Darshana",
+                    "links": [
+                        {
+                            "text": "5 Concept of Avyakta in Vedanta Darshana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#Concept_of_Avyakta_in_Vedanta_Darshana"
+                        }
+                    ]
+                },
+                {
+                    "text": "6 Significance of knowledge of avyakta",
+                    "links": [
+                        {
+                            "text": "6 Significance of knowledge of avyakta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#Significance_of_knowledge_of_avyakta"
+                        }
+                    ]
+                },
+                {
+                    "text": "7 Application of Avyakta in healthcare science",
+                    "links": [
+                        {
+                            "text": "7 Application of Avyakta in healthcare science",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#Application_of_Avyakta_in_healthcare_science"
+                        }
+                    ]
+                },
+                {
+                    "text": "8 Application of avyakta in prevention and management of disease",
+                    "links": [
+                        {
+                            "text": "8 Application of avyakta in prevention and management of disease",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#Application_of_avyakta_in_prevention_and_management_of_disease"
+                        }
+                    ]
+                },
+                {
+                    "text": "9 Abbreviations",
+                    "links": [
+                        {
+                            "text": "9 Abbreviations",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#Abbreviations"
+                        }
+                    ]
+                },
+                {
+                    "text": "10 References",
+                    "links": [
+                        {
+                            "text": "10 References",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#References"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Etymology and derivation",
+            "html": "<h2><span class=\"mw-headline\" id=\"Etymology_and_derivation\">Etymology and derivation</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "The word ‘Avyakta’ is derived from ‘Vi + Anja’ root word with a suffix ‘kta’ meaning sphute(clear), prakashite(manifested). [ 1 ] As the prefix “A” is added, the meaning of Avyakta is unclear or unmanifested. In Ayurveda , avyakta is said to be the progenitor of all created things. It is self-generated and connotes the three fundamentals or primary virtues of sattva , rajas , and tamas . Avyakta is the most important factor in eight fundamental prakriti . These includes avyakta, mahat , ahamkara and pancha tanmatra . Avyakta is the sole and primary factor in the evolution of the universe. [ 2 ]",
+            "html": "<p>The word ‘Avyakta’ is derived from ‘Vi + Anja’ root word with a suffix ‘kta’ meaning sphute(clear), prakashite(manifested).<sup class=\"reference\" id=\"cite_ref-1\"><a href=\"#cite_note-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup>As the prefix “A” is added, the meaning of Avyakta is unclear or unmanifested. In <a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a>, avyakta is said to be the progenitor of all created things. It is self-generated and connotes the three fundamentals or primary virtues of <a href=\"/index.php?title=Sattva\" title=\"Sattva\">sattva</a>, <a href=\"/index.php?title=Rajas\" title=\"Rajas\">rajas</a>, and <a href=\"/index.php?title=Tamas\" title=\"Tamas\">tamas</a>. Avyakta is the most important factor in eight fundamental <a href=\"/index.php?title=Prakriti\" title=\"Prakriti\"> prakriti</a>. These includes avyakta, <a href=\"/index.php?title=Mahat\" title=\"Mahat\">mahat</a>, <a class=\"new\" href=\"/index.php?title=Ahamkara&amp;action=edit&amp;redlink=1\" title=\"Ahamkara (page does not exist)\">ahamkara</a> and pancha <a href=\"/index.php?title=Tanmatra\" title=\"Tanmatra\">tanmatra</a>. Avyakta is the sole and primary factor in the evolution of the universe. <sup class=\"reference\" id=\"cite_ref-2\"><a href=\"#cite_note-2\"><span class=\"cite-bracket\">[</span>2<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "[ 1 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_note-1"
+                },
+                {
+                    "text": "Ayurveda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayurveda"
+                },
+                {
+                    "text": "sattva",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sattva"
+                },
+                {
+                    "text": "rajas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rajas"
+                },
+                {
+                    "text": "tamas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tamas"
+                },
+                {
+                    "text": "prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "mahat",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahat"
+                },
+                {
+                    "text": "ahamkara",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ahamkara&action=edit&redlink=1"
+                },
+                {
+                    "text": "tanmatra",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra"
+                },
+                {
+                    "text": "[ 2 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_note-2"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Synonyms",
+            "html": "<h3><span class=\"mw-headline\" id=\"Synonyms\">Synonyms</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Atma (soul) [Cha. Sa. Sharira Sthana 1/61] [ 3 ] ,kshetradnya (conscious principle in the corporeal frame), shashwat (eternal), vibhu (omnipresent), avyaya [ 4 ] mula- Prakriti (primary germ of nature) [Chakrapani on Cha. Sa. Sharira Sthana 1/61] [Dalhan on Su. Sa. Sharira Sthana 1/3] [ 5 ]",
+            "html": "<p><a href=\"/index.php?title=Atma\" title=\"Atma\">Atma</a> (soul) [Cha. Sa. <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 1/61]<sup class=\"reference\" id=\"cite_ref-3\"><a href=\"#cite_note-3\"><span class=\"cite-bracket\">[</span>3<span class=\"cite-bracket\">]</span></a></sup>,kshetradnya (conscious principle in the corporeal frame), shashwat (eternal), <a href=\"/index.php?title=Vibhu\" title=\"Vibhu\">vibhu</a> (omnipresent), avyaya<sup class=\"reference\" id=\"cite_ref-4\"><a href=\"#cite_note-4\"><span class=\"cite-bracket\">[</span>4<span class=\"cite-bracket\">]</span></a></sup> mula-<a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">Prakriti</a> (primary germ of nature) [Chakrapani on Cha. Sa. <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 1/61] [Dalhan on Su. Sa. Sharira Sthana 1/3]<sup class=\"reference\" id=\"cite_ref-5\"><a href=\"#cite_note-5\"><span class=\"cite-bracket\">[</span>5<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "Atma",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Atma"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                },
+                {
+                    "text": "[ 3 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_note-3"
+                },
+                {
+                    "text": "vibhu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vibhu"
+                },
+                {
+                    "text": "[ 4 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_note-4"
+                },
+                {
+                    "text": "Prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                },
+                {
+                    "text": "[ 5 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_note-5"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Meanings",
+            "html": "<h3><span class=\"mw-headline\" id=\"Meanings\">Meanings</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Unevolved, not yet full-grown, inarticulate, subtle nature, primordial element or productive principle when all the phenomena of the material world are developed, the primary origin of nature [Monnier-Williams dictionary]",
+            "html": "<p>Unevolved, not yet full-grown, inarticulate, subtle nature, primordial element or productive principle when all the phenomena of the material world are developed, the primary origin of nature [Monnier-Williams dictionary]\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Different understandings of avyakta in ancient Indian literature",
+            "html": "<h2><span class=\"mw-headline\" id=\"Different_understandings_of_avyakta_in_ancient_Indian_literature\">Different understandings of avyakta in ancient Indian literature</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ol",
+            "text": "Shiva Purana : Avyakta refers to one who assumes the “unmanifest” form and represents and epithet of Goddess Durga. [ 6 ] Mahabharata : Avyakta represents one of the many proper names used for people and places. In Bhagavad-gita, beyond the perception of the senses is called as ‘Avyakta’. [ 7 ] Saura purana : Avyakta refers to the seventh covering of the universe. [ 8 ] Shilpa shastra : Avyakta refers to “images in non-manifest form” and represents a classification of Hindu images. [ 9 ] Ganita shastra : Avyakta refers to the science of calculation by the ‘unknown’. [ 10 ] Sanskrit grammar(Vyakarana) [ 11 ] : Avyakta means indistinct, inarticulate. A fault of pronunciation, a scientific rule to consider the word silent. These are the meanings of Avyakta given in Sanskrit grammar. However, it is related to the pronunciation rules or grammatical rules and not to the concept that is described in this article. It is also observed as name of Lord Shiva, Devi. [ 12 ]",
+            "html": "<ol type=\"i\">\n<li><b><a class=\"external text\" href=\"https://en.wikipedia.org/wiki/Shiva_Purana\" rel=\"nofollow\">Shiva Purana</a>:</b> Avyakta refers to one who assumes the “unmanifest” form and represents and epithet of Goddess Durga.<sup class=\"reference\" id=\"cite_ref-6\"><a href=\"#cite_note-6\"><span class=\"cite-bracket\">[</span>6<span class=\"cite-bracket\">]</span></a></sup> </li>\n<li><b><a class=\"external text\" href=\"https://en.wikipedia.org/wiki/Mahabharata\" rel=\"nofollow\">Mahabharata</a>:</b> Avyakta represents one of the many proper names used for people and places. In Bhagavad-gita, beyond the perception of the senses is called as ‘Avyakta’.<sup class=\"reference\" id=\"cite_ref-7\"><a href=\"#cite_note-7\"><span class=\"cite-bracket\">[</span>7<span class=\"cite-bracket\">]</span></a></sup> </li>\n<li><b><a class=\"external text\" href=\"https://en.wikipedia.org/wiki/Saura_Purana\" rel=\"nofollow\">Saura purana</a>:</b>  Avyakta refers to the seventh covering of the universe.<sup class=\"reference\" id=\"cite_ref-8\"><a href=\"#cite_note-8\"><span class=\"cite-bracket\">[</span>8<span class=\"cite-bracket\">]</span></a></sup> </li>\n<li><b><a class=\"external text\" href=\"https://en.wikipedia.org/wiki/Shilpa_Shastras\" rel=\"nofollow\">Shilpa shastra</a>:</b> Avyakta refers to “images in non-manifest form” and represents a classification of Hindu images.<sup class=\"reference\" id=\"cite_ref-9\"><a href=\"#cite_note-9\"><span class=\"cite-bracket\">[</span>9<span class=\"cite-bracket\">]</span></a></sup> </li>\n<li><b><a class=\"external text\" href=\"https://en.wikipedia.org/wiki/Indian_mathematics\" rel=\"nofollow\">Ganita shastra</a>:</b> Avyakta refers to the science of calculation by the ‘unknown’.<sup class=\"reference\" id=\"cite_ref-10\"><a href=\"#cite_note-10\"><span class=\"cite-bracket\">[</span>10<span class=\"cite-bracket\">]</span></a></sup> </li>\n<li><b><a class=\"external text\" href=\"https://en.wikipedia.org/wiki/Vy%C4%81kara%E1%B9%87a\" rel=\"nofollow\">Sanskrit grammar(Vyakarana)</a><sup class=\"reference\" id=\"cite_ref-11\"><a href=\"#cite_note-11\"><span class=\"cite-bracket\">[</span>11<span class=\"cite-bracket\">]</span></a></sup> :</b> Avyakta means indistinct, inarticulate. A fault of pronunciation, a scientific rule to consider the word silent.  These are the meanings of Avyakta given in Sanskrit grammar. However, it is related to the pronunciation rules or grammatical rules and not to the concept that is described in this article. </li>\n<li>It is also observed as name of Lord Shiva, Devi.<sup class=\"reference\" id=\"cite_ref-12\"><a href=\"#cite_note-12\"><span class=\"cite-bracket\">[</span>12<span class=\"cite-bracket\">]</span></a></sup> </li>\n</ol>",
+            "links": [
+                {
+                    "text": "Shiva Purana",
+                    "url": "https://en.wikipedia.org/wiki/Shiva_Purana"
+                },
+                {
+                    "text": "[ 6 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_note-6"
+                },
+                {
+                    "text": "Mahabharata",
+                    "url": "https://en.wikipedia.org/wiki/Mahabharata"
+                },
+                {
+                    "text": "[ 7 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_note-7"
+                },
+                {
+                    "text": "Saura purana",
+                    "url": "https://en.wikipedia.org/wiki/Saura_Purana"
+                },
+                {
+                    "text": "[ 8 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_note-8"
+                },
+                {
+                    "text": "Shilpa shastra",
+                    "url": "https://en.wikipedia.org/wiki/Shilpa_Shastras"
+                },
+                {
+                    "text": "[ 9 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_note-9"
+                },
+                {
+                    "text": "Ganita shastra",
+                    "url": "https://en.wikipedia.org/wiki/Indian_mathematics"
+                },
+                {
+                    "text": "[ 10 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_note-10"
+                },
+                {
+                    "text": "Sanskrit grammar(Vyakarana)",
+                    "url": "https://en.wikipedia.org/wiki/Vy%C4%81kara%E1%B9%87a"
+                },
+                {
+                    "text": "[ 11 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_note-11"
+                },
+                {
+                    "text": "[ 12 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_note-12"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Shiva Purana : Avyakta refers to one who assumes the “unmanifest” form and represents and epithet of Goddess Durga. [ 6 ]",
+                    "links": [
+                        {
+                            "text": "Shiva Purana",
+                            "url": "https://en.wikipedia.org/wiki/Shiva_Purana"
+                        },
+                        {
+                            "text": "[ 6 ]",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_note-6"
+                        }
+                    ]
+                },
+                {
+                    "text": "Mahabharata : Avyakta represents one of the many proper names used for people and places. In Bhagavad-gita, beyond the perception of the senses is called as ‘Avyakta’. [ 7 ]",
+                    "links": [
+                        {
+                            "text": "Mahabharata",
+                            "url": "https://en.wikipedia.org/wiki/Mahabharata"
+                        },
+                        {
+                            "text": "[ 7 ]",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_note-7"
+                        }
+                    ]
+                },
+                {
+                    "text": "Saura purana : Avyakta refers to the seventh covering of the universe. [ 8 ]",
+                    "links": [
+                        {
+                            "text": "Saura purana",
+                            "url": "https://en.wikipedia.org/wiki/Saura_Purana"
+                        },
+                        {
+                            "text": "[ 8 ]",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_note-8"
+                        }
+                    ]
+                },
+                {
+                    "text": "Shilpa shastra : Avyakta refers to “images in non-manifest form” and represents a classification of Hindu images. [ 9 ]",
+                    "links": [
+                        {
+                            "text": "Shilpa shastra",
+                            "url": "https://en.wikipedia.org/wiki/Shilpa_Shastras"
+                        },
+                        {
+                            "text": "[ 9 ]",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_note-9"
+                        }
+                    ]
+                },
+                {
+                    "text": "Ganita shastra : Avyakta refers to the science of calculation by the ‘unknown’. [ 10 ]",
+                    "links": [
+                        {
+                            "text": "Ganita shastra",
+                            "url": "https://en.wikipedia.org/wiki/Indian_mathematics"
+                        },
+                        {
+                            "text": "[ 10 ]",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_note-10"
+                        }
+                    ]
+                },
+                {
+                    "text": "Sanskrit grammar(Vyakarana) [ 11 ] : Avyakta means indistinct, inarticulate. A fault of pronunciation, a scientific rule to consider the word silent. These are the meanings of Avyakta given in Sanskrit grammar. However, it is related to the pronunciation rules or grammatical rules and not to the concept that is described in this article.",
+                    "links": [
+                        {
+                            "text": "Sanskrit grammar(Vyakarana)",
+                            "url": "https://en.wikipedia.org/wiki/Vy%C4%81kara%E1%B9%87a"
+                        },
+                        {
+                            "text": "[ 11 ]",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_note-11"
+                        }
+                    ]
+                },
+                {
+                    "text": "It is also observed as name of Lord Shiva, Devi. [ 12 ]",
+                    "links": [
+                        {
+                            "text": "[ 12 ]",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_note-12"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Methods of perception of avyakta",
+            "html": "<h2><span class=\"mw-headline\" id=\"Methods_of_perception_of_avyakta\">Methods of perception of avyakta</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "The knowledge of manifested objects is perceived by our sense organs ( indriya ). Ayurveda explains the process of perception of knowledge by connection (sannikarsha) of soul ( atma ), senses ( indriya ), mind ( mana ) and object of knowledge (vishaya-artha) i.e. direct perception (laukika pratyaksha). [ 13 ] On the other hand, ‘avyakta’ is perceived by transcendental signs (yogic pratyaksha). Avyakta is predominantly perceived by indirect methods ( pramana ) like anumana pramana and yukti pramana .",
+            "html": "<p>The knowledge of manifested objects is perceived by our sense organs (<a href=\"/index.php?title=Indriya\" title=\"Indriya\">indriya</a>). <a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a> explains the process of perception of knowledge by connection (sannikarsha) of soul (<a href=\"/index.php?title=Atma\" title=\"Atma\">atma</a>), senses (<a href=\"/index.php?title=Indriya\" title=\"Indriya\">indriya</a>), mind (<a href=\"/index.php?title=Manas\" title=\"Manas\">mana</a>) and object of knowledge (vishaya-artha) i.e. direct perception (laukika pratyaksha).<sup class=\"reference\" id=\"cite_ref-13\"><a href=\"#cite_note-13\"><span class=\"cite-bracket\">[</span>13<span class=\"cite-bracket\">]</span></a></sup> On the other hand, ‘avyakta’ is perceived by transcendental signs (yogic pratyaksha). Avyakta is predominantly perceived by indirect methods (<a href=\"/index.php?title=Pramana\" title=\"Pramana\">pramana</a>) like <a href=\"/index.php?title=Anumana_pramana\" title=\"Anumana pramana\">anumana pramana</a> and <a href=\"/index.php?title=Yukti_pramana\" title=\"Yukti pramana\">yukti pramana</a>.\n</p>",
+            "links": [
+                {
+                    "text": "indriya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya"
+                },
+                {
+                    "text": "Ayurveda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayurveda"
+                },
+                {
+                    "text": "atma",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Atma"
+                },
+                {
+                    "text": "indriya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya"
+                },
+                {
+                    "text": "mana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Manas"
+                },
+                {
+                    "text": "[ 13 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_note-13"
+                },
+                {
+                    "text": "pramana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pramana"
+                },
+                {
+                    "text": "anumana pramana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Anumana_pramana"
+                },
+                {
+                    "text": "yukti pramana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Yukti_pramana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Concept of Avyakta in Ayurveda",
+            "html": "<h2><span class=\"mw-headline\" id=\"Concept_of_Avyakta_in_Ayurveda\">Concept of Avyakta in <a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a></span></h2>",
+            "links": [
+                {
+                    "text": "Ayurveda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayurveda"
+                }
+            ],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "In the process of creation of universe, the buddhi (intellect) tattva manifests from avyakta. From buddhi or mahat tattva, ahamkara proceeds and from ahamkara five mahabhutas manifest. The atma , thus manifests in its entirety is regarded as born. [Cha. Sa. Sharira Sthana 1/66-67] The description of srushti utpatti krama in ayurveda is different from Sankhya darshana. As per Sankhya darshana, prakriti associated with the purusha is the cause for creation, but in Ayurveda particularly in Charaka’s view, atma which contains triguna (avyakta) is the cause for creation. [Cha. Sa. Sharira Sthana 4/8] Six elements (dhatus) by adding chetana to the five elements namely earth (prithvi) , water (aap) , fire (teja) , air (vayu) and space (akasha) are described for creation. Chetana is identified with purusha and avyakta part of prakriti treated as one category known as 'paramatman'. It is when purusha or chetana is connected with the body of senses and mind that consciousness can come to the self; consciousness is a phenomenon of the soul - mind - body complex. [ 14 ]",
+            "html": "<p>In the process of creation of universe, the <a href=\"/index.php?title=Buddhi\" title=\"Buddhi\">buddhi</a> (intellect) tattva manifests from avyakta. From <a href=\"/index.php?title=Buddhi\" title=\"Buddhi\">buddhi</a> or <a href=\"/index.php?title=Mahat\" title=\"Mahat\">mahat</a> tattva, <a class=\"new\" href=\"/index.php?title=Ahamkara&amp;action=edit&amp;redlink=1\" title=\"Ahamkara (page does not exist)\">ahamkara</a> proceeds and from <a class=\"new\" href=\"/index.php?title=Ahamkara&amp;action=edit&amp;redlink=1\" title=\"Ahamkara (page does not exist)\">ahamkara</a> <a href=\"/index.php?title=Pancha_mahabhuta\" title=\"Pancha mahabhuta\">five mahabhutas</a> manifest. The <a href=\"/index.php?title=Atma\" title=\"Atma\">atma</a>, thus manifests in its entirety is regarded as born. [Cha. Sa. <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 1/66-67] \n<br/><br/>\nThe description of srushti utpatti krama in <a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">ayurveda</a> is different from Sankhya darshana. As per Sankhya darshana, <a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">prakriti</a> associated with the <a href=\"/index.php?title=Purusha\" title=\"Purusha\">purusha</a> is the cause for creation, but in <a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a> particularly in Charaka’s view, <a href=\"/index.php?title=Atma\" title=\"Atma\">atma</a> which contains <a href=\"/index.php?title=Triguna\" title=\"Triguna\">triguna</a> (avyakta) is the cause for creation.  [Cha. Sa. <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 4/8]\n<br/><br/>\nSix elements <a href=\"/index.php?title=Dhatu\" title=\"Dhatu\">(dhatus)</a> by adding <a href=\"/index.php?title=Chetana\" title=\"Chetana\">chetana</a> to the five elements namely earth <a href=\"/index.php?title=Prithvi_mahabhuta\" title=\"Prithvi mahabhuta\">(prithvi)</a>, water <a href=\"/index.php?title=Jala_mahabhuta\" title=\"Jala mahabhuta\">(aap)</a>, fire <a href=\"/index.php?title=Agni_mahabhuta\" title=\"Agni mahabhuta\">(teja)</a>, air <a href=\"/index.php?title=Vayu_mahabhuta\" title=\"Vayu mahabhuta\">(vayu)</a> and space <a href=\"/index.php?title=Akasha_mahabhuta\" title=\"Akasha mahabhuta\">(akasha)</a> are described for creation. <a href=\"/index.php?title=Chetana\" title=\"Chetana\">Chetana</a> is identified with <a href=\"/index.php?title=Purusha\" title=\"Purusha\">purusha</a> and avyakta part of <a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">prakriti</a> treated as one category known as 'paramatman'. It is when <a href=\"/index.php?title=Purusha\" title=\"Purusha\">purusha</a> or <a href=\"/index.php?title=Chetana\" title=\"Chetana\">chetana</a> is connected with the body of senses and <a href=\"/index.php?title=Manas\" title=\"Manas\">mind</a> that <a class=\"mw-redirect\" href=\"/index.php?title=Consciousness\" title=\"Consciousness\">consciousness</a> can come to the self; consciousness is a phenomenon of the <a href=\"/index.php?title=Atma\" title=\"Atma\">soul</a>-<a href=\"/index.php?title=Manas\" title=\"Manas\">mind</a>-<a href=\"/index.php?title=Sharira\" title=\"Sharira\"> body</a> complex.<sup class=\"reference\" id=\"cite_ref-multiple_14-0\"><a href=\"#cite_note-multiple-14\"><span class=\"cite-bracket\">[</span>14<span class=\"cite-bracket\">]</span></a></sup>\n<br/><br/>\n</p>",
+            "links": [
+                {
+                    "text": "buddhi",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi"
+                },
+                {
+                    "text": "buddhi",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi"
+                },
+                {
+                    "text": "mahat",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahat"
+                },
+                {
+                    "text": "ahamkara",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ahamkara&action=edit&redlink=1"
+                },
+                {
+                    "text": "ahamkara",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ahamkara&action=edit&redlink=1"
+                },
+                {
+                    "text": "five mahabhutas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pancha_mahabhuta"
+                },
+                {
+                    "text": "atma",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Atma"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                },
+                {
+                    "text": "ayurveda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayurveda"
+                },
+                {
+                    "text": "prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "purusha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha"
+                },
+                {
+                    "text": "Ayurveda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayurveda"
+                },
+                {
+                    "text": "atma",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Atma"
+                },
+                {
+                    "text": "triguna",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Triguna"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                },
+                {
+                    "text": "(dhatus)",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dhatu"
+                },
+                {
+                    "text": "chetana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chetana"
+                },
+                {
+                    "text": "(prithvi)",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta"
+                },
+                {
+                    "text": "(aap)",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Jala_mahabhuta"
+                },
+                {
+                    "text": "(teja)",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta"
+                },
+                {
+                    "text": "(vayu)",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta"
+                },
+                {
+                    "text": "(akasha)",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta"
+                },
+                {
+                    "text": "Chetana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chetana"
+                },
+                {
+                    "text": "purusha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha"
+                },
+                {
+                    "text": "prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "purusha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha"
+                },
+                {
+                    "text": "chetana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chetana"
+                },
+                {
+                    "text": "mind",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Manas"
+                },
+                {
+                    "text": "consciousness",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Consciousness"
+                },
+                {
+                    "text": "soul",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Atma"
+                },
+                {
+                    "text": "mind",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Manas"
+                },
+                {
+                    "text": "body",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira"
+                },
+                {
+                    "text": "[ 14 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_note-multiple-14"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "According to Acharya Sushruta",
+            "html": "<h3><span class=\"mw-headline\" id=\"According_to_Acharya_Sushruta\">According to Acharya Sushruta</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "Avyakta is fundamental cause for evolution. Evolution and all other tattvas were born out of Avyakta tattva. Thus avyakta is the causative factor for the creation of all sentient beings. Sattva , rajas and tamas are its attributes. As it contains mahat and other tattvas in it. It is in the form of ashta-roopa. As the sea is receptacle for various, innumerable, aquatic animals, avyakta is receptacle for innumerable kshetradnya. [Su. Sa. Sharira Sthana 1/3] In Sushruta Samhita, evolutionary process is stated to be set in motion by consciousness. Mahan is generated from avyakta or mula- prakriti (embodied existence). From that mahat , ahamkara (ego) is produced having the same qualities. From ahamkara , the twenty-four elements are produced that are achetana (unconscious) in nature and the twenty fifth element is the jiva ( purusha or soul ). [ 14 ] In the opinion of Dallhana (commentator of Sushruta Samhita), the srushti is evolved from ashta prakriti which are avyakta. Gayi (commentator of Sushruta Samhita), elaborates the same in different way that avyakta is cause of the origin of entire universe. He also explains that relationship between ashta prakriti and avyakta is indistinct and that of tridanda to sattva , atma , sharira is distinct. Existence of each element of tridanda ( sattva , atma , sharira ) is different from each other. Ashta prakriti originates from avyakta. [Dalhan on Su. Sa. Sharira Sthana 1/3] Ayurveda follows Sankhya school of thought regarding evolution. With the above statement of Sushruta, it is understood that two basic components i. e. prakriti and purusha are the cause for evolution. In the above two tattvas, purusha is aparinami (non-transformable) or nirvikara and prakriti is transformable. Later on, transformation took place in prakriti and due to that mahat and other tattvas which are transformative forms of prakriti are manifested. The primordial nature which is called as prakriti is avyakta, the mahat and other tattvas which are manifested from prakriti are vyakta tattva. According to Sankhya school of thought, the primordial nature or mula prakriti or avyakta is the foremost tattva. It is the cause for the creation of other tattvas and consequently the entire universe. In this context, Sankhya accepted twenty-five tattvas. [ 15 ]",
+            "html": "<p>Avyakta is fundamental cause for evolution. Evolution and all other tattvas were born out of Avyakta tattva.\n<br/><br/>\nThus avyakta is the causative factor for the creation of all sentient beings. <a href=\"/index.php?title=Sattva\" title=\"Sattva\">Sattva</a>, <a href=\"/index.php?title=Rajas\" title=\"Rajas\">rajas</a> and <a href=\"/index.php?title=Tamas\" title=\"Tamas\">tamas</a> are its attributes. As it contains <a href=\"/index.php?title=Mahat\" title=\"Mahat\">mahat</a> and other tattvas in it. It is in the form of ashta-roopa. As the sea is receptacle for various, innumerable, aquatic animals, avyakta is receptacle for innumerable kshetradnya. [Su. Sa. Sharira Sthana 1/3]\n<br/><br/>\nIn Sushruta Samhita, evolutionary process is stated to be set in motion by consciousness. Mahan is generated from avyakta or mula-<a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">prakriti</a> (embodied existence). From that <a href=\"/index.php?title=Mahat\" title=\"Mahat\">mahat</a>, <a class=\"new\" href=\"/index.php?title=Ahamkara&amp;action=edit&amp;redlink=1\" title=\"Ahamkara (page does not exist)\">ahamkara</a> (ego) is produced having the same qualities. From <a class=\"new\" href=\"/index.php?title=Ahamkara&amp;action=edit&amp;redlink=1\" title=\"Ahamkara (page does not exist)\">ahamkara</a>, the twenty-four elements are produced that are achetana (unconscious) in nature and the twenty fifth element is the jiva (<a href=\"/index.php?title=Purusha\" title=\"Purusha\">purusha</a> or <a href=\"/index.php?title=Atma\" title=\"Atma\">soul</a>).<sup class=\"reference\" id=\"cite_ref-multiple_14-1\"><a href=\"#cite_note-multiple-14\"><span class=\"cite-bracket\">[</span>14<span class=\"cite-bracket\">]</span></a></sup>\n<br/><br/>\nIn the opinion of Dallhana (commentator of Sushruta Samhita), the srushti is evolved from ashta <a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">prakriti</a> which are avyakta. Gayi (commentator of Sushruta Samhita), elaborates the same in different way that avyakta is cause of the origin of entire universe. He also explains that relationship between ashta <a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">prakriti</a> and avyakta is indistinct and that of tridanda to <a href=\"/index.php?title=Sattva\" title=\"Sattva\">sattva</a>, <a href=\"/index.php?title=Atma\" title=\"Atma\">atma</a>, <a href=\"/index.php?title=Sharira\" title=\"Sharira\">sharira</a> is distinct. Existence of each element of tridanda (<a href=\"/index.php?title=Sattva\" title=\"Sattva\">sattva</a>, <a href=\"/index.php?title=Atma\" title=\"Atma\">atma</a>, <a href=\"/index.php?title=Sharira\" title=\"Sharira\">sharira</a>) is different from each other. Ashta <a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">prakriti</a> originates from avyakta.  [Dalhan on Su. Sa. Sharira Sthana 1/3]\n<br/><br/>\n<a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a> follows Sankhya school of thought regarding evolution. With the above statement of Sushruta, it is understood that two basic components i. e. <a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">prakriti</a> and <a href=\"/index.php?title=Purusha\" title=\"Purusha\">purusha</a> are the cause for evolution. In the above two tattvas, <a href=\"/index.php?title=Purusha\" title=\"Purusha\">purusha</a> is aparinami (non-transformable) or nirvikara and <a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">prakriti</a> is transformable. Later on, transformation took place in <a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">prakriti</a> and due to that mahat and other tattvas which are transformative forms of <a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">prakriti</a> are manifested. \n<br/><br/>\nThe primordial nature which is called as <a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">prakriti</a> is avyakta, the <a href=\"/index.php?title=Mahat\" title=\"Mahat\">mahat</a> and other tattvas which are manifested from <a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">prakriti</a> are vyakta tattva. According to Sankhya school of thought, the primordial nature or mula <a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">prakriti</a> or avyakta is the foremost tattva. It is the cause for the creation of other tattvas and consequently the entire universe. In this context, Sankhya accepted twenty-five tattvas.<sup class=\"reference\" id=\"cite_ref-15\"><a href=\"#cite_note-15\"><span class=\"cite-bracket\">[</span>15<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "Sattva",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sattva"
+                },
+                {
+                    "text": "rajas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rajas"
+                },
+                {
+                    "text": "tamas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tamas"
+                },
+                {
+                    "text": "mahat",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahat"
+                },
+                {
+                    "text": "prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "mahat",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahat"
+                },
+                {
+                    "text": "ahamkara",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ahamkara&action=edit&redlink=1"
+                },
+                {
+                    "text": "ahamkara",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ahamkara&action=edit&redlink=1"
+                },
+                {
+                    "text": "purusha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha"
+                },
+                {
+                    "text": "soul",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Atma"
+                },
+                {
+                    "text": "[ 14 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_note-multiple-14"
+                },
+                {
+                    "text": "prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "sattva",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sattva"
+                },
+                {
+                    "text": "atma",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Atma"
+                },
+                {
+                    "text": "sharira",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira"
+                },
+                {
+                    "text": "sattva",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sattva"
+                },
+                {
+                    "text": "atma",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Atma"
+                },
+                {
+                    "text": "sharira",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira"
+                },
+                {
+                    "text": "prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "Ayurveda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayurveda"
+                },
+                {
+                    "text": "prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "purusha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha"
+                },
+                {
+                    "text": "purusha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha"
+                },
+                {
+                    "text": "prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "mahat",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahat"
+                },
+                {
+                    "text": "prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "[ 15 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_note-15"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h3",
+            "text": "Similarities between avyakta and vyakta",
+            "html": "<h3><span class=\"mw-headline\" id=\"Similarities_between_avyakta_and_vyakta\">Similarities between avyakta and vyakta</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "In Sankhya darshana, similarities between avyakta and vyakta are described as follows:",
+            "html": "<p>In Sankhya darshana, similarities between avyakta and vyakta are described as follows:\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "ol",
+            "text": "Both avyakta and vyakta contains trigunas . Both are aviveki (indiscriminative). Both are the objects to be perceived and experienced by purusha (vishaya samanya). Both are achetana (inanimate). Both are prasavadharmis (delivering nature).",
+            "html": "<ol type=\"i\">\n<li>Both avyakta and vyakta contains <a href=\"/index.php?title=Triguna\" title=\"Triguna\">trigunas</a>.</li>\n<li>Both are aviveki (indiscriminative).</li>\n<li>Both are the objects to be perceived and experienced by <a href=\"/index.php?title=Purusha\" title=\"Purusha\">purusha</a> (vishaya samanya).</li>\n<li>Both are achetana (inanimate).</li>\n<li>Both are prasavadharmis (delivering nature).</li>\n</ol>",
+            "links": [
+                {
+                    "text": "trigunas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Triguna"
+                },
+                {
+                    "text": "purusha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Both avyakta and vyakta contains trigunas .",
+                    "links": [
+                        {
+                            "text": "trigunas",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Triguna"
+                        }
+                    ]
+                },
+                {
+                    "text": "Both are aviveki (indiscriminative).",
+                    "links": []
+                },
+                {
+                    "text": "Both are the objects to be perceived and experienced by purusha (vishaya samanya).",
+                    "links": [
+                        {
+                            "text": "purusha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha"
+                        }
+                    ]
+                },
+                {
+                    "text": "Both are achetana (inanimate).",
+                    "links": []
+                },
+                {
+                    "text": "Both are prasavadharmis (delivering nature).",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "type": "h3",
+            "text": "Dissimilarities between avyakta and vyakta",
+            "html": "<h3><span class=\"mw-headline\" id=\"Dissimilarities_between_avyakta_and_vyakta\">Dissimilarities between avyakta and vyakta</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "p",
+            "text": "In Sankhya Darshana and Charaka Samhita , dissimilarities between avyakta and vyakta are described as follows:",
+            "html": "<p>In Sankhya Darshana and <a href=\"/index.php?title=Charak_Samhita_New_Edition\" title=\"Charak Samhita New Edition\">Charaka Samhita</a>, dissimilarities between avyakta and vyakta are described as follows: \n</p>",
+            "links": [
+                {
+                    "text": "Charaka Samhita",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_New_Edition"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "Avyakta",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "th",
+                        "text": "Vyakta",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "1. Ahetumat- It is causeless as there is no cause for its production.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "1. Hetumat- Having cause for its creation/production.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "2. Nitya- It is eternal because it is indestructible.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "2. Anitya- Non-eternal.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "3. Vyapi- It is all-pervasive; hence it is called vyapi.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "3. Avyapi- It is not all-pervasive.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "4. Nishkriya- Inactive",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "4. Sakriya- Capable of performing activities.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "5. Eka- Omnipresent",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "5. Aneka- Infinite/innumerable",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "6. Alinga- Absence of specific features/ Having no symptoms or cannot be absorbed in any tattva.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "6. Lingam- It has some specific features through which it is recognized or absorbed in Avyakta.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "7. Avyaya- Absence of parts/ without any parts.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "7. Savayava- Parts are present. Parts can be divisible and can be identified.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "8. Swatantra- Independent",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "8. Paratantra- Dependent on other tattvas.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "9. Atindriya- Non-perceivable through indriyas .",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "indriyas",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "9. Ayindriya- Perceivable through indriyas .",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "indriyas",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya"
+                            }
+                        ]
+                    }
+                ]
+            ],
+            "html": "<table class=\"wikitable\" style=\"margin:auto\">\n<tbody><tr>\n<th>Avyakta\n</th>\n<th>Vyakta\n</th></tr>\n<tr>\n<td>1. Ahetumat- It is causeless as there is no cause for its production.\n</td>\n<td>1. Hetumat- Having cause for its creation/production.\n</td></tr>\n<tr>\n<td>2. Nitya- It is eternal because it is indestructible.\n</td>\n<td>2. Anitya- Non-eternal.\n</td></tr>\n<tr>\n<td>3. Vyapi- It is all-pervasive; hence it is called vyapi.\n</td>\n<td>3. Avyapi- It is not all-pervasive.\n</td></tr>\n<tr>\n<td>4. Nishkriya- Inactive\n</td>\n<td>4. Sakriya- Capable of performing activities.\n</td></tr>\n<tr>\n<td>5. Eka- Omnipresent\n</td>\n<td>5. Aneka- Infinite/innumerable\n</td></tr>\n<tr>\n<td>6. Alinga- Absence of specific features/ Having no symptoms or cannot be absorbed in any tattva.\n</td>\n<td>6. Lingam- It has some specific features through which it is recognized or absorbed in Avyakta.\n</td></tr>\n<tr>\n<td>7. Avyaya- Absence of parts/ without any parts.\n</td>\n<td>7. Savayava- Parts are present. Parts can be divisible and can be identified.\n</td></tr>\n<tr>\n<td>8. Swatantra- Independent\n</td>\n<td>8. Paratantra- Dependent on other tattvas.\n</td></tr>\n<tr>\n<td>9. Atindriya- Non-perceivable through <a href=\"/index.php?title=Indriya\" title=\"Indriya\">indriyas</a>.\n</td>\n<td>9. Ayindriya- Perceivable through <a href=\"/index.php?title=Indriya\" title=\"Indriya\">indriyas</a>.\n</td></tr>\n</tbody></table>",
+            "links": [
+                {
+                    "text": "indriyas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya"
+                },
+                {
+                    "text": "indriyas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya"
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Concept of Avyakta in Vedanta Darshana",
+            "html": "<h2><span class=\"mw-headline\" id=\"Concept_of_Avyakta_in_Vedanta_Darshana\">Concept of Avyakta in Vedanta Darshana</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "Maya is a prominent and commonly referred concept in Vedanta Darshana. Maya is said to be an illusion. Avyakta, not manifested because it cannot be perceived by sense organ. In the sushupti awastha (dreamless sleep), one did not know anything. We see many scenes in dreams but in awaken state, we realize that it was only our illusion. One understands that like a dream, the world never existed. This is known as “Vivartavaada”.\nVedanta darshan states that Bramha is the only truth and the entire universe is an illusion or myth. It is of the nature of all three gunas namely sattva , rajas , tamas . Maya is responsible for the evolution of entire universe which is known as “ karana sharira ” or ‘causal body of the atma ’. Karana sharira is said to be 'avyakta’ because its knowledge is not perceived by senses. [ 16 ] In Rigveda and Upanishads, general meaning of maya is ‘power’ while in Shvetashvatara Upanishad, maya is identified with prakriti and the meaning of maya is illusion. And in Bhagavad Gita, maya is referred as ‘magical power’. [ 14 ]",
+            "html": "<p>Maya is a prominent and commonly referred concept in Vedanta Darshana. Maya is said to be an illusion. Avyakta, not manifested because it cannot be perceived by sense organ. In the sushupti awastha (dreamless sleep), one did not know anything. We see many scenes in dreams but in awaken state, we realize that it was only our illusion. One understands that like a dream, the world never existed. This is known as “Vivartavaada”.\nVedanta darshan states that Bramha is the only truth and the entire universe is an illusion or myth. It is of the nature of all three <a href=\"/index.php?title=Guna\" title=\"Guna\">gunas</a> namely <a href=\"/index.php?title=Sattva\" title=\"Sattva\">sattva</a>, <a href=\"/index.php?title=Rajas\" title=\"Rajas\">rajas</a>, <a href=\"/index.php?title=Tamas\" title=\"Tamas\">tamas</a>. Maya is responsible for the evolution of entire universe which is known as “<a href=\"/index.php?title=Karana\" title=\"Karana\">karana</a> <a href=\"/index.php?title=Sharira\" title=\"Sharira\">sharira</a>” or ‘causal body of the <a href=\"/index.php?title=Atma\" title=\"Atma\">atma</a>’. Karana <a href=\"/index.php?title=Sharira\" title=\"Sharira\">sharira</a> is said to be 'avyakta’ because its knowledge is not perceived by senses.<sup class=\"reference\" id=\"cite_ref-16\"><a href=\"#cite_note-16\"><span class=\"cite-bracket\">[</span>16<span class=\"cite-bracket\">]</span></a></sup>\n<br/><br/>\nIn Rigveda and Upanishads, general meaning of maya is ‘power’ while in Shvetashvatara Upanishad, maya is identified with <a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">prakriti</a> and the meaning of maya is illusion. And in Bhagavad Gita, maya is referred as ‘magical power’.<sup class=\"reference\" id=\"cite_ref-multiple_14-2\"><a href=\"#cite_note-multiple-14\"><span class=\"cite-bracket\">[</span>14<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
+            "links": [
+                {
+                    "text": "gunas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Guna"
+                },
+                {
+                    "text": "sattva",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sattva"
+                },
+                {
+                    "text": "rajas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rajas"
+                },
+                {
+                    "text": "tamas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tamas"
+                },
+                {
+                    "text": "karana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Karana"
+                },
+                {
+                    "text": "sharira",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira"
+                },
+                {
+                    "text": "atma",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Atma"
+                },
+                {
+                    "text": "sharira",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira"
+                },
+                {
+                    "text": "[ 16 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_note-16"
+                },
+                {
+                    "text": "prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "[ 14 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_note-multiple-14"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Significance of knowledge of avyakta",
+            "html": "<h2><span class=\"mw-headline\" id=\"Significance_of_knowledge_of_avyakta\">Significance of knowledge of avyakta</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "Philosophers across the world have different opinions about the origin of universe like Charak, Sushruta, Kapilamuni, etc. Sushruta also quotes anecdotal opinions of six types like Swabhava, Ishvara, Kala , Yadruchha, Niyati and Parinama [Su. Sa. Sharira Sthana 1/15] which can be observed similar to Darshana like Charvaka, Yoga, Purva mimansa, etc. When all the philosophies are compared, the common in almost all darshanas is coming to manifestation from unmanifested state. This involves starting point as avyakta, then unmanifested state like mahat , ahamkara , panch- tanmatra . It comes to existence or noticeable stage from pancha-mahabhoota . In Vishishta advait, Lokacharya accepts time as the cause of transformation of prakriti and its mutation. Advait school regards the world and hence all the substances appear due to an undefinable principle called ‘cosmic nascence’ or maya. Maya is neither real nor unreal but undefinable. In Bhagavad Gita, it is described that far beyond even this Avyakta, there is yet another unmanifest existence that supreme one who does not perish or destroy. The same Avyakta which is said to be indestructible is also called as supreme goal. By attaining this place of residence, one cannot return to this mortal world. In this way, shruti (Vedagrantha) and smriti (Smritigrantha) both declares that Avyakta exists which is as same as maya that is the upadhi (title) of Ishvara (God), the panchakoshasharira (five sheaths) which are the effects of maya are the upadhis of jiva. When these upadhis are effectively removed, it dissolves the illusion of Ishvara and jiva (life). [ 14 ] Avyakta can be considered not just primary germ of life, but as per loka-purusha samyasiddhanta, Avyakta can be considered as origin of each and every phenomenon.",
+            "html": "<p>Philosophers across the world have different opinions about the origin of universe like Charak, Sushruta, Kapilamuni, etc. Sushruta also quotes anecdotal opinions of six types like Swabhava, Ishvara, <a href=\"/index.php?title=Kala\" title=\"Kala\">Kala</a>, Yadruchha, Niyati and <a href=\"/index.php?title=Parinama\" title=\"Parinama\">Parinama</a> [Su. Sa. Sharira Sthana 1/15] which can be observed similar to Darshana like Charvaka, Yoga, Purva mimansa, etc. When all the philosophies are compared, the common in almost all darshanas is coming to manifestation from unmanifested state.\n<br/><br/>\nThis involves starting point as avyakta, then unmanifested state like <a href=\"/index.php?title=Mahat\" title=\"Mahat\">mahat</a>, <a class=\"new\" href=\"/index.php?title=Ahamkara&amp;action=edit&amp;redlink=1\" title=\"Ahamkara (page does not exist)\">ahamkara</a>, panch-<a href=\"/index.php?title=Tanmatra\" title=\"Tanmatra\">tanmatra</a>. It comes to existence or noticeable stage from <a href=\"/index.php?title=Pancha_mahabhuta\" title=\"Pancha mahabhuta\">pancha-mahabhoota</a>. \n<br/><br/>\nIn <b>Vishishta advait,</b> Lokacharya accepts time as the cause of transformation of <a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">prakriti</a> and its mutation. Advait school regards the world and hence all the substances appear due to an undefinable principle called ‘cosmic nascence’ or maya. Maya is neither real nor unreal but undefinable.\n<br/><br/>\nIn <b>Bhagavad Gita,</b> it is described that far beyond even this Avyakta, there is yet another unmanifest existence that supreme one who does not perish or destroy. The same Avyakta which is said to be indestructible is also called as supreme goal. By attaining this place of residence, one cannot return to this mortal world. In this way, shruti (Vedagrantha) and <a href=\"/index.php?title=Smruti_(memory)\" title=\"Smruti (memory)\">smriti (Smritigrantha)</a> both declares that Avyakta exists which is as same as maya that is the upadhi (title) of Ishvara (God), the panchakoshasharira (five sheaths) which are the effects of maya are the upadhis of jiva. When these upadhis are effectively removed, it dissolves the illusion of Ishvara and jiva (life).<sup class=\"reference\" id=\"cite_ref-multiple_14-3\"><a href=\"#cite_note-multiple-14\"><span class=\"cite-bracket\">[</span>14<span class=\"cite-bracket\">]</span></a></sup>\n<br/><br/>\nAvyakta can be considered not just primary germ of life, but as per loka-purusha samyasiddhanta, Avyakta can be considered as origin of each and every phenomenon.\n</p>",
+            "links": [
+                {
+                    "text": "Kala",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kala"
+                },
+                {
+                    "text": "Parinama",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Parinama"
+                },
+                {
+                    "text": "mahat",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahat"
+                },
+                {
+                    "text": "ahamkara",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ahamkara&action=edit&redlink=1"
+                },
+                {
+                    "text": "tanmatra",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra"
+                },
+                {
+                    "text": "pancha-mahabhoota",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pancha_mahabhuta"
+                },
+                {
+                    "text": "prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "smriti (Smritigrantha)",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Smruti_(memory)"
+                },
+                {
+                    "text": "[ 14 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_note-multiple-14"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Application of Avyakta in healthcare science",
+            "html": "<h2><span class=\"mw-headline\" id=\"Application_of_Avyakta_in_healthcare_science\">Application of Avyakta in healthcare science</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "In the process of evolution explained in Ayurveda , buddhi or mahattatwa manifests from Avyakta, mahat tattva precedes to form ahamkara . Rajasika ahamkara stimulates sattva to form eleven indriyas (5 jnanendriya, 5 karmendriya and mind ) which act in both the ways). Similarly,rajasika ahamkara stimulates tamasika ahamkara to form the five tanmatras and from them tanmatras, pancha-mahabhootaare manifested. Sharira is the combination of chetana ( soul or life element) and pancha-mahabhoota vikara (derivatives of five basic elements of nature). [Cha. Sa. Sharira Sthana 6/4]. Adhishthana (abode) of vyadhi (disease) is of two types viz. one is sharirika (somatic) and another is manasika (psychological). [Cha. Sa. Vimana Sthana 6/3]. The diseases are psychosomatic in nature. Causative factor of anything has a definite starting or beginning. It may be any disease , disease condition or any other factor related to health. There is always a root cause which has those properties as sat(existence). In everything that is experienced, primordial origin (avyakta awastha) is always present in unmanifested state (avyakta awastha). Hence whenever thinking related to health, it may be good health or ill health, then its origin will also remain and reflect accordingly in the form of avyakta. Origin or root (karana) of anything has its own characteristics and those characteristics gets reflected into the final product (karya).In congenital diseases, origin of the disease can be observed in either of the parents. Some are the gender specific diseases that affect either male or female. Colour blindness, Haemophilia (A and B), Turner syndrome are some of the gender specific genetically transfer diseases. If male is affected with a disease, then female is a carrier for that disease and that carrier state of female is latent state i. e. avyakta awastha. Similarly, many diseases which are genetically transferred to next generation like prameha , presence of BRCA gene responsible for breast cancer , or other kulaja diseases. They are in the individual in avyakta state and manifest in the later stage of the life. Considering the existence of these avyakta state in body, one can plan healthy life style and can avoid or delay the manifestation of the disease.",
+            "html": "<p>In the process of evolution explained in <a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a>, <a href=\"/index.php?title=Buddhi\" title=\"Buddhi\">buddhi</a> or mahattatwa manifests from Avyakta, mahat tattva precedes to form <a class=\"new\" href=\"/index.php?title=Ahamkara&amp;action=edit&amp;redlink=1\" title=\"Ahamkara (page does not exist)\">ahamkara</a>. Rajasika ahamkara stimulates <a href=\"/index.php?title=Sattva\" title=\"Sattva\">sattva</a> to form eleven <a href=\"/index.php?title=Indriya\" title=\"Indriya\">indriyas</a>(5 jnanendriya, 5 karmendriya and <a href=\"/index.php?title=Manas\" title=\"Manas\">mind</a>) which act in both the ways). Similarly,rajasika ahamkara stimulates tamasika ahamkara to form the five tanmatras and from them tanmatras, <a href=\"/index.php?title=Pancha_mahabhuta\" title=\"Pancha mahabhuta\">pancha-mahabhootaare</a> manifested. <a href=\"/index.php?title=Sharira\" title=\"Sharira\">Sharira</a> is the combination of <a href=\"/index.php?title=Chetana\" title=\"Chetana\">chetana</a> (<a href=\"/index.php?title=Atma\" title=\"Atma\">soul</a> or life element) and <a href=\"/index.php?title=Pancha_mahabhuta\" title=\"Pancha mahabhuta\">pancha-mahabhoota vikara</a>(derivatives of five basic elements of nature). [Cha. Sa. <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 6/4]. Adhishthana (abode) of <a href=\"/index.php?title=Vyadhi\" title=\"Vyadhi\">vyadhi (disease)</a> is of two types viz. one is sharirika (somatic) and another is manasika (psychological). [Cha. Sa. <a href=\"/index.php?title=Vimana_Sthana\" title=\"Vimana Sthana\">Vimana Sthana</a> 6/3]. The diseases are psychosomatic in nature. \n<br/><br/>\nCausative factor of anything has a definite starting or beginning. It may be any <a href=\"/index.php?title=Vyadhi\" title=\"Vyadhi\">disease</a>, <a href=\"/index.php?title=Vyadhi\" title=\"Vyadhi\">disease</a> condition or any other factor related to health. There is always a root cause which has those properties as sat(existence). In everything that is experienced, primordial origin (avyakta awastha) is always present in unmanifested state (avyakta awastha). Hence whenever thinking related to health, it may be good health or ill health, then its origin will also remain and reflect accordingly in the form of avyakta. \n<br/><br/>\nOrigin or root (karana) of anything has its own characteristics and those characteristics gets reflected into the final product (karya).In congenital diseases, origin of the <a href=\"/index.php?title=Vyadhi\" title=\"Vyadhi\">disease</a> can be observed in either of the parents. Some are the gender specific diseases that affect either male or female. Colour blindness, Haemophilia (A and B), Turner syndrome are some of the gender specific genetically transfer diseases. If male is affected with a disease, then female is a carrier for that disease and that carrier state of female is latent state i. e. avyakta awastha. Similarly, many diseases which are genetically transferred to next generation like <a href=\"/index.php?title=Prameha_Nidana\" title=\"Prameha Nidana\">prameha</a>, presence of BRCA gene responsible for breast <a href=\"/index.php?title=Cancer\" title=\"Cancer\"> cancer</a>, or other kulaja diseases. They are in the individual in avyakta state and manifest in the later stage of the life. Considering the existence of these avyakta state in body, one can plan healthy life style and can avoid or delay the manifestation of the disease. \n</p>",
+            "links": [
+                {
+                    "text": "Ayurveda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayurveda"
+                },
+                {
+                    "text": "buddhi",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi"
+                },
+                {
+                    "text": "ahamkara",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ahamkara&action=edit&redlink=1"
+                },
+                {
+                    "text": "sattva",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sattva"
+                },
+                {
+                    "text": "indriyas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya"
+                },
+                {
+                    "text": "mind",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Manas"
+                },
+                {
+                    "text": "pancha-mahabhootaare",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pancha_mahabhuta"
+                },
+                {
+                    "text": "Sharira",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira"
+                },
+                {
+                    "text": "chetana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Chetana"
+                },
+                {
+                    "text": "soul",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Atma"
+                },
+                {
+                    "text": "pancha-mahabhoota vikara",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pancha_mahabhuta"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                },
+                {
+                    "text": "vyadhi (disease)",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vyadhi"
+                },
+                {
+                    "text": "Vimana Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vimana_Sthana"
+                },
+                {
+                    "text": "disease",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vyadhi"
+                },
+                {
+                    "text": "disease",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vyadhi"
+                },
+                {
+                    "text": "disease",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vyadhi"
+                },
+                {
+                    "text": "prameha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prameha_Nidana"
+                },
+                {
+                    "text": "cancer",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Cancer"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Application of avyakta in prevention and management of disease",
+            "html": "<h2><span class=\"mw-headline\" id=\"Application_of_avyakta_in_prevention_and_management_of_disease\">Application of avyakta in prevention and management of disease</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "Diseases are of various origin. There is always a cause and effect. Whenever we see any effect, there are many kinds of factors that are responsible for the development of disease or disease condition. Avyakta is the prodromal symptom ( purvaroopa ) of vata vyadhi . Each and every disease remains in latent state (avyakta awastha) before it is manifested. If we treat the root cause, then disease will not manifest. As soon as the disease is detected, person who seeks for the good health will try to treat the disease. There are six kriyakala of the disease condition. If one can suppress the vitiated doshas in first kriyakala i. e. in sanchaya awastha(accumulation stage),the disease will not progress further. [Su. Sa. Sutra Sthana 21/37] In the period of great catastrophe, the intellect (buddhi) etc. gets detached from the favored feelings. In great dissolution, the order is just reverse of what is in evolution. Such as pancha-mahabhootas dissolve in pancha- tanmatras , pancha- tanmatras and eleven senses dissolves in ahamkara (ego), this in buddhi and buddhi in avyakta i.e. prakriti . This evolution and catastrophe continue in cyclic pattern. (avyakta to vyakta and vyakta to avyakta again). [Cha. Sa. Sharira Sthana 1/67-68]",
+            "html": "<p>Diseases are of various origin. There is always a cause and effect. Whenever we see any effect, there are many kinds of factors that are responsible for the development of disease or disease condition. Avyakta is the prodromal symptom (<a class=\"new\" href=\"/index.php?title=Purvaroopa&amp;action=edit&amp;redlink=1\" title=\"Purvaroopa (page does not exist)\">purvaroopa</a>) of <a class=\"mw-redirect\" href=\"/index.php?title=Vata_vyadhi_Chikitsa\" title=\"Vata vyadhi Chikitsa\">vata vyadhi</a>. Each and every disease remains in latent state (avyakta awastha) before it is manifested. If we treat the root cause, then disease will not manifest. \n<br/><br/>\nAs soon as the disease is detected, person who seeks for the good health will try to treat the disease. There are six <a class=\"mw-redirect\" href=\"/index.php?title=Kriyakala\" title=\"Kriyakala\">kriyakala</a> of the disease condition. If one can suppress the vitiated <a href=\"/index.php?title=Dosha\" title=\"Dosha\">doshas</a> in first <a class=\"mw-redirect\" href=\"/index.php?title=Kriyakala\" title=\"Kriyakala\">kriyakala</a> i. e. in sanchaya awastha(accumulation stage),the disease will not progress further. [Su. Sa. Sutra Sthana 21/37]\n<br/><br/>\nIn the period of great catastrophe, the <a href=\"/index.php?title=Buddhi\" title=\"Buddhi\">intellect (buddhi)</a> etc. gets detached from the favored feelings. In great dissolution, the order is just reverse of what is in evolution. Such as <a href=\"/index.php?title=Pancha_mahabhuta\" title=\"Pancha mahabhuta\">pancha-mahabhootas</a> dissolve in pancha-<a href=\"/index.php?title=Tanmatra\" title=\"Tanmatra\">tanmatras</a>, pancha-<a href=\"/index.php?title=Tanmatra\" title=\"Tanmatra\">tanmatras</a> and eleven senses dissolves in <a class=\"new\" href=\"/index.php?title=Ahamkara&amp;action=edit&amp;redlink=1\" title=\"Ahamkara (page does not exist)\">ahamkara</a> (ego), this in <a href=\"/index.php?title=Buddhi\" title=\"Buddhi\">buddhi</a> and <a href=\"/index.php?title=Buddhi\" title=\"Buddhi\">buddhi</a> in avyakta i.e. <a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">prakriti</a>. This evolution and catastrophe continue in cyclic pattern. (avyakta to vyakta and vyakta to avyakta again). [Cha. Sa. <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\"> Sharira Sthana</a> 1/67-68]\n</p>",
+            "links": [
+                {
+                    "text": "purvaroopa",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Purvaroopa&action=edit&redlink=1"
+                },
+                {
+                    "text": "vata vyadhi",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vata_vyadhi_Chikitsa"
+                },
+                {
+                    "text": "kriyakala",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kriyakala"
+                },
+                {
+                    "text": "doshas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "kriyakala",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kriyakala"
+                },
+                {
+                    "text": "intellect (buddhi)",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi"
+                },
+                {
+                    "text": "pancha-mahabhootas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pancha_mahabhuta"
+                },
+                {
+                    "text": "tanmatras",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra"
+                },
+                {
+                    "text": "tanmatras",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra"
+                },
+                {
+                    "text": "ahamkara",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ahamkara&action=edit&redlink=1"
+                },
+                {
+                    "text": "buddhi",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi"
+                },
+                {
+                    "text": "buddhi",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Buddhi"
+                },
+                {
+                    "text": "prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "Abbreviations",
+            "html": "<h2><span class=\"mw-headline\" id=\"Abbreviations\">Abbreviations</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "Cha. = Charaka Su. = Sushruta Sa. = Samhita",
+            "html": "<p>Cha. = Charaka\n<br/>\nSu. = Sushruta\n<br/>\nSa. = Samhita\n</p>",
+            "links": [],
+            "images": []
+        },
+        {
+            "type": "p",
+            "text": "Send us your suggestions and feedback on this page.",
+            "html": "<p><big><b><a href=\"/index.php?title=Special:ContactMe\" title=\"Special:ContactMe\">Send us your suggestions and feedback on this page.</a></b></big>\n</p>",
+            "links": [
+                {
+                    "text": "Send us your suggestions and feedback on this page.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Special:ContactMe"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "References",
+            "html": "<h2><span class=\"mw-headline\" id=\"References\">References</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "text",
+            "text": "Back to the Top"
+        },
+        {
+            "type": "ol",
+            "text": "↑ Vacaspatyam 1873 https://www.sanskrit-lexicon.uni-koeln.de/scans/VCPScan/2020/web/index.php accessed on 31/08/2022 ↑ Bhishagranta K. K. Sushruta Samhita, Chowkhamba Sanskrit Series Office, Varanasi 1991, Vol. 2, Sharira Sthana Chapter 1, verse 3, page no. 15 ↑ Tripathi R. Charaka Samhita, Chaukhamba Sanskrit Pratishthan, Delhi Reprint 2013, Khand 1, Sharira Sthana Chapter 1, verse 61, page no. 686 ↑ Anagha S., Deole Y.S.. Atma. In: Basisht G., eds. Charak Samhita New Edition. 1st ed. Jamnagar, Ind: CSRTSDC; 2020. https://www.carakasamhitaonline.com/index.php?title=Atma&oldid=41431 . Accessed October 8, 2022. ↑ Yadavji Trikamji Charaka Samhita Ayurveda dipika commentary by Chakrapanidatta, Chaukhamba Surbharati Prakashan, Varanasi 2021, Sharira Sthana Chapter 1, verse 61, page no. 293 ↑ Siva Purana - English Translation - Part 1 of 4: J. L. Shastri: https://archive.org/details/SivaPurana J.L. Shastri, Part1 accessed on 28/08/2022 ↑ List of Mahabharata people and places: https://www.jatland.com/w/index.php ? title=List_of_Mahabharata_people_and_places&oldid=545984 accessed on 28/08/2022 ↑ The saurapurana - a critical study http://hdl.handle.net/10603/129627 accessed on 28/08/2022 ↑ Hindu temples of Tamilnadu: with special reference to Bharatanatyam and Hindu iconography, http://hdl.handle.net/10603/5089 , accessed on 28/08/2022 ↑ Hindu Mathematics https://archive.org/details/HinduMathematics accessed on 6/9/22 ↑ A Dictionary of Sanskrit Grammar by Mahamahopadhyaya Kashinath Vasudev Abhyankar: Mahamahopadhyaya Kashinath Vasudev Abhyankar: https://archive.org/details/ADictionaryOfSanskrit GrammarByMahamahopadhyayaKashinathVasudevAbhyankar ↑ https://sanskritdictionary.com/?iencoding=iast&q=Avyakta&lang=sans&action=Search accessed on 30/08/2022 ↑ Bhojani M. K., Joglekar A. A.. Pratyaksha pramana. In: Deole Y.S., Basisht G., eds. Charak Samhita New Edition. 1st ed. Jamnagar, Ind: CSRTSDC; 2020. https://www.carakasamhitaonline.com/index.php?title=Pratyaksha_pramana&oldid=41560 . Accessed October 8, 2022. ↑ 14.0 14.1 14.2 14.3 https://en.wikipedia.org/w/index.php?title=Avyakta&oldid=1043562407 accessed on 28/08/2022 ↑ Narasimhacharyulu K. V. L. Padartha Vigyana, Choukhamba Krishnadas Academy, Varanasi 2010, page no. 389 ↑ Joshi P. Sulabha Padartha Vigyana, Narendra Prakashana, Pune 2018, page no. 66",
+            "html": "<ol class=\"references\">\n<li id=\"cite_note-1\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-1\">↑</a></span> <span class=\"reference-text\">Vacaspatyam 1873 <a class=\"external free\" href=\"https://www.sanskrit-lexicon.uni-koeln.de/scans/VCPScan/2020/web/index.php\" rel=\"nofollow\">https://www.sanskrit-lexicon.uni-koeln.de/scans/VCPScan/2020/web/index.php</a> accessed on 31/08/2022</span>\n</li>\n<li id=\"cite_note-2\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-2\">↑</a></span> <span class=\"reference-text\">Bhishagranta K. K. Sushruta Samhita, Chowkhamba Sanskrit Series Office, Varanasi 1991, Vol. 2, Sharira Sthana Chapter 1, verse 3, page no. 15 </span>\n</li>\n<li id=\"cite_note-3\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-3\">↑</a></span> <span class=\"reference-text\">Tripathi R. Charaka Samhita, Chaukhamba Sanskrit Pratishthan, Delhi Reprint 2013, Khand 1, <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> Chapter 1, verse 61, page no. 686</span>\n</li>\n<li id=\"cite_note-4\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-4\">↑</a></span> <span class=\"reference-text\">Anagha S., Deole Y.S.. Atma. In: Basisht G., eds. Charak Samhita New Edition. 1st ed. Jamnagar, Ind: CSRTSDC; 2020. <a class=\"external free\" href=\"https://www.carakasamhitaonline.com/index.php?title=Atma&amp;oldid=41431\" rel=\"nofollow\">https://www.carakasamhitaonline.com/index.php?title=Atma&amp;oldid=41431</a>. Accessed October 8, 2022.</span>\n</li>\n<li id=\"cite_note-5\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-5\">↑</a></span> <span class=\"reference-text\">Yadavji Trikamji Charaka Samhita Ayurveda dipika commentary by Chakrapanidatta, Chaukhamba Surbharati Prakashan, Varanasi 2021, <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> Chapter 1, verse 61, page no. 293</span>\n</li>\n<li id=\"cite_note-6\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-6\">↑</a></span> <span class=\"reference-text\">Siva Purana - English Translation - Part 1 of 4: J. L. Shastri: <a class=\"external free\" href=\"https://archive.org/details/SivaPurana\" rel=\"nofollow\">https://archive.org/details/SivaPurana</a> J.L. Shastri, Part1 accessed on 28/08/2022</span>\n</li>\n<li id=\"cite_note-7\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-7\">↑</a></span> <span class=\"reference-text\">List of Mahabharata people and places: <a class=\"external free\" href=\"https://www.jatland.com/w/index.php\" rel=\"nofollow\">https://www.jatland.com/w/index.php</a>? title=List_of_Mahabharata_people_and_places&amp;oldid=545984 accessed on 28/08/2022</span>\n</li>\n<li id=\"cite_note-8\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-8\">↑</a></span> <span class=\"reference-text\">The saurapurana - a critical study <a class=\"external free\" href=\"http://hdl.handle.net/10603/129627\" rel=\"nofollow\">http://hdl.handle.net/10603/129627</a> accessed on 28/08/2022</span>\n</li>\n<li id=\"cite_note-9\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-9\">↑</a></span> <span class=\"reference-text\">Hindu temples of Tamilnadu: with special reference to Bharatanatyam and Hindu iconography, <a class=\"external free\" href=\"http://hdl.handle.net/10603/5089\" rel=\"nofollow\">http://hdl.handle.net/10603/5089</a>, accessed on 28/08/2022</span>\n</li>\n<li id=\"cite_note-10\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-10\">↑</a></span> <span class=\"reference-text\">Hindu Mathematics <a class=\"external free\" href=\"https://archive.org/details/HinduMathematics\" rel=\"nofollow\">https://archive.org/details/HinduMathematics</a> accessed on 6/9/22</span>\n</li>\n<li id=\"cite_note-11\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-11\">↑</a></span> <span class=\"reference-text\">A Dictionary of Sanskrit Grammar by Mahamahopadhyaya Kashinath Vasudev Abhyankar: Mahamahopadhyaya Kashinath Vasudev Abhyankar: <a class=\"external free\" href=\"https://archive.org/details/ADictionaryOfSanskrit\" rel=\"nofollow\">https://archive.org/details/ADictionaryOfSanskrit</a> GrammarByMahamahopadhyayaKashinathVasudevAbhyankar</span>\n</li>\n<li id=\"cite_note-12\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-12\">↑</a></span> <span class=\"reference-text\"><a class=\"external free\" href=\"https://sanskritdictionary.com/?iencoding=iast&amp;q=Avyakta&amp;lang=sans&amp;action=Search\" rel=\"nofollow\">https://sanskritdictionary.com/?iencoding=iast&amp;q=Avyakta&amp;lang=sans&amp;action=Search</a> accessed on 30/08/2022</span>\n</li>\n<li id=\"cite_note-13\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-13\">↑</a></span> <span class=\"reference-text\">Bhojani M. K., Joglekar A. A.. Pratyaksha pramana. In: Deole Y.S., Basisht G., eds. Charak Samhita New Edition. 1st ed. Jamnagar, Ind: CSRTSDC; 2020. <a class=\"external free\" href=\"https://www.carakasamhitaonline.com/index.php?title=Pratyaksha_pramana&amp;oldid=41560\" rel=\"nofollow\">https://www.carakasamhitaonline.com/index.php?title=Pratyaksha_pramana&amp;oldid=41560</a>. Accessed October 8, 2022.</span>\n</li>\n<li id=\"cite_note-multiple-14\"><span class=\"mw-cite-backlink\">↑ <sup><a href=\"#cite_ref-multiple_14-0\">14.0</a></sup> <sup><a href=\"#cite_ref-multiple_14-1\">14.1</a></sup> <sup><a href=\"#cite_ref-multiple_14-2\">14.2</a></sup> <sup><a href=\"#cite_ref-multiple_14-3\">14.3</a></sup></span> <span class=\"reference-text\"><a class=\"external free\" href=\"https://en.wikipedia.org/w/index.php?title=Avyakta&amp;oldid=1043562407\" rel=\"nofollow\">https://en.wikipedia.org/w/index.php?title=Avyakta&amp;oldid=1043562407</a> accessed on 28/08/2022</span>\n</li>\n<li id=\"cite_note-15\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-15\">↑</a></span> <span class=\"reference-text\">Narasimhacharyulu K. V. L. Padartha Vigyana, Choukhamba Krishnadas Academy, Varanasi 2010, page no. 389</span>\n</li>\n<li id=\"cite_note-16\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-16\">↑</a></span> <span class=\"reference-text\">Joshi P. Sulabha Padartha Vigyana, Narendra Prakashana, Pune 2018, page no. 66</span>\n</li>\n</ol>",
+            "links": [
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_ref-1"
+                },
+                {
+                    "text": "https://www.sanskrit-lexicon.uni-koeln.de/scans/VCPScan/2020/web/index.php",
+                    "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/VCPScan/2020/web/index.php"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_ref-2"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_ref-3"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_ref-4"
+                },
+                {
+                    "text": "https://www.carakasamhitaonline.com/index.php?title=Atma&oldid=41431",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Atma&oldid=41431"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_ref-5"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_ref-6"
+                },
+                {
+                    "text": "https://archive.org/details/SivaPurana",
+                    "url": "https://archive.org/details/SivaPurana"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_ref-7"
+                },
+                {
+                    "text": "https://www.jatland.com/w/index.php",
+                    "url": "https://www.jatland.com/w/index.php"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_ref-8"
+                },
+                {
+                    "text": "http://hdl.handle.net/10603/129627",
+                    "url": "http://hdl.handle.net/10603/129627"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_ref-9"
+                },
+                {
+                    "text": "http://hdl.handle.net/10603/5089",
+                    "url": "http://hdl.handle.net/10603/5089"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_ref-10"
+                },
+                {
+                    "text": "https://archive.org/details/HinduMathematics",
+                    "url": "https://archive.org/details/HinduMathematics"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_ref-11"
+                },
+                {
+                    "text": "https://archive.org/details/ADictionaryOfSanskrit",
+                    "url": "https://archive.org/details/ADictionaryOfSanskrit"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_ref-12"
+                },
+                {
+                    "text": "https://sanskritdictionary.com/?iencoding=iast&q=Avyakta&lang=sans&action=Search",
+                    "url": "https://sanskritdictionary.com/?iencoding=iast&q=Avyakta&lang=sans&action=Search"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_ref-13"
+                },
+                {
+                    "text": "https://www.carakasamhitaonline.com/index.php?title=Pratyaksha_pramana&oldid=41560",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pratyaksha_pramana&oldid=41560"
+                },
+                {
+                    "text": "14.0",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_ref-multiple_14-0"
+                },
+                {
+                    "text": "14.1",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_ref-multiple_14-1"
+                },
+                {
+                    "text": "14.2",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_ref-multiple_14-2"
+                },
+                {
+                    "text": "14.3",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_ref-multiple_14-3"
+                },
+                {
+                    "text": "https://en.wikipedia.org/w/index.php?title=Avyakta&oldid=1043562407",
+                    "url": "https://en.wikipedia.org/w/index.php?title=Avyakta&oldid=1043562407"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_ref-15"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_ref-16"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "↑ Vacaspatyam 1873 https://www.sanskrit-lexicon.uni-koeln.de/scans/VCPScan/2020/web/index.php accessed on 31/08/2022",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_ref-1"
+                        },
+                        {
+                            "text": "https://www.sanskrit-lexicon.uni-koeln.de/scans/VCPScan/2020/web/index.php",
+                            "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/VCPScan/2020/web/index.php"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Bhishagranta K. K. Sushruta Samhita, Chowkhamba Sanskrit Series Office, Varanasi 1991, Vol. 2, Sharira Sthana Chapter 1, verse 3, page no. 15",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_ref-2"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Tripathi R. Charaka Samhita, Chaukhamba Sanskrit Pratishthan, Delhi Reprint 2013, Khand 1, Sharira Sthana Chapter 1, verse 61, page no. 686",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_ref-3"
+                        },
+                        {
+                            "text": "Sharira Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Anagha S., Deole Y.S.. Atma. In: Basisht G., eds. Charak Samhita New Edition. 1st ed. Jamnagar, Ind: CSRTSDC; 2020. https://www.carakasamhitaonline.com/index.php?title=Atma&oldid=41431 . Accessed October 8, 2022.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_ref-4"
+                        },
+                        {
+                            "text": "https://www.carakasamhitaonline.com/index.php?title=Atma&oldid=41431",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Atma&oldid=41431"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Yadavji Trikamji Charaka Samhita Ayurveda dipika commentary by Chakrapanidatta, Chaukhamba Surbharati Prakashan, Varanasi 2021, Sharira Sthana Chapter 1, verse 61, page no. 293",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_ref-5"
+                        },
+                        {
+                            "text": "Sharira Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Siva Purana - English Translation - Part 1 of 4: J. L. Shastri: https://archive.org/details/SivaPurana J.L. Shastri, Part1 accessed on 28/08/2022",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_ref-6"
+                        },
+                        {
+                            "text": "https://archive.org/details/SivaPurana",
+                            "url": "https://archive.org/details/SivaPurana"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ List of Mahabharata people and places: https://www.jatland.com/w/index.php ? title=List_of_Mahabharata_people_and_places&oldid=545984 accessed on 28/08/2022",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_ref-7"
+                        },
+                        {
+                            "text": "https://www.jatland.com/w/index.php",
+                            "url": "https://www.jatland.com/w/index.php"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ The saurapurana - a critical study http://hdl.handle.net/10603/129627 accessed on 28/08/2022",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_ref-8"
+                        },
+                        {
+                            "text": "http://hdl.handle.net/10603/129627",
+                            "url": "http://hdl.handle.net/10603/129627"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Hindu temples of Tamilnadu: with special reference to Bharatanatyam and Hindu iconography, http://hdl.handle.net/10603/5089 , accessed on 28/08/2022",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_ref-9"
+                        },
+                        {
+                            "text": "http://hdl.handle.net/10603/5089",
+                            "url": "http://hdl.handle.net/10603/5089"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Hindu Mathematics https://archive.org/details/HinduMathematics accessed on 6/9/22",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_ref-10"
+                        },
+                        {
+                            "text": "https://archive.org/details/HinduMathematics",
+                            "url": "https://archive.org/details/HinduMathematics"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ A Dictionary of Sanskrit Grammar by Mahamahopadhyaya Kashinath Vasudev Abhyankar: Mahamahopadhyaya Kashinath Vasudev Abhyankar: https://archive.org/details/ADictionaryOfSanskrit GrammarByMahamahopadhyayaKashinathVasudevAbhyankar",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_ref-11"
+                        },
+                        {
+                            "text": "https://archive.org/details/ADictionaryOfSanskrit",
+                            "url": "https://archive.org/details/ADictionaryOfSanskrit"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ https://sanskritdictionary.com/?iencoding=iast&q=Avyakta&lang=sans&action=Search accessed on 30/08/2022",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_ref-12"
+                        },
+                        {
+                            "text": "https://sanskritdictionary.com/?iencoding=iast&q=Avyakta&lang=sans&action=Search",
+                            "url": "https://sanskritdictionary.com/?iencoding=iast&q=Avyakta&lang=sans&action=Search"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Bhojani M. K., Joglekar A. A.. Pratyaksha pramana. In: Deole Y.S., Basisht G., eds. Charak Samhita New Edition. 1st ed. Jamnagar, Ind: CSRTSDC; 2020. https://www.carakasamhitaonline.com/index.php?title=Pratyaksha_pramana&oldid=41560 . Accessed October 8, 2022.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_ref-13"
+                        },
+                        {
+                            "text": "https://www.carakasamhitaonline.com/index.php?title=Pratyaksha_pramana&oldid=41560",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pratyaksha_pramana&oldid=41560"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ 14.0 14.1 14.2 14.3 https://en.wikipedia.org/w/index.php?title=Avyakta&oldid=1043562407 accessed on 28/08/2022",
+                    "links": [
+                        {
+                            "text": "14.0",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_ref-multiple_14-0"
+                        },
+                        {
+                            "text": "14.1",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_ref-multiple_14-1"
+                        },
+                        {
+                            "text": "14.2",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_ref-multiple_14-2"
+                        },
+                        {
+                            "text": "14.3",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_ref-multiple_14-3"
+                        },
+                        {
+                            "text": "https://en.wikipedia.org/w/index.php?title=Avyakta&oldid=1043562407",
+                            "url": "https://en.wikipedia.org/w/index.php?title=Avyakta&oldid=1043562407"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Narasimhacharyulu K. V. L. Padartha Vigyana, Choukhamba Krishnadas Academy, Varanasi 2010, page no. 389",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_ref-15"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Joshi P. Sulabha Padartha Vigyana, Narendra Prakashana, Pune 2018, page no. 66",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta#cite_ref-16"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "text": "NewPP limit report\nCached time: 20261118151552\nCache expiry: 86400\nReduced expiry: false\nComplications: [vary‐revision‐id, show‐toc]\nCPU time usage: 0.072 seconds\nReal time usage: 0.262 seconds\nPreprocessor visited node count: 747/1000000\nPost‐expand include size: 2850/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 6/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 3071/5000000 bytes\nLua time usage: 0.060/7 seconds\nLua virtual size: 20471808/209715200 bytes\nLua estimated memory usage: 0 bytes"
+        },
+        {
+            "type": "text",
+            "text": "Transclusion expansion time report (%,ms,calls,template)\n100.00% 201.160 1 -total\n95.10% 191.304 1 Template:Infobox\n2.70% 5.428 1 Template:CiteButton\n1.54% 3.091 1 Template:DoiWithLink"
+        },
+        {
+            "type": "text",
+            "text": "Saved in parser cache with key carakas1_carakasa:pcache:idhash:3891-0!canonical and timestamp 20261118151552 and revision id 44605. Rendering was triggered because: diff-page"
+        },
+        {
+            "type": "text",
+            "text": "Retrieved from \""
+        },
+        {
+            "type": "text",
+            "text": "https://www.carakasamhitaonline.com/index.php?title=Avyakta&oldid=44605"
+        },
+        {
+            "type": "text",
+            "text": "\""
+        }
+    ],
+    "html_sha256": "e7fcd4d6203dbda60ea93c221f6134f7f0f22b945024ff1e31549086f40b5680"
+}

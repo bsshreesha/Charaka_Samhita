@@ -1,0 +1,3512 @@
+{
+    "source": "Charaka Samhita",
+    "chapter": "Tanmatra",
+    "chapter_id": "Tanmatra",
+    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra",
+    "xpath": "//*[@id=\"content\"]",
+    "extraction_date": "2026-11-19T10:52:56",
+    "total_blocks": 227,
+    "total_tables": 3,
+    "total_headings": 22,
+    "total_paragraphs": 4,
+    "content": [
+        {
+            "type": "h1",
+            "text": "Tanmatra",
+            "html": "<h1 class=\"firstHeading mw-first-heading\" id=\"firstHeading\"><span class=\"mw-page-title-main\">Tanmatra</span></h1>",
+            "links": [],
+            "images": [],
+            "level": 1
+        },
+        {
+            "type": "text",
+            "text": "From Charak Samhita"
+        },
+        {
+            "type": "text",
+            "text": "Jump to navigation"
+        },
+        {
+            "type": "text",
+            "text": "Jump to search"
+        },
+        {
+            "type": "figure",
+            "text": "",
+            "html": "<figure class=\"mw-default-size mw-halign-right\" typeof=\"mw:File\"><a href=\"https://www.charakasamhitauptodate.com/index.php?title=Special:CiteThisPage&amp;page=Tanmatra&amp;id=44604&amp;wpFormIdentifier=titleform\" rel=\"nofollow\"><img class=\"mw-file-element\" decoding=\"async\" height=\"47\" src=\"/images/5/58/Cite.png\" width=\"180\"/></a><figcaption></figcaption></figure>",
+            "links": [
+                {
+                    "text": "",
+                    "url": "https://www.charakasamhitauptodate.com/index.php?title=Special:CiteThisPage&page=Tanmatra&id=44604&wpFormIdentifier=titleform"
+                }
+            ],
+            "images": [
+                {
+                    "url": "https://www.carakasamhitaonline.com/images/5/58/Cite.png",
+                    "alt": "",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "The Sanskrit word ‘tanmatra’ literally means subtle elements. It reflects the knowledge of atoms in ancient classics. Ayurveda being the life science has focused on the genesis of life along with the fulfillment of long healthy life . This concept of genesis of life in Ayurveda find its roots in Sankhya philosophy and Vedant Philosophy. This concept of tanmatras is reflected as the influence of Sankhya and Vedant philosophy on Ayurved .",
+            "html": "<p style=\"text-align:justify;\">The Sanskrit word ‘tanmatra’ literally means subtle elements. It reflects the knowledge of atoms in ancient classics. <a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a> being the <a href=\"/index.php?title=Ayu\" title=\"Ayu\">life</a> science has focused on the genesis of <a href=\"/index.php?title=Ayu\" title=\"Ayu\">life</a> along with the fulfillment of long healthy <a href=\"/index.php?title=Ayu\" title=\"Ayu\">life</a>. This concept of genesis of <a href=\"/index.php?title=Ayu\" title=\"Ayu\">life</a> in <a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurveda</a> find its roots in <a href=\"/index.php?title=Sharira_Sankhya_Sharira\" title=\"Sharira Sankhya Sharira\">Sankhya</a> philosophy and Vedant Philosophy. This concept of tanmatras is reflected as the influence of <a href=\"/index.php?title=Sharira_Sankhya_Sharira\" title=\"Sharira Sankhya Sharira\">Sankhya</a> and Vedant philosophy on <a href=\"/index.php?title=Ayurveda\" title=\"Ayurveda\">Ayurved</a>.\n</p>",
+            "links": [
+                {
+                    "text": "Ayurveda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayurveda"
+                },
+                {
+                    "text": "life",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu"
+                },
+                {
+                    "text": "life",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu"
+                },
+                {
+                    "text": "life",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu"
+                },
+                {
+                    "text": "life",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayu"
+                },
+                {
+                    "text": "Ayurveda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayurveda"
+                },
+                {
+                    "text": "Sankhya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sankhya_Sharira"
+                },
+                {
+                    "text": "Sankhya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sankhya_Sharira"
+                },
+                {
+                    "text": "Ayurved",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ayurveda"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "Section/Chapter",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Concepts/ Tanmatra",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Authors",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Nawkar Madhumati S. 1",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Reviewer",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Basisht G. 2 ,",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Basisht G.",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Gopal_Basisht"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Editor",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Deole Y.S. 3",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Deole Y.S.",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Yogesh_Deole"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Affiliations",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "1 Department of Sanskrit Samhita Siddhanta, R. T. Ayurved Mahavidyalaya, Akola, Maharashtra, India 2 Rheumatologist, Orlando, Florida, U.S.A. 3 Department of Kayachikitsa, G.J.Patel Institute of Ayurvedic Studies and Research, New Vallabh Vidyanagar, Gujarat, India",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Correspondence emails",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "madhumati.nawkar@gmail.com, carakasamhita@gmail.com",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Publisher",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Charak Samhita Research, Training and Development Centre , I.T.R.A., Jamnagar, India",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Charak Samhita Research, Training and Development Centre",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "Date of publication:",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "November 28, 2022",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "th",
+                        "text": "DOI",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "10.47468/CSNE.2022.e01.s09.118",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "10.47468/CSNE.2022.e01.s09.118",
+                                "url": "https://doi.org/10.47468/CSNE.2022.e01.s09.118"
+                            }
+                        ]
+                    }
+                ]
+            ],
+            "html": "<table class=\"infobox\" style=\"width:22em\"><caption>Contributors</caption><tbody><tr><th scope=\"row\">Section/Chapter</th><td>\nConcepts/<a class=\"mw-selflink selflink\">Tanmatra</a></td></tr><tr><th scope=\"row\">Authors</th><td>\nNawkar Madhumati  S.<sup>1</sup></td></tr><tr><th scope=\"row\">Reviewer</th><td>\n<a href=\"/index.php?title=Gopal_Basisht\" title=\"Gopal Basisht\">Basisht G.</a><sup>2</sup>,</td></tr><tr><th scope=\"row\">Editor</th><td>\n<a href=\"/index.php?title=Yogesh_Deole\" title=\"Yogesh Deole\">Deole Y.S.</a><sup>3</sup></td></tr><tr><th scope=\"row\">Affiliations</th><td>\n<sup>1</sup>Department of Sanskrit Samhita Siddhanta, R. T. Ayurved Mahavidyalaya, Akola, Maharashtra, India<br/><sup>2</sup> Rheumatologist, Orlando, Florida, U.S.A.<br/><sup>3</sup>Department of Kayachikitsa, G.J.Patel Institute of Ayurvedic Studies and Research, New Vallabh Vidyanagar, Gujarat, India</td></tr><tr><th scope=\"row\">Correspondence emails</th><td>\nmadhumati.nawkar@gmail.com, <br/>carakasamhita@gmail.com</td></tr><tr><th scope=\"row\">Publisher</th><td>\n<a class=\"mw-redirect\" href=\"/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre\" title=\"Charak Samhita Research, Training and Development Centre\">Charak Samhita Research, Training and Development Centre</a>, I.T.R.A., Jamnagar, India</td></tr><tr><th scope=\"row\">Date of publication:</th><td>\nNovember 28, 2022</td></tr><tr><th scope=\"row\">DOI</th><td>\n<a class=\"external text\" href=\"https://doi.org/10.47468/CSNE.2022.e01.s09.118\" rel=\"nofollow\">10.47468/CSNE.2022.e01.s09.118</a></td></tr></tbody></table>",
+            "links": [
+                {
+                    "text": "Basisht G.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Gopal_Basisht"
+                },
+                {
+                    "text": "Deole Y.S.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Yogesh_Deole"
+                },
+                {
+                    "text": "Charak Samhita Research, Training and Development Centre",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita_Research,_Training_and_Development_Centre"
+                },
+                {
+                    "text": "10.47468/CSNE.2022.e01.s09.118",
+                    "url": "https://doi.org/10.47468/CSNE.2022.e01.s09.118"
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Contents",
+            "html": "<h2 id=\"mw-toc-heading\">Contents</h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ul",
+            "text": "1 Etymology 1.1 Definition 2 Types of tanmatras 2.1 Synonyms 3 Concept of Tanmatra as per Sankhya philosophy 4 Vedant philosophy 5 Vaisheshika philosophy 6 Ayurveda 7 Theories of origination of mahabhutas from tanmatras 7.1 Vaisheshika theory of creation of mahabhuta 8 Contemporary theories 8.1 Tanmatra and quantum spins 8.2 Tanmatra, paramanu and wave particle duality 8.3 Tanmatra and elementary particles 8.4 Significance 9 Application of tanmatra in health and prevention of diseases 10 Application of tanmatra in clinical practices 11 Future scope of research 12 Related chapters 13 References",
+            "html": "<ul>\n<li class=\"toclevel-1 tocsection-1\"><a href=\"#Etymology\"><span class=\"tocnumber\">1</span> <span class=\"toctext\">Etymology</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-2\"><a href=\"#Definition\"><span class=\"tocnumber\">1.1</span> <span class=\"toctext\">Definition</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-3\"><a href=\"#Types_of_tanmatras\"><span class=\"tocnumber\">2</span> <span class=\"toctext\">Types of tanmatras</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-4\"><a href=\"#Synonyms\"><span class=\"tocnumber\">2.1</span> <span class=\"toctext\">Synonyms</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-5\"><a href=\"#Concept_of_Tanmatra_as_per_Sankhya_philosophy\"><span class=\"tocnumber\">3</span> <span class=\"toctext\">Concept of Tanmatra as per Sankhya philosophy</span></a></li>\n<li class=\"toclevel-1 tocsection-6\"><a href=\"#Vedant_philosophy\"><span class=\"tocnumber\">4</span> <span class=\"toctext\">Vedant philosophy</span></a></li>\n<li class=\"toclevel-1 tocsection-7\"><a href=\"#Vaisheshika_philosophy\"><span class=\"tocnumber\">5</span> <span class=\"toctext\">Vaisheshika philosophy</span></a></li>\n<li class=\"toclevel-1 tocsection-8\"><a href=\"#Ayurveda\"><span class=\"tocnumber\">6</span> <span class=\"toctext\">Ayurveda</span></a></li>\n<li class=\"toclevel-1 tocsection-9\"><a href=\"#Theories_of_origination_of_mahabhutas_from_tanmatras\"><span class=\"tocnumber\">7</span> <span class=\"toctext\">Theories of origination of mahabhutas from tanmatras</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-10\"><a href=\"#Vaisheshika_theory_of_creation_of_mahabhuta\"><span class=\"tocnumber\">7.1</span> <span class=\"toctext\">Vaisheshika theory of creation of mahabhuta</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-11\"><a href=\"#Contemporary_theories\"><span class=\"tocnumber\">8</span> <span class=\"toctext\">Contemporary theories</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-12\"><a href=\"#Tanmatra_and_quantum_spins\"><span class=\"tocnumber\">8.1</span> <span class=\"toctext\">Tanmatra and quantum spins</span></a></li>\n<li class=\"toclevel-2 tocsection-13\"><a href=\"#Tanmatra,_paramanu_and_wave_particle_duality\"><span class=\"tocnumber\">8.2</span> <span class=\"toctext\">Tanmatra, paramanu and wave particle duality</span></a></li>\n<li class=\"toclevel-2 tocsection-14\"><a href=\"#Tanmatra_and_elementary_particles\"><span class=\"tocnumber\">8.3</span> <span class=\"toctext\">Tanmatra and elementary particles</span></a></li>\n<li class=\"toclevel-2 tocsection-15\"><a href=\"#Significance\"><span class=\"tocnumber\">8.4</span> <span class=\"toctext\">Significance</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-16\"><a href=\"#Application_of_tanmatra_in_health_and_prevention_of_diseases\"><span class=\"tocnumber\">9</span> <span class=\"toctext\">Application of tanmatra in health and prevention of diseases</span></a></li>\n<li class=\"toclevel-1 tocsection-17\"><a href=\"#Application_of_tanmatra_in_clinical_practices\"><span class=\"tocnumber\">10</span> <span class=\"toctext\">Application of tanmatra in clinical practices</span></a></li>\n<li class=\"toclevel-1 tocsection-18\"><a href=\"#Future_scope_of_research\"><span class=\"tocnumber\">11</span> <span class=\"toctext\">Future scope of research</span></a></li>\n<li class=\"toclevel-1 tocsection-19\"><a href=\"#Related_chapters\"><span class=\"tocnumber\">12</span> <span class=\"toctext\">Related chapters</span></a></li>\n<li class=\"toclevel-1 tocsection-20\"><a href=\"#References\"><span class=\"tocnumber\">13</span> <span class=\"toctext\">References</span></a></li>\n</ul>",
+            "links": [
+                {
+                    "text": "1 Etymology",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#Etymology"
+                },
+                {
+                    "text": "1.1 Definition",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#Definition"
+                },
+                {
+                    "text": "2 Types of tanmatras",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#Types_of_tanmatras"
+                },
+                {
+                    "text": "2.1 Synonyms",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#Synonyms"
+                },
+                {
+                    "text": "3 Concept of Tanmatra as per Sankhya philosophy",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#Concept_of_Tanmatra_as_per_Sankhya_philosophy"
+                },
+                {
+                    "text": "4 Vedant philosophy",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#Vedant_philosophy"
+                },
+                {
+                    "text": "5 Vaisheshika philosophy",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#Vaisheshika_philosophy"
+                },
+                {
+                    "text": "6 Ayurveda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#Ayurveda"
+                },
+                {
+                    "text": "7 Theories of origination of mahabhutas from tanmatras",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#Theories_of_origination_of_mahabhutas_from_tanmatras"
+                },
+                {
+                    "text": "7.1 Vaisheshika theory of creation of mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#Vaisheshika_theory_of_creation_of_mahabhuta"
+                },
+                {
+                    "text": "8 Contemporary theories",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#Contemporary_theories"
+                },
+                {
+                    "text": "8.1 Tanmatra and quantum spins",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#Tanmatra_and_quantum_spins"
+                },
+                {
+                    "text": "8.2 Tanmatra, paramanu and wave particle duality",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#Tanmatra,_paramanu_and_wave_particle_duality"
+                },
+                {
+                    "text": "8.3 Tanmatra and elementary particles",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#Tanmatra_and_elementary_particles"
+                },
+                {
+                    "text": "8.4 Significance",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#Significance"
+                },
+                {
+                    "text": "9 Application of tanmatra in health and prevention of diseases",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#Application_of_tanmatra_in_health_and_prevention_of_diseases"
+                },
+                {
+                    "text": "10 Application of tanmatra in clinical practices",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#Application_of_tanmatra_in_clinical_practices"
+                },
+                {
+                    "text": "11 Future scope of research",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#Future_scope_of_research"
+                },
+                {
+                    "text": "12 Related chapters",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#Related_chapters"
+                },
+                {
+                    "text": "13 References",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#References"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "1 Etymology 1.1 Definition",
+                    "links": [
+                        {
+                            "text": "1 Etymology",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#Etymology"
+                        },
+                        {
+                            "text": "1.1 Definition",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#Definition"
+                        }
+                    ]
+                },
+                {
+                    "text": "2 Types of tanmatras 2.1 Synonyms",
+                    "links": [
+                        {
+                            "text": "2 Types of tanmatras",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#Types_of_tanmatras"
+                        },
+                        {
+                            "text": "2.1 Synonyms",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#Synonyms"
+                        }
+                    ]
+                },
+                {
+                    "text": "3 Concept of Tanmatra as per Sankhya philosophy",
+                    "links": [
+                        {
+                            "text": "3 Concept of Tanmatra as per Sankhya philosophy",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#Concept_of_Tanmatra_as_per_Sankhya_philosophy"
+                        }
+                    ]
+                },
+                {
+                    "text": "4 Vedant philosophy",
+                    "links": [
+                        {
+                            "text": "4 Vedant philosophy",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#Vedant_philosophy"
+                        }
+                    ]
+                },
+                {
+                    "text": "5 Vaisheshika philosophy",
+                    "links": [
+                        {
+                            "text": "5 Vaisheshika philosophy",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#Vaisheshika_philosophy"
+                        }
+                    ]
+                },
+                {
+                    "text": "6 Ayurveda",
+                    "links": [
+                        {
+                            "text": "6 Ayurveda",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#Ayurveda"
+                        }
+                    ]
+                },
+                {
+                    "text": "7 Theories of origination of mahabhutas from tanmatras 7.1 Vaisheshika theory of creation of mahabhuta",
+                    "links": [
+                        {
+                            "text": "7 Theories of origination of mahabhutas from tanmatras",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#Theories_of_origination_of_mahabhutas_from_tanmatras"
+                        },
+                        {
+                            "text": "7.1 Vaisheshika theory of creation of mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#Vaisheshika_theory_of_creation_of_mahabhuta"
+                        }
+                    ]
+                },
+                {
+                    "text": "8 Contemporary theories 8.1 Tanmatra and quantum spins 8.2 Tanmatra, paramanu and wave particle duality 8.3 Tanmatra and elementary particles 8.4 Significance",
+                    "links": [
+                        {
+                            "text": "8 Contemporary theories",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#Contemporary_theories"
+                        },
+                        {
+                            "text": "8.1 Tanmatra and quantum spins",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#Tanmatra_and_quantum_spins"
+                        },
+                        {
+                            "text": "8.2 Tanmatra, paramanu and wave particle duality",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#Tanmatra,_paramanu_and_wave_particle_duality"
+                        },
+                        {
+                            "text": "8.3 Tanmatra and elementary particles",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#Tanmatra_and_elementary_particles"
+                        },
+                        {
+                            "text": "8.4 Significance",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#Significance"
+                        }
+                    ]
+                },
+                {
+                    "text": "9 Application of tanmatra in health and prevention of diseases",
+                    "links": [
+                        {
+                            "text": "9 Application of tanmatra in health and prevention of diseases",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#Application_of_tanmatra_in_health_and_prevention_of_diseases"
+                        }
+                    ]
+                },
+                {
+                    "text": "10 Application of tanmatra in clinical practices",
+                    "links": [
+                        {
+                            "text": "10 Application of tanmatra in clinical practices",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#Application_of_tanmatra_in_clinical_practices"
+                        }
+                    ]
+                },
+                {
+                    "text": "11 Future scope of research",
+                    "links": [
+                        {
+                            "text": "11 Future scope of research",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#Future_scope_of_research"
+                        }
+                    ]
+                },
+                {
+                    "text": "12 Related chapters",
+                    "links": [
+                        {
+                            "text": "12 Related chapters",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#Related_chapters"
+                        }
+                    ]
+                },
+                {
+                    "text": "13 References",
+                    "links": [
+                        {
+                            "text": "13 References",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#References"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text": "Etymology",
+            "html": "<h2><span class=\"mw-headline\" id=\"Etymology\">Etymology</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "text",
+            "text": "The word Tanmatra is made up of two words Tat+ Matra. Literary meaning ‘only that’. The term matra indicates the subtleness (Suksmatva)"
+        },
+        {
+            "type": "text",
+            "text": "["
+        },
+        {
+            "type": "text",
+            "text": "1"
+        },
+        {
+            "type": "text",
+            "text": "]"
+        },
+        {
+            "type": "h3",
+            "text": "Definition",
+            "html": "<h3><span class=\"mw-headline\" id=\"Definition\">Definition</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "text",
+            "text": "Tanmatras are trifled, rudimentary or subtle elements from which the grosser elements ("
+        },
+        {
+            "type": "text",
+            "text": "mahabhoota"
+        },
+        {
+            "type": "text",
+            "text": ") are produced."
+        },
+        {
+            "type": "text",
+            "text": "["
+        },
+        {
+            "type": "text",
+            "text": "2"
+        },
+        {
+            "type": "text",
+            "text": "]"
+        },
+        {
+            "type": "text",
+            "text": "The shabdadi (subject of senses / quality of"
+        },
+        {
+            "type": "text",
+            "text": "Mahabhootas"
+        },
+        {
+            "type": "text",
+            "text": ") which are anudbhuta (In evolutionary stage) and can not be sensed by external sense organs are ‘tanmatras’. Only a person with highly developed senses like yogi can experience it."
+        },
+        {
+            "type": "text",
+            "text": "["
+        },
+        {
+            "type": "text",
+            "text": "3"
+        },
+        {
+            "type": "text",
+            "text": "]"
+        },
+        {
+            "type": "h2",
+            "text": "Types of tanmatras",
+            "html": "<h2><span class=\"mw-headline\" id=\"Types_of_tanmatras\">Types of tanmatras</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "p",
+            "text": "There are five sense perceptions -hearing, touch, sight, taste and smell and there are five tanmatras corresponding to the five-sense perception [ 4 ] These are five in number",
+            "html": "<p>There are five sense perceptions -hearing, touch, sight, taste and smell and there are five tanmatras corresponding to the five-sense perception <sup class=\"reference\" id=\"cite_ref-4\"><a href=\"#cite_note-4\"><span class=\"cite-bracket\">[</span>4<span class=\"cite-bracket\">]</span></a></sup>\n<br/>These are five in number\n</p>",
+            "links": [
+                {
+                    "text": "[ 4 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_note-4"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "ol",
+            "text": "Shabda tanmatra or sukshma akasha mahabhuta Sparsha tanmatra or sukshma vayu mahabhuta Rupa tanmatra or sukshma teja/agni mahabhuta Rasa tanmatra or sukshma jala/aap mahabhuta Gandha tanmatra or sukshma prithvi mahabhuta",
+            "html": "<ol><li>Shabda tanmatra or sukshma <a href=\"/index.php?title=Akasha_mahabhuta\" title=\"Akasha mahabhuta\">akasha mahabhuta</a></li>\n<li>Sparsha tanmatra or sukshma <a href=\"/index.php?title=Vayu_mahabhuta\" title=\"Vayu mahabhuta\">vayu mahabhuta</a></li>\n<li>Rupa tanmatra or sukshma <a href=\"/index.php?title=Agni_mahabhuta\" title=\"Agni mahabhuta\">teja/agni mahabhuta</a></li>\n<li>Rasa tanmatra or sukshma <a href=\"/index.php?title=Jala_mahabhuta\" title=\"Jala mahabhuta\">jala/aap mahabhuta</a></li>\n<li>Gandha tanmatra or sukshma <a href=\"/index.php?title=Prithvi_mahabhuta\" title=\"Prithvi mahabhuta\">prithvi mahabhuta</a></li></ol>",
+            "links": [
+                {
+                    "text": "akasha mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta"
+                },
+                {
+                    "text": "vayu mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta"
+                },
+                {
+                    "text": "teja/agni mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta"
+                },
+                {
+                    "text": "jala/aap mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Jala_mahabhuta"
+                },
+                {
+                    "text": "prithvi mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Shabda tanmatra or sukshma akasha mahabhuta",
+                    "links": [
+                        {
+                            "text": "akasha mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta"
+                        }
+                    ]
+                },
+                {
+                    "text": "Sparsha tanmatra or sukshma vayu mahabhuta",
+                    "links": [
+                        {
+                            "text": "vayu mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta"
+                        }
+                    ]
+                },
+                {
+                    "text": "Rupa tanmatra or sukshma teja/agni mahabhuta",
+                    "links": [
+                        {
+                            "text": "teja/agni mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta"
+                        }
+                    ]
+                },
+                {
+                    "text": "Rasa tanmatra or sukshma jala/aap mahabhuta",
+                    "links": [
+                        {
+                            "text": "jala/aap mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Jala_mahabhuta"
+                        }
+                    ]
+                },
+                {
+                    "text": "Gandha tanmatra or sukshma prithvi mahabhuta",
+                    "links": [
+                        {
+                            "text": "prithvi mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "h3",
+            "text": "Synonyms",
+            "html": "<h3><span class=\"mw-headline\" id=\"Synonyms\">Synonyms</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "text",
+            "text": "Sukshma bhoota"
+        },
+        {
+            "type": "text",
+            "text": "["
+        },
+        {
+            "type": "text",
+            "text": "5"
+        },
+        {
+            "type": "text",
+            "text": "]"
+        },
+        {
+            "type": "text",
+            "text": ", avishesha"
+        },
+        {
+            "type": "text",
+            "text": "["
+        },
+        {
+            "type": "text",
+            "text": "6"
+        },
+        {
+            "type": "text",
+            "text": "]"
+        },
+        {
+            "type": "text",
+            "text": ", paramanu"
+        },
+        {
+            "type": "text",
+            "text": "["
+        },
+        {
+            "type": "text",
+            "text": "7"
+        },
+        {
+            "type": "text",
+            "text": "]"
+        },
+        {
+            "type": "text",
+            "text": "."
+        },
+        {
+            "type": "h2",
+            "text": "Concept of Tanmatra as per Sankhya philosophy",
+            "html": "<h2><span class=\"mw-headline\" id=\"Concept_of_Tanmatra_as_per_Sankhya_philosophy\">Concept of Tanmatra as per Sankhya philosophy</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "text",
+            "text": "While describing the surge of Universe the Sankhya explains the role of tanmatra. Sankhya enlisted 25 principles behind creation of universe. These principles are classified into 4 categories according to their role in the surge."
+        },
+        {
+            "type": "text",
+            "text": "["
+        },
+        {
+            "type": "text",
+            "text": "8"
+        },
+        {
+            "type": "text",
+            "text": "]"
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "Sr no.",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "th",
+                        "text": "Category",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "th",
+                        "text": "Name",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "th",
+                        "text": "Number",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "1",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Mula prakriti (origin/ creator)",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "prakriti",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "prakriti",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "prakriti",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "01",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "2",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Prakriti-vikriti (creator & creation dual nature)",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Mahat Ahankar Panchtanmatra",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Mahat",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Mahat"
+                            },
+                            {
+                                "text": "Ahankar",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Ahankar&action=edit&redlink=1"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "07",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "3",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Vikar (creation)",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Panchamahabhoota (five fundamental elements) Panchajnanendriya (five sense organs) Panchakarmendriya (five motor organs) Mind (mana)",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Panchamahabhoota",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Pancha_mahabhuta"
+                            },
+                            {
+                                "text": "Panchajnanendriya",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Panchajnanendriya"
+                            },
+                            {
+                                "text": "Panchakarmendriya",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Panchakarmendriya"
+                            },
+                            {
+                                "text": "Mind (mana)",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Manas"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "16",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "4",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Na prakriti navikar (neither creator nor creation)",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "prakriti",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Purusha",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Purusha",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "01",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    }
+                ]
+            ],
+            "html": "<table class=\"wikitable\" style=\"align:left;\">\n<tbody><tr>\n<th>Sr no.\n</th>\n<th>Category\n</th>\n<th>Name\n</th>\n<th>Number\n</th></tr>\n<tr>\n<td style=\"text-align:center;\">1\n</td>\n<td>Mula <a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">prakriti</a> (origin/ creator)\n</td>\n<td><a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">prakriti</a>\n</td>\n<td style=\"text-align:center;\">01\n</td></tr>\n<tr>\n<td style=\"text-align:center;\">2\n</td>\n<td>Prakriti-vikriti (creator &amp; creation dual nature)\n</td>\n<td><a href=\"/index.php?title=Mahat\" title=\"Mahat\">Mahat</a><br/><a class=\"new\" href=\"/index.php?title=Ahankar&amp;action=edit&amp;redlink=1\" title=\"Ahankar (page does not exist)\">Ahankar</a><br/>Panchtanmatra\n</td>\n<td style=\"text-align:center;\">07\n</td></tr>\n<tr>\n<td style=\"text-align:center;\">3\n</td>\n<td>Vikar (creation)\n</td>\n<td><a href=\"/index.php?title=Pancha_mahabhuta\" title=\"Pancha mahabhuta\">Panchamahabhoota</a> (five fundamental elements)<br/><a class=\"mw-redirect\" href=\"/index.php?title=Panchajnanendriya\" title=\"Panchajnanendriya\">Panchajnanendriya</a> (five sense organs)<br/><a class=\"mw-redirect\" href=\"/index.php?title=Panchakarmendriya\" title=\"Panchakarmendriya\">Panchakarmendriya</a> (five motor organs)<br/><a href=\"/index.php?title=Manas\" title=\"Manas\">Mind (mana)</a>\n</td>\n<td style=\"text-align:center;\">16\n</td></tr>\n<tr>\n<td style=\"text-align:center;\">4\n</td>\n<td>Na <a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">prakriti</a> navikar (neither creator nor creation)\n</td>\n<td><a href=\"/index.php?title=Purusha\" title=\"Purusha\">Purusha</a>\n</td>\n<td style=\"text-align:center;\">01\n</td></tr>\n</tbody></table>",
+            "links": [
+                {
+                    "text": "prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "Mahat",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahat"
+                },
+                {
+                    "text": "Ahankar",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ahankar&action=edit&redlink=1"
+                },
+                {
+                    "text": "Panchamahabhoota",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pancha_mahabhuta"
+                },
+                {
+                    "text": "Panchajnanendriya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Panchajnanendriya"
+                },
+                {
+                    "text": "Panchakarmendriya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Panchakarmendriya"
+                },
+                {
+                    "text": "Mind (mana)",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Manas"
+                },
+                {
+                    "text": "prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "Purusha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha"
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "According to Sankhyas at the initial stage the two original eternal principles are mula prakriti or avyakta (principal origin) and purusha . Prakriti is the original state with balanced state of triguna , everything is in a mass and one thing cannot be distinguished from one another. Prakriti with the help of purusha causes the creation. [ 9 ] The next principle mahat (cosmic intellect) gets originated from avyakta , and this further originates ahankara (ego/ self sense of cosmos). The ahankara is of three types.",
+            "html": "<p>According to Sankhyas at the initial stage the two original eternal principles are mula <a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">prakriti</a> or <a href=\"/index.php?title=Avyakta\" title=\"Avyakta\">avyakta</a> (principal origin) and <a href=\"/index.php?title=Purusha\" title=\"Purusha\">purusha</a>.<br/><a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">Prakriti</a> is the original state with balanced state of <a href=\"/index.php?title=Triguna\" title=\"Triguna\">triguna</a>, everything is in a mass and one thing cannot be distinguished from one another. <a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">Prakriti</a> with the help of <a href=\"/index.php?title=Purusha\" title=\"Purusha\">purusha</a> causes the creation. <sup class=\"reference\" id=\"cite_ref-9\"><a href=\"#cite_note-9\"><span class=\"cite-bracket\">[</span>9<span class=\"cite-bracket\">]</span></a></sup><br/>\nThe next principle <a href=\"/index.php?title=Mahat\" title=\"Mahat\">mahat</a> (cosmic intellect) gets originated from <a href=\"/index.php?title=Avyakta\" title=\"Avyakta\">avyakta</a>, and this further originates <a class=\"new\" href=\"/index.php?title=Ahankara&amp;action=edit&amp;redlink=1\" title=\"Ahankara (page does not exist)\">ahankara</a> (ego/ self sense of cosmos). The <a class=\"new\" href=\"/index.php?title=Ahankara&amp;action=edit&amp;redlink=1\" title=\"Ahankara (page does not exist)\">ahankara</a> is of three types.\n</p>",
+            "links": [
+                {
+                    "text": "prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "avyakta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta"
+                },
+                {
+                    "text": "purusha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha"
+                },
+                {
+                    "text": "Prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "triguna",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Triguna"
+                },
+                {
+                    "text": "Prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "purusha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Purusha"
+                },
+                {
+                    "text": "[ 9 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_note-9"
+                },
+                {
+                    "text": "mahat",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahat"
+                },
+                {
+                    "text": "avyakta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Avyakta"
+                },
+                {
+                    "text": "ahankara",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ahankara&action=edit&redlink=1"
+                },
+                {
+                    "text": "ahankara",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ahankara&action=edit&redlink=1"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "ol",
+            "text": "Sattvika: Ahankara with dominance of sattva , also known as vaikarika. Rajasika: Ahankara with dominance of rajas , also known as tejas. Tamasika: Ahankara with dominance of tamas , also known as bhutadi.",
+            "html": "<ol><li>Sattvika: <a class=\"new\" href=\"/index.php?title=Ahankara&amp;action=edit&amp;redlink=1\" title=\"Ahankara (page does not exist)\">Ahankara</a> with dominance of <a href=\"/index.php?title=Sattva\" title=\"Sattva\">sattva</a>, also known as vaikarika.</li>\n<li>Rajasika: <a class=\"new\" href=\"/index.php?title=Ahankara&amp;action=edit&amp;redlink=1\" title=\"Ahankara (page does not exist)\">Ahankara</a> with dominance of <a href=\"/index.php?title=Rajas\" title=\"Rajas\">rajas</a>, also known as tejas.</li>\n<li>Tamasika: <a class=\"new\" href=\"/index.php?title=Ahankara&amp;action=edit&amp;redlink=1\" title=\"Ahankara (page does not exist)\">Ahankara</a> with dominance of <a href=\"/index.php?title=Tamas\" title=\"Tamas\">tamas</a>, also known as bhutadi.</li></ol>",
+            "links": [
+                {
+                    "text": "Ahankara",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ahankara&action=edit&redlink=1"
+                },
+                {
+                    "text": "sattva",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sattva"
+                },
+                {
+                    "text": "Ahankara",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ahankara&action=edit&redlink=1"
+                },
+                {
+                    "text": "rajas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rajas"
+                },
+                {
+                    "text": "Ahankara",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ahankara&action=edit&redlink=1"
+                },
+                {
+                    "text": "tamas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tamas"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Sattvika: Ahankara with dominance of sattva , also known as vaikarika.",
+                    "links": [
+                        {
+                            "text": "Ahankara",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ahankara&action=edit&redlink=1"
+                        },
+                        {
+                            "text": "sattva",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sattva"
+                        }
+                    ]
+                },
+                {
+                    "text": "Rajasika: Ahankara with dominance of rajas , also known as tejas.",
+                    "links": [
+                        {
+                            "text": "Ahankara",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ahankara&action=edit&redlink=1"
+                        },
+                        {
+                            "text": "rajas",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Rajas"
+                        }
+                    ]
+                },
+                {
+                    "text": "Tamasika: Ahankara with dominance of tamas , also known as bhutadi.",
+                    "links": [
+                        {
+                            "text": "Ahankara",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ahankara&action=edit&redlink=1"
+                        },
+                        {
+                            "text": "tamas",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Tamas"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "text": "The tanmatras originate from tamas ahankara with the help of"
+        },
+        {
+            "type": "text",
+            "text": "rajas"
+        },
+        {
+            "type": "text",
+            "text": "ahankara. These tanmatras are subtle structures considered as ‘avishesha’ and are the sources of"
+        },
+        {
+            "type": "text",
+            "text": "panchamahabhuta (five basic elements)"
+        },
+        {
+            "type": "text",
+            "text": ". The"
+        },
+        {
+            "type": "text",
+            "text": "panchamahabhuta"
+        },
+        {
+            "type": "text",
+            "text": "are macroscopic structures and categorized as vikara (creations). Eleven"
+        },
+        {
+            "type": "text",
+            "text": "indriyas"
+        },
+        {
+            "type": "text",
+            "text": "originate from sattvika"
+        },
+        {
+            "type": "text",
+            "text": "ahankara"
+        },
+        {
+            "type": "text",
+            "text": "with help of rajasika"
+        },
+        {
+            "type": "text",
+            "text": "ahankara"
+        },
+        {
+            "type": "text",
+            "text": ". Tanmatras are principles/ elements with dual nature (i.e. creator and creations) originated from"
+        },
+        {
+            "type": "text",
+            "text": "tamas"
+        },
+        {
+            "type": "text",
+            "text": "and"
+        },
+        {
+            "type": "text",
+            "text": "rajas"
+        },
+        {
+            "type": "text",
+            "text": "ahankara. These tanmatras create gross elements."
+        },
+        {
+            "type": "h2",
+            "text": "Vedant philosophy",
+            "html": "<h2><span class=\"mw-headline\" id=\"Vedant_philosophy\">Vedant philosophy</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "text",
+            "text": "In the text ‘Vedant Sara’, in context of explaining the surge of universe, it is mentioned that Chaitanya (consciousness), when covered by"
+        },
+        {
+            "type": "text",
+            "text": "tamas"
+        },
+        {
+            "type": "text",
+            "text": "dominance, creates"
+        },
+        {
+            "type": "text",
+            "text": "akasha"
+        },
+        {
+            "type": "text",
+            "text": ". Thereafter,"
+        },
+        {
+            "type": "text",
+            "text": "vayu"
+        },
+        {
+            "type": "text",
+            "text": "is originates from"
+        },
+        {
+            "type": "text",
+            "text": "akasha"
+        },
+        {
+            "type": "text",
+            "text": ";"
+        },
+        {
+            "type": "text",
+            "text": "teja"
+        },
+        {
+            "type": "text",
+            "text": "originates from"
+        },
+        {
+            "type": "text",
+            "text": "vayu"
+        },
+        {
+            "type": "text",
+            "text": "and further"
+        },
+        {
+            "type": "text",
+            "text": "jala"
+        },
+        {
+            "type": "text",
+            "text": "originates from"
+        },
+        {
+            "type": "text",
+            "text": "teja"
+        },
+        {
+            "type": "text",
+            "text": ". Lastly"
+        },
+        {
+            "type": "text",
+            "text": "prithvi"
+        },
+        {
+            "type": "text",
+            "text": "originates from"
+        },
+        {
+            "type": "text",
+            "text": "jala"
+        },
+        {
+            "type": "text",
+            "text": ". At this time, these subtle elements (sukshmabhuta) or tanmatras are apanchikruta"
+        },
+        {
+            "type": "text",
+            "text": "["
+        },
+        {
+            "type": "text",
+            "text": "10"
+        },
+        {
+            "type": "text",
+            "text": "]"
+        },
+        {
+            "type": "text",
+            "text": "(singular and not quintupled).."
+        },
+        {
+            "type": "text",
+            "text": "Panchikarana (quintiplication) is the process explained by Vedanta for the formation of gross elements from tanmatras."
+        },
+        {
+            "type": "h2",
+            "text": "Vaisheshika philosophy",
+            "html": "<h2><span class=\"mw-headline\" id=\"Vaisheshika_philosophy\">Vaisheshika philosophy</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "text",
+            "text": "According to Vaisheshika philosophy, at the initial stage, there are parmanus (atoms) of four"
+        },
+        {
+            "type": "text",
+            "text": "mahabhuta"
+        },
+        {
+            "type": "text",
+            "text": "(namely"
+        },
+        {
+            "type": "text",
+            "text": "vayu"
+        },
+        {
+            "type": "text",
+            "text": ","
+        },
+        {
+            "type": "text",
+            "text": "agni"
+        },
+        {
+            "type": "text",
+            "text": ","
+        },
+        {
+            "type": "text",
+            "text": "jala"
+        },
+        {
+            "type": "text",
+            "text": ","
+        },
+        {
+            "type": "text",
+            "text": "prithvi"
+        },
+        {
+            "type": "text",
+            "text": "). The gross"
+        },
+        {
+            "type": "text",
+            "text": "mahabhutas"
+        },
+        {
+            "type": "text",
+            "text": "are created from those paramanu."
+        },
+        {
+            "type": "text",
+            "text": "["
+        },
+        {
+            "type": "text",
+            "text": "11"
+        },
+        {
+            "type": "text",
+            "text": "]"
+        },
+        {
+            "type": "h2",
+            "text": "Ayurveda",
+            "html": "<h2><span class=\"mw-headline\" id=\"Ayurveda\">Ayurveda</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "text",
+            "text": "Twenty four principles (chaturvinshati tatvatmak"
+        },
+        {
+            "type": "text",
+            "text": "purusha"
+        },
+        {
+            "type": "text",
+            "text": ") are listed in"
+        },
+        {
+            "type": "text",
+            "text": "Charak Samhita"
+        },
+        {
+            "type": "text",
+            "text": ". Instead of 25 principles mentioned by"
+        },
+        {
+            "type": "text",
+            "text": "Samkhya"
+        },
+        {
+            "type": "text",
+            "text": ", here only 24 principles are counted. The"
+        },
+        {
+            "type": "text",
+            "text": "purusha"
+        },
+        {
+            "type": "text",
+            "text": "and"
+        },
+        {
+            "type": "text",
+            "text": "prakriti"
+        },
+        {
+            "type": "text",
+            "text": "considered as one principle that is"
+        },
+        {
+            "type": "text",
+            "text": "avyakta"
+        },
+        {
+            "type": "text",
+            "text": "."
+        },
+        {
+            "type": "text",
+            "text": "["
+        },
+        {
+            "type": "text",
+            "text": "12"
+        },
+        {
+            "type": "text",
+            "text": "]"
+        },
+        {
+            "type": "text",
+            "text": "These principles are classified into two categories – 8"
+        },
+        {
+            "type": "text",
+            "text": "prakriti"
+        },
+        {
+            "type": "text",
+            "text": "(creators) and 16 vikara (creations) [Cha.Sa. ShariraSthana1/63]. Tanmatras are considered as"
+        },
+        {
+            "type": "text",
+            "text": "prakriti"
+        },
+        {
+            "type": "text",
+            "text": "tattva and para (supreme). [Cha.Sa. ShariraSthana 1/35] Sushruta explained the surge in universe, counted 24 principles (tattva). He has mentioned the creation of tanmatras from"
+        },
+        {
+            "type": "text",
+            "text": "tamasa"
+        },
+        {
+            "type": "text",
+            "text": "and"
+        },
+        {
+            "type": "text",
+            "text": "rajasa"
+        },
+        {
+            "type": "text",
+            "text": "ahankara. [Su.Sa. ShariraSthana 1]"
+        },
+        {
+            "type": "h2",
+            "text": "Theories of origination of mahabhutas from tanmatras",
+            "html": "<h2><span class=\"mw-headline\" id=\"Theories_of_origination_of_mahabhutas_from_tanmatras\">Theories of origination of mahabhutas from tanmatras</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "text",
+            "text": "There are various opinions about origination of gross elements ("
+        },
+        {
+            "type": "text",
+            "text": "mahabhutas"
+        },
+        {
+            "type": "text",
+            "text": ") from subtle elements (tanmatras)"
+        },
+        {
+            "type": "ol",
+            "text": "Each mahabhuta originates from its own tanmatra. As commented by Shri Gaudapad on Sankhyakarika, akasha originated from shabda tanmatra, vayu from sparsha tanmatra, agni from rupa tanmatra, jala from rasa tanmatra and prithvi from gandha tanmatra respectively. [ 13 ] Quintiplication (panchikarana): In Vedant philosophy, it is believed that for formation of each gross element all tanmatras take part in specific proportion. The dominance of concerned tanmatra gives rise to the concerned mahabhoota . That is in each sthulabhuta 50% or ½ portion will show dominance of its own tanmatra and rest four tanmatras will occupy 1/8th portion (12.50%) each. This is known as panchikarana. [ 14 ] For example, akasha mahabhoota is formed by combination of - 50% of shabda tanmatra, 12.5% of sparsha tanmatra, 12.5% of rupa tanmatra, 12.5% of rasa tanmatra and 12.5% of gandha tanmatra. Addition of properties (kramotpatti [ 15 ] / bhutantaraanupravesha [ 16 ] / ekottarparivriddhi [ 17 ] ) When the gross elements originate from its own tanmatra, the previous element’s tanmatra also plays role in its creation. That means first akash originates from shabdatanmatra. Thereafter, vayu mahabhoota originates from sparsha tanmatra along with shabda tanmatra. So vayu shows two qualities shabda and sparsha , and so on/ The properties of each mahabhuta in sequential formation are shown in table below.",
+            "html": "<ol><li>Each <a href=\"/index.php?title=Pancha_mahabhuta\" title=\"Pancha mahabhuta\">mahabhuta</a> originates from its own tanmatra. As commented by Shri Gaudapad on Sankhyakarika, <a href=\"/index.php?title=Akasha_mahabhuta\" title=\"Akasha mahabhuta\">akasha</a> originated from shabda tanmatra, <a href=\"/index.php?title=Vayu_mahabhuta\" title=\"Vayu mahabhuta\">vayu</a> from sparsha tanmatra, <a href=\"/index.php?title=Agni_mahabhuta\" title=\"Agni mahabhuta\">agni</a> from rupa tanmatra, <a href=\"/index.php?title=Jala_mahabhuta\" title=\"Jala mahabhuta\">jala</a> from rasa <a class=\"mw-selflink selflink\">tanmatra</a> and <a href=\"/index.php?title=Prithvi_mahabhuta\" title=\"Prithvi mahabhuta\">prithvi</a> from gandha tanmatra respectively.<sup class=\"reference\" id=\"cite_ref-13\"><a href=\"#cite_note-13\"><span class=\"cite-bracket\">[</span>13<span class=\"cite-bracket\">]</span></a></sup>\n</li><li>Quintiplication (panchikarana): <br/>In Vedant philosophy, it is believed that for formation of each gross element all tanmatras take part in specific proportion. The dominance of concerned tanmatra gives rise to the concerned <a href=\"/index.php?title=Pancha_mahabhuta\" title=\"Pancha mahabhuta\">mahabhoota</a>. That is in each sthulabhuta 50% or ½ portion will show dominance of its own tanmatra and rest four tanmatras will occupy 1/8th  portion (12.50%) each. This is known as panchikarana.<sup class=\"reference\" id=\"cite_ref-14\"><a href=\"#cite_note-14\"><span class=\"cite-bracket\">[</span>14<span class=\"cite-bracket\">]</span></a></sup></li>\nFor example, <a href=\"/index.php?title=Akasha_mahabhuta\" title=\"Akasha mahabhuta\">akasha mahabhoota</a> is formed by combination of - 50% of shabda tanmatra, 12.5% of sparsha tanmatra, 12.5% of rupa tanmatra, 12.5% of rasa tanmatra and 12.5% of gandha tanmatra.\n<li>Addition of properties (kramotpatti<sup class=\"reference\" id=\"cite_ref-15\"><a href=\"#cite_note-15\"><span class=\"cite-bracket\">[</span>15<span class=\"cite-bracket\">]</span></a></sup>/ bhutantaraanupravesha<sup class=\"reference\" id=\"cite_ref-16\"><a href=\"#cite_note-16\"><span class=\"cite-bracket\">[</span>16<span class=\"cite-bracket\">]</span></a></sup>/ ekottarparivriddhi<sup class=\"reference\" id=\"cite_ref-17\"><a href=\"#cite_note-17\"><span class=\"cite-bracket\">[</span>17<span class=\"cite-bracket\">]</span></a></sup>)<br/>When the gross elements originate from its own tanmatra, the previous element’s tanmatra also plays role in its creation. That means first <a href=\"/index.php?title=Akasha_mahabhuta\" title=\"Akasha mahabhuta\">akash</a> originates from shabdatanmatra. Thereafter, <a href=\"/index.php?title=Vayu_mahabhuta\" title=\"Vayu mahabhuta\">vayu mahabhoota</a> originates from sparsha tanmatra along with shabda tanmatra. So <a href=\"/index.php?title=Vayu_mahabhuta\" title=\"Vayu mahabhuta\">vayu</a> shows two qualities <a href=\"/index.php?title=Shabda\" title=\"Shabda\">shabda</a> and <a href=\"/index.php?title=Sparsha\" title=\"Sparsha\">sparsha</a>, and so on/ The properties of each <a href=\"/index.php?title=Pancha_mahabhuta\" title=\"Pancha mahabhuta\">mahabhuta</a> in sequential formation are shown in table below. </li></ol>",
+            "links": [
+                {
+                    "text": "mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pancha_mahabhuta"
+                },
+                {
+                    "text": "akasha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta"
+                },
+                {
+                    "text": "vayu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta"
+                },
+                {
+                    "text": "agni",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta"
+                },
+                {
+                    "text": "jala",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Jala_mahabhuta"
+                },
+                {
+                    "text": "prithvi",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta"
+                },
+                {
+                    "text": "[ 13 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_note-13"
+                },
+                {
+                    "text": "mahabhoota",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pancha_mahabhuta"
+                },
+                {
+                    "text": "[ 14 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_note-14"
+                },
+                {
+                    "text": "akasha mahabhoota",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta"
+                },
+                {
+                    "text": "[ 15 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_note-15"
+                },
+                {
+                    "text": "[ 16 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_note-16"
+                },
+                {
+                    "text": "[ 17 ]",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_note-17"
+                },
+                {
+                    "text": "akash",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta"
+                },
+                {
+                    "text": "vayu mahabhoota",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta"
+                },
+                {
+                    "text": "vayu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta"
+                },
+                {
+                    "text": "shabda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Shabda"
+                },
+                {
+                    "text": "sparsha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sparsha"
+                },
+                {
+                    "text": "mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pancha_mahabhuta"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Each mahabhuta originates from its own tanmatra. As commented by Shri Gaudapad on Sankhyakarika, akasha originated from shabda tanmatra, vayu from sparsha tanmatra, agni from rupa tanmatra, jala from rasa tanmatra and prithvi from gandha tanmatra respectively. [ 13 ]",
+                    "links": [
+                        {
+                            "text": "mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pancha_mahabhuta"
+                        },
+                        {
+                            "text": "akasha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta"
+                        },
+                        {
+                            "text": "vayu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta"
+                        },
+                        {
+                            "text": "agni",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta"
+                        },
+                        {
+                            "text": "jala",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Jala_mahabhuta"
+                        },
+                        {
+                            "text": "prithvi",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta"
+                        },
+                        {
+                            "text": "[ 13 ]",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_note-13"
+                        }
+                    ]
+                },
+                {
+                    "text": "Quintiplication (panchikarana): In Vedant philosophy, it is believed that for formation of each gross element all tanmatras take part in specific proportion. The dominance of concerned tanmatra gives rise to the concerned mahabhoota . That is in each sthulabhuta 50% or ½ portion will show dominance of its own tanmatra and rest four tanmatras will occupy 1/8th portion (12.50%) each. This is known as panchikarana. [ 14 ]",
+                    "links": [
+                        {
+                            "text": "mahabhoota",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pancha_mahabhuta"
+                        },
+                        {
+                            "text": "[ 14 ]",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_note-14"
+                        }
+                    ]
+                },
+                {
+                    "text": "Addition of properties (kramotpatti [ 15 ] / bhutantaraanupravesha [ 16 ] / ekottarparivriddhi [ 17 ] ) When the gross elements originate from its own tanmatra, the previous element’s tanmatra also plays role in its creation. That means first akash originates from shabdatanmatra. Thereafter, vayu mahabhoota originates from sparsha tanmatra along with shabda tanmatra. So vayu shows two qualities shabda and sparsha , and so on/ The properties of each mahabhuta in sequential formation are shown in table below.",
+                    "links": [
+                        {
+                            "text": "[ 15 ]",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_note-15"
+                        },
+                        {
+                            "text": "[ 16 ]",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_note-16"
+                        },
+                        {
+                            "text": "[ 17 ]",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_note-17"
+                        },
+                        {
+                            "text": "akash",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta"
+                        },
+                        {
+                            "text": "vayu mahabhoota",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta"
+                        },
+                        {
+                            "text": "vayu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta"
+                        },
+                        {
+                            "text": "shabda",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Shabda"
+                        },
+                        {
+                            "text": "sparsha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sparsha"
+                        },
+                        {
+                            "text": "mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pancha_mahabhuta"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "table",
+            "rows": [
+                [
+                    {
+                        "type": "th",
+                        "text": "No",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "th",
+                        "text": "Tanmatra",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "th",
+                        "text": "Mahabhuta",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Mahabhuta",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Pancha_mahabhuta"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "th",
+                        "text": "Guna",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Guna",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Guna"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "1",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Shabda",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Shabda",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Shabda"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Akash",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Akash",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Shabda",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Shabda",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Shabda"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "2",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Shabda + Sparsha",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Shabda",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Shabda"
+                            },
+                            {
+                                "text": "Sparsha",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Sparsha"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Vayu",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Vayu",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Shabda , Sparsha",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Shabda",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Shabda"
+                            },
+                            {
+                                "text": "Sparsha",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Sparsha"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "3",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Shabda + Sparsha + Rupa",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Shabda",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Shabda"
+                            },
+                            {
+                                "text": "Sparsha",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Sparsha"
+                            },
+                            {
+                                "text": "Rupa",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Rupa"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Agni",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Agni",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Shabda , Sparsha , Rupa",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Shabda",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Shabda"
+                            },
+                            {
+                                "text": "Sparsha",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Sparsha"
+                            },
+                            {
+                                "text": "Rupa",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Rupa"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "4",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Shabda + Sparsha + Rupa + Rasa",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Shabda",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Shabda"
+                            },
+                            {
+                                "text": "Sparsha",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Sparsha"
+                            },
+                            {
+                                "text": "Rupa",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Rupa"
+                            },
+                            {
+                                "text": "Rasa",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Jala",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Jala",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Jala_mahabhuta"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Shabda , Sparsha , Rupa , Rasa",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Shabda",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Shabda"
+                            },
+                            {
+                                "text": "Sparsha",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Sparsha"
+                            },
+                            {
+                                "text": "Rupa",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Rupa"
+                            },
+                            {
+                                "text": "Rasa",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "td",
+                        "text": "5",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": []
+                    },
+                    {
+                        "type": "td",
+                        "text": "Shabda + Sparsha + Rupa + Rasa + Gandha",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Shabda",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Shabda"
+                            },
+                            {
+                                "text": "Sparsha",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Sparsha"
+                            },
+                            {
+                                "text": "Rupa",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Rupa"
+                            },
+                            {
+                                "text": "Rasa",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa"
+                            },
+                            {
+                                "text": "Gandha",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Gandha"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Prithvi",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Prithvi",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "td",
+                        "text": "Shabda , Sparsha , Rupa , Rasa , Gandha",
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "links": [
+                            {
+                                "text": "Shabda",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Shabda"
+                            },
+                            {
+                                "text": "Sparsha",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Sparsha"
+                            },
+                            {
+                                "text": "Rupa",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Rupa"
+                            },
+                            {
+                                "text": "Rasa",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa"
+                            },
+                            {
+                                "text": "Gandha",
+                                "url": "https://www.carakasamhitaonline.com/index.php?title=Gandha"
+                            }
+                        ]
+                    }
+                ]
+            ],
+            "html": "<table class=\"wikitable\">\n<caption>Table: Sequential formation of mahabhuta, their properties with tanmatra:\n</caption>\n<tbody><tr>\n<th>No\n</th>\n<th>Tanmatra\n</th>\n<th><a href=\"/index.php?title=Pancha_mahabhuta\" title=\"Pancha mahabhuta\">Mahabhuta</a>\n</th>\n<th><a href=\"/index.php?title=Guna\" title=\"Guna\">Guna</a>\n</th></tr>\n<tr>\n<td style=\"text-align:center;\">1\n</td>\n<td><a href=\"/index.php?title=Shabda\" title=\"Shabda\">Shabda</a>\n</td>\n<td><a href=\"/index.php?title=Akasha_mahabhuta\" title=\"Akasha mahabhuta\">Akash</a>\n</td>\n<td><a href=\"/index.php?title=Shabda\" title=\"Shabda\">Shabda</a>\n</td></tr>\n<tr>\n<td style=\"text-align:center;\">2\n</td>\n<td><a href=\"/index.php?title=Shabda\" title=\"Shabda\">Shabda</a> + <a href=\"/index.php?title=Sparsha\" title=\"Sparsha\">Sparsha</a>\n</td>\n<td><a href=\"/index.php?title=Vayu_mahabhuta\" title=\"Vayu mahabhuta\">Vayu</a>\n</td>\n<td><a href=\"/index.php?title=Shabda\" title=\"Shabda\">Shabda</a>, <a href=\"/index.php?title=Sparsha\" title=\"Sparsha\">Sparsha</a>\n</td></tr>\n<tr>\n<td style=\"text-align:center;\">3\n</td>\n<td><a href=\"/index.php?title=Shabda\" title=\"Shabda\">Shabda</a> + <a href=\"/index.php?title=Sparsha\" title=\"Sparsha\">Sparsha</a> + <a href=\"/index.php?title=Rupa\" title=\"Rupa\">Rupa</a>\n</td>\n<td><a href=\"/index.php?title=Agni_mahabhuta\" title=\"Agni mahabhuta\">Agni</a>\n</td>\n<td><a href=\"/index.php?title=Shabda\" title=\"Shabda\">Shabda</a>, <a href=\"/index.php?title=Sparsha\" title=\"Sparsha\">Sparsha</a>, <a href=\"/index.php?title=Rupa\" title=\"Rupa\">Rupa</a>\n</td></tr>\n<tr>\n<td style=\"text-align:center;\">4\n</td>\n<td><a href=\"/index.php?title=Shabda\" title=\"Shabda\">Shabda</a> + <a href=\"/index.php?title=Sparsha\" title=\"Sparsha\">Sparsha</a> + <a href=\"/index.php?title=Rupa\" title=\"Rupa\">Rupa</a> + <a href=\"/index.php?title=Rasa\" title=\"Rasa\">Rasa</a>\n</td>\n<td><a href=\"/index.php?title=Jala_mahabhuta\" title=\"Jala mahabhuta\">Jala</a>\n</td>\n<td><a href=\"/index.php?title=Shabda\" title=\"Shabda\">Shabda</a>, <a href=\"/index.php?title=Sparsha\" title=\"Sparsha\">Sparsha</a>, <a href=\"/index.php?title=Rupa\" title=\"Rupa\">Rupa</a>, <a href=\"/index.php?title=Rasa\" title=\"Rasa\">Rasa</a>\n</td></tr>\n<tr>\n<td style=\"text-align:center;\">5\n</td>\n<td><a href=\"/index.php?title=Shabda\" title=\"Shabda\">Shabda</a> + <a href=\"/index.php?title=Sparsha\" title=\"Sparsha\">Sparsha</a> + <a href=\"/index.php?title=Rupa\" title=\"Rupa\">Rupa</a> + <a href=\"/index.php?title=Rasa\" title=\"Rasa\">Rasa</a> + <a href=\"/index.php?title=Gandha\" title=\"Gandha\">Gandha</a>\n</td>\n<td><a href=\"/index.php?title=Prithvi_mahabhuta\" title=\"Prithvi mahabhuta\">Prithvi</a>\n</td>\n<td><a href=\"/index.php?title=Shabda\" title=\"Shabda\">Shabda</a>, <a href=\"/index.php?title=Sparsha\" title=\"Sparsha\">Sparsha</a>, <a href=\"/index.php?title=Rupa\" title=\"Rupa\">Rupa</a>, <a href=\"/index.php?title=Rasa\" title=\"Rasa\">Rasa</a>, <a href=\"/index.php?title=Gandha\" title=\"Gandha\">Gandha</a>\n</td></tr>\n</tbody></table>",
+            "links": [
+                {
+                    "text": "Mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pancha_mahabhuta"
+                },
+                {
+                    "text": "Guna",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Guna"
+                },
+                {
+                    "text": "Shabda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Shabda"
+                },
+                {
+                    "text": "Akash",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta"
+                },
+                {
+                    "text": "Shabda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Shabda"
+                },
+                {
+                    "text": "Shabda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Shabda"
+                },
+                {
+                    "text": "Sparsha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sparsha"
+                },
+                {
+                    "text": "Vayu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta"
+                },
+                {
+                    "text": "Shabda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Shabda"
+                },
+                {
+                    "text": "Sparsha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sparsha"
+                },
+                {
+                    "text": "Shabda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Shabda"
+                },
+                {
+                    "text": "Sparsha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sparsha"
+                },
+                {
+                    "text": "Rupa",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rupa"
+                },
+                {
+                    "text": "Agni",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta"
+                },
+                {
+                    "text": "Shabda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Shabda"
+                },
+                {
+                    "text": "Sparsha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sparsha"
+                },
+                {
+                    "text": "Rupa",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rupa"
+                },
+                {
+                    "text": "Shabda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Shabda"
+                },
+                {
+                    "text": "Sparsha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sparsha"
+                },
+                {
+                    "text": "Rupa",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rupa"
+                },
+                {
+                    "text": "Rasa",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa"
+                },
+                {
+                    "text": "Jala",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Jala_mahabhuta"
+                },
+                {
+                    "text": "Shabda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Shabda"
+                },
+                {
+                    "text": "Sparsha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sparsha"
+                },
+                {
+                    "text": "Rupa",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rupa"
+                },
+                {
+                    "text": "Rasa",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa"
+                },
+                {
+                    "text": "Shabda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Shabda"
+                },
+                {
+                    "text": "Sparsha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sparsha"
+                },
+                {
+                    "text": "Rupa",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rupa"
+                },
+                {
+                    "text": "Rasa",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa"
+                },
+                {
+                    "text": "Gandha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Gandha"
+                },
+                {
+                    "text": "Prithvi",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta"
+                },
+                {
+                    "text": "Shabda",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Shabda"
+                },
+                {
+                    "text": "Sparsha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sparsha"
+                },
+                {
+                    "text": "Rupa",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rupa"
+                },
+                {
+                    "text": "Rasa",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa"
+                },
+                {
+                    "text": "Gandha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Gandha"
+                }
+            ]
+        },
+        {
+            "type": "h3",
+            "text": "Vaisheshika theory of creation of mahabhuta",
+            "html": "<h3><span class=\"mw-headline\" id=\"Vaisheshika_theory_of_creation_of_mahabhuta\">Vaisheshika theory of creation of <a class=\"mw-redirect\" href=\"/index.php?title=Mahabhuta\" title=\"Mahabhuta\">mahabhuta</a></span></h3>",
+            "links": [
+                {
+                    "text": "mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Mahabhuta"
+                }
+            ],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "text",
+            "text": "Vaisheshika considers paramanu as the subtle element responsible for production of gross elements. As"
+        },
+        {
+            "type": "text",
+            "text": "akash"
+        },
+        {
+            "type": "text",
+            "text": "is omnipresent, does not exist in the form of paramanu, so in the initial stage the paramanus of 4 elements ("
+        },
+        {
+            "type": "text",
+            "text": "vayu"
+        },
+        {
+            "type": "text",
+            "text": ","
+        },
+        {
+            "type": "text",
+            "text": "agni"
+        },
+        {
+            "type": "text",
+            "text": ","
+        },
+        {
+            "type": "text",
+            "text": "jala"
+        },
+        {
+            "type": "text",
+            "text": ","
+        },
+        {
+            "type": "text",
+            "text": "prithvi"
+        },
+        {
+            "type": "text",
+            "text": ") are in the balanced state. At surge, they start moving, they combine in specific way, two atoms of same category combine to form a binary molecule (dvyanuka), combination of three dvayanuka forming tryanuka, furthermore combine into grosser molecules of chaturunuka, and so on. The other view is that atoms form diads and triads directly to form molecules of different substances. Atoms possess an incessant vibratory motion. The activity of the atoms and their combinations are not arbitrary but according to laws that are expressed as the adrushta."
+        },
+        {
+            "type": "text",
+            "text": "["
+        },
+        {
+            "type": "text",
+            "text": "18"
+        },
+        {
+            "type": "text",
+            "text": "]"
+        },
+        {
+            "type": "h2",
+            "text": "Contemporary theories",
+            "html": "<h2><span class=\"mw-headline\" id=\"Contemporary_theories\">Contemporary theories</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "text",
+            "text": "Many physicists have studied the theories of evolution from Indian philosophies and have shown corelation of it in contemporary science mainly quantum physics."
+        },
+        {
+            "type": "h3",
+            "text": "Tanmatra and quantum spins",
+            "html": "<h3><span class=\"mw-headline\" id=\"Tanmatra_and_quantum_spins\">Tanmatra and quantum spins</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "text",
+            "text": "John S. Hagelin, the physicist in his book ‘Is Consciousness the Unified Field? A Field Theorist's Perspective; (Maharishi International University Fairfield, Iowa) states the similarity between quantum mechanical spins and tanmatras. It is stated that ‘A very similar structure is observed within the framework of quantum field theory, where there are also five fundamental categories of quantum field or \"spin types\" consistent with relativistic causality and renormalizability, which are responsible for the entire material universe. These are the spin-2 graviton (responsible for space-time curvature and the force of gravity), the spin - 3/2 gravitino (appearing only in the context of a supersymmetric field theory), spin-1 force fields, spin -1/ 2 matter fields, and the spin-0 Higgs fields responsible for symmetry breaking.’"
+        },
+        {
+            "type": "text",
+            "text": "["
+        },
+        {
+            "type": "text",
+            "text": "19"
+        },
+        {
+            "type": "text",
+            "text": "]"
+        },
+        {
+            "type": "text",
+            "text": "."
+        },
+        {
+            "type": "text",
+            "text": "There appears to be a striking correspondence between the five tanmatras and these quantum-mechanical spin types: between the space tanmatra and the gravitational field; between the air tanmatra, which stands as a link between space and the other elements, and the gravitino field; between the fire tanmatra, responsible for chemical transformations and the sense of sight, and the spin-1 forces; and between the water and earth tanmatras and the spin-% and spin-0 matter fields, respectively."
+        },
+        {
+            "type": "text",
+            "text": "["
+        },
+        {
+            "type": "text",
+            "text": "20"
+        },
+        {
+            "type": "text",
+            "text": "]"
+        },
+        {
+            "type": "h3",
+            "text": "Tanmatra, paramanu and wave particle duality",
+            "html": "<h3><span id=\"Tanmatra.2C_paramanu_and_wave_particle_duality\"></span><span class=\"mw-headline\" id=\"Tanmatra,_paramanu_and_wave_particle_duality\">Tanmatra, paramanu and wave particle duality</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "text",
+            "text": "In the book ‘Indian Physics outline of early History.’ it is stated that ‘The tanmatras are an abstract potential whereas bhutadi are the elementary atoms which is somewhat like the quantum wavefunction and material particles. Samkhya, where the observer is central, considers tanmatras to emerge first. On the other hand, Vaisheshika. with its focus on atoms and their combinations, does not speak of tanmatras although some of the"
+        },
+        {
+            "type": "text",
+            "text": "gunas"
+        },
+        {
+            "type": "text",
+            "text": "are like the tanmatras. In other words, we have something akin to the concept of wave-particle duality of quantum physics."
+        },
+        {
+            "type": "text",
+            "text": "["
+        },
+        {
+            "type": "text",
+            "text": "21"
+        },
+        {
+            "type": "text",
+            "text": "]"
+        },
+        {
+            "type": "h3",
+            "text": "Tanmatra and elementary particles",
+            "html": "<h3><span class=\"mw-headline\" id=\"Tanmatra_and_elementary_particles\">Tanmatra and elementary particles</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "text",
+            "text": "Modern science supports the proposition that five tanmatra are the progenitors of their visible counterparts by describing basic formative particles (electron, proton and neutron- which could be the tanmatras) combining in different proportions and forming atoms, elements and compounds."
+        },
+        {
+            "type": "text",
+            "text": "["
+        },
+        {
+            "type": "text",
+            "text": "22"
+        },
+        {
+            "type": "text",
+            "text": "]"
+        },
+        {
+            "type": "h3",
+            "text": "Significance",
+            "html": "<h3><span class=\"mw-headline\" id=\"Significance\">Significance</span></h3>",
+            "links": [],
+            "images": [],
+            "level": 3
+        },
+        {
+            "type": "text",
+            "text": "The study of tanmatra is important in order to understand our origin, as they are the connectors between subtle ("
+        },
+        {
+            "type": "text",
+            "text": "avyakta"
+        },
+        {
+            "type": "text",
+            "text": ") and gross (vyakta). Also, in order to describe the link between the sense organs and the elements, the Sankhya school developed the concept of tanmatra. The properties of elements are specified with particular qualities which share something in common."
+        },
+        {
+            "type": "text",
+            "text": "["
+        },
+        {
+            "type": "text",
+            "text": "23"
+        },
+        {
+            "type": "text",
+            "text": "]"
+        },
+        {
+            "type": "text",
+            "text": "Tanmatra is an important concept to understand and build base for Ayurved biology."
+        },
+        {
+            "type": "text",
+            "text": "["
+        },
+        {
+            "type": "text",
+            "text": "24"
+        },
+        {
+            "type": "text",
+            "text": "]"
+        },
+        {
+            "type": "h2",
+            "text": "Application of tanmatra in health and prevention of diseases",
+            "html": "<h2><span class=\"mw-headline\" id=\"Application_of_tanmatra_in_health_and_prevention_of_diseases\">Application of tanmatra in health and prevention of diseases</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "text",
+            "text": "Tanmatras are subtle forms of fundamental elements (sukshma"
+        },
+        {
+            "type": "text",
+            "text": "mahabhuta"
+        },
+        {
+            "type": "text",
+            "text": "). The meditation on tanmatra helps a yogi to control the senses and desire. On the same parlance the meditation on tanmatras help to prevent intellectual errors ("
+        },
+        {
+            "type": "text",
+            "text": "prajnaparadha"
+        },
+        {
+            "type": "text",
+            "text": ") and improper union of senses with objects (asatmya indriyartha samyoga). Knowledge of subtler form can help to achieve positive health in terms of physical, mental and spiritual aspects."
+        },
+        {
+            "type": "h2",
+            "text": "Application of tanmatra in clinical practices",
+            "html": "<h2><span class=\"mw-headline\" id=\"Application_of_tanmatra_in_clinical_practices\">Application of tanmatra in clinical practices</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "text",
+            "text": "The tanmatra is the basic platform for panchabhautika siddhanta, which is widely used in"
+        },
+        {
+            "type": "text",
+            "text": "ayurveda"
+        },
+        {
+            "type": "text",
+            "text": "clinical practices. Some of the applications are as below:"
+        },
+        {
+            "type": "ol",
+            "text": "Formation of foetus: Five elements and soul/conscious ( atma ) conjugates to form foetus.[Cha.Sa. Sharira Sthana 4/6] Prakriti nirmana:Panchabhautiki prakriti is formed. [Su. Sa. Sharira Sthana 4] Body elements and panchamahabhutas : Shabda(sound) , sense of hearing, porous structures in the body are showing dominance of akasha mahabhuta . Touch, skin, pulsations, lightness, and all movements are due to vayu mahabhuta . Vison, eyes, colour, temperature, digestion ,bravery are due to teja mahabhuta . Taste, tongue, coldness, unctuousness, semen and all liquid components of body show dominance of Jala mahabhuta . Sense of smell, nose, and all solid structures are due to prithvi mahabhuta dominance. [Su. Sa.Sharira Sthana 1/19] Dosha with specific dominance of panchamahabhuta : Vata dosha : Vayu + Akash Pitta dosha : Teja Kapha dosha : Prithvi + Jala Digestive capacity (agni): Bhutagni which are responsible for metabolism of the diet have dominance of relatedmahabhuta .[ Cha. Sa. ShariraSthana 15/13] Dravya and panchamahabhuta : Among six rasa (taste), each rasa is associated with 2 mahabhuta . [A.Hr. Sutra Sthana10/1] Sweet/Madhura : Prithvi + Jala Sour/Amla - Teja + Prithvi Salty/Lavan - Jala + Teja Bitter/Tikta - Akash + Vayu Pungent/Katu - Agni + Vayu Astringent - Prithvi + Vayu Ahara , the foodis also panchabhautika. [Su. Sa. Sutra Sthana 46/ 526] All dravya are panchabhautika [A.Hr. Sutra Sthana9/5-10] Shodhanadravya(drugs used for elimination of dosha ) have predominance of specific mahabhuta . The drugs useful for vamana (therapeutic emesis) have dominance of agni and vayu mahabhuta . Virechana ( therapeutic purgation) dravya have dominance of prithvi and jala mahabhuta . [Cha. Sa. KalpaSthana1/5]",
+            "html": "<ol><li>Formation of foetus: Five elements and soul/conscious (<a href=\"/index.php?title=Atma\" title=\"Atma\">atma</a>) conjugates to form foetus.[Cha.Sa. <a href=\"/index.php?title=Sharira_Sthana\" title=\"Sharira Sthana\">Sharira Sthana</a> 4/6]</li>\n<li><a href=\"/index.php?title=Prakriti\" title=\"Prakriti\">Prakriti</a> nirmana:Panchabhautiki prakriti is formed. [Su. Sa. Sharira Sthana 4]</li>\n<li><a href=\"/index.php?title=Sharira\" title=\"Sharira\">Body</a> elements and <a href=\"/index.php?title=Pancha_mahabhuta\" title=\"Pancha mahabhuta\">panchamahabhutas</a>:\n<ol type=\"I\">\n<li><a href=\"/index.php?title=Shabda\" title=\"Shabda\">Shabda(sound)</a>, sense of hearing, porous structures in the body are showing dominance of <a href=\"/index.php?title=Akasha_mahabhuta\" title=\"Akasha mahabhuta\">akasha mahabhuta</a>.  Touch, skin, pulsations, lightness, and all movements are due to <a href=\"/index.php?title=Vayu_mahabhuta\" title=\"Vayu mahabhuta\">vayu mahabhuta</a>. Vison, eyes, colour, temperature, digestion ,bravery are due to <a href=\"/index.php?title=Agni_mahabhuta\" title=\"Agni mahabhuta\">teja mahabhuta</a>. Taste, tongue, coldness, unctuousness, semen and all liquid components of <a href=\"/index.php?title=Sharira\" title=\"Sharira\">body</a> show dominance of <a href=\"/index.php?title=Jala_mahabhuta\" title=\"Jala mahabhuta\">Jala mahabhuta</a>. Sense of smell, nose, and all solid structures are due to <a href=\"/index.php?title=Prithvi_mahabhuta\" title=\"Prithvi mahabhuta\">prithvi mahabhuta</a> dominance. [Su. Sa.Sharira Sthana 1/19]</li>\n<li><a href=\"/index.php?title=Dosha\" title=\"Dosha\">Dosha</a> with specific dominance of <a href=\"/index.php?title=Pancha_mahabhuta\" title=\"Pancha mahabhuta\">panchamahabhuta</a>:\n<ul><li><a href=\"/index.php?title=Vata_dosha\" title=\"Vata dosha\">Vata dosha</a>: <a href=\"/index.php?title=Vayu_mahabhuta\" title=\"Vayu mahabhuta\">Vayu</a> + <a href=\"/index.php?title=Akasha_mahabhuta\" title=\"Akasha mahabhuta\">Akash</a></li>\n<li><a href=\"/index.php?title=Pitta_dosha\" title=\"Pitta dosha\">Pitta dosha</a>: <a href=\"/index.php?title=Agni_mahabhuta\" title=\"Agni mahabhuta\">Teja</a></li>\n<li><a class=\"mw-redirect\" href=\"/index.php?title=Kapha\" title=\"Kapha\">Kapha dosha</a>: <a href=\"/index.php?title=Prithvi_mahabhuta\" title=\"Prithvi mahabhuta\">Prithvi</a> + <a href=\"/index.php?title=Jala_mahabhuta\" title=\"Jala mahabhuta\">Jala</a></li></ul>\n</li><li>Digestive capacity (agni):<br/>\n<a href=\"/index.php?title=Bhutagni\" title=\"Bhutagni\">Bhutagni</a> which are responsible for metabolism of the diet have dominance of relatedmahabhuta .[ Cha. Sa. ShariraSthana 15/13]</li></ol>\n</li>\n<li><a href=\"/index.php?title=Dravya\" title=\"Dravya\">Dravya</a> and <a href=\"/index.php?title=Pancha_mahabhuta\" title=\"Pancha mahabhuta\">panchamahabhuta</a>:\n<ol type=\"I\"><li>Among six <a href=\"/index.php?title=Rasa\" title=\"Rasa\">rasa</a> (taste), each <a href=\"/index.php?title=Rasa\" title=\"Rasa\">rasa</a> is associated with 2 <a href=\"/index.php?title=Pancha_mahabhuta\" title=\"Pancha mahabhuta\">mahabhuta</a>. [A.Hr. Sutra Sthana10/1]\n<ul style=\"list-style-type:circle;\">\n<li><a href=\"/index.php?title=Madhura\" title=\"Madhura\">Sweet/Madhura</a>: <a href=\"/index.php?title=Prithvi_mahabhuta\" title=\"Prithvi mahabhuta\">Prithvi</a> + <a href=\"/index.php?title=Jala_mahabhuta\" title=\"Jala mahabhuta\">Jala</a></li>\n<li><a href=\"/index.php?title=Amla\" title=\"Amla\">Sour/Amla</a> - <a href=\"/index.php?title=Agni_mahabhuta\" title=\"Agni mahabhuta\">Teja</a> + <a href=\"/index.php?title=Prithvi_mahabhuta\" title=\"Prithvi mahabhuta\">Prithvi</a></li>\n<li><a href=\"/index.php?title=Lavana\" title=\"Lavana\">Salty/Lavan</a> - <a href=\"/index.php?title=Jala_mahabhuta\" title=\"Jala mahabhuta\">Jala</a> + <a href=\"/index.php?title=Agni_mahabhuta\" title=\"Agni mahabhuta\">Teja</a></li>\n<li><a href=\"/index.php?title=Tikta\" title=\"Tikta\">Bitter/Tikta</a> - <a href=\"/index.php?title=Akasha_mahabhuta\" title=\"Akasha mahabhuta\">Akash</a> + <a href=\"/index.php?title=Vayu_mahabhuta\" title=\"Vayu mahabhuta\">Vayu</a></li>\n<li><a href=\"/index.php?title=Katu\" title=\"Katu\">Pungent/Katu</a> - <a href=\"/index.php?title=Agni_mahabhuta\" title=\"Agni mahabhuta\">Agni</a> + <a href=\"/index.php?title=Vayu_mahabhuta\" title=\"Vayu mahabhuta\">Vayu</a></li>\n<li>Astringent - <a href=\"/index.php?title=Prithvi_mahabhuta\" title=\"Prithvi mahabhuta\">Prithvi</a> + <a href=\"/index.php?title=Vayu_mahabhuta\" title=\"Vayu mahabhuta\">Vayu</a></li></ul></li>\n<li><a href=\"/index.php?title=Ahara\" title=\"Ahara\">Ahara</a>, the foodis also panchabhautika. [Su. Sa. Sutra Sthana 46/ 526]</li>\n<li>All <a href=\"/index.php?title=Dravya\" title=\"Dravya\">dravya</a> are panchabhautika [A.Hr. Sutra Sthana9/5-10]</li>\n<li>Shodhanadravya(drugs used for elimination of <a href=\"/index.php?title=Dosha\" title=\"Dosha\">dosha</a>) have predominance of specific <a href=\"/index.php?title=Pancha_mahabhuta\" title=\"Pancha mahabhuta\">mahabhuta</a>.  The drugs useful for <a href=\"/index.php?title=Vamana\" title=\"Vamana\">vamana</a>(therapeutic emesis) have dominance of <a href=\"/index.php?title=Agni_mahabhuta\" title=\"Agni mahabhuta\">agni</a> and <a href=\"/index.php?title=Vayu_mahabhuta\" title=\"Vayu mahabhuta\">vayu mahabhuta</a>. <a href=\"/index.php?title=Virechana\" title=\"Virechana\">Virechana</a>( therapeutic purgation) <a href=\"/index.php?title=Dravya\" title=\"Dravya\">dravya</a> have dominance of <a href=\"/index.php?title=Prithvi_mahabhuta\" title=\"Prithvi mahabhuta\">prithvi</a> and <a href=\"/index.php?title=Jala_mahabhuta\" title=\"Jala mahabhuta\">jala mahabhuta</a>. [Cha. Sa. KalpaSthana1/5]</li></ol>\n</li></ol>",
+            "links": [
+                {
+                    "text": "atma",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Atma"
+                },
+                {
+                    "text": "Sharira Sthana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                },
+                {
+                    "text": "Prakriti",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                },
+                {
+                    "text": "Body",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira"
+                },
+                {
+                    "text": "panchamahabhutas",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pancha_mahabhuta"
+                },
+                {
+                    "text": "Shabda(sound)",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Shabda"
+                },
+                {
+                    "text": "akasha mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta"
+                },
+                {
+                    "text": "vayu mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta"
+                },
+                {
+                    "text": "teja mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta"
+                },
+                {
+                    "text": "body",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira"
+                },
+                {
+                    "text": "Jala mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Jala_mahabhuta"
+                },
+                {
+                    "text": "prithvi mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta"
+                },
+                {
+                    "text": "Dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "panchamahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pancha_mahabhuta"
+                },
+                {
+                    "text": "Vata dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vata_dosha"
+                },
+                {
+                    "text": "Vayu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta"
+                },
+                {
+                    "text": "Akash",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta"
+                },
+                {
+                    "text": "Pitta dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha"
+                },
+                {
+                    "text": "Teja",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta"
+                },
+                {
+                    "text": "Kapha dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Kapha"
+                },
+                {
+                    "text": "Prithvi",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta"
+                },
+                {
+                    "text": "Jala",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Jala_mahabhuta"
+                },
+                {
+                    "text": "Bhutagni",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Bhutagni"
+                },
+                {
+                    "text": "Dravya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya"
+                },
+                {
+                    "text": "panchamahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pancha_mahabhuta"
+                },
+                {
+                    "text": "rasa",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa"
+                },
+                {
+                    "text": "rasa",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa"
+                },
+                {
+                    "text": "mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pancha_mahabhuta"
+                },
+                {
+                    "text": "Sweet/Madhura",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Madhura"
+                },
+                {
+                    "text": "Prithvi",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta"
+                },
+                {
+                    "text": "Jala",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Jala_mahabhuta"
+                },
+                {
+                    "text": "Sour/Amla",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Amla"
+                },
+                {
+                    "text": "Teja",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta"
+                },
+                {
+                    "text": "Prithvi",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta"
+                },
+                {
+                    "text": "Salty/Lavan",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Lavana"
+                },
+                {
+                    "text": "Jala",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Jala_mahabhuta"
+                },
+                {
+                    "text": "Teja",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta"
+                },
+                {
+                    "text": "Bitter/Tikta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tikta"
+                },
+                {
+                    "text": "Akash",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta"
+                },
+                {
+                    "text": "Vayu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta"
+                },
+                {
+                    "text": "Pungent/Katu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Katu"
+                },
+                {
+                    "text": "Agni",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta"
+                },
+                {
+                    "text": "Vayu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta"
+                },
+                {
+                    "text": "Prithvi",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta"
+                },
+                {
+                    "text": "Vayu",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta"
+                },
+                {
+                    "text": "Ahara",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Ahara"
+                },
+                {
+                    "text": "dravya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya"
+                },
+                {
+                    "text": "dosha",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                },
+                {
+                    "text": "mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Pancha_mahabhuta"
+                },
+                {
+                    "text": "vamana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vamana"
+                },
+                {
+                    "text": "agni",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta"
+                },
+                {
+                    "text": "vayu mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta"
+                },
+                {
+                    "text": "Virechana",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Virechana"
+                },
+                {
+                    "text": "dravya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya"
+                },
+                {
+                    "text": "prithvi",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta"
+                },
+                {
+                    "text": "jala mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Jala_mahabhuta"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Formation of foetus: Five elements and soul/conscious ( atma ) conjugates to form foetus.[Cha.Sa. Sharira Sthana 4/6]",
+                    "links": [
+                        {
+                            "text": "atma",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Atma"
+                        },
+                        {
+                            "text": "Sharira Sthana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira_Sthana"
+                        }
+                    ]
+                },
+                {
+                    "text": "Prakriti nirmana:Panchabhautiki prakriti is formed. [Su. Sa. Sharira Sthana 4]",
+                    "links": [
+                        {
+                            "text": "Prakriti",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prakriti"
+                        }
+                    ]
+                },
+                {
+                    "text": "Body elements and panchamahabhutas : Shabda(sound) , sense of hearing, porous structures in the body are showing dominance of akasha mahabhuta . Touch, skin, pulsations, lightness, and all movements are due to vayu mahabhuta . Vison, eyes, colour, temperature, digestion ,bravery are due to teja mahabhuta . Taste, tongue, coldness, unctuousness, semen and all liquid components of body show dominance of Jala mahabhuta . Sense of smell, nose, and all solid structures are due to prithvi mahabhuta dominance. [Su. Sa.Sharira Sthana 1/19] Dosha with specific dominance of panchamahabhuta : Vata dosha : Vayu + Akash Pitta dosha : Teja Kapha dosha : Prithvi + Jala Digestive capacity (agni): Bhutagni which are responsible for metabolism of the diet have dominance of relatedmahabhuta .[ Cha. Sa. ShariraSthana 15/13]",
+                    "links": [
+                        {
+                            "text": "Body",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira"
+                        },
+                        {
+                            "text": "panchamahabhutas",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pancha_mahabhuta"
+                        },
+                        {
+                            "text": "Shabda(sound)",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Shabda"
+                        },
+                        {
+                            "text": "akasha mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta"
+                        },
+                        {
+                            "text": "vayu mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta"
+                        },
+                        {
+                            "text": "teja mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta"
+                        },
+                        {
+                            "text": "body",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Sharira"
+                        },
+                        {
+                            "text": "Jala mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Jala_mahabhuta"
+                        },
+                        {
+                            "text": "prithvi mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta"
+                        },
+                        {
+                            "text": "Dosha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                        },
+                        {
+                            "text": "panchamahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pancha_mahabhuta"
+                        },
+                        {
+                            "text": "Vata dosha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vata_dosha"
+                        },
+                        {
+                            "text": "Vayu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta"
+                        },
+                        {
+                            "text": "Akash",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta"
+                        },
+                        {
+                            "text": "Pitta dosha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pitta_dosha"
+                        },
+                        {
+                            "text": "Teja",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta"
+                        },
+                        {
+                            "text": "Kapha dosha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Kapha"
+                        },
+                        {
+                            "text": "Prithvi",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta"
+                        },
+                        {
+                            "text": "Jala",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Jala_mahabhuta"
+                        },
+                        {
+                            "text": "Bhutagni",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Bhutagni"
+                        }
+                    ]
+                },
+                {
+                    "text": "Dravya and panchamahabhuta : Among six rasa (taste), each rasa is associated with 2 mahabhuta . [A.Hr. Sutra Sthana10/1] Sweet/Madhura : Prithvi + Jala Sour/Amla - Teja + Prithvi Salty/Lavan - Jala + Teja Bitter/Tikta - Akash + Vayu Pungent/Katu - Agni + Vayu Astringent - Prithvi + Vayu Ahara , the foodis also panchabhautika. [Su. Sa. Sutra Sthana 46/ 526] All dravya are panchabhautika [A.Hr. Sutra Sthana9/5-10] Shodhanadravya(drugs used for elimination of dosha ) have predominance of specific mahabhuta . The drugs useful for vamana (therapeutic emesis) have dominance of agni and vayu mahabhuta . Virechana ( therapeutic purgation) dravya have dominance of prithvi and jala mahabhuta . [Cha. Sa. KalpaSthana1/5]",
+                    "links": [
+                        {
+                            "text": "Dravya",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya"
+                        },
+                        {
+                            "text": "panchamahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pancha_mahabhuta"
+                        },
+                        {
+                            "text": "rasa",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa"
+                        },
+                        {
+                            "text": "rasa",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Rasa"
+                        },
+                        {
+                            "text": "mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pancha_mahabhuta"
+                        },
+                        {
+                            "text": "Sweet/Madhura",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Madhura"
+                        },
+                        {
+                            "text": "Prithvi",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta"
+                        },
+                        {
+                            "text": "Jala",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Jala_mahabhuta"
+                        },
+                        {
+                            "text": "Sour/Amla",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Amla"
+                        },
+                        {
+                            "text": "Teja",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta"
+                        },
+                        {
+                            "text": "Prithvi",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta"
+                        },
+                        {
+                            "text": "Salty/Lavan",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Lavana"
+                        },
+                        {
+                            "text": "Jala",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Jala_mahabhuta"
+                        },
+                        {
+                            "text": "Teja",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta"
+                        },
+                        {
+                            "text": "Bitter/Tikta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Tikta"
+                        },
+                        {
+                            "text": "Akash",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta"
+                        },
+                        {
+                            "text": "Vayu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta"
+                        },
+                        {
+                            "text": "Pungent/Katu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Katu"
+                        },
+                        {
+                            "text": "Agni",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta"
+                        },
+                        {
+                            "text": "Vayu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta"
+                        },
+                        {
+                            "text": "Prithvi",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta"
+                        },
+                        {
+                            "text": "Vayu",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta"
+                        },
+                        {
+                            "text": "Ahara",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Ahara"
+                        },
+                        {
+                            "text": "dravya",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya"
+                        },
+                        {
+                            "text": "dosha",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dosha"
+                        },
+                        {
+                            "text": "mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Pancha_mahabhuta"
+                        },
+                        {
+                            "text": "vamana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vamana"
+                        },
+                        {
+                            "text": "agni",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta"
+                        },
+                        {
+                            "text": "vayu mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta"
+                        },
+                        {
+                            "text": "Virechana",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Virechana"
+                        },
+                        {
+                            "text": "dravya",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Dravya"
+                        },
+                        {
+                            "text": "prithvi",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta"
+                        },
+                        {
+                            "text": "jala mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Jala_mahabhuta"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "text": "Thus, as the"
+        },
+        {
+            "type": "text",
+            "text": "panchamahabhuta"
+        },
+        {
+            "type": "text",
+            "text": "are key elements of"
+        },
+        {
+            "type": "text",
+            "text": "purusha"
+        },
+        {
+            "type": "text",
+            "text": "and"
+        },
+        {
+            "type": "text",
+            "text": "prakriti"
+        },
+        {
+            "type": "text",
+            "text": ", their subtle forms, tanmatra play important role in designing the fundamental constitution."
+        },
+        {
+            "type": "h2",
+            "text": "Future scope of research",
+            "html": "<h2><span class=\"mw-headline\" id=\"Future_scope_of_research\">Future scope of research</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "text",
+            "text": "The relationship of tanmatra with elements in modern physics needs to be investigated for better understanding."
+        },
+        {
+            "type": "h2",
+            "text": "Related chapters",
+            "html": "<h2><span class=\"mw-headline\" id=\"Related_chapters\">Related chapters</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "ul",
+            "text": "Panchamahabhuta Akasha mahabhuta Vayu mahabhuta Agni mahabhuta Jala mahabhuta Prithvi mahabhuta Indriya",
+            "html": "<ul><li><a class=\"mw-redirect\" href=\"/index.php?title=Panchamahabhuta\" title=\"Panchamahabhuta\">Panchamahabhuta</a></li>\n<li><a href=\"/index.php?title=Akasha_mahabhuta\" title=\"Akasha mahabhuta\">Akasha mahabhuta</a></li>\n<li><a href=\"/index.php?title=Vayu_mahabhuta\" title=\"Vayu mahabhuta\">Vayu mahabhuta</a></li>\n<li><a href=\"/index.php?title=Agni_mahabhuta\" title=\"Agni mahabhuta\">Agni mahabhuta</a></li>\n<li><a href=\"/index.php?title=Jala_mahabhuta\" title=\"Jala mahabhuta\">Jala mahabhuta</a></li>\n<li><a href=\"/index.php?title=Prithvi_mahabhuta\" title=\"Prithvi mahabhuta\">Prithvi mahabhuta</a></li>\n<li><a href=\"/index.php?title=Indriya\" title=\"Indriya\">Indriya</a></li></ul>",
+            "links": [
+                {
+                    "text": "Panchamahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Panchamahabhuta"
+                },
+                {
+                    "text": "Akasha mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta"
+                },
+                {
+                    "text": "Vayu mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta"
+                },
+                {
+                    "text": "Agni mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta"
+                },
+                {
+                    "text": "Jala mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Jala_mahabhuta"
+                },
+                {
+                    "text": "Prithvi mahabhuta",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta"
+                },
+                {
+                    "text": "Indriya",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "Panchamahabhuta",
+                    "links": [
+                        {
+                            "text": "Panchamahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Panchamahabhuta"
+                        }
+                    ]
+                },
+                {
+                    "text": "Akasha mahabhuta",
+                    "links": [
+                        {
+                            "text": "Akasha mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Akasha_mahabhuta"
+                        }
+                    ]
+                },
+                {
+                    "text": "Vayu mahabhuta",
+                    "links": [
+                        {
+                            "text": "Vayu mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Vayu_mahabhuta"
+                        }
+                    ]
+                },
+                {
+                    "text": "Agni mahabhuta",
+                    "links": [
+                        {
+                            "text": "Agni mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Agni_mahabhuta"
+                        }
+                    ]
+                },
+                {
+                    "text": "Jala mahabhuta",
+                    "links": [
+                        {
+                            "text": "Jala mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Jala_mahabhuta"
+                        }
+                    ]
+                },
+                {
+                    "text": "Prithvi mahabhuta",
+                    "links": [
+                        {
+                            "text": "Prithvi mahabhuta",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Prithvi_mahabhuta"
+                        }
+                    ]
+                },
+                {
+                    "text": "Indriya",
+                    "links": [
+                        {
+                            "text": "Indriya",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Indriya"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "text": "Send us your suggestions and feedback on this page.",
+            "html": "<p><big><b><a href=\"/index.php?title=Special:ContactMe\" title=\"Special:ContactMe\">Send us your suggestions and feedback on this page.</a></b></big>\n</p>",
+            "links": [
+                {
+                    "text": "Send us your suggestions and feedback on this page.",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Special:ContactMe"
+                }
+            ],
+            "images": []
+        },
+        {
+            "type": "h2",
+            "text": "References",
+            "html": "<h2><span class=\"mw-headline\" id=\"References\">References</span></h2>",
+            "links": [],
+            "images": [],
+            "level": 2
+        },
+        {
+            "type": "text",
+            "text": "Back to the Top"
+        },
+        {
+            "type": "ol",
+            "text": "↑ Gaudpadabhashya on ShriIshvarkrishnavirachitaSankhyakarika, Verse22 Chaukhamba Sanskrit SerieseOffice,Varanasi, 1953, P.20. ↑ Sir Monnier Williams, Sanskrit English Dictionary, Southern Publication, Madras, 1987, P. 434. ↑ Dalhan, NibandhSangraha commentary on SushrutSamhita,SharirSthana Chapter1,Verse 4,Chaukhamba Orientallia, Varanasi 1997,p. 339. ↑ Gaudpadabhashya on ShriIshvarkrishnavirachitaSankhyakarika,Verse22 Chaukhamba Sanskrit SerieseOffice,Varanasi, 1953. P.4,5. ↑ Chakrapani, Ayurved Dipika Vyakhya on CharakaSamhitaSharirSthan Chapter 1, verse 63, ChaukhambaSurbharati Publication, 1992, P.293. ↑ ShriIshvarkrishna ,Sankhyakarika, verse 38 Chaukhamba Sanskrit SerieseOffice,Varanasi, 1953. P.33. ↑ Dr.V.J. Thakar, AyurvediyaMaulik Siddhant, Gujrat Ayurved University, Jamnagar,1985 P.135. ↑ ShriIshvarkrishna ,Sankhyakarika verse 3 Chaukhamba Sanskrit SerieseOffice,Varanasi, 1953.P4. ↑ Dr.D.L. Chary, A Textbook of Padartha Vijnana Evum Ayurved Itihasa, Chaukhamba Sanskrit Pratishthan,Delhi,2017, P.74. ↑ ShrimatsadanandYogeendra, Vedantsar, Verse 18, Chaukhambha Publishers, Varanasi,1998, P28 ↑ Vd. A. Bhatkar, Padarthvidnyan, Rajni Publisher, Nagpur,2008, P. 44. ↑ Chakrapani, Ayurved Dipika Vyakhya on CharakaSamhitaSharirSthan, Chapter 1 verse 60 ChaukhambaSurbharati Publication, 1992, P.293. ↑ Gaudpadabhashya on ShriIshvarkrishnavirachitaSankhyakarika,Verse3 Chaukhamba Sanskrit SerieseOffice,Varanasi, 1953. P4. ↑ ShrimatsadanandYogeendra, Vedantsar, Verse 28, Chaukhambha Publishers, Varanasi.1998,P.36. ↑ Dr. V.J. Thakar, AyurvediyaMaulik Siddhant, Gujrat Ayurved University, Jamnagar,1985, P.136. ↑ Chakrapani, Ayurved Dipika Vyakhya on CharakaSamhitaSharirSthan 1 verse28 ChaukhambaSurbharati Publication, 1992, P.289. ↑ Dalhan ,NibandhSangrahacommentary on SushrutSamhita,Sharir Sthana,Chapter1,Verse 4,Chaukhamba Orientallia, Varanasi 1997,p 339. ↑ Subhash Kak, Indian Physics Outline of Early history, P.14. https://doi.org/10.48550/arXiv.physics/0310001 [Accessed on 15 Sept 2022.] ↑ https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.385.1265&rep=rep1&type=pdf [Accessed on 15 sep2022] ↑ ibid ↑ Subhash Kak, Indian Physics Outline of Early history, P.30. https://doi.org/10.48550/arXiv.physics/0310001 [Accessed on 15 sep2022] ↑ Sanjeev Rastogi, Building bridges between Ayurveda and Modern Science, Indian journal of Ayurveda Research, Jan-March2010, Vol.I, Issue I, p.43. ↑ R.K Mishra, Before the Beginning and after the Death, New Delhi,2000, P.299. ↑ Exploring Quantum Logic in Ayurveda with special reference to Srotovijnanaof Ayurveda, R.H.Singh Ayu Vol30 No.4 2009",
+            "html": "<ol class=\"references\">\n<li id=\"cite_note-1\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-1\">↑</a></span> <span class=\"reference-text\">Gaudpadabhashya on ShriIshvarkrishnavirachitaSankhyakarika, Verse22 Chaukhamba Sanskrit SerieseOffice,Varanasi, 1953, P.20.</span>\n</li>\n<li id=\"cite_note-2\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-2\">↑</a></span> <span class=\"reference-text\">Sir Monnier Williams, Sanskrit English Dictionary, Southern Publication, Madras, 1987, P. 434.</span>\n</li>\n<li id=\"cite_note-3\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-3\">↑</a></span> <span class=\"reference-text\">Dalhan, NibandhSangraha commentary on SushrutSamhita,SharirSthana Chapter1,Verse 4,Chaukhamba Orientallia, Varanasi 1997,p. 339.</span>\n</li>\n<li id=\"cite_note-4\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-4\">↑</a></span> <span class=\"reference-text\">Gaudpadabhashya on ShriIshvarkrishnavirachitaSankhyakarika,Verse22 Chaukhamba Sanskrit SerieseOffice,Varanasi, 1953. P.4,5.</span>\n</li>\n<li id=\"cite_note-5\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-5\">↑</a></span> <span class=\"reference-text\">Chakrapani, Ayurved Dipika Vyakhya on CharakaSamhitaSharirSthan Chapter 1, verse 63, ChaukhambaSurbharati Publication, 1992, P.293.</span>\n</li>\n<li id=\"cite_note-6\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-6\">↑</a></span> <span class=\"reference-text\">ShriIshvarkrishna ,Sankhyakarika, verse 38 Chaukhamba Sanskrit SerieseOffice,Varanasi, 1953. P.33.</span>\n</li>\n<li id=\"cite_note-7\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-7\">↑</a></span> <span class=\"reference-text\">Dr.V.J. Thakar, AyurvediyaMaulik Siddhant, Gujrat Ayurved University, Jamnagar,1985 P.135.</span>\n</li>\n<li id=\"cite_note-8\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-8\">↑</a></span> <span class=\"reference-text\">ShriIshvarkrishna ,Sankhyakarika verse 3 Chaukhamba Sanskrit SerieseOffice,Varanasi, 1953.P4.</span>\n</li>\n<li id=\"cite_note-9\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-9\">↑</a></span> <span class=\"reference-text\">Dr.D.L. Chary, A Textbook of Padartha Vijnana Evum Ayurved Itihasa, Chaukhamba Sanskrit Pratishthan,Delhi,2017, P.74.</span>\n</li>\n<li id=\"cite_note-10\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-10\">↑</a></span> <span class=\"reference-text\">ShrimatsadanandYogeendra, Vedantsar, Verse 18, Chaukhambha Publishers, Varanasi,1998, P28</span>\n</li>\n<li id=\"cite_note-11\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-11\">↑</a></span> <span class=\"reference-text\">Vd. A. Bhatkar, Padarthvidnyan, Rajni Publisher, Nagpur,2008, P. 44.</span>\n</li>\n<li id=\"cite_note-12\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-12\">↑</a></span> <span class=\"reference-text\">Chakrapani, Ayurved Dipika Vyakhya on CharakaSamhitaSharirSthan, Chapter 1 verse 60 ChaukhambaSurbharati Publication, 1992, P.293.</span>\n</li>\n<li id=\"cite_note-13\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-13\">↑</a></span> <span class=\"reference-text\">Gaudpadabhashya on ShriIshvarkrishnavirachitaSankhyakarika,Verse3 Chaukhamba Sanskrit SerieseOffice,Varanasi, 1953. P4.</span>\n</li>\n<li id=\"cite_note-14\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-14\">↑</a></span> <span class=\"reference-text\">ShrimatsadanandYogeendra, Vedantsar, Verse 28, Chaukhambha Publishers, Varanasi.1998,P.36.</span>\n</li>\n<li id=\"cite_note-15\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-15\">↑</a></span> <span class=\"reference-text\">Dr. V.J. Thakar, AyurvediyaMaulik Siddhant, Gujrat Ayurved University, Jamnagar,1985, P.136.</span>\n</li>\n<li id=\"cite_note-16\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-16\">↑</a></span> <span class=\"reference-text\">Chakrapani, Ayurved Dipika Vyakhya on CharakaSamhitaSharirSthan 1 verse28 ChaukhambaSurbharati Publication, 1992, P.289.</span>\n</li>\n<li id=\"cite_note-17\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-17\">↑</a></span> <span class=\"reference-text\">Dalhan ,NibandhSangrahacommentary on SushrutSamhita,Sharir Sthana,Chapter1,Verse 4,Chaukhamba Orientallia, Varanasi 1997,p  339.</span>\n</li>\n<li id=\"cite_note-18\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-18\">↑</a></span> <span class=\"reference-text\">Subhash Kak, Indian Physics Outline of Early history, P.14. <a class=\"external free\" href=\"https://doi.org/10.48550/arXiv.physics/0310001\" rel=\"nofollow\">https://doi.org/10.48550/arXiv.physics/0310001</a>[Accessed on 15 Sept 2022.]</span>\n</li>\n<li id=\"cite_note-19\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-19\">↑</a></span> <span class=\"reference-text\"><a class=\"external free\" href=\"https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.385.1265&amp;rep=rep1&amp;type=pdf\" rel=\"nofollow\">https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.385.1265&amp;rep=rep1&amp;type=pdf</a> [Accessed on 15 sep2022]</span>\n</li>\n<li id=\"cite_note-20\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-20\">↑</a></span> <span class=\"reference-text\">ibid</span>\n</li>\n<li id=\"cite_note-21\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-21\">↑</a></span> <span class=\"reference-text\">Subhash Kak, Indian Physics Outline of Early history, P.30. <a class=\"external free\" href=\"https://doi.org/10.48550/arXiv.physics/0310001\" rel=\"nofollow\">https://doi.org/10.48550/arXiv.physics/0310001</a>[Accessed on 15 sep2022]</span>\n</li>\n<li id=\"cite_note-22\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-22\">↑</a></span> <span class=\"reference-text\">Sanjeev Rastogi, Building bridges between Ayurveda and Modern Science, Indian journal of Ayurveda Research, Jan-March2010, Vol.I, Issue I, p.43.</span>\n</li>\n<li id=\"cite_note-23\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-23\">↑</a></span> <span class=\"reference-text\">R.K Mishra, Before the Beginning and after the Death, New Delhi,2000, P.299.</span>\n</li>\n<li id=\"cite_note-24\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-24\">↑</a></span> <span class=\"reference-text\">Exploring Quantum Logic in Ayurveda with special reference to Srotovijnanaof Ayurveda, R.H.Singh Ayu Vol30 No.4 2009</span>\n</li>\n</ol>",
+            "links": [
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_ref-1"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_ref-2"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_ref-3"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_ref-4"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_ref-5"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_ref-6"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_ref-7"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_ref-8"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_ref-9"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_ref-10"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_ref-11"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_ref-12"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_ref-13"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_ref-14"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_ref-15"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_ref-16"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_ref-17"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_ref-18"
+                },
+                {
+                    "text": "https://doi.org/10.48550/arXiv.physics/0310001",
+                    "url": "https://doi.org/10.48550/arXiv.physics/0310001"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_ref-19"
+                },
+                {
+                    "text": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.385.1265&rep=rep1&type=pdf",
+                    "url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.385.1265&rep=rep1&type=pdf"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_ref-20"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_ref-21"
+                },
+                {
+                    "text": "https://doi.org/10.48550/arXiv.physics/0310001",
+                    "url": "https://doi.org/10.48550/arXiv.physics/0310001"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_ref-22"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_ref-23"
+                },
+                {
+                    "text": "↑",
+                    "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_ref-24"
+                }
+            ],
+            "images": [],
+            "items": [
+                {
+                    "text": "↑ Gaudpadabhashya on ShriIshvarkrishnavirachitaSankhyakarika, Verse22 Chaukhamba Sanskrit SerieseOffice,Varanasi, 1953, P.20.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_ref-1"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Sir Monnier Williams, Sanskrit English Dictionary, Southern Publication, Madras, 1987, P. 434.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_ref-2"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Dalhan, NibandhSangraha commentary on SushrutSamhita,SharirSthana Chapter1,Verse 4,Chaukhamba Orientallia, Varanasi 1997,p. 339.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_ref-3"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Gaudpadabhashya on ShriIshvarkrishnavirachitaSankhyakarika,Verse22 Chaukhamba Sanskrit SerieseOffice,Varanasi, 1953. P.4,5.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_ref-4"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Chakrapani, Ayurved Dipika Vyakhya on CharakaSamhitaSharirSthan Chapter 1, verse 63, ChaukhambaSurbharati Publication, 1992, P.293.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_ref-5"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ ShriIshvarkrishna ,Sankhyakarika, verse 38 Chaukhamba Sanskrit SerieseOffice,Varanasi, 1953. P.33.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_ref-6"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Dr.V.J. Thakar, AyurvediyaMaulik Siddhant, Gujrat Ayurved University, Jamnagar,1985 P.135.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_ref-7"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ ShriIshvarkrishna ,Sankhyakarika verse 3 Chaukhamba Sanskrit SerieseOffice,Varanasi, 1953.P4.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_ref-8"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Dr.D.L. Chary, A Textbook of Padartha Vijnana Evum Ayurved Itihasa, Chaukhamba Sanskrit Pratishthan,Delhi,2017, P.74.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_ref-9"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ ShrimatsadanandYogeendra, Vedantsar, Verse 18, Chaukhambha Publishers, Varanasi,1998, P28",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_ref-10"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Vd. A. Bhatkar, Padarthvidnyan, Rajni Publisher, Nagpur,2008, P. 44.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_ref-11"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Chakrapani, Ayurved Dipika Vyakhya on CharakaSamhitaSharirSthan, Chapter 1 verse 60 ChaukhambaSurbharati Publication, 1992, P.293.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_ref-12"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Gaudpadabhashya on ShriIshvarkrishnavirachitaSankhyakarika,Verse3 Chaukhamba Sanskrit SerieseOffice,Varanasi, 1953. P4.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_ref-13"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ ShrimatsadanandYogeendra, Vedantsar, Verse 28, Chaukhambha Publishers, Varanasi.1998,P.36.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_ref-14"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Dr. V.J. Thakar, AyurvediyaMaulik Siddhant, Gujrat Ayurved University, Jamnagar,1985, P.136.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_ref-15"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Chakrapani, Ayurved Dipika Vyakhya on CharakaSamhitaSharirSthan 1 verse28 ChaukhambaSurbharati Publication, 1992, P.289.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_ref-16"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Dalhan ,NibandhSangrahacommentary on SushrutSamhita,Sharir Sthana,Chapter1,Verse 4,Chaukhamba Orientallia, Varanasi 1997,p 339.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_ref-17"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Subhash Kak, Indian Physics Outline of Early history, P.14. https://doi.org/10.48550/arXiv.physics/0310001 [Accessed on 15 Sept 2022.]",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_ref-18"
+                        },
+                        {
+                            "text": "https://doi.org/10.48550/arXiv.physics/0310001",
+                            "url": "https://doi.org/10.48550/arXiv.physics/0310001"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.385.1265&rep=rep1&type=pdf [Accessed on 15 sep2022]",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_ref-19"
+                        },
+                        {
+                            "text": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.385.1265&rep=rep1&type=pdf",
+                            "url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.385.1265&rep=rep1&type=pdf"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ ibid",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_ref-20"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Subhash Kak, Indian Physics Outline of Early history, P.30. https://doi.org/10.48550/arXiv.physics/0310001 [Accessed on 15 sep2022]",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_ref-21"
+                        },
+                        {
+                            "text": "https://doi.org/10.48550/arXiv.physics/0310001",
+                            "url": "https://doi.org/10.48550/arXiv.physics/0310001"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Sanjeev Rastogi, Building bridges between Ayurveda and Modern Science, Indian journal of Ayurveda Research, Jan-March2010, Vol.I, Issue I, p.43.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_ref-22"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ R.K Mishra, Before the Beginning and after the Death, New Delhi,2000, P.299.",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_ref-23"
+                        }
+                    ]
+                },
+                {
+                    "text": "↑ Exploring Quantum Logic in Ayurveda with special reference to Srotovijnanaof Ayurveda, R.H.Singh Ayu Vol30 No.4 2009",
+                    "links": [
+                        {
+                            "text": "↑",
+                            "url": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra#cite_ref-24"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "text": "NewPP limit report\nCached time: 20261118182518\nCache expiry: 86400\nReduced expiry: false\nComplications: [vary‐revision‐id, show‐toc]\nCPU time usage: 0.077 seconds\nReal time usage: 0.155 seconds\nPreprocessor visited node count: 912/1000000\nPost‐expand include size: 2827/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 6/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 3765/5000000 bytes\nLua time usage: 0.060/7 seconds\nLua virtual size: 20471808/209715200 bytes\nLua estimated memory usage: 0 bytes"
+        },
+        {
+            "type": "text",
+            "text": "Transclusion expansion time report (%,ms,calls,template)\n100.00% 109.897 1 -total\n95.15% 104.566 1 Template:Infobox\n3.02% 3.314 1 Template:DoiWithLink\n1.61% 1.767 1 Template:CiteButton"
+        },
+        {
+            "type": "text",
+            "text": "Saved in parser cache with key carakas1_carakasa:pcache:idhash:3912-0!canonical and timestamp 20261118182518 and revision id 44604. Rendering was triggered because: diff-page"
+        },
+        {
+            "type": "text",
+            "text": "Retrieved from \""
+        },
+        {
+            "type": "text",
+            "text": "https://www.carakasamhitaonline.com/index.php?title=Tanmatra&oldid=44604"
+        },
+        {
+            "type": "text",
+            "text": "\""
+        }
+    ],
+    "html_sha256": "2949be1b993200fc914f78f4a34e4f77007866697b3a762af3f870a8202c3d2f"
+}
